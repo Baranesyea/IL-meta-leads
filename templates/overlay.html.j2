@@ -1,38 +1,126 @@
 <!doctype html>
 <html lang="he" dir="rtl"><head><meta charset="utf-8">
-{% for f in fonts %}{% if f.google and not f.file %}<link href="https://fonts.googleapis.com/css2?family={{ f.family|replace(' ', '+') }}:wght@{{ f.weight }}&display=swap" rel="stylesheet">{% endif %}{% endfor %}
 <style>
-  {% for f in fonts %}{% if f.file %}@font-face{font-family:'{{ f.family }}';src:url('{{ f.file_uri }}');font-weight:{{ f.weight }};}{% endif %}{% endfor %}
+  @font-face{font-family:'OptL';src:url('{{ fonts.light }}')}
+  @font-face{font-family:'OptR';src:url('{{ fonts.regular }}')}
+  @font-face{font-family:'OptB';src:url('{{ fonts.black }}')}
+  @font-face{font-family:'Script';src:url('{{ fonts.script }}')}
+  :root{--ink:{{ ink }};--paper:{{ paper }};--accent:{{ accent }}}
   html,body{margin:0;padding:0}
-  .ad{position:relative;width:{{w}}px;height:{{h}}px;overflow:hidden;background:#000}
-  .ad img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-  {% set x0,y0,x1,y1 = box %}
-  {% set is_top = y0 < h/2 %}
-  /* soft local shade only behind the text zone, never over the whole image */
-  .shade{position:absolute;left:0;right:0;{% if is_top %}top:0;height:{{ y1 + 60 }}px;{% else %}bottom:0;height:{{ h - y0 + 60 }}px;{% endif %}
-    background:linear-gradient({{ 'to bottom' if is_top else 'to top' }}, {{ 'rgba(0,0,0,.42)' if dark_bg else 'rgba(255,250,242,.50)' }}, transparent)}
-  {% if st.band %}.shade{display:none}
-  .band{position:absolute;left:0;right:0;bottom:0;height:{{ (h*0.2)|int }}px;background:{{ 'rgba(12,10,8,.82)' if dark_bg else 'rgba(250,246,238,.9)' }};backdrop-filter:blur(6px)}{% endif %}
-  .copy{position:absolute;
-    {% if st.band %}left:80px;right:80px;bottom:0;height:{{ (h*0.2)|int }}px;display:flex;flex-direction:column;justify-content:center;
-    {% else %}left:{{x0}}px;top:{{y0}}px;width:{{x1-x0}}px;height:{{y1-y0}}px;display:flex;flex-direction:column;justify-content:{{ 'flex-start' if is_top else 'flex-end' }};{% endif %}
-    text-align:{{ 'right' if st.align=='start' else 'center' }};color:{{color}}}
-  .h{text-wrap:balance;font-family:'{{ hf.family }}',serif;font-weight:{{ hf.weight }};font-size:{{size}}px;line-height:{{ 0.98 if style=='bigtype' else 1.12 }};letter-spacing:{{ '-1px' if style=='bigtype' else '0' }}}
-  .rule{width:64px;height:2px;background:{{color}};opacity:.7;margin:{{ '22px 0 0 auto' if st.align=='start' else '22px auto 0' }}}
-  .sub{font-family:'{{ sf.family }}',sans-serif;font-weight:{{ sf.weight }};font-size:{{ st.sub }}px;letter-spacing:1.5px;margin-top:18px;opacity:.88}
-  .frame{position:absolute;inset:36px;border:1.5px solid {{ 'rgba(244,236,223,.75)' if dark_bg else 'rgba(35,26,18,.55)' }};pointer-events:none}
-  .brand{position:absolute;left:0;right:0;{{ 'bottom' if (is_top and not st.band) else 'top' }}:{{ 70 if st.frame else 60 }}px;text-align:center;
-    color:{{ '#f4ecdf' if brand_dark or st.band else '#2a2018' }};text-shadow:{{ '0 1px 10px rgba(0,0,0,.5)' if brand_dark else 'none' }};font-family:'{{ bf.family }}',serif;font-weight:{{ bf.weight }};font-size:24px;letter-spacing:1px;opacity:.85}
+  *{box-sizing:border-box}
+  .ad{position:relative;width:{{w}}px;height:{{h}}px;overflow:hidden;background:var(--paper);color:var(--ink)}
+  .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{{ obj_pos }}}
+  .L{font-family:'OptL'} .R{font-family:'OptR'} .B{font-family:'OptB'} .S{font-family:'Script'}
+  .zone{position:absolute;left:{{box[0]}}px;top:{{box[1]}}px;width:{{box[2]-box[0]}}px;height:{{box[3]-box[1]}}px;
+        display:flex;flex-direction:column;justify-content:{{ 'flex-start' if top else 'flex-end' }}}
+  .fit{white-space:nowrap}
+  .brand{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:54px;text-align:center;font-family:'OptR';font-size:22px;letter-spacing:3px;
+         color:{{ brand_color }};opacity:.9}
+  .scrim{position:absolute;left:0;right:0;{% if top %}top:0;height:{{ box[3]+80 }}px{% else %}bottom:0;height:{{ h-box[1]+80 }}px{% endif %};
+         background:linear-gradient({{ 'to bottom' if top else 'to top' }}, {{ scrim }}, transparent)}
+
+  /* 1 contrast — Black keyword line vs. Light line, aligned to the text start */
+  .contrast .l1{font-family:'OptB';font-size:112px;line-height:.95;letter-spacing:-1px}
+  .contrast .l2{font-family:'OptL';font-size:62px;line-height:1.1;margin-top:10px}
+  .contrast .sub{font-family:'OptR';font-size:24px;letter-spacing:2px;margin-top:26px;opacity:.85}
+  .contrast .zone{text-align:right}
+
+  /* 2 quiet — perfume-ad restraint: small Light text, wide air, handwritten signature */
+  .quiet .zone{text-align:center;align-items:center}
+  .quiet .hl{font-family:'OptL';font-size:44px;line-height:1.35;letter-spacing:1px}
+  .quiet .sig{font-family:'Script';font-size:120px;margin-top:6px;line-height:1}
+  .quiet .sub{font-family:'OptR';font-size:20px;letter-spacing:3px;margin-top:14px;opacity:.8}
+
+  /* 3 stack — oversized Black stacked headline, tight leading */
+  .stack .zone{text-align:right}
+  .stack .l{font-family:'OptB';font-size:170px;line-height:.9;letter-spacing:-2px}
+  .stack .l.light{font-family:'OptL'}
+  .stack .sub{font-family:'OptR';font-size:26px;letter-spacing:2px;margin-top:22px}
+
+  /* 4 note — designer's handwritten note + small product line */
+  .note .zone{text-align:right}
+  .note .hand{font-family:'Script';font-size:112px;line-height:1.05}
+  .note .rule{width:90px;height:1.5px;background:var(--ink);opacity:.6;margin:22px 0 16px auto}
+  .note .sub{font-family:'OptR';font-size:22px;letter-spacing:2px}
+  .note .hl{font-family:'OptL';font-size:34px;margin-top:6px}
+
+  /* 5 cover — thin frame, magazine masthead feel */
+  .cover .frame{position:absolute;inset:34px;border:1.5px solid var(--ink);opacity:.55}
+  .cover .mast{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:64px;text-align:center;font-family:'OptB';font-size:30px;letter-spacing:6px;color:var(--ink)}
+  .cover .zone{text-align:center;align-items:center}
+  .cover .hl{font-family:'OptL';font-size:70px;line-height:1.08}
+  .cover .sub{font-family:'OptB';font-size:22px;letter-spacing:3px;margin-top:22px}
+  .cover .brand{display:none}
+
+  /* 6 panel — solid colour panel beside/below the photo: text never touches the product */
+  .panel .photo{ {% if panel_side == 'bottom' %}height:{{ (h*0.68)|int }}px{% else %}width:{{ (w*0.6)|int }}px;left:{{ 0 if panel_side=='right' else (w*0.4)|int }}px{% endif %} }
+  .panel .pnl{position:absolute;background:var(--paper);display:flex;flex-direction:column;justify-content:center;padding:0 64px;text-align:right;
+    {% if panel_side == 'bottom' %}left:0;right:0;bottom:0;height:{{ (h*0.32)|int }}px{% else %}top:0;bottom:0;width:{{ (w*0.4)|int }}px;{{ panel_side }}:0{% endif %}}
+  .panel .hl{font-family:'OptB';font-size:58px;line-height:1.05}
+  .panel .l2{font-family:'OptL'}
+  .panel .sub{font-family:'OptR';font-size:22px;letter-spacing:2px;margin-top:22px;opacity:.85}
+  .panel .sig{font-family:'Script';font-size:104px;margin-top:10px;line-height:1}
+  .panel .brand{ {% if panel_side=='bottom' %}top:40px;bottom:auto;color:#fff;text-shadow:0 1px 10px rgba(0,0,0,.45){% else %}top:auto;bottom:48px;{{ 'left' if panel_side=='right' else 'right' }}:auto;{{ panel_side }}:0;width:{{ (w*0.4)|int }}px;color:var(--ink){% endif %} }
+
+  /* 7 label — museum label: small Regular headline, hairline, detail list */
+  .label .zone{text-align:right}
+  .label .card{display:inline-block;align-self:flex-{{ 'start' }};max-width:520px}
+  .label .hl{font-family:'OptR';font-size:46px;line-height:1.15}
+  .label .rule{width:100%;height:1px;background:var(--ink);opacity:.5;margin:20px 0}
+  .label .sub{font-family:'OptL';font-size:24px;line-height:1.6;letter-spacing:1px}
 </style></head>
-<body><div class="ad">
-  <img src="{{img}}">
-  <div class="shade"></div>
-  {% if st.band %}<div class="band"></div>{% endif %}
-  {% if st.frame %}<div class="frame"></div>{% endif %}
-  <div class="copy">
-    <div class="h">{{headline|safe}}</div>
-    {% if st.rule %}<div class="rule"></div>{% endif %}
-    {% if sub %}<div class="sub">{{sub}}</div>{% endif %}
-  </div>
-  {% if brand %}<div class="brand">{{brand}}</div>{% endif %}
-</div></body></html>
+<body><div class="ad {{ direction }}">
+  <img class="photo" src="{{ img }}">
+  {% set lines = headline.split('<br>') %}
+  {% if direction == 'panel' %}
+    <div class="pnl">
+      <div class="hl fitw">{{ lines[0] }}{% if lines|length > 1 %}<br><span class="l2">{{ lines[1:]|join(' ') }}</span>{% endif %}</div>
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+      {% if signature %}<div class="sig">{{ signature }}</div>{% endif %}
+    </div>
+  {% else %}
+    {% if scrim_on %}<div class="scrim"></div>{% endif %}
+    {% if direction == 'cover' %}<div class="frame"></div><div class="mast">{{ brand }}</div>{% endif %}
+    <div class="zone">
+    {% if direction == 'contrast' %}
+      <div class="l1 fit">{{ lines[0] }}</div>{% if lines|length > 1 %}<div class="l2 fit">{{ lines[1:]|join(' ') }}</div>{% endif %}
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+    {% elif direction == 'quiet' %}
+      <div class="hl">{{ headline|safe }}</div>
+      {% if signature %}<div class="sig">{{ signature }}</div>{% endif %}
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+    {% elif direction == 'stack' %}
+      {% for ln in lines %}<div class="l fit {{ 'light' if loop.index == 2 else '' }}">{{ ln }}</div>{% endfor %}
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+    {% elif direction == 'note' %}
+      <div class="hand">{{ (note or headline)|safe }}</div>
+      <div class="rule"></div>
+      {% if note %}<div class="hl">{{ headline.replace('<br>', ' ') }}</div>{% endif %}
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+    {% elif direction == 'cover' %}
+      <div class="hl">{{ headline|safe }}</div>
+      {% if sub %}<div class="sub">{{ sub }}</div>{% endif %}
+    {% elif direction == 'label' %}
+      <div class="card"><div class="hl">{{ headline|safe }}</div><div class="rule"></div>
+      {% if sub %}<div class="sub">{{ sub.replace(' · ', '<br>')|safe }}</div>{% endif %}</div>
+    {% endif %}
+    </div>
+  {% endif %}
+  {% if brand and direction != 'cover' %}<div class="brand">{{ brand }}</div>{% endif %}
+</div>
+<script>
+  // shrink single-line headline pieces until they fit their box width
+  document.fonts.ready.then(() => {
+    for (const el of document.querySelectorAll('.fit, .fitw')) {
+      const box = el.closest('.zone, .pnl');
+      if (!box) continue;
+      const max = box.clientWidth;
+      let size = parseFloat(getComputedStyle(el).fontSize);
+      el.style.display = 'inline-block';
+      while (el.scrollWidth > max && size > 18) { size -= 2; el.style.fontSize = size + 'px'; }
+      el.style.display = '';
+    }
+    document.body.dataset.ready = '1';
+  });
+</script>
+</body></html>

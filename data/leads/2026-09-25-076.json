@@ -1749,13 +1749,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "quiet"
       },
       "to_verify": [],
       "image": "ads/ad_01.png",
       "image_raw": "ads_raw/ad_01.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_a27672be-0c52-4b54-ad70-b356f2a179c3.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+      "has_people": true
     },
     {
       "ad_no": 2,
@@ -1776,13 +1779,16 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
-        "rendered_zone": "top_right"
+        "rendered_zone": "bottom",
+        "rendered_direction": "panel"
       },
       "to_verify": [],
       "image": "ads/ad_02.png",
       "image_raw": "ads_raw/ad_02.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144126_c3126729-f543-4002-8c6e-34ae4098cccb.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+      "has_people": false
     },
     {
       "ad_no": 3,
@@ -1803,7 +1809,8 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "stack"
       },
       "to_verify": [
         "שהיא יוצקת ומשבצת בעצמה"
@@ -1811,7 +1818,9 @@
       "image": "ads/ad_03.png",
       "image_raw": "ads_raw/ad_03.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_6bdcce7c-4c26-4686-bbed-fdd2b4d4f8e9.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+      "has_people": false
     },
     {
       "ad_no": 4,
@@ -1832,13 +1841,16 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "column",
-        "rendered_zone": "left_col"
+        "rendered_zone": "top_left",
+        "rendered_direction": "note"
       },
       "to_verify": [],
       "image": "ads/ad_04.png",
       "image_raw": "ads_raw/ad_04.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_795b7063-ed72-43e6-b06a-89a6f3271a62.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+      "has_people": false
     },
     {
       "ad_no": 5,
@@ -1859,13 +1871,16 @@
         "color": "#34261a",
         "shade": "rgba(245,225,195,.35)",
         "rendered_style": "corner",
-        "rendered_zone": "top_left"
+        "rendered_zone": "top_left",
+        "rendered_direction": "note"
       },
       "to_verify": [],
       "image": "ads/ad_05.png",
       "image_raw": "ads_raw/ad_05.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142452_9b83e665-9cf7-4b04-a8f2-2a1108b32f57.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "שאלות על יהלומי מעבדה? תשאלי אותי.",
+      "has_people": false
     },
     {
       "ad_no": 6,
@@ -1886,13 +1901,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
-        "rendered_zone": "right_col"
+        "rendered_zone": "bottom",
+        "rendered_direction": "panel"
       },
       "to_verify": [],
       "image": "ads/ad_06.png",
       "image_raw": "ads_raw/ad_06.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144128_4f3f1637-a0ca-467c-b18b-c78d5400c7bd.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+      "has_people": true
     },
     {
       "ad_no": 7,
@@ -1913,13 +1931,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
-        "rendered_zone": "top"
+        "rendered_zone": "top_right",
+        "rendered_direction": "label"
       },
       "to_verify": [],
       "image": "ads/ad_07.png",
       "image_raw": "ads_raw/ad_07.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_2109efa6-89b0-4410-9495-039335149030.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+      "has_people": false
     },
     {
       "ad_no": 8,
@@ -1940,13 +1961,16 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
-        "rendered_zone": "top_left"
+        "rendered_zone": "bottom",
+        "rendered_direction": "panel"
       },
       "to_verify": [],
       "image": "ads/ad_08.png",
       "image_raw": "ads_raw/ad_08.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_6551fc41-9c7e-43ce-9ff6-b0c219b45755.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+      "has_people": true
     },
     {
       "ad_no": 9,
@@ -1967,13 +1991,16 @@
         "color": "#352c22",
         "shade": "rgba(240,232,220,.6)",
         "rendered_style": "column",
-        "rendered_zone": "right_col"
+        "rendered_zone": "bottom",
+        "rendered_direction": "quiet"
       },
       "to_verify": [],
       "image": "ads/ad_09.png",
       "image_raw": "ads_raw/ad_09.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142450_d3a23c42-154c-4c8a-8bd1-0acc16d9fd87.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "צריך עזרה בבחירה? אני פה.",
+      "has_people": false
     },
     {
       "ad_no": 10,
@@ -1994,13 +2021,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
-        "rendered_zone": "top"
+        "rendered_zone": "bottom",
+        "rendered_direction": "panel"
       },
       "to_verify": [],
       "image": "ads/ad_10.png",
       "image_raw": "ads_raw/ad_10.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_2a3f0dbc-f9ff-435c-afff-d0ec4a3b5db2.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "צריך עזרה בבחירה? אני פה.",
+      "has_people": true
     },
     {
       "ad_no": 11,
@@ -2021,13 +2051,16 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "frame",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "stack"
       },
       "to_verify": [],
       "image": "ads/ad_11.png",
       "image_raw": "ads_raw/ad_11.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_0285c1c1-4821-4e1f-aadc-d02f95f124d6.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "צריך עזרה בבחירה? אני פה.",
+      "has_people": false
     },
     {
       "ad_no": 12,
@@ -2048,13 +2081,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "corner",
-        "rendered_zone": "top_right"
+        "rendered_zone": "top",
+        "rendered_direction": "note"
       },
       "to_verify": [],
       "image": "ads/ad_12.png",
       "image_raw": "ads_raw/ad_12.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_45385a12-0d1f-468f-a2ab-98a2e6f1c242.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "צריך עזרה בבחירה? אני פה.",
+      "has_people": true
     },
     {
       "ad_no": 13,
@@ -2075,13 +2111,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
-        "rendered_zone": "left_col"
+        "rendered_zone": "top",
+        "rendered_direction": "cover"
       },
       "to_verify": [],
       "image": "ads/ad_13.png",
       "image_raw": "ads_raw/ad_13.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142451_a05444af-5157-42a0-aa84-f0df6cc47e1f.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "הטבע הוא ההשראה שלי.",
+      "has_people": false
     },
     {
       "ad_no": 14,
@@ -2102,13 +2141,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "frame",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "quiet"
       },
       "to_verify": [],
       "image": "ads/ad_14.png",
       "image_raw": "ads_raw/ad_14.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144523_0e48ab4c-ee3d-4e4d-ac48-6eff069ac97e.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "הטבע הוא ההשראה שלי.",
+      "has_people": true
     },
     {
       "ad_no": 15,
@@ -2129,13 +2171,16 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
-        "rendered_zone": "top"
+        "rendered_zone": "top_right",
+        "rendered_direction": "contrast"
       },
       "to_verify": [],
       "image": "ads/ad_15.png",
       "image_raw": "ads_raw/ad_15.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144159_a5846f72-ec9b-4bf4-8ae4-410ea6f99d69.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "הטבע הוא ההשראה שלי.",
+      "has_people": false
     },
     {
       "ad_no": 16,
@@ -2156,13 +2201,16 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
-        "rendered_zone": "top_right"
+        "rendered_zone": "top",
+        "rendered_direction": "stack"
       },
       "to_verify": [],
       "image": "ads/ad_16.png",
       "image_raw": "ads_raw/ad_16.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_ec51909f-6df8-4082-ac51-53482b9f4c74.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "הטבע הוא ההשראה שלי.",
+      "has_people": false
     },
     {
       "ad_no": 17,
@@ -2183,7 +2231,8 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "frame",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "stack"
       },
       "to_verify": [
         "אילו דגמים זמינים בהחלפת אבן"
@@ -2191,7 +2240,9 @@
       "image": "ads/ad_17.png",
       "image_raw": "ads_raw/ad_17.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144159_bd8360c0-9e93-44b9-87ab-8ae757b67309.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "ספרי לי מה את מדמיינת.",
+      "has_people": false
     },
     {
       "ad_no": 18,
@@ -2212,13 +2263,17 @@
         "color": "#2e2419",
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
-        "rendered_zone": "top_right"
+        "rendered_zone": "bottom",
+        "rendered_direction": "panel",
+        "direction": "panel"
       },
       "to_verify": [],
       "image": "ads/ad_18.png",
       "image_raw": "ads_raw/ad_18.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_6e1c6f01-a579-4356-bc2a-7f87c0b0af51.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "ספרי לי מה את מדמיינת.",
+      "has_people": true
     },
     {
       "ad_no": 19,
@@ -2239,7 +2294,8 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
-        "rendered_zone": "top"
+        "rendered_zone": "top",
+        "rendered_direction": "note"
       },
       "to_verify": [
         "התאמת אבן לכל תכשיט באתר"
@@ -2247,7 +2303,9 @@
       "image": "ads/ad_19.png",
       "image_raw": "ads_raw/ad_19.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_f469eadf-a4b3-49c4-a95a-567fb64c18e0.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "ספרי לי מה את מדמיינת.",
+      "has_people": false
     },
     {
       "ad_no": 20,
@@ -2268,7 +2326,8 @@
         "color": "#f1e6d0",
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
-        "rendered_zone": "right_col"
+        "rendered_zone": "top_right",
+        "rendered_direction": "label"
       },
       "to_verify": [
         "עגילים אלה זמינים באמרלד/רובי"
@@ -2276,7 +2335,9 @@
       "image": "ads/ad_20.png",
       "image_raw": "ads_raw/ad_20.png",
       "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_a5cba0e9-127b-4d9b-86e9-67abc06a212f.png",
-      "model": "higgsfield/nano_banana_pro 2k"
+      "model": "higgsfield/nano_banana_pro 2k",
+      "note": "ספרי לי מה את מדמיינת.",
+      "has_people": true
     }
   ],
   "outreach": {

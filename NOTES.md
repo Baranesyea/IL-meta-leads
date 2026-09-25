@@ -75,3 +75,15 @@
   get 4 different layouts. `find_zone()` scores candidate zones by edge density + luminance variance on
   the actual image and places text in the emptiest one; full-width layouts only where the band is empty
   (score ≤ BUSY), else a small corner/column. Text + brand colour follow local brightness.
+
+## 2026-09-25 — Eran's fonts + design directions
+
+- Fonts in `assets/fonts/`: FbOptimum Light/Regular/Black (all ad typography, weight contrast),
+  FbIdealist (handwriting — designer signature / short personal note only). Set in `config.yaml → overlay.fonts`.
+  Fonts are Hebrew-only; Latin (14K) falls back — fine for now.
+- Eran: "several directions per delivery, not one template with different photos". `src/overlay.py` now has
+  7 directions: contrast, quiet (+signature), stack, note (handwritten), cover (frame+masthead),
+  panel (bottom colour panel, never touches the product), label (museum label).
+  Each angle gets 4 different directions; panels capped at 4–5 per lead; `has_people` on an ad enables a
+  skin-tone penalty so text avoids faces/necks/hands; `layout.direction` forces a direction per ad.
+- Idealist must be ≥100px to read. Keep handwritten notes short (≤ 5 words).

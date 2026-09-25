@@ -235,8 +235,11 @@ image:
   max_retries_per_ad: 2
 
 overlay:
-  # Headline font on the ad images. Eran will pick the final font.
-  # Either a Google Fonts family, or a file in assets/fonts/ (then set `file`).
-  headline_font: {family: "Frank Ruhl Libre", weight: 300, google: true, file: null}
-  sub_font: {family: "Heebo", weight: 300, google: true, file: null}
-  brand_font: {family: "Frank Ruhl Libre", weight: 500, google: true, file: null}
+  # Eran's fonts (assets/fonts). Optimum = all ad typography (3 weights for contrast play);
+  # Idealist = handwriting: designer signature / short personal note only.
+  fonts:
+    light:   FbOptimum-Light.otf
+    regular: FbOptimum-Regular.otf
+    black:   FbOptimum-Black.otf
+    script:  FbIdealist-Regular.otf
+  default_signature: ""       # per lead: business owner's first name, e.g. "סתיו"

@@ -149,7 +149,8 @@
       <div class="ad">
         <img loading="lazy" src="{{ inline(lead.lead_id ~ '/' ~ ad.image, 700) }}" alt="">
         <div class="body">
-          <div class="muted">מודעה {{ ad.ad_no }} · {{ ad.format }} · {{ ad.cta }}</div>
+          {% set dnames = {"contrast":"ניגודיות משקלים","quiet":"שקט יוקרתי","stack":"כותרת ענק","note":"פתק בכתב יד","cover":"שער מגזין","panel":"פאנל צבע","label":"תווית מוזיאון"} %}
+          <div class="muted">מודעה {{ ad.ad_no }} · {{ ad.format }} · {{ ad.cta }}{% if ad.layout and ad.layout.rendered_direction %} · כיוון: {{ dnames.get(ad.layout.rendered_direction, ad.layout.rendered_direction) }}{% endif %}</div>
           <div><strong>{{ ad.headline }}</strong></div>
           <div class="muted">{{ ad.description }}</div>
           <div class="full">{{ ad.primary_text }}</div>
