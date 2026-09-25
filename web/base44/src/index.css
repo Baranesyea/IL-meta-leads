@@ -1,0 +1,43 @@
+/* Brand fonts — Eran's Optimum (300/400/900) + Idealist handwriting, served from /public/fonts */
+@font-face{font-family:"Optimum";src:url("/fonts/FbOptimum-Light.woff2") format("woff2");font-weight:300;font-display:swap}
+@font-face{font-family:"Optimum";src:url("/fonts/FbOptimum-Regular.woff2") format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Optimum";src:url("/fonts/FbOptimum-Black.woff2") format("woff2");font-weight:900;font-display:swap}
+@font-face{font-family:"Idealist";src:url("/fonts/FbIdealist-Regular.woff2") format("woff2");font-weight:400;font-display:swap}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 38% 93%;
+    --foreground: 28 26% 8%;
+    --card: 40 45% 97%;
+    --card-foreground: 28 26% 8%;
+    --popover: 40 45% 97%;
+    --popover-foreground: 28 26% 8%;
+    --primary: 37 41% 49%;
+    --primary-foreground: 40 45% 97%;
+    --secondary: 36 25% 86%;
+    --secondary-foreground: 28 26% 8%;
+    --muted: 36 25% 86%;
+    --muted-foreground: 28 9% 38%;
+    --accent: 36 25% 86%;
+    --accent-foreground: 28 26% 8%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 40 45% 97%;
+    --border: 36 22% 80%;
+    --input: 36 22% 80%;
+    --ring: 37 41% 49%;
+    --radius: 0rem;
+    --font-heading: 'Optimum', Georgia, serif;
+    --font-body: 'Optimum', Georgia, serif;
+    --font-display: 'Optimum', Georgia, serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+}
+
+@layer base {
+  * { @apply border-border outline-ring/50; }
+  html { direction: rtl; }
+  body { @apply bg-background text-foreground; font-family: 'Optimum', Georgia, serif; }
+}

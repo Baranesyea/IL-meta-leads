@@ -246,13 +246,15 @@ def render(jobs: list[dict]) -> list[str]:
             # brand line colour from the strip where it sits
             by = int(h * 0.9) if top else int(h * 0.03)
             brand_dark = ImageStat.Stat(canvas.convert("L").crop((w // 3, by, 2 * w // 3, by + int(h * .06)))).mean[0] < 140
-            html = env.get_template("overlay.html.j2").render(
-                w=w, h=h, img=Path(j["img"]).resolve().as_uri(), fonts=fonts, direction=direction,
+            params = dict(w=w, h=h, direction=direction,
                 headline=j["headline"], sub=j.get("sub"), note=j.get("note"), signature=j.get("signature"),
                 brand=j.get("brand", ""), box=box, top=top, ink=ink, paper=paper, accent=ink,
                 scrim_on=True, scrim="rgba(0,0,0,.32)" if dark else "rgba(255,250,242,.42)",
                 brand_color="#f4ecdf" if brand_dark else "#231a12",
                 obj_pos=obj_pos, panel_side=panel_side, plate=plate)
+            j["params"] = {k: v for k, v in params.items()}          # exported for web rendering
+            html = env.get_template("overlay.html.j2").render(img=Path(j["img"]).resolve().as_uri(),
+                                                              fonts=fonts, **params)
             tmp = Path(j["out"]).with_suffix(".html")
             Path(j["out"]).parent.mkdir(parents=True, exist_ok=True)
             tmp.write_text(html, encoding="utf-8")
@@ -300,5 +302,6 @@ def render_lead(lead: dict) -> list[str]:
         ads.append(ad)
     outs = render(jobs)
     for ad, j in zip(ads, jobs):
-        ad.setdefault("layout", {}).update(rendered_direction=j["direction"], rendered_zone=j["zone"])
+        ad.setdefault("layout", {}).update(rendered_direction=j["direction"], rendered_zone=j["zone"],
+                                           render=j.get("params"))
     return outs

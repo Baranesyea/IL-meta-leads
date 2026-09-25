@@ -1750,7 +1750,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
         "rendered_zone": "top_left",
-        "rendered_direction": "contrast"
+        "rendered_direction": "contrast",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "לא מפעל.<br>סטודיו בשינקין.",
+          "sub": "עבודת יד · זהב 14K",
+          "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            64,
+            67,
+            648,
+            371
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(1,1,1)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_01.png",
@@ -1788,7 +1814,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
         "rendered_zone": "top",
-        "rendered_direction": "quiet"
+        "rendered_direction": "quiet",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "quiet",
+          "headline": "מהסקיצה שלי,<br>לצוואר שלך.",
+          "sub": "סתיו דוידוביץ' · מעצבת תכשיטים",
+          "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            54,
+            993,
+            189
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(237,234,231)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": true
+        }
       },
       "to_verify": [],
       "image": "ads/ad_02.png",
@@ -1826,7 +1878,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "panel",
+          "headline": "כל תכשיט<br>עובר בידיים שלי.",
+          "sub": "סקיצה · יציקה · שיבוץ",
+          "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1920
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(6,4,4)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "51% 70%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [
         "שהיא יוצקת ומשבצת בעצמה"
@@ -1866,7 +1944,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "column",
         "rendered_zone": "top",
-        "rendered_direction": "stack"
+        "rendered_direction": "stack",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "תכשיט הוא זיכרון<br>שנושאים כל יום.",
+          "sub": "",
+          "note": "כל תכשיט מתחיל אצלי בסקיצה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            67,
+            993,
+            526
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(242,238,232)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_04.png",
@@ -1904,7 +2008,33 @@
         "shade": "rgba(245,225,195,.35)",
         "rendered_style": "corner",
         "rendered_zone": "top_left",
-        "rendered_direction": "note"
+        "rendered_direction": "note",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "note",
+          "headline": "אותו יהלום.<br>בלי המכרה.",
+          "sub": "יהלום מעבדה · 1.50 קראט · זהב 14K",
+          "note": "שאלות על יהלומי מעבדה? תשאלי אותי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            64,
+            67,
+            648,
+            438
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(213,196,181)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_05.png",
@@ -1942,7 +2072,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "panel",
+          "headline": "1.50 קראט<br>שרואים מכל החדר.",
+          "sub": "",
+          "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1350
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(0,6,7)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "39% 47%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_06.png",
@@ -1980,7 +2136,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "panel",
+          "headline": "זה לא זכוכית.<br>זה יהלום.",
+          "sub": "",
+          "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1080
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(0,0,0)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "49% 59%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_07.png",
@@ -2018,7 +2200,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "panel",
+          "headline": "יהלום אמיתי.<br>1,500 ש״ח.",
+          "sub": "יהלום מעבדה · זהב 14K",
+          "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1920
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(64,41,29)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#231a12",
+          "obj_pos": "53% 56%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_08.png",
@@ -2056,7 +2264,33 @@
         "shade": "rgba(240,232,220,.6)",
         "rendered_style": "column",
         "rendered_zone": "top",
-        "rendered_direction": "quiet"
+        "rendered_direction": "quiet",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "היא תזכור<br>מי נתן לה את זה.",
+          "sub": "עגילי ספיר ויהלום · זהב 14K",
+          "note": "צריך עזרה בבחירה? אני פה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            67,
+            993,
+            371
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(58,49,41)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": true
+        }
       },
       "to_verify": [],
       "image": "ads/ad_09.png",
@@ -2094,7 +2328,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "bigtype",
         "rendered_zone": "top",
-        "rendered_direction": "stack"
+        "rendered_direction": "stack",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "שתדע<br>שחשבת עליה באמת.",
+          "sub": "",
+          "note": "צריך עזרה בבחירה? אני פה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            67,
+            993,
+            263
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(0,0,0)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_10.png",
@@ -2132,7 +2392,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "frame",
         "rendered_zone": "top_right",
-        "rendered_direction": "note"
+        "rendered_direction": "note",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "note",
+          "headline": "פרחים נובלים.<br>זהב נשאר.",
+          "sub": "",
+          "note": "צריך עזרה בבחירה? אני פה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            432,
+            54,
+            1015,
+            296
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(50,42,36)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_11.png",
@@ -2170,7 +2456,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "corner",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "panel",
+          "headline": "המתנה<br>שהיא תענוד כל יום.",
+          "sub": "",
+          "note": "צריך עזרה בבחירה? אני פה.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1920
+          ],
+          "top": true,
+          "ink": "#231a12",
+          "paper": "rgb(232,215,201)",
+          "accent": "#231a12",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#231a12",
+          "obj_pos": "47% 52%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_12.png",
@@ -2208,7 +2520,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
         "rendered_zone": "top",
-        "rendered_direction": "cover"
+        "rendered_direction": "cover",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "טבע.<br>יצוק בזהב 14K.",
+          "sub": "אמרלד טבעי · עבודת יד",
+          "note": "הטבע הוא ההשראה שלי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            67,
+            993,
+            263
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(1,4,4)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_13.png",
@@ -2246,7 +2584,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "frame",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "panel",
+          "headline": "תכשיט<br>שעוצרים עליו ברחוב.",
+          "sub": "",
+          "note": "הטבע הוא ההשראה שלי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1350
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(1,8,7)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "51% 60%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_14.png",
@@ -2284,7 +2648,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
         "rendered_zone": "bottom",
-        "rendered_direction": "panel"
+        "rendered_direction": "panel",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "panel",
+          "headline": "אמרלד טבעי.<br>בלב של פרח.",
+          "sub": "",
+          "note": "הטבע הוא ההשראה שלי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            0,
+            0,
+            1080,
+            1080
+          ],
+          "top": true,
+          "ink": "#f3ebdd",
+          "paper": "rgb(15,20,7)",
+          "accent": "#f3ebdd",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "51% 56%",
+          "panel_side": "bottom",
+          "plate": false
+        }
       },
       "to_verify": [],
       "image": "ads/ad_15.png",
@@ -2322,7 +2712,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
         "rendered_zone": "top",
-        "rendered_direction": "quiet"
+        "rendered_direction": "quiet",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "quiet",
+          "headline": "גן שלם<br>על שרשרת אחת.",
+          "sub": "",
+          "note": "הטבע הוא ההשראה שלי.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            250,
+            993,
+            527
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(242,235,233)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": true
+        }
       },
       "to_verify": [],
       "image": "ads/ad_16.png",
@@ -2360,7 +2776,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "frame",
         "rendered_zone": "top",
-        "rendered_direction": "stack"
+        "rendered_direction": "stack",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "אותו עיצוב.<br>האבן שלך.",
+          "sub": "ספיר · רובי · אמרלד · יהלום",
+          "note": "ספרי לי מה את מדמיינת.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            67,
+            993,
+            371
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(11,12,15)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [
         "אילו דגמים זמינים בהחלפת אבן"
@@ -2400,7 +2842,33 @@
         "shade": "rgba(250,244,234,.55)",
         "rendered_style": "corner",
         "rendered_zone": "top_left",
-        "rendered_direction": "note"
+        "rendered_direction": "note",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "note",
+          "headline": "הטבעת<br>שאין לאף אחת אחרת.",
+          "sub": "",
+          "note": "ספרי לי מה את מדמיינת.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            64,
+            67,
+            648,
+            526
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(235,233,231)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": true
+        }
       },
       "to_verify": [],
       "image": "ads/ad_18.png",
@@ -2438,7 +2906,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "editorial",
         "rendered_zone": "top",
-        "rendered_direction": "cover"
+        "rendered_direction": "cover",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "cover",
+          "headline": "רוצה אבן אחרת?<br>רק תגידי.",
+          "sub": "",
+          "note": "ספרי לי מה את מדמיינת.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            86,
+            54,
+            993,
+            296
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(2,35,28)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,.32)",
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [
         "התאמת אבן לכל תכשיט באתר"
@@ -2478,7 +2972,33 @@
         "shade": "rgba(0,0,0,.40)",
         "rendered_style": "column",
         "rendered_zone": "top_right",
-        "rendered_direction": "label"
+        "rendered_direction": "label",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "label",
+          "headline": "ספיר, אמרלד או רובי?<br>את בוחרת.",
+          "sub": "",
+          "note": "ספרי לי מה את מדמיינת.",
+          "signature": "סתיו",
+          "brand": "סתיו תכשיטי יוקרה",
+          "box": [
+            432,
+            250,
+            1015,
+            585
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(244,228,220)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(255,250,242,.42)",
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
       },
       "to_verify": [
         "עגילים אלה זמינים באמרלד/רובי"
