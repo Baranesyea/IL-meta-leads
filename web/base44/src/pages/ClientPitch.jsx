@@ -48,9 +48,9 @@ const CSS = `
 .bp .marquee .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:38px}
 .bp .marquee h2{font-weight:900;font-size:clamp(34px,4.4vw,64px);margin:10px 0 0;line-height:1}
 .bp .marquee h2 span{font-weight:300}
-.bp .track{display:flex;gap:22px;width:max-content;align-items:flex-start;animation:mq 70s linear infinite}
+.bp .track{--h:clamp(300px,34vw,440px);display:flex;gap:22px;width:max-content;align-items:flex-start;animation:mq 70s linear infinite}
 .bp .track:hover{animation-play-state:paused}
-.bp .track .it{width:clamp(220px,22vw,320px);flex:none;box-shadow:0 26px 50px -30px rgba(30,20,10,.55)}
+.bp .track .it{height:var(--h);width:calc(var(--h) * var(--ar));flex:none;box-shadow:0 26px 50px -30px rgba(30,20,10,.55)}
 @keyframes mq{from{transform:translateX(0)}to{transform:translateX(50%)}}
 
 /* editorial split */
@@ -97,15 +97,15 @@ const CSS = `
 .bp .angle h3{font-weight:900;font-size:clamp(32px,4.2vw,58px);margin:8px 0 0;line-height:1}
 .bp .angle .hook{font-weight:300;font-size:clamp(24px,2.6vw,36px);margin:14px 0 0}
 .bp .angle .idea{font-weight:300;font-size:19px;line-height:1.75;color:var(--muted);max-width:62ch;margin:18px 0 0}
-.bp .ads{display:flex;gap:22px;align-items:flex-start}
+.bp .ads{display:flex;flex-direction:column;gap:22px}
+.bp .ads .row{display:flex;gap:22px;align-items:flex-start}
 .bp .ads .card{flex:var(--ar) 1 0;min-width:0}
 .bp .card{cursor:zoom-in;background:#fff;box-shadow:0 22px 44px -26px rgba(40,25,10,.45);transition:transform .6s cubic-bezier(.2,.7,.2,1),box-shadow .6s}
 .bp .card:hover{transform:translateY(-8px);box-shadow:0 36px 70px -28px rgba(40,25,10,.55)}
 .bp .card .cap{padding:16px 18px 20px}
 .bp .card .cap b{font-weight:900;font-size:18px;display:block}
 .bp .card .cap span{font-weight:300;font-size:14px;color:var(--muted)}
-@media (max-width:980px){.bp .ads{flex-wrap:wrap}.bp .ads .card{flex:1 1 calc(50% - 11px)}}
-@media (max-width:540px){.bp .angle .head{grid-template-columns:1fr;gap:6px}.bp .ads{gap:14px}.bp .ads .card{flex:1 1 100%}}
+@media (max-width:540px){.bp .angle .head{grid-template-columns:1fr;gap:6px}.bp .ads,.bp .ads .row{gap:14px}}
 
 /* CTA */
 .bp .cta{background:var(--deep);color:#efe6d7;padding:150px 0;text-align:center}
@@ -118,14 +118,18 @@ const CSS = `
 .bp footer{padding:36px 20px;text-align:center;font-size:13px;color:var(--muted);letter-spacing:.14em;background:var(--ivory)}
 
 /* lightbox */
-.bp .lb{position:fixed;inset:0;z-index:60;background:rgba(9,7,5,.94);display:flex;align-items:center;justify-content:center;padding:28px}
-.bp .lb .box{display:grid;grid-template-columns:minmax(0,440px) 400px;gap:44px;max-width:980px;width:100%;max-height:92vh;align-items:start}
-.bp .lb .ad{max-height:88vh;overflow:hidden}
-.bp .lb .txt{color:#efe6d7;overflow:auto;max-height:88vh}
+.bp .lb{position:fixed;inset:0;z-index:60;background:rgba(9,7,5,.94);overflow-y:auto;overscroll-behavior:contain;
+  display:flex;align-items:center;justify-content:center;padding:84px 28px 40px}
+.bp .lb .box{display:flex;gap:44px;max-width:1000px;width:100%;align-items:flex-start;justify-content:center;margin:auto}
+.bp .lb .ad{flex:none;width:min(460px, calc(80svh * var(--ar)))}
+.bp .lb .txt{color:#efe6d7;flex:1 1 360px;max-width:420px}
 .bp .lb .txt b{font-weight:900;font-size:28px;display:block;margin:8px 0}
 .bp .lb .txt pre{white-space:pre-wrap;font-family:Optimum,Georgia,serif;font-weight:300;font-size:18px;line-height:1.8;margin:18px 0}
-.bp .lb .x{position:absolute;top:18px;left:24px;color:#efe6d7;font-size:34px;background:none;border:0;cursor:pointer}
-@media (max-width:880px){.bp .lb .box{grid-template-columns:1fr;overflow:auto}}
+.bp .lb .x{position:fixed;top:14px;left:14px;z-index:70;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;
+  color:#efe6d7;font-size:30px;line-height:1;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.35);cursor:pointer;font-family:inherit}
+.bp .lb .x:hover{background:rgba(255,255,255,.22)}
+@media (max-width:880px){.bp .lb{align-items:flex-start;padding:80px 16px 40px}.bp .lb .box{flex-direction:column;align-items:center;gap:26px}
+  .bp .lb .ad{width:min(100%, calc(70svh * var(--ar)))}.bp .lb .txt{flex:none;width:100%;max-width:520px}}
 `;
 
 function useScrollY() {
@@ -140,6 +144,17 @@ function useScrollY() {
   return y;
 }
 
+function useCols() {
+  const get = () => (typeof window === "undefined" ? 4 : window.innerWidth > 980 ? 4 : window.innerWidth > 540 ? 2 : 1);
+  const [cols, setCols] = useState(get);
+  useEffect(() => {
+    const on = () => setCols(get());
+    window.addEventListener("resize", on);
+    return () => window.removeEventListener("resize", on);
+  }, []);
+  return cols;
+}
+
 function useReveal(dep) {
   useEffect(() => {
     const io = new IntersectionObserver(
@@ -151,12 +166,15 @@ function useReveal(dep) {
   }, [dep]);
 }
 
+const chunk = (xs, n) => Array.from({ length: Math.ceil(xs.length / n) }, (_, i) => xs.slice(i * n, i * n + n));
+
 export default function ClientPitch({ slug: fixedSlug }) {
   const params = useParams();
   const slug = fixedSlug || params.slug;
   const r = REPORTS[slug];
   const y = useScrollY();
   const [open, setOpen] = useState(null);
+  const cols = useCols();
   useReveal(slug);
 
   const byAngle = useMemo(() => {
@@ -172,6 +190,13 @@ export default function ClientPitch({ slug: fixedSlug }) {
     window.addEventListener("keydown", esc);
     return () => window.removeEventListener("keydown", esc);
   }, [r]);
+
+  useEffect(() => {
+    if (!open) return;
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => { document.body.style.overflow = prev; };
+  }, [open]);
 
   if (!r) {
     return <div style={{ minHeight: "100vh", display: "grid", placeItems: "center", fontFamily: "Optimum", direction: "rtl" }}>העמוד לא נמצא.</div>;
@@ -217,7 +242,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         </div>
         <div className="track">
           {[...strip, ...strip].map((a, i) => (
-            <div key={i} className="it" onClick={() => setOpen(a)} style={{ cursor: "zoom-in" }}>
+            <div key={i} className="it" onClick={() => setOpen(a)} style={{ cursor: "zoom-in", "--ar": a.spec.w / a.spec.h }}>
               <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
             </div>
           ))}
@@ -278,11 +303,16 @@ export default function ClientPitch({ slug: fixedSlug }) {
                 <p className="idea">{ang.idea}</p>
               </div>
             </div>
+            {/* rows of `cols` ads, each row justified so every image in it has the same height */}
             <div className="ads">
-              {(byAngle[ang.id] || []).map((a, k) => (
-                <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, "--ar": a.spec.w / a.spec.h }} onClick={() => setOpen(a)}>
-                  <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
-                  <div className="cap"><b>{a.headline}</b><span>{a.format} · לטקסט המלא</span></div>
+              {chunk(byAngle[ang.id] || [], cols).map((row, ri) => (
+                <div key={ri} className="row">
+                  {row.map((a, k) => (
+                    <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, "--ar": a.spec.w / a.spec.h }} onClick={() => setOpen(a)}>
+                      <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
+                      <div className="cap"><b>{a.headline}</b><span>{a.format} · לטקסט המלא</span></div>
+                    </div>
+                  ))}
                 </div>
               ))}
             </div>
@@ -304,9 +334,9 @@ export default function ClientPitch({ slug: fixedSlug }) {
 
       {open && (
         <div className="lb" onClick={() => setOpen(null)}>
-          <button className="x" aria-label="סגירה">×</button>
+          <button className="x" aria-label="סגירה" onClick={(e) => { e.stopPropagation(); setOpen(null); }}>✕</button>
           <div className="box" onClick={(e) => e.stopPropagation()}>
-            <div className="ad"><AdCanvas spec={open.spec} img={open.img} brand={b.name} /></div>
+            <div className="ad" style={{ "--ar": open.spec.w / open.spec.h }}><AdCanvas key={open.no} spec={open.spec} img={open.img} brand={b.name} eager /></div>
             <div className="txt">
               <div className="eyebrow">מודעה {open.no} · {open.format}</div>
               <b>{open.headline}</b>

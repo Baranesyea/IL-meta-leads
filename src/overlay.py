@@ -182,6 +182,70 @@ def _palette(canvas: Image.Image) -> tuple[str, str]:
     return f"rgb({r},{g},{b})", "#231a12"
 
 
+LIGHT_INK, DARK_INK = "#f4ecdf", "#1f1812"
+MIN_CONTRAST = {True: 4.5, False: 7.0}   # big Black type: WCAG AA; thin/script/small type: AAA
+MAX_SCRIM = 0.62            # beyond this a scrim looks like a dirty cloud → use a plate
+
+
+def _lin(v: float) -> float:
+    v /= 255
+    return v / 12.92 if v <= 0.04045 else ((v + 0.055) / 1.055) ** 2.4
+
+
+def _contrast(l1: float, l2: float) -> float:
+    hi, lo = max(l1, l2), min(l1, l2)
+    return (hi + 0.05) / (lo + 0.05)
+
+
+def legibility(canvas: Image.Image, box, big: bool = False) -> dict:
+    """Measure the real pixels under the text box and pick ink + the least cover that keeps
+    every pixel behind the text at >= MIN_CONTRAST: none, a scrim of the needed strength, or a plate.
+    Worst case = 95th/5th luminance percentile of the box (so a bright highlight can't hide a word)."""
+    g = canvas.convert("L").crop(tuple(int(v) for v in box)).resize((96, 96))
+    px = sorted(g.getdata())
+    lo, hi = px[int(len(px) * 0.05)], px[int(len(px) * 0.95)]
+    mean = sum(px) / len(px)
+    busy = ImageStat.Stat(g).stddev[0] > 38 or ImageStat.Stat(g.filter(ImageFilter.FIND_EDGES).crop((2, 2, 94, 94))).mean[0] > 14
+    dark_bg = mean < 128
+    ink = LIGHT_INK if dark_bg else DARK_INK
+    l_ink = 0.2126 * _lin(0xf4) + 0.7152 * _lin(0xec) + 0.0722 * _lin(0xdf) if dark_bg else \
+        0.2126 * _lin(0x1f) + 0.7152 * _lin(0x18) + 0.0722 * _lin(0x12)
+    worst = hi if dark_bg else lo            # the brightest pixel under light ink, darkest under dark ink
+    cover = (0, 0, 0) if dark_bg else (250, 246, 238)
+    need = None
+    for a in [x / 100 for x in range(0, 96, 2)]:
+        v = worst * (1 - a) + cover[1] * a       # sRGB-space compositing, like the browser
+        if _contrast(l_ink, _lin(v)) >= MIN_CONTRAST[big]:
+            need = a
+            break
+    need = 0.9 if need is None else need
+    rgb = "0,0,0" if dark_bg else "250,246,238"
+    if busy or need > MAX_SCRIM:
+        alpha = round(max(need, 0.66 if dark_bg else 0.8), 2)
+        return dict(ink=ink, plate=True, plate_bg=f"rgba({rgb},{alpha})", scrim=f"rgba({rgb},0)", luma=mean)
+    alpha = round(max(need + 0.08, 0.18), 2)     # small safety margin; never a naked overlay
+    return dict(ink=ink, plate=False, plate_bg=None, scrim=f"rgba({rgb},{alpha})", luma=mean)
+
+
+def brand_line(canvas: Image.Image, top: bool) -> str | None:
+    """Colour for the small brand line (opposite edge to the text), or None to drop it when the
+    strip is busy — Meta already shows the page name above every ad, a lost brand line costs nothing."""
+    w, h = canvas.size
+    y = int(h * 0.9) if top else int(h * 0.025)
+    strip = canvas.convert("L").crop((w // 4, y, 3 * w // 4, y + int(h * 0.05))).resize((96, 16))
+    edges = strip.filter(ImageFilter.FIND_EDGES).crop((2, 2, 94, 14))   # FIND_EDGES lights up the border
+    if ImageStat.Stat(strip).stddev[0] > 22 or ImageStat.Stat(edges).mean[0] > 10:
+        return None
+    px = sorted(strip.getdata())
+    lo, hi = px[int(len(px) * 0.05)], px[int(len(px) * 0.95)]
+    light = _contrast(_lin(0xf4), _lin(hi))
+    dark = _contrast(_lin(lo), _lin(0x1f))
+    best = max(light, dark)
+    if best < MIN_CONTRAST[False]:
+        return None
+    return LIGHT_INK if light >= dark else "#231a12"
+
+
 def _fonts() -> dict:
     ov = load_config().get("overlay", {}).get("fonts", {})
     return {k: (FONT_DIR / v).resolve().as_uri() for k, v in ov.items()}
@@ -229,28 +293,22 @@ def render(jobs: list[dict]) -> list[str]:
             direction, z = choose_direction(canvas, fmt, j["directions"], j.get("people", False),
                                             allow_panel=not final, protect=j.get("protect"))
             box = z.get("box", (0, 0, w, h))
-            # busy or high-contrast background behind the text → soft plate under the type
-            plate = False
-            if direction != "panel":
-                sb = tuple(v // 4 for v in box)
-                g = canvas.resize((w // 4, h // 4)).convert("L").crop(sb)
-                plate = ImageStat.Stat(g).stddev[0] > 26 or ImageStat.Stat(g.filter(ImageFilter.FIND_EDGES)).mean[0] > 9
-            top = box[1] < h / 2
-            dark = z.get("luma", 0) < 128
             paper, ink = _palette(canvas)
             obj_pos, panel_side = "center", "right"
+            leg = dict(plate=False, plate_bg=None, scrim="rgba(0,0,0,0)")
             if direction == "panel":
                 panel_side, obj_pos = _panel_side(canvas, fmt)
             else:
-                ink = "#f4ecdf" if dark else "#1f1812"
-            # brand line colour from the strip where it sits
-            by = int(h * 0.9) if top else int(h * 0.03)
-            brand_dark = ImageStat.Stat(canvas.convert("L").crop((w // 3, by, 2 * w // 3, by + int(h * .06)))).mean[0] < 140
+                leg = legibility(canvas, box, DIRECTIONS[direction]["big"])   # measured contrast → ink + scrim strength or plate
+                ink = leg["ink"]
+            top = box[1] < h / 2
+            plate = leg["plate"]
+            brand_color = brand_line(canvas, top if direction != "panel" else False)
             params = dict(w=w, h=h, direction=direction,
                 headline=j["headline"], sub=j.get("sub"), note=j.get("note"), signature=j.get("signature"),
                 brand=j.get("brand", ""), box=box, top=top, ink=ink, paper=paper, accent=ink,
-                scrim_on=True, scrim="rgba(0,0,0,.32)" if dark else "rgba(255,250,242,.42)",
-                brand_color="#f4ecdf" if brand_dark else "#231a12",
+                scrim_on=True, scrim=leg["scrim"], plate_bg=leg["plate_bg"],
+                brand_color=brand_color,
                 obj_pos=obj_pos, panel_side=panel_side, plate=plate)
             j["params"] = {k: v for k, v in params.items()}          # exported for web rendering
             html = env.get_template("overlay.html.j2").render(img=Path(j["img"]).resolve().as_uri(),

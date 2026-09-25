@@ -84,10 +84,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(1,1,1)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -115,10 +116,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(237,234,231)",
-     "scrim": "rgba(255,250,242,.42)",
-     "brand_color": "#231a12",
+     "scrim": "rgba(250,246,238,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": true
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -146,10 +148,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(6,4,4)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0)",
      "brand_color": "#f4ecdf",
      "obj_pos": "51% 70%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -177,10 +180,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(242,238,232)",
-     "scrim": "rgba(255,250,242,.42)",
+     "scrim": "rgba(250,246,238,0.18)",
      "brand_color": "#231a12",
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -208,10 +212,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(213,196,181)",
-     "scrim": "rgba(255,250,242,.42)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(250,246,238,0.4)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -239,10 +244,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(0,6,7)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0)",
+     "brand_color": null,
      "obj_pos": "39% 47%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -270,10 +276,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(0,0,0)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0)",
      "brand_color": "#f4ecdf",
      "obj_pos": "49% 59%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -301,10 +308,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(64,41,29)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#231a12",
+     "scrim": "rgba(0,0,0,0)",
+     "brand_color": null,
      "obj_pos": "53% 56%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -332,10 +340,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(58,49,41)",
-     "scrim": "rgba(255,250,242,.42)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(250,246,238,0)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": true
+     "plate": true,
+     "plate_bg": "rgba(250,246,238,0.8)"
     }
    },
    {
@@ -363,10 +372,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(0,0,0)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -394,10 +404,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(50,42,36)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0.3)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -425,10 +436,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#231a12",
      "paper": "rgb(232,215,201)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0)",
      "brand_color": "#231a12",
      "obj_pos": "47% 52%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -456,10 +468,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(1,4,4)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0.18)",
      "brand_color": "#f4ecdf",
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -487,10 +500,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(1,8,7)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0)",
      "brand_color": "#f4ecdf",
      "obj_pos": "51% 60%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -518,10 +532,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f3ebdd",
      "paper": "rgb(15,20,7)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0)",
+     "brand_color": "#231a12",
      "obj_pos": "51% 56%",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -549,10 +564,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(242,235,233)",
-     "scrim": "rgba(255,250,242,.42)",
-     "brand_color": "#231a12",
+     "scrim": "rgba(250,246,238,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": true
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -580,10 +596,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(11,12,15)",
-     "scrim": "rgba(0,0,0,.32)",
+     "scrim": "rgba(0,0,0,0.18)",
      "brand_color": "#f4ecdf",
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -611,10 +628,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(235,233,231)",
-     "scrim": "rgba(255,250,242,.42)",
+     "scrim": "rgba(250,246,238,0)",
      "brand_color": "#231a12",
      "obj_pos": "center",
-     "plate": true
+     "plate": true,
+     "plate_bg": "rgba(250,246,238,0.8)"
     }
    },
    {
@@ -642,10 +660,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(2,35,28)",
-     "scrim": "rgba(0,0,0,.32)",
-     "brand_color": "#f4ecdf",
+     "scrim": "rgba(0,0,0,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    },
    {
@@ -673,10 +692,11 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(244,228,220)",
-     "scrim": "rgba(255,250,242,.42)",
-     "brand_color": "#231a12",
+     "scrim": "rgba(250,246,238,0.18)",
+     "brand_color": null,
      "obj_pos": "center",
-     "plate": false
+     "plate": false,
+     "plate_bg": null
     }
    }
   ],
@@ -687,6 +707,6 @@ export const REPORTS = {
    20
   ],
   "hero_bg": "/reports/stav/hero.webp",
-  "contact_url": ""
+  "contact_url": "https://wa.me/972545471522"
  }
 };
