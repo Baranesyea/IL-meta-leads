@@ -3,7 +3,8 @@
 
   python run.py discover            stage 1 only
   python run.py filter              stage 2 only
-  python run.py find                stages 1-5 (currently 1-2 are implemented)
+  python run.py qualify [ids...]    stage 3 (default: all `filtered` leads)
+  python run.py find                stages 1-5 (currently 1-3 are implemented)
   python run.py status [date]       list leads + status
   python run.py approve <id>
   python run.py reject <id> "reason"
@@ -39,10 +40,32 @@ def cmd_filter(_):
               f"fb=https://www.facebook.com/{m['page_id']}")
 
 
+def cmd_qualify(args):
+    from src import qualify
+    done = qualify.run(args.lead_ids or None)
+    fields = ["website", "instagram_page", "owner_instagram", "whatsapp"]
+    hits = {f: 0 for f in fields}
+    for lead in done:
+        missing = lead.get("qualify", {}).get("missing", [])
+        has_site = bool(lead["business"].get("website"))
+        hits["website"] += has_site
+        for f in fields[1:]:
+            hits[f] += has_site and f not in missing and lead["status"] != "rejected"
+        c = lead["contact"]
+        print(f"  {lead['lead_id']}  {lead['status']:<11} {lead['meta']['page_name']}")
+        print(f"      site={lead['business'].get('website') or '-'}  ig={c['instagram_page']['url'] or '-'}")
+        print(f"      owner_ig={c['owner_instagram']['url'] or '-'}  wa={c['whatsapp']['number_e164'] or '-'}"
+              f"  {lead.get('reject_reason') or ''}")
+    n = len(done) or 1
+    print("hit rate: " + ", ".join(f"{f} {v}/{len(done)} ({100 * v // n}%)" for f, v in hits.items()))
+
+
 def cmd_find(args):
     cmd_discover(args)
     cmd_filter(args)
-    log.info("stages 3-5 (qualify/collect/research) not implemented yet")
+    args.lead_ids = []
+    cmd_qualify(args)
+    log.info("stages 4-5 (collect/research) not implemented yet")
 
 
 def cmd_status(args):
@@ -77,6 +100,9 @@ def main():
     sub = p.add_subparsers(dest="cmd", required=True)
     sub.add_parser("discover").set_defaults(func=cmd_discover)
     sub.add_parser("filter").set_defaults(func=cmd_filter)
+    q = sub.add_parser("qualify")
+    q.add_argument("lead_ids", nargs="*")
+    q.set_defaults(func=cmd_qualify)
     sub.add_parser("find").set_defaults(func=cmd_find)
     s = sub.add_parser("status")
     s.add_argument("date", nargs="?")
