@@ -29,3 +29,16 @@
 - First run on the 7 filtered leads: website 6/7, IG page 3/7, owner IG 0/7, WhatsApp 3/7.
   Owner IG is the bottleneck: sites almost never name the owner's personal IG, and web search
   didn't surface it either (tested on 2 leads). Decision pending with Eran.
+
+## 2026-09-25 — Discovery v2, stage 4–5 first pass
+
+- **Discovery now uses the Ad Library search page in Chromium (no login)** — `backend: playwright`.
+  Gives full ad data (body, landing URL, CTA, media, start date, page likes, categories).
+  Logged-out pagination is rate-limited → ~30 ads per keyword, so the keyword list is long.
+- `python run.py find` loops keywords until `daily_target` leads are `qualified`.
+- **Owner IG is best-effort, not a gate** (Eran: "we said 10 clear leads"). Qualified =
+  website + business IG + WhatsApp. Owner name often found via website About / web search.
+- Manually rejected after review: beauty academy (courses), car dealer, Danon (established chain).
+- Collect: Woo Store API / Shopify products.json via httpx, Chromium fallback for protected stores.
+- Research for 2026-09-25-076 (Stav Fine Jewelry) written by Claude Code in-session;
+  `python run.py internal <id>` renders a self-contained internal page (images inlined).

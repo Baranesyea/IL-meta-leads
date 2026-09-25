@@ -1,15 +1,16 @@
 {
   "lead_id": "2026-09-25-076",
-  "status": "qualified",
+  "status": "researched",
   "reject_reason": null,
   "business": {
-    "name_he": "",
-    "name_en": "",
+    "name_he": "סתיו תכשיטי יוקרה",
+    "name_en": "Stav Fine Jewelry",
     "website": "https://stav-fine-jewelry.com/",
-    "city": "",
-    "category": "",
-    "owner_name": "",
-    "email": ""
+    "city": "תל אביב (שינקין 48)",
+    "category": "תכשיטי זהב ויהלומים",
+    "owner_name": "סתיו דוידוביץ'",
+    "email": "",
+    "owner_name_source": "https://stav-fine-jewelry.com/pages/about"
   },
   "contact": {
     "facebook_page": {
@@ -1058,12 +1059,665 @@
       "https://stav-fine-jewelry.com/collections/all-jewelry"
     ]
   },
-  "current_ads": [],
-  "products": [],
-  "research": {},
+  "current_ads": [
+    {
+      "ad_id": "1184425929719253",
+      "start_date": "2025-03-24",
+      "days_running": 550,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "{{product.brand}}",
+      "headline": "{{product.name}}",
+      "description": "{{product.description}}",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-076/current_ads/1184425929719253_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPSWaDOSvPNe_PU-jg66eSFLxnSDd1ah9gtllWZbgLVwLL-eWmfQeQNJfXt1LdzKvD9NESEeSV_3UG9WMZg9MZT.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=99mByCMKOXUQ7kNvwF07EQp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNTU1NTY1OTY1NTExNzMyLCJhc3NldF9hZ2VfZGF5cyI6MTgyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2VFsE8WaNPRA7uofFrlu1A&_nc_ss=70289&_nc_zt=28&oh=00_AQK9u7CDbG273Bi5u8mnZQNd0P50etIeb7JrjpqzNom5cw&oe=6ABC47B0"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1184425929719253"
+    },
+    {
+      "ad_id": "665885299246582",
+      "start_date": "2025-03-24",
+      "days_running": 550,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "{{product.brand}}",
+      "headline": "{{product.name}}",
+      "description": "{{product.description}}",
+      "cta": "מידע נוסף",
+      "landing_url": "https://stav-fine-jewelry.com/collections/new-collection/",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-076/current_ads/665885299246582_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOPrqwTio92JJyRJRGWV8WLq4jpmNXCzS42pV5AR7D7Ath46zuOn6c99St5sWpfP6KIrqSnmmWjMNpZkf0os_Mu.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8-pQ-EnlL2MQ7kNvwFCjD-m&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNTEyNTc3NzE5ODQwODU3LCJhc3NldF9hZ2VfZGF5cyI6MjIyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6OTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=2VFsE8WaNPRA7uofFrlu1A&_nc_ss=70289&_nc_zt=28&oh=00_AQKn4VQmrMkjumc51Zoc2uNnTlPmtrSMS4Q3zva-qOCTjA&oe=6ABC2D44"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=665885299246582"
+    },
+    {
+      "ad_id": "1473727627228865",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "✨ קולקציית טבעות הזהב החדשה של סתיו הגיעה! ✨\n\nכל טבעת נוצרת בעבודת יד ובייצור מוגבל, כדי להבטיח שכל אחת תהיה ייחודית באמת.\n\nאפשר לשנות את מרכיבי התכשיט בהתאם לטעמך האישי 💖\n\n💎 עיצוב ייחודי בעבודת יד\n💎 ייצור מוגבל כדי לשמור על הייחודיות של כל טבעת\n💎 זמינות עכשיו באתר עם משלוח מהיר לכל הארץ\n\nאל תחכי! כנסי עכשיו לאתר ובחרי את הטבעת המושלמת שלך מהקולקציה החדשה לפני שכולן ייגמרו! 💝",
+      "headline": "{{product.name}}",
+      "description": "אצל סתיו תכשיטי יוקרה תמצאו מגוון רחב של טבעות מרהיבות בזהב צהוב, לבן או אדום בהתאמה אישית. בקולקציה טבעות אירוסין, טבעות נישואין, טבעות יהלומים ועוד",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/gold-rings/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1473727627228865_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1473727627228865_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1473727627228865"
+    },
+    {
+      "ad_id": "819213067176642",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "🇮🇱קולקציית שרשראות מגן דוד וקמעות במגוון סוגים! 🇮🇱\n\nקולקצייה חדשה ומיוחדת בעקבות המצב ועוד המון תכשיטים מחכים לך באתר!\n\nאפשר להזמין אונליין 24/7 באתר 💝",
+      "headline": "{{product.name}}",
+      "description": "סתיו תכשיטי יוקרה מציגה מגוון תכשיטים מיוחדים - שרשראות וצמידי חמסה, תליון עין בעיצוב יוקרתי ואלגנטי.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/mascots-and-symbols",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/819213067176642_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/819213067176642_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=819213067176642"
+    },
+    {
+      "ad_id": "1517079252647117",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "✨ קולקציית טבעות הזהב החדשה של סתיו הגיעה! ✨\n\nכל טבעת נוצרת בעבודת יד ובייצור מוגבל, כדי להבטיח שכל אחת תהיה ייחודית באמת.\n\nאפשר לשנות את מרכיבי התכשיט בהתאם לטעמך האישי 💖\n\n💎 עיצוב ייחודי בעבודת יד\n💎 ייצור מוגבל כדי לשמור על הייחודיות של כל טבעת\n💎 זמינות עכשיו באתר עם משלוח מהיר לכל הארץ\n\nאל תחכי! כנסי עכשיו לאתר ובחרי את הטבעת המושלמת שלך מהקולקציה החדשה לפני שכולן ייגמרו! 💝",
+      "headline": "{{product.name}}",
+      "description": "אצל סתיו תכשיטי יוקרה תמצאו מגוון רחב של טבעות מרהיבות בזהב צהוב, לבן או אדום בהתאמה אישית. בקולקציה טבעות אירוסין, טבעות נישואין, טבעות יהלומים ועוד",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/gold-rings/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1517079252647117_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1517079252647117_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1517079252647117"
+    },
+    {
+      "ad_id": "1308407267741446",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "💖אני מתרגשת לשתף אתכם - האתר החדש שלי באוויר!💖\n\nעיצבנו אותו בדיוק כמו שאני מעצבת את התכשיטים - באהבה, בפרטים הקטנים, ובמחשבה עליך.\n\nמחכה לך באתר החדש, עם תכשיטים בהתאמה אישית מכל הלב.",
+      "headline": "{{product.name}}",
+      "description": "אצל סתיו תכשיטי יוקרה תמצאו מגוון תכשיטי זהב: טבעות אירוסין, טבעות נישואין, שרשראות יהלום, עגילי זהב, צמידים ועוד. ניתן לעצב כל פריט בהתאמה אישית.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1308407267741446_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1308407267741446_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1308407267741446"
+    },
+    {
+      "ad_id": "786963280968276",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "🇮🇱קולקציית שרשראות מגן דוד וקמעות במגוון סוגים! 🇮🇱\n\nקולקצייה חדשה ומיוחדת בעקבות המצב ועוד המון תכשיטים מחכים לך באתר!\n\nאפשר להזמין אונליין 24/7 באתר 💝",
+      "headline": "{{product.name}}",
+      "description": "סתיו תכשיטי יוקרה מציגה מגוון תכשיטים מיוחדים - שרשראות וצמידי חמסה, תליון עין בעיצוב יוקרתי ואלגנטי.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/mascots-and-symbols",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/786963280968276_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/786963280968276_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=786963280968276"
+    },
+    {
+      "ad_id": "569725402867958",
+      "start_date": "2025-10-05",
+      "days_running": 355,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "💖אני מתרגשת לשתף אתכם - האתר החדש שלי באוויר!💖\n\nעיצבנו אותו בדיוק כמו שאני מעצבת את התכשיטים - באהבה, בפרטים הקטנים, ובמחשבה עליך.\n\nמחכה לך באתר החדש, עם תכשיטים בהתאמה אישית מכל הלב.",
+      "headline": "{{product.name}}",
+      "description": "אצל סתיו תכשיטי יוקרה תמצאו מגוון תכשיטי זהב: טבעות אירוסין, טבעות נישואין, שרשראות יהלום, עגילי זהב, צמידים ועוד. ניתן לעצב כל פריט בהתאמה אישית.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/569725402867958_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/569725402867958_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=569725402867958"
+    },
+    {
+      "ad_id": "2018364165578371",
+      "start_date": "2025-10-06",
+      "days_running": 354,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "🇮🇱קולקציית שרשראות מגן דוד וקמעות במגוון סוגים! 🇮🇱\n\nקולקצייה חדשה ומיוחדת בעקבות המצב ועוד המון תכשיטים מחכים לך באתר!\n\nאפשר להזמין אונליין 24/7 באתר 💝",
+      "headline": "{{product.name}}",
+      "description": "סתיו תכשיטי יוקרה מציגה מגוון תכשיטים מיוחדים - שרשראות וצמידי חמסה, תליון עין בעיצוב יוקרתי ואלגנטי.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/mascots-and-symbols",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/2018364165578371_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/2018364165578371_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=2018364165578371"
+    },
+    {
+      "ad_id": "871387152400412",
+      "start_date": "2026-02-27",
+      "days_running": 210,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "Top 10 🏆🏆\n\nעשרת התכשיטים הנמכרים ביותר שלי - בואו לראות מה כולם קונים!\nהקולקציה החדשה ועוד המון תכשיטים מחכים לך באתר!\n\nאפשר להזמין אונליין 24/7 באתר 💝",
+      "headline": "{{product.name}}",
+      "description": "סתיו תכשיטי יוקרה מציעה מבחר ייחודי של תכשיטי זהב, יהלומים ואבני חן צבעוניות. הקולקציות כוללות מבחר תכשיטים בסגנונות ובעיצובים שונים. כל התכשיטים שומרים על קו עיצוב...",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/all-jewelry",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/871387152400412_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/871387152400412_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=871387152400412"
+    },
+    {
+      "ad_id": "1947726692488365",
+      "start_date": "2026-02-27",
+      "days_running": 210,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "💖אני מתרגשת להציג את הקולקציה החדשה שלי💖\n\nבכל תכשיט שילוב של אבני חן ייחודיות בחיתוכים מרהיבים: משולשים, טריליונים, אובלים, מרקיזות, פרינסס, בגטים, אמרלד קאט, עיגולים ועוד.\n\n💎 תכשיטים שיעניקו לכל לוק צבע, אלגנטיות ואופי.\n\nמחכה לך באתר החדש, עם תכשיטים בהתאמה אישית מכל הלב.",
+      "headline": "{{product.name}}",
+      "description": "סתיו תכשיטי יוקרה מציגה קולקציה חדשה של תכשיטי זהב בעיצובים מדהימים בשילוב אבני חן, יהלומים ועוד. טבעות אירוסין וטבעות יהלומים בעיצוב נקי ומנימליסטי תוך שמירה על אי...",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/new-collection/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1947726692488365_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1947726692488365_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1947726692488365"
+    },
+    {
+      "ad_id": "1615651592958672",
+      "start_date": "2026-02-28",
+      "days_running": 209,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "התכשיט שראית באתר עוד מחכה לך❤\n\nיש עוד המון תכשיטים מהקולקציות החדשות + משלוח מהיר על כל סכום רכישה.\n\nתני קליק לכניסה!",
+      "headline": "{{product.name}}",
+      "description": "אצל סתיו תכשיטי יוקרה תמצאו מגוון תכשיטי זהב: טבעות אירוסין, טבעות נישואין, שרשראות יהלום, עגילי זהב, צמידים ועוד. ניתן לעצב כל פריט בהתאמה אישית.",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/shop/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1615651592958672_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-076/current_ads/1615651592958672_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1615651592958672"
+    },
+    {
+      "ad_id": "2680011919064336",
+      "start_date": "2026-03-29",
+      "days_running": 180,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "{{product.brand}}",
+      "headline": "{{product.name}}",
+      "description": "{{product.description}}",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/new-collection/",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-076/current_ads/2680011919064336_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6oCA8oQYrauNjgkpnCm19lolw51N3SrMQHpGRYE9nPoG5VbXHAiK_YL6W686GrwbDmuXsikwK7Y_eCdRaJ1zs728QThj0brfBZqhxnE3AkA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TQbMbnvNPkgQ7kNvwFrbegu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTg4NjMyNDg1MjA5NzExLCJhc3NldF9hZ2VfZGF5cyI6MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b0db1d0f6a8d2163&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRBODk2MjVDQ0YzMkIwRTg2NDc0QkVBQUFBODBCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg3NDUwODlDNjI1OTI1OThEMzhBOUIxNEU3QTI2ODk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbemZndlqPjBxUCKAJDMywXQE1EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=2VFsE8WaNPRA7uofFrlu1A&_nc_ss=70289&_nc_zt=28&oh=00_AQKtX7hlxmaU6wqlI8-Ml9tGZpjevacDHNe-dxASH4th-g&oe=6ABC41FB"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=2680011919064336"
+    },
+    {
+      "ad_id": "26306948868995901",
+      "start_date": "2026-03-29",
+      "days_running": 180,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "{{product.brand}}",
+      "headline": "{{product.name}}",
+      "description": "{{product.description}}",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/new-collection/",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-076/current_ads/26306948868995901_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6oCA8oQYrauNjgkpnCm19lolw51N3SrMQHpGRYE9nPoG5VbXHAiK_YL6W686GrwbDmuXsikwK7Y_eCdRaJ1zs728QThj0brfBZqhxnE3AkA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TQbMbnvNPkgQ7kNvwFrbegu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTg4NjMyNDg1MjA5NzExLCJhc3NldF9hZ2VfZGF5cyI6MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b0db1d0f6a8d2163&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRBODk2MjVDQ0YzMkIwRTg2NDc0QkVBQUFBODBCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg3NDUwODlDNjI1OTI1OThEMzhBOUIxNEU3QTI2ODk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbemZndlqPjBxUCKAJDMywXQE1EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=2VFsE8WaNPRA7uofFrlu1A&_nc_ss=70289&_nc_zt=28&oh=00_AQKtX7hlxmaU6wqlI8-Ml9tGZpjevacDHNe-dxASH4th-g&oe=6ABC41FB"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=26306948868995901"
+    },
+    {
+      "ad_id": "1720061779404700",
+      "start_date": "2026-03-29",
+      "days_running": 180,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "{{product.brand}}",
+      "headline": "{{product.name}}",
+      "description": "{{product.description}}",
+      "cta": "לקנייה",
+      "landing_url": "https://stav-fine-jewelry.com/collections/new-collection/",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-076/current_ads/1720061779404700_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6oCA8oQYrauNjgkpnCm19lolw51N3SrMQHpGRYE9nPoG5VbXHAiK_YL6W686GrwbDmuXsikwK7Y_eCdRaJ1zs728QThj0brfBZqhxnE3AkA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TQbMbnvNPkgQ7kNvwFrbegu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTg4NjMyNDg1MjA5NzExLCJhc3NldF9hZ2VfZGF5cyI6MTgwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b0db1d0f6a8d2163&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRBODk2MjVDQ0YzMkIwRTg2NDc0QkVBQUFBODBCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg3NDUwODlDNjI1OTI1OThEMzhBOUIxNEU3QTI2ODk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbemZndlqPjBxUCKAJDMywXQE1EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=2VFsE8WaNPRA7uofFrlu1A&_nc_ss=70289&_nc_zt=28&oh=00_AQKtX7hlxmaU6wqlI8-Ml9tGZpjevacDHNe-dxASH4th-g&oe=6ABC41FB"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1720061779404700"
+    }
+  ],
+  "products": [
+    {
+      "name": "צמיז זהב עם  פרח קטן משובץ רובי טבעי",
+      "price": "₪1900.00",
+      "url": "https://stav-fine-jewelry.com/products/small-flower-pendant-necklace-set-with-natural-blue-sapphire",
+      "images": [
+        "2026-09-25-076/products/p00_0.jpg",
+        "2026-09-25-076/products/p00_1.jpg"
+      ]
+    },
+    {
+      "name": "עגיל פרח עם שרשרת משובץ ספיר טבעי",
+      "price": "₪1100.00",
+      "url": "https://stav-fine-jewelry.com/products/עגיל-חישוק-מזהב-עם-פרח-ויונה-משובץ-אמרלד-טבעי",
+      "images": [
+        "2026-09-25-076/products/p01_0.jpg",
+        "2026-09-25-076/products/p01_1.jpg"
+      ]
+    },
+    {
+      "name": "עגיל פרח ויונה משובץ אמרלד טבעי",
+      "price": "₪2600.00",
+      "url": "https://stav-fine-jewelry.com/products/flower-and-dove-earring-set-with-natural-blue-sapphire",
+      "images": [
+        "2026-09-25-076/products/p02_0.jpg",
+        "2026-09-25-076/products/p02_1.jpg"
+      ]
+    },
+    {
+      "name": "עגיל זהב מיוחד מתנדנד משולב פרח  ציפור וספיר",
+      "price": "₪1800.00",
+      "url": "https://stav-fine-jewelry.com/products/unique-gold-dangle-earring-with-flower-bird-and-sapphire",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב תליון פרח משובץ אמרלד טבעי",
+      "price": "₪4400.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-with-flower-pendant-set-with-natural-emerald",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב גדול ומרשימה עם תליון פרח  כפול ויונה",
+      "price": "₪5700.00",
+      "url": "https://stav-fine-jewelry.com/products/statement-gold-necklace-with-double-flower-and-dove-pendant",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב  תליון פרח עתיק משובץ ספיר כחול טבעי",
+      "price": "₪4700.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-with-antique-flower-pendant-set-with-natural-blue-sapphire",
+      "images": []
+    },
+    {
+      "name": "שרשרת זבוב מזהב 14 קראט",
+      "price": "₪1800.00",
+      "url": "https://stav-fine-jewelry.com/products/שרשרת-זהב-ציפור-יונה-תלת-מימדית-copy",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב ציפור/ יונה תלת מימדית",
+      "price": "₪1800.00",
+      "url": "https://stav-fine-jewelry.com/products/3d-dove-bird-gold-necklace",
+      "images": []
+    },
+    {
+      "name": "שרשרת תליון פרח קטן משובץ ספיר כחול טבעי",
+      "price": "₪1900.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-with-small-flower-pendant-set-with-natural-blue-sapphire",
+      "images": []
+    },
+    {
+      "name": "שרשרת תליון פרח וזבוב משובץ רובי ורוד טבעי",
+      "price": "₪2800.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-with-flower-and-fly-pendant-set-with-natural-pink-ruby",
+      "images": []
+    },
+    {
+      "name": "שרשרת תליון פרח ויונה משובץ רובי טבעי",
+      "price": "₪2800.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-with-flower-and-dove-pendant-set-with-natural-ruby",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב גדולה ומרשימה עם תליון פרח תלת מימדי וזבוב",
+      "price": "₪5700.00",
+      "url": "https://stav-fine-jewelry.com/products/statement-gold-necklace-with-3d-flower-and-fly-pendant",
+      "images": []
+    },
+    {
+      "name": "טבעת Flow משובצת יהלום מרקיזה",
+      "price": "₪1800.00",
+      "url": "https://stav-fine-jewelry.com/products/flow-ring-set-with-a-marquise-diamond",
+      "images": []
+    },
+    {
+      "name": "טבעת זהב עדינה משובצת יהלום מעבדה, שקוע, בחיתוך מרקיזה",
+      "price": "₪1800.00",
+      "url": "https://stav-fine-jewelry.com/products/delicate-gold-ring-set-with-a-flush-set-marquise-cut-lab-grown-diamond",
+      "images": []
+    },
+    {
+      "name": "טבעת נישואין עם ריקוע עדין, פרופיל שטוח רוחב 2 מ\"מ",
+      "price": "₪1300.00",
+      "url": "https://stav-fine-jewelry.com/products/smooth-flat-hammered-wedding-band-2mm-width",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב משובצת יהלום מעבדה 1.50 קארט בחיתוך קושן מוארך אנכי",
+      "price": "₪4600.00",
+      "url": "https://stav-fine-jewelry.com/products/שרשרת-זהב-משובצת-יהלום-מעבדה-בחיתוך-קושן-מוארך-אנכי",
+      "images": []
+    },
+    {
+      "name": "שרשרת זהב משובצת יהלום מעבדה 1.50 קארט בחיתוך קושן מוארך אופקי",
+      "price": "₪4800.00",
+      "url": "https://stav-fine-jewelry.com/products/gold-necklace-set-with-a-1-50-carat-horizontal-elongated-cushion-cut-lab-grown-diamond",
+      "images": []
+    },
+    {
+      "name": "טבעת סוליטר משובצת יהלום מעבדה 1.50 קארט בחיתוך רדיאנט מוארך",
+      "price": "₪5300.00",
+      "url": "https://stav-fine-jewelry.com/products/elongated-radiant-cut-1-50-carat-lab-grown-diamond-solitaire-ring",
+      "images": []
+    },
+    {
+      "name": "טבעת אמרלד מעבדה בחיתוך בגט ופרינססים לבנים",
+      "price": "₪2000.00",
+      "url": "https://stav-fine-jewelry.com/products/lab-emerald-and-diamond-princess-cut-white-natural-ring",
+      "images": []
+    }
+  ],
+  "research": {
+    "one_liner": "מעצבת תכשיטים (בוגרת שנקר) עם בוטיק בשינקין, שמוכרת תכשיטי זהב 14K עם יהלומי מעבדה ואבני חן טבעיות, בעבודת יד ובהתאמה אישית. ₪1,100–5,700. מיצוב פרימיום נגיש.",
+    "hero_products": [
+      "טבעות זהב עם יהלום מעבדה (סוליטר, מרקיזה) — ₪1,800–5,300",
+      "קולקציית 'פרח ויונה' — שרשראות ועגילים עם רובי, ספיר ואמרלד טבעיים — ₪1,100–5,700",
+      "שרשראות מגן דוד וקמעות"
+    ],
+    "audience": [
+      {
+        "persona": "הקונה לעצמה",
+        "who": "נשים 28–50, עירוניות, עובדות, עם הכנסה פנויה",
+        "cares": "תכשיט ייחודי שלא רואים על כולן, איכות אמיתית (זהב 14K), לפנק את עצמה ברגע משמעותי"
+      },
+      {
+        "persona": "בן/בת זוג שקונים מתנה",
+        "who": "גברים ונשים 30–55 לקראת יום נישואין, יום הולדת, לידה או הצעה",
+        "cares": "לא לטעות, מתנה שתרגש ותישאר שנים, שירות אישי ואפשרות להחלפה"
+      },
+      {
+        "persona": "גברים (קולקציה חדשה)",
+        "who": "גברים 25–45 שמחפשים תכשיט זהב נקי ולא בולט מדי",
+        "cares": "סטייל, איכות, משהו שהוא לא 'בלינג'"
+      }
+    ],
+    "pains": [
+      "\"כל התכשיטים בחנויות נראים אותו דבר\"",
+      "\"יהלום אמיתי עולה הון, ומזויף נראה זול\"",
+      "\"אני אף פעם לא יודע מה לקנות לה\"",
+      "\"קונים באונליין תכשיט יקר ומגלים שהוא קטן או דק ממה שנראה בתמונה\"",
+      "\"רוצה לשנות משהו קטן בעיצוב, ואין עם מי לדבר\""
+    ],
+    "desires": [
+      "תכשיט עם סיפור שאפשר לספר עליו",
+      "להרגיש מיוחדת ולא 'עוד אחת'",
+      "ברק של יהלום בלי המחיר של יהלום ממכרה",
+      "לקנות מאדם אמיתי ולא ממותג בלי פנים",
+      "מתנה שמרגשת גם אחרי עשר שנים"
+    ],
+    "objections": [
+      "מחיר (₪1,800+ לטבעת)",
+      "\"מה זה בכלל יהלום מעבדה? זה אמיתי?\"",
+      "אמון בקנייה אונליין של תכשיט יקר (מידה, גודל, איכות)",
+      "זמן ייצור לעבודת יד ולהתאמה אישית",
+      "החזרות והחלפות"
+    ],
+    "current_ads_audit": "22 מודעות פעילות. המנצחות הברורות הן שני סרטונים שבהם סתיו מדברת למצלמה. הם רצים כבר 550 יום, ואחד מהם מסביר על אבנים ('יש יהלומים טבעיים שצבעו אותם בצבעים'). הבעיה: בסרטונים האלה, ובעוד 4 מודעות קטלוג/וידאו, הטקסט הראשי הוא רק {{product.brand}}. אין הוק בשורה הראשונה, אין הצעה ואין הקשר, כך שהזווית הכי חזקה שלה רצה בלי קופי. המודעות הסטטיות הן תמונות מוצר על רקע לבן מהאתר, בלי סצנת לייף־סטייל, בלי תקריב מאקרו ובלי סתיו. הן חוזרות על שלושה טקסטים: 'הקולקציה החדשה הגיעה', 'קולקציית מגן דוד' ו'האתר החדש שלי באוויר'. ה־CTA הוא כמעט תמיד 'לקנייה'. לא ראינו מודעות מתנה ממוקדות, מודעות לקולקציית הגברים החדשה או הצעה ברורה (יש 5% על 3 פריטים ומשלוח חינם מעל ₪1,000, אבל זה לא מופיע במודעות).",
+    "gaps": [
+      "הזווית המנצחת (סתיו מול המצלמה) קיימת רק בווידאו, בלי טקסט ראשי. אין לה גרסאות סטטיות ואין לה המשך",
+      "יהלום מעבדה, המוצר הכי חזק שלה מבחינת מחיר מול ברק, לא עומד במרכז אף מודעה",
+      "אין קמפיין מתנות לבן/בת זוג",
+      "קולקציית הגברים החדשה לא מפורסמת",
+      "ההצעות שיש באתר (5% על 3 פריטים, משלוח חינם מעל ₪1,000) לא מופיעות במודעות",
+      "אין שימוש בבוטיק הפיזי כהוכחת אמינות ('בואו לראות בשינקין 48')",
+      "אין תקריבי מאקרו על האבנים ועל עבודת היד. תמונות רקע לבן לא מצדיקות מחיר של ₪2,000+"
+    ],
+    "angles": [
+      {
+        "id": "A1",
+        "name": "המעצבת מאחורי התכשיט",
+        "idea": "להרחיב את מה שכבר מנצח אצלה (סתיו מול המצלמה): גרסאות סטטיות וקרוסלות עם הפנים שלה, מהסקיצה, דרך הדפסת תלת־ממד ויציקה בזהב, עד הבוטיק. והפעם עם קופי אמיתי.",
+        "persona": "הקונה לעצמה",
+        "hook": "כל תכשיט כאן מתחיל בסקיצה שלי. בשינקין 48.",
+        "why": "הסרטונים שבהם היא מופיעה הם המודעות הוותיקות ביותר שלה (550 יום), כלומר הם עובדים. היום הזווית הזו רצה בלי טקסט ובלי גרסאות נוספות."
+      },
+      {
+        "id": "A2",
+        "name": "יהלום מעבדה, בלי הפשרה",
+        "idea": "חינוך קצר: יהלום מעבדה זהה ליהלום ממכרה בהרכב ובברק, ובמחיר נגיש. מציגים את הטבעות מ־₪1,800.",
+        "persona": "הקונה לעצמה + זוגות לפני הצעה",
+        "hook": "אותו יהלום. אותו ברק. בלי לשלם על המכרה.",
+        "why": "זו ההתנגדות הכי גדולה שלה, וגם היתרון התחרותי הכי חזק. אף מודעה שלה לא מדברת על זה היום."
+      },
+      {
+        "id": "A3",
+        "name": "המתנה שהיא לא תשכח",
+        "idea": "מודעות למי שקונה מתנה: 'אל תקנה עוד שרשרת', עם דגש על ייחודיות, אריזה, התאמה אישית ושירות אישי מהמעצבת.",
+        "persona": "בן/בת זוג שקונים מתנה",
+        "hook": "מחפש מתנה שהיא תזכור? תפסיק לחפש \"עוד שרשרת\".",
+        "why": "פרסונה עם כוונת קנייה גבוהה וכמעט בלי רגישות למחיר. היום אין לה אף מודעה שמדברת אליה."
+      },
+      {
+        "id": "A4",
+        "name": "טבע בזהב",
+        "idea": "תקריבי מאקרו על קולקציית הפרח, היונה והזבוב: אבני חן טבעיות, עבודת יד, פרטים קטנים שלא רואים בתמונת קטלוג.",
+        "persona": "הקונה לעצמה",
+        "hook": "פרח מזהב 14K. רובי טבעי בלב.",
+        "why": "הוויזואל הוא המוצר. מאקרו פרימיום מבליט את עבודת היד ומצדיק את המחיר הרבה יותר מתמונת רקע לבן."
+      },
+      {
+        "id": "A5",
+        "name": "עיצוב אישי",
+        "idea": "'רוצה אבן אחרת? צבע אחר? מידה אחרת?' סתיו מתאימה את התכשיט אלייך, מהסקיצה ועד המסירה.",
+        "persona": "הקונה לעצמה + גברים",
+        "hook": "אותו עיצוב, האבן שלך.",
+        "why": "התאמה אישית היא יתרון שרשתות לא יכולות להציע. היא כבר מוזכרת באתר, אבל לא עומדת במרכז אף מודעה."
+      }
+    ],
+    "sources": [
+      "https://stav-fine-jewelry.com/pages/about",
+      "https://www.maariv.co.il/hamekomon/tel-aviv/Article-953386",
+      "https://www.shenkar.ac.il/he/news-events/alumni/"
+    ]
+  },
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "היי סתיו, כאן ערן 🙂\nראיתי את הסרטונים שלך שמסבירים על האבנים. רואים שהם עובדים, הם רצים כבר יותר משנה.\nשמתי לב שבמודעות האלה אין בכלל טקסט פתיחה (מופיע רק שם המותג), ושהמודעות הסטטיות לא משתמשות בך ובסיפור של הבוטיק בשינקין.\nהכנתי כמה רעיונות למודעות חדשות על התכשיטים שלך, בלי התחייבות. רוצה שאשלח לך קישור?"
   },
   "cost": {
     "image_gen_usd": 0
@@ -1071,7 +1725,9 @@
   "timestamps": {
     "discovered": "2026-09-25T13:11:10",
     "filtered": "2026-09-25T13:12:06",
-    "qualified": "2026-09-25T13:16:10"
+    "qualified": "2026-09-25T13:16:10",
+    "collected": "2026-09-25T13:26:13",
+    "researched": "2026-09-25T13:29:02"
   },
   "qualify": {
     "pages_checked": [

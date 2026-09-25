@@ -45,7 +45,8 @@ def get(url: str) -> tuple[str, str] | None:
     except httpx.HTTPError as e:
         log.warning("GET %s failed: %s", url, e)
         return None
-    if r.status_code >= 400 or "html" not in r.headers.get("content-type", "html"):
+    ctype = r.headers.get("content-type", "html")
+    if r.status_code >= 400 or not any(t in ctype for t in ("html", "json")):
         log.warning("GET %s -> %s", url, r.status_code)
         return None
     path.write_text(f"{r.url}\n{r.text}", encoding="utf-8")
@@ -91,6 +92,23 @@ class AdLibraryBrowser:
         html = self.page.content()
         path.write_text(f"{self.page.url}\n{html}", encoding="utf-8")
         return self.page.url, html
+
+    def fetch_json(self, url: str):
+        """JSON endpoint via httpx, falling back to Chromium for bot-protected stores."""
+        res = get(url)
+        if res:
+            try:
+                return json.loads(res[1])
+            except ValueError:
+                pass
+        _sleep()
+        try:
+            resp = self.page.goto(url, timeout=60000, wait_until="domcontentloaded")
+            if resp is None or resp.status >= 400:
+                return None
+            return json.loads(self.page.inner_text("body"))
+        except Exception:  # noqa: BLE001
+            return None
 
     def fetch(self, url: str) -> tuple[str, str] | None:
         return get(url) or self.render(url)

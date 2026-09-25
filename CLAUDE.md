@@ -275,9 +275,9 @@ python run.py dashboard       # rebuild dashboard
 
 ## Build order (for Claude Code)
 1. Scaffold project, config, DB, CLI skeleton. ✅
-2. Stage 1–2 (discover + filter). Test with one keyword, show Eran 10 raw advertisers. ✅ (waiting for Eran)
-3. Stage 3 (qualify). Test on those 10, report hit rate per field.
-4. Stage 4–5 (collect + research). Produce one full JSON + internal.html for review.
+2. Stage 1–2 (discover + filter). Test with one keyword, show Eran 10 raw advertisers. ✅
+3. Stage 3 (qualify). Test on those 10, report hit rate per field. ✅ (owner IG = best-effort)
+4. Stage 4–5 (collect + research). Produce one full JSON + internal.html for review. ✅ (waiting for Eran)
 5. Stage 6 (approval flow + dashboard).
 6. Stage 7–8 (generation + copy). Test on ONE approved lead first, 4 ads only, get Eran's feedback on quality before running all 20.
 7. Stage 9 (client page), then optional deploy.

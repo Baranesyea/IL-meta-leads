@@ -4,6 +4,8 @@
   python run.py discover            stage 1 only
   python run.py filter              stage 2 only
   python run.py qualify [ids...]    stage 3 (default: all `filtered` leads)
+  python run.py collect [ids...]    stage 4 (default: all `qualified` leads)
+  python run.py internal <ids...>   render output/<id>/internal.html
   python run.py find                stages 1-5 (currently 1-3 are implemented)
   python run.py status [date]       list leads + status
   python run.py approve <id>
@@ -60,6 +62,19 @@ def report_qualify(done):
 def cmd_qualify(args):
     from src import qualify
     report_qualify(qualify.run(args.lead_ids or None))
+
+
+def cmd_collect(args):
+    from src import collect
+    for lead in collect.run(args.lead_ids or None):
+        print(f"  {lead['lead_id']}  {lead['meta']['page_name'][:40]}  ads={len(lead['current_ads'])} "
+              f"winners={sum(a['likely_winner'] for a in lead['current_ads'])} products={len(lead['products'])}")
+
+
+def cmd_internal(args):
+    from src import publish
+    for path in publish.run_internal(args.lead_ids):
+        print(path)
 
 
 def cmd_find(args):
@@ -120,6 +135,12 @@ def main():
     q = sub.add_parser("qualify")
     q.add_argument("lead_ids", nargs="*")
     q.set_defaults(func=cmd_qualify)
+    c = sub.add_parser("collect")
+    c.add_argument("lead_ids", nargs="*")
+    c.set_defaults(func=cmd_collect)
+    ip = sub.add_parser("internal")
+    ip.add_argument("lead_ids", nargs="+")
+    ip.set_defaults(func=cmd_internal)
     fd = sub.add_parser("find")
     fd.add_argument("--max-keywords", type=int, default=8)
     fd.set_defaults(func=cmd_find)

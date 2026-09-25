@@ -198,7 +198,79 @@
       "https://eli-paz.co.il/"
     ]
   },
-  "current_ads": [],
+  "current_ads": [
+    {
+      "ad_id": "776887461408978",
+      "start_date": "2025-08-25",
+      "days_running": 396,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "בחנות תכשיטים של אלי פז בתל אביב יש - חנות יהלומים, חנות תכשיטי זהב, חנות טבעות, חנות שרשראות, חייגו 035167021 - רחוב אלנבי 67",
+      "headline": "אלי פז - חנות תכשיטים בתל אביב. זהב, כסף, יהלומים, טבעות, שרשראות.",
+      "description": " ",
+      "cta": "לקנייה",
+      "landing_url": "http://eli-paz.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-25-077/current_ads/776887461408978_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-25-077/current_ads/776887461408978_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=776887461408978"
+    },
+    {
+      "ad_id": "1074684208472272",
+      "start_date": "2026-08-29",
+      "days_running": 27,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "WHATSAPP"
+      ],
+      "variations": 1,
+      "primary_text": "מבחר ענק של עגילי יהלומי מעבדה CVD הכל מתועד IGI!!💎. זמין בכל הגדלים ובכל חיתוכי היהלומים במחיר של החל מ 1799 ש״ח בלבד!! אלי פז תכשיטים , אלנבי 67/35 תל אביב יפו 📍. לפרטים שלחו לנו הודעה 💌",
+      "headline": "",
+      "description": "",
+      "cta": "שליחת הודעת WhatsApp",
+      "landing_url": "https://api.whatsapp.com/send",
+      "media": [
+        {
+          "type": "video",
+          "thumb": "2026-09-25-077/current_ads/1074684208472272_video.jpg",
+          "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNpxLqvrFRZeiFRW-6AkzzW0Tz2k0rx8nSYAN8CgkmpAlnORp7UnNir1a6BggIZKUIrR4T3rFrR-8z0R-jOopbXFKQhSXKajiIrnhHDTw.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=E90-FMd3Y0YQ7kNvwEW7tb_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMjQyMTY5OTk0NTQ4NzM2LCJhc3NldF9hZ2VfZGF5cyI6OTUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=ii0xVoOHeXnmoFoe1EuwaA&_nc_ss=70289&_nc_zt=28&oh=00_AQLxJkUGZil2RW0ASxWs9gic_jKf4XSBwAJdNfvHgLRYOA&oe=6ABC58D7"
+        }
+      ],
+      "likely_winner": false,
+      "library_url": "https://www.facebook.com/ads/library/?id=1074684208472272"
+    },
+    {
+      "ad_id": "776887461408978",
+      "start_date": "",
+      "days_running": 0,
+      "platforms": [],
+      "variations": 1,
+      "primary_text": "בחנות תכשיטים של אלי פז בתל אביב יש - חנות יהלומים, חנות תכשיטי זהב, חנות טבעות, חנות שרשראות, חייגו 035167021 - רחוב אלנבי 67",
+      "headline": "",
+      "description": "",
+      "cta": "",
+      "landing_url": "http://eli-paz.co.il/",
+      "media": [],
+      "likely_winner": false,
+      "library_url": null
+    }
+  ],
   "products": [],
   "research": {},
   "new_ads": [],
@@ -211,7 +283,8 @@
   "timestamps": {
     "discovered": "2026-09-25T13:11:10",
     "filtered": "2026-09-25T13:12:17",
-    "qualified": "2026-09-25T13:16:20"
+    "qualified": "2026-09-25T13:16:20",
+    "collected": "2026-09-25T13:26:59"
   },
   "qualify": {
     "pages_checked": [

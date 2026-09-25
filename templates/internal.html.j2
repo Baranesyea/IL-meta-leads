@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ b.name_he or m.page_name }} · ליד פנימי</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#f6f5f2; --card:#fff; --ink:#1d1d1f; --muted:#6b6b70; --line:#e6e4df; --accent:#8a6d3b; --ok:#2e7d4f; --warn:#b26a00; --bad:#b3261e; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#141414; --card:#1e1e1f; --ink:#f1f1f1; --muted:#a3a3a8; --line:#333; --accent:#d4b27a; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 Heebo, system-ui, sans-serif; }
+  .wrap { max-width:1100px; margin:0 auto; padding:24px 16px 64px; }
+  header { display:flex; flex-wrap:wrap; gap:12px 24px; align-items:baseline; justify-content:space-between; margin-bottom:20px; }
+  h1 { margin:0; font-size:28px; }
+  h2 { font-size:20px; margin:0 0 12px; }
+  h3 { font-size:16px; margin:16px 0 6px; }
+  .muted { color:var(--muted); }
+  .pill { display:inline-block; padding:2px 10px; border-radius:99px; font-size:13px; background:var(--line); }
+  .pill.status { background:var(--accent); color:#fff; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px; margin-bottom:16px; }
+  .grid { display:grid; gap:12px; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); }
+  table { width:100%; border-collapse:collapse; }
+  td, th { text-align:right; padding:8px 6px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-weight:500; color:var(--muted); width:170px; }
+  a { color:var(--accent); word-break:break-all; }
+  .conf-high { color:var(--ok); } .conf-medium { color:var(--warn); } .conf-low, .conf-missing { color:var(--bad); }
+  .ad { border:1px solid var(--line); border-radius:12px; overflow:hidden; background:var(--card); display:flex; flex-direction:column; }
+  .ad img { width:100%; aspect-ratio:1; object-fit:cover; display:block; background:var(--line); }
+  .ad .body { padding:10px 12px; font-size:14px; }
+  .ad .txt { white-space:pre-line; max-height:9.6em; overflow:hidden; }
+  .win { color:var(--ok); font-weight:700; }
+  .product img { width:100%; aspect-ratio:1; object-fit:cover; border-radius:10px; background:var(--line); }
+  ul { margin:6px 0; padding-inline-start:20px; }
+  .angle { border-inline-start:3px solid var(--accent); padding:6px 14px; margin:12px 0; }
+  .hook { font-size:18px; font-weight:700; }
+  .msg { white-space:pre-line; background:var(--bg); border-radius:10px; padding:14px; }
+  .wa { display:inline-block; margin-top:10px; background:#25d366; color:#fff; padding:8px 16px; border-radius:99px; text-decoration:none; font-weight:500; }
+  .placeholder { border:1px dashed var(--line); border-radius:12px; padding:18px; text-align:center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <h1>{{ b.name_he or m.page_name }}</h1>
+    <div class="muted">{{ b.name_en }}{% if b.city %} · {{ b.city }}{% endif %}{% if b.owner_name %} · בעלים: {{ b.owner_name }}{% endif %}</div>
+  </div>
+  <div><span class="pill status">{{ lead.status }}</span> <span class="pill">{{ lead.lead_id }}</span></div>
+</header>
+
+<section class="card">
+  <h2>פרטי קשר</h2>
+  <table>
+    <tr><th>אתר</th><td><a href="{{ b.website }}" target="_blank">{{ b.website }}</a></td></tr>
+    {% for key, label in [("facebook_page","עמוד פייסבוק"),("instagram_page","אינסטגרם העסק"),("owner_instagram","אינסטגרם הבעלים")] %}
+    {% set f = c[key] %}
+    <tr><th>{{ label }}</th><td>
+      {% if f.url %}<a href="{{ f.url }}" target="_blank">{{ f.url }}</a>
+        <span class="conf-{{ f.confidence }}">· {{ f.confidence }}</span>
+        {% if f.source %}<div class="muted">מקור: {% if f.source.startswith("http") %}<a href="{{ f.source }}" target="_blank">{{ f.source }}</a>{% else %}{{ f.source }}{% endif %}</div>{% endif %}
+      {% else %}<span class="conf-missing">לא נמצא, צריך להשלים ידנית</span>{% endif %}
+    </td></tr>
+    {% endfor %}
+    <tr><th>וואטסאפ</th><td>
+      {% if c.whatsapp.number_e164 %}{{ c.whatsapp.number_e164 }} <span class="conf-{{ c.whatsapp.confidence }}">· {{ c.whatsapp.confidence }}</span>
+        <div class="muted">מקור: <a href="{{ c.whatsapp.source }}" target="_blank">{{ c.whatsapp.source }}</a></div>
+      {% else %}<span class="conf-missing">לא נמצא</span>{% endif %}
+    </td></tr>
+    {% if b.email %}<tr><th>מייל</th><td>{{ b.email }}</td></tr>{% endif %}
+    <tr><th>מודעות פעילות</th><td>{{ m.active_ads_count }}{% if m.page_like_count %} · {{ "{:,}".format(m.page_like_count) }} לייקים לעמוד{% endif %} · מילת חיפוש: {{ m.search_keyword }}</td></tr>
+  </table>
+</section>
+
+{% if r %}
+<section class="card">
+  <h2>דוח מחקר</h2>
+  <p><strong>{{ r.one_liner }}</strong></p>
+  <h3>מוצרי הדגל</h3><ul>{% for x in r.hero_products %}<li>{{ x }}</li>{% endfor %}</ul>
+  <h3>קהל</h3>
+  <ul>{% for a in r.audience %}<li><strong>{{ a.persona }}</strong>: {{ a.who }}. חשוב לה/לו: {{ a.cares }}</li>{% endfor %}</ul>
+  <div class="grid">
+    <div><h3>כאבים</h3><ul>{% for x in r.pains %}<li>{{ x }}</li>{% endfor %}</ul></div>
+    <div><h3>רצונות</h3><ul>{% for x in r.desires %}<li>{{ x }}</li>{% endfor %}</ul></div>
+    <div><h3>התנגדויות</h3><ul>{% for x in r.objections %}<li>{{ x }}</li>{% endfor %}</ul></div>
+  </div>
+  <h3>ניתוח המודעות הנוכחיות</h3><p>{{ r.current_ads_audit }}</p>
+  <h3>פערים והזדמנויות</h3><ul>{% for x in r.gaps %}<li>{{ x }}</li>{% endfor %}</ul>
+</section>
+
+<section class="card">
+  <h2>5 זוויות חדשות</h2>
+  {% for a in r.angles %}
+  <div class="angle">
+    <div class="muted">{{ a.id }} · {{ a.persona }}</div>
+    <div><strong>{{ a.name }}</strong></div>
+    <div class="hook">״{{ a.hook }}״</div>
+    <div>{{ a.idea }}</div>
+    <div class="muted">למה זה יעבוד: {{ a.why }}</div>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+<section class="card">
+  <h2>המודעות הנוכחיות שלהם ({{ lead.current_ads|length }})</h2>
+  <div class="grid">
+  {% for ad in lead.current_ads %}
+    <div class="ad">
+      {% set img = (ad.media|selectattr("type","equalto","image")|list) %}
+      {% set vid = (ad.media|selectattr("type","equalto","video")|list) %}
+      {% if img %}<img loading="lazy" src="{{ inline(img[0].path) }}" alt="">
+      {% elif vid and vid[0].thumb %}<img loading="lazy" src="{{ inline(vid[0].thumb) }}" alt="">{% endif %}
+      <div class="body">
+        <div>{% if ad.likely_winner %}<span class="win">★ כנראה מנצחת</span> · {% endif %}{{ ad.days_running }} ימים{% if vid %} · וידאו{% endif %}{% if ad.variations > 1 %} · {{ ad.variations }} גרסאות{% endif %}</div>
+        <div class="txt">{{ ad.primary_text or "—" }}</div>
+        <div class="muted">{{ ad.cta }} · <a href="{{ ad.library_url }}" target="_blank">בספרייה</a></div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+
+{% if lead.products %}
+<section class="card">
+  <h2>מוצרים ומחירים</h2>
+  <div class="grid">
+  {% for p in lead.products[:12] %}
+    <div class="product">
+      {% if p.images %}<img loading="lazy" src="{{ inline(p.images[0]) }}" alt="">{% endif %}
+      <div><a href="{{ p.url }}" target="_blank">{{ p.name }}</a></div>
+      <div class="muted">{{ p.price }}</div>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="card">
+  <h2>20 המודעות החדשות</h2>
+  {% if lead.new_ads %}
+    {# filled in stage 7-8 #}
+  {% else %}
+    <div class="placeholder muted">ייווצרו אחרי אישור הליד (שלבים 7–8)</div>
+  {% endif %}
+</section>
+
+<section class="card">
+  <h2>הודעת וואטסאפ ראשונה (הצעה)</h2>
+  <div class="msg">{{ lead.outreach.suggested_whatsapp_message or "—" }}</div>
+  {% if c.whatsapp.number_e164 %}
+  <a class="wa" target="_blank" href="https://wa.me/{{ c.whatsapp.number_e164[1:] }}?text={{ lead.outreach.suggested_whatsapp_message|urlencode }}">פתח שיחה בוואטסאפ</a>
+  {% endif %}
+</section>
+</div>
+</body>
+</html>
