@@ -122,3 +122,16 @@
 - Source of truth for site files: `web/base44/` in this repo → synced into the Base44 sandbox with
   curl from raw.githubusercontent (repo is public). AdCanvas.jsx currently lives only in the Base44 app.
 - Still missing: Eran's WhatsApp link for the CTA (`contact_url` in data.js).
+
+## 2026-09-25 (evening) — client page fixes
+- Editor pages: Base44 lists a page per *component file* + literal route, and only re-scans routes when a file is
+  saved through the builder path (`POST /api/apps/{id}/coding/write-batch`), not via sandbox `run_command`.
+  So each client gets `src/pages/<Name>.jsx` (thin wrapper around ClientPitch with a fixed slug) + a literal
+  `/p/<slug>` route between the CLIENT-ROUTES markers in App.jsx, saved via write-batch. Stav → `Stav.jsx`.
+- Contrast: `overlay.legibility()` measures the pixels under each text box (5th/95th luminance percentile) and
+  picks ink + the minimum scrim for 4.5:1 (big Black type) / 7:1 (thin, script, small type); busy boxes or
+  scrim > .62 → plate. `brand_line()` drops the brand line on busy strips. Sub lines no longer faded,
+  small type sizes raised, Idealist stroke thickened. Specs (scrim, plate_bg, brand_color) exported to data.js.
+- Client page: lightbox close button fixed on top (was covered by the ad box on mobile), opaque backdrop,
+  scroll lock; campaign strip = one height; angle rows chunked by viewport (4/2/1) and justified to one height.
+- CTA WhatsApp: https://wa.me/972545471522 (Eran).
