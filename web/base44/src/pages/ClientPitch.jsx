@@ -98,8 +98,8 @@ const CSS = `
 .bp .angle .hook{font-weight:300;font-size:clamp(24px,2.6vw,36px);margin:14px 0 0}
 .bp .angle .idea{font-weight:300;font-size:19px;line-height:1.75;color:var(--muted);max-width:62ch;margin:18px 0 0}
 .bp .ads{display:flex;flex-direction:column;gap:22px}
-.bp .ads .row{display:flex;gap:22px;align-items:flex-start}
-.bp .ads .card{flex:var(--ar) 1 0;min-width:0}
+.bp .ads .row{display:flex;gap:22px;align-items:stretch}
+.bp .ads .card{min-width:0}  /* flex-grow set inline: aspect ratio × 100 (grow factors < 1 would leave the row half empty) */
 .bp .card{cursor:zoom-in;background:#fff;box-shadow:0 22px 44px -26px rgba(40,25,10,.45);transition:transform .6s cubic-bezier(.2,.7,.2,1),box-shadow .6s}
 .bp .card:hover{transform:translateY(-8px);box-shadow:0 36px 70px -28px rgba(40,25,10,.55)}
 .bp .card .cap{padding:16px 18px 20px}
@@ -118,7 +118,7 @@ const CSS = `
 .bp footer{padding:36px 20px;text-align:center;font-size:13px;color:var(--muted);letter-spacing:.14em;background:var(--ivory)}
 
 /* lightbox */
-.bp .lb{position:fixed;inset:0;z-index:60;background:rgba(9,7,5,.94);overflow-y:auto;overscroll-behavior:contain;
+.bp .lb{position:fixed;inset:0;z-index:60;background:#0b0907;overflow-y:auto;overscroll-behavior:contain;
   display:flex;align-items:center;justify-content:center;padding:84px 28px 40px}
 .bp .lb .box{display:flex;gap:44px;max-width:1000px;width:100%;align-items:flex-start;justify-content:center;margin:auto}
 .bp .lb .ad{flex:none;width:min(460px, calc(80svh * var(--ar)))}
@@ -308,7 +308,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
               {chunk(byAngle[ang.id] || [], cols).map((row, ri) => (
                 <div key={ri} className="row">
                   {row.map((a, k) => (
-                    <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, "--ar": a.spec.w / a.spec.h }} onClick={() => setOpen(a)}>
+                    <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${(a.spec.w / a.spec.h) * 100} 1 0` }} onClick={() => setOpen(a)}>
                       <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
                       <div className="cap"><b>{a.headline}</b><span>{a.format} · לטקסט המלא</span></div>
                     </div>
