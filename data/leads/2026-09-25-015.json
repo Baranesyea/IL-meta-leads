@@ -1,0 +1,96 @@
+{
+  "lead_id": "2026-09-25-015",
+  "status": "filtered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/1732021707041598",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1732021707041598",
+    "page_name": "Cosmetics & Beauty",
+    "active_ads_count": 3,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "2339373390143539",
+        "link_title": "שיזוף עוצמתי עם טיפוח עור באור אדום וקולגן",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2339373390143539"
+      },
+      {
+        "ad_id": "1096049939742750",
+        "link_title": "שיזוף עוצמתי עם טיפוח עור באור אדום וקולגן",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1096049939742750"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "cosmetics"
+      ],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2339373390143539",
+      "1096049939742750"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "filtered": "2026-09-25T11:03:05"
+  }
+}

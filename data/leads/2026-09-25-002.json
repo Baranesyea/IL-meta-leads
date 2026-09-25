@@ -1,0 +1,105 @@
+{
+  "lead_id": "2026-09-25-002",
+  "status": "filtered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/110673431806987",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "110673431806987",
+    "page_name": "Kalahari Rose IL",
+    "active_ads_count": 3,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1578521020439802",
+        "link_title": "20% הנחה על כל האתר",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1578521020439802"
+      },
+      {
+        "ad_id": "1118502324199985",
+        "link_title": "20% הנחה על כל האתר",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1118502324199985"
+      },
+      {
+        "ad_id": "4718898048396528",
+        "link_title": "20% הנחה על כל האתר",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4718898048396528"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה"
+      ],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1578521020439802",
+      "1118502324199985",
+      "4718898048396528"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "filtered": "2026-09-25T11:03:05"
+  }
+}

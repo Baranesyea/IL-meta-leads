@@ -1,0 +1,97 @@
+{
+  "lead_id": "2026-09-25-017",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: שיחת אבחון, אבחון",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/1818576141707743",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1818576141707743",
+    "page_name": "Ifat Raba יפעת רבה קוסמטיקה",
+    "active_ads_count": 2,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1806975980318378",
+        "link_title": "לשיחת אבחון העור ללא עלות",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1806975980318378"
+      },
+      {
+        "ad_id": "2080675919221090",
+        "link_title": "לשיחת אבחון העור ללא עלות",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2080675919221090"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "שיחת אבחון",
+        "אבחון"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "product_score": -4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1806975980318378",
+      "2080675919221090"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}

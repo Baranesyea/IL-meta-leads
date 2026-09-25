@@ -1,0 +1,134 @@
+{
+  "lead_id": "2026-09-25-013",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: לימודי, לומדים, קריירה",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/247073528655099",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "247073528655099",
+    "page_name": "המרכז הבינתחומי ללימודי הקוסמטיקה",
+    "active_ads_count": 14,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1080025354894829",
+        "link_title": "לומדים קוסמטיקה. בונים קריירה.",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1080025354894829"
+      },
+      {
+        "ad_id": "2115572849330445",
+        "link_title": "לומדים קוסמטיקה. בונים קריירה.",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2115572849330445"
+      },
+      {
+        "ad_id": "1624724669303885",
+        "link_title": "לומדים קוסמטיקה. בונים קריירה.",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1624724669303885"
+      },
+      {
+        "ad_id": "1443025554407827",
+        "link_title": "לומדים קוסמטיקה. בונים קריירה.",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1443025554407827"
+      },
+      {
+        "ad_id": "1350354167176786",
+        "link_title": "לומדים קוסמטיקה. בונים קריירה.",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1350354167176786"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "לימודי",
+        "לומדים",
+        "קריירה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 14,
+      "active_ads_count_exact": false,
+      "product_score": -6
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1080025354894829",
+      "2115572849330445",
+      "1624724669303885",
+      "1443025554407827",
+      "1350354167176786",
+      "1057835533752505",
+      "1655826515903000",
+      "2277810236317760",
+      "1434696818160530",
+      "2396161731202730",
+      "1068688906015497",
+      "1068596369398801",
+      "1046810668356901",
+      "972819439197580"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}

@@ -1,0 +1,154 @@
+# Ad Lead Engine — runtime config
+
+daily_target: 10          # leads that must reach "researched" per day
+country: IL
+
+discovery:
+  # Which backend "python run.py discover" uses:
+  #   mcp_import  - read JSON dumps of Meta Ads MCP `ads_library_search` results
+  #                 from data/raw/discover/ (Claude Code runs the MCP, saves the dump)
+  #   apify       - Apify "Facebook Ads Library Scraper" (needs APIFY_TOKEN in .env)
+  backend: mcp_import
+  apify_actor: curious_coder~facebook-ads-library-scraper
+  max_ads_per_keyword: 50
+  # Rotated one per run; progress kept in data/keyword_state.json
+  keywords:
+    - קוסמטיקה
+    - טיפוח
+    - סרום
+    - בישום
+    - תכשיטים
+    - אופנה
+    - בגדי ים
+    - נעליים
+    - תיקים
+    - מוצרי תינוקות
+    - מוצרי בית
+    - עיצוב הבית
+    - מטבח
+    - תוספי תזונה
+    - חיות מחמד
+    - ספורט
+    - גאדג'טים
+    - מתנות
+    - קפה
+    - שוקולד
+    - skincare
+    - jewelry
+    - handmade
+    - free shipping
+
+filter:
+  min_active_ads: 2
+  max_active_ads: 150        # above this it's probably a big advertiser
+  accepted_currencies: [ILS]
+  # Big chains / known brands — never leads
+  brand_blocklist:
+    - super-pharm
+    - סופר-פארם
+    - סופר פארם
+    - castro
+    - קסטרו
+    - fox
+    - פוקס
+    - golf
+    - גולף
+    - shufersal
+    - שופרסל
+    - be pharm
+    - ביפארם
+    - terminal x
+    - טרמינל איקס
+    - renuar
+    - רנואר
+    - h&o
+    - zara
+    - h&m
+    - ikea
+    - איקאה
+    - ace
+    - אייס
+    - home center
+    - הום סנטר
+    - ksp
+    - bug
+    - באג
+    - אסוס
+    - samsung
+    - סמסונג
+    - apple
+    - l'oreal
+    - loreal
+    - nivea
+    - ahava
+    - אהבה
+    - laline
+    - לאלין
+    - sabon
+    - סבון של פעם
+    - kiko
+    - sephora
+    - mac cosmetics
+  # Words in page name / ad titles that indicate a service, course, clinic, lead-gen
+  service_keywords:
+    - קליניקה
+    - clinic
+    - קוסמטיקאית
+    - קוסמטיקה מתקדמת
+    - הסרת שיער
+    - טיפול
+    - טיפולי
+    - לימודי
+    - לומדים
+    - קורס
+    - סדנה
+    - הכשרה
+    - קריירה
+    - טופס הרשמה
+    - הרשמה
+    - וובינר
+    - ייעוץ
+    - שיחת אבחון
+    - אבחון
+    - לפרטים ומידע
+    - משלוחים לעסקים
+    - דליברי
+    - delivery
+    - נדל"ן
+    - דירות
+    - ביטוח
+    - הלוואה
+    - משכנתא
+    - מאמנת
+    - coach
+    - report
+    - portal
+    - פורטל
+  # Words that point to a physical product being sold
+  product_keywords:
+    - הנחה
+    - משלוח
+    - משלוחים
+    - מארז
+    - ערכת
+    - סט
+    - באנדל
+    - קולקציה
+    - לרכישה
+    - להזמנה
+    - קנו
+    - מבצע
+    - קופון
+    - קוד
+    - סרום
+    - קרם
+    - שמן
+    - תכשיט
+    - מזוודות
+    - cosmetics
+    - shop
+    - store
+
+image:
+  provider: undecided        # decided with Eran before stage 7
+  max_retries_per_ad: 2

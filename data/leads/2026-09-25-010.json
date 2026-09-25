@@ -1,0 +1,87 @@
+{
+  "lead_id": "2026-09-25-010",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: report",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/105713741854934",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "105713741854934",
+    "page_name": "Israel Wellness Report",
+    "active_ads_count": 30,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1610228880740256",
+        "link_title": "שוב לילות רגועים",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1610228880740256"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "report"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [
+        "USD"
+      ],
+      "active_ads_count": 30,
+      "active_ads_count_exact": true,
+      "product_score": -2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1610228880740256"
+    ],
+    "currencies": [
+      "USD"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}

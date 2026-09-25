@@ -1,0 +1,90 @@
+{
+  "lead_id": "2026-09-25-006",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: דליברי",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/104581132112053",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "104581132112053",
+    "page_name": "הופו דליברי",
+    "active_ads_count": 1,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1059910910171501",
+        "link_title": "משלוחים מהירים לעסקים",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1059910910171501"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "דליברי"
+      ],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1059910910171501"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "lead_id": "2026-09-25-018",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טופס הרשמה, הרשמה",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/181565201879746",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "181565201879746",
+    "page_name": "חוה זינגבוים",
+    "active_ads_count": 1,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "943607018788712",
+        "link_title": "טופס הרשמה - סרטון מקצועי של חוה מתוך כנס 11/3/24 - lp",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=943607018788712"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טופס הרשמה",
+        "הרשמה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "product_score": -4
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "943607018788712"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "lead_id": "2026-09-25-019",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/232366679967951",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "232366679967951",
+    "page_name": "מירי כהן קוסמטיקה - Miri cohen cosmetics",
+    "active_ads_count": 2,
+    "search_keyword": "קוסמטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1385624593741425",
+        "link_title": "תדאגי לעצמך בטיפול הכי טוב שאפשר >>",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1385624593741425"
+      },
+      {
+        "ad_id": "1433874738883363",
+        "link_title": "תדאגי לעצמך בטיפול הכי טוב שאפשר >>",
+        "body": "",
+        "landing_url": "",
+        "start_time": null,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1433874738883363"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [
+        "cosmetics"
+      ],
+      "hebrew": true,
+      "currencies": [
+        "ILS"
+      ],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "product_score": -1
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1385624593741425",
+      "1433874738883363"
+    ],
+    "currencies": [
+      "ILS"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T11:03:05",
+    "rejected": "2026-09-25T11:03:05"
+  }
+}
