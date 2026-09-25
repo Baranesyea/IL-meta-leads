@@ -8,9 +8,18 @@ import UserNotRegisteredError from '@/components/UserNotRegisteredError';
 import ScrollToTop from './components/ScrollToTop';
 import Home from '@/pages/Home';
 import ClientPitch from '@/pages/ClientPitch';
+import Admin from '@/pages/Admin';
+import ProtectedRoute from '@/components/ProtectedRoute';
 
 // Public site: a home page (content coming) + one standalone page per client at /p/<unguessable-slug>.
 // No menus, no lists: a client only ever sees their own page.
+// Not logged in on /admin → send to the platform login, then back
+const LoginRedirect = () => {
+  const { navigateToLogin } = useAuth();
+  navigateToLogin();
+  return null;
+};
+
 const AuthenticatedApp = () => {
   const { isLoadingAuth, isLoadingPublicSettings, authError, navigateToLogin } = useAuth();
 
@@ -35,6 +44,10 @@ const AuthenticatedApp = () => {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/p/:slug" element={<ClientPitch />} />
+      {/* Eran's private index of client pages */}
+      <Route element={<ProtectedRoute unauthenticatedElement={<LoginRedirect />} />}>
+        <Route path="/admin" element={<Admin />} />
+      </Route>
       <Route path="*" element={<PageNotFound />} />
     </Routes>
   );
