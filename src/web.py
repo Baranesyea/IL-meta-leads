@@ -2,11 +2,12 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import random
 import re
 import time
 from pathlib import Path
-from urllib.parse import parse_qs, unquote, urlparse
+from urllib.parse import parse_qs, quote, unquote, urlparse
 
 import httpx
 
@@ -94,6 +95,70 @@ class AdLibraryBrowser:
     def fetch(self, url: str) -> tuple[str, str] | None:
         return get(url) or self.render(url)
 
+    # ---------- Ad Library search (no login) ----------
+
+    LIB = "https://www.facebook.com/ads/library/"
+
+    @staticmethod
+    def _parse_ads(blob: str) -> list[dict]:
+        dec = json.JSONDecoder()
+        out = []
+        for m in re.finditer(r'\{"ad_archive_id":"', blob):
+            try:
+                obj, _ = dec.raw_decode(blob, m.start())
+            except ValueError:
+                continue
+            if isinstance(obj, dict) and obj.get("snapshot") is not None:
+                out.append(obj)
+        return out
+
+    @staticmethod
+    def _parse_count(blob: str) -> int | None:
+        m = re.search(r'"search_results_connection":\{"count":(\d+)', blob)
+        return int(m.group(1)) if m else None
+
+    def _library_query(self, params: str, max_ads: int, scrolls: int = 8) -> tuple[int | None, list[dict]]:
+        responses: list = []
+
+        def on_response(resp):  # sync API: only collect here, read bodies in the main loop
+            if "graphql" in resp.url:
+                responses.append(resp)
+
+        self.page.on("response", on_response)
+        try:
+            _sleep()
+            self.page.goto(f"{self.LIB}?{params}", timeout=60000, wait_until="domcontentloaded")
+            self.page.wait_for_timeout(6000)
+            html = self.page.content()
+            count = self._parse_count(html)
+            ads = {a["ad_archive_id"]: a for a in self._parse_ads(html)}
+            for _ in range(scrolls):
+                if len(ads) >= max_ads:
+                    break
+                self.page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                self.page.wait_for_timeout(random.uniform(2500, 4000))
+                for resp in responses:
+                    try:
+                        body = resp.text()
+                    except Exception:  # noqa: BLE001
+                        continue
+                    if "ad_archive_id" in body:
+                        ads.update({a["ad_archive_id"]: a for a in self._parse_ads(body)})
+                responses.clear()
+        finally:
+            self.page.remove_listener("response", on_response)
+        return count, list(ads.values())[:max_ads]
+
+    def search(self, keyword: str, country: str = "IL", max_ads: int = 120) -> tuple[int | None, list[dict]]:
+        params = (f"active_status=active&ad_type=all&country={country}&is_targeted_country=false"
+                  f"&media_type=all&q={quote(keyword)}&search_type=keyword_unordered")
+        return self._library_query(params, max_ads)
+
+    def page_ads(self, page_id: str, country: str = "IL", max_ads: int = 30) -> tuple[int | None, list[dict]]:
+        params = (f"active_status=active&ad_type=all&country={country}&is_targeted_country=false"
+                  f"&media_type=all&search_type=page&view_all_page_id={page_id}")
+        return self._library_query(params, max_ads, scrolls=1)
+
     def ad_snapshot(self, ad_id: str) -> tuple[str, str]:
         """Return (html, body_text) of the ad's Ad Library page. Cached."""
         key = f"adlib:{ad_id}"
@@ -132,3 +197,37 @@ def unwrap(url: str) -> str:
     if "l.facebook.com/l.php" in url:
         return unquote(parse_qs(urlparse(url).query).get("u", [url])[0])
     return url
+
+
+def flatten_ad(a: dict) -> dict:
+    """Ad Library GraphQL ad -> the flat shape the pipeline uses."""
+    snap = a.get("snapshot") or {}
+    cards = snap.get("cards") or []
+    card = cards[0] if cards else {}
+    body = (snap.get("body") or {}).get("text") if isinstance(snap.get("body"), dict) else snap.get("body")
+    imgs = [i.get("original_image_url") for i in (snap.get("images") or []) if i.get("original_image_url")]
+    imgs += [c.get("original_image_url") for c in cards if c.get("original_image_url")]
+    vids = [{"thumb": v.get("video_preview_image_url"), "url": v.get("video_hd_url") or v.get("video_sd_url")}
+            for v in (snap.get("videos") or []) + [c for c in cards if c.get("video_sd_url")]]
+    return {
+        "id": str(a.get("ad_archive_id")),
+        "page_id": str(a.get("page_id") or snap.get("page_id")),
+        "page_name": a.get("page_name") or snap.get("page_name") or "",
+        "page_url": snap.get("page_profile_uri") or "",
+        "page_like_count": snap.get("page_like_count"),
+        "page_categories": snap.get("page_categories") or [],
+        "ad_creative_link_title": snap.get("title") or card.get("title") or "",
+        "body": body or card.get("body") or "",
+        "link_description": snap.get("link_description") or card.get("link_description") or "",
+        "landing_url": snap.get("link_url") or card.get("link_url") or "",
+        "cta_type": snap.get("cta_type") or card.get("cta_type") or "",
+        "cta_text": snap.get("cta_text") or card.get("cta_text") or "",
+        "display_format": snap.get("display_format"),
+        "ad_delivery_start_time": a.get("start_date"),
+        "platforms": a.get("publisher_platform") or [],
+        "collation_count": a.get("collation_count"),
+        "images": imgs,
+        "videos": [v for v in vids if v["url"] or v["thumb"]],
+        "currency": a.get("currency") or "",
+        "ad_snapshot_url": f"https://www.facebook.com/ads/library/?id={a.get('ad_archive_id')}",
+    }

@@ -1,0 +1,312 @@
+{
+  "lead_id": "2026-09-25-061",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://greenflow-il.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61571360371358/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/greenflow_il/",
+      "source": "https://greenflow-il.com/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "525906083942927",
+    "page_name": "אמהות ממליצות",
+    "active_ads_count": 4,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "3122557097940139",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731380027_1552338453108549_3247921372366265111_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fw3eVYy-FOQQ7kNvwF1jJPp&_nc_oc=Adp5U4Vndkf6TuY7fhisisdp72Fj-NasWruS-YYLySMa0XOmSG63pRovTMqLvzN2lQM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQK9TON2ZmyFfg3pPBCYcNMozZ87DCYIGVG11PISJJb0ug&oe=6ABC3B50",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731335081_1048166474557171_3258597392511910698_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=axAqi6FiVigQ7kNvwHQVuM9&_nc_oc=AdrH8Ic6PYO7Nr1n96aI0Fpk_QtwApzcUG73t875TpvjDdjQ2UcbcmlMARCctEmTT7c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQLZ0iEn0DPNMjmi6kyzaGvN8S-x0pFKy0GrCuli_sptvg&oe=6ABC5E22",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731343999_1441528127740342_5634229409502762252_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H7QIqjbbCHUQ7kNvwEz-yjP&_nc_oc=AdoL3YIH0RBNPpcSUIpmKdEvmSmZVBiG387angZZgsYgXxqIhTO6p1twYh2neVuj-G4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJl383pVnOfw0jUl2DN5ODRCDX2VobO3kjCQmw_Vtic-g&oe=6ABC601A"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782457200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3122557097940139"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 15,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "3122557097940139"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 15,
+    "page_categories": [
+      "Home Repair"
+    ],
+    "page_ads": [
+      {
+        "id": "3122557097940139",
+        "page_id": "525906083942927",
+        "page_name": "אמהות ממליצות",
+        "page_url": "https://www.facebook.com/61571360371358/",
+        "page_like_count": 15,
+        "page_categories": [
+          "Home Repair"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782457200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731380027_1552338453108549_3247921372366265111_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fw3eVYy-FOQQ7kNvwF1jJPp&_nc_oc=Adp5U4Vndkf6TuY7fhisisdp72Fj-NasWruS-YYLySMa0XOmSG63pRovTMqLvzN2lQM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQIvGWxJzTyQjpmcJqzAlEd5puQ9zSDw4q_erju6k-ws7A&oe=6ABC3B50",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731335081_1048166474557171_3258597392511910698_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=axAqi6FiVigQ7kNvwHQVuM9&_nc_oc=AdrH8Ic6PYO7Nr1n96aI0Fpk_QtwApzcUG73t875TpvjDdjQ2UcbcmlMARCctEmTT7c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQLL6DDsPskCFBT40A_4EZSFnPXBB-mKRvkX0g3yh_ZsEw&oe=6ABC5E22",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731343999_1441528127740342_5634229409502762252_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H7QIqjbbCHUQ7kNvwEz-yjP&_nc_oc=AdoL3YIH0RBNPpcSUIpmKdEvmSmZVBiG387angZZgsYgXxqIhTO6p1twYh2neVuj-G4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQK7E-k4ut30_c55QoUCaElIdlFpsh9D22_uOkH0Bl_1HQ&oe=6ABC601A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731252797_1660063308559511_3857331916897438364_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k0NceFokoyAQ7kNvwFNp02F&_nc_oc=Adp4uDoE2mGKu72HDbT1f9PnNMofDgt1obCUPaXm7TtzWVmhkcINP44-Ns3l7otxe8I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQJnHL_SVxLhPmMfyxeCxEF2Tt0xjtcLGhGqqzTOCMN07A&oe=6ABC457D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3122557097940139"
+      },
+      {
+        "id": "1372988954724698",
+        "page_id": "525906083942927",
+        "page_name": "אמהות ממליצות",
+        "page_url": "https://www.facebook.com/61571360371358/",
+        "page_like_count": 15,
+        "page_categories": [
+          "Home Repair"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782457200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729057548_3705559166261970_5098326106412251992_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QRGyiZzBKPMQ7kNvwE5agT5&_nc_oc=AdqjNKGu1RW90YJrkOCCUYS93KgVVDmsr-uPvHcsDLvx-u9wxUUL1qDajMJajruwkdQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQJ-_qmol4zqgaEAITIipJFJehpkH9pzWyeEBBaiFMPE7g&oe=6ABC5A5A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730570451_1021726253730563_23626498349730051_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZwV8mMZRNVQQ7kNvwF2XZXp&_nc_oc=AdqJ-z6uXYG9BnN6e9xZFV64yRsPvFmsZOiAHFkdBXvGYStYmriw9A8e0_TcZogeSZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQLTRv2iFCkiucTTQSBXnuoife0L47LwenuyO_sc67zAkw&oe=6ABC377C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731727078_1512194319847242_4813417430790425127_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ScwdoTS0Kq0Q7kNvwFIFaHH&_nc_oc=Adr9aUeP6bGlPF8DuEy__5gbRfE9r8Kxli1g5l7FDzZL6kSY4RJ3MFYC57HubdNY5ps&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQJB_BpyPaIg6kFoQIN-BlSn_7MimR0LsDTXS9zAw89kqw&oe=6ABC3AC6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1372988954724698"
+      },
+      {
+        "id": "1216991258157019",
+        "page_id": "525906083942927",
+        "page_name": "אמהות ממליצות",
+        "page_url": "https://www.facebook.com/61571360371358/",
+        "page_like_count": 15,
+        "page_categories": [
+          "Home Repair"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782457200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729616373_2235631817184957_6356743077022761343_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yE1WZx6XOrQQ7kNvwGbOpm3&_nc_oc=Adp7jOsG_J18XpLSYvgSlDmZ-EGAiWNIW504TLbeeHrOj1jy5DhmdW-912cpYARADsc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQI4gruoxCtUuhqgBNodoyg4sRNlseEXPt9lwxg2meuOmQ&oe=6ABC2AB0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731983714_968618059540859_2652819801199751129_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ryYOvtW6CYgQ7kNvwH-Pgfe&_nc_oc=AdqQXXgeFaTYMddY8pTy3rxXuTCjnVh_8Lsc5vIiSWcylcD7-XKDdBdR-tH0aLWz3_4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQKGNvtHMAoEjR1R9vKn6QYMwz9MciEtbRxSoUpol3vLSQ&oe=6ABC38F5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731823502_966503443058721_3472019498961401607_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ppm5zpMoZpsQ7kNvwGJa27s&_nc_oc=Adpme2dEvSusCwTMtM-bBBiyBIqC2Npf-SlJjz5Z4X_fNv7gNGBavRPeH8mBRB0Tqz4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQJ2kerBlcvrJlHgcsDxVst_3XzkKhCSpuKp_DQl5j61lg&oe=6ABC3F52"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1216991258157019"
+      },
+      {
+        "id": "1405512601406624",
+        "page_id": "525906083942927",
+        "page_name": "אמהות ממליצות",
+        "page_url": "https://www.facebook.com/61571360371358/",
+        "page_like_count": 15,
+        "page_categories": [
+          "Home Repair"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782457200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732068742_4357319931224088_6768663549804375101_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u2tnrl_0e94Q7kNvwGwR9US&_nc_oc=AdoZfGJ0NRjca4M1NrAHWKDroO5qdQxifNGhxpg48C4LPGTdI4d0eGQe0ofVBhSUe6g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQIWwa1O-1USbeXgGaQ60UZx-qQA-MFNOhcA5KkKkMFXkA&oe=6ABC3762",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732050889_3098401860356665_1640487391709182097_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hvvMjsL9GPIQ7kNvwH1zYou&_nc_oc=AdoMTNZECjHylHwI9rJqqvADj2cCg39jDS0ndvQGH7vUPRfNz0ONPUb534XfkYK4ni0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQJ_kyXlKT0RW8FDKRPJdDdm0LDBoAJsetkgCHDTN1efAg&oe=6ABC2C53",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731525383_954957384260299_7080095325587419638_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LX06ICoy_mYQ7kNvwFIPDwY&_nc_oc=AdpBiapqPUNjlR_FOuLAwfXskVpuRIAOKCcpGFryMQlCpH-sQflP6K_Xys8LGjdre7M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xeFsIipRJ56IfIpCvdJkaA&_nc_ss=70289&oh=00_AQKx6iqwC_dsvgGzniYpT5UH4G9t55Mf42uMgvXnZC8F0g&oe=6ABC4283"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1405512601406624"
+      },
+      {
+        "id": "3122557097940139",
+        "body": "{{product.brand}}",
+        "landing_url": "https://greenflow-il.com/pages/6reasons"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "3122557097940139",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://greenflow-il.com/pages/6reasons"
+        ]
+      },
+      {
+        "ad_id": "1372988954724698",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://greenflow-il.com/pages/6reasons"
+        ]
+      },
+      {
+        "ad_id": "1216991258157019",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://greenflow-il.com/pages/6reasons"
+        ]
+      },
+      {
+        "ad_id": "1405512601406624",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://greenflow-il.com/pages/6reasons"
+        ]
+      },
+      {
+        "ad_id": "3122557097940139",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://greenflow-il.com/pages/6reasons"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://greenflow-il.com/pages/6reasons"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "filtered": "2026-09-25T13:06:15",
+    "unqualified": "2026-09-25T13:08:26"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://greenflow-il.com/",
+      "https://greenflow-il.com/pages/6reasons"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

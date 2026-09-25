@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-25-064",
+  "status": "rejected",
+  "reject_reason": "lead-gen CTA only (BOOK_TRAVEL)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/TreeOfLifeIL/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "761880513861098",
+    "page_name": "Tree Of Life Soaps - סבוני עץ החיים",
+    "active_ads_count": 1,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "1447449316876056",
+        "link_title": "{{product.name}}",
+        "body": "עור יבש? ריחות שמתפזרים אחרי דקה?\n\nהיי, אנחנו סבוני עץ החיים, הגעת בדיוק בזמן.\n\nאנחנו בוטיק אינטרנטי טבעוני, ירוק ומינימליסטי של מוצרי טיפוח בעבודת יד, שנוצרו מתוך רצון אמיתי להכניס את הספא המפנק הביתה, עם כל היתרונות של הטבע.\n\nמחכים לך אצלנו מגוון מוצרי קוסמטיקה מוצקים - סבונים, שמפו, מרכך ואפילו קרם פנים!\n\n🌱כל המוצרים מיוצרים מחומרים טבעיים בלבד - שמנים וחמאות צמחיים, שמנים אתריים, צמחי מרפא ועוד.\n\n🌱ניחוחות נפלאים וייחודיים שאי אפשר למצוא בשום מקום אחר.\n\n🌱המוצרים מתאימים לכל סוגי העור.\n\n🌱ללא שמן דקל, בישום סינטטי או פטרוכימיקלים מזיקים.\n\nהעור שלך יגיד לך תודה,\nוכל מקלחת תהפוך לחוויה מפנקת בדיוק כמו שמגיע לך. 💆‍♀️",
+        "landing_url": "https://israelisoaps.com/product-category/gifts/",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/592879506_32955625457417321_111400983247419082_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AJ9L0N0y1WwQ7kNvwE41pCc&_nc_oc=AdraB0E9zy7CNCFgaFUXhRX1CPBAl78mIzUxT9e9Vx8gM1q5c2mNQQrqW2dIOTgyMUY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQIBiD8yOYr4h3kreaBnZWpa9Ym8lSqCiT1ZbZ6Psf_OQA&oe=6ABC3D9E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/592450312_870328592013172_2023962749501759228_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_M3G_R5cyJMQ7kNvwFaVIDn&_nc_oc=AdofS-G8OjmLcodOlv1KhMlG2QpaC6dPMc0Higp5bX49plR7mo5B4n648ay2uCS0w1g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQK55KaeOn8kCE9UlAkW7puIaLL76HAdg_Mqj1XF_eDt2w&oe=6ABC4430",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/591632349_1242345904379037_7284338722086554803_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0XgeUcud__AQ7kNvwFuSK_s&_nc_oc=AdrYyYZK8ol3wpC8ZWcn18eUx4ISp9t_zCIZ2I-MBhtOfecmCTkIFkbXu968hF_yHRM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQIrBFJKJukZN68FKMT6M7sh6vh7FsU9ZGDqlDXAPoK5gg&oe=6ABC3F07"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1775545200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1447449316876056"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט",
+        "קרם",
+        "שמן"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 2688,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1447449316876056"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 2688,
+    "page_categories": [
+      "Health/beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "rejected": "2026-09-25T13:06:26"
+  }
+}

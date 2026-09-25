@@ -1,5 +1,5 @@
 {
-  "next_index": 1,
+  "next_index": 5,
   "history": [
     {
       "date": "2026-09-25",
@@ -7,6 +7,34 @@
       "source": "mcp_import",
       "advertisers": 19,
       "at": "2026-09-25T11:03:05"
+    },
+    {
+      "date": "2026-09-25",
+      "keyword": "טיפוח",
+      "source": "playwright",
+      "advertisers": 21,
+      "at": "2026-09-25T12:52:23"
+    },
+    {
+      "date": "2026-09-25",
+      "keyword": "סרום",
+      "source": "playwright",
+      "advertisers": 15,
+      "at": "2026-09-25T12:59:34"
+    },
+    {
+      "date": "2026-09-25",
+      "keyword": "בישום",
+      "source": "playwright",
+      "advertisers": 15,
+      "at": "2026-09-25T13:05:36"
+    },
+    {
+      "date": "2026-09-25",
+      "keyword": "תכשיטים",
+      "source": "playwright",
+      "advertisers": 19,
+      "at": "2026-09-25T13:11:10"
     }
   ],
   "ingested_files": [

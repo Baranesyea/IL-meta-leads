@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-25-002",
-  "status": "unqualified",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -112,7 +112,9 @@
     ],
     "landing_urls": [
       "https://www.kalaharirose.co.il/"
-    ]
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": []
   },
   "current_ads": [],
   "products": [],
@@ -127,7 +129,8 @@
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
-    "unqualified": "2026-09-25T11:31:45"
+    "unqualified": "2026-09-25T11:31:45",
+    "qualified": "2026-09-25T12:54:50"
   },
   "qualify": {
     "pages_checked": [
@@ -141,8 +144,8 @@
     ],
     "prices_in_ils": true,
     "owner_candidates": [],
-    "missing": [
-      "owner_instagram"
-    ]
+    "missing": [],
+    "site_blocked": false,
+    "owner_instagram_found": false
   }
 }

@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-25-038",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/dealcosmetics.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "104844279571858",
+    "page_name": "דיל קוסמטיקס - Deal Cosmetics",
+    "active_ads_count": 1,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "1268138918287625",
+        "link_title": "{{product.name}}",
+        "body": "לכל אחת יש את הרגע הזה...  💜\nהרגע שבו את צריכה להתרענן ולפנק את עצמך בדברים הכי אישיים.\nבדיל קוסמטיקס אנחנו מוכנים תמיד לרגע שלך ומחכים לך עם מאות מוצרי טיפוח לשיער. נסי אותנו.",
+        "landing_url": "https://www.dealcosmetics.co.il/collections/%D7%A9%D7%99%D7%A2%D7%A8?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{adset.name}}",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/511274049_1446063523425569_1653343202103011380_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5DrJSHtUTOMQ7kNvwE0vDUH&_nc_oc=Adqp3GmVoUQrXQhJQvQeoNNP1zjLnCQJGP7vIlK8KZV8m3siRygffpYNxZC07IY5FR4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQIFML_QrXGrHBZg0PemUD4AG59YDPE5y9bR58oJwOLjYQ&oe=6ABC4782",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510140920_2072488053230188_7307103778358239950_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_eIkiK8Y_84Q7kNvwEUOl39&_nc_oc=AdrGB12lQ120r9rUSgLloRGgXZ_reiwerz3NxVdZs95IoUs8drNy_ag_WhpQg7gh5Zs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQJJEztYJB4vF6P8bpNXZBlVxlFT3Xxb5N_VU6w_V83zbg&oe=6ABC2C88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/509423803_977966770943667_4730073587651566430_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kl06dm5iJGgQ7kNvwEWQSk6&_nc_oc=AdoBuyDWfUVtMIExU-wsGrNfTvBor4m8WkwPOmpTsriO8drAse-X2TasIm_7CGeLi1o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQIKLPPccIboiwEDKi95UmyQqcm5c4d303fMUU28xrSO3w&oe=6ABC41DD"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1750575600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1268138918287625"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "cosmetics"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 32051,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1268138918287625"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 32051,
+    "page_categories": [
+      "Beauty Supplies"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "rejected": "2026-09-25T12:54:27"
+  }
+}

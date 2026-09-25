@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-25-045",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: קליניקה",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61556150155060/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "211007865433049",
+    "page_name": "Abc absolute bound care",
+    "active_ads_count": 1,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "1655038312543341",
+        "link_title": "Abc absolute bound care",
+        "body": "הכירו את סדרת מולטי ויטמין שנבנתה לחשיבה של קליניקה.\nשילוב מדויק של ויטמינים וחומרים פעילים שמכוון למה שמעניין את הלקוחות שלכן באמת: לחות, הזנה, זוהר ומראה עור בריא יותר לאורך זמן.\nתגללו כדי להכיר את כל המוצרים בסדרה ולראות מה הכי מתאים לשילוב אצלכן בקליניקה 👉",
+        "landing_url": "http://instagram.com/abc.absolute.care",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/620161473_1779161546090411_5831002538874466817_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ty9Pj5TmkgcQ7kNvwGC6rlR&_nc_oc=AdoHK-yWE_rk3KmzFAvP88DilFhr_bcT-3qifQx_achZeaoExjmFcYaeB-NN1fYvEXE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQIlYvjljAorfCpiad2uttZ9JusjfRGEYG6riHieuCeepg&oe=6ABC2DB5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623396880_1778707052810614_245605230002965775_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_TJIEKdpcGgQ7kNvwEzByrF&_nc_oc=AdpwwYzDYBJw0v-AvTaN8XepgKeXzQ-3nmu2FC644fJSfziy42CQ7o1r--FFg4h7KbM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKplJs3klErTvnbgMAi7JMqFucU4ypYYP75gmQjzNiBWw&oe=6ABC3BC0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622264668_886155217396184_9100935297199639881_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ItGKo-p-urYQ7kNvwF6vsYG&_nc_oc=AdoNRILw6TAVARvq42IqUJWJKdm9_A9NfK_eVdLG4nx60f8a1IjEB7ZX3yN2Ur_n9A4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJczGV4Jo9enXks3ce_kjufIHejMZWcwq983rJTKP44_Q&oe=6ABC4FAA"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1769500800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1655038312543341"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "קליניקה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "VIEW_INSTAGRAM_PROFILE"
+      ],
+      "page_like_count": 347,
+      "product_score": -2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1655038312543341"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "VIEW_INSTAGRAM_PROFILE"
+    ],
+    "page_like_count": 347,
+    "page_categories": [
+      "Health & Beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "rejected": "2026-09-25T12:59:43"
+  }
+}

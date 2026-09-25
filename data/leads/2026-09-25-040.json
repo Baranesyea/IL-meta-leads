@@ -1,0 +1,756 @@
+{
+  "lead_id": "2026-09-25-040",
+  "status": "rejected",
+  "reject_reason": "car dealer — not a small product store",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://apexmotors.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Apexmotors.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/apex.motors/",
+      "source": "https://www.apexmotors.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972502682582",
+      "source": "https://www.apexmotors.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "982526921780869",
+    "page_name": "Apex Motors - אייפקס מוטורס",
+    "active_ads_count": 14,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "2051068995478858",
+        "link_title": "הכירו את Apex Motors בירושלים.",
+        "body": "מחפשים את הציוד הכי טוב בעולם הדו-גלגלי? הכירו את Apex Motors בירושלים.\n\nמתחם ענק של 300 מ\"ר הפרוש על שתי קומות, עם מחלקות ייעודיות לכל סגנון רכיבה:\n\n✅ מחלקת כביש: קסדות מהמותגים המובילים, מעילים, כפפות וג'ינסים ממוגנים.\n✅ מחלקת אדוונצ'ר: אביזרים ומיגון לרוכב ולאופנוע.\n✅ מחלקת שטח: ציוד איכותי לתנאים הקשים ביותר. \n✅ מחלקת תחזוקה: שמנים, חלפים, ומוצרי טיפוח מהשורה הראשונה.\n✅ מחלקת אביזרים: דיבוריות, מצלמות וכל מה שרוכב צריך.\n\nהצוות המקצועי שלנו מחכה לכם עם שירות בגובה העיניים, מחיר מנצח וחניה חינם. 🏁 \n\n📍 רחוב הפרסה 2, ירושלים.\n🚛 משלוחים לכל הארץ!\n🌐 הזמינו עכשיו: https://www.apexmotors.co.il/",
+        "landing_url": "https://www.apexmotors.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707678852_878311761965015_531440905082381124_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C61w4Lv45jkQ7kNvwFBelrJ&_nc_oc=Adr12SgDTD7M1x02mY7-99mFgYVM4r6y0eYVz0ZS34ivC6ndgOxlptuqGLp546XwjJQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQLRFnP37dZzLBh12YqunubhfBXe8oWZLTdoX7UCZbOpcQ&oe=6ABC4259",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPN5gtRl0dnGqyKY8ArKh8Qwk0eEhWGiPcCyrjkl4RVOVtx6g8q7_A4GVHyhDlB9cRXtJsSTvE9dk_xrDQX9qrV7O57rA7N3HcbCQo4FIh9nQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=euSwyvjWqmcQ7kNvwG8mesm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MTc3Nzk4MzU0MDUwMzUsImFzc2V0X2FnZV9kYXlzIjoxODQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=502c72c20d851f19&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRBMkNDNkMyOEQ2NDEwOTRDQURCRUUzN0I0QjVCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNEI1NkIxNDI3QzhERUY3RDdBRTM2RTMyOUY1ODk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWi-DDp73LCBUCKAJDMywXQElCj1wo9cMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&_nc_zt=28&oh=00_AQI_EI_xDhoxcrvltyLtEAEoPTYrWLCTcNaluOY7wbQyBg&oe=6ABC2822"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1779865200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2051068995478858"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 14,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 10990,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2051068995478858"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 10990,
+    "page_categories": [
+      "Auto Supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "2051068995478858",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "הכירו את Apex Motors בירושלים.",
+        "body": "מחפשים את הציוד הכי טוב בעולם הדו-גלגלי? הכירו את Apex Motors בירושלים.\n\nמתחם ענק של 300 מ\"ר הפרוש על שתי קומות, עם מחלקות ייעודיות לכל סגנון רכיבה:\n\n✅ מחלקת כביש: קסדות מהמותגים המובילים, מעילים, כפפות וג'ינסים ממוגנים.\n✅ מחלקת אדוונצ'ר: אביזרים ומיגון לרוכב ולאופנוע.\n✅ מחלקת שטח: ציוד איכותי לתנאים הקשים ביותר. \n✅ מחלקת תחזוקה: שמנים, חלפים, ומוצרי טיפוח מהשורה הראשונה.\n✅ מחלקת אביזרים: דיבוריות, מצלמות וכל מה שרוכב צריך.\n\nהצוות המקצועי שלנו מחכה לכם עם שירות בגובה העיניים, מחיר מנצח וחניה חינם. 🏁 \n\n📍 רחוב הפרסה 2, ירושלים.\n🚛 משלוחים לכל הארץ!\n🌐 הזמינו עכשיו: https://www.apexmotors.co.il/",
+        "link_description": "",
+        "landing_url": "https://www.apexmotors.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779865200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707678852_878311761965015_531440905082381124_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C61w4Lv45jkQ7kNvwGcVLz8&_nc_oc=AdqJM4QadWwz2l_5rN7wtaLKcfPBt1sJBNlTMUEnHDWSd3wmWPMn7AcFJy7dgun899I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ003Kt_pUF80W2b6QKy4vR0ZLjhQ92_LximD7dDdUaTg&oe=6ABC4259",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPN5gtRl0dnGqyKY8ArKh8Qwk0eEhWGiPcCyrjkl4RVOVtx6g8q7_A4GVHyhDlB9cRXtJsSTvE9dk_xrDQX9qrV7O57rA7N3HcbCQo4FIh9nQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=euSwyvjWqmcQ7kNvwEa3KQ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MTc3Nzk4MzU0MDUwMzUsImFzc2V0X2FnZV9kYXlzIjoxODQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=502c72c20d851f19&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRBMkNDNkMyOEQ2NDEwOTRDQURCRUUzN0I0QjVCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNEI1NkIxNDI3QzhERUY3RDdBRTM2RTMyOUY1ODk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWi-DDp73LCBUCKAJDMywXQElCj1wo9cMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&_nc_zt=28&oh=00_AQLhvYOmDGg8qnMNXv6-4t3uoBBiIT46y5RErFoTYl8SFA&oe=6ABC2822"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2051068995478858"
+      },
+      {
+        "id": "1474381687691682",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "עולם חדש לרוכבים ב APEX!🏍  🏁\nמבחר מטורף | מחירים אטרקטיבים | משלוחים לכל הארץ | \nיאללה ל APEX 🏁",
+        "link_description": "ציוד לאופנועים ירושלים - אייפקס מוטורס",
+        "landing_url": "http://www.apexmotors.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1776063600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/670703733_1488059686250094_8055833626782624035_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Akuwx79My0YQ7kNvwHKug3_&_nc_oc=AdriMUUg2xao8ybdNbZaued1pjPnp4Cj_YTlXQZqtrydZKSCOmbAYO9SM_2v6blTqao&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJKp3TNuJC09ZOG4bJR4Qu1i0Vou-Npa9ydohZhMWvRJA&oe=6ABC546D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/670617246_840589821667570_454033725177367309_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zqa-xpz4iuIQ7kNvwHacDMU&_nc_oc=AdrK61tIebrtpy_ZOUmYnO8Ww1idRAFtJzr-sKE_4jF6im7FRAwZ5TaNoORa5L8jFDQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIDdsWbUJZ51Vpn3zMTyhcESFZXVGjBHRlZ6ASCkcE8HQ&oe=6ABC36A1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671671077_2429375404244343_2088825318680857107_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZyuISIWIb-YQ7kNvwF2_1D0&_nc_oc=AdqoLbWCk_0mkeTrYpbIUVh8sjtAn7jeO4ykMB4qultkPrbKK1XZV3w7bJBhQ5GmHeE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQI1k1c22ItzO8mTHYQ7hDXT-vPzHyGKQJ1RVc-_aOSpLw&oe=6ABC4F67",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/670269337_977033124891661_336777169234277938_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a0CoDnqNHnUQ7kNvwFoVxr4&_nc_oc=AdrStZYd6K-F6G7NtS28KaiO72eBxiz_RicMJAskf2BPHUMvG_0r1WATXFNTC85ZsR8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQICJN54hmZKHSQZq5HlUyDbWFNC9b_R2Uhsdhop-y4-mw&oe=6ABC4887",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/670737251_1230978899019552_1183992889082875540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RG1XJ98BrtIQ7kNvwFD5PjT&_nc_oc=AdpPLcv9QrvBRFcG7bHkias2USYLt27X6qCb8x0Mr1MmZJOV42iQ_4zTsf2lPyOvSjo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIimC3Rt_5tuvCSyuiIJ7EylRpkA5HEdPKg0loQARkLJA&oe=6ABC2B99",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671413288_1490097626047424_8670693824058746112_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eOYfKKhAsnsQ7kNvwFvcBZ0&_nc_oc=AdqfiIf-ejIwte5Ze4wLkR8jwQVHh8lbBQFYMn_A5e_Y4-rorHYCZ3rYqLjC2ZmqRds&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLrMIk4WZr5VQP6nQ1mO2X9lPitJR8qS5EO4liTNG-SVg&oe=6ABC5896"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1474381687691682"
+      },
+      {
+        "id": "1050559911194376",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/791405857_1876766900150767_2258169778891937746_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R2AM3Tv2sC8Q7kNvwFFyiRZ&_nc_oc=Adq2IeIHLYaNQ5XsAZzK8J0CxTwPRPF5LOu2i63Ii3ptdu9EXntux7PGpCNRo3ilv9w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJAlwM2aOQSXlK1bC20ITefc-GN5Jqx0NgZEXBPa--w4w&oe=6ABC30C0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPnRFzJtdYjHXefkVDokQiANapR5Mt2CZ4xFxCpwxbQC1IF5hS3ITdNYxtVNaLKwULVT8kF9Whtyq_i6y0qP5AXjGtgQ6big7IyMzZro_Lr6Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0j17-ptUk6YQ7kNvwGvkkHO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODE3Mzg3MTEyNjY1MjYsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjgyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=591b65addb1030c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTREM0Q4M0I4QzI4MEE4QTM0NjU0QTNCOUQ2OUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NEU2ODg3MTA0NjZBMTdCOTEwNkUyN0RDMUE5NkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa80_-5vfXrAxUCKAJDMywXQFS5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&_nc_zt=28&oh=00_AQLqjJhoIr_zZiz-rqFyekPIBuM61UpCuoUZwhH5O8O9XA&oe=6ABC3277"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1050559911194376"
+      },
+      {
+        "id": "1442185984713300",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790425828_1580812103531925_3713237259386290849_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8GIHLaXOVXUQ7kNvwHVcYXw&_nc_oc=AdrRqh99miFCEldAdop8BKvdjjTXFZT4HM6K_Ux0rQO5oMeIUvbCwC1_bfOerD_wS1A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJUdVDsl3FtQ4xWoFK9cUHacEDbwgH_Lm-cXYSwUDaBxw&oe=6ABC3A56",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPnRFzJtdYjHXefkVDokQiANapR5Mt2CZ4xFxCpwxbQC1IF5hS3ITdNYxtVNaLKwULVT8kF9Whtyq_i6y0qP5AXjGtgQ6big7IyMzZro_Lr6Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0j17-ptUk6YQ7kNvwGvkkHO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODE3Mzg3MTEyNjY1MjYsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjgyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=591b65addb1030c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTREM0Q4M0I4QzI4MEE4QTM0NjU0QTNCOUQ2OUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NEU2ODg3MTA0NjZBMTdCOTEwNkUyN0RDMUE5NkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa80_-5vfXrAxUCKAJDMywXQFS5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&_nc_zt=28&oh=00_AQLqjJhoIr_zZiz-rqFyekPIBuM61UpCuoUZwhH5O8O9XA&oe=6ABC3277"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1442185984713300"
+      },
+      {
+        "id": "1229564829382439",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790425828_1580812103531925_3713237259386290849_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8GIHLaXOVXUQ7kNvwHVcYXw&_nc_oc=AdrRqh99miFCEldAdop8BKvdjjTXFZT4HM6K_Ux0rQO5oMeIUvbCwC1_bfOerD_wS1A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJUdVDsl3FtQ4xWoFK9cUHacEDbwgH_Lm-cXYSwUDaBxw&oe=6ABC3A56",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPnRFzJtdYjHXefkVDokQiANapR5Mt2CZ4xFxCpwxbQC1IF5hS3ITdNYxtVNaLKwULVT8kF9Whtyq_i6y0qP5AXjGtgQ6big7IyMzZro_Lr6Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0j17-ptUk6YQ7kNvwGvkkHO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODE3Mzg3MTEyNjY1MjYsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjgyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=591b65addb1030c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTREM0Q4M0I4QzI4MEE4QTM0NjU0QTNCOUQ2OUU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NEU2ODg3MTA0NjZBMTdCOTEwNkUyN0RDMUE5NkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa80_-5vfXrAxUCKAJDMywXQFS5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&_nc_zt=28&oh=00_AQLqjJhoIr_zZiz-rqFyekPIBuM61UpCuoUZwhH5O8O9XA&oe=6ABC3277"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1229564829382439"
+      },
+      {
+        "id": "1400376178875536",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "קבלו את הבאנדלים של סוכות באייפקס! 🌾🌿\n\nחג שמח לכל הרוכבים! סידרנו לכם מבצעי באנדלים מטורפים על הציוד והמוצרים הכי מבוקשים, בדיוק בזמן לחופש! 🏍️🔥\n\nדפדפו בקרוסלה ותראו את כל הדילים השווים שמחכים לכם ➡️\n\n⚠️ שימו לב:\n📌 המבצעים תקפים רק בחנות הפיזית!\n📅 בתוקף עד ה-2.10 בלבד (או עד גמר המלאי)\n\nמחכים לכם לבוא להתחדש לחג!\n📍 הפרסה 2, ירושלים",
+        "link_description": "דילים מטורפים רק בחנות הפיזית",
+        "landing_url": "https://fb.com/messenger_doc/",
+        "cta_type": "NO_BUTTON",
+        "cta_text": "אין לחצן",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807673240_1635379208222094_4201571726445840081_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FAhbUc1UxzYQ7kNvwGq3dzK&_nc_oc=AdqnqhqX9lKG0jskoLcUOi25KKlNciqht_RgFWP-pXTm5wlWARe9__7Yh8z-82jXnGg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKKa3y-TTqs4PYPUhQ2zstE9HzcMFDO6cE5r8rcdHPSgw&oe=6ABC2DC4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795847599_2184966892423058_2958165732760274612_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qDGOG7_axJQQ7kNvwE7-2Jh&_nc_oc=AdpFFQiuuNMoz-uXnVTWsQo-rOQkuuFfE9kcRZAfbVv022877b9brmBG_fdyq3Zr980&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKawZIt4PXMvmbZV-Sb0Kes1lmtPELPDRnM9I-JCaGfXg&oe=6ABC4476",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809183864_28117402887931454_2944515865559774334_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mtM4iw4r5NAQ7kNvwEt7AZi&_nc_oc=AdrUgoq4rKzxXY90FfQWr6EdNYWkPaaOJ3qtOpZX6DTv2dPIDA34-jFcXFb_wmZvYwE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKMi33Rf10FTKIF0kzrlIkeHB2JOtOs8P1KYeUpTW00fw&oe=6ABC3F87",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800924669_2106709243273683_5143811316622833175_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mQb_MGAxGCQQ7kNvwEel_Xx&_nc_oc=Adq-4mxfMJhWX2BDCosXWdIbUhPB4SGuveTVMj8Nx7WTJgAyt_O4kQXuEQhFimhi9-U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKRBFsAcjQhWQXvXfkO7uR0cVm_W2-Yjq9ZTGeyDe4TfA&oe=6ABC544C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796354729_2464417320747073_7523671111267300882_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xUuEhBerYx0Q7kNvwHrq79a&_nc_oc=AdoekLQLu1rXToPZ2a3bhcRJ2JZfDCvvr346ACCUq2ceWwuVYAd4HRSkMrQ6LqO4nh8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ6p4hZyq2WchP3pHCOlILqL3YGtzc3W2sGt5DyP3quNw&oe=6ABC3307",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794678302_4459177500971526_6189428149583767412_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2Hm9JPzHIOIQ7kNvwE3nUdW&_nc_oc=Adr1ZwniD_0da__IxlX1edsAN7WjGf8dKjt-UMG5qxevtThoun-2RA0y5hufL_3-6Rs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKCvdrzeZ6F9houaG7wr7caG5iSgIO9otU1Fh2Y1dsMhg&oe=6ABC4867",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796968010_1366895725527282_4541415394600042842_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NfjnuWyqlmcQ7kNvwEsd0BN&_nc_oc=Ado6xTZKEnQVcMt-AM3PwMqkVFaQEOZb3BXtyDwBMs8moO4dx7gxJ4EvuIHkrL65eVw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKqF4IWr_y90CvgGc2_CYmpuCOg6sO3RljGXrj8BzBTsw&oe=6ABC490F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809235336_1635888178044300_8074598859817648325_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNUzhJClVY4Q7kNvwGr0xlt&_nc_oc=Adrp7LryPhUZzlPVQGKFnxL_esRIzkFMCKnMD7wGBJKWiQoXxlQ4uatK-MDWixPafM0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ3vb4Pp2EpVXkF5bqLtrPY9VzSOMM4hl7xHneh5ApETQ&oe=6ABC510A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799971908_1456078473086029_8057303517716924555_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ZJVENYzMSUQ7kNvwHBfPiG&_nc_oc=AdozW2MLGo1tEOlD-BIqaFBm9Lc_W6Gou463TyFNMymOkkkNeYmHGkjaGVrEQsYgkBQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKmyHC_Pqa1RBYIoa4ikoXKiNd_Tcbalei_wIxOE1GUWA&oe=6ABC3604",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821637977_2238084653716199_8998709102658683152_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CuZmU3xuMYQQ7kNvwHnnwQL&_nc_oc=AdoYNFY-Ex2Oc3O3YJFNBB-HpnCQctkC7Qd7pyiAhwxxGYm01xsZ3HgdwT5oBc7MOt8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKSlSBchD2axBerky68Y-7JxaNLRCye5Ldc3Y6kGDJ0tA&oe=6ABC3B9B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1400376178875536"
+      },
+      {
+        "id": "965905832433988",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "link_description": "תרסיסים ותוספים לאופנוע שטח - יצרן: MUC-OFF - אייפקס מוטורס",
+        "landing_url": "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811616721_1747315959878878_3867264512816910525_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qt2QiJ6RPi8Q7kNvwF4dJGQ&_nc_oc=AdqBQPvUZMYxrkXyUPDBwnydqQ6zGchimdlj-KI470Nqn5RXwXXwM4VbNDu0EG1sQ-I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJz2xkboePSnO2t56h9GE02Ad4c9QeozUbnjw9Dvq5HHw&oe=6ABC3DF2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813430924_1976497486517677_4013880705818787190_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JT4KtJAk7-0Q7kNvwFkBjBx&_nc_oc=AdqRd-80eO9qo7KV6DCSf3I6szrAQJgzz9aI2_NhP-jElvDhBI_5x3gL4ZtapyC7IEE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJR9iqsQoR-5IFKiI55U5QqdG-NyFA3RSHkccsDyQJGtw&oe=6ABC53B9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812315383_887372804306902_5658121268892694994_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bVGbopYek9sQ7kNvwEuy6SL&_nc_oc=AdpEuAotA6yY-ZVM2qq4H7y3pfr-cc0wWTKutyXod7jJUUS26wnMJRp13xlVKiBD5aw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJRFuBPRPN30ElMCjk6MJ2Ln5bPKPJnc1JcP7NE6Rf8kA&oe=6ABC3415",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811748748_978547855260322_2047179357577150430_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pqpnBZ4N5BEQ7kNvwFdS9H9&_nc_oc=AdpnA80NsOxn4ShBscHZQ5UFy1l7Nn0juKFJ2iYRhdqE_Rwzunfj5Y8l7GgjmTxriXc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLdXEysH2xeBryZKjTAO8w9uNz18n1ZblK1jGNl_o7DKQ&oe=6ABC3052",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812755553_1312328594180452_421137485122903199_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uQ45jbhOMt0Q7kNvwHJyGBw&_nc_oc=AdquZPar4ugDGMrFnDikJkgF0VsXmzFAX2FsMzooRyOpbRs5Z244DfgWDCwXLk0DbpE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJQENhjHrWOF6h8Fqr11RFE1oglK40ZsGUx36Q5aOTmIw&oe=6ABC4BD9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811617183_1628880972192632_8870524419945460034_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NJNpiSlIRJQQ7kNvwFuvwU2&_nc_oc=AdqLEBw-ExnFLhaS4Ct3LngFJEkhS5TLZ3du3DcFF0mTWMJ_s1_Tf06IYWMnqaruvgw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLX6JBV1P_I0b_-7RW3_0ZBpnczgSgtFxAfuxeDMtPONQ&oe=6ABC36FC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=965905832433988"
+      },
+      {
+        "id": "1633958415065684",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "קבלו את הבאנדלים של סוכות באייפקס! 🌾🌿\n\nחג שמח לכל הרוכבים! סידרנו לכם מבצעי באנדלים מטורפים על הציוד והמוצרים הכי מבוקשים, בדיוק בזמן לחופש! 🏍️🔥\n\nדפדפו בקרוסלה ותראו את כל הדילים השווים שמחכים לכם ➡️\n\n⚠️ שימו לב:\n📌 המבצעים תקפים רק בחנות הפיזית!\n📅 בתוקף עד ה-2.10 בלבד (או עד גמר המלאי)\n\nמחכים לכם לבוא להתחדש לחג!\n📍 הפרסה 2, ירושלים",
+        "link_description": "דילים מטורפים רק בחנות הפיזית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "NO_BUTTON",
+        "cta_text": "אין לחצן",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796968015_2068698060488552_4228299116454005658_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3fh0jivVWfgQ7kNvwFtxB1k&_nc_oc=AdrhTZU66Mq8jhp1KSXYw_PlOD0XGy1mzwEnzp6JrhjmBATjpuS2z8oiYHwH0RhR9U0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKR8A3LGawoSg_FboRttR5BdxYEqpUBmLB7rGh5MwQhvw&oe=6ABC55D8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/821637952_1438490021599582_3544965112309251341_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TGv2tzSYjU4Q7kNvwFyODR2&_nc_oc=AdozSL1_pHKZ43X1wIjivjSkg6RsANxTw-Dgk_k_s5LyDB_Ij2oSAyWbMNCQJsVdpnc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJKhLmqGfezc3K_-icZwBRIfMULv7e4xDo7Z80RPcL0nA&oe=6ABC2AED",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807484319_4586229474930334_1786676343247593486_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XN-ZjsALCuwQ7kNvwHLgTv-&_nc_oc=AdomIP1YsOCFFBjLSEiIV-7PZCawcHO4opeV4OxAA_BI0cY5Zdi55yrhRwpbQp8WreA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIB3TMtfSx3RbxhVW1-Jr7Lf6e2YwbHdvoMcfUPdEP-9g&oe=6ABC26B8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/817902554_1450188217020779_4051548914081804178_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UdWghU40AkoQ7kNvwGFq-Pj&_nc_oc=Adp1aAYbYlS-CIGAyq3EwPKRuU54ZeAR-Hun5h3i_a9SRHbDsDlXUYQD2Dz6Fy0D0Iw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQImxuLM-2rSo8TCVmJgX9RandWxZRUvoMCQ_YyziqtTZA&oe=6ABC439E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807577907_1058527210149360_7664260092726429527_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8yOVtzPE274Q7kNvwFTiDH1&_nc_oc=AdqTbVDRStAxyyUEZbZuK3NnZqejrOmZlx6nFcD9XYsjK7CKwYHwj5P5BG_XJIegnYU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIjssCN5deFeB9L9qpPjOdobNdyT29GKW4fbYYceAw2KA&oe=6ABC58FF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805579396_1796227251805805_1681447961281276871_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4EEfz4I7YSAQ7kNvwHPGPzj&_nc_oc=Ado23ezdsPxv5XJ0lwwKmCr_NOoeT-sXtcpm4JMrSheowLXjcnds918aTmU6kdrK70c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKk5Ekt5ZwNVtKKLUJjCoVP7FzcfKb3u7ITb-NoMUR3wA&oe=6ABC5323",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819714513_3020831961581430_257806571278779322_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNtqFUDz9ZIQ7kNvwEVD6uO&_nc_oc=Adq_KldREXNHlpMK1s35No6SyiO-7VSLJCb0L9gnUvRGe8viaXo9Fo25Jv1H-Hzob2k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIJvGQPhv6V17V45Jp3hxIStKtkkN6l1efc9poy-yGGxw&oe=6ABC46D6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818334542_913895848467395_8424834632443686533_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kDAMsrjn2W0Q7kNvwGl-p1b&_nc_oc=AdooVjvcWyYITbNirSZQXkfxXDooxRDCKIumTgis2FTQ9lYYEvUHG4AxlfHAfKbbRWM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLtYGPRua6YBXcvYQq54cBvxI5-TJ5R2bmynzyvv1FtpQ&oe=6ABC5C0E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819207746_1068758349262506_197007644572271749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WmPZ_1BCp6gQ7kNvwEs_qO-&_nc_oc=Adqrq2aopoJwq4ctOKRlIxEOizUfJrHCS_fLxmO1UhoU94WJ-7CEvaZYNdFFm1sKZCw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLPrvNfaPAUIEtoCl48JUNLQrxjFUIhXiyqg4q8FI02yw&oe=6ABC5C2D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799868312_28885418934397586_1850355118193260837_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3adJ411GTXYQ7kNvwGGDnp_&_nc_oc=Adq6FSnQL2H-pLLIttsOPVcsEku7tzJcEFF9lre6E5B7MHtpxw_mOVPmMx2qY2qndwA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJriWpbcl-P3IP36D9foYxPzrCYCgAd9ekhL-lKG1VoFw&oe=6ABC26E4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1633958415065684"
+      },
+      {
+        "id": "28211116415196545",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "link_description": "ציוד לאופנועים ירושלים - אייפקס מוטורס",
+        "landing_url": "http://www.apexmotors.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812535330_2595072930977241_2575708657758622264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lamty8Fyw8oQ7kNvwGwirkN&_nc_oc=AdqjknKlp28bh3fCvGLEplocDA7EMi0CA5Of6gSRz22itp29hQ0gc1MvPx6pHgfM1Yk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIAPK-xNMjt7-SFbH6R9r2Ed-npOS84DiikMYLco2djiA&oe=6ABC2630",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813785674_2167298703849872_3292048082442019927_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ou7YsyHrooQ7kNvwFi1FXi&_nc_oc=Adpdox4TsopqxJKJPjqSLPdIfrSMyn51uUCia8jtb51sHXE57bhKQ8T2S9LICkTyNI4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJP7PLw8_1SbHswjFmZyRh3obASE8nTuL3Da8_aty4HWQ&oe=6ABC2865",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797058440_1131071789351857_7838977983614289282_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MSrBLNsJoAAQ7kNvwGFqqOH&_nc_oc=Adp_3Zb2dlIwFk3sNNRZwKS8vLqC2qjt2w3TTOX8kBWDRAZbCMRC-twogeJQ0d9NuJo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIcgNGXicu34EFnDhfLl6RSS5tMIxnC5tIUssTT-hV3WQ&oe=6ABC4E6B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812166372_984347331358135_5494618773971082367_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VaWdG7u1DGUQ7kNvwGmOyFw&_nc_oc=AdqerPDW5XR5DVFs5sxbkKc5nTKWWQxywpBDYrjrpReI0oAGLIPklz9hDGHIapKiHgU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLN2kkMp6buElYNHBpCidJpjRxZ6LGiN1juLFYdWKClqQ&oe=6ABC4BC4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812281296_1064910789502162_3246062399090502674_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IM0WFX7maDcQ7kNvwGQ6GEE&_nc_oc=AdpFHN0Um__KpEvSHecRczkxQdpVDC770Miy47dxtjWYOfjg8pMSVES0RwUhePSs2I8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJfM1ryPFQlIKZqjtFE1ozh0Fg_T-b-pg-5YcbqZisogQ&oe=6ABC54B6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807673270_1129678739387252_1971003419893724273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eBkCoKRuVHIQ7kNvwERgFlf&_nc_oc=AdoUtZR4BbRRFxPeeir_q3k1M2JM0UwvoeJTnizfr7-KuSEg2LcdkKJE1SgAzmgtuVQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLy3p28Z29TQJvr9gpV5xofnyKZonqjLcAqZarHS714Eg&oe=6ABC2D21"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28211116415196545"
+      },
+      {
+        "id": "1089372443636457",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אייפקס מוטורס - כל מה שרוכב צריך במקום אחד! לרוכב - כל ציוד הרכיבה מכף רגל ועד ראש לאופנוע - מנעולים, כיסויים, מוצרי תחזוקה וטיפוח",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819882965_1066096992881345_3808637163477824376_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JApcUD1rIDYQ7kNvwFFi9I0&_nc_oc=Adrk2E8Z6w4asf4jI4II6z6r8EWbejC4asIPUxc0Z0vtuMz-ATrKvtjQbSAxVdnGMcA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ5hfxRJOyae7CgMffVh48t16y92Wr7zKtUi5D7QNoveA&oe=6ABC5AE2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1089372443636457"
+      },
+      {
+        "id": "1108911715038462",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "link_description": "תרסיסים ותוספים לאופנוע שטח - יצרן: MUC-OFF - אייפקס מוטורס",
+        "landing_url": "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813837229_1113462408288134_664525894047506237_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uoq05lwKQfYQ7kNvwGIqrb4&_nc_oc=Adp-82PQv-Rk1139uh_hrXLAuj69OoJionSIbldoUa9KtL9mlyABOxekiZA0aMozgOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLsPCvt5RreWfXNsWsbnAvTboJ5NfAkvKMmLljpNUIpdw&oe=6ABC5AF0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813428681_2201080630455085_3285143401193145605_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VvHUxJRwUEMQ7kNvwHqP7GZ&_nc_oc=AdpHfwkBElxsuGVt_Tk9dga0il6nuCTZo3V4h0oc__GvGWoCBo1vD9CkIRQQWSQAfYI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ_K8Gc-z0TAizA-0qPU1-HNKoJXspMBrjLGTiozwr5-w&oe=6ABC37A1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813872180_1579150106794357_3212514237402895276_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBjSdKefVW0Q7kNvwG2tkWm&_nc_oc=AdqVPcNVem4OE_dPZs0QA2gj2mhe1vuatQc9aLyHSm-JrNAHozeRwZQr8CA8dP6M_ZQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJM6G71vBgocXCIvblL8FccTwHIh05TCTI9iFKAFZ63HQ&oe=6ABC55E8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813582779_1075149435369435_8412554489845470123_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=79pAibmYpQIQ7kNvwE3lDOI&_nc_oc=Adp5ZsdoxHwBMFzUmfMMPMJsF096U-5W5SO8NZIeCWvCDsgutMlZZ2emGQKc2V2kFnE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ57GjyIPXMiDBzN0m3qRIXmEjcGF_LZEWnbRm_ydHKsQ&oe=6ABC3E38",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813756231_1712692210858085_882837086837641194_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uq6aUjZnFWkQ7kNvwHcksOc&_nc_oc=AdqHejRBHKf6oCke1ARnme9NTqFWQddkleNeFLy9dcBp3e68s6evds5kHnZIhrFJ78I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLRYloojwidL-d7gPrwuLOnqZ7scLxS9TGG-StBgjL69w&oe=6ABC4411",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813420915_3915218078619216_3008595269387491222_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UcOjlqM6aW0Q7kNvwE3VncV&_nc_oc=AdqOmRyQLsajZgt4bLgaxl-ejJ9z78fPN3_Nsw2nYHtvTTEN7ndRA2hTn7EAIA11iUw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKpmA4OTvSaTiNp6B1ZNpt932kRZuy2zciln3TSGn-VyA&oe=6ABC4F13"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1108911715038462"
+      },
+      {
+        "id": "959248743203028",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "link_description": "תרסיסים ותוספים לאופנוע שטח - יצרן: MUC-OFF - אייפקס מוטורס",
+        "landing_url": "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813747594_1063598379772020_7340823806835298511_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=skyBcWO_npMQ7kNvwEFS49z&_nc_oc=AdoqaFmX0JTsqzGiONIMwZxmjpf8j2JT5EG6j5KWb2ZDFJPSwH2GLNlhZlH3Z9_aDVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLPzNyg3tp_te_mAs6JnD5OKfFCcR8_L9VWFYBde3CeUg&oe=6ABC4854",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813582778_2599898740430893_4042854699158920633_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tm25Hnj7qyoQ7kNvwH5utuR&_nc_oc=Adqte_vWtL_Y703UfGzpIXYLzPu4Tj_FQu4seHzSYEsUBNImQ7QXYh5TAr9OvjWlJiY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQId2-n3x8Zagy63pOCgDmIvXXXyHUI3ELyszitw-ciSlA&oe=6ABC4870",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813825492_1720214292386970_1119646395757137339_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Le_M-WrIz2YQ7kNvwH7Eqbk&_nc_oc=Adpkffw5y5nq6NM6LUSRRELNl8AJ_plV0wGj6fCQeTDaWY0FDjJdFXohBDLCLD5J1-w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIJy1C_KXiunIumoQ9zGfQqmJNY6t5nq9WrKNRc6Qs3BQ&oe=6ABC33E3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813614002_934128303098418_3517130489531909995_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TfzvE4l_AO4Q7kNvwE0xRoL&_nc_oc=AdqRkzMT2s2cA2jREQV3rGwwCoKiFt6B3NttvdXGvB2oy6JYEPbLwg1aVIz9hSqeMBg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJTX4EAezXiYehgcAcyNkB83pwdrZpZOc381YibeiWXLQ&oe=6ABC3C73",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813582776_1086444257561371_8208484870569192438_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mY2m3L_H1iQQ7kNvwFXwfr5&_nc_oc=AdrW5ATG1C9MSo2ipD2fAeHdKY2NHcKJtJIQA9QP2In0G-ZV_mRWjEdTNzSYDR4m4gw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQIAp7UGDKzsNH2IfhTn1RXZrW25Odv4n-cHiDZKocfXjA&oe=6ABC51E2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813406689_1103135872661727_4802630433454356129_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5kcCoHXVQQkQ7kNvwGgoHxS&_nc_oc=AdoMgKKC7euzX4QLRqdBRhpooft6n-prDXVok_IQPikRqIhAoVCy35paD42DcYeeito&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKANi9lDd39AAAoU0QyY6WBlEsoOVARuUTg83n4-7eZeg&oe=6ABC457B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=959248743203028"
+      },
+      {
+        "id": "1624637726022089",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "link_description": "ציוד לאופנועים ירושלים - אייפקס מוטורס",
+        "landing_url": "http://www.apexmotors.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812400680_1039551688501912_6946621808818726259_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cuR3kp_BSE4Q7kNvwFJbZZD&_nc_oc=Adrmva0QHJdXA9YTykRcd8-pDN1ZpZV9Tgj2OW6WovK4OO37_LBhLriiKcBmTxT48dw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKY7HIWGCzBcEjs571NovgfdhkEyDf0GJ8vS7tJEmYOGQ&oe=6ABC58D1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812315231_1601099008463588_2350541307765885270_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fdrJ9-HZjlkQ7kNvwHHsYyB&_nc_oc=Adqs1Vc7D9XeUQcHvxw9izrWxqB4qvm3EWy1rp28wfXOb854eYmB037TiV3ZG18Z0ac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLjzHtowZ4vWEVt0HlQv9T3g_kRr6h6LxldB6F3kq58hA&oe=6ABC57CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813282859_2056632881613242_2659177667749119451_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLRg2puPDEwQ7kNvwEJhBXZ&_nc_oc=AdoJB4ygUo83dD6uyMKepQRvUyyqWx4vlLPRPetECXeojWd9lHdLDBFvIKL85DTQjpU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKd4wdQ6x42Aoc71kI5PqCwgKe9IRvoJoTESyya9f750Q&oe=6ABC2DF0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796666110_28157639363905824_8589126216867230832_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wQSKbc9hjqsQ7kNvwHhhQTK&_nc_oc=Adom7jeVjZvhIF5OZOOGyAJwjj_nwd-F9HBxZL-uv-9Imoch9dpIEWMNs0_uXtNWKdY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKOBGBlK1Cvf7dVhKCdKRAO1fwmOuabNvsg7bIScqlc8w&oe=6ABC5836",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812227703_1759066185851881_5892469936810701900_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xTZuOjfGDx8Q7kNvwHEw7_S&_nc_oc=Ado2qm2NeuhmdZNfdQL-tKrkNww2FZ3THhrEyvXk4ecbzKyBnM1nPPIQCN5uJ6WcTIQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKt5cO2pojqhAXO8FZntnDGGDPUpP77mUUT08z03vUb-A&oe=6ABC50F8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811472630_1956537055041121_5600351152785345188_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0v7V0dPm2eQQ7kNvwFn6Nf8&_nc_oc=AdrIbV7fed5Z8C-Y4Ggoy-f6nSJCJEEhYzHGWaOdgjC45K65a99ir5-j4jNIqxjxv9k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKkvS1FooEnPYru7I-Sx0HGrAH8ayExXBRUvrI3OeGCsA&oe=6ABC5D3D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1624637726022089"
+      },
+      {
+        "id": "28567242916244058",
+        "page_id": "982526921780869",
+        "page_name": "Apex Motors - אייפקס מוטורס",
+        "page_url": "https://www.facebook.com/Apexmotors.co.il/",
+        "page_like_count": 10990,
+        "page_categories": [
+          "Auto Supplies"
+        ],
+        "ad_creative_link_title": "Apex Motors - אייפקס מוטורס",
+        "body": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "link_description": "ציוד לאופנועים ירושלים - אייפקס מוטורס",
+        "landing_url": "http://www.apexmotors.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800642808_1636832817889439_7473571458217630466_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OSNrLhDgmU8Q7kNvwGPsbsN&_nc_oc=AdqgOQZ5Ut-NWaWxoFST2Ukpj3TE2XkfEoD_qrXinsP87fhoscCca66zB-D_rhKeCM0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLSUiUzb6Mp4zY6b987xDpdXJDSPi0CHD4TyvoBvWzvcw&oe=6ABC2A68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813785769_1716629106085879_3905895305610134130_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZoLVpFr2vUQ7kNvwFhTwlC&_nc_oc=Ado02sJsVcZJokKH2vP-_ewXWN8m3WKWf7cQNAnMbXsU_pMTcrepnNS8lTjefSvbcew&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQJ1oWNoJa2gfk9q4RvK5F1Ld7kdTuoqmFnAcAPorw5Z-g&oe=6ABC2B9D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/809133848_1060896150172330_4155282304829535932_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oct_9gZA2OkQ7kNvwGGldn-&_nc_oc=AdqwIN2GYyrqlHIlDWqgKVxVLPiVy8ySoYL4ySeZOcuGgpX5diPaXcsrQPZ80OGWYIc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQKlTuYqfOjrgr_bK3HpK-OJvPXuOntHR-EFCB9Ye_D4Ow&oe=6ABC2AE5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799770496_1618428586390554_1421502438749953607_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v4_fb8ZlGvkQ7kNvwEG83jd&_nc_oc=AdqZ0WcFO244k4lOPGicZhv1YHtvNPzEpzbB1yIqe88V1FX6q5q4A2g97bnqsfpkpbE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLnjvqWd7WHWE9q-86Jo4eC0A3_hh3RpmSGCKplj6EJfQ&oe=6ABC4C3C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807684797_2157553885172899_7816705875371439206_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LYfd5xsTRCMQ7kNvwHNlOHI&_nc_oc=Adpn0NtyvnqFacUQXEeymWVlRx49cS4pQEj-ISzo_R7FIBhSBVp-Zv6fHfVdcDA6zhw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQI4Y9CLP_7pg5zEdYgvLnqfkvKppuB_SmemzmKyiH9Ykw&oe=6ABC4E4F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800282939_1619104709611540_1879460107793916667_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ecToJyv6mlcQ7kNvwFzzYxH&_nc_oc=AdrMXiTDN_TghzbF4dw6VhABR3NNkWQx_cpFs-PMcVBdDdHucx2azSLI4zPqEiEJox0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=8TZEd7oRIwprUbyx-EF3vA&_nc_ss=70289&oh=00_AQLUWVndNIOv8N9sWU2uRsftGP81ZfbUiMtFY_c1ljovdw&oe=6ABC4BE4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28567242916244058"
+      },
+      {
+        "id": "2051068995478858",
+        "body": "מחפשים את הציוד הכי טוב בעולם הדו-גלגלי? הכירו את Apex Motors בירושלים.\n\nמתחם ענק של 300 מ\"ר הפרוש על שתי קומות, עם מחלקות ייעודיות לכל סגנון רכיבה:\n\n✅ מחלקת כביש: קסדות מהמותגים המובילים, מעילים, כפפות וג'ינסים ממוגנים.\n✅ מחלקת אדוונצ'ר: אביזרים ומיגון לרוכב ולאופנוע.\n✅ מחלקת שטח: ציוד איכותי לתנאים הקשים ביותר. \n✅ מחלקת תחזוקה: שמנים, חלפים, ומוצרי טיפוח מהשורה הראשונה.\n✅ מחלקת אביזרים: דיבוריות, מצלמות וכל מה שרוכב צריך.\n\nהצוות המקצועי שלנו מחכה לכם עם שירות בגובה העיניים, מחיר מנצח וחניה חינם. 🏁 \n\n📍 רחוב הפרסה 2, ירושלים.\n🚛 משלוחים לכל הארץ!\n🌐 הזמינו עכשיו: https://www.apexmotors.co.il/",
+        "landing_url": "https://www.apexmotors.co.il/"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/messenger_doc/",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2051068995478858",
+        "text": "מחפשים את הציוד הכי טוב בעולם הדו-גלגלי? הכירו את Apex Motors בירושלים.\n\nמתחם ענק של 300 מ\"ר הפרוש על שתי קומות, עם מחלקות ייעודיות לכל סגנון רכיבה:\n\n✅ מחלקת כביש: קסדות מהמותגים המובילים, מעילים, כפפות וג'ינסים ממוגנים.\n✅ מחלקת אדוונצ'ר: אביזרים ומיגון לרוכב ולאופנוע.\n✅ מחלקת שטח: ציוד איכותי לתנאים הקשים ביותר. \n✅ מחלקת תחזוקה: שמנים, חלפים, ומוצרי טיפוח מהשורה הראשונה.\n✅ מחלקת אביזרים: דיבוריות, מצלמות וכל מה שרוכב צריך.\n\nהצוות המקצועי שלנו מחכה לכם עם שירות בגובה העיניים, מחיר מנצח וחניה חינם. 🏁 \n\n📍 רחוב הפרסה 2, ירושלים.\n🚛 משלוחים לכל הארץ!\n🌐 הזמינו עכשיו: https://www.apexmotors.co.il/",
+        "links": [
+          "https://www.apexmotors.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1474381687691682",
+        "text": "עולם חדש לרוכבים ב APEX!🏍  🏁\nמבחר מטורף | מחירים אטרקטיבים | משלוחים לכל הארץ | \nיאללה ל APEX 🏁",
+        "links": [
+          "http://www.apexmotors.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1050559911194376",
+        "text": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "links": []
+      },
+      {
+        "ad_id": "1442185984713300",
+        "text": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "links": []
+      },
+      {
+        "ad_id": "1229564829382439",
+        "text": "המשלוח המטורף של העונה נחת באייפקס! 🏁🔥\nהדגמים והצביעות החדשות של קסדות BELL לשנת 2026 כבר על המדף!\n\nאז מה מחכה לכם בחנות?\n\n🏍️ קסדת MX9 Adventure – קסדת אדוונצ'ר משתלמת במיוחד במגוון צבעים חדשים (אפור, חום, שחור, כחול, כתום, ירוק ולבן)\n🏍️ קסדת  Lithium – הדגם החדש והמבוקש עם טכנולוגיית Mips לשיכוך מכות, כולל משקפים כהים בחלק מהדגמים הכלולים במחיר\n🏍️ קסדת  Eliminator & Bullitt – לחובבי הקאסטום והסטייל הקלאסי, זמין גם בגרסאות קרבון\n🏍️ קסדת  Race Star – סדרת העילית היוקרתית! מעטפת קרבון, טכנולוגיית Flex, ריפודים מגנטיים, משקף מתכהה (ProTint) וצביעות מטורפות\n\nמחפשים את הקסדה הבאה שתסגור לכם פינה בבטיחות ובסטייל?\nהמלאי מוגבל – אל תפספסו!\n📦 משלוחים חינם לכל הארץ!\nקליק אחד והיא בדרך אליכם 👇\n\nלכניסה לאתר ולהזמנה: https://tinyurl.com/mva66t9n\nמחכים לכם לבוא להתחדש!\n📍 הפרסה 2, ירושלים",
+        "links": []
+      },
+      {
+        "ad_id": "1400376178875536",
+        "text": "קבלו את הבאנדלים של סוכות באייפקס! 🌾🌿\n\nחג שמח לכל הרוכבים! סידרנו לכם מבצעי באנדלים מטורפים על הציוד והמוצרים הכי מבוקשים, בדיוק בזמן לחופש! 🏍️🔥\n\nדפדפו בקרוסלה ותראו את כל הדילים השווים שמחכים לכם ➡️\n\n⚠️ שימו לב:\n📌 המבצעים תקפים רק בחנות הפיזית!\n📅 בתוקף עד ה-2.10 בלבד (או עד גמר המלאי)\n\nמחכים לכם לבוא להתחדש לחג!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "https://fb.com/messenger_doc/"
+        ]
+      },
+      {
+        "ad_id": "965905832433988",
+        "text": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF"
+        ]
+      },
+      {
+        "ad_id": "1633958415065684",
+        "text": "קבלו את הבאנדלים של סוכות באייפקס! 🌾🌿\n\nחג שמח לכל הרוכבים! סידרנו לכם מבצעי באנדלים מטורפים על הציוד והמוצרים הכי מבוקשים, בדיוק בזמן לחופש! 🏍️🔥\n\nדפדפו בקרוסלה ותראו את כל הדילים השווים שמחכים לכם ➡️\n\n⚠️ שימו לב:\n📌 המבצעים תקפים רק בחנות הפיזית!\n📅 בתוקף עד ה-2.10 בלבד (או עד גמר המלאי)\n\nמחכים לכם לבוא להתחדש לחג!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "28211116415196545",
+        "text": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "http://www.apexmotors.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1089372443636457",
+        "text": "אייפקס מוטורס - כל מה שרוכב צריך במקום אחד! לרוכב - כל ציוד הרכיבה מכף רגל ועד ראש לאופנוע - מנעולים, כיסויים, מוצרי תחזוקה וטיפוח",
+        "links": []
+      },
+      {
+        "ad_id": "1108911715038462",
+        "text": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF"
+        ]
+      },
+      {
+        "ad_id": "959248743203028",
+        "text": "הגיע הזמן לקחת את טיפוח האופנוע שלך ברצינות! 🧼✨\nעם המוצרים של Muc-Off שומרים על הכלי כמו חדש בכל יום בשנה בחנות ובאתר אייפקס. 🏍️💎\nמה תמצאו בסדרה?\n🧼 חומרי ניקוי ייעודיים: להסרת לכלוך קשה, שמן ופיח במהירות וללא מאמץ\n✨ תרסיסי הגנה והברקה: לשמירה על הצבע, המכלולים והציפוי של הכלי\n🧰 ערכות טיפוח ואביזרים: מברשות, ספוגים וערכות קומפלט לטיפול מושלם\nתנו לאופנוע שלכם את הטיפול שמגיע לו! 🔥\n🚚 משלוחים חינם לכל הארץ!\n🛒 לרכישת מוצרי Muc-Off: https://tinyurl.com/bdf2sfjj\nמחכים לכם בחנות ובאתר!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF"
+        ]
+      },
+      {
+        "ad_id": "1624637726022089",
+        "text": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "http://www.apexmotors.co.il/"
+        ]
+      },
+      {
+        "ad_id": "28567242916244058",
+        "text": "רוכבים בכל מזג אוויר? 🌧️☀️\nהקולקציה המלאה של Rebelhorn מחכה לכם באייפקס!🏍️\nציוד רכיבה מקצועי, עמיד ואיכותי שיסגור לכם פינה מול כל מזג אוויר  זמין תמיד בחנות ובאתר.\n\nאז מה מחכה לכם אצלנו?\n\n🧥 מעילים: מעילי רכיבה איכותיים לכל עונה \n👖 מכנסי רכיבה: מוגנים, נוחים ועמידים\n🧤 כפפות: אחיזה מעולה והגנה מקסימלית\n👟 נעליים וסניקרס רכיבה: סטייל ונוחות שלא באים על חשבון הבטיחות \n\nמצטיידים לכל השנה בבטיחות ובסטייל! 😎\n\n🚚 משלוחים חינם לכל הארץ!\n🛒 לצפייה בקולקציה ולהזמנה: https://tinyurl.com/3bar2wbp\nמחכים לכם!\n📍 הפרסה 2, ירושלים",
+        "links": [
+          "http://www.apexmotors.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2051068995478858",
+        "text": "מחפשים את הציוד הכי טוב בעולם הדו-גלגלי? הכירו את Apex Motors בירושלים.\n\nמתחם ענק של 300 מ\"ר הפרוש על שתי קומות, עם מחלקות ייעודיות לכל סגנון רכיבה:\n\n✅ מחלקת כביש: קסדות מהמותגים המובילים, מעילים, כפפות וג'ינסים ממוגנים.\n✅ מחלקת אדוונצ'ר: אביזרים ומיגון לרוכב ולאופנוע.\n✅ מחלקת שטח: ציוד איכותי לתנאים הקשים ביותר. \n✅ מחלקת תחזוקה: שמנים, חלפים, ומוצרי טיפוח מהשורה הראשונה.\n✅ מחלקת אביזרים: דיבוריות, מצלמות וכל מה שרוכב צריך.\n\nהצוות המקצועי שלנו מחכה לכם עם שירות בגובה העיניים, מחיר מנצח וחניה חינם. 🏁 \n\n📍 רחוב הפרסה 2, ירושלים.\n🚛 משלוחים לכל הארץ!\n🌐 הזמינו עכשיו: https://www.apexmotors.co.il/",
+        "links": [
+          "https://www.apexmotors.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.apexmotors.co.il/",
+      "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "filtered": "2026-09-25T12:54:49",
+    "qualified": "2026-09-25T12:58:59",
+    "rejected": "2026-09-25T12:59:50"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.apexmotors.co.il/",
+      "https://www.apexmotors.co.il/",
+      "https://www.apexmotors.co.il/362465-%D7%AA%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-/476541-MUC-OFF",
+      "https://www.apexmotors.co.il/362569-%D7%93%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%95%D7%AA-%D7%95%D7%9E%D7%A2%D7%A8%D7%9B%D7%95%D7%AA-%D7%A7%D7%A9%D7%A8-%D7%9C-SBS",
+      "https://www.apexmotors.co.il/about",
+      "https://www.apexmotors.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "konimbo",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

@@ -144,7 +144,8 @@
     "link_in_bio_pages": [
       "https://linke.to/stronghair26",
       "https://linke.to/acne15"
-    ]
+    ],
+    "social_landings": []
   },
   "current_ads": [],
   "products": [],
@@ -160,7 +161,7 @@
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
     "rejected": "2026-09-25T11:33:09",
-    "unqualified": "2026-09-25T11:33:38"
+    "unqualified": "2026-09-25T12:55:14"
   },
   "qualify": {
     "pages_checked": [
@@ -173,8 +174,8 @@
     "site_blocked": true,
     "missing": [
       "instagram_page",
-      "owner_instagram",
       "whatsapp"
-    ]
+    ],
+    "owner_instagram_found": false
   }
 }

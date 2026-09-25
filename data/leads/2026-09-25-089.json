@@ -1,0 +1,999 @@
+{
+  "lead_id": "2026-09-25-089",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://secolo-jewelry.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "info@secolo-jewelry.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/secolojewelry/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/secolo_jewelry/",
+      "source": "https://secolo-jewelry.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "437158997031325",
+    "page_name": "Secolo Jewelry - סקולו תכשיטים",
+    "active_ads_count": 22,
+    "search_keyword": "תכשיטים",
+    "sample_ads": [
+      {
+        "ad_id": "935149516101280",
+        "link_title": "{{product.name}}",
+        "body": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622239921_2396742550783014_6827579659261554690_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWKpXyqX9f0Q7kNvwGaGmx9&_nc_oc=AdpygrAsJOSRADMbgBJDzW-AmAoeqMVE5V7mNSLPKqsmiPmKsENXgH0CNm1uGiXUxco&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQICHe-wyllWRiGMazt9FwzHQdd3-4vrJTTZgIMUKFQ3Rw&oe=6ABC52A1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/623468271_897423749310476_4598473571874601709_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qWdomG1BbOQQ7kNvwEqW-Hr&_nc_oc=Adrr8yxajNYUEh9tqxaYbTU2UJ3-BiAqJamc0-Y-My66R0LyEhYQnoEmjmI5Dto0cTI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQLigd1dA_PRtRG00jb_QoxaFiIHKKuO7t5GZmBpNpL-0w&oe=6ABC4D75",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/621845466_873353528832582_8617465510999202241_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3AfdAHCBaP0Q7kNvwHoqAE0&_nc_oc=Adp9_-87H-qjEWdJZE_hmEkunaNnQ7vlYg5Pa7XOGQeCAthAoVeefIcg9SoR0mRi4S0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQIlLwGbqywXCPZUKFoacvyx5PZrFLXruNbDa0Al62gAYQ&oe=6ABC49BF"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1775631600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=935149516101280"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "קולקציה",
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 22,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2749,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "935149516101280"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 2749,
+    "page_categories": [
+      "Jewelry/watches"
+    ],
+    "page_ads": [
+      {
+        "id": "935149516101280",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "link_description": "הגיע הזמן שתעניקי לעצמך תכשיט חדש במחירי מבצע מבחר תכשיטי כסף אמיתי 925 זהב 14K ורוז גולד במחירים שאסור לפספס! משלוח חינם בקניה מעל 399₪",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775631600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623370687_1449932683367959_4591256706768396382_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eLRNI5hwOsYQ7kNvwErthTK&_nc_oc=Adp8pNZY_SDoCbT4mOrKGD-6dm80-QD4dhseVgtXdLrw8o4VmeJ01vvEnLEOx_bu_0g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQK1GcrAeBxJG-aOUNCINCwOQE0cAdiaC_d8RLJQza_BsA&oe=6ABC4DC9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/623468271_897423749310476_4598473571874601709_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qWdomG1BbOQQ7kNvwFcsjRT&_nc_oc=AdpPk52S8Ch1mPvVyaSRmyR5ymMaCvcvd7TYJup740W8Qk9zNnfCaejPrTo3NJRBF4Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJNUJPnPJXAKJep1J8VhBpyWKFENuldgvSK5PxlfVtBag&oe=6ABC4D75",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622239921_2396742550783014_6827579659261554690_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWKpXyqX9f0Q7kNvwFzKpLw&_nc_oc=AdpqwXH840ZMXxlBb03uv7FVJAGJialTFZFwokLyEx-Vfhszp7-481bJLq3oB_cah-A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLQ6y7wR1fXP6qSV_5mQamNwqqbY84c6IP6NwtILYpOkg&oe=6ABC52A1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622251424_756416233714925_2246764116275761763_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h0ZdnsOWLjwQ7kNvwFriLkP&_nc_oc=AdqJXyOPM4HyKOvoKGGc4svN4WkJYv8QG-ygozqKnUUHhUBqBXdM0Gg2Kd0VF-hnF9E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJTe2SIGTvIJjB3Dmrv4uUqWysTQOVpXJzE1Rai4zeuqA&oe=6ABC4370",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622233828_1915878685967883_8081293359844018587_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RK46MLoO1Z4Q7kNvwFLK0f8&_nc_oc=Adp5zgQYKMFZhWNguWWPDKSB9lWnD7RqB6K-flXwiRlx8qCl67jXgj69imLiQEkoeSo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKg7mr_KnjLfjxmJYEEoL6DL4uftIPA1Vk8HIfEuQJwBA&oe=6ABC5C68",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/621845466_873353528832582_8617465510999202241_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3AfdAHCBaP0Q7kNvwEA2_c7&_nc_oc=AdrF5Jb2PqIUMZ_xR0SHNKr_18qiAPIKhvSoiplhtOTJIPZWU4zpUK5J-3IAMy1tB0E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQK58rvSX6_lD1ELR-tNs6iSLao9YSgGLIHNAyc6nR3bQw&oe=6ABC49BF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=935149516101280"
+      },
+      {
+        "id": "2179104436168667",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ פותחים שנה חדשה עם סטייל – 10% הנחה על כל האתר!",
+        "link_description": "המבצע לזמן מוגבל בלבד ⏰",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771574400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/639770833_2851265325271845_8695387904816070893_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mTjgt2fWAeUQ7kNvwEzspHf&_nc_oc=Adpg5-5qgouRHVLzgYIbHkwWDBNt8MvKoLvaM_lGS0x2tHMYDyTvfemmmEwjwYYeaqo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJn3iyMh9q6i7q6_Vhh7Iq0TCcaWkDA3PmUdzF0frGt0w&oe=6ABC3E92"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2179104436168667"
+      },
+      {
+        "id": "2167936230617418",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1768204800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614642906_2100764017388608_5289592987911585276_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ixl-1SDWtXsQ7kNvwEevcuB&_nc_oc=AdqUFB_FPBlc-q2qAjs1S0tacJ3RfCxTzmKjpezn6kZliLSJ9HHgamiPSMLL3AVuHKk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLSETbE_gCW2Dk2dNjAgIlB3zlly6mVTPGPS2hMrNh5MA&oe=6ABC60B2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615134730_1965614500750664_6737291746522171525_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=81pD948D_QcQ7kNvwEsjIA7&_nc_oc=AdrgrtAELaFE2T03-DfNrt4-OSC8VRu2NckQDDRayrTQNcfItvIe_JTMpVyTZM5oHGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIQe9wAc0l8GTa1lnGhIWTO4R4b4Kr4v5UePTYHNf5wVg&oe=6ABC40FF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615134730_1965614500750664_6737291746522171525_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=81pD948D_QcQ7kNvwEsjIA7&_nc_oc=AdrgrtAELaFE2T03-DfNrt4-OSC8VRu2NckQDDRayrTQNcfItvIe_JTMpVyTZM5oHGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIQe9wAc0l8GTa1lnGhIWTO4R4b4Kr4v5UePTYHNf5wVg&oe=6ABC40FF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2167936230617418"
+      },
+      {
+        "id": "803784499082010",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "New Collection 💎",
+        "body": "✨ קולקציה חדשה נחתה\nעגילים, טבעת ושרשרת שגורמים לכולם להסתכל\n\nאלגנטיות שלא מתאמצת 💎\nעכשיו באתר >>",
+        "link_description": "⏰ מלאי מוגבל – אל תפספסי",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776409200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671596735_2073927186502913_5259637301472505725_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nXpmk13hzyEQ7kNvwGUQvLe&_nc_oc=AdpQ1Yl4pITnDpUYcLknqOV6EE8OjfXCmPzF58z5wTG6hQmpCesEQmr1yNwCoR_hQFI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJ5skxN5KPFFkXJusV_VZLYXGo_qrDUPkSCoIbZ3kn1FA&oe=6ABC50B2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcEtM--PjBG6GlstmEmHBDYUcTOBqbNrvmRMd2Z9hLYB4xnfMEO4ilRjdjnCfOJAM_A1Wg_QVs2WGcBPa1gSTY153TWxZ0tnWJvzRcmNrHXg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ap3gbn6SJKAQ7kNvwFPz8zX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDU2NDEzODQwMzI3ODMsImFzc2V0X2FnZV9kYXlzIjoxNjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=845b04213c9b2611&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERjQxNTdENDM2NDIwOTdCNjYyOTFFNjA1NTQ3MUY4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEREQ0VDRDkxNkRCN0JGRTY1QjhFNzlFNjhBMDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6KfF0JTaBRUCKAJDMywXQBhmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLraS7WmJ7K7BFRYNJ-26Ybbkl8Q5Inm-fwDjJs144rww&oe=6ABC4525"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=803784499082010"
+      },
+      {
+        "id": "1626477632472348",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "New Collection 💎",
+        "body": "✨ קולקציה חדשה נחתה\nעגילים, טבעת ושרשרת שגורמים לכולם להסתכל\n\nאלגנטיות שלא מתאמצת 💎\nעכשיו באתר >>",
+        "link_description": "⏰ מלאי מוגבל – אל תפספסי",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671596735_2073927186502913_5259637301472505725_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nXpmk13hzyEQ7kNvwGUQvLe&_nc_oc=AdpQ1Yl4pITnDpUYcLknqOV6EE8OjfXCmPzF58z5wTG6hQmpCesEQmr1yNwCoR_hQFI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJ5skxN5KPFFkXJusV_VZLYXGo_qrDUPkSCoIbZ3kn1FA&oe=6ABC50B2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcEtM--PjBG6GlstmEmHBDYUcTOBqbNrvmRMd2Z9hLYB4xnfMEO4ilRjdjnCfOJAM_A1Wg_QVs2WGcBPa1gSTY153TWxZ0tnWJvzRcmNrHXg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ap3gbn6SJKAQ7kNvwFPz8zX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDU2NDEzODQwMzI3ODMsImFzc2V0X2FnZV9kYXlzIjoxNjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=845b04213c9b2611&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERjQxNTdENDM2NDIwOTdCNjYyOTFFNjA1NTQ3MUY4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEREQ0VDRDkxNkRCN0JGRTY1QjhFNzlFNjhBMDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6KfF0JTaBRUCKAJDMywXQBhmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLraS7WmJ7K7BFRYNJ-26Ybbkl8Q5Inm-fwDjJs144rww&oe=6ABC4525"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1626477632472348"
+      },
+      {
+        "id": "2433888187414005",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "link_description": "הגיע הזמן שתעניקי לעצמך תכשיט חדש במחירי מבצע מבחר תכשיטי כסף אמיתי 925 זהב 14K ורוז גולד במחירים שאסור לפספס! משלוח חינם בקניה מעל 399₪",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623370687_1449932683367959_4591256706768396382_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eLRNI5hwOsYQ7kNvwErthTK&_nc_oc=Adp8pNZY_SDoCbT4mOrKGD-6dm80-QD4dhseVgtXdLrw8o4VmeJ01vvEnLEOx_bu_0g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQK1GcrAeBxJG-aOUNCINCwOQE0cAdiaC_d8RLJQza_BsA&oe=6ABC4DC9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/621845466_873353528832582_8617465510999202241_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3AfdAHCBaP0Q7kNvwEA2_c7&_nc_oc=AdrF5Jb2PqIUMZ_xR0SHNKr_18qiAPIKhvSoiplhtOTJIPZWU4zpUK5J-3IAMy1tB0E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQK58rvSX6_lD1ELR-tNs6iSLao9YSgGLIHNAyc6nR3bQw&oe=6ABC49BF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622233828_1915878685967883_8081293359844018587_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RK46MLoO1Z4Q7kNvwFLK0f8&_nc_oc=Adp5zgQYKMFZhWNguWWPDKSB9lWnD7RqB6K-flXwiRlx8qCl67jXgj69imLiQEkoeSo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKg7mr_KnjLfjxmJYEEoL6DL4uftIPA1Vk8HIfEuQJwBA&oe=6ABC5C68",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622251424_756416233714925_2246764116275761763_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h0ZdnsOWLjwQ7kNvwFriLkP&_nc_oc=AdqJXyOPM4HyKOvoKGGc4svN4WkJYv8QG-ygozqKnUUHhUBqBXdM0Gg2Kd0VF-hnF9E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJTe2SIGTvIJjB3Dmrv4uUqWysTQOVpXJzE1Rai4zeuqA&oe=6ABC4370",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/623468271_897423749310476_4598473571874601709_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qWdomG1BbOQQ7kNvwFcsjRT&_nc_oc=AdpPk52S8Ch1mPvVyaSRmyR5ymMaCvcvd7TYJup740W8Qk9zNnfCaejPrTo3NJRBF4Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJNUJPnPJXAKJep1J8VhBpyWKFENuldgvSK5PxlfVtBag&oe=6ABC4D75",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622239921_2396742550783014_6827579659261554690_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWKpXyqX9f0Q7kNvwFzKpLw&_nc_oc=AdpqwXH840ZMXxlBb03uv7FVJAGJialTFZFwokLyEx-Vfhszp7-481bJLq3oB_cah-A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLQ6y7wR1fXP6qSV_5mQamNwqqbY84c6IP6NwtILYpOkg&oe=6ABC52A1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2433888187414005"
+      },
+      {
+        "id": "25526184890367176",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1768118400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614296770_1260029592602790_7115243862414890867_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZrukEAUP7PAQ7kNvwELkoLc&_nc_oc=AdrBqO1196XFeWz4LoqzrqVCd6APFGqcmfacLoXZUSZOtKWY525tt48rR4a8G-4SISo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIL7Gey0VqXV3kPtPtkp5Du9yFfkzF6z5sj4-yhf8rKMw&oe=6ABC2AF0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615437472_765995819868725_1384487993061480131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7_w2ZKvp6hoQ7kNvwEMM1mH&_nc_oc=AdqKDLiCUjfah0fZ2-XRFfE0ZrVSlQ2GzgLQnmMhB5zvPQrOIn-ChNA-SSHfDBYJjXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKZ3SkI5jLRDuq4qW10o0jU3pVF3LSxxBRKW_yToRrQJQ&oe=6ABC4E7B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614296770_1260029592602790_7115243862414890867_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZrukEAUP7PAQ7kNvwELkoLc&_nc_oc=AdrBqO1196XFeWz4LoqzrqVCd6APFGqcmfacLoXZUSZOtKWY525tt48rR4a8G-4SISo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIL7Gey0VqXV3kPtPtkp5Du9yFfkzF6z5sj4-yhf8rKMw&oe=6ABC2AF0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25526184890367176"
+      },
+      {
+        "id": "1547136514109528",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614296770_1260029592602790_7115243862414890867_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZrukEAUP7PAQ7kNvwELkoLc&_nc_oc=AdrBqO1196XFeWz4LoqzrqVCd6APFGqcmfacLoXZUSZOtKWY525tt48rR4a8G-4SISo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIL7Gey0VqXV3kPtPtkp5Du9yFfkzF6z5sj4-yhf8rKMw&oe=6ABC2AF0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615437472_765995819868725_1384487993061480131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7_w2ZKvp6hoQ7kNvwEMM1mH&_nc_oc=AdqKDLiCUjfah0fZ2-XRFfE0ZrVSlQ2GzgLQnmMhB5zvPQrOIn-ChNA-SSHfDBYJjXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKZ3SkI5jLRDuq4qW10o0jU3pVF3LSxxBRKW_yToRrQJQ&oe=6ABC4E7B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614296770_1260029592602790_7115243862414890867_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZrukEAUP7PAQ7kNvwELkoLc&_nc_oc=AdrBqO1196XFeWz4LoqzrqVCd6APFGqcmfacLoXZUSZOtKWY525tt48rR4a8G-4SISo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIL7Gey0VqXV3kPtPtkp5Du9yFfkzF6z5sj4-yhf8rKMw&oe=6ABC2AF0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1547136514109528"
+      },
+      {
+        "id": "2417822615310995",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "התכשיט שלא צריך להתאמץ כדי למשוך תשומת לב ✨\nשתי שרשראות מכסף אמיתי 925 בעיצוב עדין, נקי ועל־זמני.\n🤍 כסף אמיתי 925\n🚚 משלוח מהיר\n\nלחצי לרכישה 👇",
+        "link_description": "💎 כסף אמיתי 925 | משלוח מהיר לכל הארץ 🤍",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782543600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/720074161_1499858798216135_7824718577216587284_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kqn5Ma9LqjEQ7kNvwHirh8a&_nc_oc=Adr7n0dOkeKzQZIldJn5dDlYpCNfIS616h0BMHsZHD_KZjjsoD6uOtkouKa3-zpmVlk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLx_yG0mQkdEPqWmKETr4mlliNWcjfY8XRtSyIgARigTA&oe=6ABC2E2B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMphG9JrGo-ABeW-NOI5R_wUQSszukQuky-j2UKSI4RaUQCsJQjSz0VjGw8_9EmHszxmUYwee75SWqzGZZiIkyYqHhe0vR-rs4J6Qj2QZwwmQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mBZwJ3r3qbkQ7kNvwGHw-h5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDI3MTAzNjg0MjYyMzEsImFzc2V0X2FnZV9kYXlzIjoxMDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=abf1ca28e8cf21bb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QzQzRDVBMTE2N0NDMjY0RjU4QzVFRTBBNzBDMTA5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNEIzNEVGQzU2MUJEMDA0NDI3QzgzNUE3MzAyNEEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu49zTvvD9BBUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIQWFiM7OPBVauciZ83ULa8PJMK2a7vQr1hIf3VEBNh1g&oe=6ABC6059"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2417822615310995"
+      },
+      {
+        "id": "1242559094614073",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "צמיד וטבעת מחוברים בעיצוב על-זמני 😍\nכסף 925 אמיתי, נוחות מושלמת ומראה אלגנטי לכל יום\nסטייל שמרגישים מהרגע הראשון ✨",
+        "link_description": "הגיע הזמן שתעניקי לעצמך תכשיט חדש במחירי מבצע מבחר תכשיטי כסף אמיתי 925 זהב 14K ורוז גולד במחירים שאסור לפספס! משלוח חינם בקניה מעל 399₪",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775286000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/665916668_993435919828283_1853626146217593982_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nbBVqEC3BZIQ7kNvwFdZ2e9&_nc_oc=AdqAdSe3qRkR9ntxrlbZL2Hj6OLBjDPc7J7kRxWzDBSiKlSFjNTShX74Eo-cqgiBzFA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKbeYtbRGIdz8-RM_dTFyk2Qn79BXroC7ndojfoQZqkdA&oe=6ABC56FF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/660295131_1481180976882803_8234266323871359962_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a0EyXwUe4wAQ7kNvwFfQvsW&_nc_oc=Adr0yGPQprgeNyJZKr-Ky3vUo37Ci_4JBN2wFLc9FXNlw7Efoz1scbhGa8k5QMD4mUw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIbmAcJGIYDmxSKl51Gg6Y7SCaFo-2O78lTwNjuGaeZjg&oe=6ABC4307",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661694610_958409759918760_7080581581272749611_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kzEnH6QCNHEQ7kNvwGgMLAy&_nc_oc=AdqGYPZl_3cDy9z7u_yUCdDRATtdDVo5_Yk_cd3OHVQe6Srxi156BL9z0cgR1x9TtlQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIypoepFfNuOBmdo6rf74npZpnUL4LVfPtqbKHtEalR1g&oe=6ABC3E8E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662825739_925539403616429_7714102536886182652_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQ-A7WgtHRwQ7kNvwHRhWsw&_nc_oc=AdoUnoFOM-4yR_whYy85OzCoLZcDPtLWxVy_DIG7jtOSXlDUbbU0sq-NkwsELZk0Aa8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQL_AFT0c7fC5OSxcO7F29RZn2tFGA54gtWx63iViTNoGw&oe=6ABC4F5D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/666673227_1932397104088981_4903079225749155607_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f8P-2sSzlAMQ7kNvwFGiuzt&_nc_oc=Adr5-FTYTCCY8fJNTh5zkJEE_t2qRVb6jUAS0WXI_6eHz8-XkpT6OftyVw85fLT-4oM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLNHp_WH3K7vgv7ZDqEoRRI0lhPCU1hsgn5k7S1BYBDbg&oe=6ABC468D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661135577_921154234048347_2094975539512882692_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZ7SL_y3KzwQ7kNvwGzqqdL&_nc_oc=AdpLOcRuvbDF3yaN9bErHgTx4tq-vOgfGWOoEM94-hnH4jxEsIC-q6ARawjHw4IM8eU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKX86DAdUuJ2l0q0-N7flQ-5Aa4ERvD9Of5TzqV2Vt6kQ&oe=6ABC4C83"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1242559094614073"
+      },
+      {
+        "id": "2341349403321986",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ תכשיט אחד , אינסוף שילובים.\nצמידי טבעת מכסף אמיתי 925 שיהפכו כל לוק למיוחד יותר.\n💎 כסף אמיתי 925\n🎁 מתנה מושלמת לעצמך\n🚚 משלוח מהיר לכל הארץ\n\nלחצי עכשיו וגלי את הקולקציה. 🤍",
+        "link_description": "💎 כסף אמיתי 925 | משלוח מהיר לכל הארץ 🤍",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813698105_2198359530744241_2001201431534721935_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LL2tWEz4TfQQ7kNvwHIash3&_nc_oc=AdraTVxWXFuMXGuku1ezu2YlVhVSQ0H1UsAOivrUo6y4uu0fiT2HntCkvCN8PZZIwgE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIpanMxlMwF7cORkvf05y1W1I6fyzK1m2CP4KID0GlmOw&oe=6ABC40E3",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPvCPzQqsjWi_9EdWQO2CKiDbkAXW-IVBizOepNIj6FRxZsA0c2wBQ6m7g0mNCEr4HqIoNB09mxW7-bOAfoZVYO3rJ7YPViKiGyMJ4hWQ9F6g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ex64Rk6XF-AQ7kNvwFLSRzM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTAzNzE1NjEzNzA2NzIsImFzc2V0X2FnZV9kYXlzIjoxMDksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=90dd6775dd478073&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMzQyRDBBNjMzMkZGRUI0Nzk2RTRCODJGODhBNzk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNEVFMUI5RDBFQkMyMjI0QzgzQzNDRDdGMTZDNEEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg0I3grrvLAxUCKAJDMywXQBYbpeNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQITuVo0Atj5zdsZJ4uFq4T80ZlCxVOVMhscG5cAueh-5Q&oe=6ABC58BD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2341349403321986"
+      },
+      {
+        "id": "1424516196237745",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/614642906_2100764017388608_5289592987911585276_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ixl-1SDWtXsQ7kNvwEevcuB&_nc_oc=AdqUFB_FPBlc-q2qAjs1S0tacJ3RfCxTzmKjpezn6kZliLSJ9HHgamiPSMLL3AVuHKk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLSETbE_gCW2Dk2dNjAgIlB3zlly6mVTPGPS2hMrNh5MA&oe=6ABC60B2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615134730_1965614500750664_6737291746522171525_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=81pD948D_QcQ7kNvwEsjIA7&_nc_oc=AdrgrtAELaFE2T03-DfNrt4-OSC8VRu2NckQDDRayrTQNcfItvIe_JTMpVyTZM5oHGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIQe9wAc0l8GTa1lnGhIWTO4R4b4Kr4v5UePTYHNf5wVg&oe=6ABC40FF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615134730_1965614500750664_6737291746522171525_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=81pD948D_QcQ7kNvwEsjIA7&_nc_oc=AdrgrtAELaFE2T03-DfNrt4-OSC8VRu2NckQDDRayrTQNcfItvIe_JTMpVyTZM5oHGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIQe9wAc0l8GTa1lnGhIWTO4R4b4Kr4v5UePTYHNf5wVg&oe=6ABC40FF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1424516196237745"
+      },
+      {
+        "id": "4475807859332786",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ תכשיט אחד , אינסוף שילובים.\nצמידי טבעת מכסף אמיתי 925 שיהפכו כל לוק למיוחד יותר.\n💎 כסף אמיתי 925\n🎁 מתנה מושלמת לעצמך\n🚚 משלוח מהיר לכל הארץ\n\nלחצי עכשיו וגלי את הקולקציה. 🤍",
+        "link_description": "💎 כסף אמיתי 925 | משלוח מהיר לכל הארץ 🤍",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719613634_1669745637634995_8630041958918537643_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GjFH6Bhc0RoQ7kNvwG5HBD1&_nc_oc=AdqajZUc8fNOtYDZMVTeZEfSKpddFVuA6AiX8E9rc5lpw3CHWMFhfygaLxrNIcUIOlM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJd_fqMxxNBJtxsAppb79ZuxfS1Sz5tATQcf8j8AgY91g&oe=6ABC4AC7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPvCPzQqsjWi_9EdWQO2CKiDbkAXW-IVBizOepNIj6FRxZsA0c2wBQ6m7g0mNCEr4HqIoNB09mxW7-bOAfoZVYO3rJ7YPViKiGyMJ4hWQ9F6g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ex64Rk6XF-AQ7kNvwFLSRzM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTAzNzE1NjEzNzA2NzIsImFzc2V0X2FnZV9kYXlzIjoxMDksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=90dd6775dd478073&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMzQyRDBBNjMzMkZGRUI0Nzk2RTRCODJGODhBNzk5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNEVFMUI5RDBFQkMyMjI0QzgzQzNDRDdGMTZDNEEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg0I3grrvLAxUCKAJDMywXQBYbpeNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQITuVo0Atj5zdsZJ4uFq4T80ZlCxVOVMhscG5cAueh-5Q&oe=6ABC58BD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4475807859332786"
+      },
+      {
+        "id": "28160077656990610",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ השרשרת שאי אפשר להוריד ממנה את העיניים ✨\nמושלמת לערב, לאירוע וגם ליום־יום.\n🛍️ הזמיני עכשיו באתר",
+        "link_description": "✨ שרשרת הטניס שכולן רוצות",
+        "landing_url": "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820501267_1759552321995325_2197758611921037525_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RYNodAH_p7YQ7kNvwFi_lVr&_nc_oc=AdpsfL1iClVJNHagXRwILJ6nP8eWwCVd2lq6nk-fqAlrSwIH6OGGcO9IWUZ1aZRdk8Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJ46MoT3C_Ce4GIEiTHBW6rk8RRag-FXh0c7xCYJcWxdg&oe=6ABC492B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28160077656990610"
+      },
+      {
+        "id": "2555594654886216",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ השרשרת שאי אפשר להוריד ממנה את העיניים ✨\nמושלמת לערב, לאירוע וגם ליום־יום.\n🛍️ הזמיני עכשיו באתר",
+        "link_description": "✨ שרשרת הטניס שכולן רוצות",
+        "landing_url": "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808922351_1421073009436942_8310379203570710010_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mHpg5GkVxxsQ7kNvwF-S3o8&_nc_oc=Ado8RIIXmvqH2wclsp1GCnSeFjARJdc80QQBaWbpieWJ1mUhvcHSHBTc_4fVd9wrt2I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLelnzw-oydcE3bPM-icD1a8fH5wnWMZjK2Jmrcfw_eQg&oe=6ABC5221"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2555594654886216"
+      },
+      {
+        "id": "1517846356779023",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "התכשיט שלא צריך להתאמץ כדי למשוך תשומת לב ✨\nשתי שרשראות מכסף אמיתי 925 בעיצוב עדין, נקי ועל־זמני.\n🤍 כסף אמיתי 925\n🚚 משלוח מהיר\n\nלחצי לרכישה 👇",
+        "link_description": "💎 כסף אמיתי 925 | משלוח מהיר לכל הארץ 🤍",
+        "landing_url": "http://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814779684_1689440389214096_3003854708080055366_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uwa3oe2dZMMQ7kNvwFscyzJ&_nc_oc=Adol1uPT1pAm52Qc_GVU3Rb2ndd9QbbHaDbikCC4JOYuV2CyqN9YJEMdvDoE-5TgVsU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKaSSP0fL32Q6FHyu6r7sfAxBRfBnS8c_SVufAvQssWPA&oe=6ABC4A76",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMphG9JrGo-ABeW-NOI5R_wUQSszukQuky-j2UKSI4RaUQCsJQjSz0VjGw8_9EmHszxmUYwee75SWqzGZZiIkyYqHhe0vR-rs4J6Qj2QZwwmQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mBZwJ3r3qbkQ7kNvwGHw-h5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDI3MTAzNjg0MjYyMzEsImFzc2V0X2FnZV9kYXlzIjoxMDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=abf1ca28e8cf21bb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QzQzRDVBMTE2N0NDMjY0RjU4QzVFRTBBNzBDMTA5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNEIzNEVGQzU2MUJEMDA0NDI3QzgzNUE3MzAyNEEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu49zTvvD9BBUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIQWFiM7OPBVauciZ83ULa8PJMK2a7vQr1hIf3VEBNh1g&oe=6ABC6059"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1517846356779023"
+      },
+      {
+        "id": "1952026635473424",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קוד קופון : NEXT10",
+        "body": "✨ פותחים שנה חדשה עם סטייל – 10% הנחה על כל האתר!",
+        "link_description": "המבצע לזמן מוגבל בלבד ⏰",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/639770833_2851265325271845_8695387904816070893_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mTjgt2fWAeUQ7kNvwEzspHf&_nc_oc=Adpg5-5qgouRHVLzgYIbHkwWDBNt8MvKoLvaM_lGS0x2tHMYDyTvfemmmEwjwYYeaqo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQJn3iyMh9q6i7q6_Vhh7Iq0TCcaWkDA3PmUdzF0frGt0w&oe=6ABC3E92"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1952026635473424"
+      },
+      {
+        "id": "4379141048896817",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "סט אלגנטי שיסגור לכם כל לוק חגיגי!\n\n#תכשיטים #925 #תכשיטיכסף",
+        "link_description": "",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 4,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807797459_1117254071164632_8367087208328510790_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DupN7p7fWO4Q7kNvwGM3HJ3&_nc_oc=AdqoC7sVhiXlr5DULnc4Vk4I9TlUPhKvFvrvh6GCAk8Tl41FlK3Vw8tf3OAXyvtRxpg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKNKAKhs-aHfTDDbTc4wR90QZ8hSuxPhLEq3piGtp1xPg&oe=6ABC54DF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8MWYPPjF8J1qzimTNz3YEvk3rBykaC8E1Q8kWoU6jbZg2a9uxk-BmBUzfMWV_umjJvcPAaYzwhtgLcP0L2RFlnyWtt-BcPa1FV9e0wA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lSdY6ZShLfgQ7kNvwE-_Kmx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NjE3NzI1NDIxNTY2MiwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJR9ZDjVM9lqZJx63UO9i_Aa0VUspOtawPZGraCMWXpMA&oe=6ABC2DB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4379141048896817"
+      },
+      {
+        "id": "1765074164730880",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "סט אלגנטי שיסגור לכם כל לוק חגיגי!\n\n#תכשיטים #925 #תכשיטיכסף",
+        "link_description": "",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819287434_1810128053764184_4244024280957028868_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jr5aDUWHMqcQ7kNvwEtb82V&_nc_oc=Adrc6q1TB0NIyI2d7vKOUBml8IcciFxha9r7Paf34_r0dz2HD3vW7IAYCPDJGqPIeBI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQL04GC1ctRgBmqWPxfpt9g8GxMvWXPPT3jc66cZ7cGwSw&oe=6ABC4D5D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8MWYPPjF8J1qzimTNz3YEvk3rBykaC8E1Q8kWoU6jbZg2a9uxk-BmBUzfMWV_umjJvcPAaYzwhtgLcP0L2RFlnyWtt-BcPa1FV9e0wA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lSdY6ZShLfgQ7kNvwE-_Kmx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NjE3NzI1NDIxNTY2MiwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJR9ZDjVM9lqZJx63UO9i_Aa0VUspOtawPZGraCMWXpMA&oe=6ABC2DB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1765074164730880"
+      },
+      {
+        "id": "2158140581539450",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "סט אלגנטי שיסגור לכם כל לוק חגיגי!\n\n#תכשיטים #925 #תכשיטיכסף",
+        "link_description": "",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820166075_1051638161175651_5489716954807267855_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Ox9aKvxwVQQ7kNvwEiVxdK&_nc_oc=AdqtqI6MExNY0Y1JWd7iMuyRwGdrf2h1rAxXGZlLHm2hz0ypJe_lBl8iJRSLzLSI4Ns&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLQqrgdOEsecEpC-e0KKgUlcqTPNGnt5iYyHeMCpjMjhA&oe=6ABC3F16",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8MWYPPjF8J1qzimTNz3YEvk3rBykaC8E1Q8kWoU6jbZg2a9uxk-BmBUzfMWV_umjJvcPAaYzwhtgLcP0L2RFlnyWtt-BcPa1FV9e0wA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lSdY6ZShLfgQ7kNvwE-_Kmx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NjE3NzI1NDIxNTY2MiwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJR9ZDjVM9lqZJx63UO9i_Aa0VUspOtawPZGraCMWXpMA&oe=6ABC2DB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2158140581539450"
+      },
+      {
+        "id": "1390133933203811",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "סט אלגנטי שיסגור לכם כל לוק חגיגי!\n\n#תכשיטים #925 #תכשיטיכסף",
+        "link_description": "",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799732145_1650939156434309_5834385357817725151_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Br45sSWAkxQQ7kNvwFwX1mO&_nc_oc=Adoxpo3Q0m53GwAOU78SoJZQ0AmsghopPaixyS0BfsQ-mpfL_Y3r9JDen2RPhTiuSeg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLs-uyNBjICOaMmtYdp65UcMUWuzuDWAvFzbC-eekHhjg&oe=6ABC39F7",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQO8MWYPPjF8J1qzimTNz3YEvk3rBykaC8E1Q8kWoU6jbZg2a9uxk-BmBUzfMWV_umjJvcPAaYzwhtgLcP0L2RFlnyWtt-BcPa1FV9e0wA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lSdY6ZShLfgQ7kNvwE-_Kmx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI2NjE3NzI1NDIxNTY2MiwiYXNzZXRfYWdlX2RheXMiOjE3NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJR9ZDjVM9lqZJx63UO9i_Aa0VUspOtawPZGraCMWXpMA&oe=6ABC2DB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1390133933203811"
+      },
+      {
+        "id": "2526382531171182",
+        "page_id": "437158997031325",
+        "page_name": "Secolo Jewelry - סקולו תכשיטים",
+        "page_url": "https://www.facebook.com/secolojewelry/",
+        "page_like_count": 2749,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "צמיד וטבעת מחוברים בעיצוב על-זמני 😍\nכסף 925 אמיתי, נוחות מושלמת ומראה אלגנטי לכל יום\nסטייל שמרגישים מהרגע הראשון ✨",
+        "link_description": "הגיע הזמן שתעניקי לעצמך תכשיט חדש במחירי מבצע מבחר תכשיטי כסף אמיתי 925 זהב 14K ורוז גולד במחירים שאסור לפספס! משלוח חינם בקניה מעל 399₪",
+        "landing_url": "https://secolo-jewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661694610_958409759918760_7080581581272749611_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kzEnH6QCNHEQ7kNvwGgMLAy&_nc_oc=AdqGYPZl_3cDy9z7u_yUCdDRATtdDVo5_Yk_cd3OHVQe6Srxi156BL9z0cgR1x9TtlQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIypoepFfNuOBmdo6rf74npZpnUL4LVfPtqbKHtEalR1g&oe=6ABC3E8E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/665916668_993435919828283_1853626146217593982_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nbBVqEC3BZIQ7kNvwFdZ2e9&_nc_oc=AdqAdSe3qRkR9ntxrlbZL2Hj6OLBjDPc7J7kRxWzDBSiKlSFjNTShX74Eo-cqgiBzFA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKbeYtbRGIdz8-RM_dTFyk2Qn79BXroC7ndojfoQZqkdA&oe=6ABC56FF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/666673227_1932397104088981_4903079225749155607_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f8P-2sSzlAMQ7kNvwFGiuzt&_nc_oc=Adr5-FTYTCCY8fJNTh5zkJEE_t2qRVb6jUAS0WXI_6eHz8-XkpT6OftyVw85fLT-4oM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQLNHp_WH3K7vgv7ZDqEoRRI0lhPCU1hsgn5k7S1BYBDbg&oe=6ABC468D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662825739_925539403616429_7714102536886182652_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQ-A7WgtHRwQ7kNvwHRhWsw&_nc_oc=AdoUnoFOM-4yR_whYy85OzCoLZcDPtLWxVy_DIG7jtOSXlDUbbU0sq-NkwsELZk0Aa8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQL_AFT0c7fC5OSxcO7F29RZn2tFGA54gtWx63iViTNoGw&oe=6ABC4F5D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661135577_921154234048347_2094975539512882692_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZ7SL_y3KzwQ7kNvwGzqqdL&_nc_oc=AdpLOcRuvbDF3yaN9bErHgTx4tq-vOgfGWOoEM94-hnH4jxEsIC-q6ARawjHw4IM8eU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQKX86DAdUuJ2l0q0-N7flQ-5Aa4ERvD9Of5TzqV2Vt6kQ&oe=6ABC4C83",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/660295131_1481180976882803_8234266323871359962_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a0EyXwUe4wAQ7kNvwFfQvsW&_nc_oc=Adr0yGPQprgeNyJZKr-Ky3vUo37Ci_4JBN2wFLc9FXNlw7Efoz1scbhGa8k5QMD4mUw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=k0VF-4kSGD1LXvtIYrOZbQ&_nc_ss=70289&oh=00_AQIbmAcJGIYDmxSKl51Gg6Y7SCaFo-2O78lTwNjuGaeZjg&oe=6ABC4307"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2526382531171182"
+      },
+      {
+        "id": "935149516101280",
+        "body": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "landing_url": "http://secolo-jewelry.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "935149516101280",
+        "text": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2179104436168667",
+        "text": "✨ פותחים שנה חדשה עם סטייל – 10% הנחה על כל האתר!",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2167936230617418",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "803784499082010",
+        "text": "✨ קולקציה חדשה נחתה\nעגילים, טבעת ושרשרת שגורמים לכולם להסתכל\n\nאלגנטיות שלא מתאמצת 💎\nעכשיו באתר >>",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1626477632472348",
+        "text": "✨ קולקציה חדשה נחתה\nעגילים, טבעת ושרשרת שגורמים לכולם להסתכל\n\nאלגנטיות שלא מתאמצת 💎\nעכשיו באתר >>",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2433888187414005",
+        "text": "תכשיטי כסף 925 שלא מפסיקים לקבל מחמאות ✨\nעיצובים מדויקים, איכות שמרגישים מהשנייה הראשונה\n🚚 משלוח מהיר | 💎 כסף אמיתי | 🔒 רכישה בטוחה\n⬇️ לחצי וגלי את הקולקציה",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "25526184890367176",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1547136514109528",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2417822615310995",
+        "text": "התכשיט שלא צריך להתאמץ כדי למשוך תשומת לב ✨\nשתי שרשראות מכסף אמיתי 925 בעיצוב עדין, נקי ועל־זמני.\n🤍 כסף אמיתי 925\n🚚 משלוח מהיר\n\nלחצי לרכישה 👇",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1242559094614073",
+        "text": "צמיד וטבעת מחוברים בעיצוב על-זמני 😍\nכסף 925 אמיתי, נוחות מושלמת ומראה אלגנטי לכל יום\nסטייל שמרגישים מהרגע הראשון ✨",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2341349403321986",
+        "text": "✨ תכשיט אחד , אינסוף שילובים.\nצמידי טבעת מכסף אמיתי 925 שיהפכו כל לוק למיוחד יותר.\n💎 כסף אמיתי 925\n🎁 מתנה מושלמת לעצמך\n🚚 משלוח מהיר לכל הארץ\n\nלחצי עכשיו וגלי את הקולקציה. 🤍",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1424516196237745",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4475807859332786",
+        "text": "✨ תכשיט אחד , אינסוף שילובים.\nצמידי טבעת מכסף אמיתי 925 שיהפכו כל לוק למיוחד יותר.\n💎 כסף אמיתי 925\n🎁 מתנה מושלמת לעצמך\n🚚 משלוח מהיר לכל הארץ\n\nלחצי עכשיו וגלי את הקולקציה. 🤍",
+        "links": [
+          "http://secolo-jewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "28160077656990610",
+        "text": "✨ השרשרת שאי אפשר להוריד ממנה את העיניים ✨\nמושלמת לערב, לאירוע וגם ליום־יום.\n🛍️ הזמיני עכשיו באתר",
+        "links": [
+          "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/"
+        ]
+      },
+      {
+        "ad_id": "2555594654886216",
+        "text": "✨ השרשרת שאי אפשר להוריד ממנה את העיניים ✨\nמושלמת לערב, לאירוע וגם ליום־יום.\n🛍️ הזמיני עכשיו באתר",
+        "links": [
+          "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://secolo-jewelry.co.il/",
+      "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:11:10",
+    "filtered": "2026-09-25T13:14:13",
+    "unqualified": "2026-09-25T13:20:05"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://secolo-jewelry.co.il/",
+      "https://secolo-jewelry.co.il/shop/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%90%d7%95%d7%aa-%d7%9b%d7%a1%d7%a3/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%a1%d7%a4%d7%99%d7%99%d7%a1-%d7%9e%d7%99%d7%a0%d7%99-%d7%9e%d7%93%d7%95%d7%a8%d7%92%d7%aa/",
+      "https://secolo-jewelry.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-25-060",
+  "status": "rejected",
+  "reject_reason": "big brand/chain: שופרסל",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/shufersal/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "116064578427087",
+    "page_name": "שופרסל",
+    "active_ads_count": 1,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "1735682657621463",
+        "link_title": "לרשימת הסניפים",
+        "body": "לקוחות כרטיס אשראי שופרסל \nמתחדשים לחג בבי-פארם!\nמגוון מארזי בישום עד 50% הנחה",
+        "landing_url": "https://www.bestore.co.il/online/he/branchs?mode=iframe",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794097317_1802618861152278_1301510829508093293_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vvcFr2XHWFsQ7kNvwGqutwE&_nc_oc=Adrg3b1Ph7KrGjsPMEDcyqYm_0o3mTUY8QixF-D3B1eK6VyUvqBJkBc3Emyz4Dt1MC4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQIqhDf6btkFjjMoOWuolvPia2UwkrYTNnwUkCtZ8SUrtA&oe=6ABC2D4B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/792022549_1589170632899570_7805028065094288726_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zq1bUJomSokQ7kNvwGQlvCL&_nc_oc=Adq7MGvXdTo4pAhrjSaoBssfLETYblIj1bWyeN8bLvNh-antK74spOpHGq4nd4IqCiI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKAxvTsxHplbtISLPWfqnHjnC0jMzzq7CCMXNZv9M6W7Q&oe=6ABC4213"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788418800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1735682657621463"
+      }
+    ],
+    "filter": {
+      "brand_hits": [
+        "שופרסל"
+      ],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "מארז"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 502939,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1735682657621463"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 502939,
+    "page_categories": [
+      "Grocery Store"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "rejected": "2026-09-25T13:06:04"
+  }
+}

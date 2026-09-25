@@ -1,0 +1,561 @@
+{
+  "lead_id": "2026-09-25-062",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://aromatics.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Aromatics.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972585807077",
+      "source": "https://aromatics.co.il/contact",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "109827438285898",
+    "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+    "active_ads_count": 8,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "725950013909900",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/352810898_1303065206959364_3929164168874243692_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TOv1lJ-XCbcQ7kNvwHyq31g&_nc_oc=Ado2a4Nnt79BYFHWvjU2-TVaUNU3FJ2JcBYGlXoRgRh_BIJdt8E-5IshMlW3YIc3wpk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKW52gpFEzCgh0GLuElzbOunCuF4phP0sXMsw7VystT3Q&oe=6ABC58AA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/352562216_1218971808764695_5112039000588886953_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cHf4pfule1MQ7kNvwGDZAdm&_nc_oc=AdoBQzE8ztOcQxt-OAaC4Sz8L0U3Of8b2WgFvf3qrDlIsywuUmXc3nw9GFgVMIkym1s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJhqnt-hzofClsAbNJwR4vfEl7XWuPRkE5Y2bqyXMBiow&oe=6ABC3AB5"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1778137200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=725950013909900"
+      },
+      {
+        "ad_id": "1727914238371401",
+        "link_title": "200 ש\"ח לליטר שמן ריח!",
+        "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "landing_url": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495572016_670885395729952_7438691026076987395_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=niAAtQKnWZoQ7kNvwEL9S_0&_nc_oc=AdqSdX8pe_a2qb6ZZD2is7dED0O9TcC-9nVN8DeOHCH0ckURJowiuPx-cHthcO6V348&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKg5zAhyE4Vv9_C4CtLnt-Mwrmq2juGDQtK5GC74CptOA&oe=6ABC5D3E"
+        ],
+        "videos": [],
+        "collation_count": 3,
+        "start_time": 1775026800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1727914238371401"
+      },
+      {
+        "ad_id": "940484401672555",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/473619049_2151458375249976_1232816424936240325_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1w-p8ObVOcwQ7kNvwFOk02w&_nc_oc=AdqW6dec_3yDPxwPxISBk5YxZYRl6lWMfWZz69Q4YzplRNaUFvSViygb16vKQ4Yh5Ok&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJlmwmplELNLLQB8bD_HfIGvL7W-E5Dwa8lkYXW7OTsXQ&oe=6ABC4AB1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/474134044_929109345870728_8288535118656692463_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hut-QZNc2LsQ7kNvwFetfjn&_nc_oc=AdqVJ1InEwH06d9LZTebiMx7shHjrzPgDt_TImR_-LA3Y79gSRozHWF31Hvlqpw_st8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQLO0xeOBSFESIkonUc9w81v2El2xUKKltmjCNkrd2NS3A&oe=6ABC5F86"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1775026800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=940484401672555"
+      },
+      {
+        "ad_id": "2619062391808659",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/532160934_1939811253471474_6681335536079361249_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yzaEN6tAgGEQ7kNvwF9mmw6&_nc_oc=AdoaodSFfQkNfRGhgHjCXMlEqxnYjEa7BSiI2NhiOWySty1irzVyWD_N13kbnxQnh4U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKgOHgO6tLv41nl-b1X6jgk7UvKKLQ2MhFpLiQvZYcrlg&oe=6ABC4962",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/532160934_1939811253471474_6681335536079361249_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yzaEN6tAgGEQ7kNvwF9mmw6&_nc_oc=AdoaodSFfQkNfRGhgHjCXMlEqxnYjEa7BSiI2NhiOWySty1irzVyWD_N13kbnxQnh4U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKgOHgO6tLv41nl-b1X6jgk7UvKKLQ2MhFpLiQvZYcrlg&oe=6ABC4962"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1775026800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2619062391808659"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "קופון",
+        "שמן"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 8,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "ORDER_NOW"
+      ],
+      "page_like_count": 1011,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "725950013909900",
+      "1727914238371401",
+      "940484401672555",
+      "2619062391808659"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "ORDER_NOW"
+    ],
+    "page_like_count": 1011,
+    "page_categories": [
+      "Spa"
+    ],
+    "page_ads": [
+      {
+        "id": "725950013909900",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778137200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/352810898_1303065206959364_3929164168874243692_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TOv1lJ-XCbcQ7kNvwHrktje&_nc_oc=AdrYe1Fq8ZN5L76LEq3UD6MgCGPSkNL7Q_HNtozgQYr7zSlEx0558Virt9yJ188-9-Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQIpjTsZnja2EgaDFZyJ34J2C2AA2F8z6l0gAlPwmMWZ7g&oe=6ABC58AA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/352562216_1218971808764695_5112039000588886953_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cHf4pfule1MQ7kNvwHUI9Nk&_nc_oc=AdpLPyg4bi6M7UEr9c4iw6d7vmqAofS2O2SzG_Mau3xGFpiPN7T3YAY4tpKlaQYTxCA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQLkGm0OwPrH6pzz_GkOt7sviNRSSTuCi8ul3gnmGh7_nw&oe=6ABC3AB5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=725950013909900"
+      },
+      {
+        "id": "1727914238371401",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "200 ש\"ח לליטר שמן ריח!",
+        "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "link_description": "מבצע לזמן מוגבל!",
+        "landing_url": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495572016_670885395729952_7438691026076987395_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=niAAtQKnWZoQ7kNvwEAZfJy&_nc_oc=AdrjmRChr-8rXYdsCtHRCkNZBOo4FPiQbmpugAWSZWcEQLmKekLt0VZEgyPGZ2ap_V4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQLJY_J2hkprFZb9p3N0-I7TKfS7iMiF-or-lkBg7YD6fw&oe=6ABC5D3E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1727914238371401"
+      },
+      {
+        "id": "1843937829624269",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "200 ש\"ח לליטר שמן ריח!",
+        "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "link_description": "מבצע לזמן מוגבל!",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1775113200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/659000749_967410375977613_6943468521696204330_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=adl0kBslBygQ7kNvwFnl1im&_nc_oc=Adof8P6Un2VJ4Jt_TPzOxhPd69T7uEKZS_5Ctxe-mll3CcHJTXcIKd9xfwGWpeCOh98&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQJCwqdXQ4QwyVgub57PgiT2smY7xntJUCi4MYcs4-YTTQ&oe=6ABC380B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1843937829624269"
+      },
+      {
+        "id": "945961741350413",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "200 ש\"ח לליטר שמן ריח!",
+        "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "link_description": "מבצע לזמן מוגבל!",
+        "landing_url": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495451948_455706997630726_2351848109348339609_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ou6VKCuwAEAQ7kNvwFYO9sq&_nc_oc=Ado7YA0zqRHT2aW3OvNZwPxhyOnVsokcZQZe0nx8sX2w40IQ11nOPbpOYF7qc0aJR4M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQJ9TdZqvzGCZLw3HMGNccaBofSHCjAr1PFR1vcxzv_XLg&oe=6ABC2A39"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=945961741350413"
+      },
+      {
+        "id": "940484401672555",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/473619049_2151458375249976_1232816424936240325_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1w-p8ObVOcwQ7kNvwFq4WQb&_nc_oc=AdpHNX1-8k40lVpP1jHyh99vDydotL0TAt11-ozsVaBTexnHyFruEztDGpkIXXinG54&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQKe4XNZ4ZSc_-0cP58w-f6PIbbk-A1WCAF16aM806Oewg&oe=6ABC4AB1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/474134044_929109345870728_8288535118656692463_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hut-QZNc2LsQ7kNvwGeaCkQ&_nc_oc=AdqD3ERncYxSmO-GU0GCixs2jWlnNnt4zETi7o8rw5HjsprEeUMzEW3UqFPjRp6SEcU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQK2HPBZp33RB89g0T5Jk2vjQ7mW4ozKwcWcceRN1jMDww&oe=6ABC5F86"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=940484401672555"
+      },
+      {
+        "id": "2619062391808659",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/532160934_1939811253471474_6681335536079361249_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yzaEN6tAgGEQ7kNvwHvPzuk&_nc_oc=AdpdCFOTrxnF33WLupXN0QbKyoNbUmW6mIlI9vhhdQ7A8XoTLSyPHY4nSgqxl4ainXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQKY0Xin3FkilmobuPKqWYlLUh60-i7vzRHizKvI9m9mSQ&oe=6ABC4962",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/532160934_1939811253471474_6681335536079361249_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yzaEN6tAgGEQ7kNvwHvPzuk&_nc_oc=AdpdCFOTrxnF33WLupXN0QbKyoNbUmW6mIlI9vhhdQ7A8XoTLSyPHY4nSgqxl4ainXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQKY0Xin3FkilmobuPKqWYlLUh60-i7vzRHizKvI9m9mSQ&oe=6ABC4962"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2619062391808659"
+      },
+      {
+        "id": "1577143176717457",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/353659016_616784610412978_4535897984154020703_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6dmV2YVPQQAQ7kNvwH3JBHc&_nc_oc=AdrcDMD-2UQR9Yfzgb-aL0DglcD5Ny4TWQvwS7go91EtQpZCGkPey_VnFftS1cgSWx4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQIIXn8RdBRJpBumbKBU0wkN65hL-qMqrWyLyQZeAnPYaw&oe=6ABC5F54",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/353650801_215014921372810_3089827992875140658_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-C8imv4-67MQ7kNvwHN6JCe&_nc_oc=Adr-WYgoZC330C6uw11sGrH9396B6-T0HkWMd_DtzKPUcDJWkXmmfxAU1F2vs8jBlxk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQLSHxROM0QNCXXQGfOtl3eX4VKXc9qe0zvjAWcJOG3OXw&oe=6ABC4E2A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1577143176717457"
+      },
+      {
+        "id": "1937390330245245",
+        "page_id": "109827438285898",
+        "page_name": "ארומטיקס - מפיצי ריח ופתרונות בישום חללים",
+        "page_url": "https://www.facebook.com/Aromatics.co.il/",
+        "page_like_count": 1011,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/353053371_1295970527997787_7678672434985002972_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G8JHdtnxsooQ7kNvwEWhPmf&_nc_oc=AdpIjFXkGlcK8ngfh61GiqXp06C251MMX3CzWzLcP80VzmLdSas1_pxeZXWoWIzff3E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQJKuBS1IXEYN65NZTmu2DbFWKwbWGxSIkwhLgMGzPo55Q&oe=6ABC4023",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/352788022_277777371286726_3366795675890034275_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VvaKezvqAMwQ7kNvwFbq0yA&_nc_oc=AdqJEKIe7d2DM9YaJP_RJou8zfs7AbZVEi2IBpGYYQi32NQOHdmLYemQnis5OLL5zSk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4lQIYVpip5Ph9KP2RIwYKQ&_nc_ss=70289&oh=00_AQIxNPJ7EksMyOPkHh3AyRblSMM0nC4pD7Hc3DGCd3C7OA&oe=6ABC4785"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1937390330245245"
+      },
+      {
+        "id": "725950013909900",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+      },
+      {
+        "id": "1727914238371401",
+        "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "landing_url": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+      },
+      {
+        "id": "940484401672555",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog"
+      },
+      {
+        "id": "2619062391808659",
+        "body": "{{product.brand}}",
+        "landing_url": "https://aromatics.co.il/fragrance_catalog"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "725950013909900",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        ]
+      },
+      {
+        "ad_id": "1727914238371401",
+        "text": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "links": [
+          "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+        ]
+      },
+      {
+        "ad_id": "1843937829624269",
+        "text": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "links": [
+          "https://aromatics.co.il/fragrance_catalog"
+        ]
+      },
+      {
+        "ad_id": "945961741350413",
+        "text": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "links": [
+          "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+        ]
+      },
+      {
+        "ad_id": "940484401672555",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/fragrance_catalog"
+        ]
+      },
+      {
+        "ad_id": "2619062391808659",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/fragrance_catalog"
+        ]
+      },
+      {
+        "ad_id": "1577143176717457",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        ]
+      },
+      {
+        "ad_id": "1937390330245245",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        ]
+      },
+      {
+        "ad_id": "725950013909900",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        ]
+      },
+      {
+        "ad_id": "1727914238371401",
+        "text": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+        "links": [
+          "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+        ]
+      },
+      {
+        "ad_id": "940484401672555",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/fragrance_catalog"
+        ]
+      },
+      {
+        "ad_id": "2619062391808659",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://aromatics.co.il/fragrance_catalog"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://aromatics.co.il/fragrance_catalog?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+      "https://aromatics.co.il/products/fragance_choose?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1%20%D7%9C%D7%99%D7%98%D7%A8",
+      "https://aromatics.co.il/fragrance_catalog"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "filtered": "2026-09-25T13:06:26",
+    "unqualified": "2026-09-25T13:08:46"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://aromatics.co.il/",
+      "https://aromatics.co.il/fragrance_catalog?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I",
+      "https://aromatics.co.il/products/fragance_choose?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1%20%D7%9C%D7%99%D7%98%D7%A8",
+      "https://aromatics.co.il/about",
+      "https://aromatics.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "instagram_page"
+    ]
+  }
+}

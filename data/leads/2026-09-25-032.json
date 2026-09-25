@@ -1,0 +1,103 @@
+{
+  "lead_id": "2026-09-25-032",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: ייעוץ",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61556806085776/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "276988132153024",
+    "page_name": "דודל ישראל",
+    "active_ads_count": 1,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "1454088769859373",
+        "link_title": "גולדנדודל ולברדודל ישראל - הקהילה הרשמית של דודל ישראל",
+        "body": "ברוכים הבאים לקהילת דודל ישראל – הבית הרשמי לאוהבי ומגדלי כלבי גולדנדודל ולברדודל בישראל.**\nהקבוצה הוקמה כדי לאחד את כל חובבי גזעי ה\"דודל\" תחת קורת גג אחת, ולהעניק ידע מקצועי וכלים לגידול נכון של הכלבים המדהימים הללו. בין אם אתם כבר בעלים גאים של **גולדנדודל** או **לברדודל**, ובין אם אתם מתעניינים ורוצים ללמוד על הגזעים הייחודיים הללו – זה המקום עבורכם.\n**מה תמצאו בקהילה שלנו?**\n * **מידע מקצועי:** טיפים על אילוף, תזונה נכונה, טיפוח הפרווה הייחודית ובריאות הכלב.\n * **ייעוץ והכוונה:** מענה לשאלות בנושא גנטיקה, בדיקות DNA והבדלים בין הדורות השונים (F1, F2b, Multigen).\n * **שיתוף וחוויות:** תמונות, סרטונים וסיפורים של חברי הקהילה עם הדודלים שלהם.\n * **בית חם:** קהילה תומכת לאנשים שרואים בכלב חלק בלתי נפרד מהמשפחה.\nאנחנו מאמינים בגידול אחראי, באהבת בעלי חיים ובשיח מכבד. הצטרפו אלינו והיו חלק מהקהילה הגדולה והמובילה בישראל לכלבי דודל!",
+        "landing_url": "https://www.facebook.com/groups/418735692822654/",
+        "cta_type": "JOIN_GROUP",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764340456_1556770825828514_4735164150707288112_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uQQzQHJXXwAQ7kNvwGMelfF&_nc_oc=AdpBIwuHPxhl_aOFGJ7lNsGIy-rsj9QjJyCnjmEO0tHsezXn6L_3odhZWLrRi_8ERn8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQIyMCIplM4ved0ictbrfdtKoyhDKISWdHhK7Dec7-xccA&oe=6ABC4741"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1786172400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1454088769859373"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ייעוץ"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "JOIN_GROUP"
+      ],
+      "page_like_count": 565,
+      "product_score": -2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1454088769859373"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "JOIN_GROUP"
+    ],
+    "page_like_count": 565,
+    "page_categories": [
+      "Animals & Pets"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "rejected": "2026-09-25T12:53:54"
+  }
+}

@@ -1,0 +1,1361 @@
+{
+  "lead_id": "2026-09-25-050",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://natashadenona.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "social@natashadenona.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/natasha.denona/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/natashadenona_il/",
+      "source": "https://www.natashadenona.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "123878657734754",
+    "page_name": "Natasha Denona IL",
+    "active_ads_count": 37,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "1598082275387118",
+        "link_title": "{{product.name}}",
+        "body": "מחפשת את הלוק המושלם? 💄\nמבחר ענק של מוצרים מהקולקציות הכי אייקוניות של נטאשה דנונה – פלטות צלליות, מייקאפ, שפתונים ועוד – מחכים לך באתר >>",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406088_4476662105985058_5590157045731614055_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nl14y8wCtD0Q7kNvwFdZKw_&_nc_oc=AdrnIgupM8og0cRVzdX6RBTozZPb8sSlF9JVKWyQcDUlIVrhhIOjdf1GER4-WovC1Qc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJqlZ8hArAx1njQR0-nRsjMCtsvNqn5eJhbVFYKsAC8PQ&oe=6ABC5DCE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787160280_1986815402020110_8879934119734712575_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TJQUZ8BUt2MQ7kNvwEyA-cY&_nc_oc=Adpa66LNxUdx29MdWwz2x0VXLkjW_3yWNerdBGBIZQ2c0dpxh0UJ-EQlRCs_-YyM4pY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKbEeegoihcwf1YWpM8wRzCc3jg160qZvhgfGtFDQcTtA&oe=6ABC51A3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406052_3497895240374350_7743354235516946861_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Od53NF9ICs4Q7kNvwHrfxeE&_nc_oc=AdoPz7u_akNY8ANUNG-wgaF9ZzLcr2pWIdOpIqyIeELoxPTHKLWsV4GK52Eje5WZCjA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJIUylf1GBHxdhipW-3WQkzSOU6LRzoIKQ5T9x-8N1K0g&oe=6ABC5A1E"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787727600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1598082275387118"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 37,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 58770,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1598082275387118"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 58770,
+    "page_categories": [
+      "Beauty Supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "1598082275387118",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מחפשת את הלוק המושלם? 💄\nמבחר ענק של מוצרים מהקולקציות הכי אייקוניות של נטאשה דנונה – פלטות צלליות, מייקאפ, שפתונים ועוד – מחכים לך באתר >>",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406052_3497895240374350_7743354235516946861_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Od53NF9ICs4Q7kNvwGZkGTV&_nc_oc=AdpYkF2z61alNmnl3Ua3pOynYGREwJOfdkxTjRNU_DhcgFSE6kbzDnZTkfmqYqFf7Hk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLtEUMVCusk_k6Gk_0AvpHZV9xNLio8qML_OBIrbveiGA&oe=6ABC5A1E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406088_4476662105985058_5590157045731614055_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nl14y8wCtD0Q7kNvwHp2giV&_nc_oc=AdpQT_SmAlv-s5EXDhSW-Ij0udifJZE4njtLAiDNkpN_nQnf8f0Dy_Yy4WszqxfLsCg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQL-5-V8_Ft_UNZ3iOHbsXfk2Kx6NPOS3vmm4wh9YrCrnw&oe=6ABC5DCE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787718121_4285114161749694_1907743542939318565_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n6RrxrWk2O4Q7kNvwGnYsw4&_nc_oc=AdrUQopYtIBUXAtI2qJz2uZs28qMZOZlFB16IRCT3oJ92Vtk5HFzzH73nn-KhXLV3F4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIIeJC-bPIVIKkVRZ43Dys_kA-WYicQJNGoiGQeh0j5kQ&oe=6ABC5552",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787024028_1390381339701602_4840090011656271562_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ABgOAMUEbEYQ7kNvwFZVPra&_nc_oc=AdqoE_BQvGg9WtyvZKn0deoXeYVU1ImYnlAsvD6_mqH5U7fHRcXtnOmqEeSNGWAIPNk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLnSg5eD96-K0oIBA7mVepWgyFOfUTa-u3sMZo9w_r_GQ&oe=6ABC34AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787160270_1020625860801172_8305396633653221375_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zwBvA_i6KjsQ7kNvwFgLVOB&_nc_oc=AdqTGxgwmbZ2Jq0ou39Nnd-6dv7nU6LI8GZAGRNcsiHzr5pfy0Tb6-6kICwMaEir1MY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLpRYIM3X1rsls5Oa5oD7vng1Het9fTdcoAT2IhCYoVVA&oe=6ABC3ADC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787160280_1986815402020110_8879934119734712575_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TJQUZ8BUt2MQ7kNvwH0DOsJ&_nc_oc=AdqH0eJa2w3FpqRt-6RbF-lS6WpacUPLe-5q3PRw30uNTJdZq4shQPuj_zYmfAN6zgQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIhC7R5KaO8S9KXOHc6PCnu6RF7qB7ycB488gJeqb3h2g&oe=6ABC51A3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1598082275387118"
+      },
+      {
+        "id": "2287077235438179",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795668533_860019200439084_8284671880596309868_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OAEjlLJnGOEQ7kNvwEVCLZs&_nc_oc=AdpIsbIGemFcyzDsxXGVBHKGgCixQkhlWtOuuJqCacCluTlTpvykh7gMo7HjA-dTO2w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQK6ZRS90pvSkEXkK433PVIElOB32-nSLnBiCYmhJ1pTbg&oe=6ABC4AE9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPegmHwZk0TqbcR9XZnw1txjTLuprCuuNxdpR322nJvCQggbBohLVwxrfAX18wpm64kYTtsyDJByUuiz4a1tsRYVHYLj-TBQWAYNEqoE1rytg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ILri0BLtdl8Q7kNvwFY8uOR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODcyNjIyMDM2Nzk3MjMsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c4c9cb66a0e3908e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83ODQyMkVDNjAzRDkwRTk2RDJEODMyN0YzMUFCMkVBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU0NDE1RDYxQUQzQkFCNDE3MUQxODk2NDUzQUQ3MUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWz-zW_rbuAxUCKAJDMywXQDWIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQIezNu8b3YwxKkXGnYUSAZW5eDh4fRy-AiZ28a750n2jw&oe=6ABC3ADC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2287077235438179"
+      },
+      {
+        "id": "1630796925107795",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795645020_28232459639746863_4129311333312871736_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mxn-JtYKjKIQ7kNvwG2scGV&_nc_oc=Ado2OMnVZqpySrqdChO482Qtbkznw8LVuPdzboY5Pk-IccKD7W_0ups717uNxf1Dntw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLaf4iFerFPJfBn0SoNE8_fHL8PGee6UhLvb4svqsmE6w&oe=6ABC4FF6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPegmHwZk0TqbcR9XZnw1txjTLuprCuuNxdpR322nJvCQggbBohLVwxrfAX18wpm64kYTtsyDJByUuiz4a1tsRYVHYLj-TBQWAYNEqoE1rytg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ILri0BLtdl8Q7kNvwFY8uOR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODcyNjIyMDM2Nzk3MjMsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c4c9cb66a0e3908e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83ODQyMkVDNjAzRDkwRTk2RDJEODMyN0YzMUFCMkVBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU0NDE1RDYxQUQzQkFCNDE3MUQxODk2NDUzQUQ3MUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWz-zW_rbuAxUCKAJDMywXQDWIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQIezNu8b3YwxKkXGnYUSAZW5eDh4fRy-AiZ28a750n2jw&oe=6ABC3ADC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1630796925107795"
+      },
+      {
+        "id": "1058174160148568",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לוק עיני חתול מעושנות עם פלטת מיני בלום החדשה! 🌸 \n\nנטאשה השתמשה בטכניקת ה-UNDERPAINTING (הנחת הצללות וסומק מתחת למייקאפ) בשלב הבסיס 🤤 כל הפרטים על המוצרים מחכים לכם ממש כאן למטה! 👇🏼\n\n#makeupbynatashadenona #explore #natashadenona #natashadenonabeauty #minibloom\n\n👀זמינה באתר ובחנות הדגל שלנו👀 🩷\n\nפירוט המוצרים:\n\nבסיס:\nHY-GEN פריימר סרום\nHY-GLAM מייקאפ (בגוון YP5)\nHY-GLAM ברייטנר (בגוון B2)\nHY-GLAM פודרה מקבעת\n\nעיניים:\nMACRO TECH עיפרון עיניים (בגוון Brown) – אייליינר, זווית פנימית, עפעף תחתון, קו הריסים.\n\nMINI BLOOM EYESHADOW PALETTE:\nBrunette – זווית חיצונית (outer v), אייליינר כנף, זווית פנימית, עפעף תחתון\nWish – זווית פנימית, חלק חיצוני של העפעף, קפל העין (crease), קו ריסים תחתון\nHarmonia – קו ריסים תחתון, זוויות העפעף, זווית פנימית\nIvy shade – מרכז העפעף\nMeadow – טשטוש קפל העין בזווית הפנימית, שכבה מעל הקפל והכנף, מרכז העפעף ותיקונים בעפעף התחתון\nלחיים:\n\nHY-SCULPT ברונזר (בגוון Foxy)\nHY-BLUSH (בגוון Sweet Cheeks)\nשפתיים (Lips):\n\nI NEED A NUDE LIP CRAYON (בגוון LIYAN)\nHY-GLOSS (בגוון CHERRY BLOSSOM)",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/products/mini-bloom-eyeshadow-palette",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784617519_1562393672285899_5388080958705644328_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TTwvctB6ASAQ7kNvwES1eZG&_nc_oc=AdrNUsXzqNFKHDE13o1sP5_-kh-A1_x9_ygABpX9oVNuu31rYvtWu2k24qbCLGmmjGo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJJD3U1C6tyjpXuXgQy4-Ep8dcMQjLdxQuAyRWCfvNK4Q&oe=6ABC38B2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMIkk8MYRoM-AyaEVzZ_g1_EYomMRbwndKuzYGtS7A52zhy93lEG5hw1YBpeW4L13M9FUHA_hc1wk_3-4AoN85SGUspk6hhM46EvFLC0A.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=KGPsG1XCV5kQ7kNvwGH3wzR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzY5Mzg5NDY3NTUyNzYyLCJhc3NldF9hZ2VfZGF5cyI6NjcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo2MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKOrdVnHScXRham_AI5HV8EesLGFY0FoEHJZRqLovnOUA&oe=6ABC3FC9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1058174160148568"
+      },
+      {
+        "id": "1533467698053109",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784252592_1379209304409838_1614734155970675073_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=09KaUFLdVaEQ7kNvwGkPwLg&_nc_oc=AdqYeemXsz6IU_yS53-lWsMB7LWNz_LXmMl-tt6PIstxOutM8c_Edsj_hz9agFpMCy8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKZ8NvMhrS3qc-ZG7z15sSd8Dpj_yZx_Z4VpXJe-R3AYA&oe=6ABC3DFA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNxpHprNA2se_Rb-yNN1kwhneE35KNnt7ZsDcp2a2lY3aIZ2TWmi6n_UOrVmBSowHfA9khDUYXjIf-1ht8kbYUOvQTXWSlD1aDj8h4IlVxgXA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=J0Jade0kckwQ7kNvwH9P32u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyOTkwODkxMTA4MzQ1MzIsImFzc2V0X2FnZV9kYXlzIjozMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f176b8f2564e4050&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTQ2RjM2NDk1MzM0MDkwNTk1NzA0NjdERTgxQTJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NDkzRTZEMjA2QzM2QjYxNjdFQzQwNDFGREI1RTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI9ZDczMCVCBUCKAJDMywXQCPRaHKwIMUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtlBDlc1-F8oX7IdYtHKJ3esn9hoLEjMw0Iq3ETYnpXA&oe=6ABC502E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1533467698053109"
+      },
+      {
+        "id": "1379288410307708",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/783036029_1040074992116785_8792734785643798752_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aG0JhVtVwU8Q7kNvwFeqD1D&_nc_oc=Adr6PDWFaYf7-Zic91OpREHKkIYdAJkJHF9pjZbcyRhNZjoMhPEb9E4aChnNb6TmMBU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIXil0Gm41j_ypcXV-wrcCCMrQs3cYidtJRSxXt8Bbozw&oe=6ABC5803",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNxpHprNA2se_Rb-yNN1kwhneE35KNnt7ZsDcp2a2lY3aIZ2TWmi6n_UOrVmBSowHfA9khDUYXjIf-1ht8kbYUOvQTXWSlD1aDj8h4IlVxgXA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=J0Jade0kckwQ7kNvwH9P32u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyOTkwODkxMTA4MzQ1MzIsImFzc2V0X2FnZV9kYXlzIjozMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f176b8f2564e4050&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTQ2RjM2NDk1MzM0MDkwNTk1NzA0NjdERTgxQTJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NDkzRTZEMjA2QzM2QjYxNjdFQzQwNDFGREI1RTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI9ZDczMCVCBUCKAJDMywXQCPRaHKwIMUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtlBDlc1-F8oX7IdYtHKJ3esn9hoLEjMw0Iq3ETYnpXA&oe=6ABC502E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1379288410307708"
+      },
+      {
+        "id": "1708000403613839",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784327255_1516648307171125_502321273341683036_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z6LPvGSv9_YQ7kNvwGsCxHp&_nc_oc=AdqW_RVBWi8kRpJTWzfpHDiQK8s9vnjW1ORowvDsfXSN2feVMbCFpkyv3SKTrRktHYw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQI0p6kWJAc4leqRglfzUBtzgsuU4VT8pxCKgZqx2kHrng&oe=6ABC5027",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM1h4IWjeWoQIi5fcHr2AuW-iUKtJ14o7xBxwZKpBUsbszFu-nwSK5R6aH8EjlKSIVqhdpmXQwkE5MOiv8gSAjbvs05m80kcYLoUf2NtGn46Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=u-PS1hNwqVsQ7kNvwEEC8GA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MDIwMDQyOTE0MjkwMTkxLCJhc3NldF9hZ2VfZGF5cyI6MzIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4660dfe19f145025&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQ4RTVGOEZGMkYyOTdCMzk4NkQwRjM2QTk4ODM5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NENEE5NDE2MjI5QTVGRUEwRDEzMEVFMzdGNTUwQjhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6PqHlIXGYxUCKAJDMywXQD2I9cKPXCkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKlod7YmUui6eduffJBVTpiS2OFUDAR_lCotmCsf3WhAA&oe=6ABC3341"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1708000403613839"
+      },
+      {
+        "id": "1976917499593405",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783799800_1526817735433500_2219449968962902470_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ddcnZxmIdPYQ7kNvwGruEXh&_nc_oc=Adpu1VK5edZCpdY8AViHPuTOHFzQnbWtjTeqTINoTTPiKnIxZy4M8LhuDgScUPqzTH4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQI_ByXHHBULBw3Yzvd8XUJKLQonl7Iu79fi9a4Vx8pRYw&oe=6ABC3D80",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM1h4IWjeWoQIi5fcHr2AuW-iUKtJ14o7xBxwZKpBUsbszFu-nwSK5R6aH8EjlKSIVqhdpmXQwkE5MOiv8gSAjbvs05m80kcYLoUf2NtGn46Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=u-PS1hNwqVsQ7kNvwEEC8GA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MDIwMDQyOTE0MjkwMTkxLCJhc3NldF9hZ2VfZGF5cyI6MzIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4660dfe19f145025&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQ4RTVGOEZGMkYyOTdCMzk4NkQwRjM2QTk4ODM5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NENEE5NDE2MjI5QTVGRUEwRDEzMEVFMzdGNTUwQjhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6PqHlIXGYxUCKAJDMywXQD2I9cKPXCkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKlod7YmUui6eduffJBVTpiS2OFUDAR_lCotmCsf3WhAA&oe=6ABC3341"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1976917499593405"
+      },
+      {
+        "id": "1481432473790673",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "⁨ לוק עיניים קיצי מושלם עם פלטת הצלליות TAN החדשה!☀️🌊\n\nכל הגוונים החומים, השזופים והניודים הכי מדויקים וזוהרים שיש בתוך פלטה אחת שהיא מאסט לקיץ הקרוב! הגוונים משתלבים בקלות, הפיגמנט היסטרי והלוק פשוט מחזיק מעמד גם בימים הכי חמים🌅✨\n\nפירוט האיפור:\n\nSoft Spot – בקפל העין לחמימות ועומק\n\nDip – בזווית החיצונית לכנף רכה\n\nBrook – על העפעף ולאורך קו הריסים התחתון\n\nCeleste – במרכז העין ובזווית הפנימית\n\nניתן להשיג באתר ובחנות הדגל שלנו🤎\n\n#natashadenona #explore #tanpalette #נטאשהדנונה #איפור⁩",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/products/tan-eyeshadow-palette",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787245694_1311905627686844_3269370525056693561_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nNStigR4m0gQ7kNvwGgiqIv&_nc_oc=Adr79Xy8B6gu5kb54SaKTVbsGNOUOQLYZLDsBxyfjOOHIKt_8AgaOVrqy0bzN-8rGn8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJKYiw8ixdbLWVwVMon1a4ZAY7ouIwquG8kHXVLNyGqag&oe=6ABC39CC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPN4rvyzPNt-39WKUuvcsXXQpe32XGZDU1oBR5TzoEYHRxTfkRzHvYndvbLDcIrThulAlY2hraPwXhtZAcyfd9Gdybv8AljCe6ZAAGJOw.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=9iSvEiUcA-AQ7kNvwEC7JUy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzM4NTkwNjYwNjYyNjMzLCJhc3NldF9hZ2VfZGF5cyI6MTA4LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ3gfe2KehOEYd42pSJKv06sl7Mu838sSWr1udpK5sj5A&oe=6ABC324E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1481432473790673"
+      },
+      {
+        "id": "1628015735595012",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653544987_2175512939916091_7203232228314022990_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uqd7eFKf23kQ7kNvwGIDk_y&_nc_oc=AdpeI2l5ULTp5yeDh62qVNPjJyBLzHtJ-RQLJuncEdk4UxkdQF_I878UxNmSZBm-lCY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIBES4kWj0YLzb-LYzOOTbg3vH83QESZTk-vhq8gxPPPQ&oe=6ABC4689",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653705988_1202416771712373_5050397536367874761_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZVuANOeu71sQ7kNvwEBx_HN&_nc_oc=Adp6zsql6FcgAp4W4tgy6SyTRDHKThRCzyfjlyWXeP3oZSL_Cq4SK94rHEdph0y2ofM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLOoYt64GsxvRyYezRZ27ILT3f2Or8gh8evnekkYJyFtQ&oe=6ABC37A1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653702176_3824763557828500_930926556015026302_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1KJkLqUL414Q7kNvwHUu15Y&_nc_oc=AdqDLdEPeGVp6Rj44NxuXocwgMzM2xYfCMKJxTmwKFG6gUBsipegx92-tX9iU7RB7W4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIEfkPNplVg4pStTqcCmLBfV9i4zwfq99HGpkV-GDHaUQ&oe=6ABC3842"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1628015735595012"
+      },
+      {
+        "id": "993889333661090",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/655720859_1448762486797355_8322535344773287537_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X6wfbR6QLXEQ7kNvwEuJP90&_nc_oc=AdpxgMiDGbN1gUcnEi0878pIrrF3M-rRA8r5F2SEM2F4mQ6V0aiI-o15yR3pxIdGooE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJWDTy_6EaKXr18HYVZNyUwld8EAsXxU_aivFFQtdxJww&oe=6ABC4CB9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/655020540_1673746740295895_6129190235271443035_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dhVamgrVmswQ7kNvwHuaj_P&_nc_oc=AdraipRBCzb_Z4t6cyYrmgKQCjxopJWSlJJEioHJzUUyUCaRoA1KahDDwraVTn35c3U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKOwDQBr29WxErHPB9xtVqjPT_CYZ4q2haqDn2mO0J1fg&oe=6ABC4E93",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/652174817_916167644484429_837827238702473715_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VDXxWHGzSLUQ7kNvwEiO0mn&_nc_oc=AdouQw792w1DGA3oA5nGCYn2HNyfR3wMnVymAqj6GAq9bXIyVkZLPrp8EL5NZfPx760&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIsRYcAtQDxhb_17ZV4nvRLkYM9geLjxCw9gKRXU3N_kg&oe=6ABC302D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=993889333661090"
+      },
+      {
+        "id": "1553166236822838",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/777801119_1046888064620111_211706080084514117_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FNTh_Pmk6I4Q7kNvwEMkJf9&_nc_oc=Ado40fR_8wXaxUinRR3SBJfKxgLLPA_fvOWGz2nwcFXFFpemQNGnI-e2USA3xl8PauE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLaNiSWnLzmFrH8zxQFJlQ4Q9IQgPycAFFphIgYKp_1NA&oe=6ABC46C7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778957862_1037668055725792_5861621281236328051_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3h7MzhnIEEkQ7kNvwFXCGsb&_nc_oc=AdoH-UrOriYPVleWC44YWCwQkfN5DV6GYLCQTNNPuXhmRseQWJmxaSYoWcuOE2dzENw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJ4zmP308jxJBJQA3I5O2gD6rJ222A_Lq7GwsRmYhRd_w&oe=6ABC5ACB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778957862_1037668055725792_5861621281236328051_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3h7MzhnIEEkQ7kNvwFXCGsb&_nc_oc=AdoH-UrOriYPVleWC44YWCwQkfN5DV6GYLCQTNNPuXhmRseQWJmxaSYoWcuOE2dzENw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJ4zmP308jxJBJQA3I5O2gD6rJ222A_Lq7GwsRmYhRd_w&oe=6ABC5ACB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1553166236822838"
+      },
+      {
+        "id": "4140830042881266",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הפריטים השווים שהתעניינת בהם עדיין מחכים שתחזרי אליהם, מהרי המלאי מוגבל >>",
+        "link_description": "מוצרי איפור מקוריים מבית נטאשה דנונה - צבעים מודרניים ומרהיבים לשפתיים, לעיניים וללחיים, לצד קשת רחבה של גוונים טבעיים – מכהים ועד בהירים - לעור הפנים. פלטות צלליות ל...",
+        "landing_url": "https://www.natashadenona.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787196989_856445927434736_6579325818870195820_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RO0PoOkN8joQ7kNvwH2Aa4u&_nc_oc=AdoynpeHgc9QsLoDe0KWRsRC7cmnIVK60v1r--yCYTzyhQnv5JwVE4bYRDehuHenexI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKB30FQcxLff771zPzUA1y6nF6zGWgec6qyHtHEXJ0S4w&oe=6ABC5B25",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787761586_1991068924725226_7668326321562658934_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lKtQC_EpM_gQ7kNvwHQt_gu&_nc_oc=AdotRTNt6mBYDlRw9Yq9uSqUTdHkugK02qp_ox3_Z9IXbei2_UE_z8t7X19b0PHSW18&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQL5DgHdKaHm80z7TVCjwU2RoQZjHLe2T0sV6cJWx9qKVw&oe=6ABC35B2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787197023_4514214372172699_1706694961090202663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fOrKJPvSASAQ7kNvwFxkxx9&_nc_oc=Adoe8CIDwJRjAgbxsTWv2unEhKK1KwmgvK_QQvmA0CRvYBJXEIwnsNoIhqsk7rhOMAs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLcI5YM7xlvc8jsy6JDGoELvMoEofDOFnNLBzIQxQqR3w&oe=6ABC3D49",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787367695_1390681119124616_4616623725328546449_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=df-bPBG1WYQQ7kNvwEltKMV&_nc_oc=AdrEZvLRjYI-XFAU54xxwC_4KNek3m3_mmI4G76_brNkXvlxQZPLFe-GSngv0ou0ANM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIixkk3Xb_AOIvIua4x3-nKT-e7GbVDLfxqKE4ii6LUPg&oe=6ABC5D8B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787797547_1075832088748790_2183525532499757805_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RFotfYsrTigQ7kNvwGHxlxF&_nc_oc=AdrYXWSSYRd8dBDGlRKqnnRoYVimj0uzmItUho4K-Ru6u8m6DT1NshalIGcrHjR5S-A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQI4b_s1N2YDKbIPhSc8bWafsZxMtc3SAF3GZMAFA6IA6A&oe=6ABC4281",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787639449_1669453847452617_7483540410075618101_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kDbEA7hJiUwQ7kNvwECnbe0&_nc_oc=AdpJEC5AsjO1tHyrxfOpMQz93Hu4RUlB1UP1OQUWkKm8StT5_9QV56UFwdvKmJoqImQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLZmfJer5MPxzMjTbUajUQp2gekdxF4W7RLH3YtW_M9dw&oe=6ABC2E1C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4140830042881266"
+      },
+      {
+        "id": "1624009935988049",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לוק עיני חתול מעושנות עם פלטת MINI BLOOM החדשה של נטאשה! 🌸\n\nכל הפרטים על המוצרים שנטאשה השתמשה בהם כדי ליצור את הלוק הזה מחכים לכם ממש כאן למטה!! 👇🏼\n\n#makeupbynatashadenona #explore #natashadenona #natashadenonabeauty #minibloom\n\n👀הפלטה זמינה עכשיו באתר ובחנות הדגל שלנו👀 🩷\n\nפירוט המוצרים:\n\nבסיס:\n\nHY-GEN פריימר סרום\nHY-GLAM קורקטור (בגוון C2)\nHY-GLAM קונסילר (בגוון YP5)\nHY-GLAM ברייטנר (בגוון B2)\nHY-GLAM פודרה מקבעת\nעיניים:\n\nMACRO TECH עיפרון עיניים (בגוון Brown) – אייליינר, זווית פנימית, עפעף תחתון, קו הריסים\n\nMINI BLOOM EYESHADOW PALETTE:\nBrunette – זווית חיצונית, אייליינר, זווית פנימית, עפעף תחתון\nWish – זווית פנימית, חלק חיצוני של העפעף, קפל העין, קו ריסים תחתון\nMeadow – טשטוש קפל העין בזווית הפנימית, שכבה מעל הקפל והכנף, מרכז העפעף ותיקונים בעפעף התחתון\nHarmonia – קו ריסים תחתון, זוויות העפעף, זווית פנימית, קו ריסים תחתון\nIvy shade – מרכז העפעף",
+        "link_description": "",
+        "landing_url": "https://www.natashadenona.co.il/products/mini-bloom-eyeshadow-palette",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786914350_3361335834049997_7788459137963091703_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gtd7kmkUSQIQ7kNvwG3kz1l&_nc_oc=AdrPc_dTQnwWN6eeaJZqj5VlvNOlnz-nhAdJ8oY63Bh3jRZKMg-0ws8C45CTKs7omxY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJjrlDKoBKrBoDHnARtrlXqU-te4u8RIpx4tHEUM87-iA&oe=6ABC58FA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMe5zTiTKPMXpdV6pQT7Ff7ZgmZ_n2jAMVyHBbnw2BNA2l8PzPCiPHIGcWTNL9W0q-sn_xjMmgvdp7BPPiwTERRQErl_ebbfsRJEmZEbg.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=7DXRS6CDH9IQ7kNvwEg9xG1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozMTc2MzUxNjMyNTU4NDY2LCJhc3NldF9hZ2VfZGF5cyI6NjQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQLxXJLRgxX7e4kk8nOSPxInYLvAdHqgxn0T1G_eC-IF3A&oe=6ABC389B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1624009935988049"
+      },
+      {
+        "id": "1787717209343641",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767101644_1694534502088920_4524350281060304077_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BVKhoBmZ3qYQ7kNvwHj3eOH&_nc_oc=AdrftVnZ4vtrzbb-TrA-_ENjXppGlGoblf7NGVXcPsE48uupu7wgXQn4nPo21_hIeRA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJQLh7-DjBoVJ8q4Y-TM3InYFB206-fwAhLKBHKG1mUqQ&oe=6ABC4F1B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPuXH18N21CfC8794ehRoFEpw5yxQhZcreqa3m8cuw6l_68NfjT-l2lwX7ZV8uShWdobrz5w3RXac3RAcHq_pzwdRKgkYATFh_BAC2sqYImig.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ooBHIRnak7wQ7kNvwEVAp-u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDY5OTk0MTA5MjMzNDEsImFzc2V0X2FnZV9kYXlzIjo1MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=60305da69dac527c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQzRDMUJEMUJEODI4MjhFMzZBRTE5RUI2NEE0NkFCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YxNEQ2OUVGNTE0RDIxREFBQ0RBMkU0MTZCQTRCNDgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa3bTW18XkBBUCKAJDMywXQCygxJul41QYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKNK4_cMOANzZUZ-yIm5U2XMnC8C4ExVyGnXw9-wOINHg&oe=6ABC4477"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1787717209343641"
+      },
+      {
+        "id": "1722383338991625",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766763174_1592755842517952_2524597291567688210_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q_3aHXIwZSEQ7kNvwG4P8Lq&_nc_oc=AdoqKwSE9C0mPM-Mn8p3Of0IUcHgWkjomwM2c2dzdlKmUPX8dADiH9GuPMKdJE_Ppns&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJBOwY36Qke9SdYq6m8WHrBzI68eH2UZynr05DfqU1APw&oe=6ABC4B2C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4pnJouYa8tCs6jem03NH84LZpGYY5M7Q8wKNlgj5W0pg6ld5D93yOly_zTnhUWteufJhUFczuROrp6Patawxc_VgZ1BjnMlGbOvZZMTqp_Q.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=HHSbB0fw2dYQ7kNvwEvxuzC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODYyOTAxMDMxNDY3NDksImFzc2V0X2FnZV9kYXlzIjo1MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d2fac9378ce30119&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTQ1MjhFQTZEQTgwQ0YwOEI1RDkwOENGQzEwMkFCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU4NENENDREMjMwMDRBMUUxQ0FBM0RGNDk1QzE3RDk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6496hnq7RBRUCKAJDMywXQDfsSbpeNT8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQI4fsnGa9SVtiWOL9hjZAd6ftvngbHJ01AXG_skfp2YaA&oe=6ABC2F05"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1722383338991625"
+      },
+      {
+        "id": "1064239499551703",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764807343_949685408152910_8317307367100751788_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fMv2CCRzF0wQ7kNvwEsPDzB&_nc_oc=Adpp-FdO0rMTvvZI5tt0J53gOyHnA1YI9PssVZFKImYfJSpyPGCFo-TWkn6WODsciT0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIBNHtzKYdyASD3yAQ8l-TCuim39jkRNOF8zGTgXkTPOw&oe=6ABC48E1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4pnJouYa8tCs6jem03NH84LZpGYY5M7Q8wKNlgj5W0pg6ld5D93yOly_zTnhUWteufJhUFczuROrp6Patawxc_VgZ1BjnMlGbOvZZMTqp_Q.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=HHSbB0fw2dYQ7kNvwEvxuzC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODYyOTAxMDMxNDY3NDksImFzc2V0X2FnZV9kYXlzIjo1MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d2fac9378ce30119&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTQ1MjhFQTZEQTgwQ0YwOEI1RDkwOENGQzEwMkFCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU4NENENDREMjMwMDRBMUUxQ0FBM0RGNDk1QzE3RDk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6496hnq7RBRUCKAJDMywXQDfsSbpeNT8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQI4fsnGa9SVtiWOL9hjZAd6ftvngbHJ01AXG_skfp2YaA&oe=6ABC2F05"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064239499551703"
+      },
+      {
+        "id": "905083418992541",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701747873_26881458491480866_6154749108636845049_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U1ABd5eyP8sQ7kNvwFlj_zh&_nc_oc=AdpwSWJ1VYGPn0CAbqc8P97mLVczo-nF9KTZwRtGU5j2a8DrW5tt4cXMPz_pfd-Rfr8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLgt468cS_6X4kXGh0T8VAipH3sK2fLkt_qBJztbG1vLA&oe=6ABC56FC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEu_hWkPAWhyyEPUfyrncDYke9-xRw8Udu1Niv_v0CBVtMm6fmkI2xXVVk2YgYabSiGjY6MV2Jk2G8oMHkPRlXbw9s-DJNM7IVhEU4S1rI3g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Xzj4WvLaUroQ7kNvwEwgdTk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MjI1NzcyNDU0NDk5NywiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fdeab1bd8a5d0e00&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMDRDNUZBOTgxRTExRjI5MTcyRjI2QTM2OEUxODJBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UzNDU4MkE5MjlFOEQ3MTZGNTc1RUQ4NTIzNTNGOUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbK3_6r9ta-AxUCKAJDMywXQDhR64UeuFIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6aUJhcamqEbze7n6TnmL5jop7zZxAl2PE_9vqhmRy_A&oe=6ABC5BFD"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701747873_26881458491480866_6154749108636845049_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U1ABd5eyP8sQ7kNvwFlj_zh&_nc_oc=AdpwSWJ1VYGPn0CAbqc8P97mLVczo-nF9KTZwRtGU5j2a8DrW5tt4cXMPz_pfd-Rfr8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLgt468cS_6X4kXGh0T8VAipH3sK2fLkt_qBJztbG1vLA&oe=6ABC56FC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEu_hWkPAWhyyEPUfyrncDYke9-xRw8Udu1Niv_v0CBVtMm6fmkI2xXVVk2YgYabSiGjY6MV2Jk2G8oMHkPRlXbw9s-DJNM7IVhEU4S1rI3g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Xzj4WvLaUroQ7kNvwEwgdTk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MjI1NzcyNDU0NDk5NywiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fdeab1bd8a5d0e00&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMDRDNUZBOTgxRTExRjI5MTcyRjI2QTM2OEUxODJBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UzNDU4MkE5MjlFOEQ3MTZGNTc1RUQ4NTIzNTNGOUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbK3_6r9ta-AxUCKAJDMywXQDhR64UeuFIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6aUJhcamqEbze7n6TnmL5jop7zZxAl2PE_9vqhmRy_A&oe=6ABC5BFD"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/702240970_4500548483598571_5359986082317051719_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L68OZqtrBBYQ7kNvwHH4Rkx&_nc_oc=AdrKHh0COyOQLIowoVETbP7rUWCtC2IcNOfkh-IZLtPSpPnYFG1bfAs0PgNSTzuVChk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIWe_HqMe_jFDiZFHqJEhOPuVKdYwjAqunrbUgp_oPhyA&oe=6ABC4A68",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=905083418992541"
+      },
+      {
+        "id": "1010413035341748",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810421872_1078512718261110_2036839535379461834_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJWj6yErNEwQ7kNvwHJDzqm&_nc_oc=Adpnp5qmQp02tr_PGst7Tj0f5e_sVuDuA54UKBRdEzoEifI-WcX3Zt29fBTy6UbfrFM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKwm0t_dqxY_5dJyG7bON_fagW6KTv31bAx202dHPeQWA&oe=6ABC37A8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810421872_1078512718261110_2036839535379461834_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJWj6yErNEwQ7kNvwHJDzqm&_nc_oc=Adpnp5qmQp02tr_PGst7Tj0f5e_sVuDuA54UKBRdEzoEifI-WcX3Zt29fBTy6UbfrFM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKwm0t_dqxY_5dJyG7bON_fagW6KTv31bAx202dHPeQWA&oe=6ABC37A8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810421872_1078512718261110_2036839535379461834_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJWj6yErNEwQ7kNvwHJDzqm&_nc_oc=Adpnp5qmQp02tr_PGst7Tj0f5e_sVuDuA54UKBRdEzoEifI-WcX3Zt29fBTy6UbfrFM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKwm0t_dqxY_5dJyG7bON_fagW6KTv31bAx202dHPeQWA&oe=6ABC37A8"
+        ],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810052373_28421324800855638_4623996073956194192_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F5OGcqVmHkIQ7kNvwHhPwvC&_nc_oc=Adozftcwe2o04KJXS-Rk5-3W8nbK8sSqKZKtM8ClspKIeJG2WGtsqdmE4C1udhvOY2Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJiK7A2e10KLGxrk6XG_0gs1dOz-tB1WGGp-TSudtUk8g&oe=6ABC2C0C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1010413035341748"
+      },
+      {
+        "id": "1094156923131676",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727498083_1030598172841510_3641267229413043331_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jsPylanWiUMQ7kNvwHOIH8N&_nc_oc=Adrf0ntgFqucX7i0QzPhxHjyrj16ETqgQ1bQkXw_rfjO9PLHzuafg5oSUkafmadUd1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJy11trw3eMQB7ySLQHcwVgJ3h6wVJDAnf-bjPfJzZHJg&oe=6ABC5137",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727498083_1030598172841510_3641267229413043331_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jsPylanWiUMQ7kNvwHOIH8N&_nc_oc=Adrf0ntgFqucX7i0QzPhxHjyrj16ETqgQ1bQkXw_rfjO9PLHzuafg5oSUkafmadUd1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJy11trw3eMQB7ySLQHcwVgJ3h6wVJDAnf-bjPfJzZHJg&oe=6ABC5137",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727498083_1030598172841510_3641267229413043331_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jsPylanWiUMQ7kNvwHOIH8N&_nc_oc=Adrf0ntgFqucX7i0QzPhxHjyrj16ETqgQ1bQkXw_rfjO9PLHzuafg5oSUkafmadUd1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJy11trw3eMQB7ySLQHcwVgJ3h6wVJDAnf-bjPfJzZHJg&oe=6ABC5137",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727641966_1037894362136269_3493262738408648631_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fAXt42yD_x4Q7kNvwFU1atr&_nc_oc=AdpAPygbadBCay9ZDYcrZlAmdXB0pR9WuhbkG3Lsu2dmoUz5jimH1vQ2nC4dshlfxMo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJZ7rxw3NyJVcJD_9KyF24UqzUnX2cUFkThjHwCxUnhgQ&oe=6ABC56FB",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1094156923131676"
+      },
+      {
+        "id": "1698704387866554",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728893489_1301498122053566_8665635185677377137_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3z6brlFNH3IQ7kNvwHO5Nnu&_nc_oc=Ado2mTm9yrpZuB9IfYe-3i5qND6qBKkWbe0fLYUQtLeVIewO2IRpF-CHsK6axdhzhSo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLbvsklunYrnc8ZMeFZScKIjx33RllXmsrz12AIU2bkWA&oe=6ABC5C83",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728893489_1301498122053566_8665635185677377137_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3z6brlFNH3IQ7kNvwHO5Nnu&_nc_oc=Ado2mTm9yrpZuB9IfYe-3i5qND6qBKkWbe0fLYUQtLeVIewO2IRpF-CHsK6axdhzhSo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLbvsklunYrnc8ZMeFZScKIjx33RllXmsrz12AIU2bkWA&oe=6ABC5C83",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728893489_1301498122053566_8665635185677377137_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3z6brlFNH3IQ7kNvwHO5Nnu&_nc_oc=Ado2mTm9yrpZuB9IfYe-3i5qND6qBKkWbe0fLYUQtLeVIewO2IRpF-CHsK6axdhzhSo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLbvsklunYrnc8ZMeFZScKIjx33RllXmsrz12AIU2bkWA&oe=6ABC5C83",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727408458_4355751574641194_3805074692673127787_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iZNZpY3556UQ7kNvwEuWePU&_nc_oc=AdoWC0i9p9Zt7q24Y7bYMopgOMtEXXP0SPtq6vFqWtqPENIY6bYTu7KldKdcBKke_FY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJYacbnYLVX0iudvoIWJE0kb8mW7AWuJsmNICvbCKqiYg&oe=6ABC313E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1698704387866554"
+      },
+      {
+        "id": "1474374815761924",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729705743_4633946366877114_3736482838860526724_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hQklTm4ISuQQ7kNvwFKbZr6&_nc_oc=AdqvPKDhqRSKGlsS9FnIn3YCieyo_fc-x9UzGz0fA5-9cqMco4siDmYsegmow5KPAjE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIMZjoEZEoEK1xcFqxa-jBru8tw9JkMXnubkyuK3vCIPw&oe=6ABC50A3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMi3DiuEtpdb2p3FH4cHx0bmLgc-N9KTvpyvvPXmpnllSMYXLHcKO0kn2TCv0HYsCwiYFmz2gtjr8MZRToMF6zBMN65lpOhkQ1iTWRhTylPUA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=RknmHBfs1uQQ7kNvwGq3be4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NjE2NTA0Mzc1ODEzNTQsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=77300a0f196cc89e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjRBOUU1MTE0MUM1NEQ3MUY0QzM5QUU0QTEyNjY5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEVEMTNDNEZDQjAwNTI2RjgyREFGRjIyMDc3QTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUqKX-9LbfCBUCKAJDMywXQD_3Cj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKYso2C0EFR82OlgianLb3V3sm9M-0cZ34aiRjgU-FqFA&oe=6ABC2E9B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729705743_4633946366877114_3736482838860526724_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hQklTm4ISuQQ7kNvwFKbZr6&_nc_oc=AdqvPKDhqRSKGlsS9FnIn3YCieyo_fc-x9UzGz0fA5-9cqMco4siDmYsegmow5KPAjE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIMZjoEZEoEK1xcFqxa-jBru8tw9JkMXnubkyuK3vCIPw&oe=6ABC50A3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMi3DiuEtpdb2p3FH4cHx0bmLgc-N9KTvpyvvPXmpnllSMYXLHcKO0kn2TCv0HYsCwiYFmz2gtjr8MZRToMF6zBMN65lpOhkQ1iTWRhTylPUA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=RknmHBfs1uQQ7kNvwGq3be4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NjE2NTA0Mzc1ODEzNTQsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=77300a0f196cc89e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjRBOUU1MTE0MUM1NEQ3MUY0QzM5QUU0QTEyNjY5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEVEMTNDNEZDQjAwNTI2RjgyREFGRjIyMDc3QTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUqKX-9LbfCBUCKAJDMywXQD_3Cj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKYso2C0EFR82OlgianLb3V3sm9M-0cZ34aiRjgU-FqFA&oe=6ABC2E9B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729705743_4633946366877114_3736482838860526724_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hQklTm4ISuQQ7kNvwFKbZr6&_nc_oc=AdqvPKDhqRSKGlsS9FnIn3YCieyo_fc-x9UzGz0fA5-9cqMco4siDmYsegmow5KPAjE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIMZjoEZEoEK1xcFqxa-jBru8tw9JkMXnubkyuK3vCIPw&oe=6ABC50A3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMi3DiuEtpdb2p3FH4cHx0bmLgc-N9KTvpyvvPXmpnllSMYXLHcKO0kn2TCv0HYsCwiYFmz2gtjr8MZRToMF6zBMN65lpOhkQ1iTWRhTylPUA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=RknmHBfs1uQQ7kNvwGq3be4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NjE2NTA0Mzc1ODEzNTQsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=77300a0f196cc89e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjRBOUU1MTE0MUM1NEQ3MUY0QzM5QUU0QTEyNjY5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEVEMTNDNEZDQjAwNTI2RjgyREFGRjIyMDc3QTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUqKX-9LbfCBUCKAJDMywXQD_3Cj1wo9cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQKYso2C0EFR82OlgianLb3V3sm9M-0cZ34aiRjgU-FqFA&oe=6ABC2E9B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725880152_2585088861950904_6107187648343943985_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0JQcjrhgAoAQ7kNvwEjg1Os&_nc_oc=AdrnDieb3ZRT_y3rHpqZSUInWFthj1l3Zb3YNv4_CLKg6zE3lPcWW1XJ5QY0YvuxhDk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQI5nfycejYm3csfbdjNb2kojeC3-YBrh185gkINrOiuTg&oe=6ABC3244",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1474374815761924"
+      },
+      {
+        "id": "1624070142761382",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778973365_2154265798492025_8380856516169953401_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eRqDJ2X0NqEQ7kNvwHHz5CL&_nc_oc=AdopiY3v3szmsvtuidNEDhWahOC6vnF2z25uH-A5ZixHJkkz6pW9KIbbomuRo93uNUI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJH5mJGu1kApCSbEHy_c0ioFcWgYTxk135kebW6BxuVtw&oe=6ABC2775",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777421086_1580053130243819_6484985904751049854_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QJpQG1rBV6EQ7kNvwFfJFK5&_nc_oc=Adol9z1qwx7WC5rdWgIXBLo-HqMfG7L_Box3TUPbm9XnKpfNGXRcw1BI5UsSo0IjV_Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIQJpbKgJWi2nmZlNKCM_kj1d6MQnq-yu3mUhpkJ9US3A&oe=6ABC2D32",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777421086_1580053130243819_6484985904751049854_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QJpQG1rBV6EQ7kNvwFfJFK5&_nc_oc=Adol9z1qwx7WC5rdWgIXBLo-HqMfG7L_Box3TUPbm9XnKpfNGXRcw1BI5UsSo0IjV_Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIQJpbKgJWi2nmZlNKCM_kj1d6MQnq-yu3mUhpkJ9US3A&oe=6ABC2D32"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1624070142761382"
+      },
+      {
+        "id": "1555831979625739",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774236892_1483970320235718_6768529567423808009_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T95wySgxKk4Q7kNvwHtoeMo&_nc_oc=Adoo8X1biT7zqwGh41CY8a4bls6RP_nHUJcyJWJMeViS-d0sH_508Ks3GsID-uurywQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJ6ujkQ7Ls01lEO1YLmtDdtT8yNVAlqcHQFn8qxcwp0vQ&oe=6ABC5DFF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779867322_1711983613348931_1941154736336709749_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=76LNoqZZLH8Q7kNvwEOFZvb&_nc_oc=AdqmqHjRGWjsqhMSonkaF7yGeD1PjdeGSjRGGYM2oKaTal6RYkFaVDOu50W42iZ-g8k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKMkRNmDh5oNr7RAQO3bJLRvzPH2abUS6q5wzlAj600yg&oe=6ABC5E83",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779867322_1711983613348931_1941154736336709749_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=76LNoqZZLH8Q7kNvwEOFZvb&_nc_oc=AdqmqHjRGWjsqhMSonkaF7yGeD1PjdeGSjRGGYM2oKaTal6RYkFaVDOu50W42iZ-g8k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKMkRNmDh5oNr7RAQO3bJLRvzPH2abUS6q5wzlAj600yg&oe=6ABC5E83"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1555831979625739"
+      },
+      {
+        "id": "1715099686240912",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812102476_27870709412606280_7371934732550721436_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=48WV30y8iOkQ7kNvwEOyShf&_nc_oc=AdpBJRbhd9IKsYw5AQP8BReTU-ERVs7k_Rn39GyeFKwg_McFhhE4n_aVxa6S8LEWZyg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJUlmbRamhEQO6bFp1a0qMn0NF3_ZoiVqHmpuDTxJn6Jg&oe=6ABC5C0A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813520516_1112576851199691_1732610966681296598_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UhPptxnig3QQ7kNvwF1BBlo&_nc_oc=AdpfJKh4JPJ9qq-410L4vZenaVYQO7rDgNX_TYq6w8ICFoDmIJNqzLf2x8nqp_0CQ0s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJgDonkx-xBcjuDFjCU-Aqp01t7aNCnBa3F1nYLEUWZag&oe=6ABC3717",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812102476_27870709412606280_7371934732550721436_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=48WV30y8iOkQ7kNvwEOyShf&_nc_oc=AdpBJRbhd9IKsYw5AQP8BReTU-ERVs7k_Rn39GyeFKwg_McFhhE4n_aVxa6S8LEWZyg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJUlmbRamhEQO6bFp1a0qMn0NF3_ZoiVqHmpuDTxJn6Jg&oe=6ABC5C0A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812102476_27870709412606280_7371934732550721436_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=48WV30y8iOkQ7kNvwEOyShf&_nc_oc=AdpBJRbhd9IKsYw5AQP8BReTU-ERVs7k_Rn39GyeFKwg_McFhhE4n_aVxa6S8LEWZyg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJUlmbRamhEQO6bFp1a0qMn0NF3_ZoiVqHmpuDTxJn6Jg&oe=6ABC5C0A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813467446_1318942506833190_6272173608053291010_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBCRD84JD1wQ7kNvwGjSInt&_nc_oc=AdqYHOnBUt8aW7yv0nLDys9l7z7u6IZCwrzuKfa2hH5CW2eyhczw0DGrrZQl3O7Ie2g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQL9XekIYqY71Iq3sDzWhODLOhTQ0SWKubK5T1nu1l5ekw&oe=6ABC4B59",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1715099686240912"
+      },
+      {
+        "id": "1594687705456511",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "הצעד הראשון שלך בעולם הביוטי מתחיל באקדמיה של נטאשה דנונה",
+        "body": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "link_description": "הטבה מיוחדת על קורס איפור מקצועי",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808430787_1706006347137980_1109828474055337966_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s1hoRYTYRiwQ7kNvwFbQ98U&_nc_oc=Ado1sa5n_wsoid4lacG9sgu3HW9SmrRN1xAVVbK6CsCOPFwlH5gjz6QSVVnY4SZvkYQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQItSqzbTkapvo49C5a9ouaZx4bjwWkrVtwUhguNg3rO-w&oe=6ABC50A7",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795538191_1417278169854670_326523019197846421_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=suVuSrnLu-IQ7kNvwGzCot4&_nc_oc=Adr8GvZLqSBuOu90usXq1IuB9gIJSKzhqATIClkUPVunVhridsGuaXaSmnPku98av1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQKo-VpETyiNc6uL8IeUVyaQUnsffXnu0s58btMV4WSLAA&oe=6ABC4B3F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP-i87Sh0Rb996gph8Z0Dyr6I5OZRQ0f2x8L3vxMY6844oLJ78T06b89Pr-SLRvE4o92v0-TM9Px4AD-4AHQ5hRFX0dx-ZbIcObFQAL9OeIYw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1VxWszGE__kQ7kNvwFCEQuB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzc0NjMyNzM3NDUxODcsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a3ca907d4e04a4d4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCMTk1Q0E4QUU1MDU4MTk4MDIzMzNCODY3OTM4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDkwMTE2QkRFOTEzQ0QzRjIwMzczNjE0NEY1Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGrIm6wL35BxUCKAJDMywXQDh64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJKlrj2pdT5OvzZyDVjTDPHd_UOccsv54lldOJPVEdSRg&oe=6ABC3F24"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808430787_1706006347137980_1109828474055337966_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s1hoRYTYRiwQ7kNvwFbQ98U&_nc_oc=Ado1sa5n_wsoid4lacG9sgu3HW9SmrRN1xAVVbK6CsCOPFwlH5gjz6QSVVnY4SZvkYQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQItSqzbTkapvo49C5a9ouaZx4bjwWkrVtwUhguNg3rO-w&oe=6ABC50A7",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808430787_1706006347137980_1109828474055337966_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s1hoRYTYRiwQ7kNvwFbQ98U&_nc_oc=Ado1sa5n_wsoid4lacG9sgu3HW9SmrRN1xAVVbK6CsCOPFwlH5gjz6QSVVnY4SZvkYQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQItSqzbTkapvo49C5a9ouaZx4bjwWkrVtwUhguNg3rO-w&oe=6ABC50A7",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYG-qIpkkgMNqQus5K_WXma8YwlNlM0O_wzMwuYihdg0vc6jbgsi3u7DfOd43Yt-DF9nYzQ8vyITZYWLAOz3kJUoBRb-c0wGwNrSN0t44Uuw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-uqY6n2zC9UQ7kNvwEsowtI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDIzNTMwODQ5ODcwOTYsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=17a815df2ee1b924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBNTc4NUIyNkNBOTRCRTc4QzE5QzQ4NjAyNUZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEJDM0E1RDQ5MzI3RjQzREI0MjQyNjZBQTBENjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw26nfupirBRUCKAJDMywXQEYOFHrhR64YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ-dfKcLBU0o3iUjSctsWiEtRVbiONIt-KeF5nAiIeijQ&oe=6ABC4C8B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799601764_1612113956933398_9148057521517524996_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ovx4zN_v8f4Q7kNvwFlodyZ&_nc_oc=Adq5VqKdExBuen-pAI5sLmGkIlhoh_ytX16z_Wg0-r8R2QfPRBgskqZumonn1QMoat8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJHbz6xsaNkibUP71EY_W8OU7RrHH19WFheVjY_HOpCsw&oe=6ABC3FD9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1594687705456511"
+      },
+      {
+        "id": "28761353350138221",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653714942_1243840587367290_3697629739144206505_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uRS4aHRWrskQ7kNvwELcDm3&_nc_oc=AdpxoQ4TcXrXbo-C_aftHE34Lfnj-eOXxYveEKBdRvsJDSHqtnILJvWW10aXE4dHAd4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQL_OZMsSy8cDqZuFNlfTn2ud5QIdWUjJMA7peS-Y8tA-Q&oe=6ABC369E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653365407_1527306542442146_8138106774791089772_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5IlRQNUvqsQQ7kNvwEVx9jJ&_nc_oc=AdomBnXul3LAugVL4avbglGklGh0pMMg-WNpSHb6XBwrnJObq3UAVjqSNccuHHRgR6I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQIObZvGQVgONLepiFuPCStVmLxV0qnAX7FM7I4ZrCepkQ&oe=6ABC5A93",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/654287422_1984255815862440_106739539634881910_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vlBj5z93KtEQ7kNvwERxZyd&_nc_oc=AdqpXCK4QmHPQrDPre4-g9nLmZu07wcE9gfo8-OgZUAtOwCLWBB__pZOeJY4FC0HRTU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJmpAeMp7Lby8SijmNDPpZo_sz_OY3mXWtOrA5HmobaPA&oe=6ABC4108",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653716283_1987747065957727_3156807611143306553_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n3WmSL2I6n8Q7kNvwGwTLzl&_nc_oc=AdqPkgqVBeHNXZwgGrmeXs4faZeS0c3ZRV34ikpHrTqTcKNPstCtyPdg3m1kwHUl1HU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJOEDOE6duF9Tu5bsLqcG4TWHxmYYj3bT290LhBZXh8Ow&oe=6ABC3D9A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28761353350138221"
+      },
+      {
+        "id": "1762090638466256",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728555898_1338290110999283_3060705379356059568_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKPgPlt2Wj4Q7kNvwHsIPQK&_nc_oc=AdoaqzNkfG1-cf64xuOZ92HW2lEKPFdhxvhB20n8wSjYmM4LdmTYnhJQrPnshuWPujw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLYtvpvY5t49kUxbNlDODSjk4xr0dlXa_RXUboQy4ehbQ&oe=6ABC3E24",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpQgOEHvcX-P3A6PE2JD_djFjB_76Y6NW1Hazgf2yhQnmQEPfvXWqPfv2odJCJFtTn03TFM_FJDPfEx-FnLLRVdPDHyJjKPIeo9Hyx7pj9mA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=koYTHetNVJ4Q7kNvwFw-ko2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzA2MzI0NDUzNDkxNDAsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e4cc261aa4a31fd3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzQ4MkRBOUNFOTZEMkVGNTRDMEFFNEY3REYxRTlBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDNEExNkU0QUMwOTAxRUQxNjRFNzRDNjVFRjgwQkI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaotNqjgI3dBBUCKAJDMywXQDrLAgxJul4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQICCkbdW-yulETFToLwORaB9xiCrPEuoLXV_9LYguOMBA&oe=6ABC4111"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728555898_1338290110999283_3060705379356059568_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKPgPlt2Wj4Q7kNvwHsIPQK&_nc_oc=AdoaqzNkfG1-cf64xuOZ92HW2lEKPFdhxvhB20n8wSjYmM4LdmTYnhJQrPnshuWPujw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLYtvpvY5t49kUxbNlDODSjk4xr0dlXa_RXUboQy4ehbQ&oe=6ABC3E24",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpQgOEHvcX-P3A6PE2JD_djFjB_76Y6NW1Hazgf2yhQnmQEPfvXWqPfv2odJCJFtTn03TFM_FJDPfEx-FnLLRVdPDHyJjKPIeo9Hyx7pj9mA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=koYTHetNVJ4Q7kNvwFw-ko2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzA2MzI0NDUzNDkxNDAsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e4cc261aa4a31fd3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzQ4MkRBOUNFOTZEMkVGNTRDMEFFNEY3REYxRTlBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDNEExNkU0QUMwOTAxRUQxNjRFNzRDNjVFRjgwQkI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaotNqjgI3dBBUCKAJDMywXQDrLAgxJul4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQICCkbdW-yulETFToLwORaB9xiCrPEuoLXV_9LYguOMBA&oe=6ABC4111"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728555898_1338290110999283_3060705379356059568_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKPgPlt2Wj4Q7kNvwHsIPQK&_nc_oc=AdoaqzNkfG1-cf64xuOZ92HW2lEKPFdhxvhB20n8wSjYmM4LdmTYnhJQrPnshuWPujw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLYtvpvY5t49kUxbNlDODSjk4xr0dlXa_RXUboQy4ehbQ&oe=6ABC3E24",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMpQgOEHvcX-P3A6PE2JD_djFjB_76Y6NW1Hazgf2yhQnmQEPfvXWqPfv2odJCJFtTn03TFM_FJDPfEx-FnLLRVdPDHyJjKPIeo9Hyx7pj9mA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=koYTHetNVJ4Q7kNvwFw-ko2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzA2MzI0NDUzNDkxNDAsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e4cc261aa4a31fd3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzQ4MkRBOUNFOTZEMkVGNTRDMEFFNEY3REYxRTlBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNDNEExNkU0QUMwOTAxRUQxNjRFNzRDNjVFRjgwQkI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaotNqjgI3dBBUCKAJDMywXQDrLAgxJul4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQICCkbdW-yulETFToLwORaB9xiCrPEuoLXV_9LYguOMBA&oe=6ABC4111"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728439417_2524205728037636_3162727972867194482_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OR1wgMyNeBwQ7kNvwEz5VQg&_nc_oc=Adqw3vWdVYqECLizrFxpFUWFJnAiy4ou263NUnh8FeRQQUZl32yExq5q5cC4mlGyssc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQJ_rTpjkrUcTWziLRTYQ7EDf5OA2czsa2iLgoFNUM6tIw&oe=6ABC3615",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQORG2aEnA3vRkACpf-ySaRyNgEW_97Uy_27LIUqvrFkY_xE480V9FNHT7d1WjK0_oBnloziFKY4dzmjJNxy95JCDTWqlqXHtfi8kPXZ28s6Jg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=m0L-UF7eRWEQ7kNvwFXHdGY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzNDQ0NzA3MzA3MzQ2MCwiYXNzZXRfYWdlX2RheXMiOjEyOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=99491b95cc7c838b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjRBMDgwM0NDREQ3MjRBNEM5RURGOEREMEYwRDVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDFFMkNGMzRDRTQwRUIxNkMyNEI5MjYyRUIwNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo5P6Vm7v7AhUCKAJDMywXQDceuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQJYdrc5n_sSPcS3pe7vs0Kjdf2nj_WVjHB1yqMjWpdWoQ&oe=6ABC3447"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1762090638466256"
+      },
+      {
+        "id": "1390592599896693",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "נטאשה דנונה מייקאפ",
+        "body": "קולקציית מארזי החג ההורסים של נטאשה דנונה במהדורה מוגבלת✨\n\nהסטים מגיעים בגודל מושלם לנסיעות או פשוט כמתנה מפנקת😍",
+        "link_description": "https://www.natashadenona.co.il",
+        "landing_url": "https://www.natashadenona.co.il/collections/holiday-collection",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795646544_1117614630840950_5396210166135423518_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L8KyELINMvIQ7kNvwE3Yy5_&_nc_oc=AdooA-q-BZjX3NA-cJ3diz83-YKCmS7_ReRDZWgW75ypNtOyvYjwTW0DcRUCpg174To&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLvcQLx4NutfvHO3SaGpXdcXTc_cIXCNtE5twXKKP6akQ&oe=6ABC490F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOU0upL4H4FKQcbqdwvlyWnX55iQCwHlBH0UoKOx2iHQA2yrSv-bkj61KPfIo2uWxqAwRESRiGkmpMWqqr6krFHXNsb39exY2XAb821VpaoQg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZM6_1qsDy8cQ7kNvwH0P9R2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjk0ODQzMDU4NDc2NzgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef42de70505e268c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQzQjM2MDY3MjQ4QzQ5MTIyNzJCRTYzRkI2RTdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFDRkQ3MTAwMjVEQjRGRjc4NTM0OTYyQTI5MDlDNEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb81aSCl6zmAxUCKAJDMywXQCZmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQLCgOPe1UE7qrQ0NG1bWoBDPvv2s9IXOpyN6Ombpd0-ZQ&oe=6ABC32A9"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795646544_1117614630840950_5396210166135423518_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L8KyELINMvIQ7kNvwE3Yy5_&_nc_oc=AdooA-q-BZjX3NA-cJ3diz83-YKCmS7_ReRDZWgW75ypNtOyvYjwTW0DcRUCpg174To&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLvcQLx4NutfvHO3SaGpXdcXTc_cIXCNtE5twXKKP6akQ&oe=6ABC490F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOU0upL4H4FKQcbqdwvlyWnX55iQCwHlBH0UoKOx2iHQA2yrSv-bkj61KPfIo2uWxqAwRESRiGkmpMWqqr6krFHXNsb39exY2XAb821VpaoQg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZM6_1qsDy8cQ7kNvwH0P9R2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjk0ODQzMDU4NDc2NzgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef42de70505e268c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQzQjM2MDY3MjQ4QzQ5MTIyNzJCRTYzRkI2RTdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFDRkQ3MTAwMjVEQjRGRjc4NTM0OTYyQTI5MDlDNEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb81aSCl6zmAxUCKAJDMywXQCZmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQLCgOPe1UE7qrQ0NG1bWoBDPvv2s9IXOpyN6Ombpd0-ZQ&oe=6ABC32A9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1390592599896693"
+      },
+      {
+        "id": "2192501478371057",
+        "page_id": "123878657734754",
+        "page_name": "Natasha Denona IL",
+        "page_url": "https://www.facebook.com/natasha.denona/",
+        "page_like_count": 58770,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "נטאשה דנונה מייקאפ",
+        "body": "קולקציית מארזי החג ההורסים של נטאשה דנונה במהדורה מוגבלת✨\n\nהסטים מגיעים בגודל מושלם לנסיעות או פשוט כמתנה מפנקת😍",
+        "link_description": "https://www.natashadenona.co.il",
+        "landing_url": "https://www.natashadenona.co.il/collections/holiday-collection",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818961961_1569706918239731_8579839529826245750_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jzpusdGTCWcQ7kNvwGI5uu9&_nc_oc=AdpWqVLGgKdG0OwVKm3QEpR9k_MUteYbpU7RS_e_NTWy4krnx8-FEU0bY6RPXZchNBw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLSCfR6__ZVsgtLlfUGwYXq6Pm0_RIr73w9JHnY52mRcw&oe=6ABC4ED5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOU0upL4H4FKQcbqdwvlyWnX55iQCwHlBH0UoKOx2iHQA2yrSv-bkj61KPfIo2uWxqAwRESRiGkmpMWqqr6krFHXNsb39exY2XAb821VpaoQg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZM6_1qsDy8cQ7kNvwH0P9R2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjk0ODQzMDU4NDc2NzgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef42de70505e268c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQzQjM2MDY3MjQ4QzQ5MTIyNzJCRTYzRkI2RTdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFDRkQ3MTAwMjVEQjRGRjc4NTM0OTYyQTI5MDlDNEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb81aSCl6zmAxUCKAJDMywXQCZmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQLCgOPe1UE7qrQ0NG1bWoBDPvv2s9IXOpyN6Ombpd0-ZQ&oe=6ABC32A9"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818961961_1569706918239731_8579839529826245750_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jzpusdGTCWcQ7kNvwGI5uu9&_nc_oc=AdpWqVLGgKdG0OwVKm3QEpR9k_MUteYbpU7RS_e_NTWy4krnx8-FEU0bY6RPXZchNBw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&oh=00_AQLSCfR6__ZVsgtLlfUGwYXq6Pm0_RIr73w9JHnY52mRcw&oe=6ABC4ED5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOU0upL4H4FKQcbqdwvlyWnX55iQCwHlBH0UoKOx2iHQA2yrSv-bkj61KPfIo2uWxqAwRESRiGkmpMWqqr6krFHXNsb39exY2XAb821VpaoQg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZM6_1qsDy8cQ7kNvwH0P9R2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjk0ODQzMDU4NDc2NzgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef42de70505e268c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQzQjM2MDY3MjQ4QzQ5MTIyNzJCRTYzRkI2RTdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFDRkQ3MTAwMjVEQjRGRjc4NTM0OTYyQTI5MDlDNEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb81aSCl6zmAxUCKAJDMywXQCZmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=piKioOXLloi1O5M668OwWw&_nc_ss=70289&_nc_zt=28&oh=00_AQLCgOPe1UE7qrQ0NG1bWoBDPvv2s9IXOpyN6Ombpd0-ZQ&oe=6ABC32A9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2192501478371057"
+      },
+      {
+        "id": "1598082275387118",
+        "body": "מחפשת את הלוק המושלם? 💄\nמבחר ענק של מוצרים מהקולקציות הכי אייקוניות של נטאשה דנונה – פלטות צלליות, מייקאפ, שפתונים ועוד – מחכים לך באתר >>",
+        "landing_url": "https://www.natashadenona.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1598082275387118",
+        "text": "מחפשת את הלוק המושלם? 💄\nמבחר ענק של מוצרים מהקולקציות הכי אייקוניות של נטאשה דנונה – פלטות צלליות, מייקאפ, שפתונים ועוד – מחכים לך באתר >>",
+        "links": [
+          "https://www.natashadenona.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2287077235438179",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1630796925107795",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1058174160148568",
+        "text": "לוק עיני חתול מעושנות עם פלטת מיני בלום החדשה! 🌸 \n\nנטאשה השתמשה בטכניקת ה-UNDERPAINTING (הנחת הצללות וסומק מתחת למייקאפ) בשלב הבסיס 🤤 כל הפרטים על המוצרים מחכים לכם ממש כאן למטה! 👇🏼\n\n#makeupbynatashadenona #explore #natashadenona #natashadenonabeauty #minibloom\n\n👀זמינה באתר ובחנות הדגל שלנו👀 🩷\n\nפירוט המוצרים:\n\nבסיס:\nHY-GEN פריימר סרום\nHY-GLAM מייקאפ (בגוון YP5)\nHY-GLAM ברייטנר (בגוון B2)\nHY-GLAM פודרה מקבעת\n\nעיניים:\nMACRO TECH עיפרון עיניים (בגוון Brown) – אייליינר, זווית פנימית, עפעף תחתון, קו הריסים.\n\nMINI BLOOM EYESHADOW PALETTE:\nBrunette – זווית חיצונית (outer v), אייליינר כנף, זווית פנימית, עפעף תחתון\nWish – זווית פנימית, חלק חיצוני של העפעף, קפל העין (crease), קו ריסים תחתון\nHarmonia – קו ריסים תחתון, זוויות העפעף, זווית פנימית\nIvy shade – מרכז העפעף\nMeadow – טשטוש קפל העין בזווית הפנימית, שכבה מעל הקפל והכנף, מרכז העפעף ותיקונים בעפעף התחתון\nלחיים:\n\nHY-SCULPT ברונזר (בגוון Foxy)\nHY-BLUSH (בגוון Sweet Cheeks)\nשפתיים (Lips):\n\nI NEED A NUDE LIP CRAYON (בגוון LIYAN)\nHY-GLOSS (בגוון CHERRY BLOSSOM)",
+        "links": [
+          "https://www.natashadenona.co.il/products/mini-bloom-eyeshadow-palette"
+        ]
+      },
+      {
+        "ad_id": "1481432473790673",
+        "text": "⁨ לוק עיניים קיצי מושלם עם פלטת הצלליות TAN החדשה!☀️🌊\n\nכל הגוונים החומים, השזופים והניודים הכי מדויקים וזוהרים שיש בתוך פלטה אחת שהיא מאסט לקיץ הקרוב! הגוונים משתלבים בקלות, הפיגמנט היסטרי והלוק פשוט מחזיק מעמד גם בימים הכי חמים🌅✨\n\nפירוט האיפור:\n\nSoft Spot – בקפל העין לחמימות ועומק\n\nDip – בזווית החיצונית לכנף רכה\n\nBrook – על העפעף ולאורך קו הריסים התחתון\n\nCeleste – במרכז העין ובזווית הפנימית\n\nניתן להשיג באתר ובחנות הדגל שלנו🤎\n\n#natashadenona #explore #tanpalette #נטאשהדנונה #איפור⁩",
+        "links": [
+          "https://www.natashadenona.co.il/products/tan-eyeshadow-palette"
+        ]
+      },
+      {
+        "ad_id": "1628015735595012",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "993889333661090",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1553166236822838",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "4140830042881266",
+        "text": "הפריטים השווים שהתעניינת בהם עדיין מחכים שתחזרי אליהם, מהרי המלאי מוגבל >>",
+        "links": [
+          "https://www.natashadenona.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1624009935988049",
+        "text": "לוק עיני חתול מעושנות עם פלטת MINI BLOOM החדשה של נטאשה! 🌸\n\nכל הפרטים על המוצרים שנטאשה השתמשה בהם כדי ליצור את הלוק הזה מחכים לכם ממש כאן למטה!! 👇🏼\n\n#makeupbynatashadenona #explore #natashadenona #natashadenonabeauty #minibloom\n\n👀הפלטה זמינה עכשיו באתר ובחנות הדגל שלנו👀 🩷\n\nפירוט המוצרים:\n\nבסיס:\n\nHY-GEN פריימר סרום\nHY-GLAM קורקטור (בגוון C2)\nHY-GLAM קונסילר (בגוון YP5)\nHY-GLAM ברייטנר (בגוון B2)\nHY-GLAM פודרה מקבעת\nעיניים:\n\nMACRO TECH עיפרון עיניים (בגוון Brown) – אייליינר, זווית פנימית, עפעף תחתון, קו הריסים\n\nMINI BLOOM EYESHADOW PALETTE:\nBrunette – זווית חיצונית, אייליינר, זווית פנימית, עפעף תחתון\nWish – זווית פנימית, חלק חיצוני של העפעף, קפל העין, קו ריסים תחתון\nMeadow – טשטוש קפל העין בזווית הפנימית, שכבה מעל הקפל והכנף, מרכז העפעף ותיקונים בעפעף התחתון\nHarmonia – קו ריסים תחתון, זוויות העפעף, זווית פנימית, קו ריסים תחתון\nIvy shade – מרכז העפעף",
+        "links": [
+          "https://www.natashadenona.co.il/products/mini-bloom-eyeshadow-palette"
+        ]
+      },
+      {
+        "ad_id": "1787717209343641",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1722383338991625",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1064239499551703",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "905083418992541",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      },
+      {
+        "ad_id": "1010413035341748",
+        "text": "ב-2026 את הולכת לרכוש מקצוע שמתאים לך בול! השאירי פרטים עכשיו ותיהני מהטבות הרשמה מיוחדות לנרשמות החודש. מה עוד תקבלי אצלנו?\nמזוודת מוצרים בשווי 12,900 ₪ במתנה כבר ביום הראשון!\nכניסה למאסטר-קלאס המבוקש של נטאשה דנונה – מאפרת-על בינלאומית והקריאייטיב דירקטורית של המותג שכבש את עולם הביוטי.\nיום צילום עם צלם מקצועי.\nקורס מוכר למימוש הפיקדון הצבאי\nהנחות בלעדיות על מוצרי המותג.\nצוות מורים בכיר שיעניק לך את כל הידע והכלים כדי להתחיל לעבוד בתחום.\nהשאירי פרטים עוד היום ונחזור אלייך עם כל המידע.",
+        "links": [
+          "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.natashadenona.co.il/",
+      "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+      "https://www.natashadenona.co.il/products/mini-bloom-eyeshadow-palette",
+      "https://www.natashadenona.co.il/products/tan-eyeshadow-palette"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "filtered": "2026-09-25T13:00:12",
+    "unqualified": "2026-09-25T13:02:27"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.natashadenona.co.il/",
+      "https://www.natashadenona.co.il/",
+      "https://www.natashadenona.co.il/pages/makeup-school-landing-page-v2",
+      "https://www.natashadenona.co.il/pages/about",
+      "https://www.natashadenona.co.il/pages/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

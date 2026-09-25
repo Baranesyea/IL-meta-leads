@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-25-016",
-  "status": "unqualified",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -81,7 +81,9 @@
     ],
     "landing_urls": [
       "https://astain.co.il/product/acne-set/"
-    ]
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": []
   },
   "current_ads": [],
   "products": [],
@@ -96,7 +98,8 @@
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
-    "unqualified": "2026-09-25T11:32:27"
+    "unqualified": "2026-09-25T11:32:27",
+    "qualified": "2026-09-25T12:55:34"
   },
   "qualify": {
     "pages_checked": [
@@ -111,8 +114,8 @@
     ],
     "prices_in_ils": true,
     "owner_candidates": [],
-    "missing": [
-      "owner_instagram"
-    ]
+    "missing": [],
+    "site_blocked": false,
+    "owner_instagram_found": false
   }
 }

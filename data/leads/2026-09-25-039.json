@@ -1,0 +1,974 @@
+{
+  "lead_id": "2026-09-25-039",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://haircosmetics.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "haircosmetics555@gmail.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/hair.cosmetics.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/hair_cosmetics_il/",
+      "source": "https://www.haircosmetics.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972529019160",
+      "source": "https://www.haircosmetics.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "121746280864350",
+    "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+    "active_ads_count": 22,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "2723545188026654",
+        "link_title": "{{product.name}}{{product.short_description}}",
+        "body": "היי את 🙋‍♀️ אנחנו Hair Cosmetics - אתר האינטרנט המוביל בישראל למוצרי טיפוח לשיער.\nאנו מזמינים אותך להכיר אותנו וליהנות מ:\n🛒חווית קניה נוחה\n🚚 משלוחים מהירים\n🏅 מחירים מצויינים\nנסי אותנו בקליק",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648540736_1438429998071356_204059985488143494_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LvVzaz-b5I0Q7kNvwGTwpz2&_nc_oc=AdqXdDXSFI1ZA-9REWCIWniRtasR6kH3iSzXdDUOu07eaK9yzPoIZICF0GEjkUzPOeU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQLR-QbgAfsQ05EamBqgKW1SM-JdACLuEHkOQUzXQfMX8A&oe=6ABC57BF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648819205_906174065610855_4911514482870115050_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MIEiwfUinjcQ7kNvwGtnsN3&_nc_oc=AdoU6s7W0d-h4F178TNZFut0LjBGY5d2IRdYgwdqPyP9tKd_ALZdcSYopabLrkrB6Xw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQIQCsV-MIWzSdHtRhkFaErTnMTUu1iq4QLHqtmpDYwZ3g&oe=6ABC5C06",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/649299434_1517300706651678_4872468651805840555_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQeprhVzVaoQ7kNvwGz5PJB&_nc_oc=AdppaNY3tSsUKAAwNHlfQ6PcykrJrBnOyaMC5_7B3snq6Ku3nD5qLDZxLwV80NG1H6g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQJ9vxS6kzExoWfAE2XJZ86tQv7Q5b8iNLlos0PvidP4hw&oe=6ABC39A2"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1773644400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2723545188026654"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "cosmetics"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 22,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 1172,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2723545188026654"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 1172,
+    "page_categories": [
+      "Health/beauty"
+    ],
+    "page_ads": [
+      {
+        "id": "2723545188026654",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "היי את 🙋‍♀️ אנחנו Hair Cosmetics - אתר האינטרנט המוביל בישראל למוצרי טיפוח לשיער.\nאנו מזמינים אותך להכיר אותנו וליהנות מ:\n🛒חווית קניה נוחה\n🚚 משלוחים מהירים\n🏅 מחירים מצויינים\nנסי אותנו בקליק",
+        "link_description": "הייר קוסמטיקס - חנות למוצרי שיער. האתר המוביל בארץ למוצרי שיער מקצועיים עם אלפי פריטים של מיטב המותגים. מוצרי טיפוח, שיקום, חיזוק, ציוד למספרות, מוצרי קוסמטיקה ועוד!",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773644400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648540736_1438429998071356_204059985488143494_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LvVzaz-b5I0Q7kNvwEzk0HM&_nc_oc=AdrvFVnMR6PY3q4tNRCXielHy0tdWeKhLZoLtWeGNinYsyOpEb_jFOucyRU1ncjhul8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKkdPFlrBspY-UdFWRJCVfGoNdH0kLX8eRXriiiMAnl2w&oe=6ABC57BF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/649125138_1249528084047321_8344507002987701736_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PFvSvjhOzR8Q7kNvwFfIBQz&_nc_oc=AdprRSD-9AE7ul3IkOHW0a_AUPRROF8GrKlZxIJmjJTto52nIN12xj4T2RKBshRZ2Oc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQISRWZarsZQ6V5XUGdwnYZhcPcWqptvAKn-ei_hG-zdZQ&oe=6ABC3C90",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/649263591_937016842056356_8961021463466951039_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rBKsbNaBdTAQ7kNvwFXNZB6&_nc_oc=AdpfEhsgSxXnGTwVfXwL2ElIVVJypI0fquIjph8Swrw-yPkrt_VGaaMKji3QIs8wYis&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKjeqxsttrSIItAv-nJhbQ_N6SAvyj3cjeMTuVZOLXioA&oe=6ABC33C3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/649299434_1517300706651678_4872468651805840555_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQeprhVzVaoQ7kNvwHY47IW&_nc_oc=AdrH-t24mjq1-CLPU5zc3qcN7yLfvW1shhf9lUy4RVdRJ_hasKAUGvBbC8kVTbm4hBE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIGSbHn-f7dfXOY6ZRw-iGtBe6VryeOLNU6mLgIKB_GDQ&oe=6ABC39A2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648489328_1579116393386923_6310776300482804272_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dcbTvgB2mfgQ7kNvwGnxkAn&_nc_oc=Adp-00jL-QA1GfimaLnC6S9ymyZvOXjNMnq1wpgZiqTCDq5ZrL0A3m_9NS0hLe_dZp8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLM6kicAY4vqXhOQRgHcUKyFMf4D0mXRf8p_3CputG7bw&oe=6ABC4574",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648819205_906174065610855_4911514482870115050_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MIEiwfUinjcQ7kNvwFYFV_F&_nc_oc=AdobiZLbCCsTouecVNxd4UnHR-X15YOuWPjrzg9jq9AOzn1x61f_y9T3iYu0QnWxZCE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIM8iBnKA8LUxKkfsD1WdklPacPhNd9iecfl0CvaT-YRg&oe=6ABC5C06"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2723545188026654"
+      },
+      {
+        "id": "933551039751956",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "משלוח חינם בכל רכישה מעל 199 ש\"ח",
+        "body": "עוד לא ביקרתן בקטגוריית ה- SALE שלנו?\nמגוון מוצרים של המותגים הנבחרים בהנחות משתנות!\n\nמחכים לכן",
+        "link_description": "מוצרי שיער וטיפוח במבצע: שמפו, מסכות, סרומים, מוצרי עיצוב, מכשירי חשמל ומארזים במחירים מיוחדים. היכנסו לעמוד ה-SALE והזמינו אונליין.",
+        "landing_url": "https://www.haircosmetics.co.il/291555-SALE",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784617200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752893624_851679171358963_1925886514270788046_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N98-sX8zyYsQ7kNvwGA61SK&_nc_oc=AdrT4uUjYaqW48pC_RGLGjJ910BnCfHn7z81AWfkKujr5KDBzaJp7LjFijMIwgctyhs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLkOAyYlBXE6B12KALT5FZyv23PmRKZcN75INNdDQhq9Q&oe=6ABC5872"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=933551039751956"
+      },
+      {
+        "id": "1596975405280300",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "משלוח חינם בכל רכישה מעל 199 ש\"ח",
+        "body": "עוד לא ביקרתן בקטגוריית ה- SALE שלנו?\nמגוון מוצרים של המותגים הנבחרים בהנחות משתנות!\n\nמחכים לכן",
+        "link_description": "מוצרי שיער וטיפוח במבצע: שמפו, מסכות, סרומים, מוצרי עיצוב, מכשירי חשמל ומארזים במחירים מיוחדים. היכנסו לעמוד ה-SALE והזמינו אונליין.",
+        "landing_url": "https://www.haircosmetics.co.il/291555-SALE",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784617200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/750617685_1401470118501395_5537841972898432844_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CyHjBo-_1osQ7kNvwFNLkKA&_nc_oc=Adp_BV192-UWqtQ2CUWV6ZfzmC3gT9CxPMa0LNFuDWVOre21zSSTDF_LFA8_LFOLaDk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKL3FlFiKE4M9rIPUDJXr5DEvb5ibomxyInvOxtad0nvg&oe=6ABC4DE9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1596975405280300"
+      },
+      {
+        "id": "1336271555296552",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 לרכישה מהירה במשלוח עד אלייך >>",
+        "body": "המאסטר של התלתלים בבקבוק ענק של 1 ליטר! 🧴\nהגלייז האגדי Super Sculpt של פול מיטשל מעניק אחיזה חזקה, ייבוש מהיר וברק יוצא דופן. הבחירה של מעצבי השיער המובילים – עכשיו אצלך בבית בגודל סופר חיסכון משתלם.",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5774344-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A1%D7%95%D7%A4%D7%A8-%D7%A1%D7%A7%D7%9C%D7%A4%D7%98-%D7%A4%D7%95%D7%9C-%D7%9E%D7%99%D7%98%D7%A9%D7%9C-1000-%D7%9E-%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747062827_1053178843726382_8097367613303817663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mCQEU0KVA5UQ7kNvwGVElZV&_nc_oc=AdoBui4oOTsGdCUrVb4kC_hPLd6Vfb_ueaa0mOrqt79E70RXGBUSkwKi_KpTGbEzoEk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQL7IaSz7_Lz682XcaznVmn-Y0IaaSSW7fJtP9f8XRIk_A&oe=6ABC3B30",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO-ZXsFOP3AyuB2w_2SxSUFnD1vcdFEIzxCsFqtVAu_nsjvhHC8-uo8vSwWl8U5St_cd1iJHZ4aXedKaz53I0K2o516NZf7gm0NEEC0Ln86jg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WPxkalbrNKsQ7kNvwH-2XjW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3NDgyNTA5Mzc4MDM0NjkwLCJhc3NldF9hZ2VfZGF5cyI6NzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1709ee2f7daeba6c&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC83MjRDOTU2MkJEOUMzNUEzM0NFRDM1OEJBMDU4NUI5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE8JyQy8zRYRUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQLgM5MtRmP4BG-O6pKL572lM8qYYIe80gWuBqrFt5ywug&oe=6ABC3563"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1336271555296552"
+      },
+      {
+        "id": "1308146431110747",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 למה כולם קונים אותו? לחצי ותביני לבד >>",
+        "body": "תלתלים מושלמים בלי פריז ובלי פשרות! ✨ \nהגלייז המקצועי של אינדולה מעניק לתלתלים שלך גמישות, הגדרה מדויקת ואחיזה מושלמת שנשארת גמישה וטבעית לאורך כל היום. \n\nהגיע הזמן להשוויץ בתלתלים שלך!",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5774352-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%D7%99-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%AA%D7%9C%D7%AA%D7%9C%D7%99%D7%9D-500-%D7%9E-%D7%9C-%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%A2%D7%95%D7%9F-%D7%A7%D7%95%D7%A1%D7%9E%D7%98%D7%99%D7%A7%D7%A1",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748718450_1717796919457502_5064706642009585401_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2YS_YruzfmEQ7kNvwEDUtGf&_nc_oc=AdptD5A0XgB4G8TWMlpIPn0rMeBNGtfL8ipaucBI9rjfktl_T0EFNyx7EbjWK2_TEGE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLvHljTgsXkchx7vZjcH5sAafhdZJlbRXDV83qs1jgyeQ&oe=6ABC4C31",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNsR6tG6S8HlVmkmhm-aJQOYjS5OHGfxLfATlQ6E5DxoX4_hxISqUkaf5oclZAgbegmqEeUnOwDSApnB_1E_HW1P8O1jghlJlIlmjU1Nkpf8w.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mN13yhCuwtYQ7kNvwFp0hG2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDk0MjExMjUyMTc0NDIsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f7259d7c4fa10422&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC84NzRGM0FFRkE2MTJDMkQxRjg4RTc5REVCMzRENUE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEsse5hYTLAxUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQJgUWZgNZsJ4xiD5JNSYE7qyczCRJChHXJ5Web3nC5z5Q&oe=6ABC4F89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1308146431110747"
+      },
+      {
+        "id": "1045755445016970",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 למה כולם קונים אותו? לחצי ותביני לבד >>",
+        "body": "תלתלים מושלמים בלי פריז ובלי פשרות! ✨ \nהגלייז המקצועי של אינדולה מעניק לתלתלים שלך גמישות, הגדרה מדויקת ואחיזה מושלמת שנשארת גמישה וטבעית לאורך כל היום. \n\nהגיע הזמן להשוויץ בתלתלים שלך!",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5774352-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%D7%99-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%AA%D7%9C%D7%AA%D7%9C%D7%99%D7%9D-500-%D7%9E-%D7%9C-%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%A2%D7%95%D7%9F-%D7%A7%D7%95%D7%A1%D7%9E%D7%98%D7%99%D7%A7%D7%A1",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748678669_994166790101778_7145272056107993541_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UzjUBxAhq0oQ7kNvwEvNU8U&_nc_oc=AdpqvSjbpRYVAyvSXXfFOWVL-WI4U_MKGy3DVnnR4NQnimtaYzIwb_Q65MmQ2QQP9oE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJvTvqkH8Afn64dRlsjGYMQSXNKz0ZoId_xhneblbXN-g&oe=6ABC593E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNsR6tG6S8HlVmkmhm-aJQOYjS5OHGfxLfATlQ6E5DxoX4_hxISqUkaf5oclZAgbegmqEeUnOwDSApnB_1E_HW1P8O1jghlJlIlmjU1Nkpf8w.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mN13yhCuwtYQ7kNvwFp0hG2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDk0MjExMjUyMTc0NDIsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f7259d7c4fa10422&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC84NzRGM0FFRkE2MTJDMkQxRjg4RTc5REVCMzRENUE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEsse5hYTLAxUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQJgUWZgNZsJ4xiD5JNSYE7qyczCRJChHXJ5Web3nC5z5Q&oe=6ABC4F89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1045755445016970"
+      },
+      {
+        "id": "1985392338786664",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "קופון - MAN1",
+        "body": "🎁 גבר, הגיע הזמן להתפנק! \nקנה מוצרים ב- 199 ש\"ח ומעלה וקבל ווקס BIOTOP מקצועי ב- מתנה! כן, מתנה! \nגם תתחדש במוצרים שווים וגם תקבל את הווקס הטוב ביותר לעיצוב השיער שלך.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "ווקס דינמיק אייס BIOTOP ביוטופ 100 מ",
+        "landing_url": "https://www.haircosmetics.co.il/items/6977170-%D7%95%D7%95%D7%A7%D7%A1-%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7-%D7%90%D7%99%D7%99%D7%A1-BIOTOP-%D7%91%D7%99%D7%95%D7%98%D7%95%D7%A4-100-%D7%9E-%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/789507728_1868847691191490_8902629355200929505_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-iAluKRvX5EQ7kNvwE94Gdp&_nc_oc=AdqeGQSTA3xXqboFRCCznfoICHUnGyYofQvk0f1FyyBB7Mm9b3r38M81OFUas7LPvqc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLTfiU_6C62EpMzCnYPGra1P22d0tjYq6vNDGHZ6qTPPw&oe=6ABC3C18"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1985392338786664"
+      },
+      {
+        "id": "1560015275573561",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "קופון - MAN1",
+        "body": "🎁 גבר, הגיע הזמן להתפנק! \nקנה מוצרים ב- 199 ש\"ח ומעלה וקבל ווקס BIOTOP מקצועי ב- מתנה! כן, מתנה! \nגם תתחדש במוצרים שווים וגם תקבל את הווקס הטוב ביותר לעיצוב השיער שלך.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "ווקס דינמיק אייס BIOTOP ביוטופ 100 מ",
+        "landing_url": "https://www.haircosmetics.co.il/items/6977170-%D7%95%D7%95%D7%A7%D7%A1-%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7-%D7%90%D7%99%D7%99%D7%A1-BIOTOP-%D7%91%D7%99%D7%95%D7%98%D7%95%D7%A4-100-%D7%9E-%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790256529_1070609182499862_3251884180230681778_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bKcxqQjSXRQQ7kNvwHGTPDL&_nc_oc=Adqxsr61Y2jsOeyXObdc1BX2AAt0zEcSRRyAl6qikphFWGFlMTCtt2UPSFzIIOfuHNc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKcI4o46YzIU4b8oUW_8QvFuDDaK_24ZjtnryWWL9vl4Q&oe=6ABC552E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1560015275573561"
+      },
+      {
+        "id": "1612507100615478",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🤫 גלי מה בקופסה (ותזמיני לפני שייגמר) >>",
+        "body": "🤫 זה המבצע שכולן מחכות לו! \nקופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד! \nשווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "MYSTERY BOX | הייר קוסמטיקס",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790425808_1596576642163257_5687293780750193547_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DTpsCUTPM7MQ7kNvwEdcoHI&_nc_oc=AdrNkxClt46xZqzdgcUu9bo3U6sRsDPLZMDzNGfY5Q79-FY8VAltiuBWmBj3vsOJvUQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQK5jZnA1-raJaxMXQXs_fj7xRc_ulVeB_XzNxtg36nl1A&oe=6ABC3EAD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612507100615478"
+      },
+      {
+        "id": "1980735449258310",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🤫 גלי מה בקופסה (ותזמיני לפני שייגמר) >>",
+        "body": "🤫 זה המבצע שכולן מחכות לו! קופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד! שווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "MYSTERY BOX | הייר קוסמטיקס",
+        "landing_url": "https://www.haircosmetics.co.il/items/9565517-MYSTERY-BOX",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790626130_2351079029029412_5748880369585177981_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hClDqrV9VUYQ7kNvwFzmtrd&_nc_oc=Adp23rlHG4HpjLpb0CJ2tvwJf1anPi6sU_MOQVktvwjTjASUdkvdFMPMOn-P64pchZw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKLhv803MyJ5a5dylrx0DFgqjMGES1ZYxKKT3TaXszBVw&oe=6ABC342F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1980735449258310"
+      },
+      {
+        "id": "2007309743122289",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🤫 גלי מה בקופסה (ותזמיני לפני שייגמר) >>",
+        "body": "🤫 זה המבצע שכולן מחכות לו! \nקופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד!\nשווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790645381_1564379331262903_1756544994522140046_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=70ag5ClNq5wQ7kNvwH70uVe&_nc_oc=Ado64g9STGIAdeJTNHPSGolSCh0nUrf_s6COPMAGPnBenV2NfagPx4X7fsBJUHqF01k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIH6Jw2xx-XXSQHky65netcrIRgB90hh1Rv4tDiVBroPg&oe=6ABC4AC9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNQYDOqjCetAnYjYU8XT688Wh6sbH5Sn-ulGN-9FfTf9vVmw7i9OE4-lFz1finwxyFtAA1wG-BPbrWbLS4TggiK4bfO1zDr8bzgpJqNwZh5WQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=40sFLcIroHoQ7kNvwHevJRE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MzUxOTQyODM2MzY3NzksImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=de9ec5d43afd4328&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wRDQxMjQxQkM2M0VDODBGQTg1RDY1OEYzM0E4MEJBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbW4OGj-7LTCBUCKAJDMywXQBUeuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQL0e0k19xbVXPTZZIcv8NDuib6tWU7o9NIc7Je3DLAmJg&oe=6ABC2E89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2007309743122289"
+      },
+      {
+        "id": "1806457543678619",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 הבסט-סלר של הקיץ מחכה לך כאן >>",
+        "body": "נפח מהפנט ורכות שאי אפשר להפסיק לגעת בה. ☁️ \nהמוס הטיפולי של פול מיטשל מעצב, מעניק לחות עמוקה ושומר על תלתלים רכים, קופצניים ומלאי חיים – בלי דביקות ובלי להכביד על השיער.",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5774392-%D7%9E%D7%95%D7%A1-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%AA%D7%95%D7%9C%D7%AA%D7%9C-%D7%A1%D7%A7%D7%9C%D7%A4%D7%98%D7%99%D7%A0%D7%92-%D7%A4%D7%95%D7%90%D7%9D-%D7%A4%D7%95%D7%9C-%D7%9E%D7%99%D7%98%D7%A9%D7%9C-500-%D7%9E-%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/749096655_951654684000711_6425720627530740241_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=Hw3t9Ru4LZwQ7kNvwECUrcB&_nc_oc=AdrGq4xpWhYrPuQtC3y9PuBAP13wSETb3wIIhSzpGY1QMQOusKoTcy34ZbCBj_q-bxg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQI6AoAt8FSluUYFxwLsYWmDi_HItxe_gEy9rgQO30zdeQ&oe=6ABC4708",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNeE1tVldf5TGRZuaZKqI72Dna7UIV-7puY9gQSsuuzEWZoqunH0Hgf8RrjLSh0jW39IYRvbu5VL5Pbj5lzodznQ-8wZf8OyPayL4BEQsQ3Wg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=AKys9SEjP5UQ7kNvwHxi4fu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg2NjIzNzA0NjIxNTEyNCwiYXNzZXRfYWdlX2RheXMiOjcyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=562dd1724bb45a65&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9ENjQ4OTEyRkVENkJCMzk5MTQwNUNGNEI3MDQyMURCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaox_L20PWJAxUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQKYXbYB6A32LbDKGD7OfwEXEQKY9qoDLE4Vr1sWKz_dOw&oe=6ABC4727"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1806457543678619"
+      },
+      {
+        "id": "2773752653021337",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "קופון - FUN20",
+        "body": "סוכות כבר מעבר לפינה והשיער שלך לא מחכה! 🍋\n\nחג של אירוחים ומפגשים דורש שיער בריא, מבריק ומלא ברק. תפסי את ספיישל סוכות לפני שנסגר:\n20% הנחה על המוצר השני מכל המותגים הנבחרים לשיער!\n\n⚠️ המבצע בתוקף לימי החג בלבד (24.9-30.9) או עד גמר המלאי.\n\nאל תסמכי על דקה 90 - הקליקי עכשיו 🛍️✨",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/tags/261957",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819483092_1089604457355961_4960471207649387642_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qCDDvtsBxtMQ7kNvwFE1tt1&_nc_oc=AdryGu3ElsZT3BI9MsAsqg--jAog3-lRstCfRA_S-zIEgqf0TmZmYsfiyClScsUJJS0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJERmVfmL-ig7cto023S5X-5PAvAjmbmf3s6LrERWLE7g&oe=6ABC3CD5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKEmeGoIV8OC-4aKmhtSHPh2POwm35xbFU0o04MjYkXGl0Qx3uNe8iPJ8MgtX0x--4eho_7UtqrD2jjcHQletoxzifQvzHG7uM5WDunJslGA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ZIClYQxkqIkQ7kNvwHq3X1w&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMjU4OTkzMDgxODM2ODcsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=392aded6a81d62ea&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC83RjQ0RjlGRjczQzEyMkQ4MUNCREVERTJCMzdDODNBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOwuGglNmhCBUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQIIDvTU4LWFOQZlQYc-Kp7KP43GKPtcy9POREhxdEEY5w&oe=6ABC27DE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2773752653021337"
+      },
+      {
+        "id": "1656788809204749",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "קופון - FUN20",
+        "body": "סוכות כבר מעבר לפינה והשיער שלך לא מחכה! 🍋\n\nחג של אירוחים ומפגשים דורש שיער בריא, מבריק ומלא ברק. תפסי את ספיישל סוכות לפני שנסגר:\n20% הנחה על המוצר השני מכל המותגים הנבחרים לשיער!\n\n⚠️ המבצע בתוקף לימי החג בלבד (24.9-30.9) או עד גמר המלאי.\n\nאל תסמכי על דקה 90 - הקליקי עכשיו 🛍️✨",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/tags/261957",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819785406_1611865700379109_5686942770525482447_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U-ITfFIHRZAQ7kNvwGje-z8&_nc_oc=Ado-HvY4HyJpGFzD_ZOJU4iLF1H-LNC74NsIU2-7j8gpiXhdrQ_olFumcmn-F4BjhMo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKG7J3bSPpXbvXOb5PerDjUrkXh4rDzr7dX4mCG9AS-pg&oe=6ABC420E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKEmeGoIV8OC-4aKmhtSHPh2POwm35xbFU0o04MjYkXGl0Qx3uNe8iPJ8MgtX0x--4eho_7UtqrD2jjcHQletoxzifQvzHG7uM5WDunJslGA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ZIClYQxkqIkQ7kNvwHq3X1w&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMjU4OTkzMDgxODM2ODcsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=392aded6a81d62ea&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC83RjQ0RjlGRjczQzEyMkQ4MUNCREVERTJCMzdDODNBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOwuGglNmhCBUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQIIDvTU4LWFOQZlQYc-Kp7KP43GKPtcy9POREhxdEEY5w&oe=6ABC27DE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1656788809204749"
+      },
+      {
+        "id": "1037929572066935",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 ההחלקה הנמכרת ביותר ברשת מחכה לך כאן >>",
+        "body": "שיער חלק, מבריק ובריא - אצלך בבית ובבטיחות מלאה! 🌿 \nנוסחת המיקרו-פרוטאין החדשנית של pH מעניקה החלקה אורגנית מושלמת ללא פורמלין. מתאים לכל סוגי השיער, משקם את הסיב ומעניק מראה משי מהפנט.",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5775666-%D7%94%D7%97%D7%9C%D7%A7%D7%94-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99%D7%AA-PH-%D7%9E%D7%99%D7%A7%D7%A8%D7%95-%D7%A4%D7%A8%D7%95%D7%98%D7%90%D7%99%D7%9F-%D7%9C%D7%9B%D7%9C-%D7%A1%D7%95%D7%92%D7%99-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9C%D7%9C%D7%90-%D7%A4%D7%95%D7%A8%D7%9E%D7%9C%D7%99%D7%9F-130-%D7%9E-%D7%9C-%D7%9E%D7%99%D7%A7%D7%A8%D7%95-%D7%A4%D7%A8%D7%95%D7%98%D7%90%D7%99%D7%9F-pH",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/748597809_1781815322849992_1285846175303236585_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vLBN3uSwYigQ7kNvwGfZoys&_nc_oc=AdrLjb_xFkiLHcRaHnOQSG1Ux7_jdw50NifZkMejCZe3_GXPPBiyb8-aq4tgbQkwldk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKkvfR5nxGdsUvU1mO_wo6YdSIe9COY2q2cbIxNMSVXfA&oe=6ABC5AAB",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO4pqeRZFwhFYyBy3uBuAjQQqDy5MdMd0JoRalcIkaZqYfamkh-QRuJQSrIgc5VAcm_oW1oVpBjQ9F0gLTUhFyFaYM4uWsGwNSr503M9bSZ3w.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Twtrpt6G5dIQ7kNvwE1ljBi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0MDk5OTkyOTkxNDYxNjMsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=30fa400fc09a1794&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9GOTRDMTU3MkQwMDkwMDVEMzhDRkEwQUI2OEJDRUM4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbmxvua37fVDxUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQImdvfoYkgTbWbQhpCpcZcboib8cXCrX0_Jjd8jvyQ0ow&oe=6ABC335E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037929572066935"
+      },
+      {
+        "id": "1048812914788681",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 תני לשיער שלך את הטוב ביותר. רכשי עכשיו >>",
+        "body": "🏆 BEST SELLER: זריקת הלחות המרוכזת הכי מבוקשת!\n\nאמפולת הקרטין של אליאן היא טיפול ה-Best Seller שלנו לשיקום מהיר ועמוק של שיער פגום ועייף. \nטיפול פרימיום מרוכז במיוחד שמעניק תוצאות של מספרה וברק מהפנט בתוך דקות ספורות. מוצר חובה בארון הטיפוח שלך.",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5775616-%D7%90%D7%9E%D7%A4%D7%95%D7%9C%D7%AA-%D7%A4%D7%A8%D7%99%D7%9E%D7%99%D7%95%D7%9D-%D7%A7%D7%A8%D7%98%D7%99%D7%9F-%D7%9C%D7%A9%D7%99%D7%A7%D7%95%D7%9D-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%90%D7%9C%D7%99%D7%90%D7%9F-10-%D7%9E-%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747561479_2075025780034582_1168763960958648853_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hsct2bfYSxUQ7kNvwGQeU6E&_nc_oc=AdpB_LHgPWCkmUIknAFt1YZeXrylzuWfTSA_YDbZ7bFT4JQy4Ga-mLdVZmRtWwc4vN4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQK3_Avi3fGhqzFgJ-qjDJq6Ne6hf3HVobOH_Eh6VjeMYA&oe=6ABC4826",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNop8bDCzvoU2AgVC-pQ3Z0uSnvnWXyVnDTkGY_fqYY19z7GqgZPyKwn2vDCXea5ODHkZc9-SZxgYV-umOCCaCvyDzEDADtD5ucOgzjMsdpQg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=mRQiqq-y63gQ7kNvwFa9TlM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI2OTQ4NDk5MzQxMzIsImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2f17c439bb548d0f&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FOTQzREM5QzIyN0M3OTg1NjlBODEzQTEzMzJCQTk5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbozJyC--uKBhUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQJyLzzFtUFWWEw8xd8JoQngjtMJ73QFcEeH3iQWm6lo5w&oe=6ABC2D7B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1048812914788681"
+      },
+      {
+        "id": "1870251041014269",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🤫 גלי מה בקופסה (ותזמיני לפני שייגמר) >>",
+        "body": "🤫 זה המבצע שכולן מחכות לו! \nקופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד! \nשווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790684557_1435447251730927_6272711265979788291_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vZDV0HdLr4IQ7kNvwEKFSQQ&_nc_oc=Adq_8BwZGThFDZ-VMSYqP4vWk9B_BA5-BGuvTidzS7YZaI2rYlHE5rGPqE9Vwb7KfCs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIU0xw2LWuscb-GDZSvtjA1hcH3EkHKIQafdZJl8nVxZw&oe=6ABC4C61",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNQYDOqjCetAnYjYU8XT688Wh6sbH5Sn-ulGN-9FfTf9vVmw7i9OE4-lFz1finwxyFtAA1wG-BPbrWbLS4TggiK4bfO1zDr8bzgpJqNwZh5WQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=40sFLcIroHoQ7kNvwHevJRE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MzUxOTQyODM2MzY3NzksImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=de9ec5d43afd4328&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8wRDQxMjQxQkM2M0VDODBGQTg1RDY1OEYzM0E4MEJBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbW4OGj-7LTCBUCKAJDMywXQBUeuFHrhR8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQL0e0k19xbVXPTZZIcv8NDuib6tWU7o9NIc7Je3DLAmJg&oe=6ABC2E89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1870251041014269"
+      },
+      {
+        "id": "1849961369772989",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "נכנסים לסוכה בשיא הסטייל – ומרוויחים על הדרך! 🌾✨\nחג סוכות זה הזמן להתחדש בשגרת טיפוח מקצועית לשיער. קני מוצר אחד מהמותגים המובילים (La Beauté, Kava Kava, Magenta, Infinity ועוד) וקבלי 20% הנחה על המוצר השני!\n\n💡 קופון - FUN20\n⏳ מבצע חג לזמן מוגבל בלבד (22.9-30.9)!",
+        "link_description": "חנות אונליין מובילה בארץ למוצרי שיער מקצועיים, טיפוח, שיקום וציוד למספרות. אלפי מוצרים ממותגים מובילים ומשלוחים לכל הארץ - הייר קוסמטיקס.",
+        "landing_url": "http://www.haircosmetics.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796438832_2122892328434604_992840977480203339_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SQnRVpZZFwUQ7kNvwEv9O3x&_nc_oc=AdrjOhhiMRdUyY0uzi20b944p4ZKVr2vRRlpPQ3u3-SBn2AN9pZ5qwemosNkfKCABw8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJEZm4nhIlFRNt2yw2IJqbltsQM3jmn9qq4Xe7cbfzj4g&oe=6ABC4F9E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795537925_951134958067555_6876197199667886242_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qNyHZNKUo4MQ7kNvwFRH0mN&_nc_oc=Adps2ng7kqrO1ynhiMZKeV0IxMTLSmeZ3_eccWSJ4OFPILBBBi0_2atMOObRNYLaGGg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKMoazBX7NQRhmodtmFFJ3L_Oe3Kp6110-sbVZlhmiAvg&oe=6ABC5A08",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814740687_1071295775771175_4807071389116320999_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n3XRyyD5GHIQ7kNvwGdwEYt&_nc_oc=AdqWfVDLg0fBZ3Fc8FEL8kEcBrFtnkB8A4gXEWsHWRXvf0FyggyrsLqehJCsQZGTClI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJRV7UflmZU7v3vkjteaXQHqO2UtwAF8ZFD_4z1pSJVjw&oe=6ABC5782",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814393594_1126161316738061_837843892970327734_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=borkm0BYbO4Q7kNvwES8occ&_nc_oc=AdqFyKxUiIAmCwqJ7UpzTBr0PiRDSTsYrDUJcypPbjwo9QPp1rPAypBdnLkN-BgypTk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLaY0sW-CoWjW_hOaArB_86HV9c9fMGH6-wpK1dzoq67w&oe=6ABC2635",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809094723_1507075307849379_4588507932504132058_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R68S_2K8X08Q7kNvwF8RR1U&_nc_oc=AdoLzTWPVPfnHDYj94bBA2Nh9AieDPMpCqOlsgQMykT7y_JfnzVq35u9Ng-AVdPXu6o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIeGibyhcWATgVs9M550nuZM2RBy_Q6budXK76BgrGzcw&oe=6ABC3F54",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811028278_2682506532147488_3203855454970007905_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2e_nKAT7yQsQ7kNvwFlWmxh&_nc_oc=AdpbOiiuduJ8NUUGzvzVXw0uuKhe3qCw7ImbEkGwvNItiLd6Qk5ntUyDogywPSRre9M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJ0j2kgADXz1Wr8BBrhbnlcXphmzRHKhlbxVIaHRJj6wg&oe=6ABC4833"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1849961369772989"
+      },
+      {
+        "id": "1776706986855441",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "ספיישל סוכות: 20% הנחה על המוצר השני!",
+        "body": "נכנסים לסוכה בשיא הסטייל – ומרוויחים על הדרך! 🌾✨\nחג סוכות זה הזמן להתחדש בשגרת טיפוח מקצועית לשיער. קני מוצר אחד מהמותגים המובילים (La Beauté, Kava Kava, Magenta, Infinity ועוד) וקבלי 20% הנחה על המוצר השני!\n\n💡 טיפ להזמנה חכמה: שדכי מסכה או סרום לשמפו האהוב עלייך, סגרי סט מושלם לחג ותהני מההנחה.\n⏳ מבצע חג לזמן מוגבל בלבד (22.9-30.9)!",
+        "link_description": "על המותגים הנבחרים",
+        "landing_url": "https://www.haircosmetics.co.il/tags/261957",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813837704_38479277955052849_3738780809819863486_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fGqAOyfbImgQ7kNvwEZodZ2&_nc_oc=AdovlKRpgsKKYdbUsIFwoZr8PZPTpwCv6fhdAJlV6tD5Gox0XQMP8VGvyMD0mjJMqMg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIbbscnUutc7FEajxDg7GpqfhKkyt1_XnxykXMkjhLmSg&oe=6ABC444A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1776706986855441"
+      },
+      {
+        "id": "1722933085522024",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "Hair Cosmetics - הייר קוסמטיקס",
+        "body": "המוצרים שכולן מדברות עליהם – עכשיו במקום אחד! ⭐⭐⭐⭐⭐\n\nיש סיבה שהמוצרים האלה לא נשארים על המדף...\nריכזנו לכן את הבסט-סלרס הכי מבוקשים שלנו – אלה שקיבלו מאות ביקורות של 5 כוכבים ושפשוט אי אפשר בלעדיהם.\n\nבין אם את רוצה לשדרג את שגרת הטיפוח שלך או פשוט ללכת על בטוח עם מה שבאמת עובד – זה המקום להתחיל.",
+        "link_description": "PAUL MITCHELL",
+        "landing_url": "https://www.haircosmetics.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746983413_1563775295140192_8504019335324730335_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dLD7i2YVUJoQ7kNvwE5D5u2&_nc_oc=AdpB7pR-mkmxjc4ydK-ASNBpGbSBj_32G6y7ckQ7pid4giS-YtBdbN16F2W2LAQVsk0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIruNyjjRJHUDJV-0c8o4ChDbPAJzQ2mBqfxJJM2AKzeQ&oe=6ABC32C1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/748026281_1007210511944121_1053807746126400265_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FvstlicRyqkQ7kNvwFW98HK&_nc_oc=AdpP2wvXETIAXB-BoFcfhTNvKClyFywgKcOdKUkkQ8THVPLl2E7-9DHQSXfPlOgRjSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJs7RQX605rbIAQJJ9leUkhC1abOryoY6K5xFsJHC06UA&oe=6ABC54DF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748499534_2239164373533606_4775163474982463627_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xG0DgRn78BQQ7kNvwHUetRy&_nc_oc=Adq831KPDvy1VN3LGZBrKa8oP2PZqy03cZvctg8xAFaZatNRKwqP5MsEZxh0dYx-UXE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJ8qBT9TOkjQbFtuFfvs8KYq7OvrQoBwAupbkTEKDczbQ&oe=6ABC487B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747877128_1311948711116883_120215886211332783_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NLhN02PLYMcQ7kNvwHduD58&_nc_oc=AdpEAlLgugp8WazBj_AMJ1Aa13gfHpcS1PKg79K2cyKA7L_GDSCW3FrYS9XOp0eqzsQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIQ-FaLdArneosjALRWCR4tK5tWGLkhUYCKPYQhYmQWXw&oe=6ABC420C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/745542119_1647291659704861_8416743075847791121_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ekZY1bTOjg8Q7kNvwGQBPjE&_nc_oc=AdoXZHxiadrZlb99yjt98ysf7e7tavtVjZ89bqsbJGOKvmNZHs2oEvzKCQMwA6jcmBc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKDqgscRsLU2VY50NPVRxhL4h0An8niZvzlhF9HMvrj9w&oe=6ABC5916",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747736699_1834853144588171_1227172347452676082_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NPQLp4exXQ8Q7kNvwFfi1lN&_nc_oc=AdrUzB2T2t-tNkCbmqY8j-yfc5JjemUBv3ye8YKd96_TyeYYpcb9a_k9ulrjdkrxNWE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQK6oYofmiFSYqr5j0Udu5lZbdxIhFle5Raptglyj6K6Wg&oe=6ABC4D5E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1722933085522024"
+      },
+      {
+        "id": "37679921764932530",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "🛒 תני לשיער שלך את מה שמגיע לו >>",
+        "body": "עזרה ראשונה לשיער יבש, צבוע או פגום! 🚨 \nמסכת הקרטין המקצועית של B-YOU חודרת לעומק השערה, משקמת נזקים קשים ומחזירה לשיער את הלחות, הרכות והברק שאבדו לו. \nהטיפול הביתי המושלם לשיער שעבר החלקות.",
+        "link_description": "",
+        "landing_url": "https://www.haircosmetics.co.il/items/5775468-%D7%9E%D7%A1%D7%9B%D7%AA-%D7%A7%D7%A8%D7%98%D7%99%D7%9F-%D7%91%D7%99-%D7%99%D7%95-B-YOU-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%99%D7%91%D7%A9-%D7%95%D7%A4%D7%92%D7%95%D7%9D-500-%D7%9E-%D7%9C-%D7%91%D7%99-%D7%99%D7%95-%D7%A4%D7%A8%D7%95%D7%A4%D7%A9%D7%99%D7%95%D7%A0%D7%9C",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/746171371_1525029379355802_5373630120396393961_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3L5WYg1wwigQ7kNvwHw68uJ&_nc_oc=AdpQTUvqnBOBy3CM-dbNxr-PlQnKIPh7ZzXfUWWy6exUpLZzE5A1QvZJ4ovQ5I7dMnA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQLHk_mxE-GUrMhBT3gvFtP405pko9vEImFVPCWYlfcU7Q&oe=6ABC4AE8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMrIGI5dWqnPN5tSmog2ejzLSSR2jtqpDOkZtpT_X-ZOqPcm4tZ-iBpsMYpFi9wP7vIjczner_31gSVjsbrRpHqMSdjtGJU-jhMnC_lYygMcw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8tLzjmPycVYQ7kNvwEXWL_8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNzU5NDU4MjMyNzU0MzksImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4d951bbff455fc48&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC85MjQ3NzNFRDBBNDlEMDRENENDOEJFRDcxRTQ1QTE4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbepvTV-YOwBxUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&_nc_zt=28&oh=00_AQJYPw421OHPYoHBlJy06VeXYYKOylIE8V1Na_Goqsyusw&oe=6ABC569B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=37679921764932530"
+      },
+      {
+        "id": "4604089419871502",
+        "page_id": "121746280864350",
+        "page_name": "Hair Cosmetics - הייר קוסמטיקס",
+        "page_url": "https://www.facebook.com/hair.cosmetics.il/",
+        "page_like_count": 1172,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "נכנסים לסוכה בשיא הסטייל – ומרוויחים על הדרך! 🌾✨\nחג סוכות זה הזמן להתחדש בשגרת טיפוח מקצועית לשיער. קני מוצר אחד מהמותגים המובילים (La Beauté, Kava Kava, Magenta, Infinity ועוד) וקבלי 20% הנחה על המוצר השני!\n\n💡 קופון - FUN20.\n⏳ מבצע חג לזמן מוגבל בלבד (22.9-30.9)!",
+        "link_description": "חנות אונליין מובילה בארץ למוצרי שיער מקצועיים, טיפוח, שיקום וציוד למספרות. אלפי מוצרים ממותגים מובילים ומשלוחים לכל הארץ - הייר קוסמטיקס.",
+        "landing_url": "http://www.haircosmetics.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819075811_4507342859549345_2052395281966054260_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wn_n5SPfjQsQ7kNvwHXgbB3&_nc_oc=AdrpcysV7PWT1heTnte0jcUu8yfB7zZIbkAKYd4N2mKcDvbeEYSNaHFTrHyIHYo09k0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKbnpmGWd2aVKQa3ZR-495oU5WqFNthvkXlCQHd5VZPRQ&oe=6ABC2C34",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819572306_1837188617275461_1178107617607951912_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YT_hy3duRoEQ7kNvwEejtFw&_nc_oc=Adr0BL7j_NWuud0rPQafO1AeP6gNFKdjiIAWNHA-iXWyGOLHc3Pcix3lJF_q70M-NLo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKII37ppYgNwtgsg2bGu-DgPXTqwQgFoOvVt_IAar522A&oe=6ABC413C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799591590_1860862335084594_7931256330310442391_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cNw2RhUT8vAQ7kNvwFikxA-&_nc_oc=Adpo8aMUK6iuPfiA97x467cXhnmDDH4BF8JBJu4MoabddS0GdxnjXwucFIdFdkr7gtk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQJQLYUTyy-recIePbT47CCYjNdQr7VNhn6vHNhiO9Pbng&oe=6ABC4EB1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796439974_1103755565585816_2932156980870680230_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dzSWoRDbcO0Q7kNvwEPHIux&_nc_oc=AdoikDIsp1qZ7xRdPjdEUH7wRV4Yk7StpVChhM7Eu6Q4_rKijrt8L_HmS4rIcozFB7M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQKNKw7dOYoFsE04nWAi9rxlLHMfV-P5quVpkG6N221zJQ&oe=6ABC4696",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818910222_1095203399559942_1831555579637488464_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M4ZMcYW6wycQ7kNvwFIJKSV&_nc_oc=AdrKTF95wIwWUcYvx3i9tE_j2Yc3CBNr-FNdiLTULaeP-Z3u12YRCSylumYA6nSUKn4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIVc8Y_SOaoOZXfNH9mFBjrJ0ez_yA7Q2BSdWx518ozzw&oe=6ABC56FF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818491910_2108806803354630_5438089104196698206_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fd2Do7rp5jEQ7kNvwGCGUVS&_nc_oc=AdrxXCJ47AttytB3x5gH_iIYD2jADZG6tKRbEuBVho7M9OSFE0kLrUJ7aUXDZ8371wM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CTM6vc6t9CHWXD71MjuzWg&_nc_ss=70289&oh=00_AQIiG61K0Nfdzn4Vs1fHPg6Ivzp67iBlO3kF84L12JSMRQ&oe=6ABC4019"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4604089419871502"
+      },
+      {
+        "id": "2723545188026654",
+        "body": "היי את 🙋‍♀️ אנחנו Hair Cosmetics - אתר האינטרנט המוביל בישראל למוצרי טיפוח לשיער.\nאנו מזמינים אותך להכיר אותנו וליהנות מ:\n🛒חווית קניה נוחה\n🚚 משלוחים מהירים\n🏅 מחירים מצויינים\nנסי אותנו בקליק",
+        "landing_url": "https://www.haircosmetics.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2723545188026654",
+        "text": "היי את 🙋‍♀️ אנחנו Hair Cosmetics - אתר האינטרנט המוביל בישראל למוצרי טיפוח לשיער.\nאנו מזמינים אותך להכיר אותנו וליהנות מ:\n🛒חווית קניה נוחה\n🚚 משלוחים מהירים\n🏅 מחירים מצויינים\nנסי אותנו בקליק",
+        "links": [
+          "https://www.haircosmetics.co.il/"
+        ]
+      },
+      {
+        "ad_id": "933551039751956",
+        "text": "עוד לא ביקרתן בקטגוריית ה- SALE שלנו?\nמגוון מוצרים של המותגים הנבחרים בהנחות משתנות!\n\nמחכים לכן",
+        "links": [
+          "https://www.haircosmetics.co.il/291555-SALE"
+        ]
+      },
+      {
+        "ad_id": "1596975405280300",
+        "text": "עוד לא ביקרתן בקטגוריית ה- SALE שלנו?\nמגוון מוצרים של המותגים הנבחרים בהנחות משתנות!\n\nמחכים לכן",
+        "links": [
+          "https://www.haircosmetics.co.il/291555-SALE"
+        ]
+      },
+      {
+        "ad_id": "1336271555296552",
+        "text": "המאסטר של התלתלים בבקבוק ענק של 1 ליטר! 🧴\nהגלייז האגדי Super Sculpt של פול מיטשל מעניק אחיזה חזקה, ייבוש מהיר וברק יוצא דופן. הבחירה של מעצבי השיער המובילים – עכשיו אצלך בבית בגודל סופר חיסכון משתלם.",
+        "links": [
+          "https://www.haircosmetics.co.il/items/5774344-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A1%D7%95%D7%A4%D7%A8-%D7%A1%D7%A7%D7%9C%D7%A4%D7%98-%D7%A4%D7%95%D7%9C-%D7%9E%D7%99%D7%98%D7%A9%D7%9C-1000-%D7%9E-%D7%9C"
+        ]
+      },
+      {
+        "ad_id": "1308146431110747",
+        "text": "תלתלים מושלמים בלי פריז ובלי פשרות! ✨ \nהגלייז המקצועי של אינדולה מעניק לתלתלים שלך גמישות, הגדרה מדויקת ואחיזה מושלמת שנשארת גמישה וטבעית לאורך כל היום. \n\nהגיע הזמן להשוויץ בתלתלים שלך!",
+        "links": [
+          "https://www.haircosmetics.co.il/items/5774352-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%D7%99-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%AA%D7%9C%D7%AA%D7%9C%D7%99%D7%9D-500-%D7%9E-%D7%9C-%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%A2%D7%95%D7%9F-%D7%A7%D7%95%D7%A1%D7%9E%D7%98%D7%99%D7%A7%D7%A1"
+        ]
+      },
+      {
+        "ad_id": "1045755445016970",
+        "text": "תלתלים מושלמים בלי פריז ובלי פשרות! ✨ \nהגלייז המקצועי של אינדולה מעניק לתלתלים שלך גמישות, הגדרה מדויקת ואחיזה מושלמת שנשארת גמישה וטבעית לאורך כל היום. \n\nהגיע הזמן להשוויץ בתלתלים שלך!",
+        "links": [
+          "https://www.haircosmetics.co.il/items/5774352-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%D7%99-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%AA%D7%9C%D7%AA%D7%9C%D7%99%D7%9D-500-%D7%9E-%D7%9C-%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%A2%D7%95%D7%9F-%D7%A7%D7%95%D7%A1%D7%9E%D7%98%D7%99%D7%A7%D7%A1"
+        ]
+      },
+      {
+        "ad_id": "1985392338786664",
+        "text": "🎁 גבר, הגיע הזמן להתפנק! \nקנה מוצרים ב- 199 ש\"ח ומעלה וקבל ווקס BIOTOP מקצועי ב- מתנה! כן, מתנה! \nגם תתחדש במוצרים שווים וגם תקבל את הווקס הטוב ביותר לעיצוב השיער שלך.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "links": [
+          "https://www.haircosmetics.co.il/items/6977170-%D7%95%D7%95%D7%A7%D7%A1-%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7-%D7%90%D7%99%D7%99%D7%A1-BIOTOP-%D7%91%D7%99%D7%95%D7%98%D7%95%D7%A4-100-%D7%9E-%D7%9C"
+        ]
+      },
+      {
+        "ad_id": "1560015275573561",
+        "text": "🎁 גבר, הגיע הזמן להתפנק! \nקנה מוצרים ב- 199 ש\"ח ומעלה וקבל ווקס BIOTOP מקצועי ב- מתנה! כן, מתנה! \nגם תתחדש במוצרים שווים וגם תקבל את הווקס הטוב ביותר לעיצוב השיער שלך.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "links": [
+          "https://www.haircosmetics.co.il/items/6977170-%D7%95%D7%95%D7%A7%D7%A1-%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7-%D7%90%D7%99%D7%99%D7%A1-BIOTOP-%D7%91%D7%99%D7%95%D7%98%D7%95%D7%A4-100-%D7%9E-%D7%9C"
+        ]
+      },
+      {
+        "ad_id": "1612507100615478",
+        "text": "🤫 זה המבצע שכולן מחכות לו! \nקופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד! \nשווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "links": [
+          "https://www.haircosmetics.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1980735449258310",
+        "text": "🤫 זה המבצע שכולן מחכות לו! קופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד! שווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "links": [
+          "https://www.haircosmetics.co.il/items/9565517-MYSTERY-BOX"
+        ]
+      },
+      {
+        "ad_id": "2007309743122289",
+        "text": "🤫 זה המבצע שכולן מחכות לו! \nקופסת הפתעות קיצית מלאה במוצרים שווים שאתן פשוט חייבות, ב- 199 ש\"ח בלבד!\nשווי המוצרים בקופסה גבוה משמעותית מהמחיר. ששש... אל תספרי לאף אחד.\n\n* בכפוף לתקנון * טלח * עד 30.9 או עד גמר המלאי",
+        "links": [
+          "https://www.haircosmetics.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1806457543678619",
+        "text": "נפח מהפנט ורכות שאי אפשר להפסיק לגעת בה. ☁️ \nהמוס הטיפולי של פול מיטשל מעצב, מעניק לחות עמוקה ושומר על תלתלים רכים, קופצניים ומלאי חיים – בלי דביקות ובלי להכביד על השיער.",
+        "links": [
+          "https://www.haircosmetics.co.il/items/5774392-%D7%9E%D7%95%D7%A1-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%AA%D7%95%D7%9C%D7%AA%D7%9C-%D7%A1%D7%A7%D7%9C%D7%A4%D7%98%D7%99%D7%A0%D7%92-%D7%A4%D7%95%D7%90%D7%9D-%D7%A4%D7%95%D7%9C-%D7%9E%D7%99%D7%98%D7%A9%D7%9C-500-%D7%9E-%D7%9C"
+        ]
+      },
+      {
+        "ad_id": "2773752653021337",
+        "text": "סוכות כבר מעבר לפינה והשיער שלך לא מחכה! 🍋\n\nחג של אירוחים ומפגשים דורש שיער בריא, מבריק ומלא ברק. תפסי את ספיישל סוכות לפני שנסגר:\n20% הנחה על המוצר השני מכל המותגים הנבחרים לשיער!\n\n⚠️ המבצע בתוקף לימי החג בלבד (24.9-30.9) או עד גמר המלאי.\n\nאל תסמכי על דקה 90 - הקליקי עכשיו 🛍️✨",
+        "links": [
+          "https://www.haircosmetics.co.il/tags/261957"
+        ]
+      },
+      {
+        "ad_id": "1656788809204749",
+        "text": "סוכות כבר מעבר לפינה והשיער שלך לא מחכה! 🍋\n\nחג של אירוחים ומפגשים דורש שיער בריא, מבריק ומלא ברק. תפסי את ספיישל סוכות לפני שנסגר:\n20% הנחה על המוצר השני מכל המותגים הנבחרים לשיער!\n\n⚠️ המבצע בתוקף לימי החג בלבד (24.9-30.9) או עד גמר המלאי.\n\nאל תסמכי על דקה 90 - הקליקי עכשיו 🛍️✨",
+        "links": [
+          "https://www.haircosmetics.co.il/tags/261957"
+        ]
+      },
+      {
+        "ad_id": "1037929572066935",
+        "text": "שיער חלק, מבריק ובריא - אצלך בבית ובבטיחות מלאה! 🌿 \nנוסחת המיקרו-פרוטאין החדשנית של pH מעניקה החלקה אורגנית מושלמת ללא פורמלין. מתאים לכל סוגי השיער, משקם את הסיב ומעניק מראה משי מהפנט.",
+        "links": [
+          "https://www.haircosmetics.co.il/items/5775666-%D7%94%D7%97%D7%9C%D7%A7%D7%94-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99%D7%AA-PH-%D7%9E%D7%99%D7%A7%D7%A8%D7%95-%D7%A4%D7%A8%D7%95%D7%98%D7%90%D7%99%D7%9F-%D7%9C%D7%9B%D7%9C-%D7%A1%D7%95%D7%92%D7%99-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9C%D7%9C%D7%90-%D7%A4%D7%95%D7%A8%D7%9E%D7%9C%D7%99%D7%9F-130-%D7%9E-%D7%9C-%D7%9E%D7%99%D7%A7%D7%A8%D7%95-%D7%A4%D7%A8%D7%95%D7%98%D7%90%D7%99%D7%9F-pH"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.haircosmetics.co.il/",
+      "https://www.haircosmetics.co.il/291555-SALE",
+      "https://www.haircosmetics.co.il/items/5774344-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A1%D7%95%D7%A4%D7%A8-%D7%A1%D7%A7%D7%9C%D7%A4%D7%98-%D7%A4%D7%95%D7%9C-%D7%9E%D7%99%D7%98%D7%A9%D7%9C-1000-%D7%9E-%D7%9C",
+      "https://www.haircosmetics.co.il/items/5774352-%D7%92%D7%9C%D7%99%D7%99%D7%96-%D7%9E%D7%A7%D7%A6%D7%95%D7%A2%D7%99-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%AA%D7%9C%D7%AA%D7%9C%D7%99%D7%9D-500-%D7%9E-%D7%9C-%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%A2%D7%95%D7%9F-%D7%A7%D7%95%D7%A1%D7%9E%D7%98%D7%99%D7%A7%D7%A1"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "filtered": "2026-09-25T12:54:38",
+    "qualified": "2026-09-25T12:58:41"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.haircosmetics.co.il/",
+      "https://www.haircosmetics.co.il/",
+      "https://www.haircosmetics.co.il/291555-SALE",
+      "https://www.haircosmetics.co.il/items/5774340-%D7%9E%D7%91%D7%A8%D7%A9%D7%AA-%D7%9B%D7%A3-%D7%99%D7%93-%D7%9C%D7%94%D7%AA%D7%A8%D7%AA-%D7%A7%D7%A9%D7%A8%D7%99%D7%9D-B-YOU-%D7%91%D7%99-%D7%99%D7%95-%D7%A4%D7%A8%D7%95%D7%A4%D7%A9%D7%99%D7%95%D7%A0%D7%9C",
+      "https://www.haircosmetics.co.il/about",
+      "https://www.haircosmetics.co.il/https://www.haircosmetics.co.il/about",
+      "https://www.haircosmetics.co.il/contact",
+      "https://www.haircosmetics.co.il/350555-%D7%9C%D7%A7%D7%A9%D7%A8%D7%99"
+    ],
+    "store_signals": [
+      "cart",
+      "konimbo",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-25-067",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61583726597491/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "950042468201880",
+    "page_name": "Green flow cleaning",
+    "active_ads_count": 1,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "1811124483605083",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://greenflow-il.com/products/dishwasher-sheets?selling_plan=689900519725",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730373482_1672660650522254_17128261812059322_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RuQAuimW6osQ7kNvwHDRMJh&_nc_oc=AdqedA8IJ9Y-9xBIdw27rU2nmRr3z4rinjYYI_8l5u720GZK7A3o-15z864qJYZ6UOA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQLCOa3i6l5919KRFAM_7480_7Ln3TMgF6VtpgMlvLMk_Q&oe=6ABC5520",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/730332971_1033497679201260_2911603296060333454_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pGA-h1peRtYQ7kNvwF9uvDT&_nc_oc=Ado4gEgtvEJdquUXIdhVr00GjMXwX3vkBwoW1NoDV-oeopHsRa3xT_NSOvHjuA_4Z3o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJQXGHXEUGQJarlTztXUur-T9y9iEykv6wyt3Whel-10g&oe=6ABC32A8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730373482_1672660650522254_17128261812059322_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RuQAuimW6osQ7kNvwHDRMJh&_nc_oc=AdqedA8IJ9Y-9xBIdw27rU2nmRr3z4rinjYYI_8l5u720GZK7A3o-15z864qJYZ6UOA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQLCOa3i6l5919KRFAM_7480_7Ln3TMgF6VtpgMlvLMk_Q&oe=6ABC5520"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1782457200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1811124483605083"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 171,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1811124483605083"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 171,
+    "page_categories": [
+      "Home & Garden"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "rejected": "2026-09-25T13:06:50"
+  }
+}

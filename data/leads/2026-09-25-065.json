@@ -1,0 +1,146 @@
+{
+  "lead_id": "2026-09-25-065",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/sgalgal.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "353564024766269",
+    "page_name": "Sgalgal - סגלגל - טיפוח. בישום. אווירה",
+    "active_ads_count": 1,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "914434311649411",
+        "link_title": "{{product.name | titleize}}",
+        "body": "כל המוצרים, חומרי הגלם והעזרים שצריך במקום אחד\nאיכות מעולה * שירות מצוין * מחירים הוגנים",
+        "landing_url": "https://www.sgalgal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/481703827_1821855191913705_7775756871032632996_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5jjNbwUzz0Q7kNvwHN33wn&_nc_oc=Adq8eU5CgZwcwiEb_I5VyepoRYlM-jSyTmDPmAzaZu63X9KMF6rEMr1YiuiK-3KC3rU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJHPbWE9h50cY3NQckVFMg1auws_hoNMUTRGoH7Ou7avA&oe=6ABC4C16",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/480669228_3593940144239686_4826544074372908617_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gY7x3w1a-2MQ7kNvwGCgAJg&_nc_oc=Adrio4N3jdAxYfU9lVTdwSofoThHqUeNSoQ6dS7Qjicouoq5jbJUUlkrF_AHkljnKbM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJ-5AtSPsLsgaNwEv2UOwLmHhRdcmCanLuy6ivTpjNQrA&oe=6ABC39C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/481290933_980503720300743_6781616111753106073_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pW0Zhe__ec4Q7kNvwEmfAGT&_nc_oc=Adoz1cDZCtJhLUtwHQFGSfd3CYPyp7PO_V330JkHii5r37clWtX3usd0890Lfq7Vwew&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJGA6YkPcW3Eo4Zs01mOWwzdC8HoAaBZq5sYFMhMVje-w&oe=6ABC59E9"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1777878000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=914434311649411"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 7526,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "914434311649411"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 7526,
+    "page_categories": [
+      "Beauty Supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "914434311649411",
+        "page_id": "353564024766269",
+        "page_name": "Sgalgal - סגלגל - טיפוח. בישום. אווירה",
+        "page_url": "https://www.facebook.com/sgalgal.co.il/",
+        "page_like_count": 7526,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name | titleize}}",
+        "body": "כל המוצרים, חומרי הגלם והעזרים שצריך במקום אחד\nאיכות מעולה * שירות מצוין * מחירים הוגנים",
+        "link_description": "בסגלגל, אנו מתמחים בשיווק חומרי גלם לקוסמטיקה טבעית וחומרי גלם להכנת סבונים. אנו עוסקים בפיתוח ייצור ושיווק של מוצרים ייחודיים, מוצרי טיפוח, ומוצרי בישום ואווירה. מו...",
+        "landing_url": "https://www.sgalgal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1777878000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/481703827_1821855191913705_7775756871032632996_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5jjNbwUzz0Q7kNvwENKyR_&_nc_oc=AdouPEqJsHJYu2IiBTOQ5CUq6IR9keVrZkbokRVQBlaO1ZMshuLIGjcwGN2emyxQ1Lc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQKtrnPP0bM_ltnbWqOJ00An1y4JU3va9mSW1JRPeaAicg&oe=6ABC4C16",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/481143930_1322723825714077_4079591552129796913_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xpmf0-UVJDcQ7kNvwF55hBm&_nc_oc=AdqwBchA9Kiz7PiLa9lTddz-eFK5rlOBTrXzL0FjaPZBFKgsk50PqcLwnBWH-9pqpJo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQKBPFpyMEPqKG_-9smkN_OL10MwGCTDy_UgKn2gNsKAkw&oe=6ABC59FD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/480820772_1164033995232831_9204551176371565964_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-mrJFQgUV4oQ7kNvwFxeTo_&_nc_oc=Ado0yTrQ29HcvBHPGXAcMH-Dy0Tso0unnGlN_G3n5JW2DR8hJfmEpHedjQZ9VoL2VIg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQJwnt9VuHRByjiu-qsZIQmKZwuurQL-XBRs-SAcJlavDw&oe=6ABC500C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/481290933_980503720300743_6781616111753106073_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pW0Zhe__ec4Q7kNvwFCGxSD&_nc_oc=AdqoJygK_wQsTzol6W35WYqyiNDZjOhQEvvEumPBm6hFNMRBrUSAC4SVtfjm1mY1ocE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQIg3loCiMW9qVbikwuBd-M-HmUWNw2TCMLpQA6oKXvdeA&oe=6ABC59E9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/480669228_3593940144239686_4826544074372908617_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gY7x3w1a-2MQ7kNvwF_2mkJ&_nc_oc=AdrZA6KDKxTbzmxbLe6W4SOMWknDMJhO-jMD8l-utP848NoWY7KQvv-OFjqKlQKnCtg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQL1h3rBNX5DTGUIKup2uJnn9FbMCeUgvSKCpP45MZ2D-w&oe=6ABC39C2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/480800372_1081514723730581_8465321378960273155_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BlTNMSnj3fYQ7kNvwEzL8vL&_nc_oc=Adp968vUmOmxPkxQmC2BqzCp3Pkg9s6rcJzlR-amVS66lNmhCZlPjcPsqw6wXMnZZjw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JWURIp9eEzVmzMR3qyyHWw&_nc_ss=70289&oh=00_AQKnHVmX1i60VnVVsDGPIdCSO_Yda0feM4QcZyNkTeNShQ&oe=6ABC5108"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=914434311649411"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "rejected": "2026-09-25T13:06:38"
+  }
+}

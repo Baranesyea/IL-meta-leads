@@ -1,0 +1,1244 @@
+{
+  "lead_id": "2026-09-25-057",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://steimatzky.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/steimatzky_israel/",
+      "source": "https://www.steimatzky.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "239679701991",
+    "page_name": "סטימצקי",
+    "active_ads_count": 48,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "1127501752603728",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527149729_613582491795127_4020860027861197869_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fAZAD3MGoO8Q7kNvwGPAdxq&_nc_oc=Adp-QEq716KmERMZPqeQZ_hcEwWvWFJnPLLu2sqsbZRmtxXuWvc5hSWR98rYFZw3VAE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQLXM8U7LSOFB_yHeAVmFnvtoQ_y2fLgYN7WYkuPFIVWDw&oe=6ABC2F2A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/526835481_732934472910501_3604809039707032585_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o13g1dGNEYAQ7kNvwGjPdH4&_nc_oc=AdpLQyVVhN86tXjPgJx6XWhhi-ix0w_oWRy3zAiKAj_bIjuSR68Z62pX6mxPOSEedFo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJq9JeV1waiv2vhyiizco4rr5aB4MsTMx0nZVARIlbIcw&oe=6ABC3048"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1766908800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1127501752603728"
+      },
+      {
+        "ad_id": "1147527343852261",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/528486165_649091144249233_1303357729143019717_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jGmoIGkkZekQ7kNvwELb9Cd&_nc_oc=AdoiHtueou7PvXCdI0ZFQzl5KKr4vJNPhpFvccKJJDZhS-IatI2mTKf9YYwbFh-JME8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQKQ_SSc2vbjoarpeAYQIpN669kvimDEBE9A36VfzFl5Vg&oe=6ABC3009",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/528503009_773352378491366_1586838979139186254_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oj69joFRPaIQ7kNvwGcuXxw&_nc_oc=AdpyjMbyleIA4TZ698TzO2ceoVF6Xj7C5zoRkwng9U2PZ_Nj-ZdhT5_N_1ayDIIYS00&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQIkvGYLh2WPxEFG4Xg1ylIfQYagYrXnWuI-JajTCl9VTQ&oe=6ABC415F"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1766908800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1147527343852261"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 48,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 153251,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1127501752603728",
+      "1147527343852261"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 153251,
+    "page_categories": [
+      "Books"
+    ],
+    "page_ads": [
+      {
+        "id": "1127501752603728",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1766908800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527149729_613582491795127_4020860027861197869_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fAZAD3MGoO8Q7kNvwExFTlo&_nc_oc=AdoyYmZDttz-9Z0gD--9PUcZDiO9ORkFU7ucnSiW2M2YNXYDopEi_QdSQwSwAsOWUWg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQL0s0NkwXg3ZkjyktoQI1XUNi7AmKQlebSEA8-zUSnwTQ&oe=6ABC2F2A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/526835481_732934472910501_3604809039707032585_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o13g1dGNEYAQ7kNvwHav3Gj&_nc_oc=AdqsaAcNVGPKV9UUbO8soeH0kFpkv68vylUA1CX7LB15SYKFbKtG3n0SA8F0C50fKhQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKa5SAbz5ekZZOv1QdQg1VHqjyAD6tHtt7WQl7JeyQnNQ&oe=6ABC3048"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1127501752603728"
+      },
+      {
+        "id": "1147527343852261",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1766908800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/528486165_649091144249233_1303357729143019717_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jGmoIGkkZekQ7kNvwE9M1DW&_nc_oc=Adp8aeZGb9pKfMD3jWyQXD6a-SoCr2NLiN_mSltW7wPYd7Y57lWGrWSZjcQWfaX0yKU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIR9UqL8HG1ntHVBDVfMHYuvs7lX6Bk2Uxy7KMSdGsunA&oe=6ABC3009",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/528503009_773352378491366_1586838979139186254_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oj69joFRPaIQ7kNvwEohmDC&_nc_oc=AdpiOhcl4lKKE0DnMpG57TbT9uE4_XuwRK63aqWZtodOrKwM2X998YgCTcciiNp4r34&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIzbHY0ObZK6mcqWiZVcbV5QvR8CmrT3ppklB_tEI5MDQ&oe=6ABC415F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1147527343852261"
+      },
+      {
+        "id": "1665296241227760",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://itunes.apple.com/app/id1357592005",
+        "cta_type": "INSTALL_MOBILE_APP",
+        "cta_text": "התקן/התקיני כעת",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 4,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732770010_1391615653162080_6666115823407575944_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2tP0yXdUvfYQ7kNvwG4xaMm&_nc_oc=AdpXnFabmEFDzjbIU_HIOA13cAw3rKC--2TXUkveGd2cSMAsBuvrvB-5MEQhepasbuA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLAhTErBe3deHMu7Bc79ggU7v_5lyX48K4a__0JzBBexA&oe=6ABC5E70",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/732838197_839567045691660_1298909086896522918_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=93Zp-0VecTgQ7kNvwGkTtyw&_nc_oc=Adp3wP-kvMHMqFRlt1bTDHEhmLQRekGNZJgunGPFQF8RPYDWRjPTjNWW0HaRNUgthOI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIPWHawgrVPUZWL5OjqUFyZyZhOm7MskOeiokrhGBcQ6g&oe=6ABC533E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/732838197_839567045691660_1298909086896522918_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=93Zp-0VecTgQ7kNvwGkTtyw&_nc_oc=Adp3wP-kvMHMqFRlt1bTDHEhmLQRekGNZJgunGPFQF8RPYDWRjPTjNWW0HaRNUgthOI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIPWHawgrVPUZWL5OjqUFyZyZhOm7MskOeiokrhGBcQ6g&oe=6ABC533E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1665296241227760"
+      },
+      {
+        "id": "2069409847324230",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://play.google.com/store/apps/details?id=com.getbooks2.android",
+        "cta_type": "INSTALL_MOBILE_APP",
+        "cta_text": "התקן/התקיני כעת",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733810400_1693509461856973_1085918086076149708_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sheSuZ-nPFMQ7kNvwGeELg0&_nc_oc=AdpKvUoJ4N-l9hlfcjPPUXIboORNb5NUGVKzFLLO9RSr0liuJGhJFtFQv3TCiDFfKFM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLwZ12AmzWTD_ntcuuN3SrRxb5ODh7hIgJLiVPQbmxJqA&oe=6ABC45DD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729186354_27436512166002106_6375394463978399910_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IcYOJR0bXPAQ7kNvwEHGN0X&_nc_oc=AdpTTA4SlRbBobBgf9-c4kOeWfno2S86KroImyLak7dWhG6_BIgXAiYVByZCHUfhZE8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJzIwoFCix7a4kZFXbl-YB9ce4CbHjSsPKVdZGF7L_LJA&oe=6ABC4680",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729186354_27436512166002106_6375394463978399910_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IcYOJR0bXPAQ7kNvwEHGN0X&_nc_oc=AdpTTA4SlRbBobBgf9-c4kOeWfno2S86KroImyLak7dWhG6_BIgXAiYVByZCHUfhZE8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJzIwoFCix7a4kZFXbl-YB9ce4CbHjSsPKVdZGF7L_LJA&oe=6ABC4680"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2069409847324230"
+      },
+      {
+        "id": "2552164888553215",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://itunes.apple.com/app/id1357592005",
+        "cta_type": "INSTALL_MOBILE_APP",
+        "cta_text": "התקן/התקיני כעת",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/735157383_1812875706539746_157434697649560167_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TM5AHB6f3fQQ7kNvwEDHUYe&_nc_oc=Adochpr0AUzQZSkFISUc9bCkLEIDCVnW83sZLdV4to38NHzkTnwPhVZaHTZNHO-tM5Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJAEyLgjjPnS30pS6pEbKpHaflHV7UljlNM7D3jgNI4ug&oe=6ABC28AB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734932291_810142602065821_1741389006870254587_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jiawGmNa0ygQ7kNvwG7ZugD&_nc_oc=Adrjp7PIvl_P_MN4fIyKBYm94oo7Bas-dJSa3VoCgKmLRi4POHLhq95FQf8uDAeLmeI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJLABgqY_HoV8UIITlWYCS3gy3RqtXS8VFDtyeD6y7nSg&oe=6ABC5803",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734932291_810142602065821_1741389006870254587_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jiawGmNa0ygQ7kNvwG7ZugD&_nc_oc=Adrjp7PIvl_P_MN4fIyKBYm94oo7Bas-dJSa3VoCgKmLRi4POHLhq95FQf8uDAeLmeI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJLABgqY_HoV8UIITlWYCS3gy3RqtXS8VFDtyeD6y7nSg&oe=6ABC5803"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2552164888553215"
+      },
+      {
+        "id": "1630938437945772",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.current_price strip_zeros}}",
+        "body": "אנחנו פה, מוכנים להוציא אתכם מהשגרה. אתם יודעים שאנחנו חברים ותיקים, וכשצריך לשנות אווירה, הבחירה הטובה ביותר היא תמיד עם ספר טוב 📖\nבואו לברוח איתנו! אנחנו הסיפורים שיפתחו לכם עולמות חדשים.\nקחו אותי לאתר >>",
+        "link_description": "סטימצקי - חנות הספרים המובילה בישראל. אלפי ספרים, ספרות עכשווית, ילדים ונוער, משחקים ופאזלים. הזמנה און-ליין עם משלוח מהיר או איסוף מהחנות הקרובה אליכם.",
+        "landing_url": "https://www.steimatzky.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661551362_1341532094462640_1457699891864700526_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fJHbc5bzTc0Q7kNvwHEyQb-&_nc_oc=AdpUaD1B2wgSy1UgE5Wy0k7JP9vwxe4vLq7d_L7jafBWU8oxJo_wLIAzFvs6L7eMaeA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJ9hPv0VME82AotBjaiZNmmkNNA8TjljRGmYkMjYRxFFg&oe=6ABC3441",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/662346717_1734064877574844_2676534135382903405_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fR80KPmfyzAQ7kNvwF-oAFq&_nc_oc=AdpQCBZQjgJ9zulth5iyQIvic5KrXL_NkG240jRyO-ei4gEZk_pOaumLMpAD0fskd_w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJbVHqu5ICsozJjdbOfH9V3s0vWGcwHdBKBCMUQ092qgQ&oe=6ABC3CAD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/658914035_2660549847679149_4882004975028555033_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8mqwV8dh52gQ7kNvwGmnmwL&_nc_oc=AdoKQo1txjRazJ17_CLQWGgoT0Npnh_Dq1FDXhUgDZOGNG9Cfg4KZJAvSinhpiDgZ3M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQK8n9FzHbWEItFKQc0vWmjTtJIi3ePqKGeYTxgTnhTLKg&oe=6ABC5CE8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/660101600_1423320775775125_5289700856775137055_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8NrZPKgxRg8Q7kNvwEG14cz&_nc_oc=AdowYXKV8MlaEaeqvU0S2oZBXgkO-xqwvVwItAYc3L3uiohXoXZqB4R7Th9yKsA-XbU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQII5CMytkoJBtMF7QCqnzIK1Dbu85MmF3Vo0htjDAbB9Q&oe=6ABC44F7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/657344465_2481220522343728_8949777837343177411_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dn4kTFM_538Q7kNvwHiq072&_nc_oc=AdqUXuFrdt2PtbBNoKyDLE9hOJWNnR9_klgpMxsXlNz6A2Ec4uNAjxYPmjsRoK1tuRk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQK7wobhyZUmV09GJ3PhRRUPod56sQ7LueiwDJykaVw5ug&oe=6ABC50E0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661342192_1045456588657117_5169658866184581988_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eoHxE8uFZsAQ7kNvwH37_bB&_nc_oc=AdrfXwwB0CqY61sAdVcIEZiXdPSC1nu2is-OSU1NvcRxfTHNOAiTQ0Q4XD1J5Wr5ALo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKxP-Q_4EtQRwMnMarVlFdv_xJvAt51CGL53MmtzzBQjw&oe=6ABC5D7D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1630938437945772"
+      },
+      {
+        "id": "1698014251448099",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782889200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/736540098_1576893697414690_1181394495772535146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dr2vz_XxSy4Q7kNvwH_r05v&_nc_oc=AdoaeBAU3rVKSt4P833tbEiRaeTA8o3eog3DNAgDkvnc0CQ-K_5lsle3wTvOfYfqOD4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJ_1YlORQtQeqMekC14uJQjRrTjFr856mWYqGSetK423w&oe=6ABC34AD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736455974_1019110437527449_6581113042687486877_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mxnD_f5TtygQ7kNvwGbYKMO&_nc_oc=AdrrGG1OrXgB9evRD7m8g4uRgal0px5cdx1KKInwnPcmpexG0OoYRgVSGKMsMLo7oI8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIhUUl9YeaU0kOd0hFg56Gu5qUY2-LRbW-sZPoTR-W3eQ&oe=6ABC28AD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1698014251448099"
+      },
+      {
+        "id": "1227872730403301",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782889200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/735909148_1508266156969204_6676159766943450187_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1nvzZbEKsRsQ7kNvwEyx1NM&_nc_oc=AdrnTaFQR0534J2AKqBBnCYG2WxHF_NCZpA_QWcmVivpN4uvs-9hL_Bt5p14SjEDhL8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIub9g9TmaRjTpDTLo-jItGjemGpI8AEa_13ha4vAhHsA&oe=6ABC34CA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734862835_4075730409226787_3984986612539160021_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ByoZkcijKMsQ7kNvwHkD4wt&_nc_oc=AdqyJYpr0trI-Ka7qbTEwmvAiPg6qLiQwGtebWnBg_zpu44m2zno5NX1l9JITjBwCp8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIbgMAxdI8UeCLvcD3ZxT_7lPq-xEbS0C_WLU87qnr4Mg&oe=6ABC2E08"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1227872730403301"
+      },
+      {
+        "id": "1541132714322743",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782889200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732871911_1059884006604888_6765460641026412472_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8qL_mwpl8jUQ7kNvwEIvCxr&_nc_oc=AdpgsLZQRm06YbXpe71bS9brY40CCvxkQJe0jhd3o0DiHtD8ab33BgXDel-V9PdC4UM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQI7hgmYdPxtljpUSa4KmYF42KVAgJdVrCn0TMxPjfXLYA&oe=6ABC3132",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734555281_998366669476047_4888862067553933863_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=afeI8TPCoAwQ7kNvwEKpRbr&_nc_oc=Adoea7WIXJKLRiUuMOuacf_Cpj8Bi5nnoz0_jq5LnkxkE-_-yFrLorT0h6ffz4iky2w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIVftuG2VS7zJ9qRJYjGjqK1nwHyyD6pa7cCM28eBzNfQ&oe=6ABC41FE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1541132714322743"
+      },
+      {
+        "id": "1629982745496559",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "יריד סוכות במחסני סטימצקי",
+        "body": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "link_description": "",
+        "landing_url": "https://www.steimatzky.co.il/irid_sukkot_2025",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795475796_1398647822342989_2191244466665362457_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c3gZNvyZGnAQ7kNvwFas-dv&_nc_oc=AdpU0-PURNvLsoPkEvpwHkV2EY6oLemsUKHCC2exhJyJu26nQEcBaRijgjheqcdXp0U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLrnvR-n4yqvj580mCsL_LrxikDAubCnGd5_bVPQE9cZw&oe=6ABC5C92",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/817118981_1808587526825713_9193276356972443177_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rFJwFpUe5eQQ7kNvwEuTNvs&_nc_oc=AdrjCJUqbGUkNLXIU3-oMUitC6mSBjScSGAnuTRltul2g65yskQ3cR1qxgqb2RuT9qc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKLFgM070WrSf_UW0dHY_xDPT7zTrcoT3Uftpw3aTUoxw&oe=6ABC4015"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1629982745496559"
+      },
+      {
+        "id": "1734345267547487",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.current_price strip_zeros}}",
+        "body": "אנחנו פה, מוכנים להוציא אתכם מהשגרה. אתם יודעים שאנחנו חברים ותיקים, וכשצריך לשנות אווירה, הבחירה הטובה ביותר היא תמיד עם ספר טוב 📖\nבואו לברוח איתנו! אנחנו הסיפורים שיפתחו לכם עולמות חדשים.\nקחו אותי לאתר >>",
+        "link_description": "סטימצקי - חנות הספרים המובילה בישראל. אלפי ספרים, ספרות עכשווית, ילדים ונוער, משחקים ופאזלים. הזמנה און-ליין עם משלוח מהיר או איסוף מהחנות הקרובה אליכם.",
+        "landing_url": "https://www.steimatzky.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662081143_1430023081670347_2188056669769580411_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mK5iflyTskoQ7kNvwFdcymZ&_nc_oc=Ado8RrQwSKAyD7EqFveP4YYj9b2Jb59xTm58uOoSpWTEdcGeTaqELHgaXvf-bboWoHU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKS4YfMS1FMkIrp2hWyrc3H8JS6cFEL4oRp7v-ntDdqWw&oe=6ABC3FE5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662081143_1228830799412717_3385056880092757585_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y9EuWEv2j1AQ7kNvwFmQLm3&_nc_oc=AdrOADA15mClosriWMYlizb6TNqloYd0U627uyVtOl4tcbIJ2bEBZ_JHX16e94WvvV0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIX5rrbuVSut9mlTUaTqGKcYwR7mgezhzEXUYj5-IJlUA&oe=6ABC2D01",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662130322_794953790339409_6941792930571991107_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FPykmlf7FHoQ7kNvwFYz9Wq&_nc_oc=Ado4SFJMJx8q2Mfzpu2UUW_vLi2sYk3bUxNxDrS3MxglLNIArUdWq2Usw074Wd7YrzY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIhpyB6k8_AvijP4g1oy58c6BQ1ktao0Bi6R3TokMX0zw&oe=6ABC3397",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662510320_885207191199559_8652695888915243096_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=COqRN48qck8Q7kNvwEHhQL7&_nc_oc=AdoZayj72nnYPxcOLOpIsMUWhbXshWlBK5KnyVWbU9195z-g1Xj7ixxalrGMEyDgKxA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQL3WtN4kPqW0DCiZimwXiXbz1rai0IQAqS1O9QNUaJDfA&oe=6ABC37AA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/662066180_2171071546997200_3287903184169994728_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7cyzFVkLJtwQ7kNvwFCOGsK&_nc_oc=AdoWecqK4uZF5sDiFcPDYLBUO1eIqLMkojzK2ptmacdul-K7QIwo2AbxH9RpyN9G_UM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIgZ-MK3OEK60A4szXaATs03GfLZJkuUb9H61Fab1Z9CA&oe=6ABC3F8C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661473381_26639167359033761_7487112277313330909_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A7KV6N5almQQ7kNvwHs_TW5&_nc_oc=AdrttHHNSEioj0rzDmr3SHSMfUI16DOF_t_S4jGF3rIhN96hCI1e8nRK8H3Ii1PunEQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJh40EcwbTGunL0swg6f-1H7SJqm4tbkKTQlm9uzA7dAA&oe=6ABC4032"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1734345267547487"
+      },
+      {
+        "id": "1278528060813055",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640528578_26003817995905412_457646418441053706_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Pl3FrLVBM0sQ7kNvwFv_Mib&_nc_oc=Adpf8mtLGFhuPr03D0td6o90e72OCdv6h3kEV3uOqY9IqPmHCisL-N6E-mAsU5t5h-U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLY3RttVytra9Qmut5k3Js7-P63iKVaGL2Ux96CY66tUQ&oe=6ABC5D54",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641452213_2025890497962418_6465453658545194858_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ze8QSPpcqPQQ7kNvwEXO0UD&_nc_oc=Ado2safIxpPqRnRQLMV9nVDVN_CJRl0X-GKSVQomJzHpWalA9mNmghEBgOPUlnLi51g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQL_fnUIRsbNUJAsu3w7g5syW5OEnse3shirdETpPFQDGg&oe=6ABC416D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1278528060813055"
+      },
+      {
+        "id": "1434931031755426",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/642811313_1305868598040312_2238431288503821172_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uBM_QqiVppgQ7kNvwEXHTDT&_nc_oc=AdotYH1rThqh9Iz_vkrujaC20zfIMgAr3QmPYy57NPHghJ1VL710n2Sq352j-1ibmGY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJdC_sk2yr48qBz9o11jwI8lLrM1Rm6J4Sxo9YLM2fjKQ&oe=6ABC51A1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/640387954_1478208597223198_3662710662689212394_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QsVHH7VLHWIQ7kNvwGBLZQU&_nc_oc=Adp1O_eRBZwQaxSw4yoo5MfZNpK6bQ9LQB-1U5wJFgPMkISIOlwSoNY7Qnzb9rrurNQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIwQbcjKvjUbBnzm5syOFFJMC10WvPdq9L8LKpTi6KCZA&oe=6ABC3C98"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1434931031755426"
+      },
+      {
+        "id": "1246786864254963",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/643734755_1186974926600080_7790925882031565275_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8NdgrpXJ7ksQ7kNvwGuw67e&_nc_oc=Adp5WMi44PST654rxyn3q4ebD8nBprfzSB_ntFvvNQ9KlXWb6RjpvmtBvFsxs7mJ4sg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQL5X_KZBJo_j1-Qb5fDlIEQZrDljq8sLQEjeqAL7QY2LA&oe=6ABC46C3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641634751_1435312941599532_68462109328361655_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YvUdgR4E7fkQ7kNvwHda2Fo&_nc_oc=AdoR0BB-IExp0GMK3DOoaeZUOQa31gHJ3rFbCF0H6pA2kQUF9csOeR8V845gO7R9MPQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIsUoeuRUgZOT-L_ESNtp9_ufw-zBorvxJQgGW46QL_Tw&oe=6ABC3630"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1246786864254963"
+      },
+      {
+        "id": "1054077210837164",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "יריד סוכות במחסני סטימצקי",
+        "body": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "link_description": "",
+        "landing_url": "https://www.steimatzky.co.il/irid_sukkot_2025",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818854911_2942071926131331_1066141578662141575_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aa-cL9N07h4Q7kNvwEznqFC&_nc_oc=AdqvV5xlPwOnaiP-gAZp200tiSDRWwbIUQNI8sFlGoJa-KofSCqzgbgbxoU0w38ZUVM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKHmdHJoMlyn81nmPv-JbKnHY7emuWiJirndfQOQtBynQ&oe=6ABC5438",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPlUTUPFE-pnm_YWXTQJTcXnzo3amt6nmEJAgsTvHjqTpcb37Pds4vk_aR7WoGlpmsaAGOLnWy-kRjLeP1vWiRLK-YeCenw7nElwHqvBYY3oQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0MN5aEuwzOsQ7kNvwFKpsCI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4Mzg4ODcwMTM4NzY1OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f8a5771c71845e97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ4REI0ODcwQkJFQkM1MjQ2NUYxRkZBNzU4ODQ5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBRUQ2NEExM0ZEQTRGRjZBMzg1M0QzMkEzN0Q5QUREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWztuI7rW_AxUCKAJDMywXQDdmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQLNYsOf_vXG0atn97z5mYqlT9Er3g3zxZ5tRNSwCL1Iew&oe=6ABC4244"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1054077210837164"
+      },
+      {
+        "id": "1811097026901546",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "יריד סוכות במחסני סטימצקי",
+        "body": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "link_description": "חול המועד סוכות",
+        "landing_url": "https://www.steimatzky.co.il/irid_sukkot_2025",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/815157707_1812706656831869_3606752645395041273_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GcNnMa6TXGsQ7kNvwGIFfjg&_nc_oc=AdpKJ-lY4YBMzcodI3iqfG3G-2_LLCU4WPEZfM42MkOWQc09CltvduGRm9Vd7sezF04&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJ-FKCQFxyAq0EjdD_49Oew_Mto-luMuyNw-IbGc6IchA&oe=6ABC4FBC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPlUTUPFE-pnm_YWXTQJTcXnzo3amt6nmEJAgsTvHjqTpcb37Pds4vk_aR7WoGlpmsaAGOLnWy-kRjLeP1vWiRLK-YeCenw7nElwHqvBYY3oQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0MN5aEuwzOsQ7kNvwFKpsCI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4Mzg4ODcwMTM4NzY1OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f8a5771c71845e97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ4REI0ODcwQkJFQkM1MjQ2NUYxRkZBNzU4ODQ5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBRUQ2NEExM0ZEQTRGRjZBMzg1M0QzMkEzN0Q5QUREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWztuI7rW_AxUCKAJDMywXQDdmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQLNYsOf_vXG0atn97z5mYqlT9Er3g3zxZ5tRNSwCL1Iew&oe=6ABC4244"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1811097026901546"
+      },
+      {
+        "id": "1760952141847704",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "יריד סוכות במחסני סטימצקי",
+        "body": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "link_description": "חול המועד סוכות",
+        "landing_url": "https://www.steimatzky.co.il/irid_sukkot_2025",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819110335_2689236874864795_181243037220523986_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uQ3UjvTcDbkQ7kNvwHnnvKT&_nc_oc=Adp0i96YwsMI8F6my0Kj-EgX_geTiEnpnfkjToZQ_IktqW6nXfLF-3uJF3kqAoZKFn4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKDXPr4Gb-eXT-wlLovlT4NGrpGhR7_czXkLLaXPjskiQ&oe=6ABC3C86",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPlUTUPFE-pnm_YWXTQJTcXnzo3amt6nmEJAgsTvHjqTpcb37Pds4vk_aR7WoGlpmsaAGOLnWy-kRjLeP1vWiRLK-YeCenw7nElwHqvBYY3oQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0MN5aEuwzOsQ7kNvwFKpsCI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4Mzg4ODcwMTM4NzY1OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f8a5771c71845e97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ4REI0ODcwQkJFQkM1MjQ2NUYxRkZBNzU4ODQ5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVBRUQ2NEExM0ZEQTRGRjZBMzg1M0QzMkEzN0Q5QUREX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWztuI7rW_AxUCKAJDMywXQDdmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQLNYsOf_vXG0atn97z5mYqlT9Er3g3zxZ5tRNSwCL1Iew&oe=6ABC4244"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1760952141847704"
+      },
+      {
+        "id": "1719566845995902",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "לקרוא יותר. לשלם פחות",
+        "body": "📚 גאים להציג את סטימצקי פרו-לקרוא יותר, לשלם פחות! 💸✨\nחבילת הספרים הדיגיטלית והסופר משתלמת שלנו כבר כאן, וזה בדיוק הזמן להעמיס את הספרייה הדיגיטלית בכל הסיפורים שתמיד רציתם לקרוא 📖💗\nבמקום לבחור רק ספר אחד בכל פעם, אפשר ליהנות מחבילה משתלמת במיוחד ולהפוך כל רגע פנוי להזדמנות לקריאה. בדרך לעבודה, לפני השינה, בחופשה, בבית הקפה או פשוט כשמתחשק לברוח לכמה שעות לעולם אחר 🌙☕️\nיותר ספרים, יותר סיפורים, יותר דמויות להתאהב בהן ופחות להוציא על כל קריאה בנפרד 😍\nכי אם כבר להיעלם לתוך ספר טוב, למה לעצור אחרי אחד?\n\n📱✨ חבילת הספרים הדיגיטלית שלנו מחכה עם המון אופציות קריאה במחיר שעושה חשק להתחיל מיד.\n\n** סטימצקי פרו-לקרוא יותר. לגלות יותר. לשלם פחות.** 💕📚",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/סטימצקי-פרו",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783727619_1326382432908644_2525232610878751644_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=38JqYKQbkpsQ7kNvwHwkoLL&_nc_oc=AdqZNp7QfW7UjI24khBCaMIx-yYg4ukIpuEE--2bYDqFffG6wMtHHmfNFEFFbj3Wbh0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLMbchskxKjusi95nnDmlIriCO1bvCuojqXqoo2-CcS6w&oe=6ABC3DFC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/783899111_1715744339652411_7189614161769558540_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IeTUDqOJx4IQ7kNvwHSFtME&_nc_oc=AdoRkIAn7Bn0E2uGXGSEkayW-O1QUt0IQjIULgVkLr2oTaYfMl3kQyGP_EZr_vn0Ydk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIxSQKz-9x_z2Yg8ZU56Nl53GcJSsRSyQQO2vTsygk9pw&oe=6ABC4382"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1719566845995902"
+      },
+      {
+        "id": "1101149735927820",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "לקרוא יותר. לשלם פחות",
+        "body": "📚 גאים להציג את סטימצקי פרו-לקרוא יותר, לשלם פחות! 💸✨\nחבילת הספרים הדיגיטלית והסופר משתלמת שלנו כבר כאן, וזה בדיוק הזמן להעמיס את הספרייה הדיגיטלית בכל הסיפורים שתמיד רציתם לקרוא 📖💗\nבמקום לבחור רק ספר אחד בכל פעם, אפשר ליהנות מחבילה משתלמת במיוחד ולהפוך כל רגע פנוי להזדמנות לקריאה. בדרך לעבודה, לפני השינה, בחופשה, בבית הקפה או פשוט כשמתחשק לברוח לכמה שעות לעולם אחר 🌙☕️\nיותר ספרים, יותר סיפורים, יותר דמויות להתאהב בהן ופחות להוציא על כל קריאה בנפרד 😍\nכי אם כבר להיעלם לתוך ספר טוב, למה לעצור אחרי אחד?\n\n📱✨ חבילת הספרים הדיגיטלית שלנו מחכה עם המון אופציות קריאה במחיר שעושה חשק להתחיל מיד.\n\n** סטימצקי פרו-לקרוא יותר. לגלות יותר. לשלם פחות.** 💕📚",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/סטימצקי-פרו",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783508001_1657148413110918_464520471347248777_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rirZ3k2Mh-cQ7kNvwE98mPp&_nc_oc=AdrIGF2O30-NQsGc3QONFhV5zjRgzcJnvkwqmPf9ggh0GTnWmOHvmxGiBppKrQyxmQI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJo0O0qCz67DTALcyQ9rkTqLLNvVbFd1JAue23_VC9Jcw&oe=6ABC56D3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783985403_2967115776968098_1273010930619325806_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EhX1gzIc0OAQ7kNvwEWeOxz&_nc_oc=AdqZQjMpA5tfSjdkhPbte8cj66h1S5modsDPXRPBOexeEmFAXpjBf26jInGvsTnkM34&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIeK_Jd2yFrehwDtsnoHX0ESwEuW3yGcDuO6CE_mgg6iw&oe=6ABC44D8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1101149735927820"
+      },
+      {
+        "id": "1376464937287193",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "לקרוא יותר. לשלם פחות",
+        "body": "📚 גאים להציג את סטימצקי פרו-לקרוא יותר, לשלם פחות! 💸✨\nחבילת הספרים הדיגיטלית והסופר משתלמת שלנו כבר כאן, וזה בדיוק הזמן להעמיס את הספרייה הדיגיטלית בכל הסיפורים שתמיד רציתם לקרוא 📖💗\nבמקום לבחור רק ספר אחד בכל פעם, אפשר ליהנות מחבילה משתלמת במיוחד ולהפוך כל רגע פנוי להזדמנות לקריאה. בדרך לעבודה, לפני השינה, בחופשה, בבית הקפה או פשוט כשמתחשק לברוח לכמה שעות לעולם אחר 🌙☕️\nיותר ספרים, יותר סיפורים, יותר דמויות להתאהב בהן ופחות להוציא על כל קריאה בנפרד 😍\nכי אם כבר להיעלם לתוך ספר טוב, למה לעצור אחרי אחד?\n\n📱✨ חבילת הספרים הדיגיטלית שלנו מחכה עם המון אופציות קריאה במחיר שעושה חשק להתחיל מיד.\n\n** סטימצקי פרו-לקרוא יותר. לגלות יותר. לשלם פחות.** 💕📚",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/סטימצקי-פרו",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783508001_1657148413110918_464520471347248777_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rirZ3k2Mh-cQ7kNvwE98mPp&_nc_oc=AdrIGF2O30-NQsGc3QONFhV5zjRgzcJnvkwqmPf9ggh0GTnWmOHvmxGiBppKrQyxmQI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJo0O0qCz67DTALcyQ9rkTqLLNvVbFd1JAue23_VC9Jcw&oe=6ABC56D3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783985403_2967115776968098_1273010930619325806_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EhX1gzIc0OAQ7kNvwEWeOxz&_nc_oc=AdqZQjMpA5tfSjdkhPbte8cj66h1S5modsDPXRPBOexeEmFAXpjBf26jInGvsTnkM34&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIeK_Jd2yFrehwDtsnoHX0ESwEuW3yGcDuO6CE_mgg6iw&oe=6ABC44D8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1376464937287193"
+      },
+      {
+        "id": "2660839797668928",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/104750842",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786345200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769363639_1585104706338658_6064755832565399393_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ir4JqE7PiOkQ7kNvwFyiUOA&_nc_oc=Adr1dC6oivl9hb_NtuJR1P_2q9Xi9Va88QEG7FL5B4o_SskPBiyYcbPkbG9mxNC4dag&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLeZvZH6078PZODyCL5IgyWlI-133D4dVpE57h8OG1Img&oe=6ABC582A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/769313180_1391737162917405_7737583523321062861_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GcnySWRp0uYQ7kNvwGO00Zd&_nc_oc=AdrEy4whyca1qHVbzYHElXIydXfnWF1qq3oymbVjvNTFDRyVB6LJ9HRVtsJf2YADTuE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLEh2ip8tKaHsa3r_jeMz6bba3HtiTGennBtuS5K7zv_w&oe=6ABC40F0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2660839797668928"
+      },
+      {
+        "id": "801190486391099",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/104750842",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786345200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772119774_1357967992596917_2788250598075851038_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GHLx7TAqzlUQ7kNvwGdC6aS&_nc_oc=AdoRiMTf54moEchCOoQ_B9zY0hbRdVRaUaYFLmi0ggTmB4jx7uKqANvgILkOGQp3cTE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKy411bWXIIL4Ii_A_DMyjj4tmlRiStyxO63s2zvmwVAQ&oe=6ABC3E6F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/771892540_1765679348109327_389910610226015403_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VFG6hv6oz5MQ7kNvwHW8ZwG&_nc_oc=Ado0sTNhE9u-uBD4yl_ifh8xeQ-q2sxr3P5fxTI82AAThxOcs29dXSVMx0qlHwjsc5Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQID9fBh09-Y56IN9Q3sERF_AlZGuQCMZQyrQhJw_HfMMQ&oe=6ABC58D1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=801190486391099"
+      },
+      {
+        "id": "2182633702585806",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://play.google.com/store/apps/details?id=com.getbooks2.android",
+        "cta_type": "INSTALL_MOBILE_APP",
+        "cta_text": "התקן/התקיני כעת",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783839600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/743270248_3082416795286205_8601774322447518486_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0JGkl_2QwSkQ7kNvwFsylYy&_nc_oc=AdpW2WMThnXspmnmm77M9Bk8wJiWrgm59JjINUOCmYCMQxa-XasVaKnuLyPNpyp3ywg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKS1548bMUIpErGV8RRnK6xOtnkh8vtzNjaerADp9GXUw&oe=6ABC4451",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGD5L4KbTWOA3PCPQQuaAnfEUgZcIq3TXC-dCwQd6QMvbZLMFisSaQ2vfhS21qQ024h6djYqDHCApQ_VCASgdoXDZ1y9DNze5-_nPIR9IscQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5usaBI244jkQ7kNvwHYgWX2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTgzNTkyMTA5MTU3MTQsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b3a51eb44e43d676&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDQ5MDUxMTYwRTE1Nzk1MkI3NDg2QUQ3MzcwMTlCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdGNEYxODdEOEVDQ0NGMzk3Nzk0Qzk0MDlCM0EwRUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE3qmwp4zPAxUCKAJDMywXQCAhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQKSadiJr8KiWmdj0hMFw1WCVKgu1jKbpoXVLPKu59jSaw&oe=6ABC5E18"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744862954_1881324956253089_6531661415169273021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0lZ1k9uaFhAQ7kNvwGB2bdF&_nc_oc=AdqiZLZVP-AvoP_RHstwFpklDiy0Tk0Tc9UjnSnTGqGe869DEWCmn-pbQFdJiec7EcU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLV1-jphZCVeVW-BNkuVkWKRVbPUoham7dnfieiuIeQ1A&oe=6ABC3D5A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM60zuhK7sjD_K6vOeLMo8C5ql-RJaAJYQcaK8bbZJkAvxY-n7vQ81leBqPaXxWzWxIU3W2Cn0nq8HqIc7ZnAQYOdYOTjQ9hhJpO9SwXBpoyA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VuDived3juwQ7kNvwEPtsG-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMzY0ODA3MjAzMTE3NDgsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e3c522a597032f6e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjRDNjAxQUM2MjIyNDlBRjQ5MjVCMDE5RUYzNjM4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNDE1MUE3NTJERTc1MDExM0UwQzU4NTVGMjBDNzkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaI17rmxcfLBxUCKAJDMywXQCAU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQJOwkC-a75NR0VFt9WuEbBKWEFPeGkIwnCMEX7DlhQfxg&oe=6ABC2FAD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2182633702585806"
+      },
+      {
+        "id": "1224092169935670",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.current_price strip_zeros}}",
+        "body": "כן, היינו בקשר עד לא מזמן, ועם ספרים זו תמיד מערכת יחסים לטווח הארוך…\nלא כדאי לך לפספס את את העלילה הבאה שתיכנס לחיים שלך!\nקחו אותי לאתר >>",
+        "link_description": "סטימצקי - חנות הספרים המובילה בישראל. אלפי ספרים, ספרות עכשווית, ילדים ונוער, משחקים ופאזלים. הזמנה און-ליין עם משלוח מהיר או איסוף מהחנות הקרובה אליכם.",
+        "landing_url": "https://www.steimatzky.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/659073149_1178660520946550_7891818810873974541_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QEwcXpH29kIQ7kNvwFFAMiR&_nc_oc=Adr4IQ7qG-hGFYusrWqaJDYaNpolHKvqPpgU1BaHB7JoQFwhdcJk58GXc9yPERE-jKI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJnD94-OM7SGN8836uYN791Wkrv8iBKumWooJ7uzDJcvw&oe=6ABC3895",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/659725433_1627403008303618_5398794664067189126_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f7-SVlqNpmsQ7kNvwHVeBry&_nc_oc=AdqYG5AZJyuD0PP2oYNa047macZLkQNgsTCq_XyUEaTyWmzgdS0iu4iugNQz61O3bqs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJZCqYJssPbIGAN_OjsjnvenRpd6ejTZ3kDiCOCxX7pNg&oe=6ABC4E9D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658670777_2759786611074903_3646755468142667153_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ncWeIzdVrcoQ7kNvwGYyPOp&_nc_oc=AdpqRsxfDVB0a1NIrY1uvpZZuCIPWap44_GJgQW8XvT0R0RIzpFvr4cTUrQpdUIsd1k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKUgIVLq2FlOQhVeOa7CAf96AX7HbxWwCCDG458ypubug&oe=6ABC5210",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/660781927_1541923860892357_6763436052395176501_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uC8FRB5XH2wQ7kNvwFnmDRK&_nc_oc=AdpRLbgdLi4qt8jGbFX6bWJOUZDsQcBPNC0wYWoQC0EPVbmIxgitFcHOrqIN-_KfH0I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIIhBKSyVjxLAbBJZlbKmtdkiCTrrUN7MHAYiQLTHn5sQ&oe=6ABC2EBD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658990578_1659878971812811_8178714506074057779_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EJY-i1weBosQ7kNvwFBcxwo&_nc_oc=AdrhFzOaLPZmu7TtKIY_u71eqv2TEh8JVFNyaSw_soXd9esAV6oUpB8Kzt4Vcp39OMo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLS7975h-u1oInzEM5lNQPt2rxJwCQnb-dB5gG54Qm1Tg&oe=6ABC562A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/657912918_797774953382947_5703311509648401204_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VmqdTcHauhYQ7kNvwGSqX5T&_nc_oc=AdqEnD-49EoekCWOzl9LeqhA0jfNIutVVgJbqQ0hYl4OV8-rZ43-4-wiRPZ3cCUWItc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLd1l64ZgzgzOR1hly_aznfuv3KO2zrg7L43obmK2w7Xw&oe=6ABC3135"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1224092169935670"
+      },
+      {
+        "id": "1275611491370011",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/drvwim-mnhlim",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653019122_929016326301472_8262581781287580152_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2S1o4kC2Wr4Q7kNvwE0IdKY&_nc_oc=AdqbxVs9pvupy75s_8ffMTzK8BMZ9oQgtLtSmk9Z2t9N7_ON0w0lagZ5JTrAY7LJJXo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIwCgus4r9EP3H6vCPiXw7XgG-V--6UtC1SO3jFYF164w&oe=6ABC3E9A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/654237861_903912565614739_6709179492803895469_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s7FcuE8gBLUQ7kNvwHGMieJ&_nc_oc=AdpQ2qRakqjWCEecloIL78yFcqHcHOyzzOA1llqE8ly0e5Ucadz5cVrD94AFQ7tmuAA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKU3llr3Pw0CphG2bsf8WGnQXOYkjrmg_2pmLXI5-DnIg&oe=6ABC34FA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1275611491370011"
+      },
+      {
+        "id": "1663707785272417",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "האם חלמתם להפוך את התשוקה שלך לספרים לקריירה מרתקת? סטימצקי, המותג המוביל בישראל בעולם הספרים והתרבות, מזמינה אתכם להצטרף למשפחה שלנו כמנהלי חנות! \nאצלנו תמצאו הרבה יותר מעוד משרת ניהול - זו הזדמנות להוביל מרחב תרבותי תוסס, להשפיע על חוויית הקריאה של אלפי לקוחות, ולצמוח מקצועית בסביבה שמעריכה ומטפחת את העובדים שלה.\nאנחנו מציעים חבילת תנאים הכוללת שכר אטרקטיבי, בונוסים נדיבים, ומסלול קידום ברור - והכול מתחיל בתכנית הכשרה מקיפה על חשבון החברה.\nכמנהלי חנות בסטימצקי, תהיו חלק ממותג שהוא אבן דרך בתרבות הישראלית כבר 100 שנים! איזו גאווה! 💚\nאתם תובילו צוות נלהב, תיצרו חוויות קנייה בלתי נשכחות, ובעיקר - תהיו שותפים להפצת אהבת הקריאה בישראל.\nו... אם זה לא מספיק - תיהנו גם מימי גיבוש מהנים, תחרויות עם פרסים שווים, והטבות ייחודיות לעובדים. בואו להיות חלק ממשהו גדול יותר. בואו לגדול איתנו בסטימצקי!\nלמילוי טופס מעמדות: https://www.steimatzky.co.il/drvwim-mnhlim",
+        "link_description": "להגשת מועמדות למשרה >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793108909_1966439520693517_9089494560155413327_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KPnUixGx2GoQ7kNvwGuM2VF&_nc_oc=AdoxYr8zIZpgfR9aQcAKtbXrtuoUQKb8ak3a0BimxrjabqDF9KoOVm6pD2eZKUsDkI0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJK8U4QCeT6KE1tX1FzNpqYsx3vJJwUflc40NudL-3RoA&oe=6ABC361D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOj3jYqoiJ6q-i6PvkKW0t0HCigaS0pyAvfbkWiDSqTXB42a8DuLiPFOiRG_lEP3wuolMTFuDho3FWYvKsGIaw7wTj3_sdZLkvd83vAVNY-UQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=TOIPC4cW6vIQ7kNvwEGmtMC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5NjAwMDIwMzE3MTA5NywiYXNzZXRfYWdlX2RheXMiOjQ0NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a32211267efb8138&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzRCNzU5NzQ1RDhFN0JDQTUwQTYwQjdDNDI1RDFCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCTDl4UjdGdWdkR0oyMEdBSVM3eGF4dWo1dEZidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaylM_Vp_3pAhUCKAJDMywXQDhu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQLS6wJos_LVlwbaD9rcjbVPOJA0pRw1PHHRYvtFpbKIjA&oe=6ABC4078"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1663707785272417"
+      },
+      {
+        "id": "2356179141535236",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/digital-book-readers",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723839201_2121735451735242_8997598747047429011_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IngkOZByBRkQ7kNvwFoj29K&_nc_oc=AdrdT2Cp2Kk9kWTTk_qmHovfDmQ82NEin_CJJ88kyVWAasoIlKxVa9zAh1QRsRMw35U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJyCHzE0wxUp1GNPaWZqB-9H9O11gwrPG3P295BPkoExQ&oe=6ABC4EF5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725291704_1292299842887846_8393537136452979934_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ctUk6X0uZo4Q7kNvwFS0YJE&_nc_oc=Adrum3ISZj7z669pj6VJLyLt7kYYgQiTHo_oYuzG3cXGiFj44XHirDgzmLTPOBckcvg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKyf-n8b5zQmfSIGOTdO8q211ZQeL9rEqmRBKlnLCZ12A&oe=6ABC4117"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2356179141535236"
+      },
+      {
+        "id": "1571781961618990",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/digital-book-readers",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723406584_1644345616821604_6230915331924488787_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tbOle6d4e7oQ7kNvwEhP51b&_nc_oc=AdowS5ZrDDoqDPHMJp2ojnZ9KMhUYTO1QHTFn7GSf9XegDbJJjqSVT0S-57Sg5TfA5E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJhY9Z5TcHSJqsY0YHZHcj1RrbrqFXyPm--_ReTBf9cHQ&oe=6ABC4D6E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724188757_997705476462297_3552551861388200659_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WczF8q3y57wQ7kNvwHbSxeD&_nc_oc=Adr_qvmyhUEBdxDDM3TZKPs_N0Hpi0nhMg4I4eh4rd3hZ2kKPxBVdfVSkU425J3uPz4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLPwjkUcUcScKChQ_MJgq1WrJxYkqtLy2ySxZsZRSkzIw&oe=6ABC4FAD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1571781961618990"
+      },
+      {
+        "id": "1524209076159174",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.steimatzky.co.il/06-06-digital-books-main/digital-book-readers",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724061149_1609021940742396_894573232523835554_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wJ00zLcDUR4Q7kNvwFY1m5h&_nc_oc=AdpIt1ODTxuEpn8GnKdRiNzGWBIosDLGZCO5Y9qnmltn353b3EHIj3cRQM5csecxhcI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIbud2919Dos-O5iIW9ivN6S0MkSoGXVtAum8h-yd4ZEw&oe=6ABC4957",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724472308_993071263474223_5404376459467255283_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e8vMxh8NT8EQ7kNvwHtXcfh&_nc_oc=Ado0ix5LdLHLXl6MnzxFYtCO9pRANgYr4fF1v3xeINOMeFvoPbPG4_cW4h438a9L8BU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJJ2YTfqSLsar7KJcBBOuJ8egYz8Ko5XwIBQ2HtlnNk5Q&oe=6ABC52E3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1524209076159174"
+      },
+      {
+        "id": "1577530713854378",
+        "page_id": "239679701991",
+        "page_name": "סטימצקי",
+        "page_url": "https://www.facebook.com/SteimatzkyMadaf.HaSfarim/",
+        "page_like_count": 153251,
+        "page_categories": [
+          "Books"
+        ],
+        "ad_creative_link_title": "סטימצקי",
+        "body": "התשיעייה החגיגית של ספטמבר כבר כאן, וזו הזדמנות מושלמת להצטייד בספרים מעולים לחגים!\n\nחברי מועדון נהנים ממחיר מיוחד על ספרי התשיעייה: ספר מודפס ב־44.90 ₪ בלבד וספר דיגיטלי ב־25 ₪!\n\n👉 עכשיו בחנויות ובאתר>>  https://l5k.me/7YvQ4_#phnx",
+        "link_description": "",
+        "landing_url": "https://www.steimatzky.co.il/sub-cat-clubs-9?utm_source=facebook&utm_medium=CPC&utm_campaign=CLUBSEP",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811303767_3370624903136824_3434379693999123058_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vo73_jSK2SUQ7kNvwEy7QFj&_nc_oc=AdrOSgIU-OYpQKmqOTswF1wKYRGl4h6CqXSql1jo5nZlUBtptG2mFVTWEVRB4mOIbVM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJvOkJXzgiO3A3YFzZ4lx3GK-XKeqLjJz9Ef2-ydYBVIQ&oe=6ABC47FF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810623519_1082477414365310_4854428415062231810_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aKDI9RYr9hgQ7kNvwEt86kZ&_nc_oc=AdpE-7BrUodGhRHRD0wmWz7oEuzKyPM8MikzERjyD1nOs5sIXclnOrOpTMiCXZ3NxiM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLNyhLnr2RSV3e_nqngKitnZeQvULwgSqAsV1Iap2s4tw&oe=6ABC407C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810813814_933307659358960_3918920794163786691_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HyJTgwJqkH4Q7kNvwHZIcU0&_nc_oc=AdocX8qgkmkB1Tlxp0q4r4q_t08ls3Og3Rcm64Bfd6frPgDh4f-AMsnnz2Tj1E0mOH8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJz23dohmY_ogYV90mHwce6RXncWyeDSk6_WBQXMDxgGw&oe=6ABC2E15",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810813785_29375132832074137_8787664816100280785_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h73Oj_23BmMQ7kNvwErjHUN&_nc_oc=AdqBFnxI3uMpDpcQeZOOVRjYToV512Rm4HGrz9j9K9839aQwLmvqQx0xKRgUdd1U5M4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQLeNL2L7KaZ9EsGE_Wx-a73B3ztg1oaQ2AITQzDj1fkHg&oe=6ABC5047",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810900473_1120364340493124_5352493723987070971_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=83JZaL-5nvMQ7kNvwGVbcWj&_nc_oc=Adpy23FBE2n0mWymeMC7Wv77mgYhqKpr4CLTwysGFJlJtq2BrnLVjJCv24-xOWgRdL0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJrJA2p-eE3K8ABot9RgY9K0HrkyHHQRjrtintGlX9JBg&oe=6ABC2B64",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811501226_1809893156832784_8657638401834370802_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EUU0aOVSgJIQ7kNvwFcx8jN&_nc_oc=Adr9VWkxq-JKc6TKH8tWh9R2PCbO2MD2IjmvcEXV4kbDAeyaziSI1Qrmk6dqj5lW3ac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQIsLcxl8DxK0BpWXLKRLli2BQItqfNkamEdpP87ERW8hQ&oe=6ABC3815",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810813814_1275602718975603_6816763686760746655_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bSvy_Ua1F2IQ7kNvwFcr9Oq&_nc_oc=Adol9oQD9QbpE1Ih96m9uWSdoNBM5LpBwx-gnwz3BtydIck_zsbsNt51vNqCjFhu-bc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQKynAv7OSzr114VijsbHAWwF1o4MNzibUWfFsXIue3tiw&oe=6ABC5F8D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811028547_1858339755576774_4185944125524719488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FX5Gbp2WTl4Q7kNvwFAB67L&_nc_oc=AdpLC9O2Lp1OgAnP322z0mDU_-quC_mpENQ71vEfaOYtlabU8iqDyMF9tP-NmpTzNt4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQL2v04qsRzNiFx9epOs0BGe6gUqVgWTffzBqHrTz3akYg&oe=6ABC5423",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810931267_2259993998126616_1409358279409970077_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VOr6Gr2tgZQQ7kNvwEMq1aG&_nc_oc=AdpeDoeccMBPs4qt4NgDKS1KNa3cIqvye8tZXa4zkHLrPN8o-ubj8v_goNp002nJ9bQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJPikoYTGTzk7Su01oGe1Ds3XWj195ppiXbxP9owavxRg&oe=6ABC30C3"
+        ],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811303801_2580950952326213_7559643896582568860_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eOa3IoHC7NAQ7kNvwE7vJwY&_nc_oc=AdonVTazx6DRborPfabaoBnx-bpnkVCbSsYjCb0tf0YTAV-h4qBPWIh75f3sJx_Zg60&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&oh=00_AQJEcUqyQEELQKL6dMX5YMqf1mLmGC8a2CKiHLzlpdrzTQ&oe=6ABC29DD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOVCsYVTIG9PnBi6iGkm0B-_DzYDlAJjNXRiufDtBz4O6tHOjA6Tuzna6UJUGhFXylSuzoVt7JHETbDfubohvhp06aTCP-P8lJ1xVhBZxmYCg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-vHkMCuho9wQ7kNvwHL1drR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzQwNzQyNjEwNTkwMDYyLCJhc3NldF9hZ2VfZGF5cyI6MjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=24461005e3a060cb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENTRCOTY1NkRFODkxRjFEQUNGQzNDNzM3OTU1RTA4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRCNEQzMDZGQ0JDRDY3MjJFMjJDMjhBOUU2NDQxQTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbc5ZiPx8yXBhUCKAJDMywXQEqmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=jtDQq37ZdtXcKpNbpEiQJg&_nc_ss=70289&_nc_zt=28&oh=00_AQIU2RyHYC58-1XWXIAF-6sJ3mNKW05Wjb0a8-iiI-cnZQ&oe=6ABC4ADA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1577530713854378"
+      },
+      {
+        "id": "1127501752603728",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001"
+      },
+      {
+        "id": "1147527343852261",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.steimatzky.co.il/055490001"
+      }
+    ],
+    "social_landings": [
+      "http://itunes.apple.com/app/id1357592005",
+      "http://play.google.com/store/apps/details?id=com.getbooks2.android",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1127501752603728",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/055490001"
+        ]
+      },
+      {
+        "ad_id": "1147527343852261",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/055490001"
+        ]
+      },
+      {
+        "ad_id": "1665296241227760",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://itunes.apple.com/app/id1357592005"
+        ]
+      },
+      {
+        "ad_id": "2069409847324230",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://play.google.com/store/apps/details?id=com.getbooks2.android"
+        ]
+      },
+      {
+        "ad_id": "2552164888553215",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://itunes.apple.com/app/id1357592005"
+        ]
+      },
+      {
+        "ad_id": "1630938437945772",
+        "text": "אנחנו פה, מוכנים להוציא אתכם מהשגרה. אתם יודעים שאנחנו חברים ותיקים, וכשצריך לשנות אווירה, הבחירה הטובה ביותר היא תמיד עם ספר טוב 📖\nבואו לברוח איתנו! אנחנו הסיפורים שיפתחו לכם עולמות חדשים.\nקחו אותי לאתר >>",
+        "links": [
+          "https://www.steimatzky.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1698014251448099",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main"
+        ]
+      },
+      {
+        "ad_id": "1227872730403301",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main"
+        ]
+      },
+      {
+        "ad_id": "1541132714322743",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main"
+        ]
+      },
+      {
+        "ad_id": "1629982745496559",
+        "text": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "links": [
+          "https://www.steimatzky.co.il/irid_sukkot_2025"
+        ]
+      },
+      {
+        "ad_id": "1734345267547487",
+        "text": "אנחנו פה, מוכנים להוציא אתכם מהשגרה. אתם יודעים שאנחנו חברים ותיקים, וכשצריך לשנות אווירה, הבחירה הטובה ביותר היא תמיד עם ספר טוב 📖\nבואו לברוח איתנו! אנחנו הסיפורים שיפתחו לכם עולמות חדשים.\nקחו אותי לאתר >>",
+        "links": [
+          "https://www.steimatzky.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1278528060813055",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme"
+        ]
+      },
+      {
+        "ad_id": "1434931031755426",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme"
+        ]
+      },
+      {
+        "ad_id": "1246786864254963",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.steimatzky.co.il/06-06-digital-books-main/%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D-%D7%93%D7%99%D7%92%D7%98%D7%9C%D7%99%D7%9D-%D7%9E%D7%91%D7%99%D7%AA-bigme"
+        ]
+      },
+      {
+        "ad_id": "1054077210837164",
+        "text": "יריד סוכות במחסני סטימצקי חוזר ובענק! 💚📚\nאלפי ספרים מכל הסוגות ולכל הגילים ימתינו לכם ב10-40 ש\"ח לספר!\nכן, גם אנגלית! כן, גם רומנטיקה! כן, גם ספרי ילדים! כן, גם משחקים וצעצועים! 😱\nזה קורה בחול המועד סוכות, מה-25.09 ועד ה2.10.26\nביום ו בין השעות 9:00-13:00 ובימים א-ה בין 9:00-20:00\nבמחסני סטימצקי, אזור התעשייה לב הארץ בסמוך לראש העין (כתבו בווייז סטימצקי לב הארץ)",
+        "links": [
+          "https://www.steimatzky.co.il/irid_sukkot_2025"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.steimatzky.co.il/055490001",
+      "https://www.steimatzky.co.il/",
+      "https://www.steimatzky.co.il/06-06-digital-books-main",
+      "https://www.steimatzky.co.il/irid_sukkot_2025"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "filtered": "2026-09-25T13:05:56",
+    "unqualified": "2026-09-25T13:07:52"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.steimatzky.co.il/",
+      "https://www.steimatzky.co.il/055490001",
+      "https://www.steimatzky.co.il/",
+      "https://linktr.ee/steimatzky_israel",
+      "https://www.steimatzky.co.il/about",
+      "https://www.steimatzky.co.il/customer-service/contact-us"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

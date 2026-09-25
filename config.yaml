@@ -8,9 +8,9 @@ discovery:
   #   mcp_import  - read JSON dumps of Meta Ads MCP `ads_library_search` results
   #                 from data/raw/discover/ (Claude Code runs the MCP, saves the dump)
   #   apify       - Apify "Facebook Ads Library Scraper" (needs APIFY_TOKEN in .env)
-  backend: mcp_import
+  backend: playwright
   apify_actor: curious_coder~facebook-ads-library-scraper
-  max_ads_per_keyword: 50
+  max_ads_per_keyword: 120
   # Rotated one per run; progress kept in data/keyword_state.json
   keywords:
     - קוסמטיקה
@@ -37,10 +37,45 @@ discovery:
     - jewelry
     - handmade
     - free shipping
+    - עבודת יד
+    - משלוח חינם
+    - שרשרת
+    - עגילים
+    - טבעת
+    - שמלה
+    - קולקציה חדשה
+    - נרות
+    - סבונים טבעיים
+    - שמן זקן
+    - מארז מתנה
+    - בגדי תינוקות
+    - צעצועים
+    - כלי מטבח
+    - מצעים
+    - כריות
+    - מזון לכלבים
+    - ציוד לחתולים
+    - אביזרי כושר
+    - בגדי ספורט
+    - כובעים
+    - משקפי שמש
+    - שעונים
+    - ארנק
+    - תיק עור
+    - קרמיקה
+    - עציצים
+    - תה
+    - דבש
+    - טחינה
+    - יין
 
 filter:
   min_active_ads: 2
   max_active_ads: 150        # above this it's probably a big advertiser
+  max_page_likes: 200000
+  # Ad CTA types that point to a lead-gen/service funnel rather than a store
+  leadgen_ctas: [SIGN_UP, APPLY_NOW, GET_QUOTE, BOOK_TRAVEL, CONTACT_US, SUBSCRIBE, DOWNLOAD, WATCH_MORE, BOOK_NOW, GET_OFFER_VIEW]
+  shop_ctas: [SHOP_NOW, ORDER_NOW, BUY_NOW, GET_OFFER]
   accepted_currencies: [ILS]
   # Big chains / known brands — never leads
   brand_blocklist:
@@ -89,8 +124,54 @@ filter:
     - kiko
     - sephora
     - mac cosmetics
+    - l'oréal
+    - iherb
+    - סטימצקי
+    - steimatzky
+    - anker
+    - אנקר
+    - natasha denona
+    - tefal
+    - dyson
+    - danon
+    - דנון
+    - שקם
+    - good pharm
+    - גוד פארם
+    - super-pharm.co.il
+    - be.co.il
+    - אופיס דיפו
+    - office depot
+    - מחסני חשמל
+    - hamashbir
+    - המשביר
+    - טמבור
+    - tambour
+    - אלקטרה
+    - electra
+    - טלאביב
+    - cellcom
+    - סלקום
   # Words in page name / ad titles that indicate a service, course, clinic, lead-gen
   service_keywords:
+    - אקדמיה
+    - academy
+    - motors
+    - מוטורס
+    - רכב
+    - ליסינג
+    - leasing
+    - מסעדה
+    - restaurant
+    - הופעה
+    - כרטיסים
+    - צילום
+    - מלון
+    - hotel
+    - טיסות
+    - חופשה
+    - עו"ד
+    - משרד
     - קליניקה
     - clinic
     - קוסמטיקאית

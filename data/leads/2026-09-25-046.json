@@ -1,0 +1,1310 @@
+{
+  "lead_id": "2026-09-25-046",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://onlys.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "info@info.onlys.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/onlyononlys/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/onlyononlys/",
+      "source": "https://www.onlys.co.il/beauty",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972527992111",
+      "source": "https://www.onlys.co.il/contact",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "103629322262735",
+    "page_name": "ONLYS",
+    "active_ads_count": 97,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "1682569726330067",
+        "link_title": "{{product.name}}",
+        "body": "המוצרים שאהבתם עם הטבה שאסור לפספס🎁 \n 10% הנחה מאיתנו בקוד קופון ONLYYOU\nמתנות בכל רכישה ומשלוח מהיר חינם בקניה מעל 249 ₪ 🎁\n\nהנחה על היתרה | על המוצרים המשתתפים | בכפוף לתקנון באתר",
+        "landing_url": "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/674196878_958230923614485_38777773177950221_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rycvfRqKrpsQ7kNvwEG6rxB&_nc_oc=AdqMCLtNa3cplqSqTt4PCqOWmCROs7W9jzb1O5Vz-FsOs7_E7ot7TtW8GhNar-D8cRg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQLTsVCXANAffdDqP9ThLvUevlWmeukqgccQzsegZdUmzA&oe=6ABC428D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671227399_932690452912375_3746846861261454124_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NkhzYbxHsooQ7kNvwF2jLnN&_nc_oc=Adqpez5K4g3TqwDDOAsxFjwCa8IzoEuY42y-_NresRHdtg-4Y9NL0nFtJeAX4WNX1_I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKHJmq1t18xhRo1rj-mzPentfL4a8mHWO5b9f3SBt3ngQ&oe=6ABC272B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/675569241_825582950047578_8542727030725356676_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qMb98ZWaVIgQ7kNvwEhHZoT&_nc_oc=AdpVImDbF4sY0ROTo7jaAuH7ZBPiRfoLsBdmAX7615nE10sp2XJAMkq-DKyT43Qtt2k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQIFq3WLSeq8VT4mDP7FIvWWM5sex1gtMCbySFt5e9q2xQ&oe=6ABC5567"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1782198000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1682569726330067"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "משלוח",
+        "קנו",
+        "קופון",
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 97,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 5189,
+      "product_score": 7
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1682569726330067"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 5189,
+    "page_categories": [
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "895734923483168",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+        "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח מהיר עד הדלת חינם מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1778569200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/697117732_26941489392149612_9009239008882553281_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Mn3gxTSMsMQ7kNvwGxWYR4&_nc_oc=AdrwtqJv1DppoewE3PcU5_igKAH5suKXe0gjMDn_hmffgxaKMRbB8oAgMaFbpfyoLZ8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJuAEVZpnqeHbqwfDm6AOOSaXgpTl4I68cLKyTeKmMyow&oe=6ABC3871",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNPwHZGMD_U3OA7TOOaMSt4QJM3mTJzPxXDKz7BT4Yqbi0Z-phASNv3pnfPyTGPpfI5JS2WNNUtQkMkWYjJw5bVCVWFLQuCGYbxtPKEBQ.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AaOoXdY6jagQ7kNvwGUHYAs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzQ4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTg3ODM2OTM2OTY3Mjc0LCJhc3NldF9hZ2VfZGF5cyI6MTM2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQLC8TNbU7UxnFpgPEaJefzIeuyilv0_gMeBx4gkMf1xHw&oe=6ABC4A10"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=895734923483168"
+      },
+      {
+        "id": "1376172197902252",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Only's",
+        "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח חינם ברכישה מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688852562_1992192684729497_5161593721948389090_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gqqYiAS8yeMQ7kNvwHs8M7e&_nc_oc=AdpvD4pgN5I1dV7yC_EgOJXOMwC92Yop9Cc3TlSiXEyt8nA1lI_bmNotKa8gzE4kWw0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJIti8J09pKkfBwXEwQ6aeFOu02pPtj3WUScLRv-3QRxw&oe=6ABC594B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOucLZzEA22sX0GB1YbNVsfOe1cUVioFolJO2jcKmstp-CsJSIFHj3nZ_5kBsbP1x0Nt3uR_-77r71fkGckAqu1ca-5vDEmyPyC1EWzlZUFug.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=N79SPYygj0sQ7kNvwEwdWfY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTg2ODgwOTU3Mzk3MDYsImFzc2V0X2FnZV9kYXlzIjo0MzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=754c94499fbbfb52&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRCMzlGRjFBOTM2NzQxM0VEQTU0NkI2ODlDNUI4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNEZBQjNFRDIzMjg2N0MwMkI3ODFBNzA5NzMzMzk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0_KKNpbG8BBUCKAJDMywXQEZAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQLwhlF3IYl2gaD9sFIa7iRFiHkdOqfW44KawzpVDpO61A&oe=6ABC2EE9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1376172197902252"
+      },
+      {
+        "id": "1323167290017698",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Only's",
+        "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח חינם ברכישה מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/694270457_2427037927769885_8311128462152661751_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dc5VSmy-nBMQ7kNvwH5DjxO&_nc_oc=Adrpv6rSgZftDNUEopKumPzpo4-Lv1jzw2hf1SJ7qqpvcQVtTXcivdfuWmxQtduUXoQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKMB43vSMejnxZUAgLMkAW1_C4-rvXT716G0eptOLYKrg&oe=6ABC5080",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOucLZzEA22sX0GB1YbNVsfOe1cUVioFolJO2jcKmstp-CsJSIFHj3nZ_5kBsbP1x0Nt3uR_-77r71fkGckAqu1ca-5vDEmyPyC1EWzlZUFug.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=N79SPYygj0sQ7kNvwEwdWfY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTg2ODgwOTU3Mzk3MDYsImFzc2V0X2FnZV9kYXlzIjo0MzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=754c94499fbbfb52&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRCMzlGRjFBOTM2NzQxM0VEQTU0NkI2ODlDNUI4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNEZBQjNFRDIzMjg2N0MwMkI3ODFBNzA5NzMzMzk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0_KKNpbG8BBUCKAJDMywXQEZAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQLwhlF3IYl2gaD9sFIa7iRFiHkdOqfW44KawzpVDpO61A&oe=6ABC2EE9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1323167290017698"
+      },
+      {
+        "id": "1682569726330067",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שאהבתם עם הטבה שאסור לפספס🎁 \n 10% הנחה מאיתנו בקוד קופון ONLYYOU\nמתנות בכל רכישה ומשלוח מהיר חינם בקניה מעל 249 ₪ 🎁\n\nהנחה על היתרה | על המוצרים המשתתפים | בכפוף לתקנון באתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/675807008_1301538008567915_7598186044409887454_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S1l-1n8I7MAQ7kNvwGE-0_b&_nc_oc=AdotkU4p3JI4iVt-WP7JlLondQKj8lZD_MIQ6RTA1MwPUHrZAFVwoFKPOCUdDA4FEyo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIknl2PMgm1yNY0fcOfay5_exQv9X5pCAJuwBNO3v40Xg&oe=6ABC356A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/674196878_958230923614485_38777773177950221_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rycvfRqKrpsQ7kNvwF8An3u&_nc_oc=AdrimbEebQXditQU2P6OlNONqY7q0dnS-HOukApuIH3GsN4T7VUUXr_EQj0x09PuwtY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQI-2fsTet5jw9EHneOy17fZ-iKb65fERVkn4gdNQ88jtg&oe=6ABC428D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671227399_932690452912375_3746846861261454124_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NkhzYbxHsooQ7kNvwGbVre2&_nc_oc=Adr6aPh4qqPYxeVkbUDUO2w3B5n0uLiJO_kPg0mwQ3fZV0AzPbuOd1lXRvHzVRxGtwU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKutX66PjrXhyjP_GvSGpvcvXBB2A8IfegPWyPKdICJTw&oe=6ABC272B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/675569241_825582950047578_8542727030725356676_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qMb98ZWaVIgQ7kNvwE4B3dl&_nc_oc=AdoEOhSQ-YjEg2bdzz2mQaH7gpQPTqatF23PtsPsknjAx3_8RwAQ4xUGhCqu6cr58OQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJBr3vB3bYquM7fpvy9anYghZdYHUutna-zsFapwl07sg&oe=6ABC5567",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671241937_974796468379840_1662520749370463532_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=14yCMvxVq5EQ7kNvwHQLxhk&_nc_oc=Adq-a8NsjDluShVCdXE7bG5df7ca8T5iJSvSSfzEnEeqW1yPfK8lzI3biPttcw9UMkE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQI49F8a1erMb8RX4FGhzoMeQcF6GEIKuKm4g7cXAghvtQ&oe=6ABC4ED9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671866761_26163418506694652_7271091404400438438_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0QrFJ11TN8AQ7kNvwERPH47&_nc_oc=AdqNszwPkRYD1Cvz1bmL2lCZruOCPlVO0ZnnfUrvLC6UmDnT0hoCPECVCH5IwLCtGBY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIjwDz5STaegxnzFurNzn3abctKaF5mcv1HyuRs25pEdg&oe=6ABC3FF3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1682569726330067"
+      },
+      {
+        "id": "1112726985267892",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+        "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח מהיר עד הדלת חינם מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/issey-miyake",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733891184_1488236459708041_2601157715019110658_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HEO6FzmuSdkQ7kNvwHBsRPa&_nc_oc=Adq9kbPW7rvZkMEcI2SYWOikVrs-UcytfS0fFPCBOEVGaTWedf1IkoiwR7qoyqJEvWs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLvKaUp8FFPFc-7RahcmlrHRlaJ9dL5VPw164hO5uEC8A&oe=6ABC5271",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMbrr37NWe6SURZ9K9sBP_GChK1CZgLhUmfLVBanJYOSp9WBuYvdY4vmkWq0y7LAGOtK9S28VLXSDIq03rrfCQdQsPeRLV1t_wd1bM1TA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ISkmSCVDV0UQ7kNvwHaEwgF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzQ4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ5OTQzMTQ5NDgxNzc1MywiYXNzZXRfYWdlX2RheXMiOjg4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ2qOKtMHVDkoaeJ61ZMHIxb6koOk6xtYW4Xq7FvvTW1g&oe=6ABC4DA3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1112726985267892"
+      },
+      {
+        "id": "999200476187701",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+        "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח מהיר עד הדלת חינם מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/issey-miyake",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733891184_1488236459708041_2601157715019110658_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HEO6FzmuSdkQ7kNvwHBsRPa&_nc_oc=Adq9kbPW7rvZkMEcI2SYWOikVrs-UcytfS0fFPCBOEVGaTWedf1IkoiwR7qoyqJEvWs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLvKaUp8FFPFc-7RahcmlrHRlaJ9dL5VPw164hO5uEC8A&oe=6ABC5271",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMbrr37NWe6SURZ9K9sBP_GChK1CZgLhUmfLVBanJYOSp9WBuYvdY4vmkWq0y7LAGOtK9S28VLXSDIq03rrfCQdQsPeRLV1t_wd1bM1TA.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ISkmSCVDV0UQ7kNvwHaEwgF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzQ4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ5OTQzMTQ5NDgxNzc1MywiYXNzZXRfYWdlX2RheXMiOjg4LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ2qOKtMHVDkoaeJ61ZMHIxb6koOk6xtYW4Xq7FvvTW1g&oe=6ABC4DA3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=999200476187701"
+      },
+      {
+        "id": "1713447749862155",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ביוטי שיש רק ב-ONLY'S ✨\nמגוון מותגים מובילים באיפור, טיפוח ובישום, לצד מארזים מיוחדים שניתן למצוא רק אצלנו\nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+        "link_description": "₪489",
+        "landing_url": "https://www.onlys.co.il/beauty/gift-box?cgid=PACKAGES-AND-GIFTS&prefn1=SC_isBundleDIY&prefv1=%D7%9E%D7%90%D7%A8%D7%96%D7%99%D7%9D+%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778985954_3136350069892820_414593272594504638_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8JMWRSAy5wwQ7kNvwEC4paP&_nc_oc=AdrW9p4rdiCI641S6pITjL1Bo7WQdu07n6KrImtxwy0fLaoHYZ_DJKS154p8PqgTPkA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQK2uMQ-fRt0f5pGXg6roOfhWZy12La_QcCd8a_GDxO45Q&oe=6ABC39AC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779201218_1536383084327879_5449757860453591086_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oAAydiQkvm0Q7kNvwH6jQ17&_nc_oc=AdoaDfGvIhaI02JXUChpZRvdnHlgpwKpjNMKiSWJDvgIEglGCE-SkeySXz3s6OUKib8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQL7qbN76p181PDBdbFZgy339cae1gk-xYZhcO7ziRcpbQ&oe=6ABC517B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778869699_1346343090891566_5715394221082876444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_kyS_n0GwZ0Q7kNvwHX3jAu&_nc_oc=AdrR2riezamZ2z4JpslY1cI3Fo0Zi5DQX4X8zAAKPonphRDaohrtClKqBez9E_KWNac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLfzQBIv9GHMbc-9PluQAmp4DKdwQfE0yqmlC93fy44BQ&oe=6ABC5057",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778173119_1743911213321469_7347675504526536237_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Vc-I2xqoVsQ7kNvwE0r97j&_nc_oc=AdrnHh18BGNC7pVHWayLVenpF4vuaplE0Q4EixYgJB3KU-Y4neWl1aCBa4pPOrwTq5E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIjy8YbKgi11KItZ3bDWaJcRoLa50gS6v-sFLfPbd6lkQ&oe=6ABC3FEA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778985949_835012016273052_144669714525981861_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmcvwu3ci58Q7kNvwH9NDJW&_nc_oc=AdokJ4ncFZbTkiVBQIXupbA6JCeYJSSdS6em3N4VPbjUTpgD3hu0gozi6dDh1e2BqUQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIL-yPDN_zMfPOkRPLUKuRaJZu3Uq1r-QVZs03T5Wt2Dw&oe=6ABC52ED",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778767461_1070685945929575_3001568250526497162_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pHotrXEowPQQ7kNvwF2tF8j&_nc_oc=AdrE7xlo4r4Oy-0G9L5wOc0a0Ll82pHkCiuIskRcWr3n7FMTS39xfEMYmy_8IMp9Y1k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJUE3hfWaOCUT-1E1rJZCd2jzvSWIsWHAV0llKJdbFkZA&oe=6ABC3633"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1713447749862155"
+      },
+      {
+        "id": "26661687796837941",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.instagram.com/_u/noa.bendavid._",
+        "page_like_count": 0,
+        "page_categories": [
+          "Profile"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689459664_26527284436971593_767612151782994724_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TaGPb-MLBDIQ7kNvwG3MFgH&_nc_oc=AdpW8nnFwPgmqvHJbQBdCN2FqFjcXfXoA-aZcbaoZVXGrUFCbZcnMOQEbG3YvcLB9Ls&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJoJYVEwn3Kvxccqx8N8PAdtoQElbyJ9122LseJNxt1hw&oe=6ABC4097",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQMSVab5XVQ66jrn94-3qmr20CIxfEFL8CtF61jfEp9axWdkXhFHN7iuOr3oE81S5UHFw7x8Mz2zj08yE1gj7C3iJUWKkw8LJsaaCDg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=sHhkozSPZzYQ7kNvwG5UzqJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTYwMzQ0NDc5MjY3NzYsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6375cdf8c11d91c8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQTQ0RjJBNEExRTM3RjFDMzFBN0FBRUE2MURBRDU5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkyNDA4RDBBOEEzMDhBNzE3NDc2NTE1QTdGNTAzQThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwl-WR64-lQBUCKAJDMywXQFJmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQIu6HHFtShd127imxDKd-D1m9hGcerD_A54XeavceAjsw&oe=6AB842EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26661687796837941"
+      },
+      {
+        "id": "984759367521355",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.instagram.com/_u/noa.bendavid._",
+        "page_like_count": 0,
+        "page_categories": [
+          "Profile"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689459664_26527284436971593_767612151782994724_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TaGPb-MLBDIQ7kNvwG3MFgH&_nc_oc=AdpW8nnFwPgmqvHJbQBdCN2FqFjcXfXoA-aZcbaoZVXGrUFCbZcnMOQEbG3YvcLB9Ls&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJoJYVEwn3Kvxccqx8N8PAdtoQElbyJ9122LseJNxt1hw&oe=6ABC4097",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQMSVab5XVQ66jrn94-3qmr20CIxfEFL8CtF61jfEp9axWdkXhFHN7iuOr3oE81S5UHFw7x8Mz2zj08yE1gj7C3iJUWKkw8LJsaaCDg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=sHhkozSPZzYQ7kNvwG5UzqJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTYwMzQ0NDc5MjY3NzYsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6375cdf8c11d91c8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQTQ0RjJBNEExRTM3RjFDMzFBN0FBRUE2MURBRDU5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkyNDA4RDBBOEEzMDhBNzE3NDc2NTE1QTdGNTAzQThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwl-WR64-lQBUCKAJDMywXQFJmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQIu6HHFtShd127imxDKd-D1m9hGcerD_A54XeavceAjsw&oe=6AB842EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=984759367521355"
+      },
+      {
+        "id": "1672124947375762",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.instagram.com/_u/noa.bendavid._",
+        "page_like_count": 0,
+        "page_categories": [
+          "Profile"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/687967315_1522564336060252_8449286228382951743_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rY5V4pbZbNgQ7kNvwE4uyJY&_nc_oc=AdohRwOwnc_Xky-CE7_6vrArNHkvwX_uNmMX9n_Y81dcEuNPdnJJaLnkwZIESpnZJSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQICnJS93ccLkwEBxSNhsq42qx6sbZxnRTCdaVcy8gZA6Q&oe=6ABC2C25",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQMSVab5XVQ66jrn94-3qmr20CIxfEFL8CtF61jfEp9axWdkXhFHN7iuOr3oE81S5UHFw7x8Mz2zj08yE1gj7C3iJUWKkw8LJsaaCDg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=sHhkozSPZzYQ7kNvwG5UzqJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwOTYwMzQ0NDc5MjY3NzYsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6375cdf8c11d91c8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQTQ0RjJBNEExRTM3RjFDMzFBN0FBRUE2MURBRDU5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzkyNDA4RDBBOEEzMDhBNzE3NDc2NTE1QTdGNTAzQThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwl-WR64-lQBUCKAJDMywXQFJmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQIu6HHFtShd127imxDKd-D1m9hGcerD_A54XeavceAjsw&oe=6AB842EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1672124947375762"
+      },
+      {
+        "id": "1371364201118753",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ביוטי שאוהבים, במחירים שאוהבים אפילו יותר ✨\nמגוון מוצרי איפור, טיפוח ובישום ממותגים מובילים, עכשיו במחירים מיוחדים ומשתלמים במיוחד \nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+        "link_description": "₪138.05",
+        "landing_url": "https://www.onlys.co.il/beauty/last-chance/special-sale",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774281985_1037160775887194_5032173722639703255_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86kHjCPPFAUQ7kNvwHKf9Ny&_nc_oc=AdpFd3adCZKp7LWB1Mk8SeEELVbkpJW78tKaB4c-GYDuGCCwS674PSlAMAOqYUsbau8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQK42lTccWfEQ5tEJFx8yBeqXUHVRAC6af5ZgWNEvqdJUA&oe=6ABC3F33",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/777868150_2080433475886043_5944236709004610028_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_GXfrGJrjc8Q7kNvwFhECsK&_nc_oc=AdpS8i_2YqeS-SntJGOaVPbn2EoFshlSSS4XU6-_4Q-edDh2OeMalRyxDkuruVeJS-A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJmvOGKtLO6rX4h6hT2YoJwNHs1cysj5UuNCOCukjX2Fw&oe=6ABC29E2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774667136_1035977889041598_5289352330931866756_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Wk0vzJenKUQ7kNvwGElhsP&_nc_oc=AdoCASVxo7xmlkLd8NiT7tVvuVCgtTe1XXmo0p6mH4E4TfsXpsS2kIyqUfPmcn2IrmE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLMUKXUpfnQxGSn3e58aQp2rnJ_hybdSnnQHZ9JtWxMIg&oe=6ABC2717",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777868086_3535481176612593_6532354298156875596_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G8LHJVMOWMIQ7kNvwE0Wa0F&_nc_oc=Ado30xKoZx-mXLtMpOl7M_oz_L05x1yTD4cr-cGNGADGJe47l1Q-Be7DyINZ3rq_Lp0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKzWgjDlc0zxoa3EdCs_FteVdOMJM0_897WpdsMmUeOzA&oe=6ABC2B27",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/775286547_863719160006105_6459868798043674767_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R4W7CRXEqjwQ7kNvwHNi0gm&_nc_oc=AdrYaRjPJ6Pn9Q0Sh6uiIX8hBAn9WJXnZv15qoP7Ds09pQjtt4JXaLTGk5dpvn1Uw9E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLpBIxRolG2vrgcYmFCc2EzNRyrvYi0_Dh17VCpXAe18Q&oe=6ABC5C96",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/775378966_1579084730290538_6307696205645533830_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CFGHmqVy5WMQ7kNvwETWCkj&_nc_oc=Adrl8Tm3UrBGBhUI53t9ALcCEzrM82_XA1lFzd3eUkJGqFCEjqv7_OWWIK6H2g4WwKI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKiNtqe_slfBln3GktAEMxXwyGhNPO8R83y9QsFU5ulSg&oe=6ABC4701"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1371364201118753"
+      },
+      {
+        "id": "864194936409789",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744489463_1427757395842414_8587791680456060337_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uk_Hr5XG0pkQ7kNvwHJxLYX&_nc_oc=Adq62OfaCmbjCOnZMOF6WjmVk_0BRUlGEZ9aMJccbotc2AZsNd7bZ6-QTmwF7yIf6EQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIc5XPhwGc8_JEva0uKZQKx2shXleZo2cTQlv4DrykdmA&oe=6ABC3344",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOQjbDTEfKpSISsov61bo_uFWZBjt5g6hM4_swzr-wq3sEAYHC4mq01CEAor07jPvedRld_wfmyqTzi7-RsCr9FO6EfIk3nv45biaGGpDG3Ag.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PtuU3RpoJ1gQ7kNvwF0A3y8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNzc4OTc5NjMwMjY3NTksImFzc2V0X2FnZV9kYXlzIjo3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=88fcc03052e48f56&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODQwNTcyMEUxNTFEMkYzQjBFMEQ4QjlCQkVBQThCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NDQ2MjZDNDU0NUE2NzUwMjM4MDk4MkI4QkE5QUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO5d2uju-LCBUCKAJDMywXQBghysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4KPh__R1goY9iwl_190DgGe8BrXn54PCbneZ_ANn57Q&oe=6ABC3E7B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741888715_1006202072257273_2676111573408513870_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HB1VgtcQdA8Q7kNvwG2IhMh&_nc_oc=Adqdn9xIgZshsetd-m72bxHwe41RirAfGxEH8v5WEE9XMrS2FRiximwfdb8eEI7TQgI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLiSUBCN9tu9XZQ-o2jI3VIVoagwFHzU-ag3UtyVK3qog&oe=6ABC3747",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQTR_iSGutZMZwwDv80RWhI5lTFR0eF1elUkNIZj2Bmv9bjFOjSCqPO2yu3i6kpSI_pjzVHc7fYko_rqZRBzjEOk-oxejklmGx24di71Iigw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aV6HoqeMWIMQ7kNvwHOy2_G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTQ0LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Mzk4MDU1MTQ1MTkwNjIsImFzc2V0X2FnZV9kYXlzIjo3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=260a8f524d2d138d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRERjI3NTNEQUE1QkJCNEI1ODA0NzJERTdGQjBCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNDJDNjA4RTdCQkYzNkNCMjA1MEY0ODQxRjM1M0JDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasyIyTn9npBRUCKAJDMywXQBgp--dsi0QYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJj1vDcCCEXUXSS1MSi-AvAKJIRoxrOgPt7mgpg5d4wiQ&oe=6ABC4BBB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=864194936409789"
+      },
+      {
+        "id": "4444980425784610",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744489463_1427757395842414_8587791680456060337_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uk_Hr5XG0pkQ7kNvwHJxLYX&_nc_oc=Adq62OfaCmbjCOnZMOF6WjmVk_0BRUlGEZ9aMJccbotc2AZsNd7bZ6-QTmwF7yIf6EQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIc5XPhwGc8_JEva0uKZQKx2shXleZo2cTQlv4DrykdmA&oe=6ABC3344",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOQjbDTEfKpSISsov61bo_uFWZBjt5g6hM4_swzr-wq3sEAYHC4mq01CEAor07jPvedRld_wfmyqTzi7-RsCr9FO6EfIk3nv45biaGGpDG3Ag.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PtuU3RpoJ1gQ7kNvwF0A3y8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNzc4OTc5NjMwMjY3NTksImFzc2V0X2FnZV9kYXlzIjo3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=88fcc03052e48f56&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODQwNTcyMEUxNTFEMkYzQjBFMEQ4QjlCQkVBQThCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NDQ2MjZDNDU0NUE2NzUwMjM4MDk4MkI4QkE5QUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO5d2uju-LCBUCKAJDMywXQBghysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4KPh__R1goY9iwl_190DgGe8BrXn54PCbneZ_ANn57Q&oe=6ABC3E7B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741888715_1006202072257273_2676111573408513870_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HB1VgtcQdA8Q7kNvwG2IhMh&_nc_oc=Adqdn9xIgZshsetd-m72bxHwe41RirAfGxEH8v5WEE9XMrS2FRiximwfdb8eEI7TQgI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLiSUBCN9tu9XZQ-o2jI3VIVoagwFHzU-ag3UtyVK3qog&oe=6ABC3747",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQTR_iSGutZMZwwDv80RWhI5lTFR0eF1elUkNIZj2Bmv9bjFOjSCqPO2yu3i6kpSI_pjzVHc7fYko_rqZRBzjEOk-oxejklmGx24di71Iigw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aV6HoqeMWIMQ7kNvwHOy2_G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTQ0LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Mzk4MDU1MTQ1MTkwNjIsImFzc2V0X2FnZV9kYXlzIjo3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=260a8f524d2d138d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRERjI3NTNEQUE1QkJCNEI1ODA0NzJERTdGQjBCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNDJDNjA4RTdCQkYzNkNCMjA1MEY0ODQxRjM1M0JDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasyIyTn9npBRUCKAJDMywXQBgp--dsi0QYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJj1vDcCCEXUXSS1MSi-AvAKJIRoxrOgPt7mgpg5d4wiQ&oe=6ABC4BBB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4444980425784610"
+      },
+      {
+        "id": "1639143721260953",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "15% EXTRA + מתנה בכל הזמנה",
+        "body": "מתחדשים בחג עם EXTRA 💜✨\nעד 30% הנחה באתר + 15% EXTRA ומתנות בכל הזמנה 🎁\nבקוד קופון: EXTRA\n\nבתוקף עד ה-27.9.26 | האקסטרה מחושבת על היתרה לאחר ההנחה | 10% הנחה על באנדלים | לא חל על אינדיבידואל וטום פורד | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818365534_921775637313039_7111040340117393355_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=47rfujJahEkQ7kNvwHiTZu6&_nc_oc=AdpByZWXqWOo4wzl1sLnmXad75NEC7lcX8JBfXQEg1izk6wFYJGFBxg5CVBM_4HqgmY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLWDAwb8BGhySnqjg0pi4u8OO9qX-b1UIkJH03G2fyQZg&oe=6ABC4404",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818968593_2224521674790692_6943353709416835402_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H_FtfLPmc-AQ7kNvwGRSuHb&_nc_oc=Adouk8sQVqwZq5MoUmb1f3f6jwMRAnVp4WUbKRqBQq9OHs2EGMaUm7HEsH3E7uBVDPg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIsUALZu_qk2-emzIPoLQnTnt441T8MxH4hN_y-dO7oCw&oe=6ABC3C35",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818605704_1618942066337627_538600410798333897_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i29C1VXCBzcQ7kNvwH6vxc3&_nc_oc=Adr8vz476LBEZGcPDflggmyP0tAs7KmjGNl_qqduFUTG08bkKcJ7N-jrlGjYblvqapk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIIuGM_3XnhvEMCCMxwwVK6F1mSs4qF59qApKR7-Peo2A&oe=6ABC538B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1639143721260953"
+      },
+      {
+        "id": "3747387262077102",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מתנות בכל הזמנה",
+        "body": "כל הביוטי שאת אוהבת. במקום אחד 💜\nמהבושם שעושה את הלוק ועד למוצרי האיפור שאת לא יוצאת בלעדיהם -\nהמותגים המובילים, מגוון ענק של בישום וביוטי, מבצעים שווים ומשלוח עד הבית.\nהיכנסי ל־ONLY’S ומצאי את הפייבוריטים הבאים שלך ✨",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801284583_1385587123128266_8440107021403219534_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OhGyhLOd37QQ7kNvwEpDeQu&_nc_oc=AdpNhjI_t68_cjHItZtTu49ofkBFv7gEXbFNTm_nGhHnYaJB5x6AZzPh9uugfRIVbEI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJNFqvwGqv2OtmB3bJDq5VnHiISxhbIFQkLfGsrmTigyg&oe=6ABC3993",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOdfxui4bdZDB24cflUvJsl_WngfT2K8BbKCqxD8RbafpkR7zK76WGHbb171TKwrOUlPYSMNwj_TpHrDetquampxFznStRfuhMxHSdq9w34XQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9UN8iBt-kyAQ7kNvwFOb4l6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MTE3OTA1NzY0OTAxMTMsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=54544e4d5729e00e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xOTRGMDU0MDhFNUZFRjgxRjJEQzE1QzM3MDdCQjM5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk4NDM5M0UyOTkyMjlFODYwNDk3NzQxNjAzMTgzMEJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaC2sDbi_S3BhUCKAJDMywXQD5EGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ9uFTVB1TF9ZSmFffsndDCY0b53t0SqK9CXGgRuQa_bQ&oe=6ABC585B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801439512_1823094282047826_8205086257763327393_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oJKGVRf2Pv4Q7kNvwH1GDxi&_nc_oc=Adqtp5zIYpqBCJVYSz3Q3VPLbjlT7A4WAPo7_65U8ER0eIv4G8v-1Xp9RKo6knUdp0o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLBHgDAtbrQkkobvuyrnY_03tTjjp5C9hdPZqG4IHYhPw&oe=6ABC4255",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMittFsOzA3w6QjeT4IdZjEU5Zi2J-NAek1NzgbAut_SgLKLplEYTUv0EN7xt_sv2CcM-8PYn8UcOohownuj3mo8gTYViVJgezsimfYzAnzjQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=IBjeT0hvTwAQ7kNvwGkLtfy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0Mzg0OTE0MDQ3Njc2MDIsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3f9bc81ff56c5845&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTRBMjM0NjdGNDJEMUM0MzlFMzhGQTE0REY5NkZCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NENDEzQjQ2QkZBRTk3QzkxRTVEQzhBQzZEMkRENEI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkxYyTnJOOBRUCKAJDMywXQD5MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQLl84dmUrgiXqBcXT_ELzJ2kU-zJWU851n-1DvpgA4sVA&oe=6ABC2EFC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3747387262077102"
+      },
+      {
+        "id": "1983095262361454",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "עד 30% הנחה",
+        "body": "השנה החדשה כבר כאן ✨\nזה הזמן לבחור ניחוח חדש 🌸\nעד 30% הנחה בקוד קופון: GLOW\n\nקופון בתוקף עד 22.9.26 | על המוצרים המשתתפים במבצע | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795485744_1059741000200877_6701020733047681481_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KSEmCRzBJ3YQ7kNvwF1x1_l&_nc_oc=AdqzFP_Ytnsfu9OS_nySnE-sCfvekFzvnU9o7yJPoVDGsxqETIEMpNW3IPl_vjEeUfU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKR-ifMG0m7VPtSvBmYhjgbwuq0w4NunFp1lOUszuMSlw&oe=6ABC4E30",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796416560_4490304047898278_844495674131560122_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C7zAufNrDJwQ7kNvwECcRxP&_nc_oc=Adrx5goZ_Bzw75-l2qjmbrPvd3krSR4M0oDbZbBN8EG1c9QP-Zb6U08Dicg0yhUoC84&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIA-3XZYuZCSAVVnxjqbQCR0WP2Ofu9b1OdWD54falTKA&oe=6ABC2C9C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813345409_1380315720749220_8962627361163648528_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=17-5g9bKKeQQ7kNvwF_A9P9&_nc_oc=AdocGJ5qMutekMxJ8rknsGgSBlSuXx5xyCnGa-cc9Y6_9aGVhIbH8Kv0iGhROdwKprw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIQ0R_peUsLcf_RN8rUJLGznZ7cipqheeVz9T-66vHygQ&oe=6ABC2DAB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1983095262361454"
+      },
+      {
+        "id": "1624797029017039",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "עד 30% הנחה",
+        "body": "השנה החדשה כבר כאן ✨\nזה הזמן לבחור ניחוח חדש 🌸\nעד 30% הנחה בקוד קופון: GLOW\n\nקופון בתוקף עד 22.9.26 | על המוצרים המשתתפים במבצע | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795132433_1656383929481773_271412362951435990_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dX3TTz49-PcQ7kNvwFYA86v&_nc_oc=Adr74P6_qxNbOTCxEiPKPdgENx86zd03TFq8QOdPRja3e66IsQlet9a6LwsU_RYD-VA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIvEHmvJuMGWe6ffO2kI-JLeo1hzZ-yfqaU2IWC4SUEhA&oe=6ABC4C92",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPAO4t9tegjulay2u7ihg3feK17VQAP0hlovC1H9R1Pg42Y4295izEkU7kK5KPOnLGbhSPo9eMn3f3FQy9e64bNfptBH_KQ6A1nXHHZM-Ig4A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yMXou-KROx4Q7kNvwFGY1na&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTE5OTAwMDczNzk4OTAsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7fc9e0dcdff4fe41&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMzQyODU2REM5OEVFNEREMEU0NjFDNTdGN0RGM0VBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M3NEZGOTBGMTRGRTg4NzM5MDMzRTJGMERCNTUxQkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk3qu8lYbdBRUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJkkk41s4jq4OiWJaR6E_qpMtwFuZtH9OhTDivYyNM8Ew&oe=6ABC2931"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808285894_1446196714278963_6434956361282444801_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g6gfdUNDCF0Q7kNvwEOXlKb&_nc_oc=Adoy0BPGqwHKkfbyG0p7EqH65W0BzDXx2Uiiyad8KFyARy0Ntt2in-BYA33jsc2SRA8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIh8LftPhfvNtJtqMdt0UlgLZYug1ZRxGa4W_4-fqUQlA&oe=6ABC4864",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMhdTFbiKpiJchS1q_0JhHt_qtdQ5WwRmGugTAfSpRfGEL6lzLWzfRSvrqbaHXdgwPLOTcYeRR0wDVRDvTAv1sFR5ptMI3KylcSFtxPkb5o-A.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8Eh8VveK5XkQ7kNvwHdPNYb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNDAwNDk5ODA3MjUxOTMsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=20a9c206c4bb9f31&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQjQ0MjQ3OEJDOTEyNEI4MjdFODdDNTMxQTM2QTNBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENEU1RTA2QjVDQkY4N0U0MTJFQjhBRDg1RDE0QUEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS37juppfNBxUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQLm4aSGaeuCB3e2n32w2CMueE2G2Eugb4oaeSfosKDozg&oe=6ABC2F10"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808614439_1545235177282028_5730429483366181172_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BC6XkLfmH00Q7kNvwE1eg_9&_nc_oc=Adr1GvEtEH0mghiRcREkfmRtbk-b7OIe8Z--ihjIArcnfTVNuZZq0mExttWwhR6skkU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIeBl6MVBwQTz6BY-HswCoqpWzWK2eXSF8YN5hgZ7eOFQ&oe=6ABC3D76",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPG1ANv4H7Myhd-MK6eDQZuIm8U4yPquXdw2nVYufk1vTAIJcriHBOC3B1pRBJzq-EJMH6-ZJ_ATs6FMTRQroMveQzhnNbIBBARi2V_4SwFHA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dGMBQxHFZJEQ7kNvwFHlCFk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTU2NjQwNjIyNTQxOTMsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d77beb48ed5e991b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QTRGNEJEQkFBNkVBQzE5NUEyOERBNjYwRDYxMkE5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNEJCQjAxNjJCODdCQzJFMEQ3RkFEQzVEMUQ0NUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbiseTZ78_VBRUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQL5xGQAG7nsIXBRiUUzlluLmLGzhHofNQtHYGISuknzvg&oe=6ABC50D8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1624797029017039"
+      },
+      {
+        "id": "1726022271729050",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Only's",
+        "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח חינם ברכישה מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689012573_989614393415227_4625534340742498183_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KUBBwYru7zkQ7kNvwFS5eH4&_nc_oc=AdpWiEPOFhlU9TxA9rtInfbMv-qgzQ2Br8MbREwWGsK1HtLTdSqRaqk-Vgpu0RIF9NE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKoW004yXw4BqDfussByAda741jCf1MX-DfgH-jCTUrFA&oe=6ABC508C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMIcPZjlJw_jHk6JCzpnNvZ4B3Aue-ckjzdEH9M0oetYVMtWsVjd4esCGgkyzbDx6Sf84DSKoqVUEy_9LpUyb9F-RbOcg8534BYdFj596xd6w.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ei4SAr0_gXYQ7kNvwE2lVLa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTgwMjY4ODUwNTI5MjIsImFzc2V0X2FnZV9kYXlzIjo0MjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7fd7aa8e598dc26c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDQwMEQzNTczMTM4NzVBRTUzOTUyREQzNDYwM0Q4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JDNDUzNDAxQjJGMjRBRjFFRTkyMUQxQTg5NjRFOEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb056P2jaPOBBUCKAJDMywXQESAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ5uDmMPZ_xw37qcVWZ_lzqenmfsYWmjbgcKFo7EGF9Zw&oe=6ABC4233"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1726022271729050"
+      },
+      {
+        "id": "27155608850765819",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707446955_1490034665929693_5582992795721566641_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vkb1X74QXDsQ7kNvwEfdJ8N&_nc_oc=AdpIpHa53bzgZLNQHgI20VpNBrp4tFA_LygH2YmTnlpzE5MBh82w653w3q4ZmDuqDWI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIdqRe4ua0PvCquxdBsRZceIQNcsWxoYNKrxBms3F0-cg&oe=6ABC53A8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA8s19iU6sbuG2wI2uJrukFaV7ED7vmNr0c4IH5DUvcb1YGcAHVQ-dC3BL4F_CmJGWU-JLLDoLQdThD0neJNwjvCecftzIXzBVpO7Sx7iGZg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WCmAzlSrJRIQ7kNvwEHCo-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDU4NzI1NjEwNzM0ODMsImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=28211aad3eddca8c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMDRBOEY2MjYyNDEwQTU0NTJEQTREMDg3QkZFRTBCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU3NEFDMkEwQUJDRUIyNUM5QkYzQkIwRjBEQkQxREEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWtaPxqOWsBRUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQISUZzfWuLogq9IL2O7TJbRH9-UdxQXykEHxXrWw6tU8w&oe=6ABC3CBB"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707154547_1468421257825689_6127496323908311245_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MQEaClUs0hsQ7kNvwFuzvPT&_nc_oc=Adp-GNrrI55zWxRPD18wrcLfYwYJE7Z4izdly2oS1CFxc05MRAOZWBc0nd_h9KoHbVM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIXDVjTl8lgX80TuQkvNxHyLP_nD-2rQnXCshZx16korA&oe=6ABC27B9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNXH6qyZt_JPBemFb2zQE6byN-HTFBHmyIbw1aWCilg1XB8f4BpiJTFxwHwP8kAS1BN8b6G9CuQY2NtKMX0HgnAHCx-bJRs8iBcAre_1y_xFQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=RMf_R21PlGAQ7kNvwE-_6Ar&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzOTkyNzA4ODY5NTEzMTksImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e84ac3fac0be27cb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRjQyMUE0MkI5REUwQzI4OTlFQTRBRDkxNjA2MDZCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE0NDFBMjgxOTMyMEU0QzZDMDYyRDlCQTYzMjMwRDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaupuanosfQDxUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQKh8yDlWUOqgR4uR171A5Sn4bZyNst8UnccUziVsKiNDA&oe=6ABC5AA1"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707328271_1009746348681485_4156707908682760796_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YZGrEEblZqkQ7kNvwGilcz4&_nc_oc=Adpzmkxd2HPeZT329-UKRtAci6uu5o9T_FuqOZ3mXwoXK4yABDjrZ8bxeiyfD8M8vD8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIBsGlTnUyPU6zyizRoJ43wwLwV8dwPf-rsu2v7bLlGjQ&oe=6ABC59FA",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA8s19iU6sbuG2wI2uJrukFaV7ED7vmNr0c4IH5DUvcb1YGcAHVQ-dC3BL4F_CmJGWU-JLLDoLQdThD0neJNwjvCecftzIXzBVpO7Sx7iGZg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WCmAzlSrJRIQ7kNvwEHCo-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDU4NzI1NjEwNzM0ODMsImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=28211aad3eddca8c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMDRBOEY2MjYyNDEwQTU0NTJEQTREMDg3QkZFRTBCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU3NEFDMkEwQUJDRUIyNUM5QkYzQkIwRjBEQkQxREEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWtaPxqOWsBRUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQISUZzfWuLogq9IL2O7TJbRH9-UdxQXykEHxXrWw6tU8w&oe=6ABC3CBB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27155608850765819"
+      },
+      {
+        "id": "1991588278164531",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/705072099_990551200019209_5507539390219233186_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XB-iS6-6SEgQ7kNvwHVxT0x&_nc_oc=AdoaQY-irsOHvEsoWO5LNIcUeWhHKrcuFnvFiznFGltdzqxxvWmAg7_vqmxTZNC616U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJrv5hER2d5p-Wp9oLXbeQIMc9DTdYNXPWsTuTSH8nF6Q&oe=6ABC4ADE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA8s19iU6sbuG2wI2uJrukFaV7ED7vmNr0c4IH5DUvcb1YGcAHVQ-dC3BL4F_CmJGWU-JLLDoLQdThD0neJNwjvCecftzIXzBVpO7Sx7iGZg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WCmAzlSrJRIQ7kNvwEHCo-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDU4NzI1NjEwNzM0ODMsImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=28211aad3eddca8c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMDRBOEY2MjYyNDEwQTU0NTJEQTREMDg3QkZFRTBCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU3NEFDMkEwQUJDRUIyNUM5QkYzQkIwRjBEQkQxREEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWtaPxqOWsBRUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQISUZzfWuLogq9IL2O7TJbRH9-UdxQXykEHxXrWw6tU8w&oe=6ABC3CBB"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/705439326_1377476634211398_4338622337293123358_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IvAg7TOX8JUQ7kNvwH3Khqp&_nc_oc=AdqYyNP4gxHT6eeaPxpXpBzUKFbLmlro3DCPAE2hha800ckC-lZd-h4rA40RDfYjgPo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLd5-z7VLreQCApXrYTA8leBw1BWYhuh-OR0ZkI4ceJ4Q&oe=6ABC4938",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNXH6qyZt_JPBemFb2zQE6byN-HTFBHmyIbw1aWCilg1XB8f4BpiJTFxwHwP8kAS1BN8b6G9CuQY2NtKMX0HgnAHCx-bJRs8iBcAre_1y_xFQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=RMf_R21PlGAQ7kNvwE-_6Ar&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzOTkyNzA4ODY5NTEzMTksImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e84ac3fac0be27cb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRjQyMUE0MkI5REUwQzI4OTlFQTRBRDkxNjA2MDZCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE0NDFBMjgxOTMyMEU0QzZDMDYyRDlCQTYzMjMwRDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaupuanosfQDxUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQKh8yDlWUOqgR4uR171A5Sn4bZyNst8UnccUziVsKiNDA&oe=6ABC5AA1"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706337001_1306828844223680_295194924860611225_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7F04jwA_ggYQ7kNvwGp4fPR&_nc_oc=AdoDksshaSrQzVnE1n55RSBz9hb7WO-WqqQNOZUCxcaMGSw0zCGpyW_wm4S3xCZhgQM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLDTcJ0HOP7gmW6Fxy_tNAJuXig0CBIDp_kN3vJJwjHrQ&oe=6ABC3D51",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA8s19iU6sbuG2wI2uJrukFaV7ED7vmNr0c4IH5DUvcb1YGcAHVQ-dC3BL4F_CmJGWU-JLLDoLQdThD0neJNwjvCecftzIXzBVpO7Sx7iGZg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WCmAzlSrJRIQ7kNvwEHCo-K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDU4NzI1NjEwNzM0ODMsImFzc2V0X2FnZV9kYXlzIjoxNDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=28211aad3eddca8c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMDRBOEY2MjYyNDEwQTU0NTJEQTREMDg3QkZFRTBCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU3NEFDMkEwQUJDRUIyNUM5QkYzQkIwRjBEQkQxREEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWtaPxqOWsBRUCKAJDMywXQFBZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQISUZzfWuLogq9IL2O7TJbRH9-UdxQXykEHxXrWw6tU8w&oe=6ABC3CBB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1991588278164531"
+      },
+      {
+        "id": "4404944573076136",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/61569124410439/",
+        "page_like_count": 3487,
+        "page_categories": [
+          "Public figure",
+          "Health & wellness website"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שמות הבשמים:\n\n1. THE SCENT ELIXIR - BOSS\n2. ⁠MUSC SANTAL - NARCISO RODRIGUES\n3. ⁠PATCHOULI INK - MONT BLAC\n4. ⁠EXTREME LEATHER - MONT BLANC \n5. ⁠ISSY MIYAKE - L’EAU D’ISSEY POUR HOMME\n\nבשיתוף - @onlyononlys",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 4,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707656188_4262634543881700_7124583793556789518_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NvtCR0NeFOoQ7kNvwGyTkms&_nc_oc=AdowWp9pedB7ydkruGTMd5WeE5OEAUGbi78d5MLlOli03CaKO1tckXiGYkWlKeP3HQM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJcJ6iSrkIw8YpCyPHIAkKdvbXV4lxP4zV3zing9PcIBA&oe=6ABC4A59",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m86/AQMDak4lRaAA7YIpMHfjgHtmqSZc-TTWrvlwsQYGlBg0NatqpRsLAgqj-ltzAmS6Dx2dDdeLavWzOROFXP2pPrXR48u-bFgIAnX3rkg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=qu6fw_0EBTgQ7kNvwE5QaPI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTY1NDg3NTU2MjE5MjIwLCJhc3NldF9hZ2VfZGF5cyI6MTQxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fddc6467d8e072b8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81ODQ1RDBCQUUxODEzRUZDQTc4MjgwMUY5QjJDRDhCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBCNEU5RUUxREM4QTdDMzkwOTFGMTlCNDBGNkQxMzg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaoxZbt4oa3AxUCKAJDMywXQFBZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQKJmtkRf6PgoNV6RiCD-GfNJ89z_Tlp2XlhrOFb8goyFw&oe=6AB83737"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4404944573076136"
+      },
+      {
+        "id": "3217475085308791",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "🎁 מתנות בכל הזמנה",
+        "body": "ביוטי, סטייל וחוויה - במקום אחד  💫\n ONLY'S מותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "link_description": "",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/742198030_1710797786827422_8623043392216503493_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eCFKm02yAG0Q7kNvwHufLmO&_nc_oc=AdrRjbGKtiA6YqBT5OVmr13esfA7xc3aUFjO2M8Mvkj16Pn4GEqsUMOKCff49F18GI0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKE2eZIPE8hgn1Wua9L258WgxF19ubu8_B4lKwOE-K2jA&oe=6ABC4304",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM9UUP2RPu1AmkmTxiMBVEl8k2DANwNK5Yr1fcTrMP9X9uQcl820uo_KybDhfVjMPpGEkHlJAPAHA2-lO9mH_oP0AVv0vGpN2MblcIPijLD0w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=un_ElcHGWU8Q7kNvwFeO_B2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTQyNzc4OTA1MDMzNjksImFzc2V0X2FnZV9kYXlzIjo4MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a5ea28c09f53b11c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CODQxNDFGRTVGQkQ5MENFOTJEOUVBOTk4OUFGNEE5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBBNDhGNzI4MUJBMEY0REJCQTEwODQxNTM1QzZFRkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSy8OyhrffAxUCKAJDMywXQCPMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQIUaU1iCNbvCesnCZteOFV2RNesg5Yo9-8azroB5UBPfA&oe=6ABC5DBB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3217475085308791"
+      },
+      {
+        "id": "1312285567784252",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הנחה בקופון SHIRAN",
+        "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "link_description": "משלוח חינם ברכישה מעל 249 ₪",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688516510_824463516951957_5648084718224222524_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fUTiBU2Q7dkQ7kNvwENgSws&_nc_oc=AdrQD-wTEWmwBHEDHAPRa9i-0zHCeqS2G-p4juQXDhMJmrx7EjBVSCHPXDz5tTNedeI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLsJSBbDdrov1F3OCZFGYLBoWTvXmVUL8rD7AnAUC8btA&oe=6ABC2CA7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZ3NpgLaRtzeHP3nQoRqn_D-rUppjoMULAYyVJ1Iz8lcw2ywH6mKfAd-YwVYDO9el0wd6Q5o4yJxzOyqCcIkliQAkBA6tmemrikiDz5oRWdA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3ZNRJuU8hqwQ7kNvwECJhku&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDc5NTc0NTQ4NDQwNjksImFzc2V0X2FnZV9kYXlzIjo0OTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=452528bf5f5be555&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DODQ1NjZBMkEzQzY4MzU3RDE5RDE3MDI2MUQxNjZCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQVXZ3aDJvRkp6M2dKMENBQ3ozbDZTd2lyWmVidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKwtug7K7KAxUCKAJDMywXQEtVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ9dhJK_znJX-kHCgoslpo3NVfYcNaWCm2aK6dzUeqn-w&oe=6ABC44F5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1312285567784252"
+      },
+      {
+        "id": "1410078687706893",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ביוטי שיש רק ב-ONLY'S ✨\nמגוון מותגים מובילים באיפור, טיפוח ובישום, לצד מארזים מיוחדים שניתן למצוא רק אצלנו\nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+        "link_description": "₪150",
+        "landing_url": "https://www.onlys.co.il/beauty/gift-box?cgid=PACKAGES-AND-GIFTS&prefn1=SC_isBundleDIY&prefv1=%D7%9E%D7%90%D7%A8%D7%96%D7%99%D7%9D+%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778767461_1070685945929575_3001568250526497162_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pHotrXEowPQQ7kNvwF2tF8j&_nc_oc=AdrE7xlo4r4Oy-0G9L5wOc0a0Ll82pHkCiuIskRcWr3n7FMTS39xfEMYmy_8IMp9Y1k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJUE3hfWaOCUT-1E1rJZCd2jzvSWIsWHAV0llKJdbFkZA&oe=6ABC3633",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778985949_835012016273052_144669714525981861_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmcvwu3ci58Q7kNvwH9NDJW&_nc_oc=AdokJ4ncFZbTkiVBQIXupbA6JCeYJSSdS6em3N4VPbjUTpgD3hu0gozi6dDh1e2BqUQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIL-yPDN_zMfPOkRPLUKuRaJZu3Uq1r-QVZs03T5Wt2Dw&oe=6ABC52ED",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779201218_1536383084327879_5449757860453591086_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oAAydiQkvm0Q7kNvwH6jQ17&_nc_oc=AdoaDfGvIhaI02JXUChpZRvdnHlgpwKpjNMKiSWJDvgIEglGCE-SkeySXz3s6OUKib8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQL7qbN76p181PDBdbFZgy339cae1gk-xYZhcO7ziRcpbQ&oe=6ABC517B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778985954_3136350069892820_414593272594504638_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8JMWRSAy5wwQ7kNvwEC4paP&_nc_oc=AdrW9p4rdiCI641S6pITjL1Bo7WQdu07n6KrImtxwy0fLaoHYZ_DJKS154p8PqgTPkA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQK2uMQ-fRt0f5pGXg6roOfhWZy12La_QcCd8a_GDxO45Q&oe=6ABC39AC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778869699_1346343090891566_5715394221082876444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_kyS_n0GwZ0Q7kNvwHX3jAu&_nc_oc=AdrR2riezamZ2z4JpslY1cI3Fo0Zi5DQX4X8zAAKPonphRDaohrtClKqBez9E_KWNac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLfzQBIv9GHMbc-9PluQAmp4DKdwQfE0yqmlC93fy44BQ&oe=6ABC5057",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778173119_1743911213321469_7347675504526536237_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Vc-I2xqoVsQ7kNvwE0r97j&_nc_oc=AdrnHh18BGNC7pVHWayLVenpF4vuaplE0Q4EixYgJB3KU-Y4neWl1aCBa4pPOrwTq5E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIjy8YbKgi11KItZ3bDWaJcRoLa50gS6v-sFLfPbd6lkQ&oe=6ABC3FEA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1410078687706893"
+      },
+      {
+        "id": "1665523428495623",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מבצעי חג  ✨ ONLY'S",
+        "body": "כל הביוטי שאוהבים - במקום אחד 💜\n30% הנחה על מגוון מותגי הבישום, הטיפוח והאיפור המובילים ✨\n🎁 מתנה בכל קנייה | 🚚 משלוח מהיר | ⭐ צבירת נקודות בכל הזמנה\n\nבתוקף עד 15.9.26 | בכפוף לתקנון באתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801883400_2051987385684072_7032322031395055465_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TGN8OfWtn_IQ7kNvwHG_AWB&_nc_oc=Adq0EmY5SPgvNcVgZ3L67PrbxUullrtKHrJX5SkVMsg9PEMJAr_hYIOLqAVWSiq2wPo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLCMIC4vFI9l95BHvPrZLNi_kvGqrx9JUsNCvDM7jJFvA&oe=6ABC4EC5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPV4jRyGgixEv8D0BXOAKCHHiaRntzxqrugqy7K4HzPJmuY0__znjBpZZi3pX1FTIvf1C9D8kNyR-7Zkha9c1i6LIXnCR6asoMFLclIWxsQFQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uePL_HsOeKsQ7kNvwHiRspA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkzMDk2OTMxNjczMzI1MywiYXNzZXRfYWdlX2RheXMiOjE0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=783834f86a9fda32&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRjRBQzlEOUYwMjY5NkVFMkVBRDNBOUU5NkExMjE4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U3NDE4M0ZGMTQ4Q0I0MzNCOUUyMUM1MkY4RjQxMzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKxd32xa2nAxUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQJAxqP2GejRQXM11P_cYQ7jYT48jv99qZZmlUeMAewpZA&oe=6ABC3CCC"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799361864_1073178402283994_192181186020525982_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rh7SiLpv7qwQ7kNvwGqctLf&_nc_oc=AdompyVm5N7QQO1ZH5fUuUb94IDa22DN35RZi7qB1e86V21LdR9mjiq44pgSmLczSdA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJqJXAwLQUuyolAgohxvxHLiWAMs5KvQNos1-jLI_UOJg&oe=6ABC58B2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPseJIlh4VzHiKLlGz6iGszwL-dXqsyi9awFI53XL9JcXEUeIH6OPggSGv6w4skulGnY6yFX7NVfbOZ0Nu8-BlF_WykTAUZRCc8ou6PZCo2Rw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=DiUCpWXQYWsQ7kNvwGCb-hl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Mjg1NDA0NDU1MjI0MzUsImFzc2V0X2FnZV9kYXlzIjoxNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3773a9d8976b05e7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RTRENEI2NTI5RDEyRUI1MDU0NTIzMUUzMjgwQ0Q4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg3NDYxMjAyMUQwNUNGNDMyRkQ1RUY1QzlEMTg2QTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG6I_sw8nkBRUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQIs8iMkqK2nLW4nqTmGUKR36hC3ZZqZAMbfLE1gNCvD7g&oe=6ABC4779"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800965653_1631165981955710_8165981176519927837_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oIfXTxKCMhYQ7kNvwH1grrD&_nc_oc=AdorEX5vz8JPDBCoaZV4Qw6dBpGMqX5nkO_dWeFSgyK00vKAhO0FQFhVCNfi5I9XCCU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKHW-BLPevlxhYTANlc5B0Y5aZmGJIPI0yVG06If5jY1Q&oe=6ABC5147",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJgZe0PoszfMwnb5y-qKugkViL1kgKcYwSCIxILDGf1N9w8UBsRAGpgz5m-g5WMHWij6AJiihu-0NFgCOvta-H6B02pfZthUmPPjAPCIGBvQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SH3HK-aOxQsQ7kNvwGsoRNq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM4Mjg2MDIwMTYxMDEzNjQ1LCJhc3NldF9hZ2VfZGF5cyI6MTQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=505c35e05e61d3f1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ3Rjg3OUFBMUUzNEQyODYyNUI3NDJCMTM0MkJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIzNEQxNkQ3NDdBQ0Q5NDA3OUYyMTUwNjk1M0FBMkIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaanvz41ruCiAEVAigCQzMsF0AuAAAAAAAAGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQILxa6po1zerJhX9Pe7M1yDI20zcBQPY7_qvn-dHlrtCg&oe=6ABC38E6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1665523428495623"
+      },
+      {
+        "id": "1424180329805252",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "15% EXTRA + מתנה בכל הזמנה",
+        "body": "מתחדשים בחג עם EXTRA 💜✨\nעד 30% הנחה באתר + 15% EXTRA ומתנות בכל הזמנה 🎁\nבקוד קופון: EXTRA\n\nבתוקף עד ה-27.9.26 | האקסטרה מחושבת על היתרה לאחר ההנחה | 10% הנחה על באנדלים | לא חל על אינדיבידואל וטום פורד | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818918021_1029785680095388_7335071273793268323_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PNxuUlVr9twQ7kNvwHAhGU1&_nc_oc=Adqyxe1xAusJ8V9uXIPCQnEICQ91-QNGsRLdte3bpmc67XZ1f4YK-nK4IrAW-9MxGpw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKixnjkqxii-WiL1zTf2kWvhnugonylUZWGardGha4cTw&oe=6ABC2E8F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819012150_954361140406896_2713831328488693340_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WLc1V37YkDEQ7kNvwGvA0-P&_nc_oc=AdovhJs2TQT2CKgdhVd8ZxSgE_RvgNOe8uFUIMoZ8sQyhtSa4h7dz7B2jrtxXU36jf0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKuSsWspqPT1FkmlzeertPiKRpNVbV3TrKOz3rOKzJACA&oe=6ABC5605",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818486951_2484306718745254_1428948564874253803_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oiw0SNDl8mgQ7kNvwFeYRr-&_nc_oc=AdpvuvEDMsBqWw9uNXCjrVrHdM49iozev2Nxk03PIxg8KHPjSGK94-oDAX-PXuqPbSE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKbXzn3wMzvLS_AzwxM8h6Akj3GL8au4ncJWWNxec-Xug&oe=6ABC472E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1424180329805252"
+      },
+      {
+        "id": "1096878369498803",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "15% EXTRA + מתנה בכל הזמנה",
+        "body": "מתחדשים בחג עם EXTRA 💜✨\nעד 30% הנחה באתר + 15% EXTRA ומתנות בכל הזמנה 🎁\nבקוד קופון: EXTRA\n\nבתוקף עד ה-27.9.26 | האקסטרה מחושבת על היתרה לאחר ההנחה | 10% הנחה על באנדלים | לא חל על אינדיבידואל וטום פורד | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/817134773_1638563487845191_8773362601607246295_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EerliOMBUFQQ7kNvwEnTZYB&_nc_oc=AdqVuIdYW9IcIH_P05jON8Stpl1ai5OCCObtJ590k4ma6UOFhhkV_6xKw3qNwN8xKis&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJkJ-NHLDwsoqOLVBmke0zM3iFxjI1yUqDFXD_f2MCT8Q&oe=6ABC33AF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/809632581_1117046794216364_413119340627774464_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MMTOEc4_1l0Q7kNvwFxFXjE&_nc_oc=AdoP6cyejuaH6s0w5gj9OBwaXM4bAKbdV97750nnCfTdaP3bAMAkyV7JiZXElTxbFp0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLTdeclQ8KA3yE4j69w2MP4jstcayS1kx3vCwNVImFNEg&oe=6ABC3E1E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814670477_2053207125312996_2214293578117877720_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rPCuCnnFD2YQ7kNvwGrtS1L&_nc_oc=AdpZwmUhdDzEpNG89UrXYMUBQya4EZdnpGwSsOXwJWsjQBRHN1K8CwbPvAWgSPhfD0w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKNan4d3qauTPipJ9oAAFL2K6DtkyNBvMtOQJoaE-wE1w&oe=6ABC4536"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1096878369498803"
+      },
+      {
+        "id": "2001626330725261",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "ONLYS",
+        "body": "מותגי הביוטי המובילים בעולם מחכים לכם באתר\n✨מתנות בכל הזמנה\n✨משלוח חינם מעל 249 ₪\n✨צוברים נקודות מועדון בכל רכישה\n\n*מתנות עד גמר המלאי",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495226333_579418714642512_4580002638383712563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9FaIySV2tLkQ7kNvwGr7ADI&_nc_oc=AdpoYjzK3DA5ClWQXNozHWh-i_yV3ftrTzUwbgaPiW4hG7KQxxRBmExIw5SW-qH1Ers&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLd1rijaAh1YIfnriIDkyHbguNnpQPYwMmuukorvJ-ehQ&oe=6ABC5278",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/496007986_1340904820529841_7953908182524829504_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P3JF_GjD5ckQ7kNvwEBHAt2&_nc_oc=AdqQZohFwvF4GcqSKdc-gcjoE_B7hBVtEfAGhrN_zG47h8C1tiTroUojPOJSkbL9C9k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQI4TiL7_RxGVnn__Jvg_76ZRrn1ce5aDxL07qu7D_aCPw&oe=6ABC4BBF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495843235_704819715378510_4728912573833748463_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EfyhAha1lscQ7kNvwHUbWGY&_nc_oc=AdotJw5vsluLp5yslGevBGn253Xy1nvIoMRiNnz9Pzqu916mDvYGnkU61pAlaDAByOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLLjXp9Gc_nOVokpMtmQZknoXqvveQQNmsNhOvfUkxE1Q&oe=6ABC4D56",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495030124_1756930921923619_1139909229695161236_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AzTuPS-wAuAQ7kNvwENWAPL&_nc_oc=AdoF4ZDV5QDmIeUzCpnW8Tmot7niEknSjC3Z4fCd91ROAv19DlhmeAD8c77FKOxULDY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQIKOywRQ149Vo74kh0rxE7RAp_y1G_xiBYOGNtaAIMu8g&oe=6ABC2957",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495602910_494371133759883_90523145430422177_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fZbo96-h5LwQ7kNvwFRGMIa&_nc_oc=AdrUb-B6sN0acp5w8L7ZQsrKWFXMSIDWBJHV4iCzh4sDQQsJ4wh8sLpnzZ9abzF5HvU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJHTvMfYR2Vercf9MaNUVQ4ufteU0HUewKN_oIZZ-tImg&oe=6ABC485D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495546817_1222356069299539_7264389217076189849_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I9rK6VUpW60Q7kNvwHGf80q&_nc_oc=AdpSo6MJfaMII-x4yD227iOelQg6hyV_dUGroGzF9LOYITnaV4qegPi3kmhF8nNsNAI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLJd8NeQVvGjl1kmb6m-zJPOENfm3jwuSIEkwzNartFfw&oe=6ABC4E66",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495751403_1341338793648963_5788039115283583106_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lnLAh9EkWM4Q7kNvwHlccoc&_nc_oc=AdrPl29BolCAKNmo4jmqltivpS7QLw27RF9NF_Q_7J873lI_GAYfYvdNA6Rcm1VL4J4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKXCjoKP3ytai8PXacZdEewJiFszBG1f6iq2twNcu4ePg&oe=6ABC3EDD"
+        ],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/496005685_1131832268712383_7579272120763501838_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zc63y3Gccj0Q7kNvwH20Vpl&_nc_oc=AdqQNNk_YEwnj23l2pFkodBQNS5dHZJbsCR5HEZg7Q_PulwquCSEiNW_Am_WzSV0Rik&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLULkDas6WoMZRszqFYefeoKbJMMOA4gdgA1E9danJf5A&oe=6ABC5CC1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMCICVnAnkDi4vxapp6gN7x3_lZRB5juNKG5EzJCrZBhti6O4VGWW6Nv2l-kY3_2dIzL46r17YNo9CsGKF3DppH.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ltB7fDGPHNgQ7kNvwHSGHFK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjozNDcwOTY0NTI2NDAxODc3LCJhc3NldF9hZ2VfZGF5cyI6MTYyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&_nc_zt=28&oh=00_AQI5I3IWsC3QTuybrsQVYxwdJHa4pk7ZiBAF0MZmVL_kXA&oe=6ABC28BA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2001626330725261"
+      },
+      {
+        "id": "2210866143196840",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מתנות בכל הזמנה 🎁",
+        "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty/perfume/hugo-boss",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 4,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813386516_1579799366542704_608183136954780743_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IZJo3SFddwkQ7kNvwHGyn_f&_nc_oc=AdpJBrm2BYvDFcH_FtQPVfmNI6UyUVl05_6ziC5xd5G4z9RLhHF9KvPDx4zzgRb0cG4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQK5GMa6qO9hZPD1DfArfJzWnyElO8nm4FPmJOE-H7X9_Q&oe=6ABC3842",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813386513_2986984788320760_7603481820836254322_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2dgxbUhE8KoQ7kNvwHKxPGi&_nc_oc=AdoVYNYAGMSIK6wCv1Vwukqo_MWikOVQVkxwx1oeKWE8s9OwEB_bRqWyZFvQEv-L7Jg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQKaTdvawIoGgyNVBeE2BL6UuysWaP7hhA5J8t2oRFyqMg&oe=6ABC36DB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813624530_1778829676686106_1348987593689480857_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=29UR6IJ1fw4Q7kNvwGznUZN&_nc_oc=Adpsmwu2IpllbMpV-hdx27LF-6zTLUi5sQQ6gxf9EEC6QUr3bdwrK2czSpTn2uUJxyk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQLimh958tGP_Cu7wzyrd1z3lCAxTYvNWLNPjo7vlYOePg&oe=6ABC3A15"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2210866143196840"
+      },
+      {
+        "id": "947163441219335",
+        "page_id": "103629322262735",
+        "page_name": "ONLYS",
+        "page_url": "https://www.facebook.com/onlyononlys/",
+        "page_like_count": 5189,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "15% EXTRA + מתנה בכל הזמנה",
+        "body": "מתחדשים בחג עם EXTRA 💜✨\nעד 30% הנחה באתר + 15% EXTRA ומתנות בכל הזמנה 🎁\nבקוד קופון: EXTRA\n\nבתוקף עד ה-27.9.26 | האקסטרה מחושבת על היתרה לאחר ההנחה | 10% הנחה על באנדלים | לא חל על אינדיבידואל וטום פורד | בכפוף לתקנון האתר",
+        "link_description": "אונליז - Onlys הוא אתר קניות אונליין עם המותגים המובילים בארץ ובעולם בתחום הביוטי: קוסמטיקה, איפור, בשמים ומוצרי טיפוח. תמצאו באתר פריטים מיוחדים, מתנות והפתעות שלא ציפ....",
+        "landing_url": "https://www.onlys.co.il/beauty",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818510471_4092748694364700_290715385747775427_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ux-FcRYCg5oQ7kNvwHEtIWU&_nc_oc=AdpEp00LokSbX7WpxN2ufBzru0ctLBVSKJpNMHip76qeomvfbhFhSfBWS_5qs-AzNyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQL6MbSTvwOU5ViFYAR5ASXjp8mFXddoI1pyDF9iwe8PgA&oe=6ABC3A03",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818365441_2037834573537344_6790974069003395316_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bezhw4a9DkcQ7kNvwE1Y93T&_nc_oc=Ado_ygBFjvEBIjC4YzByOKCqJ4Q8Ds8Ol01I1Mo-pK7apLUsDn451ywX-QjMAyL0nrw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJYmC20RmVJfpoFkQjQZvmLS4Sp52oFN96i8d3b_g-Cbg&oe=6ABC4F57",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818365432_1845104563147647_7258849668393582377_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbQT20O5cG8Q7kNvwFWTSR0&_nc_oc=AdpGZf0QJ6CYftJa00l0MZ7sa8_bExVipOtpbSzcaBI2RDh1XBR_FK8xQMvl0WZbYhk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fuJevuoDs7_e6fDiVEoaKg&_nc_ss=70289&oh=00_AQJm63vEGJVIU4yWr9XWyPBI8-GFieptqlJN-OCKR-q1og&oe=6ABC26CB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=947163441219335"
+      },
+      {
+        "id": "1682569726330067",
+        "body": "המוצרים שאהבתם עם הטבה שאסור לפספס🎁 \n 10% הנחה מאיתנו בקוד קופון ONLYYOU\nמתנות בכל רכישה ומשלוח מהיר חינם בקניה מעל 249 ₪ 🎁\n\nהנחה על היתרה | על המוצרים המשתתפים | בכפוף לתקנון באתר",
+        "landing_url": "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "895734923483168",
+        "text": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "1376172197902252",
+        "text": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "links": [
+          "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html"
+        ]
+      },
+      {
+        "ad_id": "1323167290017698",
+        "text": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+        "links": [
+          "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html"
+        ]
+      },
+      {
+        "ad_id": "1682569726330067",
+        "text": "המוצרים שאהבתם עם הטבה שאסור לפספס🎁 \n 10% הנחה מאיתנו בקוד קופון ONLYYOU\nמתנות בכל רכישה ומשלוח מהיר חינם בקניה מעל 249 ₪ 🎁\n\nהנחה על היתרה | על המוצרים המשתתפים | בכפוף לתקנון באתר",
+        "links": [
+          "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}"
+        ]
+      },
+      {
+        "ad_id": "1112726985267892",
+        "text": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "links": [
+          "https://www.onlys.co.il/beauty/perfume/issey-miyake"
+        ]
+      },
+      {
+        "ad_id": "999200476187701",
+        "text": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+        "links": [
+          "https://www.onlys.co.il/beauty/perfume/issey-miyake"
+        ]
+      },
+      {
+        "ad_id": "1713447749862155",
+        "text": "ביוטי שיש רק ב-ONLY'S ✨\nמגוון מותגים מובילים באיפור, טיפוח ובישום, לצד מארזים מיוחדים שניתן למצוא רק אצלנו\nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+        "links": [
+          "https://www.onlys.co.il/beauty/gift-box?cgid=PACKAGES-AND-GIFTS&prefn1=SC_isBundleDIY&prefv1=%D7%9E%D7%90%D7%A8%D7%96%D7%99%D7%9D+%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "26661687796837941",
+        "text": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "984759367521355",
+        "text": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "1672124947375762",
+        "text": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "1371364201118753",
+        "text": "ביוטי שאוהבים, במחירים שאוהבים אפילו יותר ✨\nמגוון מוצרי איפור, טיפוח ובישום ממותגים מובילים, עכשיו במחירים מיוחדים ומשתלמים במיוחד \nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+        "links": [
+          "https://www.onlys.co.il/beauty/last-chance/special-sale"
+        ]
+      },
+      {
+        "ad_id": "864194936409789",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "4444980425784610",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "1639143721260953",
+        "text": "מתחדשים בחג עם EXTRA 💜✨\nעד 30% הנחה באתר + 15% EXTRA ומתנות בכל הזמנה 🎁\nבקוד קופון: EXTRA\n\nבתוקף עד ה-27.9.26 | האקסטרה מחושבת על היתרה לאחר ההנחה | 10% הנחה על באנדלים | לא חל על אינדיבידואל וטום פורד | בכפוף לתקנון האתר",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      },
+      {
+        "ad_id": "3747387262077102",
+        "text": "כל הביוטי שאת אוהבת. במקום אחד 💜\nמהבושם שעושה את הלוק ועד למוצרי האיפור שאת לא יוצאת בלעדיהם -\nהמותגים המובילים, מגוון ענק של בישום וביוטי, מבצעים שווים ומשלוח עד הבית.\nהיכנסי ל־ONLY’S ומצאי את הפייבוריטים הבאים שלך ✨",
+        "links": [
+          "https://www.onlys.co.il/beauty"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.onlys.co.il/beauty",
+      "https://www.onlys.co.il/beauty/perfume/narciso-rodriguez/000000000000131534.html",
+      "https://www.onlys.co.il/on/demandware.store/Sites-onlys-Site/iw_IL/Default-Start?utm_source=%7b%7bsite_source_name%7d%7d&utm_medium=ads&utm_campaign=performance-dynamic&utm_content=%7b%7bad%2eid%7d%7d",
+      "https://www.onlys.co.il/beauty/perfume/issey-miyake"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "filtered": "2026-09-25T12:59:51",
+    "qualified": "2026-09-25T13:01:46"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.onlys.co.il/beauty",
+      "https://www.onlys.co.il/beauty",
+      "https://www.onlys.co.il/beauty/perfume/narciso-rodriguez/000000000000131534.html",
+      "https://www.onlys.co.il/contact",
+      "https://www.onlys.co.il/on/demandware.store/Sites-onlys-Site/iw_IL/Home-Show",
+      "https://www.onlys.co.il/Aboutus"
+    ],
+    "store_signals": [
+      "cart"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

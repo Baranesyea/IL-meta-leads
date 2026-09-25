@@ -1,0 +1,1384 @@
+{
+  "lead_id": "2026-09-25-081",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://moonjewelry.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100093353714425/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/moonjewelry.israel/",
+      "source": "https://moonjewelry.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972549368071",
+      "source": "https://moonjewelry.co.il/",
+      "confidence": "medium"
+    }
+  },
+  "meta": {
+    "page_id": "107025032419408",
+    "page_name": "Moon - תכשיטים עם משמעות",
+    "active_ads_count": 32,
+    "search_keyword": "תכשיטים",
+    "sample_ads": [
+      {
+        "ad_id": "805395798518681",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617597426_2159081447953188_424638130833372146_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QWCkvNZSMAEQ7kNvwFdzqdO&_nc_oc=Ado_O-igYs6ic5c3mfd87WPLIgT-cq2gxZyJSNRkLSYiiaNwkkeSGa38ywGkiCApMgg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQLSHzaIHMJSl2_xC3SpDtEdmIRCEmorfkZahyqL9HjKXA&oe=6ABC45A8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618310518_765836949871726_3140381402995317791_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D9FhK4gIhvQQ7kNvwGMz3t8&_nc_oc=AdrlSVvnfFme7J1yIjIsnPkiE18KLizei6JumjTtPgh9NXP4oKWtMnrlafg6yXbzm0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQLvlbrENOY0wczR5t-tOG-_gcssKR_OX0ePBhPOxGfRMQ&oe=6ABC5667"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1771833600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=805395798518681"
+      },
+      {
+        "ad_id": "1199912778574205",
+        "link_title": "תכשיטים עם חריטה אישית",
+        "body": "בתקופה כזו של חוסר ודאות, האהובים שלכם ישמחו לדעת כמה הם יקרים לכם ולקבל מתנה עם חריטה אישית ומרגשת עד הבית\nתכשיט עם חריטה אישית, זו מתנה נפלאה, שגורמת לאהובים שלכם להבין כמה אתם חשובים להם, ומה אתם עבורם.",
+        "landing_url": "https://moonjewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527716876_539909569148582_8978991928534482510_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3RgU_OzAuSgQ7kNvwE-ca8F&_nc_oc=AdoICvcslbeLt0iDoDNQ0_3ivsAQviA-dVYbrTT8relhqFJ12Gugz6i3J54MwKyqjXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQL4wcqf8Vx5tKKnImLOp68y6TmvI8Gs7GK9aEl2uoVbrw&oe=6ABC4594"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1771833600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1199912778574205"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 32,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE",
+        "SHOP_NOW"
+      ],
+      "page_like_count": 1185,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "805395798518681",
+      "1199912778574205"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE",
+      "SHOP_NOW"
+    ],
+    "page_like_count": 1185,
+    "page_categories": [
+      "Jewelry/watches"
+    ],
+    "page_ads": [
+      {
+        "id": "805395798518681",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617597426_2159081447953188_424638130833372146_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QWCkvNZSMAEQ7kNvwGMyYG1&_nc_oc=AdoTVmgK99LZn1JVUE6-rJhAjmm_H37rFFuBSnHgjRJEpEgMYkersTq2lWJHwQcKYBk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJDXQhNpBSKW65aMGAjGuMG3FI8BJytyQ_EPN2JnEnXiw&oe=6ABC45A8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618310518_765836949871726_3140381402995317791_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D9FhK4gIhvQQ7kNvwFzR_Uj&_nc_oc=AdrbgA8wdyHprMjvF_WxcOA_4ykoHF1ovfsex2uauAOLOPt8UpP1HGh_jXwEXw2shcE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJUQQRWOmpWta7hOJz1GXVECGJHJrZmOFQOF1PfMtMzDA&oe=6ABC5667"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=805395798518681"
+      },
+      {
+        "id": "1199912778574205",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "תכשיטים עם חריטה אישית",
+        "body": "בתקופה כזו של חוסר ודאות, האהובים שלכם ישמחו לדעת כמה הם יקרים לכם ולקבל מתנה עם חריטה אישית ומרגשת עד הבית\nתכשיט עם חריטה אישית, זו מתנה נפלאה, שגורמת לאהובים שלכם להבין כמה אתם חשובים להם, ומה אתם עבורם.",
+        "link_description": "תכשיטי חריטה יפייפיים",
+        "landing_url": "https://moonjewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527716876_539909569148582_8978991928534482510_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3RgU_OzAuSgQ7kNvwHwxuT2&_nc_oc=Adpwx_g0A8Wu6CCj50FDcHbsN5u1h_l64_S2_VjXRpV2_rJBmNK6J1nblA4KPuLeOr8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKONBboVO9ats3ljUHcUGcTKcuuPb1deKxq-k1snvwejA&oe=6ABC4594"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1199912778574205"
+      },
+      {
+        "id": "884910180978959",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "תכשיטים עם חריטה אישית",
+        "body": "הגבר שלך הוא הגבר המושלם נכון? 😍 הוא חזק, הוא שומר עליך , והוא אוהב אותך, הוא תמיד עושה הכל בשבילך. תראי לו כמה הוא חשוב ויקר לך ותעניקי לו את המתנה שהוא הכי זקוק לה, במיוחד עכשיו. צמיד עם חריטה אישית ומרגשת שיהיה איתו גם כשהוא קצת רחוק.\nהצמיד עמיד למים 💦💧 ומגיע בקופסא מרשימה 🎁 עם אחריות לשנה, הוא יוקרתי ויפייפה, והחלק הכי חשוב שאפשר לחרוט כל מה שרוצים ומרגישים, שמות, ציטוטים משירים, משפטים שרק אתם מכירים ועוד.\nזה בדיוק הזמן.\nוזו בדיוק המתנה.🎁",
+        "link_description": "תכשיטי חריטה יפייפיים",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527150556_723980057203364_4801950471534566571_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N3oK7eCmUpYQ7kNvwHR7e8G&_nc_oc=Adq-kOWsMMpLRwGQgOE-bp4j1CZWnj9UjGWj925rMT4hymw6Jq4i_qoxBjZIdjMRIhk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIf5i2J4pjMNt8BQQdUdpJR1lEdcsSinaR5wFnXUow4Kw&oe=6ABC60D8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=884910180978959"
+      },
+      {
+        "id": "1295388989167569",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "תכשיטים עם חריטה אישית",
+        "body": "הגבר שלך הוא האבא המושלם נכון? הוא חזק, הוא שומר עליכם, והוא אוהב אתכם, והוא תמיד עושה הכל בשבילכם, בשביל המשפחה שלו. תראי לו כמה הוא חשוב ויקר לכם ותעניקי לו את המתנה שהוא הכי זקוק לה, להיות איתכם בכל מקום ובכל זמן, גם כשהוא קצת רחוק.\nצמיד חריטה עם שמות המשפחה. במגוון צבעים שהוא אוהב. \nזה בדיוק הזמן.\nוזו בדיוק המתנה.",
+        "link_description": "תכשיטי חריטה יפייפיים",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/526834263_1840416079886288_1473453830439018644_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1AL09prGTrQQ7kNvwF8AfMQ&_nc_oc=AdoyW0HsiUa75DKXtS7Ok7morzJMCaCnQo-GQB81GT60Pb7hrKaplV91GILe6fi2h2I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLwYSe-38jtBo-dutmqRmjnpSq2vcCMLxASM1RWUQdXBA&oe=6ABC4DBB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1295388989167569"
+      },
+      {
+        "id": "3414681945402890",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "🌟🎁 מחפשים את המתנה המושלמת שתיגע בלב של היקרים שלכם? 🌟🎁 תכשיטי חריטה אישיים הם המתנה המושלמת שמספרת את הסיפור שלכם.  תכשיט אישי שמגיע מהלב ישר ללב, ירגש כל אישה שתקבל אותו 🌈✨  האהובים שלכם יתמלאו באושר כשקופסה קטנה תיפתח ותתגלה מתנה כל כך אישית ומשמעותית, תזכורת קטנה ויפה לאהבה שלכם 💖  \nב-Moon Jewelry כל התכשיטים שלנו עמידים במים, לא משחירים ולא משנים את הצבע 💦  אתם יכולים לבחור תכשיט ולחרוט כל דבר שמשמעותי עבורכם - שמות, תאריכים מיוחדים, משפטים משירים אהובים ועוד. 💌  🌈 \nבמיוחד עבורכם, אנחנו נותנים קוד קופון מיוחד של 10% הנחה! 🌈 בקוד קופון: LOVE10  \nכמה זמן לוקח להנות מכל הטוב הזה? עד חמישה ימי עסקים והמשלוח אצלכם בבית 🚚 \n והמחיר? המחיר כמו של זר פרחים 🏷️📢🔥  כל מה שאתם צריכים לעשות זה להיכנס לאתר שלנו, לבחור את התכשיט שמתאים לכם, ועוד כמה לחיצות והתכשיט יגיע אליכם עד הבית. תהנו! 🔥",
+        "link_description": "אנו המותג MOON - מון מתמחים בתכשיטים בעיצוב אישי, עם הוספת משמעות של חריטת שם או משפט עם משמעות. כל תכשיט מיוצר בקפידה על ידי צוות המומחים.",
+        "landing_url": "http://moonjewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713344749_1929401998448665_3756541129099995737_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GiRrRoKqVBgQ7kNvwHKALFe&_nc_oc=AdqZs76ZlPwWXaDqHWwDZ8fG9BkfGTYQ_dPLDUtQWJ0OMU4lHJcVLKw3kGZu0eaLS1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLnZ_aHtvwdnPaclpENCo5JyLKZgDVrvsCSWTTq6aUjXg&oe=6ABC5775",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/712179586_1555787156105977_5659224465283031707_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ToL6SAA-f6UQ7kNvwG4s4GD&_nc_oc=AdrQwVxI_667cS1yRV9vrmQ3C8CDtcrvZjKaK_efqDXzltHrQTJQNtTOS1Fi1S9eUYc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLwaIDy9GAPD2A8R4aAeh0gS6s7mdyJVLbgAFk3bqkw_Q&oe=6ABC5C2F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711190019_2887986088214044_8688229991654480904_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VLXRvmMXciUQ7kNvwEhzOfB&_nc_oc=AdpHLV2-V4IKrKHJSrsw2W1DRmV7SGxI_snTrl3dBJLXzfSU65Ea6CBJnQYMNNu9Jbo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQI5Gf3ZYSIKSBG75pGQK60PE6UoZre3v6hTlfMrUDexnA&oe=6ABC3D20",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/712115309_2811243612565534_7491988675293877842_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bv36KahERD8Q7kNvwE_3rqI&_nc_oc=AdrSX_P9GZ5AQmgfrRAfqPDALCPY1Kn3taqm82qZ3MGmvEOYBB-NQeo49yzubmdw3f8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQL2u1ydbmVKhfiltVqtgv_kjIJ-OaPQ40DdGQ-nOMH45w&oe=6ABC59BB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711886326_1390569336238815_8801482319832396283_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=05UqaB9uJc4Q7kNvwHBG87T&_nc_oc=AdoclrGWcf8Je7EJGVgwlwfzc4WFSxiVDKjyv4RXYk27SVTfkOShA17vmrQyJtDR-hQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLtq2LF8S1J6r-wcO5PAUGDQJRC_f6FP8iKpM_ExLhdAQ&oe=6ABC3FD5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714775277_1474186407347799_9014557230681482115_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9VFpBPbR_igQ7kNvwGPP4QG&_nc_oc=AdqSMeLA64akdNhH9u20Nt4HU2wgt7_nqOe-dVvpzbtCnh12d7vYndZJ1teUS7BxiE8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJe4wi9XME2UwLrr6Z3s4FK76BcocJzdjuep5AyLbhF7A&oe=6ABC5B64"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3414681945402890"
+      },
+      {
+        "id": "1980692379532317",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527859553_1495348218120388_5182671775571182970_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j7sTTtxemZEQ7kNvwHseRWi&_nc_oc=Ado23ephSfXsJjSzgnqQ1zdfAiSM_LH0mCQCZBynuSCCcTKXhva71qLczIsTS53PCqE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKzluZ2y3bRumS_yzfpA54tcqlSIl7y4lOmjdVm2wgmfg&oe=6ABC5EBC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527859553_1495348218120388_5182671775571182970_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j7sTTtxemZEQ7kNvwHseRWi&_nc_oc=Ado23ephSfXsJjSzgnqQ1zdfAiSM_LH0mCQCZBynuSCCcTKXhva71qLczIsTS53PCqE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKzluZ2y3bRumS_yzfpA54tcqlSIl7y4lOmjdVm2wgmfg&oe=6ABC5EBC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527767554_2254064771674139_6465296582952569839_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lHPuK27vuQAQ7kNvwFqm02i&_nc_oc=Adp53vr3i6DS3_7NYbHDPqXcMHu19t8jyaiHVSsKBKSlOUY1QnCVktEQDEmDSlEfnaw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQK7cyAKoyTC_vV_oaR8QsxSDzEeIBSFBVW3CN2gthL4Rw&oe=6ABC39CE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1980692379532317"
+      },
+      {
+        "id": "1618919263572614",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הגבר שלך הוא הגבר המושלם ❤️\nהוא תמיד דואג שיהיה לך הכל, הוא תמיד איתך בטוב וגם ברע ובא לך בטירוף לתת לו מתנה מרגשת אבל את לא יודעת מה.\nתכשיט עם חריטה אישית ומשמעותית לכם זו המתנה המושלמת. את יכולה לחרוט כל דבר שיעשה לו טוב,\nשמות הילדים שלכם, ציטוטים משירים, משפטים מצחיקים שרק אתם מבינים, תאריכים ועוד.\nקולקציות מדהימות מחכות לך באתר שלנו.\nמתלבטת? לגבי תכשיט מסוים? יש לך שאלה? שירות הלקוחות שלנו זמין כל שעות היום לתת לכם עזרה, מענה ותשובות לכל השאלות שלכם.\nמחכים לכם, דברו איתנו.\n*קוד קופון מיוחד בשבילכם: WELCOME",
+        "link_description": "אנו המותג MOON - מון מתמחים בתכשיטים בעיצוב אישי, עם הוספת משמעות של חריטת שם או משפט עם משמעות. כל תכשיט מיוצר בקפידה על ידי צוות המומחים.",
+        "landing_url": "http://moonjewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713243534_988675404094802_3006488374339279460_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B4SeMpDl-xUQ7kNvwEM1NQf&_nc_oc=AdpECAwndc62vmVI1BGRjH501Z03oiWEbbHcjIJrHZ75QTLZo-_AWq_RzIrYyt2EiWA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQI0mdM3IAJebnzE4fsmVG6QRQXMK9Di_y0pXXtHjcvgaQ&oe=6ABC56A2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713844196_1332433498991777_1162455363743056067_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RIucJGD7Fy4Q7kNvwHvr5PE&_nc_oc=AdouD46omAybiE8VlmGaEMgYJw1tlddTsV_zZ2COzWap23M3Jd2hXQbxZrwdp4zCLjI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJL172MLqMLnRPyBYuISdtlhh7ws800s-TFNYGEQy0b1g&oe=6ABC3501",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713744856_997033486383164_6085437135857688163_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fmOdk4Vp5-AQ7kNvwEwnFG0&_nc_oc=AdqDmQ9axLl4A-QfCIqjaD6p7IljthqnZdrUB0K_g8PYM0vpaubjrEIkQWqJTVV1EiI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKAfLN5GAUdmAKL4lbJ-d4hMEkh9SuuC9xHWwh-gSysFA&oe=6ABC2B14",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713405721_1405079921428000_29963486021505695_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b9b0WL_t6LsQ7kNvwEjOM3N&_nc_oc=Adp8uijUaOy3ksLZczgLKDWjhNVLyB1gApARglU9vKLdl0GjAxd2_5ILGLDrbGVwHdQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJbqXAIerdS8BswuDT437WV--3aRk_SPH6pGHCuQ2WtlQ&oe=6ABC2B72",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713685788_4221716678077642_4574261227976303384_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o0isOMrzuacQ7kNvwHWQpoU&_nc_oc=Adq3T49RqeBiAWULU0VVXTrkRRVIQcGtuVlmcI7lEBGEV77ZQjy01sTkf2oek7T1J0Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJ80Zu1VabQYFGRqtMftB0aliifgu606b2oJ3f0bv81hg&oe=6ABC3382",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713823822_745319725304864_2498421636551719573_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N0LRmDeDOLAQ7kNvwEsyYXc&_nc_oc=AdpoqgYwQrmAk5T8ED7oHUoXDE8BpHpSeW7C3An92_lS5Y5aBELZmqFGmtPl9E8m16Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQI2KjumozbDIepzQhdPC9qpgIymlNEG3M3Fu1vkq8cDrQ&oe=6ABC4161"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1618919263572614"
+      },
+      {
+        "id": "25408634315480731",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/514406094_760206683150541_8341184976660037258_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LXn6fwm8WrYQ7kNvwFz9wjs&_nc_oc=Adqkde1euHJPdvNyX1YCJym-Tl_R4b3pUkizjcTUaWnPEWHpsc6MQlzaGsU2X-tYbuo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLsgMeUL_A4pNsooJYmJ422l-gFfXTUVrGt8ISE0hLE5w&oe=6ABC3F54",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527072921_10087076438087301_8012995349221921078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4iKlDGaCeyQQ7kNvwHdGHFj&_nc_oc=AdpXhSnGPeGfqxlPlvGmJIEi1APpEj0v7VMWCYlGKjITcK-_6-7rr8551hm7iZGYPKc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLYjk7kDKiNiq5R5WeKay9wNAHAFP4g4KHWCNHdXjM_bw&oe=6ABC37FF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25408634315480731"
+      },
+      {
+        "id": "1537637978013964",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "המתנה שבאמת ריגשה אותו",
+        "body": "את בעלי קשה לרגש.\nבאמת קשה.\nאבל הפעם? הצלחתי ובגדול.\n\nבחרתי לו ליום הולדת צמיד עם השמות של הילדים שלנו,\nשעליו יש גם צ’יפ קטן עם כל התיקון הכללי, מילה במילה, שכתוב בתוך הריבוע הקטן הזה.\n\nפשוט שמירה צמודה שתלווה אותו, תחזק אותו ותגן עליו גם אם הוא לא מרגיש את זה. \n\nוהוא? אני לא זוכרת אותו מתרגש ככה אף פעם.\n\nזה גם הכי סטייל, גם איכותי בטירוף,\nוגם משהו שמלווה אותו כל יום,\nנותן לו תחושת שמירה\nומזכיר לו מי מחכה לו בבית.\n\nבקיצור, מתנה מושלמת.\nשמה לכן קישור כאן למטה👇🏻",
+        "link_description": "לא עוד צמיד.\nאלא מתנה עם משמעות אמיתית.\n\nצמיד גברי עם חריטה אישית של שמות הילדים\nובתוכו צ’יפ קטן שמכיל את כל התיקון הכללי, מילה במילה.\nשמירה צמודה, חיזוק שקט ותזכורת יו...",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/720846376_843782285131014_6213024451544460613_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kQ59zjZiIWYQ7kNvwFOBaHH&_nc_oc=AdpjSDVTkU3z0hzsyW5dHlK04ei2Jfk57UzVHyUb5fKEIznYU_wTXyGU1-SYYo33Hn8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJXySvicrtvcQ-FhA16--6agy0UChapxmIX_E4Ugd1zXA&oe=6ABC5B74"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1537637978013964"
+      },
+      {
+        "id": "1006683941703279",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "נמצאה המתנה המושלמת!\nתגרמו לאהובים שלכם לחייך ולהתרגש בחג הזה עם מתנה ייחודית שהכי כיף לקבל.\nתכשיטים עם חריטה אישית ומשמעותית, עמידים במים ואיכותיים!\nובתקופה כזו, במיוחד עכשיו כשהאהובים שלכם באמת צריכים מתנה מרגשת, אנחנו מעניקים קוד קופון מיוחד למצטרפים למועדון.\nחריטה מהנה",
+        "link_description": "אנו המותג MOON - מון מתמחים בתכשיטים בעיצוב אישי, עם הוספת משמעות של חריטת שם או משפט עם משמעות. כל תכשיט מיוצר בקפידה על ידי צוות המומחים.",
+        "landing_url": "https://moonjewelry.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689485322_1044816478113688_3298037280506188601_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=57Osqnzb2oUQ7kNvwHrNJxG&_nc_oc=AdriYci1mhxYRtUSSfwPF3lQJ5rzQo-GuqhDlpplSjDjwkjYs33ldoN7SYjbH1Y96ng&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIw-rc7pxp6xZGKODVkBbC61j2vuGq-SjMpWi_JiazYwA&oe=6ABC48FE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710591677_1500144788559136_8832819649651889838_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_8phWV4If-4Q7kNvwHUREhU&_nc_oc=Adq7k_U0PqCYMfZDbuGZk3Y8YQPHn292zk-FL7kRz2ZLzL1n-jn6xDzn2l3IZddNbgQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIGm5-L6x9gKVSO4T4x79DZ9W7vdxsWmfdpGBk8zcGxKQ&oe=6ABC4B27",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710831306_1007924102178444_960220843652708036_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tNfuYXN2Z9oQ7kNvwHpvpP4&_nc_oc=AdroZmWpKwW8UsoL5voJpZ8bKiUgKK4KM9YEDWSB7kOt-ub0JExLiH6w82PsS_vIOd4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLCKWETeHsx83KWFJFZ02cD7LJh7kI-NkBagpi7gtTYOw&oe=6ABC33F5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710755828_27041049215544213_1522000330109318271_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qSnojaYegZ0Q7kNvwGG8aIJ&_nc_oc=AdojUD4SEQ4_CJat96J0LdEApYAVpftJf1Wubz3t6KttQQ430HBP3odBccCsJrjxWNI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJWoLmu7a9j_wamdq7sPcxaOqp9FG9-mLcOxbfBgGaOBg&oe=6ABC3614",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710755898_1178207904450982_4662196592123873067_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dMb-S3V4m3UQ7kNvwEEBtV1&_nc_oc=AdpxkezDYEr__c2_NQAh0awvmfaLOCgUUJjuknPXryKgDB3Ka_Q7YPpaYsvCRh-Q1lg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJqtR1q8J5HtQCR8T9KPv62YdLWdbAUGmyTOy0BxG2Jfw&oe=6ABC2C55",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710497408_872137418580170_5561294366050818101_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0tm5aBpsAVoQ7kNvwFPUd60&_nc_oc=Ado0_6PEDUzyVCDz7HIV8CXWn61AWZ-d7glyNHmgjLHnNeXez3ehW7UduaOXDRn1cvQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLw9T2krosuK-cIjgFuU91eq95m2gTGqaLcjziezyLRcw&oe=6ABC4FA0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1006683941703279"
+      },
+      {
+        "id": "952673484096666",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/600373517_881955821458206_6766430166256477437_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UPNjsngtlcAQ7kNvwFE1ZMF&_nc_oc=AdpaRqRGkzm2vMb1JEyPD3ujnIiODAna5783z_bZ6Lm9Jq-szykVZHeaMe552pRXE9k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLOF6Feh3vS_MLbUmRLNpL2OYXegzzZ-ynknm_zejdAcQ&oe=6ABC4FE4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/600373517_881955821458206_6766430166256477437_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UPNjsngtlcAQ7kNvwFE1ZMF&_nc_oc=AdpaRqRGkzm2vMb1JEyPD3ujnIiODAna5783z_bZ6Lm9Jq-szykVZHeaMe552pRXE9k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLOF6Feh3vS_MLbUmRLNpL2OYXegzzZ-ynknm_zejdAcQ&oe=6ABC4FE4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=952673484096666"
+      },
+      {
+        "id": "2874056619466022",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "תכשיטים עם חריטה אישית",
+        "body": "🌟🎁אין מתנה מרגשת, משמעותית ושכיף לקבל אותה, כמו תכשיט מדהים עם חריטה אישית 🌟🎁\n\nהאהובים שלכם ישמחו לקבל ממכם מתנה כל כך אישית ומשמעותית שתגרום להם לדעת כמה אתם יקרים להם ואוהבים אותם🌈✨\n\n אצלמו במון כל התכשיטים עמידים למים לא משחירים ולא משנים את הצבע 💦\n\nאתם יכולים לחרוט כל דבר, שמות תאריכים משפטים משירים שרק אתם מכירים ועוד. 💖\n\n🌈 ואם קראת עד לפה אנחנו נותנים לך קוד קופון מיוחד של 10% הנחה! 🌈\nבקוד קופון: VIP10 .\n\nכמה זמן לוקח להינות מכל הטוב הזה? עד חמישה ימי עסקים והמשלוח אצלכם בבית 🚚\n\nוהמחיר? המחיר כמו של זר פרחים 🏷️📢🔥\n\nכל מה שאתם צריכים לעשות זה להכנס לאתר שלנו, לבחור את התכשיט שמתאים לכם, ועוד כמה לחיצות והתכשיט יגיע אליכם עד הבית.\nתהנו! 🔥",
+        "link_description": "תכשיטי חריטה יפייפיים",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527614699_1083077896713036_5196306806748558185_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jan_meAd0iUQ7kNvwGObyZi&_nc_oc=Adpc7IL6iJPXM76ndYsLru0iMTTezZV3ISU57Ys0jy0zYnGCztOPoCHVqngGOPPXbX4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLQyNsoSSYVwbxayS3LOluLtggfl_xgDMthwk4cS4Cjiw&oe=6ABC5732"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2874056619466022"
+      },
+      {
+        "id": "839916489076755",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605561462_1378973353876358_5213510136041934907_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qkMbuNlTlAcQ7kNvwEp18G4&_nc_oc=Adqm-rKwttWsVKT3tL-3FGFnSog4W2_ujsJa-L3e_CTGuq24zOSpkGfvk4_KAwPpYbI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIEgg1fgNQYAWVlHzFTu1BnZixXWRjCAuIWDq7pJpVaZw&oe=6ABC3DA0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMWsxRWa8wOiBVjTFut5w-93CcDl3QJu6-eVNieicbueULjdomICX-MFhc5o7GygnLdgAaOjV9Vr_PJbPH2aNZd_NzQOMvHCrvOiWKQ9whoxA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rYMWAbJg89gQ7kNvwFFgtnB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjc3ODY2MDE2NjI5MzAsImFzc2V0X2FnZV9kYXlzIjo4MjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f3bc135a72d2447e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzREQjMxQzY5QzM0ODc0QzBDNTQxMDVFRDI5QjZBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0RCNDZFRjE2RTBGQ0NBREFBNUUyOEMzNkJDMTI3MzhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakp7L86O2ABBUCKAJDMywXQEA3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKong8G2U0_z_zcHoEdI6d9CGHXW1ol0Fc20DTX6zVMnQ&oe=6ABC4437"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605788462_2113755749470068_7183844958072778684_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=evhoh2j3eHcQ7kNvwGwC2rp&_nc_oc=AdoocVSK4X-YOx041YCVktrgef7sJWvVfYbS463mWq8EMWyHPWknrfO6jiblX33jYpY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJP01Khet8AV28kSxTbxTxJTCVaKQMnwlLwME3CD-yulQ&oe=6ABC5804",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMMPQX0wnJrSgOA2omW77GJ7z2KLr-acdaU0cEckv9J3K4SakTdaLrO7tj712wEhtsf0ME6q0Pmk4NHG46ECIC9jYgZe8NlC-TeGziXJ_C02g.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=J5BGIs_5YOEQ7kNvwFmlLRd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Mzg5MzQwODk0OTQwMCwiYXNzZXRfYWdlX2RheXMiOjgyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7ee61140aa4c25fc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTQ5MEY5RjI2RUE0RkJFRkY3ODk3M0REOUM0OTU5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0VENDBBRTZDNDE1NDM0NEExOTVCMzdGNENCMjAxODk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawkq75mvzDAxUCKAJDMywXQEA3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLnY4HW28B2_QldbNzn1FLJzny-RxvQrD0m-eZ7bLYeSg&oe=6ABC30B7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=839916489076755"
+      },
+      {
+        "id": "881541751607068",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619108569_2366212740507883_793458639933089111_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GudSddtWiUQQ7kNvwHqI-NK&_nc_oc=Adp3_Llpflx4eVfcCL87z_LTBpqS0PTEAGgnjIV8SkzvYhgrg0EUyxW-_KUfQrL3uOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIcfcWnY-EOF8G9VKg-jdpHVhsn7d46i4_N53WrPiHhwg&oe=6ABC5DCA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619221086_2054793185084395_8282366178072856779_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IQRUVCiWv44Q7kNvwHEpsX7&_nc_oc=AdoUIlSIR2pbG6zJL8Uu83l5he7uhXMcdJKmXaycuI8TIFDEuEU70kp2bht1ZBzyzVM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJlRWBqr259ZhC_JJCSQ4pvOF01IpOZh5-CwSgIQK34Kw&oe=6ABC52DE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=881541751607068"
+      },
+      {
+        "id": "1968570474033210",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/606864629_1994597074658616_2036283570492887033_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBeC88HSKG4Q7kNvwFeIYft&_nc_oc=AdqZxba0xckiE_S5nwVgZZya7egck9KOBCOUFQ-tIcEnk4Qf5aQJ7DdDD0ltNV743Ec&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLwWhQ8u65fUr-U-8aRJY2LYP8LUULa6Sz2xiVmnU0NTw&oe=6ABC386D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNv6yqogyLomfMUeF2TcDeEostJgrksLmQKOhOjU5xxV9x41cHhHasFBhGXZIj59QhL5OpSOuEk5_qFyH2509TWxSnngO7ASiL1VQYKs0QP9A.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=DSpaOcBaoLMQ7kNvwH7oM3a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3MjgxODU3MDczMDkxMSwiYXNzZXRfYWdlX2RheXMiOjg1NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=425a956ca47abc06&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQTRGMENGNkQ5QkFBQzQ5MzM2NEEzRUI1MTk4MUVBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0VGNEQzREQ0NTEzMkVBMjVDMEZFNzc3MUE1OTdFOUEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-9raVv7G6AxUCKAJDMywXQD4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKjw72KDBNfomxIPrDO5JbnIkgCzfqicglD7b1mpXOV3A&oe=6ABC2CA8"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/604858303_4173318619577371_6956615050213335259_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7MjgUpIeh-gQ7kNvwEee1qd&_nc_oc=AdpsVWhYw7HXGdXldWzCLHP3G4ToLN5N4BleeU0tfRhorIypdxjNKzhFwCGxFx9g4DA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLBCbdYgLzGRk2tyZGNCw9o-N8uq4QLjp3GzGtJyFtO_g&oe=6ABC3BFD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPZhE7vDQnS4DyzfvyDU15rimtZwS04sdw58J7053NRkVWv-jbNcY9m6k6tDwUI8s4xJFcnzLX4SE1TMFB8jo1tlt1j-hK_kGsY6seNanqEfQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zTrN2IwXT40Q7kNvwHkNa-Q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNDMzNDYwNjI0OTY1NiwiYXNzZXRfYWdlX2RheXMiOjg1NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5bfd7bb41a7988b3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTQ4NkU4Rjc1OTgzQkE0NkQ4RDIxMjc3MEM3RTQ4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0MzNDEwQzY1NEJDMzBDQzYyMTE3NkQ3MUMxQjQ4NEI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwuo22y-72AhUCKAJDMywXQD4IcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQIKYeKSYU1vEB8uX1j5iinFqHUJ6v_y2W6qeB--nLBmNw&oe=6ABC329B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1968570474033210"
+      },
+      {
+        "id": "4284360951798915",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/544916425_1007190984776839_4250062940963937678_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_FkHaoUBeb0Q7kNvwGUASdj&_nc_oc=AdrlDPndcHM1QS2SLmhlv3qkORfE-UhiZhsqegkmvAucxlfLDiDR6VKceS0VCLGJySc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJZX5rTZ6FmSqpwlddyCDZWnlssz8nZ6csMKlahqimOqw&oe=6ABC59A4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOdzz-dAt0TnJCU_wqfcfVQgxTiKMUI9D9cjl7DKc8kW4ACt39t_qGs2l0_jIJlOlhd1gcP885sKgWLtghZM37Ug3z1RFXx-d_vNjFykldDtg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hl9k9hR55y0Q7kNvwFCVXK9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDE0NTMwNDAzOTcxMTksImFzc2V0X2FnZV9kYXlzIjo5MTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2aa3ad726bf77a43&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RTQzNTBFM0YyQkRCRjc5OTIzQUFFMEIzNzk5NDY5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzNGNEYxMkRFMjNBRTE2NzAwOUJGMjI2ODY1MEI3NzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-rMf56qDYBRUCKAJDMywXQEDmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLmKumunnyollfXEHETryqksINyBKGU_BHbAFxUyFh0Uw&oe=6ABC42D8"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/544737220_1734272577212884_8683509165145505740_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RxZ7OS377Q8Q7kNvwGn0Q_e&_nc_oc=AdpQuKNZsXURMFwOJBWOOuV6j7owCnld9eszEpamHLtdvwvMomCgSUQddWOK8H2iHN0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJVCbmAod2MF89elNfyF0WGk-MutRUdPYc-rBJ4bXz_UQ&oe=6ABC4695",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMBBsHGYFaXM2HQonIymKP8lglj0Psw-tbe0j5Yd7Fs6jRdsmadKajIJ76vFVNPBBs8kRPVwrrWsv0qc8aHJYkQuesg5RcPf5J59KMdhAuXIA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dNHU6mIzYWUQ7kNvwEWRvoC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjczOTE3NjczODAwOTMyOCwiYXNzZXRfYWdlX2RheXMiOjkxNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4bccb7b6bad4abf8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRUQ1OEJDREZGNkE0NEVBQTc4NkY4NUU2QjdEOUQyRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzlBNDc1NDBCMUI5MTA0QjlCQjA0MUQwN0E2RENGQTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgw6nu35HQAhUCKAJDMywXQEDmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKuGYTLYjB_QN1EaXYEuC1FL0mXDxR5k-qxu6EOJmjpYg&oe=6ABC48FC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4284360951798915"
+      },
+      {
+        "id": "1989530151778207",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527471515_1511176220317193_525011799589000855_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DtARLwdjPr8Q7kNvwHNr9Ik&_nc_oc=AdojKhzok3tNgW9IuGAgmlQNPb_ISTaeRsH04a2YGFmGE5ZQSwpcJYec7sO6ipdqWhw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJDkV_Wm9sBEhjLAsusiJVofASDQvlzO8WN5bqX1NXD0Q&oe=6ABC4D80",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNvua8Q1oRkugYIqoBnuI6TEDGA3_GH7JWjdbvpYj2NX4bdNYWwuM6V0d7bZY-kAc140uLJJ-i4j9I05g2n3JU.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4Gv6cy_WbQAQ7kNvwHQ95XZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4NDQ1MjU1Mjc5MTc5MDQsImFzc2V0X2FnZV9kYXlzIjoxNjcsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQI5Tq_J2kqyBrem6H3VQZOAINIGae11dAMeOsj_M_8aVg&oe=6ABC3FD6"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527566592_769496868804428_2203799833220963385_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M3jGElvjCaQQ7kNvwEgMafw&_nc_oc=AdoN1dQBgPcGUtfd0Jl3d9c_B1YfglU0RZdoDJR1EDQusdgy_FbsUM79gaghXaLWBUk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLH3OXFgMiOEMkwAoyMu3e9-QugYQkB4qXaT8y_tTpn8A&oe=6ABC5291",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMZOLzuOsuzo5bcWyfYQX-58_Tzi1h-dFEG06Iwq08x5jQIkNlldCHEfD5Vw96XRjmfgtRiJtf6QTH9wahKTU_1.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ms8nScy0ofQQ7kNvwEuAyw3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNjkyNTEyMDA4ODMxMTA3LCJhc3NldF9hZ2VfZGF5cyI6MTY3LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpV_Ag3WXhrLTQRDWYlF82wzVEFguQ_q8lj-8qoUOS8w&oe=6ABC2B0D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1989530151778207"
+      },
+      {
+        "id": "1567661404440638",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527267694_1264430428561933_4691576393773745974_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w55XKFiR4zAQ7kNvwHTj0Eq&_nc_oc=AdoZMzt2EvIWj4yZFF85xRnXrMp-L9jeT3NvS84WR6m7vs4OuI0iUfsjo-0XuFr22pQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKUSWadUyCvqvPRCIXkm1v6-p1QFvZH63YEZvBJv76I-A&oe=6ABC5D01",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPW1HibIjTC04REr7BP_ZPtnrYcl35iCLT3KBiVdlSuRUYj8oXEDrjwpKnRmfgQ1xyZsnycqbEtTf-gp02JBZiMAqe6-YVMhSiUJJ9MPT6hGw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zb1DciMEXFkQ7kNvwEtkJAo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM3OTU1OTYyNzczNjExNDcsImFzc2V0X2FnZV9kYXlzIjo4MTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ea3579140e537500&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQzQ3Mjg5MDFCRkIwOTdCODBCNDM0RDI3QjVBREZCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzNDNDRGNEQzOUQ1NzlEODk4MjI4OUY1QjQzNDQwQTkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2p5X944S-DRUCKAJDMywXQDYQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQI81Ivn3xQwRkiREdO2htSiiythYzVHZTJR0ExUYyfy6w&oe=6ABC442D"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527312049_1033034482371804_5750788075733630539_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ELpwnKW8-4YQ7kNvwGghl1r&_nc_oc=AdoOIi5RZR_XxfUwZUClLgA9NnEchBHPsQpeuXfhl5xWqt1TfAo8f7jWsrOFTWvRI78&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLCxjQAhvtqIcKxxhd1GLyeWD-t6m7zC_82Bqu7Zbxlbg&oe=6ABC44F5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA6g996raUPfRU8I9w-RFWqBx8UudlR6xkMXPe5SH-hSwCEbV4VhUZhRbuF7HVtrSKFceGzoDKeIRP24TE746wHjUo-CqDXynuoM_mIdgcCA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Wt-E-cdQYbsQ7kNvwEcG2Gi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTQ5NDIyNTEwNzQ0MTIsImFzc2V0X2FnZV9kYXlzIjo4MTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7877b7335d426e2c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MDREM0E4OTRCN0E4QjFFRTAwRTAyRTZGMEU1MkI4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzYxNERENjA2QjVCODA5OTZDMjE5NDE4NjA3MzlDRTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYjYDl7aXVBRUCKAJDMywXQDYNT987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQJHhzK4hYG0_9pJ5EJ0z3y2T8qmbHmjaWTcH_Z5lr6Dnw&oe=6ABC48DD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1567661404440638"
+      },
+      {
+        "id": "34046100491672446",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/526641655_630118869684071_6893220052987606566_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YI1fIsh-4WgQ7kNvwG1oqDn&_nc_oc=AdpjnPUNWS6SQuRNZw_A6vGUlnYzhxtbquXe2ZckCfuTJti3TY73Rm6pmQisj9d-EOU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIPoDZLSmb8f0_iB3W6ovkath0dDuhEADWzF2gR2u0-2g&oe=6ABC3F48",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOaYbtRwNvrMyAPeIrgw_G8490cZazu2_SQxktrbP2HcoJgJSF-9n5v-xsRz32kzVp1y5-c9Z_a3ii-u8iEHnzslJ5juZdTyblKb_XBiGYO3A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MVszSv_C8vgQ7kNvwHtTEbQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo1NjE1MTYxOTY2MjkyMTQsImFzc2V0X2FnZV9kYXlzIjo2NjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bda9dc440c3b0d1c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDQ5MENEQjlBNjlFMjYyNEU4QTg2QjIxMjRBNzU4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEwNzQ1ODY5NDc0ODAwMzNfNDgxMTMxOTg0MjU0NDQ2NzIzOC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmvKv81sWs_wEVAigCQzMsF0A7MzMzMzMzGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQIdSnO9UAQGn-iSpOmnJW0U_5pHbGO0QlpOeittVwdtww&oe=6ABC475D"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527851702_638775805393533_6782518055534389602_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_UnkTAZtMuAQ7kNvwE8sBsH&_nc_oc=AdoJJtwIXr3oRVrrIqhxGl7-LYnJ8Oa9_IrOOTbAwjLjWdnBDtaXzrp9caB_isPBYhk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLrTLQHRWOqapXZcDLv_b2qLAdVcCIrIp0zpUBDnB-HwQ&oe=6ABC544E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMGtyDbxU2blP5ke8qoTOOCOFLvll44gG0RPcqnf2diGSgu0YqGYU9tesTE-6r7fjZt1uOCIrjCWy2qJ27IR58SjQcRIqPz7vxOvbPyzrNSBw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0lPHpOYq18UQ7kNvwGd2meZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0MTY3NDUwODc5NjYzNywiYXNzZXRfYWdlX2RheXMiOjY2MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=980c437d2c543a76&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNDRFRkNCMTA2ODg4RjZBNThEQTRCMjNDOTExNjhBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyMjEwMTc5NTg5NjQxMzdfODI4MTQ5ODMxMjQ3OTE0MzU3Ni5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmuougw-vsyAEVAigCQzMsF0A7MzMzMzMzGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKMpWiHJYuRBAnDsx6zbxpgH8CsXPrBT-e0-sBGt0CN-Q&oe=6ABC3236"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527480883_732154359415546_614658498203087983_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sU1wzPokRIMQ7kNvwHwpKVe&_nc_oc=AdqriCX5QkfZxttS9w91apyj3tDPtsLGfcjlKMLxn_3urmrRZuBYr9QzxehgK32JAV4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLWJRl0lTeS8a1oBsqNOUBe6FDe6UaqibGrYr0mQzEk8A&oe=6ABC481F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMIEes3ZJycaPm0oEceg_2fq-oBofHU5inhDN7G4eFJjwzdU3_ZYrhGQfHEDH4Zrtfp0cYXMj3lrzJlrOzftkmmrPLWC2a4Jf_ZWSd9yid2JQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=W8wx1xZr56UQ7kNvwHtxYcB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTA5NTk3NTUwMDM1OTMsImFzc2V0X2FnZV9kYXlzIjo2NjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8477746909aebb97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENjQyQzhFMTYzMDFCOUUwNEUxQTY4OTI5QzEyOERBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMR3U4aHNFYnF0SXBRSUVBQndmaklqVlFxWnBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSm4iAyreuBhUCKAJDMywXQDsqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQJjTVtyFkqRmiIfh9kAZprCwr2gE8zv7uXLlm8_yev8LQ&oe=6ABC5F1C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=34046100491672446"
+      },
+      {
+        "id": "26521110087495935",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527618308_744266781920786_4693548517439383813_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IoH31VviFmcQ7kNvwFwGdxZ&_nc_oc=AdpI5_q4ulOi3twYhdBh0EQjFMXqwsigmDgnAsXaIPnU_mwLxffOoo82cwN8L_VhYEs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQISKkh38yaryGQNGvR4c4UIzWHk1xGDqCU2X1Twu74RGQ&oe=6ABC2DCA",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOHSLYKGEYN4EFjtBnJ4JSo8v-00Om4AbLS2rFPSW5dFDrEQo5YaA_eZcfXXLZlCEdnurfa-Dj8XeQI_1GFHq3g8fxBIyKGUrVFTyhhxKvg7w.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CWztEHeBrZQQ7kNvwGFTS_G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNjE5OTg4OTg1NTYxODcsImFzc2V0X2FnZV9kYXlzIjo2OTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1d97c73c4f37a454&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTQzMjA1MTA2MDBBRTIzRTBDOUQxN0Y4RUYyQTI5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzE2NjY3NzE2ODA1NjIxNDdfMjMwOTUxNTA1OTY5OTU3MDU4MS5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmtrTxwIDyvQQVAigCQzMsF0A1VT987ZFoGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQL9St-10jWQw14ZU3UCNfXYKhjU8nBq0hvZ9-fqFRf16A&oe=6ABC5444"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527997522_1254751289359781_3827612180989176454_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XjUW3IRUhz0Q7kNvwEXh_P-&_nc_oc=AdqSVbFcOXHJZVCP0ep5C95NK13bMrmGl6MQT4kQbI8ohVC9dxiA8WOzPh9uPnjD3mc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLuteSmW5jsRAzmw3Gs7CIVGB_LNi93KV6drWP6U5jDHA&oe=6ABC5C1F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPaqc7d85PByvQ975fDagDthSgPCJ3XFluebv8OOX5vUpYIHSSG4vzloV5LgaDgVTAtRTm1ocrnPmNgirjPqg-hEDOJE81q4fXGA_e3iV7Esg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=y9FZ4cQCtZAQ7kNvwHweIO7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxMjc3OTY5NDExMDA0MiwiYXNzZXRfYWdlX2RheXMiOjY5NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c75052a1a0ef4e3a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QTQ5NEE4RjYwMEQ4RTBFQzcyNUQwNTM0NTJCM0Y5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dENXB1QnVfVGRCVVhnTUdBUE9GTHdfd2xSVTRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa01efW4oqfAxUCKAJDMywXQDVVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQIj7Q6TlV0ApKHbYFFhsJFesaoXgSt4pBCG6b6DiyioVA&oe=6ABC36DB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26521110087495935"
+      },
+      {
+        "id": "901932746163037",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527562985_761514966240477_5035945275023579067_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hG_j7hipzE4Q7kNvwG7oUmO&_nc_oc=AdrFamnVvk2a0FGP3IXv24fCoJ7iQhBp0N10galM8FC_awnZiSnUZdEIkSdXsAImpE0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIkhnOWfEbqrPfpqf-63msJeeJ6RCGLOKlB0UHaK27frg&oe=6ABC2BC2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPSXsmkVfJaTYivl-aD3P0AYTPNnLISv59oLqRU-owkfsrcEmgNivwMZsrBci7V-FgKEkAihphCmOd5DmZATHzyBHAsEMJgjrNUlv5jC0KJ4Q.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aKsfssbgZbkQ7kNvwHna_wh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0NjMzODIwNDcyOTcyMDIsImFzc2V0X2FnZV9kYXlzIjo2NjMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9eff73d861fb0e4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQzRjZCNzAyMDE1MkY1NDlGMDcyOUYyNEUwQ0ZBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyMjQwNjM4MzUzNTA5NDZfODcyMTAwODY4NDYyODM0NDEzNS5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm5Lq0iq_7pgwVAigCQzMsF0A71wo9cKPXGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&_nc_enc=Qfau-mKlQpPuIqkhuHHncJCKHNbgSCjD8-l_kcyNSRd_tXUZgj8x1m89Y6N8zvZDuRDXjlKM5OHafmN0bEXtX2wNyjLUJPVZ_t2KYIuDQdSInqLBrUR_xU-kVkM&oh=00_AQI6ECK7mAdWp7P5AM7L9jvZgdKDa3e0lAL4tWKibVQgzQ&oe=6ABC2B02"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527133520_2056798164848152_7285867320519428081_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wuI5p8iQc58Q7kNvwFHfpQE&_nc_oc=Adry7rCWFCZWZVrTdU801uUHbiuLaF41unI6VR8uKOhRHMegpmMjw6M1NNbAVB8fhaY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKH5aE_A2HRsatkFEA156bdFwlEykLq4h3pQ3SsxV_2ow&oe=6ABC413B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMRxMPxff-ZuCaGNjTnYWT63rwAHIf0MucYP-RIalICcTPcRZxtQFtNZZCwjeO107WgBOU9DgY_otq0t--hlkI_SFbUIBdMApYkmGUVpTG_YQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hcJWayHd6skQ7kNvwFRrRCb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQwMDc3NzY0MDk0NTIwOTgsImFzc2V0X2FnZV9kYXlzIjo2NjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3a738fd1f9ecc9bf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQTRCN0Y2ODFFMDhGMUM4ODVCMDY4RTMzNDE1OURCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLOC04UnRpY2Nvald4WURBQXFiUXhQbDB4UVNidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE-cuTpcOeDhUCKAJDMywXQDvMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKihA65N_bTtBLqb08VYTNzrc44Yzuysc_sOPOPdKBgtw&oe=6ABC2FA5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=901932746163037"
+      },
+      {
+        "id": "2051216762107575",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547101403_1012629014229159_3868790354159494036_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S5SHNsU3hcIQ7kNvwEp9M9-&_nc_oc=AdowsaA92WQvtAgMjoPUnTryl-S5rHnDq11u1d0u1ZsIFRncKCJWMjAqvQDyj31spuQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLeKjC0xJpVHcLeKHbJKBYmOPJgc3cPBPoEaZDidjUXNQ&oe=6ABC3DAA",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMp_73yPwnvhrv_3Hx1A5_AhjRqI1ZVkxW3fPHpwglneMZKtTmE8XQtwkvkEr-ItYjQiRTA0MGqtdM9ZXz7OqunWadsgoOsQI23YbOm6h-GMQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lxvVhqsmHisQ7kNvwETr8_y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMDM2ODE3MzMzNDQ1NjEsImFzc2V0X2FnZV9kYXlzIjo3MzcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=34d9101fbd71a3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDQwQUUyQUY1MzJDODI4MUU2NTgxOTdCMjkzNzZBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzAyNDNCQUZBREJFN0VFNzIwNEMyN0I2MEVENzVDMjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbi9M-ulI_qBxUCKAJDMywXQEE3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQI47BAzXfsYSjxI6I3VqqmQtQGRrfS1t8x9wlcRo0KprA&oe=6ABC5C1F"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547772527_1292815955908596_7798721230514908824_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B3giULGwkXsQ7kNvwF6cOsa&_nc_oc=AdqqpAZlTfXSPIevjz3Qtc_AewavwD85dyDrL-1IRpYYm-2YiQHP9xF9SJ0btgCwihg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQITCdhs4o8HUYD4hKB4YJCZdSVOxI7eRxGd8zgaXyXPTw&oe=6ABC3FDC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMhR3nHuglGUWSPBmWfbkrTmI-eLtsacT_DtHqQcuienB0KPYUtimxofFJe74kE7CbS5aClgRh0ouLVEVpQzBOEArBcsPnWIbt140qu10Q-ng.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xHF6ciQl5P4Q7kNvwH_Epsc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzMDEwODA5NTk4MTc3MCwiYXNzZXRfYWdlX2RheXMiOjczNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=681cedb310e22880&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRDNUMyN0QzQjQ4RDYwNEFDRjEzQjYzRUJEN0FBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0ZBNEM5MjY5OTBFQjc1RTgzMkI2RjdCQUQxRjkyMTgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUo_2i0775AhUCKAJDMywXQEE3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKk0ezDXt0Z2PLaeaFxjrxCyp6IJhg0_OMjq2YLTYWXXg&oe=6ABC61D8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2051216762107575"
+      },
+      {
+        "id": "25715545168147897",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/526520034_777556054739161_3294866171760684487_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fd4p-RTWXasQ7kNvwHAng3l&_nc_oc=AdrT-JP2Z3kgZetSPPOIgaPiChpECv6IxLM-qmEssq4xik3RxlyRbI5TkDG_cu1tXpg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJTni-1buDV9uIxYCFMXnuLY6shHiaJIdMvT9kxoYilBA&oe=6ABC534E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4cn0VZLwQldTiIHme7DMfs4WSxyqI2Z7A7bTqD8HpQX94NTRvrSR42Sic_XuAw8GJAFGH5OF09LE3pamwJ2QvDQw9vveZ9DVvmma6bjh3bA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=v1OfHGz3tcgQ7kNvwFLIeb7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0Mzg5MDUyMjEwMDk5NywiYXNzZXRfYWdlX2RheXMiOjc5NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fa64fceea1472e92&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQ0Njk1OTQ5RjUwMEU2MjY2QTk4QjQ3NERDQTU4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzQzNDc2NjhGQjk1M0MyNEM4REI2NDgxRjc5RjJCMkI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaK1MqGiLGcARUCKAJDMywXQD2zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLfabTRLWUM0yMFlIxdaK9aWHOT0uRc0Tm9_OH6MiwbFw&oe=6ABC3671"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527801604_2030020944404594_4448725050646872223_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ty4Qe12ETJsQ7kNvwGQ1tVk&_nc_oc=Adq_JR0I_O8vyLll-loB39hnGQazGLxGO3ISkENEHiQ1tk5dMIjAv6Lgct18mMk37C4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKat460gvzzzZmsCLbAwv8zWVfsB28-iKx94UR-h4f27Q&oe=6ABC2DAC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQODK7RUcjdIWmrLkzEFXCAmxaKyZODtlC7DgceuXpFOAhzX-AEiQVH9XG1VS5TkeCWwngDKMyD5cS1lntbNfHufZSfdHnbT3F3hA0ZXMpnMzA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5SiorrarvzoQ7kNvwGmMxF2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjE4OTExNTE1OTAxNTQsImFzc2V0X2FnZV9kYXlzIjo3OTQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=60b132ce1803a39c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRTREODcyNTNCQ0IwNjkzNEVGMkEzNzhCMUZBNThBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzM5NDkyMEJFNTZCQjJGQUY2MzI1Q0ZCN0Q1ODE2MEExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUzN3V-66QBBUCKAJDMywXQD2zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKeMYaiIH5lWunVICLWDHNkA0QYWB8BlVAbOEo29tPA-Q&oe=6ABC4A71"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25715545168147897"
+      },
+      {
+        "id": "1313245947643141",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a0%d7%a0%d7%95-%d7%94%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%9b%d7%9c%d7%9c%d7%99-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772870400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605535170_1579084026453001_1779905490899438938_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T6n-U4UhWWYQ7kNvwEFn5JH&_nc_oc=Adoyg9VvYCBbwnKFeyXDR2ffdA4Y16TFlm3Xwx3PdJqr6BJZsSDKeAyhoDdyiN_sJhs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKnrcSmBfOWmLaeJ84ejm5pgGUkuhegOK8KZQ2okDiHHA&oe=6ABC31B8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNMP221aGrO9Lj9ME1Yl-DmD4XwnfWakcAem4wCl4oZlcfeikC0aSLysbmYA481-FNEuw_MsWmk5yrXjoKN2Ex-wlVfGDECHWx_7zzAs96PAQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Zb_E_5f5FmYQ7kNvwG-nrRl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNTU3Nzg0OTE1MjgzMTcsImFzc2V0X2FnZV9kYXlzIjoyOTEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e50c7c31b970146f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMzRGQzBFQzhGNDY2M0EwNjhFQTFFRTlFQURCNDVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYxNDNCRkQ3RTE0MTI0MDI1NDZDN0U2OTYyMjYyNjkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb60cHCraSvCBUCKAJDMywXQDoqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKJ1T7nr_-EjTIOwmxb8bMyoUZKKqlhh5vnlvjagC3Iqw&oe=6ABC5CA0"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606034798_1936178537280257_7192818770307301403_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=guYIz2wQzWYQ7kNvwHxmqSP&_nc_oc=Adr7qCdP_SfdOwLvHd814r5VKnLSRDu4Y6i76ZvmBmkFU7R_wJoM92kbfnDQdvuuR-Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKRIAwMnjdA41WTNI7lt-jDC0xOR02AMqaTRM5CN-24qw&oe=6ABC53E0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPiVSdWbBKGQn1NTCJDypLa9-pRW8UbwQgkviu6AAjjWXaDrWywToBc2efwMErVhcOBdqSvccr9yLkpZDE-q9ThcpG2gJqCv3-0egtEz9nCqA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=JTZtQxrVCRMQ7kNvwGLZwd2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTEwNTk1OTA2NDY4ODEsImFzc2V0X2FnZV9kYXlzIjoyOTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c98d515b5511454&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QzQ0NjI3NDg1QzIyODI0RkJERTYwMjI2NEIzN0Q5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQxNENEMjM1Q0E3RTI4NkIwNjkzMDg0MUYzODY0M0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCscKavdaBBRUCKAJDMywXQDoqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLr5I8suwSXXoRhscO2YOJEV22w_S5FBBUp6ywamtwNvQ&oe=6ABC585B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1313245947643141"
+      },
+      {
+        "id": "1346793664134381",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527097306_1082614953970680_6264192768036641774_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8bLY4VdavBwQ7kNvwGzDoDd&_nc_oc=AdoGRaIucqTtqZoF9vKth-xbV0mZBkilIAFuLBidRoAdLXg_VHzW4SaG4bOQSLu8FJc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJkWnMV6TSdoNAamcc3JXrkbzhQDN_s0bsNqyCb4i335g&oe=6ABC5050",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOTmDkaBzCqBO2wGlnw4nq6X-MJ46L16q5vEdRH-iOhFz9no0bxZq7iyKX4dkts9NNt9oyNbea08g8jJLbWygwVR6hMaHBGzf1sLbqJRONtlA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=FgncwuNO1PgQ7kNvwGqOROH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjMyNzAxNDMxMzU0ODYsImFzc2V0X2FnZV9kYXlzIjo3ODIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c77302df621773eb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80OTQwRkNDNzcwNTA1OTkyOUExNUE1QzQ5MjI0ODI5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzFCNERDOTAyNTBDRkY1NzdGRTBDN0E5NUEyQzk1OUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8u6DWlKrRAxUCKAJDMywXQDoAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKt3DfLkbHU1A7zK1Ql4R9NBc7ELIDSADNJW0GheFJQ0Q&oe=6ABC2D63"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/528562662_1262567732285949_5674196841122402366_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tvXe5kASUQMQ7kNvwHwiHwi&_nc_oc=AdpcE8vHe3fb51zikRG98unqxyrxTZRmjv33VyyWqK_3GqxnueLmFnmbarYf8-fDXFg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKUpCbe33DnlDldNUOX3bAg8OrLYNHOzPBL1ZNljAg_XQ&oe=6ABC61B9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNZkZhiceY2CqV-ZcyRHKVQ3JszxrcZ7txhjpDp-_wrA7oDeUUXV4vpobmEZD0UTm1_9u0YaAws-lSCurAbyJP3lSQYFJxPc4yc0Qu0SCbMOQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8XiX4rimqR0Q7kNvwFZqemp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDc3ODM2MzQzNzcwMzYsImFzc2V0X2FnZV9kYXlzIjo3ODIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dc361d43dfa29d3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTQ2NzQ3MzNFNTAxMTBDQzZGMzM3OEZCRUU0MzlBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzFCNDREQkNBRUZGNjNDQ0E2NDBEQzNDODQ3N0JBMUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY5cyY3aTKAxUCKAJDMywXQDoAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLxqBYDU-3N-M7pW-shJG45OeXv_HrqzpugR4z1xjSZXQ&oe=6ABC2F90"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1346793664134381"
+      },
+      {
+        "id": "1410648753407060",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/602470807_752227631241689_1841400180695969411_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kDHB-0pxP5sQ7kNvwFJs16M&_nc_oc=AdoOM27NfJ1-DRA_i4Cj6el8TJ2wcYhZTnBvlmpr-2uujNClr9gcO7NgpzGCYAvWGqc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJU5AwAbHclywDVqhfH4Bh5zDKsvAA7keKn4qdNcAxdAw&oe=6ABC4E97",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPKy8H_AS6u9wvGRDF-O1GATQEpIxSAVflpTmPw4ciCX3wg7xYOAz53WLvXpzZFcneivXDkW94_QRfp3J-9yVeV7yWpt1MNq5mpHyjTJBIkUg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=alFVWTwLtecQ7kNvwEcrEKg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwOTcxMjM1OTEwODMwNDMsImFzc2V0X2FnZV9kYXlzIjoyNzUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e17356c7655392&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NzRGOEVGNEQ0M0YyMjRDRjVBODhBOTgwOEZEMzI5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNEFBRDM2RkFGNzBENEM0OTU1REE1Q0NFRjQ1Njg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbG0JKr1NS5BxUCKAJDMywXQD6qfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQJAot_awxyxYusiAo64EtNmebHjELOWXG6WQWzPaugCyw&oe=6ABC2F73"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/603828143_828864006682454_9207046406082236502_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ndq18FMfgXQQ7kNvwE4ruFZ&_nc_oc=Adqvyp3hwfl_UsVChYeo9Eax1QhcH5oxRwIkIj1EL5ru-C4Le1gJvRHE5nLS6vshgNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQI8MyBfXe0KBU5chS2f90bBJzfhSd-231cj3xvw04bBPg&oe=6ABC61EA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP2DDHamRorxlwsS0lvp6kaEUPaauTqIUfz4xpr7RYuIwsxgQHo1cTXK2stCXLRZC8WtOsXC3NtpIqcFlXNxqKVsr0Ii3qHD4AwuLKLsgrG_Q.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EtZ_g9PmkfgQ7kNvwH6z9YW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5Mzk0OTU3OTk3NzQ0NDYsImFzc2V0X2FnZV9kYXlzIjoyOTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4e3439269155c27e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNzQ1QzhGMUJCMzY4NTE1OEM5QzM2QTYzQTI3NjM4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg0NDlBODQxQzkxQTcyMjdDQjZBQjE0NzE1MkU0MjgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbc87avlt24ChUCKAJDMywXQD6qfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKKx9s49U38bhUNJQmI2QJRB0PQkeazwB5GXPCu9yrnDQ&oe=6ABC362D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1410648753407060"
+      },
+      {
+        "id": "1229107992183270",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771833600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/506595820_1773350403281405_529836074237432754_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NvetHHNAlEkQ7kNvwGEcAid&_nc_oc=AdqkcTpEc-znx8zWkZEMUPfB8yoFUgVwOElKFz7BrYP_2aULuvp64o7rwclF8Fu1qCk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLQrJhYmcCIIgutamFVwBNE4ADThwboE7lDc27p2reYow&oe=6ABC4EDE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNYFVsHZTTGJC1JAzx-shrKook32XcbPxiU8-gWLvaMj0zTp2q2HLe1amGawhGj8tzCWFI3JXT-s7bdOjtqHZ4i.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=86Bp1L3l0zoQ7kNvwHeK7Rj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMTcxMTc4Mjg4NTQzOTgzLCJhc3NldF9hZ2VfZGF5cyI6Mjk4LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKpxkXoyOD_xAnmdXYGm3OmQVzYD3MqETHRxBnpSJ7D5g&oe=6ABC580B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527785684_616275328186708_4849494495795048427_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bssA3XkD8mIQ7kNvwGOj0Ui&_nc_oc=AdryUJSTBS3bBjwLFuM_AF68uxg9JMT--Guw0J3_ZFur3wsd99jORRkseRhWsjfhem0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJwgGxybd18U5u-9BUcWEBUY-c3W-gPrFzfWv3e6pve5A&oe=6ABC2AC9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM9RQr4yhYyiT0hfvnYzN83zXYWd0QRPr5NCsOxWLVGOGRFw_BPe583Oiz948GNrkMi3Xvx-Bzj0H6dT23MDzY2Z3nRE0i0aX1Hi8n2SG6wnQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=KyyKPS8HlrUQ7kNvwFhUaLx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg2OTY4MTU4MTAzODU4NzQsImFzc2V0X2FnZV9kYXlzIjo2NjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=501c62e0d6e6b015&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjRERDkxNTk4RDIyNUFFMjM2QkM0ODU0N0M5Qjc4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGWHg5QnRrbEVRRlpYSUJBTWRLWVlDNUpubzdidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak3_CQp-3yHhUCKAJDMywXQDrVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQJXrbF3_YNlabF35P3WIc6vpxLkdxWxWZY2UPsiqSAe-A&oe=6ABC38D9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1229107992183270"
+      },
+      {
+        "id": "26264800759822001",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "תכשיטים/שעונים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527499354_620103441175402_5748055040107574529_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oo8UV-WKAEcQ7kNvwGShbxS&_nc_oc=Adp8jBVk6MoyHaadGYJm2rLHJPVIBi2teXUyHaA2hxlQHtBgjay4MI4JYGR4Uf5OKxw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJCngygXJVcJ3m-t9yGDNvnnmtB0GVdZO0GDevb0yNyrw&oe=6ABC60F3",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQO7b6JcuR6qul9n7g0v1WcObVFYfRaG63o1nqOSbcMQVKZrR7LtSIsWQstsUh8KGc5oDm7CXa1l00TLugenOCg8.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TQGbe4tK3oEQ7kNvwHU2Wv5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyMzk1ODczODYwODQ3Mzc0LCJhc3NldF9hZ2VfZGF5cyI6MzEyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQItV4nO_2tRy6LQLX__zxM1vvOp0amRrQ2eF5M4dW0XEQ&oe=6ABC5A25"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/527232850_736252965983906_9041212075964649354_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tY0w4510LBoQ7kNvwEAQ9id&_nc_oc=AdqKUD8NWGTElAXgz94i4JUJ4jwuM49kgkJ8f2tkkujftkwNG-NrjT1MGhr9Rn9a6Mo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQJiD6fyPRrnu4T7Ywru2umtpo5NiUMaKgK28a8Fp-TAuA&oe=6ABC47C5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQO_XcptHNX9oSsnpjnFKAqBQq76X9ELOYQJU_MpPCAF42h4m_YNrDzz-sdWTxY9Q0Ex1OaplK2WtpyV59ft56An.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VIMjdNdDlHsQ7kNvwFc904s&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzk5OTE1NDUxNzAzMDY2LCJhc3NldF9hZ2VfZGF5cyI6MzEyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQK5in_76-9pwE4f_1tCCW_2dV40L-HfWfUZcM9amn2c0g&oe=6ABC490C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/527703862_1738317806890152_4227207725533199136_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wtNUZYQyDPMQ7kNvwEhkWGr&_nc_oc=AdplKkNUzNdWKFHIBNMwyvyN_zsHVp1PlDZw3o3naFvRuGsdZPPKW68GYlOL0js2uuo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIJctPjYm4xOtZjRaC27m-7uOUIlmPnn53zuj8RjFYWew&oe=6ABC31E8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPkiHStmTYe-IQUnNvQDo0BMJJJ8kbvJA3jYuPdjvNYL92Qd0hDChLJ3F6aon0SzfzUDaLxSN6fGW_THPraK_Q.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bH6ZbFc7DkAQ7kNvwGSxt8D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzU1MjMyOTkyODA5OTg2LCJhc3NldF9hZ2VfZGF5cyI6MzEyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQK1Z82j_jOyvgk-pivRm3fAO1eq9TtNwakQbRM3HJdiDg&oe=6ABC486A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26264800759822001"
+      },
+      {
+        "id": "4255877128073760",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1773126000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605178066_1620960125939808_8455302404821069203_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MXyhSresPUkQ7kNvwFl_dH2&_nc_oc=AdpD0Mk73j2PFNgMze2us3p8P8DlVV8agEtO7YzyW_xWlNn5GyDi5BbNH0PCbs8vtGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLqiJYOF5U6ivbuW-UTZf58hTo1wH2OLgt6ZqujXMiHfg&oe=6ABC48F7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMq4vQbOafgRlqadMHRNLSDH_-VBTHdFq8gcfV1-zOS2KiVsWsH8PARs8em87kWgJEMW3CigfP38OhAdO1jKiiR0GnKIFDXag5rdTK2jKmzWg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=01oIJdr0Jc8Q7kNvwHKyChC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcyNjk4MjgwOTk2ODIxMCwiYXNzZXRfYWdlX2RheXMiOjI5MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dd91c2dfeb62b128&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QjRDNTk0NDY2QkNFRDUwQzdEQ0E5NTcxMEE2NTFCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDVFREU0NTIzQzMyMTM0MDM3MjIxMkJFRDM5MUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak-aqC_MvKAhUCKAJDMywXQD2IcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQIRubkhugazfsavWBOZPAt2Ss8LXqEa-13ITJtMJeL1Tg&oe=6ABC5A12"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605532019_1394683398719572_1512400299435230829_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v6-1vMXo_eoQ7kNvwGAknGQ&_nc_oc=AdokWEQBVl4iSbMPKYT1AkwoDvw_TPDOfBYUrfcDNy61OAF2hw6-Z9ZZ-ZHIoAP47Lo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQIz5elkIYl7DCavBbG8Ix5hcDy_eIM-mm2BBX0PYhURgg&oe=6ABC443E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMStKneU_1p065yOOMb52LatKCDgis92gzXyCc--YSrk_Anx4uHoHU1Ljk18YF034JOSQRA3NO319DMlM5osIIWtw36Ei-Feg1IxNNb815riw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=tjXGSVHl4o4Q7kNvwGm2wot&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg0NTA2MTM4MTYwNjUwNCwiYXNzZXRfYWdlX2RheXMiOjI5MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b3f72d921736d84f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NDRBNzY1MkE4QUQwOUI0NjhFM0E0QkQ2NkM5Q0FBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc2NDc2MkZDNzg4RkYwMUU1MzBGMTFDNzM0NTI5QUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQsbb3haWAAxUCKAJDMywXQD2IcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQLbYSVxIk-F6IZhKB4oemayjehd8eRrWHwZbGEUEN6-kQ&oe=6ABC2C27"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4255877128073760"
+      },
+      {
+        "id": "929631872865013",
+        "page_id": "107025032419408",
+        "page_name": "Moon - תכשיטים עם משמעות",
+        "page_url": "https://www.facebook.com/100093353714425/",
+        "page_like_count": 1185,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605920716_1418311973233299_2717817880746692065_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SBzXSzc2BNgQ7kNvwH2JZi1&_nc_oc=AdrVVN6p92kn7rptmQsBrn-rniYezlhv1_BfTXpr2PZtf4gIXQOAHYNfYXakLZqu4xw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQKd_Bfpa2kIBzypUhXbnM2LHKWQSmf3y9zG4eD6nFK85w&oe=6ABC34FF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOHr14dktru7Xuf4yAOKaRsG7tUi1JfTgBTSvurM8NvwUOFVGLnfhcRQCZ0STG4JdD68R8dDDcv6d-PIEyWHvz06NpHjoVD5XAamVLyiKSZag.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PCkuq5BV3rQQ7kNvwFzgUFJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1Njg0Mjg4OTM3ODcyODA1LCJhc3NldF9hZ2VfZGF5cyI6MjkxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3b7dedcce3a881b3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMDQ2ODcyNUMwMEZDMUM5MDhBREU4ODgxQkE3QzdBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDUzM0Y5RjMwMTg2RDRCMkFGNjlEOERBNzAzN0I2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKtprnsO6fWxUCKAJDMywXQEAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQIUZQpBqHcM7-bIIE6m74Pu3muNE5M-_ILNQQ6kvXgApA&oe=6ABC3B37"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605628417_908111008311009_2563482742785047359_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cjI9JdrCOlYQ7kNvwF_obDC&_nc_oc=AdqK2gH_HR-hd-JXvyLHUAlX1Idc-FFxgLpLrSkEvj5aAAu9BCdbpd3ZL00Prq8sNoo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&oh=00_AQLBQo4UBdSJMIBZuhq_ffj8QJwvDbvVRh9ee6dlNFH4rA&oe=6ABC5E97",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPvON0cttTgP8UkldaEiagaPpJpMMO3f2VefoR73k68tGMMH4KHf9kTvjf5YbWqb60PrmwH55mINf1PeBco5bkmLeTJfsZjEaRhNkXjEo8WwA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wHHGr2Kcb2gQ7kNvwHMoaJR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTYwNzk0MTk5NTAyMDUsImFzc2V0X2FnZV9kYXlzIjoyOTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=15bc2d9c54e5b682&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMjRBQjhGN0NFOUI1ODVGRThBOUI3NzRBREMzRUVCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E0NEYyNTNGNTJDQTAyMTUxOTNGOTY1MDc4NzY5RkI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6kfLq9J_gAxUCKAJDMywXQEAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs1OCHdNLkpGCXJT8oHYfA&_nc_ss=70289&_nc_zt=28&oh=00_AQKhhrjY8YWCqhY84latPNyKuu1WLm47mJZridP7y44Hpw&oe=6ABC2E76"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=929631872865013"
+      },
+      {
+        "id": "805395798518681",
+        "body": "{{product.brand}}",
+        "landing_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+      },
+      {
+        "id": "1199912778574205",
+        "body": "בתקופה כזו של חוסר ודאות, האהובים שלכם ישמחו לדעת כמה הם יקרים לכם ולקבל מתנה עם חריטה אישית ומרגשת עד הבית\nתכשיט עם חריטה אישית, זו מתנה נפלאה, שגורמת לאהובים שלכם להבין כמה אתם חשובים להם, ומה אתם עבורם.",
+        "landing_url": "https://moonjewelry.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "805395798518681",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "1199912778574205",
+        "text": "בתקופה כזו של חוסר ודאות, האהובים שלכם ישמחו לדעת כמה הם יקרים לכם ולקבל מתנה עם חריטה אישית ומרגשת עד הבית\nתכשיט עם חריטה אישית, זו מתנה נפלאה, שגורמת לאהובים שלכם להבין כמה אתם חשובים להם, ומה אתם עבורם.",
+        "links": [
+          "https://moonjewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "884910180978959",
+        "text": "הגבר שלך הוא הגבר המושלם נכון? 😍 הוא חזק, הוא שומר עליך , והוא אוהב אותך, הוא תמיד עושה הכל בשבילך. תראי לו כמה הוא חשוב ויקר לך ותעניקי לו את המתנה שהוא הכי זקוק לה, במיוחד עכשיו. צמיד עם חריטה אישית ומרגשת שיהיה איתו גם כשהוא קצת רחוק.\nהצמיד עמיד למים 💦💧 ומגיע בקופסא מרשימה 🎁 עם אחריות לשנה, הוא יוקרתי ויפייפה, והחלק הכי חשוב שאפשר לחרוט כל מה שרוצים ומרגישים, שמות, ציטוטים משירים, משפטים שרק אתם מכירים ועוד.\nזה בדיוק הזמן.\nוזו בדיוק המתנה.🎁",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "1295388989167569",
+        "text": "הגבר שלך הוא האבא המושלם נכון? הוא חזק, הוא שומר עליכם, והוא אוהב אתכם, והוא תמיד עושה הכל בשבילכם, בשביל המשפחה שלו. תראי לו כמה הוא חשוב ויקר לכם ותעניקי לו את המתנה שהוא הכי זקוק לה, להיות איתכם בכל מקום ובכל זמן, גם כשהוא קצת רחוק.\nצמיד חריטה עם שמות המשפחה. במגוון צבעים שהוא אוהב. \nזה בדיוק הזמן.\nוזו בדיוק המתנה.",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "3414681945402890",
+        "text": "🌟🎁 מחפשים את המתנה המושלמת שתיגע בלב של היקרים שלכם? 🌟🎁 תכשיטי חריטה אישיים הם המתנה המושלמת שמספרת את הסיפור שלכם.  תכשיט אישי שמגיע מהלב ישר ללב, ירגש כל אישה שתקבל אותו 🌈✨  האהובים שלכם יתמלאו באושר כשקופסה קטנה תיפתח ותתגלה מתנה כל כך אישית ומשמעותית, תזכורת קטנה ויפה לאהבה שלכם 💖  \nב-Moon Jewelry כל התכשיטים שלנו עמידים במים, לא משחירים ולא משנים את הצבע 💦  אתם יכולים לבחור תכשיט ולחרוט כל דבר שמשמעותי עבורכם - שמות, תאריכים מיוחדים, משפטים משירים אהובים ועוד. 💌  🌈 \nבמיוחד עבורכם, אנחנו נותנים קוד קופון מיוחד של 10% הנחה! 🌈 בקוד קופון: LOVE10  \nכמה זמן לוקח להנות מכל הטוב הזה? עד חמישה ימי עסקים והמשלוח אצלכם בבית 🚚 \n והמחיר? המחיר כמו של זר פרחים 🏷️📢🔥  כל מה שאתם צריכים לעשות זה להיכנס לאתר שלנו, לבחור את התכשיט שמתאים לכם, ועוד כמה לחיצות והתכשיט יגיע אליכם עד הבית. תהנו! 🔥",
+        "links": [
+          "http://moonjewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1980692379532317",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "1618919263572614",
+        "text": "הגבר שלך הוא הגבר המושלם ❤️\nהוא תמיד דואג שיהיה לך הכל, הוא תמיד איתך בטוב וגם ברע ובא לך בטירוף לתת לו מתנה מרגשת אבל את לא יודעת מה.\nתכשיט עם חריטה אישית ומשמעותית לכם זו המתנה המושלמת. את יכולה לחרוט כל דבר שיעשה לו טוב,\nשמות הילדים שלכם, ציטוטים משירים, משפטים מצחיקים שרק אתם מבינים, תאריכים ועוד.\nקולקציות מדהימות מחכות לך באתר שלנו.\nמתלבטת? לגבי תכשיט מסוים? יש לך שאלה? שירות הלקוחות שלנו זמין כל שעות היום לתת לכם עזרה, מענה ותשובות לכל השאלות שלכם.\nמחכים לכם, דברו איתנו.\n*קוד קופון מיוחד בשבילכם: WELCOME",
+        "links": [
+          "http://moonjewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "25408634315480731",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "1537637978013964",
+        "text": "את בעלי קשה לרגש.\nבאמת קשה.\nאבל הפעם? הצלחתי ובגדול.\n\nבחרתי לו ליום הולדת צמיד עם השמות של הילדים שלנו,\nשעליו יש גם צ’יפ קטן עם כל התיקון הכללי, מילה במילה, שכתוב בתוך הריבוע הקטן הזה.\n\nפשוט שמירה צמודה שתלווה אותו, תחזק אותו ותגן עליו גם אם הוא לא מרגיש את זה. \n\nוהוא? אני לא זוכרת אותו מתרגש ככה אף פעם.\n\nזה גם הכי סטייל, גם איכותי בטירוף,\nוגם משהו שמלווה אותו כל יום,\nנותן לו תחושת שמירה\nומזכיר לו מי מחכה לו בבית.\n\nבקיצור, מתנה מושלמת.\nשמה לכן קישור כאן למטה👇🏻",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "1006683941703279",
+        "text": "נמצאה המתנה המושלמת!\nתגרמו לאהובים שלכם לחייך ולהתרגש בחג הזה עם מתנה ייחודית שהכי כיף לקבל.\nתכשיטים עם חריטה אישית ומשמעותית, עמידים במים ואיכותיים!\nובתקופה כזו, במיוחד עכשיו כשהאהובים שלכם באמת צריכים מתנה מרגשת, אנחנו מעניקים קוד קופון מיוחד למצטרפים למועדון.\nחריטה מהנה",
+        "links": [
+          "https://moonjewelry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "952673484096666",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/"
+        ]
+      },
+      {
+        "ad_id": "2874056619466022",
+        "text": "🌟🎁אין מתנה מרגשת, משמעותית ושכיף לקבל אותה, כמו תכשיט מדהים עם חריטה אישית 🌟🎁\n\nהאהובים שלכם ישמחו לקבל ממכם מתנה כל כך אישית ומשמעותית שתגרום להם לדעת כמה אתם יקרים להם ואוהבים אותם🌈✨\n\n אצלמו במון כל התכשיטים עמידים למים לא משחירים ולא משנים את הצבע 💦\n\nאתם יכולים לחרוט כל דבר, שמות תאריכים משפטים משירים שרק אתם מכירים ועוד. 💖\n\n🌈 ואם קראת עד לפה אנחנו נותנים לך קוד קופון מיוחד של 10% הנחה! 🌈\nבקוד קופון: VIP10 .\n\nכמה זמן לוקח להינות מכל הטוב הזה? עד חמישה ימי עסקים והמשלוח אצלכם בבית 🚚\n\nוהמחיר? המחיר כמו של זר פרחים 🏷️📢🔥\n\nכל מה שאתם צריכים לעשות זה להכנס לאתר שלנו, לבחור את התכשיט שמתאים לכם, ועוד כמה לחיצות והתכשיט יגיע אליכם עד הבית.\nתהנו! 🔥",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "839916489076755",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "881541751607068",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "1968570474033210",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://moonjewelry.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+      "https://moonjewelry.co.il/",
+      "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:11:10",
+    "filtered": "2026-09-25T13:12:53",
+    "qualified": "2026-09-25T13:17:50"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://moonjewelry.co.il/",
+      "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+      "https://moonjewelry.co.il/about/",
+      "https://moonjewelry.co.il/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "lead_id": "2026-09-25-072",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://francoorodesign.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/m.francoorodesign/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1512619392367540",
+    "page_name": "פרנקו אורו תכשיטים",
+    "active_ads_count": 9,
+    "search_keyword": "תכשיטים",
+    "sample_ads": [
+      {
+        "ad_id": "1689924595465018",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700997482_964662249890099_4103779720239949891_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8BRcfHKOU64Q7kNvwG2NVst&_nc_oc=AdrV1vrD4Ce6OCbfFwlbYE7vYuxJVyZahIxelgpbEzPU7eMCQVgQzrNb9hwpQYPaZVI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQIT5d0vb5KD-4SURyoQxC8K9XghCiwkkmvzbfkjagQHjw&oe=6ABC3376",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP5NkPxWCgG1bheLQlZNwO8eyydH644oI5ceE7sY2nvic8fdWQN0zq0-rYjNoIZY1mUChYu6OOOqqnAnSpqk-bZO6Gz2uo4lNIEKurdbbAbLg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NNyT-BsSsywQ7kNvwGe7PcO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcwMjYxNzg4NTg5NDg4OCwiYXNzZXRfYWdlX2RheXMiOjI5OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6ec70f926a5dcee2&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FODREQzgwMzNCQTVBNjk5RUVENUMzM0QzRkEwODI4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQo4OY38G_AhUCKAJDMywXQCYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&_nc_zt=28&oh=00_AQIFPtmDDppzKiiLfrQTnOzuWHtSv3SfSVFCFxiqc-Y7TA&oe=6ABC335C"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1779087600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1689924595465018"
+      },
+      {
+        "ad_id": "1656247732344858",
+        "link_title": "✨אהבה ממבט ראשון - תכשיטי יהלום מעבדה CVD - חכם ונוצץ יותר",
+        "body": "יש סיבה שיותר ויותר נשים בוחרות ביהלומי מעבדה. אותו ברק מרהיב , אותה איכות, זהב 14 קאראט בקולקצייה ייחודית ומעוצבת שנוצרה בישראל.",
+        "landing_url": "https://fb.com/canvas_doc/1171271808547058",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744141412_1818758038944601_7544227290302868691_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c_EMDXcAIRoQ7kNvwHj1E9V&_nc_oc=AdrLAN703Jk4ZKe-JbviTkp1OfJqL6CApBBL4StMTU3KZ6XtsfZyV8regseCbIGG478&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJ9sN6cYSk5Uy-wJ2HsGzKqoib4t4gddD6F_WS_kVpRKg&oe=6ABC2FEF"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1783580400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1656247732344858"
+      },
+      {
+        "ad_id": "2196034307820760",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698829596_1484636923344757_3472657056087140888_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IUsqu8g9JnIQ7kNvwGpk49l&_nc_oc=AdoBzY1eG9PhJkcqNxIP0zGLq8fnNUp0bT0qr4vnpaik8Pl_F-1HO1i903pfvEBZoE4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQLUjar4jKYsOCnpYRVqyHx6ffOBtFTBZuCiMXXy3HWZfw&oe=6ABC3F32",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701664391_1931580927543737_5015430469879918397_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yxZwEfoiBxIQ7kNvwGpTg6w&_nc_oc=AdrbfeW-gLdabTgDtfSsyoxj-2jhxCQnp0Pgx2LRUC8_qWMAu1dgGFTOsi9WdaStuzg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQI-4V5aUwKwfM9gqmnnkEy6oYiWqU09xe79GCfVpfAxRw&oe=6ABC3780",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701789544_3363478107147179_3825153077170637286_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V39E_CJLe0oQ7kNvwFRH8ji&_nc_oc=Adp_JXbEr1vMmwUP1BgPc3wuCugbdkizkz5OgcgmVQAU9FKbj5gNorxicj5dxUFiymI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQKEu0yKFcOxK854XFWNLy8_rmCmvNACVHZqTdDdXMuxDg&oe=6ABC2D72"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779087600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2196034307820760"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 9,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE",
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 7302,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1689924595465018",
+      "1656247732344858",
+      "2196034307820760"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE",
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 7302,
+    "page_categories": [
+      "תכשיטים"
+    ],
+    "page_ads": [
+      {
+        "id": "1689924595465018",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "תכשיטים"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779087600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700997482_964662249890099_4103779720239949891_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8BRcfHKOU64Q7kNvwG2NVst&_nc_oc=AdrV1vrD4Ce6OCbfFwlbYE7vYuxJVyZahIxelgpbEzPU7eMCQVgQzrNb9hwpQYPaZVI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLdAYpUlWBM33VBMsFc-vkS2Q1o9D_PnWZqTAUN6xhE2w&oe=6ABC3376",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP5NkPxWCgG1bheLQlZNwO8eyydH644oI5ceE7sY2nvic8fdWQN0zq0-rYjNoIZY1mUChYu6OOOqqnAnSpqk-bZO6Gz2uo4lNIEKurdbbAbLg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NNyT-BsSsywQ7kNvwGe7PcO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcwMjYxNzg4NTg5NDg4OCwiYXNzZXRfYWdlX2RheXMiOjI5OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6ec70f926a5dcee2&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FODREQzgwMzNCQTVBNjk5RUVENUMzM0QzRkEwODI4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQo4OY38G_AhUCKAJDMywXQCYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQIZW0ycMfFLDltr-Q51w9-OxopBODX0W0MITKTO7Bm7_w&oe=6ABC335C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700378312_857283250114847_540515656982160782_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AO4PH7KXgWEQ7kNvwG2-Q0B&_nc_oc=AdpzzH_PQNCC5d0TknXHoBtVijcLmTEPktsoiUOlxL1cUeqPDTbYTJBHzsxfh9frJsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKn3rezytbC_8VTSwIjzDQekV3y3YFv6_z8Rk4g7ARBIA&oe=6ABC568F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO4Dj0Fr-ecrsMgpqNbhmbep8CqrMXCN0TsFAMZfgFbDTTm6P4vYQB1ecPtBazAPj3oZL8EjT-wOtm8v2HegcDm_LpMzFRqGpNboV2IPWVS5g.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aBqcYWmWoNsQ7kNvwHQ3IbK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo4Mzk1MDA2MTIxMzU3NjYsImFzc2V0X2FnZV9kYXlzIjoyOTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c45e0e73fc3b2370&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9EQTQwNkY0MzNFMDlFRjg3OUYwNjBFMTYwREQzMThCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasrbP8ruH9AhUCKAJDMywXQCYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQKr5KvqthcYAm9zbQ0SsBq1f7JO0hIUCOVL1KR_XJPb8Q&oe=6ABC39D3"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700361315_1303752701971721_7650053111816850656_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lMiVcDSshC8Q7kNvwHUD7Ef&_nc_oc=AdqTDCfm-6AjBhUkO6R3CSIsuS8TYQH4vXFd529NqYZt6xErNd3wd1DnPcR4i8hEtks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQIoaidU-_q8gtNUbdPyFNvfXJGn8fUbtJsLWXZw_QkVTw&oe=6ABC4B0C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPbKnsksQ30x2bRC8nmPzNcasJYuSES3fgJNzynVaU8An6J9meBdPdxJZ12oXPgWGFFbP1deHtAM76nNTtpA4K1rEqTPcoi05vAZY4IZuLM5w.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0K5_3oYDYmsQ7kNvwGWagp9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzODA4NDMyODgzNTk3MywiYXNzZXRfYWdlX2RheXMiOjI5OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=11567faeb6dfbef5&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC81NjQ3ODUxRDc2NzRDQ0QzRjNBMEQwNDZEQTZDNTBCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKrrLr9o79AhUCKAJDMywXQCYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQIOMr8eNs_oI_R7BJrumeeahpFpUBvnnwoPb16Vw-DnYg&oe=6ABC59E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1689924595465018"
+      },
+      {
+        "id": "1656247732344858",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "✨אהבה ממבט ראשון - תכשיטי יהלום מעבדה CVD - חכם ונוצץ יותר",
+        "body": "יש סיבה שיותר ויותר נשים בוחרות ביהלומי מעבדה. אותו ברק מרהיב , אותה איכות, זהב 14 קאראט בקולקצייה ייחודית ומעוצבת שנוצרה בישראל.",
+        "link_description": "",
+        "landing_url": "https://fb.com/canvas_doc/1171271808547058",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744141412_1818758038944601_7544227290302868691_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c_EMDXcAIRoQ7kNvwHj1E9V&_nc_oc=AdrLAN703Jk4ZKe-JbviTkp1OfJqL6CApBBL4StMTU3KZ6XtsfZyV8regseCbIGG478&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKDGUsUlEQs8Bq9HhvwjQ_N8kmotc5C69BVYXr7nr3Fog&oe=6ABC2FEF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1656247732344858"
+      },
+      {
+        "id": "2196034307820760",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779087600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698829596_1484636923344757_3472657056087140888_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IUsqu8g9JnIQ7kNvwGpk49l&_nc_oc=AdoBzY1eG9PhJkcqNxIP0zGLq8fnNUp0bT0qr4vnpaik8Pl_F-1HO1i903pfvEBZoE4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQILQejlyuHVBd4GjfAGOZLpZRWosJerB5b37APzTh-BZg&oe=6ABC3F32",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701664391_1931580927543737_5015430469879918397_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yxZwEfoiBxIQ7kNvwGpTg6w&_nc_oc=AdrbfeW-gLdabTgDtfSsyoxj-2jhxCQnp0Pgx2LRUC8_qWMAu1dgGFTOsi9WdaStuzg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLQ6U9b8jTYstTP0Qq6FNyy2C3eXvFJpA5-ygSU4TWY3A&oe=6ABC3780",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701789544_3363478107147179_3825153077170637286_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V39E_CJLe0oQ7kNvwFRH8ji&_nc_oc=Adp_JXbEr1vMmwUP1BgPc3wuCugbdkizkz5OgcgmVQAU9FKbj5gNorxicj5dxUFiymI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJhM2gxNdAi9yrGjX6CL6OGmZ6fDN2rEvbTtNw3ghCglQ&oe=6ABC2D72"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2196034307820760"
+      },
+      {
+        "id": "2375146853011562",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%A9%D7%A8%D7%A9%D7%A8%D7%90%D7%95%D7%AA-%D7%9C%D7%92%D7%91%D7%A8",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779087600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605970327_2025380718257507_5805060431467326651_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NAWBP86eN6cQ7kNvwFl3fnE&_nc_oc=AdrKg6umX8sAUydY7IcKJWlhUa_N4hXQV6G-fpM-0iIcKjGCe4M6AVhnb4kQp9844IE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLhodb7EMa6gczblLrDOYm705NkrJGq0JBQF5umGkhaYA&oe=6ABC42B5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM817zfN6jseP38DUQTgDNCe250w2L3d9Y6zzjHNdFHZiM4PG5MdeuherIq-5zfes4i1rj8rh7HZyfAkxRka64Q5sv8qQmStQWeibqZHkJClA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=pzvVT1T6cZQQ7kNvwGfVemo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzc1NDEyNDAwMDkzNjIsImFzc2V0X2FnZV9kYXlzIjo0MTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7d8471bc69e92db4&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC84QTQ4NzA4REEzMUYyODBEM0EyMjk4ODVEMTYwNTNBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakyrGEurfyBBUCKAJDMywXQCoAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ0-18EYigAwG4rNa70PfKYUcDEsLino8AaSExtEZsKZQ&oe=6ABC3F93"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606009569_854369444003616_9101556793557377998_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AyOdj7zOS2QQ7kNvwGUka4O&_nc_oc=Adr3KzF2Wv77XaAnHD5bYZuLiwuZgvYn6Y5KhNM1oqDWOOD4HhVC7KVXRjJOO-1hKpY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKL5gfyxetPJEym1YXVHtjVrey4vmfH9bAJC_wSOIZ6qQ&oe=6ABC2FEE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMeCIu3DhPl5dDSUMwEIUeQPzjaPG4B9shy8WTXqYTvqGsPucaP9pvRixP-O05ISJ1vzezNOxoobA9bhA_w-0Votn-eQhKjEVL15FUd8o_rIw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=YQFqcDNDv7MQ7kNvwEQTTTw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo1ODIwMTg1MjQ2OTYwNDIsImFzc2V0X2FnZV9kYXlzIjo0NTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fd3a78d072e612b1&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8xQjQ5QzY2RTYyMjA3NTA5NEFDQTZEMEUyRDE2NzM5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUt9b299WIAhUCKAJDMywXQCoAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQLXB-5Dq3t3y48SVYeVjHlLrXgEqoKB6DT10lVGT1e1aw&oe=6ABC36B5"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/606823368_1669491257751361_5609073650967380750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1C39Emwi9ckQ7kNvwHI8kUa&_nc_oc=AdqV7fQUKcZRMY0FfH_42V-DWDGzdmVrUnYEfLrNNDB0C4GCX83W7ftJSAms-xHysV0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKzzkYgYnDLKjbyq35owZ14RJ6F0vU_Sr66pDpO-OBQtQ&oe=6ABC532B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPeO9aKrHcqNZ0dOa4nZ92gs6PEJFltBiuv89aXGkSRKXXLhZKOGQrXae8F60yKpDLiAK5IM6mgirUI35ePr0cG9voJ0d9W2I8O-eSgkbfNMQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Y4CTCT_5HEYQ7kNvwEtiixu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MjYxNDA1MTE2MDA0NDEsImFzc2V0X2FnZV9kYXlzIjo0MTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=affb2d4825e0084&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC82MzQyQTFCNEI1RjNDODFGREQyNUQyNTM1Qjk5MEY4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby_LWAzfqQBhUCKAJDMywXQCoAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&_nc_zt=28&oh=00_AQIlKYIr59LwwHwOS5LsLJUHBsXzRZPP4y_81PtjT050lg&oe=6ABC2D30"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2375146853011562"
+      },
+      {
+        "id": "3851372228505036",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/p/%D7%A2%D7%92%D7%99%D7%9C_%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%96%D7%94%D7%91_%D7%9B%D7%95%D7%9B%D7%91_%D7%94%D7%A6%D7%A4%D7%95%D7%9F_%D7%95%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%A7%D7%98%D7%9F",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780815600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716911587_1479192560077194_4539987815582353341_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V00xLssWlHMQ7kNvwH5jWYb&_nc_oc=AdpMBo_f69Ukxy9fuqHKy3cR_xp3OecrDj44Dmy0oAZFhgWcxXvmVEOghXG6i1xMo_Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJiAfgvKBd7Wo16LWnYEZk915foEkcmHvmnvYBhHDDYNw&oe=6ABC2B7F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717257993_1013313197812770_1723426970452685297_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e9W9AYoDm7MQ7kNvwEd6vxi&_nc_oc=AdotGhwxR_kJh9Xdx8WhnJtNKp6TtxVyvaUwOhowWESTxE0vkZdrx6SKGHoUFbzLh84&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJxqEIhFQvWf484SHRWg7SqTT8-jywjHXdPeSLscqwfmA&oe=6ABC4F80",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717154293_1733822457831131_3214172280545452351_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-yDqlgPUwdMQ7kNvwEmTQFl&_nc_oc=AdqMExZnBJjC_h54hijlxkDfUnTu6rdsvV1q8tXjWF8YnZUZdid7fsJR12FLJiI2830&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJ0mzYeNbwo9Sn-UsDBs6zRJLehU86lNLN802C_-2G45g&oe=6ABC459C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3851372228505036"
+      },
+      {
+        "id": "1504240977773574",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/p/%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%9B%D7%95%D7%9B%D7%91_%D7%94%D7%A6%D7%A4%D7%95%D7%9F_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9B%D7%A4%D7%95%D7%9C%D7%94?refc=127144",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779087600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700987791_4028955617239508_8570170260886275994_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1swXQuAE5nIQ7kNvwFUmZRQ&_nc_oc=Ado7gMRS09r09xQSBWpr6-6DDORDvGzzTogBIV3m1U3krkfBk-yqfp7UDohYWxrAg8A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJ5CnlGspxYBujeunL-6tR-jhI_cMhOcMjDa_rpubgq_Q&oe=6ABC3213",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701212949_948080984693039_4068026023782154147_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ri-di7Yf1uQQ7kNvwF37zMv&_nc_oc=AdqPVXFTbzVDpmm8NMuNn6OL5S1MzVAkPO2P_lQahSPxQMCmzEDZXn81HK3TTgH6WHc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQK-Xo8jpbmSmGFHkxN6wwwX_hyIcSuu_8cVnX5iNgcMUw&oe=6ABC5732",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701445394_27124447343883951_3404636409214681335_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SFPSyTE5bNUQ7kNvwHWlq8n&_nc_oc=AdrtZFME4D-BOfVpS7rmP7ICUdrLjLF9w5ClwOeHCspH9oKtilJkbms0637bAdwn7XU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLH5DwYsZxCEJZXByVVLnuLoxaHe0hJWqTHKaCs6jmM-A&oe=6ABC5EF5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701446050_1337095558329690_6425693363077763660_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=shK4sIFUVEgQ7kNvwF5VDuc&_nc_oc=AdoABWLuRpxXaYWxBW_GLw9skld8Khe2hzwbMCzGiWMsEqtDxaIqUw_jRPKIU9wJj8I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKfiddTBNv6S904VIJMIn88-h0NwQ2dmRCB7BKtHgjfZQ&oe=6ABC55DC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1504240977773574"
+      },
+      {
+        "id": "1070784815646580",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "תכשיט ראשון – 7% הנחה תכשיט שני – 9% הנחה תכשיט שלישי – 11% הנחה",
+        "body": "מתחדשים לקראת השנה החדשה ✨\nראש השנה הוא בדיוק הזמן לבחור תכשיט שנשאר איתך הרבה אחרי שהחג נגמר.\nלכבוד החגים, מחכה לכם הטבה מדורגת על התכשיטים של פרנקו:\nתכשיט ראשון – 7% הנחה\nתכשיט שני – 9% הנחה\nתכשיט שלישי – 11% הנחה\nזה הזמן להתחדש, לפנק ולהעניק מתנה בלתי נשכחת לשנה החדשה 🤍\nעל התכשיט הנמוך מביניהם | תקף ברכישה מעל 500 ₪ | ללא כפל מבצעים | למעט קטגוריית טבעות נישואים.",
+        "link_description": "לכבוד החגים, מחכה לכם הטבה מדורגת על התכשיטים של פרנקו:\nתכשיט ראשון – 7% הנחה\nתכשיט שני – 9% הנחה\nתכשיט שלישי – 11% הנחה",
+        "landing_url": "https://www.francoorodesign.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780673931_2604995769959794_7018163281850096908_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vb-rPLYO59oQ7kNvwEGDDGy&_nc_oc=Adry9Ti0cWDTvBiDiY6PQkRu_lf64iLug7og7S1VODfG34Xr8jmw1fqO9u1KOJzpSy8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLx9Ek9qBC2Ax0HBAv9WIBpohGu8gnvyuhpFNHtJcgAKA&oe=6ABC3477",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780673931_2604995769959794_7018163281850096908_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vb-rPLYO59oQ7kNvwEGDDGy&_nc_oc=Adry9Ti0cWDTvBiDiY6PQkRu_lf64iLug7og7S1VODfG34Xr8jmw1fqO9u1KOJzpSy8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLx9Ek9qBC2Ax0HBAv9WIBpohGu8gnvyuhpFNHtJcgAKA&oe=6ABC3477",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779051971_896144663217261_1655528845884502853_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B77mOfDLW80Q7kNvwEFNbOi&_nc_oc=Adpdriq7y2tsZiwtUa77KrQTUhLdppC3gN5DwbJIeZN8-oBWwbmhkRYaxjV7vz6A0d4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKLqQRZqqmdpRV_abGX-B1FB5A99em9d0OpWVEchOJ7Vw&oe=6ABC5EBE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778330193_1783489982900997_8185844816878171854_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C8zwuMKHo3YQ7kNvwFA8uUd&_nc_oc=AdoUOArCf0xicsqL6j5HjmXJ8IWR2F68bhFF7H6vmfV4QVvwRdlN58t9QN8lc_C6wzk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLRTcvb1mRjYCyD6XHByMerG9GgKnqm7FO7_cxUvZYTsA&oe=6ABC40CD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1070784815646580"
+      },
+      {
+        "id": "853125063885788",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.francoorodesign.co.il/p/%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%96%D7%94%D7%91_%D7%AA%D7%9C%D7%99%D7%95%D7%9F_%D7%90%D7%91%D7%9F_%D7%97%D7%9F_%D7%98%D7%95%D7%A8%D7%9E%D7%9C%D7%99%D7%9F",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779087600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702044005_1457807559445513_3534052317684295637_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I9qQHcYdAqkQ7kNvwFsd77v&_nc_oc=AdqBKIkyllX2g32FiN1BPyF-KSasW3rrmZZNCG0y1HRKXXhTWfzTDTrmGXRGjsEuPOM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKNZi64se8ppAo9N9ZebXnXXmkZwc1DTURWxg0MQET1QA&oe=6ABC4C5A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701623563_1345043070946566_847654851957947050_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MB4OvVTACeUQ7kNvwFe2fWJ&_nc_oc=AdoUm7szxl5qMMbl4317AGWiz46f9fx7pnsuov1G6cYuFRW9ZxGcEasi71jcemZXFOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKojPgXYS87gwvbqJ7S3jt6XhAEeqlA2BEtBYz_u-RVxA&oe=6ABC36A6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702077523_1605556237177320_6332757411909778667_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j79L7e2EF7AQ7kNvwHjFifS&_nc_oc=AdoImKZmz2BBUtkMzC4XNxNrcHt5c3h_H91AQiRjhrxn2iz13t9YTuF6yu_jj4MOfvg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQJ1c8IvetsAxUqubisDu8gZ_w3c4Qi1r63AOvfe1_5Jgg&oe=6ABC58E9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701293252_4423194714596064_1672286772780252150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j-_lN1aHCcgQ7kNvwEoQdzZ&_nc_oc=AdpZX-UiX40XAB-Zw0fiKiQz2MPVaGkPCcECX_a6s1q148kNYjBt2jD_eeAUx2du6YI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQLU6m__xHZD65CELhH-PISvc5YqJ2dctGn8Jy18qEsMtQ&oe=6ABC398D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=853125063885788"
+      },
+      {
+        "id": "1089647520311364",
+        "page_id": "1512619392367540",
+        "page_name": "פרנקו אורו תכשיטים",
+        "page_url": "https://www.facebook.com/m.francoorodesign/",
+        "page_like_count": 7302,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "הכירי את טבעות האמרלד של פרנקו אורו!",
+        "body": "קולקציית טבעות האמרלד של פרנקו אורו משלבת אבני אמרלד טבעיות עם זהב 14 קראט, בעיצובים קלאסיים לצד טבעות מיוחדות יותר, ליום־יום, למתנה או פשוט לעצמך.\nלמי שמחפשת טבעת מיוחדת, אבל כזו שתמשיך לאהוב גם בעוד שנים.",
+        "link_description": "",
+        "landing_url": "https://fb.com/canvas_doc/1388067902774465",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788764400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792324062_2120544028566399_3312067794202771631_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlCCM-4erCkQ7kNvwGv7nlm&_nc_oc=AdpwisR-yjGBkcsFwcfSyNUrYTB1qhRHuOO7nuG7ub-NWHPUp0D_LJf_x3A2hPYOUE0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pq5NBmfn0hpKZNkrQn42yg&_nc_ss=70289&oh=00_AQKmGU9mm3JIfgxfKKaLHPWe3-m_TI5KG4ZbuAbev7cPdQ&oe=6ABC4284"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1089647520311364"
+      },
+      {
+        "id": "1689924595465018",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_"
+      },
+      {
+        "id": "1656247732344858",
+        "body": "יש סיבה שיותר ויותר נשים בוחרות ביהלומי מעבדה. אותו ברק מרהיב , אותה איכות, זהב 14 קאראט בקולקצייה ייחודית ומעוצבת שנוצרה בישראל.",
+        "landing_url": "https://fb.com/canvas_doc/1171271808547058"
+      },
+      {
+        "id": "2196034307820760",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/canvas_doc/1171271808547058",
+      "https://fb.com/canvas_doc/1388067902774465"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1689924595465018",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_"
+        ]
+      },
+      {
+        "ad_id": "1656247732344858",
+        "text": "יש סיבה שיותר ויותר נשים בוחרות ביהלומי מעבדה. אותו ברק מרהיב , אותה איכות, זהב 14 קאראט בקולקצייה ייחודית ומעוצבת שנוצרה בישראל.",
+        "links": [
+          "https://fb.com/canvas_doc/1171271808547058"
+        ]
+      },
+      {
+        "ad_id": "2196034307820760",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94"
+        ]
+      },
+      {
+        "ad_id": "2375146853011562",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/c/%D7%A9%D7%A8%D7%A9%D7%A8%D7%90%D7%95%D7%AA-%D7%9C%D7%92%D7%91%D7%A8"
+        ]
+      },
+      {
+        "ad_id": "3851372228505036",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/p/%D7%A2%D7%92%D7%99%D7%9C_%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%96%D7%94%D7%91_%D7%9B%D7%95%D7%9B%D7%91_%D7%94%D7%A6%D7%A4%D7%95%D7%9F_%D7%95%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%A7%D7%98%D7%9F"
+        ]
+      },
+      {
+        "ad_id": "1504240977773574",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/p/%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%9B%D7%95%D7%9B%D7%91_%D7%94%D7%A6%D7%A4%D7%95%D7%9F_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9B%D7%A4%D7%95%D7%9C%D7%94?refc=127144"
+        ]
+      },
+      {
+        "ad_id": "1070784815646580",
+        "text": "מתחדשים לקראת השנה החדשה ✨\nראש השנה הוא בדיוק הזמן לבחור תכשיט שנשאר איתך הרבה אחרי שהחג נגמר.\nלכבוד החגים, מחכה לכם הטבה מדורגת על התכשיטים של פרנקו:\nתכשיט ראשון – 7% הנחה\nתכשיט שני – 9% הנחה\nתכשיט שלישי – 11% הנחה\nזה הזמן להתחדש, לפנק ולהעניק מתנה בלתי נשכחת לשנה החדשה 🤍\nעל התכשיט הנמוך מביניהם | תקף ברכישה מעל 500 ₪ | ללא כפל מבצעים | למעט קטגוריית טבעות נישואים.",
+        "links": [
+          "https://www.francoorodesign.co.il/"
+        ]
+      },
+      {
+        "ad_id": "853125063885788",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/p/%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%96%D7%94%D7%91_%D7%AA%D7%9C%D7%99%D7%95%D7%9F_%D7%90%D7%91%D7%9F_%D7%97%D7%9F_%D7%98%D7%95%D7%A8%D7%9E%D7%9C%D7%99%D7%9F"
+        ]
+      },
+      {
+        "ad_id": "1089647520311364",
+        "text": "קולקציית טבעות האמרלד של פרנקו אורו משלבת אבני אמרלד טבעיות עם זהב 14 קראט, בעיצובים קלאסיים לצד טבעות מיוחדות יותר, ליום־יום, למתנה או פשוט לעצמך.\nלמי שמחפשת טבעת מיוחדת, אבל כזו שתמשיך לאהוב גם בעוד שנים.",
+        "links": [
+          "https://fb.com/canvas_doc/1388067902774465"
+        ]
+      },
+      {
+        "ad_id": "1689924595465018",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_"
+        ]
+      },
+      {
+        "ad_id": "1656247732344858",
+        "text": "יש סיבה שיותר ויותר נשים בוחרות ביהלומי מעבדה. אותו ברק מרהיב , אותה איכות, זהב 14 קאראט בקולקצייה ייחודית ומעוצבת שנוצרה בישראל.",
+        "links": [
+          "https://fb.com/canvas_doc/1171271808547058"
+        ]
+      },
+      {
+        "ad_id": "2196034307820760",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.francoorodesign.co.il/c/%D7%A4%D7%99%D7%A8%D7%A1%D7%99%D7%A0%D7%92_",
+      "https://www.francoorodesign.co.il/c/%D7%AA%D7%9B%D7%A9%D7%99%D7%98%D7%99_%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%9E%D7%A2%D7%91%D7%93%D7%94",
+      "https://www.francoorodesign.co.il/c/%D7%A9%D7%A8%D7%A9%D7%A8%D7%90%D7%95%D7%AA-%D7%9C%D7%92%D7%91%D7%A8",
+      "https://www.francoorodesign.co.il/p/%D7%A2%D7%92%D7%99%D7%9C_%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_%D7%96%D7%94%D7%91_%D7%9B%D7%95%D7%9B%D7%91_%D7%94%D7%A6%D7%A4%D7%95%D7%9F_%D7%95%D7%99%D7%94%D7%9C%D7%95%D7%9D_%D7%A7%D7%98%D7%9F"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:11:10",
+    "filtered": "2026-09-25T13:11:33",
+    "unqualified": "2026-09-25T13:15:22"
+  },
+  "qualify": {
+    "pages_checked": [],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "instagram_page",
+      "whatsapp"
+    ]
+  }
+}

@@ -84,7 +84,9 @@
     ],
     "landing_urls": [
       "https://www.goluggage.co.il/product/%d7%91%d7%90%d7%a0%d7%93%d7%9c-%d7%a1%d7%98-%d7%9e%d7%96%d7%95%d7%95%d7%93%d7%95%d7%aa-%d7%a7%d7%a9%d7%99%d7%97%d7%95%d7%aa-luan-diamond/"
-    ]
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": []
   },
   "current_ads": [],
   "products": [],
@@ -99,7 +101,7 @@
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
-    "unqualified": "2026-09-25T11:32:27"
+    "unqualified": "2026-09-25T12:55:33"
   },
   "qualify": {
     "pages_checked": [],
@@ -108,8 +110,9 @@
     "owner_candidates": [],
     "missing": [
       "instagram_page",
-      "owner_instagram",
       "whatsapp"
-    ]
+    ],
+    "site_blocked": true,
+    "owner_instagram_found": false
   }
 }

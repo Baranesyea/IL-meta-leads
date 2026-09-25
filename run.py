@@ -40,18 +40,15 @@ def cmd_filter(_):
               f"fb=https://www.facebook.com/{m['page_id']}")
 
 
-def cmd_qualify(args):
-    from src import qualify
-    done = qualify.run(args.lead_ids or None)
+def report_qualify(done):
     fields = ["website", "instagram_page", "owner_instagram", "whatsapp"]
     hits = {f: 0 for f in fields}
     for lead in done:
-        missing = lead.get("qualify", {}).get("missing", [])
-        has_site = bool(lead["business"].get("website"))
-        hits["website"] += has_site
-        for f in fields[1:]:
-            hits[f] += has_site and f not in missing and lead["status"] != "rejected"
         c = lead["contact"]
+        hits["website"] += bool(lead["business"].get("website"))
+        hits["instagram_page"] += bool(c["instagram_page"]["url"])
+        hits["owner_instagram"] += bool(lead.get("qualify", {}).get("owner_instagram_found"))
+        hits["whatsapp"] += bool(c["whatsapp"]["number_e164"])
         print(f"  {lead['lead_id']}  {lead['status']:<11} {lead['meta']['page_name']}")
         print(f"      site={lead['business'].get('website') or '-'}  ig={c['instagram_page']['url'] or '-'}")
         print(f"      owner_ig={c['owner_instagram']['url'] or '-'}  wa={c['whatsapp']['number_e164'] or '-'}"
@@ -60,11 +57,31 @@ def cmd_qualify(args):
     print("hit rate: " + ", ".join(f"{f} {v}/{len(done)} ({100 * v // n}%)" for f, v in hits.items()))
 
 
+def cmd_qualify(args):
+    from src import qualify
+    report_qualify(qualify.run(args.lead_ids or None))
+
+
 def cmd_find(args):
-    cmd_discover(args)
-    cmd_filter(args)
-    args.lead_ids = []
-    cmd_qualify(args)
+    """Stages 1-3, keyword after keyword, until today's target of qualified leads is reached."""
+    from src import discover, filter as flt, qualify
+    from src.common import load_config, today
+    from src.web import AdLibraryBrowser
+
+    cfg = load_config()
+    target, max_kw = cfg["daily_target"], args.max_keywords
+    with AdLibraryBrowser() as browser:
+        for i in range(max_kw):
+            have = len(db.leads_by_status("qualified", "researched", "approved", date=today()))
+            if have >= target:
+                break
+            new = discover.run(browser)
+            kept, rejected = flt.run(browser)
+            done = qualify.run(browser=browser)
+            ok = [l for l in done if l["status"] == "qualified"]
+            print(f"[{i + 1}/{max_kw}] new={len(new)} filtered={len(kept)} rejected={len(rejected)} "
+                  f"qualified={len(ok)} (today total {have + len(ok)}/{target})")
+    report_qualify(db.leads_by_status("qualified", date=today()))
     log.info("stages 4-5 (collect/research) not implemented yet")
 
 
@@ -103,7 +120,9 @@ def main():
     q = sub.add_parser("qualify")
     q.add_argument("lead_ids", nargs="*")
     q.set_defaults(func=cmd_qualify)
-    sub.add_parser("find").set_defaults(func=cmd_find)
+    fd = sub.add_parser("find")
+    fd.add_argument("--max-keywords", type=int, default=8)
+    fd.set_defaults(func=cmd_find)
     s = sub.add_parser("status")
     s.add_argument("date", nargs="?")
     s.set_defaults(func=cmd_status)

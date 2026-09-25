@@ -1,0 +1,903 @@
+{
+  "lead_id": "2026-09-25-054",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://redstar.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61561858236607/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/redstar.brands/",
+      "source": "https://www.redstar.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972528944554",
+      "source": "https://www.redstar.co.il/pages/contact",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "408225969031155",
+    "page_name": "רד סטאר - Red Star",
+    "active_ads_count": 18,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "1651415476089559",
+        "link_title": "{{product.name}}",
+        "body": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "landing_url": "http://www.redstar.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701942081_1529224281925481_7624168340591561423_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LKQtxFxYoUsQ7kNvwE9422b&_nc_oc=AdrJaA8mN8khYKfEDXD4r-UtnnsXpul15GlAg0ry9FntxmqCIHC3n6zTi2IfOMAyYLc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQI8QVXZsL5KaBeO69G-ZKUMLXUIcfsUdjGVmkugf07_oA&oe=6ABC3889",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701960505_1525368629095149_4218949788391389188_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BiXNy_SDuY0Q7kNvwG_pNZs&_nc_oc=Adrs1hs-4pJrz-MOi4fuL0h84tQGM0mv3jmPbfUIQ4kofBRqrTN2AGrOZjEom419xOA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJzykkkdr16x3LChe3HGRuyto3I0in7MY4PlJ3j0HGU1w&oe=6ABC3098",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701675130_1958297614789699_6860928989116865488_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FmTLk9n30uYQ7kNvwEcmycH&_nc_oc=AdpzB9zqEJ-Hu9HiN9C9NJcl9DXzhQV719OEgNK6p-CatTaHZ58h1ohZWuPGIGcOwio&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQIGlL0rGXSg7g7OIqn1ORA1GGGddwd5CZlcnL9NtFHLOg&oe=6ABC2C37"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1779174000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1651415476089559"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "משלוח",
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 18,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 704,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1651415476089559"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 704,
+    "page_categories": [
+      "Health & Beauty",
+      "Beauty Supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "1160551937140886",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "link_description": "",
+        "landing_url": "http://www.redstar.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1779174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/703796751_1025198453791481_7678977322757894358_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y1LzrfoJwXUQ7kNvwG3w01w&_nc_oc=AdrVq-bFIrwxqjGsH-1zUGY_1JhfxGE3DEsj8R-mxapJmqBZsMktP-_xZBZpc7udjB0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ15RTDaRpZEnJsHW-7A9c-c68ySbpAsn99fDjUHUd6TQ&oe=6ABC3F64",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702470413_1464893794825245_2984238371947704808_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ved3HWA9oysQ7kNvwFywure&_nc_oc=AdoEkUY3ljk647EMtHyZFWnJncG6MCelyoxgGScuThuWS_vm8dooHKOS_qro2LKIinQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLB-r4Dx0VFjVU5FhXw4vvLjP1iD3LXul9Jrj2D4kYvKg&oe=6ABC4FF4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703745987_1480622533554921_8797607943516549472_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_OcJsCyL9iUQ7kNvwFXaq_4&_nc_oc=Adry8MI2TmacIheGjrVzcXLbbCggTNDFWB3SIkSW0DsnigYnodNEE2ySQh0xXh54A9E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQL0rQHn1EsmZ0R98sGqr6FdjYuUMjmfPUl1cn7HsrHnog&oe=6ABC3183",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703136433_1652982349612447_7033710392109628631_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fc1sv6cQ9u8Q7kNvwH4h4ra&_nc_oc=AdqxmMt-kw0LExf5uXFEZHcIq9L644zPliQVrbiMnnvUWFTVXL996xeyiuwGOvz-eOo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKLO6l6RuZmOMdSr2iV7WVWQ7IymV7drBOQFuE-P5b4AA&oe=6ABC5D8E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701538262_1304981154391791_7313190958240632272_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wv9X9KuO6r8Q7kNvwGWjOjs&_nc_oc=AdqFTIYKN1GGU4FD0CDCfYgOpmlueJO0eycifmduDCnwGjRIPclls2Qd1fb_mShEvSY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJSOVS5u5plojmGQsPeqobWamYX0N8C8fDZilCaq4fcFQ&oe=6ABC29C1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701538039_968558729475140_4224916188699203179_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XJJqPMwV5jYQ7kNvwFgqL5L&_nc_oc=AdrD4uHz3LJGAwIHbffcPtiXBt8kDRBk_dIG2AS3nvxe1MkLOnflWnjlAmYXmFvsmAM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKxIpT060ERkfFLZSAoNs_pymFasCbIBk8Yp9S9y2mEEw&oe=6ABC4BCA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1160551937140886"
+      },
+      {
+        "id": "4394568247427576",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כל מוצרי הטיפוח שאת צריכה במקום אחד.\nרד סטאר, כל המותגים כאן.\n10% הנחה בקניה הראשונה!",
+        "link_description": "MoYou London",
+        "landing_url": "https://www.redstar.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605257315_1134070175271874_9220677221746525445_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jSEScKj_GOcQ7kNvwH-Yj7-&_nc_oc=Adok2ZfaeKzVFmD3XcoB8nGoKfphlIDuPzMhSPUdRudlIFKB0o7DQRHm7YxNesqxF74&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJDiSgrXcbsiybBjpt0ZXjKwplbGdKVu-VpSleqR9cHkg&oe=6ABC3764",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/607590949_1695982978030540_7080178113165145643_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v-x-2-eN0SwQ7kNvwFIqqS9&_nc_oc=AdpRSyZ1cObOW84Ozx5zcpD03FWiMNCG6KBeYiYyqBDsxqA26GqXVd-lNMran30BKuI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLJdk45JLPlr71Uta4JvYFF78Oj2HYfQLQUNnWs-o70wQ&oe=6ABC44D6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605538863_854845320712129_1881409645579074510_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cfjavpo_eSkQ7kNvwEiGmvC&_nc_oc=Adp23dG8TpLxVfmKx385cLa4_up0sqzcsQjNVk929pfivi2q-w4bKtJv8cU1-BD2XSU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKu2X7oOPtrY1oHVY23RngBqv6ewNC7wq1XGxSpOWs_QQ&oe=6ABC5D2B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/607078522_1974256179818282_8010706029861563255_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2527iqTwQ9YQ7kNvwHNmcvp&_nc_oc=AdopPkmnM7ghZptVE6bsLZL2K-u9J8QgYa5St-CWvmBuGneMjPGh7_dKQGJVneCNoLk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKlfbyjQbu0b5hdliglYnnYSpUdZmRb6Hfu469-yxWZiw&oe=6ABC513C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605786617_2090567591739749_362178912157416642_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bbZqC3k4vogQ7kNvwFHjcCH&_nc_oc=AdpxsQsueVqZXxrsBeWSA19fTAiENY3mIbIkdnaIlDdfUY5ap-TqjI6MhB41WBb4nvs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJs-1Qils8Ec7wIp2Cc-FiU2uw1hNeG0vvyhclQ9gOfFA&oe=6ABC2745",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605641241_5257809157777576_1061544015550814402_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fiPf5vbrqn0Q7kNvwExHe80&_nc_oc=AdpAK8YqvWryKrucERiwnPoP42RwvSroOytYHujuDRStM7lXCqVfAxur41Yyc7vp_IA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKc2VmQjY_7caCnf4nYHENzUh7oxSigcx3NN-8alHdaQQ&oe=6ABC2911"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4394568247427576"
+      },
+      {
+        "id": "1651415476089559",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "link_description": "",
+        "landing_url": "http://www.redstar.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1779174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/703300388_1601874807579005_2500106228972412397_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TuA7nG6rrdAQ7kNvwG0wKCV&_nc_oc=Adp2N8snlIhr487a1Jrf3RqZ_kmyOo8BuQu3oYDCdh6EvV-_sOOabk0VsvSdYFaiNWI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIVAnBWqXK-W6FsM77WxdR6Kt84h06GggExCP87vw5BrA&oe=6ABC32DB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701960505_1525368629095149_4218949788391389188_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BiXNy_SDuY0Q7kNvwHdvKCn&_nc_oc=AdpuGikKECXOS_xwOtKRAtVDtFCrie_ODNd5sIQarcs00hb712fcdZ5cqE6r6T6vljc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQI1qWOUSPi3CpA2AiJVbqCm0Y2qS2RKgEufCYay-VDQog&oe=6ABC3098",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702570514_1608945700200599_3044948050173301731_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cE9PG0X0FwEQ7kNvwFDmjzr&_nc_oc=Adp_57KxX_883ynOijgu7YyWFsvK3LcKld75XKYR3HIqLmhc0Db1Yskbq6SfnVNx8jo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKZVWn_xu6kQnjshO0I50v4Mbtqy0uO-kK_KULt2V08ZQ&oe=6ABC4554",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701675130_1958297614789699_6860928989116865488_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FmTLk9n30uYQ7kNvwGX0MR8&_nc_oc=Adoy341U7ns92g291yYktzj6bWdCvz5HMAGTmqQ8wjEf8DsaohR-fcIZyQedhbew64w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJes0bTYp1DqzfEMXRROVoQhcqTAF0H44ZpLcEiePWkEQ&oe=6ABC2C37",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701726561_986569350860846_2361697244877452034_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8oTlUJKjQWIQ7kNvwGzhirT&_nc_oc=AdqsBcRimNPwBvrJIYUKKdtkL5rFo1UNy6rYaf2-oRw4kMnocPfJMAZ6gn7m9NgkODo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLiGzJRrdLzmWUXkVfQTqFFBFX478ORWn3omSTN4zbquA&oe=6ABC448D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701942081_1529224281925481_7624168340591561423_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LKQtxFxYoUsQ7kNvwFPDGwz&_nc_oc=Adppb7DgBDB3evisF6UJpJ0sSMA8i_VwaNtnZEtOebfBvXsvvH16wmr_28G6CV-pIqM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLP1-suMYRpMenrXZdEC0yPnzXP8Zs24HVopr0R21uuNg&oe=6ABC3889"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1651415476089559"
+      },
+      {
+        "id": "4526847677569876",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "לרכישה >",
+        "body": "תפסיקי לחפש בכל מקום את כל מה שויראלי ברשת - פשוט הקליקי כאן כדי לגלות את הטרנדים הכי חמים ברד סטאר ולקבל משלוח מהיר עד הבית! 🔥",
+        "link_description": "מוצרי הטיפוח והאיפור שאת אוהבת, עכשיו ברד סטאר",
+        "landing_url": "https://www.redstar.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/758964413_1464620605457368_877261671209684018_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W62ZFKeCJMQQ7kNvwHHpU5q&_nc_oc=AdpRu3yDivIe4k3QbP2w4VowjYKkyYU2d6Op6_QjLDGoEa06hUTqr7418WEWd0Tfn6Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIWe73h41hdyJ2NBKEyTfZ8xDXcsTJ36h5xCAaCHIUXaQ&oe=6ABC5C8B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPXa5bhpfulAPEeuhZc4WOsI-0bMMrmfPTrtJk4vZzZAhmbbl5N2kaBEBH7TYrkqcSXana6sxPty8cQZqt5Bp734bKIPwzBBmdLdWKfM4LtGQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=b3or4M7bGfEQ7kNvwF-bHC-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTc0MjY1NDY2MTk3OTEsImFzc2V0X2FnZV9kYXlzIjo1OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=283232eff6041deb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NzQzN0FFRjAyNjVBOUNCNkFEQUQyODA2NjUxNTA4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VCNEQxNUEwNDM1QTE2Nzg1RkEzNUFFNkYxNzhDMTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae1pfszsLfBRUCKAJDMywXQEIMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&_nc_zt=28&oh=00_AQKyYseld3Ao56_Mj_mC74nitxln9RO1WkJnmolPD1zLvw&oe=6ABC2F8A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4526847677569876"
+      },
+      {
+        "id": "1566666054963282",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/%D7%A1%D7%A4%D7%A8%D7%99%D7%99-%D7%A4%D7%A8%D7%95%D7%98%D7%A7%D7%98-%D7%94%D7%9E%D7%92%D7%9F-%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%A0%D7%96%D7%A7%D7%99-%D7%94%D7%97%D7%95%D7%9D-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%9A-%D7%91%D7%A8%D7%99%D7%90-%D7%95%D7%9E%D7%95%D7%92%D7%9F-225-%D7%9E%D7%9C-moroccanoil",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748978654_1586677192810089_6665754334493076571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_IFg-Z9R73YQ7kNvwFGGcE7&_nc_oc=AdqZDa88YbJhvtkapGpNPHYOpeYB5xmmnNLmvzhPTwavjQffNJGOJQYvCvIVIeex2xM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ9L34JIGkSkHpuN8lPjKtnVXjfCgwokcEfeIpiFNXCYQ&oe=6ABC2F7B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM5J7oqD6slDtrL_fv5pKpPk0g6DGMjKl7XQ3bmzBMhp8McP2iugOrniBJoT_WbkwLMcNLH7F1j35raHvPK4n0zT3kbIIGu185DS3sHH1c06w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NTv1GmaT2ToQ7kNvwHCGbVw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjQ1NDY4MjM2NjMzMDMsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=14d2063d02141208&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQ4RjQxOTFGMzM1N0FGOEMwQTMwNjk1NEU1MTU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhENEU2Qjc5NThFNkQzNDk4MzcyRkVGNEVEMDBFNEI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOu9fXvPTRAxUCKAJDMywXQEBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&_nc_zt=28&oh=00_AQKQYNrh6tgAYhRwRzAcK2nUMJgm-hYaT_Gme8nbVDEHUg&oe=6ABC32D7"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748978654_1586677192810089_6665754334493076571_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_IFg-Z9R73YQ7kNvwFGGcE7&_nc_oc=AdqZDa88YbJhvtkapGpNPHYOpeYB5xmmnNLmvzhPTwavjQffNJGOJQYvCvIVIeex2xM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ9L34JIGkSkHpuN8lPjKtnVXjfCgwokcEfeIpiFNXCYQ&oe=6ABC2F7B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM5J7oqD6slDtrL_fv5pKpPk0g6DGMjKl7XQ3bmzBMhp8McP2iugOrniBJoT_WbkwLMcNLH7F1j35raHvPK4n0zT3kbIIGu185DS3sHH1c06w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NTv1GmaT2ToQ7kNvwHCGbVw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjQ1NDY4MjM2NjMzMDMsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=14d2063d02141208&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQ4RjQxOTFGMzM1N0FGOEMwQTMwNjk1NEU1MTU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhENEU2Qjc5NThFNkQzNDk4MzcyRkVGNEVEMDBFNEI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOu9fXvPTRAxUCKAJDMywXQEBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&_nc_zt=28&oh=00_AQKQYNrh6tgAYhRwRzAcK2nUMJgm-hYaT_Gme8nbVDEHUg&oe=6ABC32D7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1566666054963282"
+      },
+      {
+        "id": "1025057203481759",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763998651_27736606015950036_952441940438924599_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S-_AKEPzzTIQ7kNvwFaqyqg&_nc_oc=AdpF6pTMPOnrQACq8qgs9bBKkj-hH-U7Bfh-mS3WPbT2HG64246zai7rgmzD5GUNN2E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJJ1BQEejJMtMBHjvCHLljqSQdnRrY_UtY7sffcKWJkGA&oe=6ABC46D4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763880992_943717988750796_3381651320758652735_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kFxoom6Om1gQ7kNvwELhB-v&_nc_oc=AdrxoPKxEe59UoQhpGqRPLO1uBg1H-cYVcPuSbwJwsPuGE9oyP-AuoyoHE7itemTYZo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJbj070f9VAx_qTYZyCKKKIJrsiTjILxgkBwV3IMYJBQA&oe=6ABC4D2F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1025057203481759"
+      },
+      {
+        "id": "4425430854370593",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/loreal-professionnel-serie-expert-curl-expression-shampoo-500ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763805525_1757333092077765_7612703768448550723_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=20KJRXM34JIQ7kNvwHaVNZb&_nc_oc=AdoTtLhPl7EhHrLtN2T7lO5wr-e3ukdYduO3TB6jozamk47ksWysQ33D-JfWdbpRWLo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKVuzXkEA3gixEl-GWYkO9fedSA9GNFZg4zBSciftpsuA&oe=6ABC29E5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766071904_1679100973170245_4626561795114770838_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NmM1K-vZmEwQ7kNvwHxAePz&_nc_oc=AdrVmta1Gf3JsnvaHzWmsBH6kz8rXnbScAkLFyWyCvOACbT6wCYZAc9CB5RQx8PbWxI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJZHsZvFluDfqN-KS2f2IszrQrxwuSV2hFLxCiHfARKGA&oe=6ABC40C4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4425430854370593"
+      },
+      {
+        "id": "1117532490709467",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "שמפו בן סאטן - נוטריטיב קרסטס",
+        "body": "שמפו נוטריטיב של קרסטס מעניק לשיער הזנה אינטנסיבית,\nרכות ומראה בריא ומלא חיים כבר מהחפיפה הראשונה.\nהכירי את השיער רך ובריא כמו אחרי טיפול במספרה",
+        "link_description": "שמפו בן סטן של קרסטס להזנה עמוקה לשיער דק ויבש. מכיל חלבונים, ויטמינים ושמנים לשיקום, חיזוק ומראה זוהר. קנו עכשיו באתר!",
+        "landing_url": "https://www.redstar.co.il/products/kerastase-nutritive-bain-satin-shampooing-250ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788850800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800842595_1766093597757114_9211340896727663722_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vl99f2XPF7QQ7kNvwGEdgp6&_nc_oc=AdrI3vsFbE1ImRNGvLvi0axYIpM3PGbaX6dexNdJMoegvOlCZBg_4fPxrDImHJ8DBr8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKuRPEwyM7pTAr7S5CuUNyb8Flui26zpnUjLYL35QBHqA&oe=6ABC4DAF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800935031_1618988029669969_5658259994465293612_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=STRA_dmBy0sQ7kNvwFyBvXp&_nc_oc=AdqY-ktQCNXN7vZ0hRqhyVoQU0ir4M3y96fjdHP9EPEy3EDmMDORhCGlESQIy-LdMq8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLzxgZ-tNQ8uF16cqnh2vH965-8a12SV0_EVw8pYS0zFA&oe=6ABC3459"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1117532490709467"
+      },
+      {
+        "id": "1346052607502661",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "לרכישה >",
+        "body": "השיער שלך איבד את הזוהר והחיוניות שלו? ✨\nהעניקי לו את צמד הטיפוח המנצח  של מרוקן אויל המעניק הזנה עמוקה,\nמנטרל פריז ומחזיר לשיער את הרכות והאלסטיות שלו, למראה קורן ומשי כבר מהשימוש הראשון.\nזמין עכשיו באתר",
+        "link_description": "מוצרי הטיפוח והאיפור שאת אוהבת, עכשיו ברד סטאר",
+        "landing_url": "https://www.redstar.co.il/collections/moroccanoil",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747168730_2011635456132882_1495452372109710268_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EHgc6wn5hi4Q7kNvwG8r0xJ&_nc_oc=AdoHh0aVLI98C6mKD4RAh6WJkpTiF-koqKiFKQtIExgXqtzuLRdl1sUNYSx30Ilat74&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJF1QdYUkZs4s6Q6UG5nUxIdx59bINIo3q4QpcoDIfY2g&oe=6ABC570B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNI3z3V5l7ZsZgIznd4XemN49ESuKEUYkGWZ-ESUABGCnTUroibWNyx1KL5Pf0q7ogTEY1r7ivmIc9tVy-EudChs2bti14x00FoLW56mVmc9A.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=BV5zZznb2hsQ7kNvwE1-D4Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDk3NjI3ODk5NjgxMDgsImFzc2V0X2FnZV9kYXlzIjo3MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6b4dd49b8f72b135&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTRBQzc5NTUzM0MwMzMwQUYwRjExRTRGOENDQjBCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk4NERCNzBCOERBRUIwN0E1MjY4QjJBQzMyMEQ3NzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYo6jJiODABRUCKAJDMywXQDtmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&_nc_zt=28&oh=00_AQKWIEINTsHTCV6LVEBBhLL9A1VXfqsDs9grqx6njb1cRw&oe=6ABC3CEF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1346052607502661"
+      },
+      {
+        "id": "1634274428262305",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "תרסיס מים לשיזוף עצמי של Bali Body",
+        "body": "מעניק שיזוף כהה וטבעי בגוון אחיד, עם התזה קלילה ונעימה על העור\nהטאץ' המושלם לעור שזוף, זוהר ואחיד ✨",
+        "link_description": "גלו את מוצרי השיזוף והטיפוח של באלי בודי - שמני שיזוף, קרמי הגנה ומוצרי טיפוח לאחר השמש. חוויית שיזוף טרופית בטוחה ויעילה עם ריחות אקזוטיים ותוצאות מקצועיות.",
+        "landing_url": "https://www.redstar.co.il/collections/bali-body",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/782056564_1080885337735814_7472478056808528442_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q0NCIkWEUBEQ7kNvwECez8Y&_nc_oc=AdqfSjlmi2om0dUVm9wnZpMAxjrOsNjv1dkE3Wf-ScjJvrMI152FxtRAJN6_comT8eY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ9NRiCMVT3jvuXUhBn86waa3wMBv3LlNrtiQGoXKikfw&oe=6ABC3F49",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780075127_1393819036173037_5733461613144475718_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0U9oxzx71F4Q7kNvwFUc8H0&_nc_oc=AdrHOdkSmQUWctuY5KquMrDSSZtCjCKf2nMe3rAM9olpzx2jkS2UIK9ch9UhHsR9BwQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJw4SJJCy-NH_H4kqi7NNihzcv3xs6Ur9X5RnMY8XchwA&oe=6ABC3085"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1634274428262305"
+      },
+      {
+        "id": "1071058385851578",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "מסכת גלוס של קרסטס",
+        "body": "מעניקה ברק לשיער עוצמתי, רכות ומראה חלק ומטופח - עם אפקט אנטי פריז\nהטאץ' המושלם לשיער חלק, זוהר ומלא חיים ✨",
+        "link_description": "מסכת הידרה גלייז של קרסטס - פתרון מושלם לשיער עבה ופריזי. מעניקה לחות עמוקה, שליטה בנפח וברק עוצמתי. קנו עכשיו באתר!",
+        "landing_url": "https://www.redstar.co.il/products/masque-crme-hydra-glaze-200ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780841132_1212416574399964_452976767337037991_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a8aCD6NELNoQ7kNvwFrpXj9&_nc_oc=AdqRdfVFk6iYXhKtLzTZg_WAiIFqsZRME663IULuVaHKNfNpSfpmKs1GpdvaxTKo_Hg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKn5AJws44GMHi7ioEgipbSc05_hWXrHfCtE1mGwFsEag&oe=6ABC2D2E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783109609_1802424947467453_1647898642516421603_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2RBA4taALy8Q7kNvwF73dog&_nc_oc=AdqhWgO5EcYvuXuFvmQ7ew9-qdME5PUP5kFz0FQplijhU6Hz2cDIUoyXwjBhHX9SEss&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIhgFAyATZ7UvDT1EJ-9Toao6cDZBSLPNv6y-zR3Wp3ww&oe=6ABC39B0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1071058385851578"
+      },
+      {
+        "id": "3246799185506563",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/jul-wavii-automatic-curling-iron-black",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764845249_839370202475464_3294693215534449173_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CETSdJ-o1OIQ7kNvwH4t5-h&_nc_oc=AdrfKXvWJEmFCuWoCp8GAXs4Kv52NoNqqTDrM1LvvTqYpfszmZI4-Qwnjb04_eQlV-Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIqpGq8pyIyYfe-ty5ox2RJgJGuU9pKfZiTPTRVfjWtRA&oe=6ABC3E71",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764351235_4389568507965660_7909165097468548699_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=StB4ol7gGogQ7kNvwHXOtfj&_nc_oc=AdpRPaAw9-rB53p8o00uDy-5irZvngRYH0gKss-z1TJdM8auHaSj_9iWnaHOhLfW-ZQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLYIo_eoGvhV7C7NVSH41fQlWmViRqO4Um2hhlT9BgVUw&oe=6ABC2D3A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3246799185506563"
+      },
+      {
+        "id": "2244020763054425",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "מסכת אבסולוט ריפייר של לוריאל פרופסיונל",
+        "body": "מעניקה לשיער יבש ופגום הזנה עמוקה, רכות ומראה בריא יותר\nהטיפול המפנק לשיער רך, חיוני ומלא ברק ✨",
+        "link_description": "מסכת אבסולוט ריפר גולד של לוריאל פרופסיונל - טיפול משקם אינטנסיבי לשיער יבש ופגום. הזמינו עכשיו לשיער רך, זוהר ומחודש!",
+        "landing_url": "https://www.redstar.co.il/products/loral-professionnel-serie-expert-absolut-repair-mask-500ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/782144646_1889903098639648_5524949641327127834_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s8iXyRvr_N8Q7kNvwFmS9pK&_nc_oc=AdrqWmtaZDQ5pvyQUSMP7l6O4WqpDBb3XEiLyGYox-YdBzdBSWtn-HIn9AO87Ymm7BY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLGWT4XCaaE-ZKkSFnArHAV5cme2sAPLBOEf0_oT-8rBA&oe=6ABC4656",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777298072_2034738313839894_7072184967002695474_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mmqCZ4qcB5YQ7kNvwH1aEce&_nc_oc=AdogsxJWIJP9dO606eZfTR2ham6h2nt7QZVPl34LWddqBIWiv6HiYQKGPEiqcB-CKac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ1BPj3cio7zskUOEGagYrV7sOzzaS0mD7Zv1vhbe-8lA&oe=6ABC5C7E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2244020763054425"
+      },
+      {
+        "id": "1363699682537902",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/cerave-blemish-control-cleanser-for-blemish-prone-skin-473ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/768909861_3421876157991399_9158020411819128327_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W9nEn2aW8VkQ7kNvwGI10ix&_nc_oc=AdpRDdNvnk6rmQpibBZYzOfCJOzdTD_koVlbG3AZK9yWaqrK8YOTsmn0yYCXYlAZZ0Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQKId2JydFXpsVR1R3sX67XNoM8qh5tFrmsSMtD1Ds_Ryg&oe=6ABC4348",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/768975645_813585341775106_6595434253354102390_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hp0_8PpNdMoQ7kNvwFFtFNf&_nc_oc=AdrlqqeK6Yh-zZZiOu4dLVmCKKqSQ0hM358o_6Yo-wQ3FkS2m_0KQ7qP-XT1XN1WOc0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLYZTXtqo7owQD_BYK-EQyXw3SpB4XG6yO7NvxB43FITQ&oe=6ABC3F07"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1363699682537902"
+      },
+      {
+        "id": "922630837553965",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "מסכת אבסולוט ריפייר מולקולר של לוריאל פרופסיונל",
+        "body": "מסייעת בשיקום השיער ברמה המולקולרית, מחזקת ומעניקה רכות, גמישות וחלקות\nלשיער פגום שמרגיש כאילו יצא עכשיו מהמספרה ✨",
+        "link_description": "מסכת לוריאל פרופסיונל ללא שטיפה לתיקון מולקולרי של שיער פגום. משקמת סיבי שיער מבפנים, מגנה מחום עד 230°C. קני עכשיו!",
+        "landing_url": "https://www.redstar.co.il/products/loreal-professionnel-serie-expert-absolut-repair-molecular-leave-in-mask-100ml",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775868731_1548652942980643_4381895928962349126_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n3c7kQwJm1MQ7kNvwFAhltZ&_nc_oc=Adq2HtBeCwXeQDICz2GRbhN3fjccGfoQlVPeOc56gzuxnA6iZuLMuWjLwUwXTR3H9sg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQLugtv6I2J4ZeNuaxRq1k0imIb6TIVC-40p1B0eVpfmAA&oe=6ABC2C2B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777800935_1027289113462662_7020315475312574256_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=si8Cy0KT6nAQ7kNvwEH46dZ&_nc_oc=AdrMax4WxCARhiztON29PDtQYJmqJdDlwyy-CTK-LY5nLFlQnyfj2S1R2EJ6m-Z_nY0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIYqAazT5-0K0aTP1gFZEwqq5A1f7W5UN75F40b0r01VQ&oe=6ABC4E8B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=922630837553965"
+      },
+      {
+        "id": "1686508535749763",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "קרם קאמופלאג' של Malu Wilz",
+        "body": "מעניק כיסוי גבוה במיוחד להסתרת פגמים, כהויות ואדמומיות למראה עור אחיד ומושלם\nהטאץ' הסופי לעור חלק, אחיד ובמראה טבעי ✨",
+        "link_description": "קרם הקאמופלאז' של מאלו ווילז (Malu Wilz) לכיסוי מושלם של כתמים, צלקות ואדמומיות בעור הפנים. נוסחה עמידה במים עם מגוון גוונים רחב. קנו עכשיו!",
+        "landing_url": "https://www.redstar.co.il/products/malu-wilz-camouflage-cream-concealer-6g",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787295600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/781077540_3623062081184864_1400272014400496803_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=14baGOOaGvoQ7kNvwHVTmJ4&_nc_oc=AdrTAWzRtNJxN3vhS1-vrHqKtoFWSyTOul_iTqpANcG65uoxXggglVALrStPQ4nxHmw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQIbuDVsfrLJR8wxE-TAz9mt2ZKs2c-7UsMxGIt9bzF4Sg&oe=6ABC595F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/782513717_1419106383662268_5835300820264068980_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cOnZksFfgIsQ7kNvwFBXvWR&_nc_oc=AdqEaaATTjUWsM2lGds6tMDANNBKZdAI_iJHKbXPRwbHLWqBnnAhdjOCKtKWEP-w_ig&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQL7gssRn1Qh28FD8nK_60StEfQdUiT8f6D-2IX22FpmRw&oe=6ABC3BB7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1686508535749763"
+      },
+      {
+        "id": "884018154440638",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.redstar.co.il/products/מסקרה-טלסקופיק-לאורך-מקסימלי-של-הריסים-loreal-paris",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764752238_1222461027625955_7662412471579686222_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bb87sbzpcV8Q7kNvwFGYvPP&_nc_oc=Adq0wHhDoaUSlhvvH5QdTXujzQUtXVZizaSZcXV5DEOmk6YPjUJrngzOj5ziStye83c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJOWKhzwGPtkfMEvnGCG39OUiNxH2jdJmtciZUYjsKheQ&oe=6ABC3C76",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764711607_2141379623393577_3379893045710068443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RQ3rx8jhBIYQ7kNvwFMS35_&_nc_oc=Ado59bdlL2kZ-zKCXkZLrwBG6meNeYfnBBAxGuolCWLUs3dhNqKIMqFIekuXqYiN5WA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJdy2j9fL4rqk9VM99PJnc3_DWbs0fLHccHK_aeVppqtQ&oe=6ABC39C4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=884018154440638"
+      },
+      {
+        "id": "904550519380474",
+        "page_id": "408225969031155",
+        "page_name": "רד סטאר - Red Star",
+        "page_url": "https://www.facebook.com/61561858236607/",
+        "page_like_count": 704,
+        "page_categories": [
+          "Health & Beauty",
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "המוצרים שלך מחכים לך >>",
+        "body": "רק אל תשכחי אותנו.. 😉\nהמוצרים באתר רד סטאר ילכו איתך לכל מקום, עד שיגיעו עד אלייך הביתה. \nמוכנה להפסיק לחשוב עליהם? \nהזמיני עכשיו👆",
+        "link_description": "",
+        "landing_url": "https://fb.com/canvas_doc/2260224427818576",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/610726805_855914537049979_6173592450462943897_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bo7RIG1z9KoQ7kNvwF2d4sn&_nc_oc=AdphWDV7UPpFdH70L97-xrDOADAjSIDUblSZcsSC-TNZGjoZDyoQCcS2kElsQTpFdLE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&oh=00_AQJ04VBfnJb9z6D02jNBDYIVpRrnROMYanlwRSU_9sDQ3w&oe=6ABC365E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOf4GdIdAhRqwROmp6aFocBt_kIWi22fXJwZQ0q0GWCfMI4hxNtuwn3rV222orzcRjh83GlW1xHbnFiUyWBWDPdH6wiN3uica4CTlTA40d1jQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xGwii5X9OpIQ7kNvwFOMGRk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODM3NjkyMTM3MzYxNDUsImFzc2V0X2FnZV9kYXlzIjoyNjUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6feb80de5c5f6100&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MjQ4MjJDREEwOUIzNTI0QzE3NzhGRDIzM0Q2OTQ4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdGNDk5RkE5NDRBRUY5NjBGRjc0MUM3NTFFQTA2RDlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai09j3t6iaBBUCKAJDMywXQD-AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=W-OYgAbduGCofBAxrSIQ4w&_nc_ss=70289&_nc_zt=28&oh=00_AQI2QmYUe5bjeOiORWZ6a1cka7Yoc5oXx72lNY_TOBFaCw&oe=6ABC2F5D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=904550519380474"
+      },
+      {
+        "id": "1651415476089559",
+        "body": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "landing_url": "http://www.redstar.co.il/"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/canvas_doc/2260224427818576"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1160551937140886",
+        "text": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "links": [
+          "http://www.redstar.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4394568247427576",
+        "text": "כל מוצרי הטיפוח שאת צריכה במקום אחד.\nרד סטאר, כל המותגים כאן.\n10% הנחה בקניה הראשונה!",
+        "links": [
+          "https://www.redstar.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1651415476089559",
+        "text": "כל מוצרי הטיפוח שאת צריכה במקום אחד. כל המותגים כאן.\n10% הנחה בקניה הראשונה!\nמשלוח חינם ברכישה מעל 199₪!",
+        "links": [
+          "http://www.redstar.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4526847677569876",
+        "text": "תפסיקי לחפש בכל מקום את כל מה שויראלי ברשת - פשוט הקליקי כאן כדי לגלות את הטרנדים הכי חמים ברד סטאר ולקבל משלוח מהיר עד הבית! 🔥",
+        "links": [
+          "https://www.redstar.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1566666054963282",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.redstar.co.il/products/%D7%A1%D7%A4%D7%A8%D7%99%D7%99-%D7%A4%D7%A8%D7%95%D7%98%D7%A7%D7%98-%D7%94%D7%9E%D7%92%D7%9F-%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%A0%D7%96%D7%A7%D7%99-%D7%94%D7%97%D7%95%D7%9D-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%9A-%D7%91%D7%A8%D7%99%D7%90-%D7%95%D7%9E%D7%95%D7%92%D7%9F-225-%D7%9E%D7%9C-moroccanoil"
+        ]
+      },
+      {
+        "ad_id": "1025057203481759",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml"
+        ]
+      },
+      {
+        "ad_id": "4425430854370593",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.redstar.co.il/products/loreal-professionnel-serie-expert-curl-expression-shampoo-500ml"
+        ]
+      },
+      {
+        "ad_id": "1117532490709467",
+        "text": "שמפו נוטריטיב של קרסטס מעניק לשיער הזנה אינטנסיבית,\nרכות ומראה בריא ומלא חיים כבר מהחפיפה הראשונה.\nהכירי את השיער רך ובריא כמו אחרי טיפול במספרה",
+        "links": [
+          "https://www.redstar.co.il/products/kerastase-nutritive-bain-satin-shampooing-250ml"
+        ]
+      },
+      {
+        "ad_id": "1346052607502661",
+        "text": "השיער שלך איבד את הזוהר והחיוניות שלו? ✨\nהעניקי לו את צמד הטיפוח המנצח  של מרוקן אויל המעניק הזנה עמוקה,\nמנטרל פריז ומחזיר לשיער את הרכות והאלסטיות שלו, למראה קורן ומשי כבר מהשימוש הראשון.\nזמין עכשיו באתר",
+        "links": [
+          "https://www.redstar.co.il/collections/moroccanoil"
+        ]
+      },
+      {
+        "ad_id": "1634274428262305",
+        "text": "מעניק שיזוף כהה וטבעי בגוון אחיד, עם התזה קלילה ונעימה על העור\nהטאץ' המושלם לעור שזוף, זוהר ואחיד ✨",
+        "links": [
+          "https://www.redstar.co.il/collections/bali-body"
+        ]
+      },
+      {
+        "ad_id": "1071058385851578",
+        "text": "מעניקה ברק לשיער עוצמתי, רכות ומראה חלק ומטופח - עם אפקט אנטי פריז\nהטאץ' המושלם לשיער חלק, זוהר ומלא חיים ✨",
+        "links": [
+          "https://www.redstar.co.il/products/masque-crme-hydra-glaze-200ml"
+        ]
+      },
+      {
+        "ad_id": "3246799185506563",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.redstar.co.il/products/jul-wavii-automatic-curling-iron-black"
+        ]
+      },
+      {
+        "ad_id": "2244020763054425",
+        "text": "מעניקה לשיער יבש ופגום הזנה עמוקה, רכות ומראה בריא יותר\nהטיפול המפנק לשיער רך, חיוני ומלא ברק ✨",
+        "links": [
+          "https://www.redstar.co.il/products/loral-professionnel-serie-expert-absolut-repair-mask-500ml"
+        ]
+      },
+      {
+        "ad_id": "1363699682537902",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.redstar.co.il/products/cerave-blemish-control-cleanser-for-blemish-prone-skin-473ml"
+        ]
+      },
+      {
+        "ad_id": "922630837553965",
+        "text": "מסייעת בשיקום השיער ברמה המולקולרית, מחזקת ומעניקה רכות, גמישות וחלקות\nלשיער פגום שמרגיש כאילו יצא עכשיו מהמספרה ✨",
+        "links": [
+          "https://www.redstar.co.il/products/loreal-professionnel-serie-expert-absolut-repair-molecular-leave-in-mask-100ml"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.redstar.co.il/",
+      "https://www.redstar.co.il/products/%D7%A1%D7%A4%D7%A8%D7%99%D7%99-%D7%A4%D7%A8%D7%95%D7%98%D7%A7%D7%98-%D7%94%D7%9E%D7%92%D7%9F-%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%A0%D7%96%D7%A7%D7%99-%D7%94%D7%97%D7%95%D7%9D-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%9A-%D7%91%D7%A8%D7%99%D7%90-%D7%95%D7%9E%D7%95%D7%92%D7%9F-225-%D7%9E%D7%9C-moroccanoil",
+      "https://www.redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "filtered": "2026-09-25T13:00:44",
+    "qualified": "2026-09-25T13:04:48"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.redstar.co.il/",
+      "https://www.redstar.co.il/",
+      "https://www.redstar.co.il/collections/to-untie-knots-in-hair",
+      "https://www.redstar.co.il/pages/contact",
+      "https://www.redstar.co.il/pages/about-us"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

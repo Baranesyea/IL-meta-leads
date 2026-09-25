@@ -121,7 +121,9 @@
     ],
     "landing_urls": [
       "https://www.try-velveta.shop/products/velvetaskin%E2%84%A2-%D7%9E%D7%9B%D7%A9%D7%99%D7%A8-%D7%9C%D7%94%D7%A1%D7%A8%D7%AA-%D7%A9%D7%99%D7%A2%D7%A8-1"
-    ]
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": []
   },
   "current_ads": [],
   "products": [],
@@ -136,7 +138,7 @@
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
-    "unqualified": "2026-09-25T11:31:47"
+    "unqualified": "2026-09-25T12:54:51"
   },
   "qualify": {
     "pages_checked": [
@@ -153,12 +155,13 @@
     "owner_candidates": [],
     "missing": [
       "instagram_page",
-      "owner_instagram",
       "whatsapp"
     ],
     "mobile_not_labelled_whatsapp": {
       "number_e164": "+972524862115",
       "source": "https://www.try-velveta.shop/pages/contact"
-    }
+    },
+    "site_blocked": false,
+    "owner_instagram_found": false
   }
 }

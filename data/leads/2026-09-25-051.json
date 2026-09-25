@@ -1,0 +1,497 @@
+{
+  "lead_id": "2026-09-25-051",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://itsmydeal.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "info@itsmydeal.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61552015912939/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/itsmy_deal/",
+      "source": "https://itsmydeal.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972507984222",
+      "source": "https://itsmydeal.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "135432086318551",
+    "page_name": "It's My Deal",
+    "active_ads_count": 7,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "27851590784489923",
+        "link_title": "{{product.name}}",
+        "body": "היופי שלך, הדיל המנצח שלנו ❤️\nאנחנו מאמינים ששגרת טיפוח איכותית לא צריכה להיות פשרה.\n\nאז הנה מה שעשינו:\n\nאספנו עבורך נבחרת של מוצרי ביוטי וטיפוח מהמותגים המובילים, כדי שתוכלי לשדרג את משטר היופי שלך וליהנות מתוצאות מקצועיות, במחירים שהם פשוט העסקה הכי טובה לעור שלך.\n\nהצעד הראשון שלך?\nלהזין בקופה את קוד הקופון: OFF20 \nוהוא יקנה לך 20% הנחה ממש עכשיו >>",
+        "landing_url": "https://itsmydeal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767068690_1698996791362457_3330180207161870765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TjlUWoXdXAgQ7kNvwEFBODK&_nc_oc=Adr5x4m31_ymwa7rZ3jf8Q2G0HBIA1uvKbEqiG6ieCzEzHtrbOM0BSN2Gu5Qiiw-o6k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKweK9ES0ovQPkmcTzAWHYos_zrzfFxJLTU_-PwtBtmPQ&oe=6ABC5B65",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764102884_1363574705214674_5459684527776517818_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_JFEXorphv8Q7kNvwHwrH2B&_nc_oc=AdqX2xQF8Mo5rDGdOPGJex8NbQn-G0XjkbFlaHUVHjR3w5dk23eTrMLDpZCfcQwYpjE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQLVqGqENc2Vyypb6Yyegy_19IdBTVLfkp8w55yxhiCizA&oe=6ABC522B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767033097_1421000536517925_8655655527574788478_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vijyr7NgApwQ7kNvwEhMVTE&_nc_oc=AdrEFQvtJXYCzserk1EzQIBJpb6ImRex8nGiA1nM5D6_NeANAf8NhBkqjJKSmQ_X7WM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKGzT9QuCgVQ4dBfUIjuliwemfrZ0ag2XBYKWdbYDKt9w&oe=6ABC4291"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1785999600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27851590784489923"
+      },
+      {
+        "ad_id": "1576232650763461",
+        "link_title": "{{product.name}}",
+        "body": "היית הכי קרובה שיש לשיער מושלם... למה לעצור עכשיו? 😱 אנחנו כל כך בטוחים שתתאהבי בתוצאות, שהחלטנו לתת לך הצעה שאי אפשר לסרב לה:\nלזמן מוגבל: 25% הנחה!🌟 קוד קופון: BACK25\nההטבה בתוקף עד גמר המלאי. להשלמת ההזמנה >>",
+        "landing_url": "http://itsmydeal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728212964_1556966216060942_3430748951269637498_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yKh9Hg5r3JQQ7kNvwEmzFbR&_nc_oc=AdqmiVSF9o9-aWG3sIaR8K7xVlZssvcZCU87JxuWMsPRVtxI7RUHwqJiyvvkuegMX4w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJNeSi2LB2OyERRsy2TBJbhSbVswx22ncBDoL5H1ZgsPw&oe=6ABC4BF5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726200640_1025617753318560_3437184968389172162_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZsyyIyjBzz0Q7kNvwFYg9CK&_nc_oc=Adq07DfHe90eAM9RPsP-64mQ9xi9C51Hg5e1lvF4Cgbe034H4TF6i7xHlh6WRl6mE4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJSNF8OM2Gz6C54qh8ZzqSw5gGD9NRWc9-0oZuO0paXOQ&oe=6ABC4B54",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727519289_1634765487590329_5296027530903265862_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r9mjocrFLZIQ7kNvwHmALJl&_nc_oc=Adp1TrmhCkyOhZKSCdm3VTWsAr2BAUeGR9FDhfm0mmaGycDdvxXLbhLZM2Nyv4mAkY4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQLM-tCg_yVhU6H_nxvCFgSUhucbJmS3gKNPJN8o-grUSw&oe=6ABC522B"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1782025200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1576232650763461"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "קופון",
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 7,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 377,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "27851590784489923",
+      "1576232650763461"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 377,
+    "page_categories": [
+      "Beauty Supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "27851590784489923",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "היופי שלך, הדיל המנצח שלנו ❤️\nאנחנו מאמינים ששגרת טיפוח איכותית לא צריכה להיות פשרה.\n\nאז הנה מה שעשינו:\n\nאספנו עבורך נבחרת של מוצרי ביוטי וטיפוח מהמותגים המובילים, כדי שתוכלי לשדרג את משטר היופי שלך וליהנות מתוצאות מקצועיות, במחירים שהם פשוט העסקה הכי טובה לעור שלך.\n\nהצעד הראשון שלך?\nלהזין בקופה את קוד הקופון: OFF20 \nוהוא יקנה לך 20% הנחה ממש עכשיו >>",
+        "link_description": "אנחנו ב-MY DEAL מתמקדים בלהציע את המיטב בתחום מוצרי טיפוח לשיער, עם מחויבות לאיכות, חדשנות, ושירות לקוחות בלתי מתפשר.",
+        "landing_url": "https://itsmydeal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767190409_3213821362142168_4966610051639718290_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OtkEkNBxTecQ7kNvwHaiC42&_nc_oc=Adql4HZHgnktGh7oOiPi9wSzUZYxh7a3gHdSFxnLAftJvPnsD86_nTvfyp6rOiEFSeE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQL8W03q88kAYqLQPdyj1Jy0dMdIew1leej85UTNjBP7-Q&oe=6ABC42BC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767068690_1698996791362457_3330180207161870765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TjlUWoXdXAgQ7kNvwHu-1U8&_nc_oc=AdohBe3RuOUSCcVocvIsqHBHCzu4WOwTGGvs5X43YMjmGucMVsOKpKkNYnOX_RYUC-s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKvfrPkvXzIeHqbmzvVmt73dlBTvNbIKE9EjwoREMGGuQ&oe=6ABC5B65",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767068691_1417676483555885_5827289194379949400_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zVCl57IiQI8Q7kNvwF3uoUx&_nc_oc=AdpwYSkO67Ut7VLX60bmDs_Ntoc19YxU2HYGSnvnQqiM-Llh_RFL4SH5fe0nFp3MPX8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQK9ofhEedKmIImQGGhB8hfGvTo_UOG-P_w3CjES_4WijA&oe=6ABC5DFB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767033097_1421000536517925_8655655527574788478_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vijyr7NgApwQ7kNvwFf21ZC&_nc_oc=AdrhlXnVfZaBIVwjnHdjCdINjCWKQ9Its8bU4ar2exauMYoQHvd-J3vFUSHbutrAA7c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQLhCVt_tPrIU5nme3qb7tMO_lBDPi2apjnoqpsbB9u0nw&oe=6ABC4291",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766810618_4022344854734335_4146474313838258107_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wy5m7VS4v0sQ7kNvwH_gaxM&_nc_oc=Adp_X9tfMYMpcadvgrXnQaqBnp7HjtzoP7eShnvocGFIBq8L_1MABAmJZ0iPm-dBxvo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQLKl7VewUquUM3hpL9fmXcnb5VB7vRwhFpdx4ga7a4t8A&oe=6ABC571E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764102884_1363574705214674_5459684527776517818_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_JFEXorphv8Q7kNvwH3aorP&_nc_oc=AdpELojJRrhz4zYuKYTw7IhIoFDcjkA8WSUrnlJ5-LaijTtqawF65-4J-E5L_esxo4I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKZwJ3PIHju2aD4UYKWrFufuINJ6ID16Dc3uOUFQ4Od6w&oe=6ABC522B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27851590784489923"
+      },
+      {
+        "id": "1028758639655467",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "קוד קופון : OFF20",
+        "body": "הסוד של הספרים נחשף ועכשיו הוא אצלך במקלחת! 😍\nרוצה שיער מושלם, רך ומלא ברק בלי לצאת מהבית ובלי לקרוע את הכיס? קולקציית מוצרי מון פלטין נחתה באתר עם כל הבסט-סלרים שיחזירו לשיער שלך את החיים! \n\nממסכות הקוויאר השחור ועד סדרות השיקום הכי מבוקשות בארץ - הכל מחכה לך במקום אחד. השיער שלך עומד להיראות פשוט מטורף. 👑\n\nקוד קופון ל-20% הנחה : OFF20\nהמלאי מוגבל בהחלט 👇",
+        "link_description": "",
+        "landing_url": "https://itsmydeal.co.il/collections/mvn-pltyn-mon-platin",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783234800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/739230924_2229582964526419_8464072272578271751_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oipg-b9dPU8Q7kNvwE5Q3nv&_nc_oc=AdqTq43ADigrZx8r8g7NFEGwQ6Zy3G_Ro3zJ9Fj4CI6-7WyVzh-CwPnZyad8UTirpTc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQIA6Wy5y9OoMNRDArDbjo7z6G5Pe0IkhcRDxEdiuFlNbQ&oe=6ABC3D1A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOEKniCCxsp-6lavg4bXtmGUV6Ai6b2hsnJMtMp9Ek_l_Nc4rtwU2zSX88N3e25m7fZ69P9cJJT3wEcuwiw9RcVb2ahPzU2ryvmaP_-n3WBUw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=sq70uqLzL88Q7kNvwGCBtsq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTU3MDExNjQ5NjAzNzUsImFzc2V0X2FnZV9kYXlzIjo4MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b42e1b0f119efd4c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTRDNDg3NDIwQzUzQURFNkMxQUY4NEQxNkNEQkM5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFGNDM4MzZDMEUxODgxREI1MzVBMzY1NzMwNzk2MDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbuqbnBj-uoBBUCKAJDMywXQDhmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLXGEHpREJoNV5KROu-7jRCZ6a_pQZoMeRsGy9-N0xlEQ&oe=6ABC5F1B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1028758639655467"
+      },
+      {
+        "id": "1576232650763461",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "היית הכי קרובה שיש לשיער מושלם... למה לעצור עכשיו? 😱 אנחנו כל כך בטוחים שתתאהבי בתוצאות, שהחלטנו לתת לך הצעה שאי אפשר לסרב לה:\nלזמן מוגבל: 25% הנחה!🌟 קוד קופון: BACK25\nההטבה בתוקף עד גמר המלאי. להשלמת ההזמנה >>",
+        "link_description": "אנחנו ב-MY DEAL מתמקדים בלהציע את המיטב בתחום מוצרי טיפוח לשיער, עם מחויבות לאיכות, חדשנות, ושירות לקוחות בלתי מתפשר.",
+        "landing_url": "http://itsmydeal.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728212964_1556966216060942_3430748951269637498_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yKh9Hg5r3JQQ7kNvwHC7YU2&_nc_oc=Adr1cu0bD53rKCO5L56u_wUt36zKympGCOry8qCZKk1barux98RtCqklDnQvSsnH2w8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKpJf4K_v-q1tA7MUHIHuuYC1JxY7-jEyqoP6Q6STLcKg&oe=6ABC4BF5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727519289_1634765487590329_5296027530903265862_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r9mjocrFLZIQ7kNvwE3OLBE&_nc_oc=AdomGzTxLH3XHqq997f3x_bcTR1Ujw8gV6O6WOIfnArfuWcrMPoN9KORvSkZth1xkGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQLuSSdEOZWOixlv-aYqsuydZ9uS4nhhfIKTzvpz_7sLFA&oe=6ABC522B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726200640_1025617753318560_3437184968389172162_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZsyyIyjBzz0Q7kNvwEIoyxJ&_nc_oc=AdrlHauREnPo9XPK8nGy05XpH7UyyvAWBmoYdA_AZkKCPoSX0Ana7cefuiVKA0MNFd8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKK7FFXm9kwHKWExMSfzvtmURvYWBll7aShTvPUB7bhjw&oe=6ABC4B54",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728608807_2804834486581548_1555161276759510462_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kuInwS4N07cQ7kNvwF69BYH&_nc_oc=AdqTbHroPd8aA_0bA6RPUPiXgMp0sZhe398QcSPzJYdR8nhE74kD7DdVU5ry0aWnFPY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKLbzpHytCLHW66Of3lZ6YAg-6aw3h_PZHDICjXzoz9eg&oe=6ABC3EFC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728399430_963425750062770_7170778777337403454_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hk4TEUP3MgEQ7kNvwEfw7FT&_nc_oc=AdpDQ8X55Lvkjd4hBDm-EeCTY58LFwFJm8yfyA_GYXIy-uD5JuZ0lq5mH-7418YjGrg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQKprnqffWasOhdWMYnliPyzcKy32bmHR_9agDMJCNrS1A&oe=6ABC37AD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727788075_2188717658587416_1222097123961631807_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6HRJGukNi0UQ7kNvwEQEI9O&_nc_oc=AdqSNT632L0TFK3f1QaxgGpp-Zm_Me1eDYtKZkze9aKVOLklVplcSjRlOjHb8326Zaw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQJBziDusHkzTubAzMeQ79Vn321NmZtaYp-2rMa4FGLQPQ&oe=6ABC5596"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1576232650763461"
+      },
+      {
+        "id": "1029662529542655",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "קוד קופון: OFF20",
+        "body": "המארז שיסגור לך את הפינה לשיער מושלם! 😍🔥\nהשילוב המנצח של ז'אן מור (לה לואור): שמפו 500 מ\"ל + מסכה 500 מ\"ל במארז אחד שנותן לשיער שלך בדיוק את מה שהוא צריך! \n\n✨ ניקוי עמוק ועדין ששומר על השערה\n✨ מסכה פסיכית שמחזירה את הלחות והברק בשניות\n✨ גודל ענק של חצי ליטר מכל מוצר!\n\nקוד קופון ל-20% הנחה : OFF20\nהמלאי מוגבל בהחלט 👇",
+        "link_description": "",
+        "landing_url": "https://itsmydeal.co.il/products/mrz-2-mvtsrym-shmpv-500-mlmskh-500-ml-lh-lvr-la-lueur-zn-mvr-jan-more",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783234800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740437840_2011115006188032_1067856772056211492_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3gFVOjefQ9EQ7kNvwGcXMvr&_nc_oc=Adr0XXgJUG0B4g7ZlWAFF7WHRlRgEuTv9kf-ZsNnazvxouhiteXvZ3l3aQjDlgH4VXo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQK0TvbMZaAsg14qykJYFKqoIoV8eznxsQlt5GpxtKNxEQ&oe=6ABC4BEC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP4eeXuNZqy39_R348H2aesAVZxQ79i3TmE6K5A_c4EIdAxa8Eh7fPZBtwlPnnqgNm15ZF7Se8oYGHgxKQErGh2OGq1IqYJ5MvNGlD09JvwTA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3Tos4xoGoS4Q7kNvwG0Ofxe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NTUyODM3MTQ5NDE2ODcsImFzc2V0X2FnZV9kYXlzIjo4MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=96e0a1412b641a30&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTQ0MTIzNzM2QkZCNzAzN0JFQzI3OUZGOUUxODE5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FCNDYzQkVCOEYwNjNCQzBCOUQyQTNFRDMxNTYxQTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbui4mii4GKCRUCKAJDMywXQD0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIew-z60h_h14do6rcIl3Lxv7DKYmkK0daM-h3GsDzpOg&oe=6ABC5622"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1029662529542655"
+      },
+      {
+        "id": "3084818895046105",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://itsmydeal.co.il/products/mrz-3-mvtsrym-msdrt-qvlvr-trpy-lshyqvm-shy-r-tsbv-vybsh-bvly-gvn-bolly-jon?_pos=5&_sid=6ed407a4d&_ss=r",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727050871_1890930121575775_7731184709093425520_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p3FTVylK1nMQ7kNvwENOAb_&_nc_oc=AdonRPfJihY9v12PE4keZmrVp8KUo1f-yBKQBzHXg8rMuNPYzVoPZy-G0uNQ6p2LCRA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQK_8qYRxcLuwpYTWnV6pGYMl7xIzNCpuLDpmsGx_5VjDA&oe=6ABC525D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPc1D9jy5FtUCJn6w0rEPkg-BjlXUj0P5QMqMP-gFG2Q4LpIPedXzg-ekuxgqQ_CrBG9awo1EJ186b75F5mT-vqlkyx4EiAAw2qilZR24Sj2A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=swPG5D_OYLsQ7kNvwFUHtpz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5Nzc5Mjc1MTIzOTMxODQsImFzc2V0X2FnZV9kYXlzIjoyNDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c987cacc41d8d05e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RjQxNjA3OEE4MEI4NjZDQURFQ0IyODY4M0Q2Q0JCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NEYyREQyMjEzQUE3QjkwQkI3RjY1RDYxMEE0QkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAl9j4mJrKChUCKAJDMywXQD1dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIWEqGccJp3QnK6JZZ-bBawQQImSO7DAIXfrikz24M9lg&oe=6ABC2B4C"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727322960_2208443090010253_4338837224640513564_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X_0r6TOaU6cQ7kNvwEekcPT&_nc_oc=Adrmyh_jGmBoovEvj2UYjg-Dh89bsy9hNqoI62BLjg1D993d1NPG--bNx6yKD_mhxTY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQJm374Afp-HNcO6PPwvQyrxnDM4iieguqUo98vLnA3ntA&oe=6ABC3728",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPc1D9jy5FtUCJn6w0rEPkg-BjlXUj0P5QMqMP-gFG2Q4LpIPedXzg-ekuxgqQ_CrBG9awo1EJ186b75F5mT-vqlkyx4EiAAw2qilZR24Sj2A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=swPG5D_OYLsQ7kNvwFUHtpz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5Nzc5Mjc1MTIzOTMxODQsImFzc2V0X2FnZV9kYXlzIjoyNDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c987cacc41d8d05e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RjQxNjA3OEE4MEI4NjZDQURFQ0IyODY4M0Q2Q0JCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NEYyREQyMjEzQUE3QjkwQkI3RjY1RDYxMEE0QkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAl9j4mJrKChUCKAJDMywXQD1dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIWEqGccJp3QnK6JZZ-bBawQQImSO7DAIXfrikz24M9lg&oe=6ABC2B4C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3084818895046105"
+      },
+      {
+        "id": "1654826369142406",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://itsmydeal.co.il/products/%D7%90%D7%95%D7%9C%D7%A4%D7%9C%D7%A7%D7%A1-%D7%9E%D7%A1%D7%A4%D7%A8-3-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%9E%D7%A9%D7%A7%D7%9D-%D7%94%D7%9E%D7%99%D7%95%D7%A2%D7%93-%D7%9C%D7%9B%D7%95%D7%9C-%D7%A1%D7%95%D7%92%D7%99-%D7%91%D7%A9%D7%99%D7%A2%D7%A8-olaplex",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728175465_1699927474275912_3972942112705124988_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Espvgr5XbTUQ7kNvwHNbt0L&_nc_oc=Adr7jp4QsHN-U4mWt65TzUmNVKr8UHlcykm_2W2Zz_yuilvzBZnhCWmSdyD-l59iN-g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQLvQMec6KvRF-L8olGG9PVvUyrS7qEzGTKvzGvkIvUcBw&oe=6ABC482F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOrJXYaO67AkysdF3NByv54ICAPb7-P5FaYwp-bFbzigNBmcjzHe6hQjdt1Ou0gBtyK5ThnvZW9amVqPHD6HeXtVMonC2gt8hXo_0CCOaQ4Aw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6XFBzGG1HlAQ7kNvwGiQDA6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY5MTYyMTQzNzI3OTk3NSwiYXNzZXRfYWdlX2RheXMiOjI4OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=aabc1921ff77041&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NjRENTMwNDUzMjkwODgwMjBERjNDQ0U3MTRDQ0FBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDNBRDMzNkJFODBDMERGRTM2QTNDQjI3REUzMUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOu7Sh1cG6AhUCKAJDMywXQEJ7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL4PGAvf6jt9TxeI0mtOjAu7FN3mr4umdhE90nA3427FA&oe=6ABC31FE"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728175465_1699927474275912_3972942112705124988_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Espvgr5XbTUQ7kNvwHNbt0L&_nc_oc=Adr7jp4QsHN-U4mWt65TzUmNVKr8UHlcykm_2W2Zz_yuilvzBZnhCWmSdyD-l59iN-g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQLvQMec6KvRF-L8olGG9PVvUyrS7qEzGTKvzGvkIvUcBw&oe=6ABC482F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOrJXYaO67AkysdF3NByv54ICAPb7-P5FaYwp-bFbzigNBmcjzHe6hQjdt1Ou0gBtyK5ThnvZW9amVqPHD6HeXtVMonC2gt8hXo_0CCOaQ4Aw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6XFBzGG1HlAQ7kNvwGiQDA6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY5MTYyMTQzNzI3OTk3NSwiYXNzZXRfYWdlX2RheXMiOjI4OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=aabc1921ff77041&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NjRENTMwNDUzMjkwODgwMjBERjNDQ0U3MTRDQ0FBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDNBRDMzNkJFODBDMERGRTM2QTNDQjI3REUzMUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOu7Sh1cG6AhUCKAJDMywXQEJ7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL4PGAvf6jt9TxeI0mtOjAu7FN3mr4umdhE90nA3427FA&oe=6ABC31FE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1654826369142406"
+      },
+      {
+        "id": "857013787242552",
+        "page_id": "135432086318551",
+        "page_name": "It's My Deal",
+        "page_url": "https://www.facebook.com/61552015912939/",
+        "page_like_count": 377,
+        "page_categories": [
+          "Beauty Supplies"
+        ],
+        "ad_creative_link_title": "קוד קופון: OFF20",
+        "body": "השיער צבוע? ככה שומרים עליו זוהר, רך ומושלם! \nהכירי את סדרת 'קולור טרפי' (Color Therapy) של בולי ג'ון - הטיפול הנמרץ שהשיער שלך צמא אליו.\n\nהמארז המשולש שיעשה לך סדר בראש: \n✨ שומר על הפיגמנט - מונע דהייה ושומר על צבע חי ומבריק לאורך זמן. \n✨ שיקום עמוק - מחזיר חיים וגמישות לשיער שעבר תהליכים כימיים. \n✨ רכות ממכרת - הופך \"קש\" למשי כבר מהשימוש הראשון.\n\nבמקום לשרוף כסף על צביעה חוזרת, תשקיעי בשימור התוצאה.\n\nלמארז השיקום במחיר שאסור לפספס >>",
+        "link_description": "20% הנחה באתר!",
+        "landing_url": "https://itsmydeal.co.il/products/mrz-3-mvtsrym-msdrt-qvlvr-trpy-lshyqvm-shy-r-tsbv-vybsh-bvly-gvn-bolly-jon?_pos=5&_sid=6ed407a4d&_ss=r",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783234800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740712710_27080346421660842_4233302494497628070_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hTWbgFj_sk4Q7kNvwGnPqQz&_nc_oc=AdrgE3MxbOOJgnNZGdCvGmFMtVTV6XG_pqXq2QsbOZQrZRA3uOYgohnFLFEz_oiRByE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&oh=00_AQJJSpfbH8Lchu8-DGZopOdmHhrSxTHg8XjDsCicSGv_DA&oe=6ABC5A28",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVZIw_HiPDhN20DLehSZ0RpMeCVT57qZ_hqfgLB2IWVaClommjsWlDH_dJGFmPlToK2vaQOZc7vBsBxBOsIrZQ2GTq0AteICOOy8KG-odtug.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=voKft8Gg2mkQ7kNvwElm4JP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM1MjE0NTc1MDEzNjc0MzQsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b2ff7cd3cd53d236&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NjRFMDRDRkQxOUJBNzRDODMwQzVBNjgyN0E4NEE5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NERFNTM2QjZFRjM4NzY3NzlCRTJDMzMwRkVEMkJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUsq_35q_BDBUCKAJDMywXQDlEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=eS3rv4ZoH-WVw9Qi5HzplQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK66uzgIAck9hJfxclp73XusygvUX0nDRAjlk6XUPKWOQ&oe=6ABC4ECE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=857013787242552"
+      },
+      {
+        "id": "27851590784489923",
+        "body": "היופי שלך, הדיל המנצח שלנו ❤️\nאנחנו מאמינים ששגרת טיפוח איכותית לא צריכה להיות פשרה.\n\nאז הנה מה שעשינו:\n\nאספנו עבורך נבחרת של מוצרי ביוטי וטיפוח מהמותגים המובילים, כדי שתוכלי לשדרג את משטר היופי שלך וליהנות מתוצאות מקצועיות, במחירים שהם פשוט העסקה הכי טובה לעור שלך.\n\nהצעד הראשון שלך?\nלהזין בקופה את קוד הקופון: OFF20 \nוהוא יקנה לך 20% הנחה ממש עכשיו >>",
+        "landing_url": "https://itsmydeal.co.il/"
+      },
+      {
+        "id": "1576232650763461",
+        "body": "היית הכי קרובה שיש לשיער מושלם... למה לעצור עכשיו? 😱 אנחנו כל כך בטוחים שתתאהבי בתוצאות, שהחלטנו לתת לך הצעה שאי אפשר לסרב לה:\nלזמן מוגבל: 25% הנחה!🌟 קוד קופון: BACK25\nההטבה בתוקף עד גמר המלאי. להשלמת ההזמנה >>",
+        "landing_url": "http://itsmydeal.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "27851590784489923",
+        "text": "היופי שלך, הדיל המנצח שלנו ❤️\nאנחנו מאמינים ששגרת טיפוח איכותית לא צריכה להיות פשרה.\n\nאז הנה מה שעשינו:\n\nאספנו עבורך נבחרת של מוצרי ביוטי וטיפוח מהמותגים המובילים, כדי שתוכלי לשדרג את משטר היופי שלך וליהנות מתוצאות מקצועיות, במחירים שהם פשוט העסקה הכי טובה לעור שלך.\n\nהצעד הראשון שלך?\nלהזין בקופה את קוד הקופון: OFF20 \nוהוא יקנה לך 20% הנחה ממש עכשיו >>",
+        "links": [
+          "https://itsmydeal.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1028758639655467",
+        "text": "הסוד של הספרים נחשף ועכשיו הוא אצלך במקלחת! 😍\nרוצה שיער מושלם, רך ומלא ברק בלי לצאת מהבית ובלי לקרוע את הכיס? קולקציית מוצרי מון פלטין נחתה באתר עם כל הבסט-סלרים שיחזירו לשיער שלך את החיים! \n\nממסכות הקוויאר השחור ועד סדרות השיקום הכי מבוקשות בארץ - הכל מחכה לך במקום אחד. השיער שלך עומד להיראות פשוט מטורף. 👑\n\nקוד קופון ל-20% הנחה : OFF20\nהמלאי מוגבל בהחלט 👇",
+        "links": [
+          "https://itsmydeal.co.il/collections/mvn-pltyn-mon-platin"
+        ]
+      },
+      {
+        "ad_id": "1576232650763461",
+        "text": "היית הכי קרובה שיש לשיער מושלם... למה לעצור עכשיו? 😱 אנחנו כל כך בטוחים שתתאהבי בתוצאות, שהחלטנו לתת לך הצעה שאי אפשר לסרב לה:\nלזמן מוגבל: 25% הנחה!🌟 קוד קופון: BACK25\nההטבה בתוקף עד גמר המלאי. להשלמת ההזמנה >>",
+        "links": [
+          "http://itsmydeal.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1029662529542655",
+        "text": "המארז שיסגור לך את הפינה לשיער מושלם! 😍🔥\nהשילוב המנצח של ז'אן מור (לה לואור): שמפו 500 מ\"ל + מסכה 500 מ\"ל במארז אחד שנותן לשיער שלך בדיוק את מה שהוא צריך! \n\n✨ ניקוי עמוק ועדין ששומר על השערה\n✨ מסכה פסיכית שמחזירה את הלחות והברק בשניות\n✨ גודל ענק של חצי ליטר מכל מוצר!\n\nקוד קופון ל-20% הנחה : OFF20\nהמלאי מוגבל בהחלט 👇",
+        "links": [
+          "https://itsmydeal.co.il/products/mrz-2-mvtsrym-shmpv-500-mlmskh-500-ml-lh-lvr-la-lueur-zn-mvr-jan-more"
+        ]
+      },
+      {
+        "ad_id": "3084818895046105",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://itsmydeal.co.il/products/mrz-3-mvtsrym-msdrt-qvlvr-trpy-lshyqvm-shy-r-tsbv-vybsh-bvly-gvn-bolly-jon?_pos=5&_sid=6ed407a4d&_ss=r"
+        ]
+      },
+      {
+        "ad_id": "1654826369142406",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://itsmydeal.co.il/products/%D7%90%D7%95%D7%9C%D7%A4%D7%9C%D7%A7%D7%A1-%D7%9E%D7%A1%D7%A4%D7%A8-3-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%9E%D7%A9%D7%A7%D7%9D-%D7%94%D7%9E%D7%99%D7%95%D7%A2%D7%93-%D7%9C%D7%9B%D7%95%D7%9C-%D7%A1%D7%95%D7%92%D7%99-%D7%91%D7%A9%D7%99%D7%A2%D7%A8-olaplex"
+        ]
+      },
+      {
+        "ad_id": "857013787242552",
+        "text": "השיער צבוע? ככה שומרים עליו זוהר, רך ומושלם! \nהכירי את סדרת 'קולור טרפי' (Color Therapy) של בולי ג'ון - הטיפול הנמרץ שהשיער שלך צמא אליו.\n\nהמארז המשולש שיעשה לך סדר בראש: \n✨ שומר על הפיגמנט - מונע דהייה ושומר על צבע חי ומבריק לאורך זמן. \n✨ שיקום עמוק - מחזיר חיים וגמישות לשיער שעבר תהליכים כימיים. \n✨ רכות ממכרת - הופך \"קש\" למשי כבר מהשימוש הראשון.\n\nבמקום לשרוף כסף על צביעה חוזרת, תשקיעי בשימור התוצאה.\n\nלמארז השיקום במחיר שאסור לפספס >>",
+        "links": [
+          "https://itsmydeal.co.il/products/mrz-3-mvtsrym-msdrt-qvlvr-trpy-lshyqvm-shy-r-tsbv-vybsh-bvly-gvn-bolly-jon?_pos=5&_sid=6ed407a4d&_ss=r"
+        ]
+      },
+      {
+        "ad_id": "27851590784489923",
+        "text": "היופי שלך, הדיל המנצח שלנו ❤️\nאנחנו מאמינים ששגרת טיפוח איכותית לא צריכה להיות פשרה.\n\nאז הנה מה שעשינו:\n\nאספנו עבורך נבחרת של מוצרי ביוטי וטיפוח מהמותגים המובילים, כדי שתוכלי לשדרג את משטר היופי שלך וליהנות מתוצאות מקצועיות, במחירים שהם פשוט העסקה הכי טובה לעור שלך.\n\nהצעד הראשון שלך?\nלהזין בקופה את קוד הקופון: OFF20 \nוהוא יקנה לך 20% הנחה ממש עכשיו >>",
+        "links": [
+          "https://itsmydeal.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1576232650763461",
+        "text": "היית הכי קרובה שיש לשיער מושלם... למה לעצור עכשיו? 😱 אנחנו כל כך בטוחים שתתאהבי בתוצאות, שהחלטנו לתת לך הצעה שאי אפשר לסרב לה:\nלזמן מוגבל: 25% הנחה!🌟 קוד קופון: BACK25\nההטבה בתוקף עד גמר המלאי. להשלמת ההזמנה >>",
+        "links": [
+          "http://itsmydeal.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://itsmydeal.co.il/",
+      "https://itsmydeal.co.il/collections/mvn-pltyn-mon-platin",
+      "https://itsmydeal.co.il/products/mrz-2-mvtsrym-shmpv-500-mlmskh-500-ml-lh-lvr-la-lueur-zn-mvr-jan-more"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "filtered": "2026-09-25T13:00:22",
+    "qualified": "2026-09-25T13:02:43"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://itsmydeal.co.il/",
+      "https://itsmydeal.co.il/collections/mvn-pltyn-mon-platin",
+      "https://itsmydeal.co.il/products/spryy-mtyr-qshrym-lshy-r-mvlty-250-ml-lh-bvth-labeaute",
+      "https://itsmydeal.co.il/pages/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

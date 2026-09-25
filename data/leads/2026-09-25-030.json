@@ -1,0 +1,230 @@
+{
+  "lead_id": "2026-09-25-030",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://medi-link.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/medilinkil/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "173722456005393",
+    "page_name": "מדי-לינק פארם Medi-Link",
+    "active_ads_count": 2,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "900735009428203",
+        "link_title": "{{product.name}}",
+        "body": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "landing_url": "https://www.medi-link.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606874193_2044769306297913_6738568229660577215_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tj4z3lTy1UgQ7kNvwFWAq-3&_nc_oc=AdqVQxd_D86gcb0L9kGLqkjYjFyIBDWUIf9ekaZ6cnu5F7dF-KL9PLeChQ0oF0MFXWg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQI-NGwiDRz5f59sWXif6031tXqPPHvX65eLmJpfJ1WGJA&oe=6ABC5CF6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606407260_4165111010405852_6072563966323596127_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UryAk0SzQTkQ7kNvwFwgcZ0&_nc_oc=AdpYL3l3p7LkW0YUzVec1O87npHoEvAvidUr9PowYXp9LDvwR8N2d6bmcxv3mr1AJIQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQLKGrWGd5tq-I_2qtF1HVBnNyZ9_p_svnfk4Lshpg08Yw&oe=6ABC5C4C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608505955_837582029114418_1931476735805878252_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-UJW-ntYpGYQ7kNvwGl4I_4&_nc_oc=Adr9xyDerbItIL6Fg68Ep35xc_CjTZbDF65y1R77ZQDaCMslzq0ueyMBN-tXrpjRgOw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQJ7SUm-IrVPU9sOYBf-wZ8s2ddeZ8fTfK_FJCrHWYL8lQ&oe=6ABC3738"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1773644400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=900735009428203"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 36895,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "900735009428203"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 36895,
+    "page_categories": [
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "900735009428203",
+        "page_id": "173722456005393",
+        "page_name": "מדי-לינק פארם Medi-Link",
+        "page_url": "https://www.facebook.com/medilinkil/",
+        "page_like_count": 36895,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "link_description": "מדי לינק הינו אתר פארם אשר ניתן למצוא בו תוספי מזון, קוסמטיקה, מוצרי תינוקות ומותגים כגון סולגאר, בנפייבר, וישי, מוצרי בריאות ועוד",
+        "landing_url": "https://www.medi-link.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773644400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605997329_1386851789755011_6829923823610167142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oMgFKWPZr9EQ7kNvwET-cCP&_nc_oc=Adr-chWdekAmLFEBfAdGZB-Zp4pF_sg-0lkiv3ovCCA26Z7VXOXRyxNWKSKbHI9WycA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQJyvOD8U_4KFKhf0JkXsYC97OO6iC8YnwL8V7vP437cIg&oe=6ABC50FA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605847129_857474040255301_1101832234374989067_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-LLxmcO7ddAQ7kNvwGcIFk-&_nc_oc=Ado3aqss21rNv5bnGV1Xv4oNLVCROhjAKz3z1i6c6pW24O77YfmhC-SFoTMcD5BJJlk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQKmH38_S8Rh-olCE08838cP5nMOSWY1TCdBQ-9w4rmT0g&oe=6ABC3971",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606407260_4165111010405852_6072563966323596127_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UryAk0SzQTkQ7kNvwEiqiZH&_nc_oc=AdosQvUnpQ3yWt9jJx5TJCnxjnYt7WfOi8W06tl1lA9iiBiRIgw2d_eLMpR9_d3JArI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQIoXJFwdb8aDQmIrWh8-yuBe9jAp2FOgKhRHbMNceRpOw&oe=6ABC5C4C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/606874193_2044769306297913_6738568229660577215_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tj4z3lTy1UgQ7kNvwGgdS4V&_nc_oc=AdoThQ7b98VXY81i_T82iwwyZUNjMYPvkzKfJBgsWvW4OdAPpJPpvy-K7CmhPwoLZlE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQLtFLXnamxy0wBXnu-Yql6aOROFgLfuchpyfjfO8GRsbA&oe=6ABC5CF6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608505955_837582029114418_1931476735805878252_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-UJW-ntYpGYQ7kNvwEIJXEl&_nc_oc=Adq5gQ-rvxxT0Shmqt7a0h36gCrm2o0Emo3wBygS0JTraPVcetUo_OVejJrr8QpCapg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQIdl_m-gKBUwSFLbj-vwqh8cSSuiLA5lTDaaFAn5Y8R1g&oe=6ABC3738",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608903585_25434122899575638_4057736755313133974_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5i0IULGX90gQ7kNvwH69bjf&_nc_oc=Adp1wiNyRGdKVN42fPJl1GDcxLy4SjfsobsOYTkOJiVZbfVKz6MUPlnClsuM7p_pBG4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQImlWikV4XWdMKP6pV5zDRjIgu5M4rWi7yUlnSYz2UvSw&oe=6ABC3472"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=900735009428203"
+      },
+      {
+        "id": "1997110577877837",
+        "page_id": "173722456005393",
+        "page_name": "מדי-לינק פארם Medi-Link",
+        "page_url": "https://www.facebook.com/medilinkil/",
+        "page_like_count": 36895,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "link_description": "מדי לינק הינו אתר פארם אשר ניתן למצוא בו תוספי מזון, קוסמטיקה, מוצרי תינוקות ומותגים כגון סולגאר, בנפייבר, וישי, מוצרי בריאות ועוד",
+        "landing_url": "https://www.medi-link.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773644400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/484907188_1343571060314231_3446488014293701442_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=URRykQ-q9owQ7kNvwHKXHNh&_nc_oc=AdqzajX0v4ju0c1lgHlqNBzvIfcTBQlPF2aXo6esxdOsnn1MtxqPGp-R6LcrKSjJiCM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQJb_IHi-Wxy_qDn0Byscm6QdsUqNZes8ZGkX9MizqyGjQ&oe=6ABC3087",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/484907363_1806832063221234_2705483048523591487_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iPlefV4YMdsQ7kNvwFHTugA&_nc_oc=AdqAnicP0wf1owaI9nYhrHzdLW1gUbnyA34SaJJoe3ohQGHHI5NV9Ehhv2XHypLbFmE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQLk3jvBvbP4V2d5gNDDSz5_yb443C5czhRgpQFbUAQwYA&oe=6ABC3D62",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/484870101_1008379137877457_4403926323090998235_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FcvCt3gGUvwQ7kNvwE2Tckm&_nc_oc=Adp-hSNr_VflgL7vHdlA7WNvfoJhZtHmnaYrWvUgpnkhST5li_CL7IB_JR5buFl1hMA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQIavC-C_83a3pw3iAYwKkjNeOcI3iAk_J-lZGlW-8mEkA&oe=6ABC4179",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/484871306_544865555306471_8036273842206274484_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6PTq-FKX35QQ7kNvwG9vR3n&_nc_oc=AdrMUFrdiorPtqM7NiWCvlEp-5sxzS5UCxDjdNDXis8Dq-58U8tegMx-lxEq2_GMoHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQJ9ekQDvsYFR2WgPtdNyCrUn_OZ2AGz9DveTL4KLMhsIw&oe=6ABC28F4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/484842676_1170111564465834_4573531585072321462_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qWgXlmqnXpcQ7kNvwGc0M_F&_nc_oc=AdpbyygcS9TTf_Xalj2zd0EX9CsL5pqh7BFDHrCPOTrXdH_4zhZ-C0ux35721Ig2mNo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQKQlo5wpG5yMRv3sDASrLqoPKwoSBzLuucA1bHy3hTndg&oe=6ABC3D5E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/484901052_1790343501697672_1558229430272545111_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QMlqYYEFsScQ7kNvwHXM5MG&_nc_oc=AdpFCXZIVDqh2PJhzV2lgpumQ-42BeGh3OnkcbJcPS6t3w_9uJNvz5uhs3giCuLJDfY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tE9z_6tDllJWfPNGC1Wlhw&_nc_ss=70289&oh=00_AQIrpRkfPq-kweMAVfMupE1gwzxzrVXkpuYPz-gXl6NnUg&oe=6ABC4C20"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1997110577877837"
+      },
+      {
+        "id": "900735009428203",
+        "body": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "landing_url": "https://www.medi-link.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "900735009428203",
+        "text": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "links": [
+          "https://www.medi-link.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1997110577877837",
+        "text": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "links": [
+          "https://www.medi-link.co.il/"
+        ]
+      },
+      {
+        "ad_id": "900735009428203",
+        "text": "מוצרי ביוטי קונים רק במדי-לינק!\nגלו מגוון רחב של תוספי תזונה, טיפוח וקוסמטיקה, דרמו-קוסמטיקה, ויטמינים ועוד!\nמבצעים משתלמים ומשלוחים מהירים, התחדשו עכשיו בטוב ביותר!",
+        "links": [
+          "https://www.medi-link.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.medi-link.co.il/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "filtered": "2026-09-25T12:53:43",
+    "unqualified": "2026-09-25T12:57:29"
+  },
+  "qualify": {
+    "pages_checked": [],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "instagram_page",
+      "whatsapp"
+    ]
+  }
+}

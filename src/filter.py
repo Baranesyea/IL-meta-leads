@@ -45,10 +45,13 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
     name = meta.get("page_name", "")
     titles = " | ".join(a.get("link_title", "") + " " + a.get("body", "")
                         for a in meta.get("sample_ads", []))
+    ctas = set(meta.get("cta_types") or [])
+    likes = meta.get("page_like_count")
     text = f"{name} | {titles}"
 
     signals = {
-        "brand_hits": _hits(name, f["brand_blocklist"]),
+        "brand_hits": _hits(name + " | " + " ".join(a.get("landing_url", "") for a in meta.get("sample_ads", [])),
+                            f["brand_blocklist"]),
         "service_hits": _hits(text, f["service_keywords"]),
         "product_hits": _hits(text, f["product_keywords"]),
         "hebrew": bool(HEBREW.search(text)),
@@ -56,12 +59,19 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
         "active_ads_count": meta.get("active_ads_count", 0),
         "active_ads_count_exact": meta.get("active_ads_count_exact", False),
     }
-    signals["product_score"] = len(signals["product_hits"]) - 2 * len(signals["service_hits"])
+    signals["cta_types"] = sorted(ctas)
+    signals["page_like_count"] = likes
+    signals["product_score"] = (len(signals["product_hits"]) - 2 * len(signals["service_hits"])
+                                + 2 * len(ctas & set(f.get("shop_ctas", []))))
 
     if signals["brand_hits"]:
         return False, f"big brand/chain: {', '.join(signals['brand_hits'])}", signals
     if signals["service_hits"] and signals["product_score"] <= 0:
         return False, f"service/course/lead-gen: {', '.join(signals['service_hits'])}", signals
+    if likes and likes > f.get("max_page_likes", 10**9):
+        return False, f"{likes:,} page likes — too big", signals
+    if ctas and ctas <= set(f.get("leadgen_ctas", [])):
+        return False, f"lead-gen CTA only ({', '.join(sorted(ctas))})", signals
     israeli = signals["hebrew"] or any(c in f["accepted_currencies"] for c in signals["currencies"])
     if not israeli:
         return False, "not Israeli (no Hebrew, no ILS)", signals
@@ -78,11 +88,33 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
     return True, None, signals
 
 
-def run() -> tuple[list[dict], list[dict]]:
+def _exact_count(lead: dict, browser, cfg: dict) -> None:
+    """Replace the in-sample ad count with the page's real active-ad count (Ad Library)."""
+    from .web import flatten_ad
+
+    if lead["meta"].get("active_ads_count_exact"):
+        return
+    try:
+        count, ads = browser.page_ads(lead["meta"]["page_id"], cfg["country"])
+    except Exception as e:  # noqa: BLE001
+        log.warning("page count failed for %s: %s", lead["lead_id"], e)
+        return
+    if count is not None:
+        lead["meta"]["active_ads_count"] = count
+        lead["meta"]["active_ads_count_exact"] = True
+    if ads:
+        lead["meta"]["page_ads"] = [flatten_ad(a) for a in ads]
+
+
+def run(browser=None) -> tuple[list[dict], list[dict]]:
     cfg = load_config()
     kept, rejected = [], []
     for lead in db.leads_by_status("discovered"):
         ok, reason, signals = evaluate(lead, cfg)
+        # Only spend a page load on the exact count when everything else already passes
+        if browser is not None and (ok or (reason or "").startswith("only ")):
+            _exact_count(lead, browser, cfg)
+            ok, reason, signals = evaluate(lead, cfg)
         lead["meta"]["filter"] = signals
         if ok:
             db.set_status(lead, "filtered")

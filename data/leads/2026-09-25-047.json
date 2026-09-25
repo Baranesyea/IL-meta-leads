@@ -1,0 +1,132 @@
+{
+  "lead_id": "2026-09-25-047",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Skinandmoreil/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "198942560224974",
+    "page_name": "Skin and more",
+    "active_ads_count": 2,
+    "search_keyword": "סרום",
+    "sample_ads": [
+      {
+        "ad_id": "1683554342666066",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://skinandmore.co.il/product-category/our-products/perface/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702144219_4595655177324406_6397288458323797714_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nmaj5s-IOisQ7kNvwGjEVsj&_nc_oc=AdpaH1ZsRTdgxRHRd63HymZLeOJrHewhmEBIhep5AlJn0p3I4rLrM0OWkLFS_ttLpis&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQKDuWRTY7S3JownMtW4hyolDwIKUYkW8ZAXY3ZTPHLdRQ&oe=6ABC2D8F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701558097_1250275216931229_5787693214793885424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VKbmIRWvfegQ7kNvwEvvW0p&_nc_oc=AdqId4PhZVjaJ2h5XSV9_m5U9X3tB87VxowvMFIuvjTpQCl_civg-kmPvhKdAvlBE_k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQLgqzaJsvwjUQ2V5o-XABXNFRAinyoE8DWdwYji7cSz_Q&oe=6ABC50E4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/698335959_1327277149518785_5510372518588442771_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R6RtWPksidkQ7kNvwGe5sBm&_nc_oc=AdqbCMbfYhJwV83ub2ufnbUl0NPkhtau2wLi7A6ryEQ4ClZuZSm8Y_m4m796laFZjMc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQLMbvV4SpbvIHDuJY39cw5r0XtBcrnhDejh0Wd4O1-4Aw&oe=6ABC3DDB"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779087600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1683554342666066"
+      },
+      {
+        "ad_id": "2583182808767734",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://skinandmore.co.il/product-category/our-products/perface/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703111487_1310519084371652_5774686353630245121_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gPsyapaubOcQ7kNvwFgNszx&_nc_oc=Adr_16OvUcHo-tshqJYPgjTXJIWzRLZOYPhipN-PpS-_15UIzmWaGzRulqCh_0KjR38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&oh=00_AQJOqvPacT7tURujOMBh7qnu2KYfujU3lPg7kSkWFXe2BQ&oe=6ABC45F9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFl22GOu5mOdnhW6P17tK_cmKbYyh5v1Wa8IFOdni4q_nfEXPDoVS3Hhp4WX6q-FH--GEunWVXDS-c7FOW0fdOScgAaY7nNmemCf-g1T2ivQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=gLOqx41EWv8Q7kNvwHfzoWl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTMzNDg2MDYwOTk3NDgsImFzc2V0X2FnZV9kYXlzIjoxMzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=84c690e6f97d068&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzQ1RUVCQjkxRkMzOEQ1REY2MjM5NzhFRUMxQTM4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M1NDI3NDAxRjYyM0FCQzAxNTc2MDEwN0RBOTJDNzk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIhOaD5pLMBBUCKAJDMywXQC67ZFocrAgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=LlaQB1JzqIIq5Y8vdB3PYQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLsIZgR0nxKSP42Ll1HM5oANymW7VMyE61xtkUW5Lk0zg&oe=6ABC4CA8"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1779087600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2583182808767734"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 5619,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1683554342666066",
+      "2583182808767734"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 5619,
+    "page_categories": [
+      "Health/beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:59:34",
+    "rejected": "2026-09-25T12:59:51"
+  }
+}

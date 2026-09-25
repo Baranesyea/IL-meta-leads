@@ -1,0 +1,721 @@
+{
+  "lead_id": "2026-09-25-071",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://billy-online.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/billiyonline/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972546607075",
+      "source": "https://www.billy-online.com/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "105754401257140",
+    "page_name": "Billy",
+    "active_ads_count": 12,
+    "search_keyword": "תכשיטים",
+    "sample_ads": [
+      {
+        "ad_id": "1579133273342389",
+        "link_title": "{{product.name}}",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "landing_url": "http://www.billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623232834_903995128670165_9017115065030875923_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vTj0cQDhQugQ7kNvwFbM8cQ&_nc_oc=Adr4iOW3TgrO-ePbs_cGWbAWV5_7CppyQW3cgpwmLpmizLpA2gSzR1bVcD4ErMpJhro&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJov7Tiz3K3sdJLtB37B3YVyM5fMUQZoNXFX_i3UXxTWQ&oe=6ABC5E19",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619599027_899903072690440_4715860328218603562_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ccCiz9M2KK4Q7kNvwFvKILm&_nc_oc=AdrsHD1sJqZ5D9rEd6kFFKolmgeGvJ9byPZYb7axdtbdmFvc3zyRfGDVKWKKPoL8hgo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJx6s6Sk2yAs0aRbHecBtWlt-PD2cALAmoQdKG2ZH-Yvw&oe=6ABC2D11",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619373887_1214064566901170_6717098145667635075_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_7qUlCxbZ4IQ7kNvwHWNSGa&_nc_oc=Adp-twCARGdZqZWd_yYH4Qxx7ZxBZ5q0_wqcR5jQiRfJxfeVJEdXoALljMJmatGHoQU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQKUKRg__Mx9KoaXY8SVehCmj-TnO810cRtV6qI8ns8vKA&oe=6ABC4BBC"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1769673600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1579133273342389"
+      },
+      {
+        "ad_id": "1273884838248171",
+        "link_title": "קונים יותר משלמים פחות",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671599096_1463218198616687_1411642193461924577_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UFZRkgbGpG0Q7kNvwE1yn8_&_nc_oc=AdqI7rMU74jSPYUR4kZFG4SWCxvFPBXRI7KuvbbwHfF5rpw4Qt5Jud4EcYn9o8f6e48&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQLuy-W94ckcn0QlPTpPjaWXAGnPYvx4PGkhVAksaev4Sw&oe=6ABC6061",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMnScZL3xGEzL-f2gkVQjZnlrFGTu0uOvf-WDnrIUm-k-VOBe9BkNpUnyt7B0rHAZn7tvV65k4jG2G5hpG2lrF_fB9v6ZdioA2Eu7V-V0Q-JA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WUeOOubLgNQQ7kNvwFZDbP9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk0MDk2MTkwODcyNjUyMiwiYXNzZXRfYWdlX2RheXMiOjE2NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e36e201f8ed98cda&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMjQ3RTU5QkM3NjI3N0REOEQ0MEUwM0UxQzU2QjY4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk1NEI4RDNBRTYwQTkzOEIzRDkwQjFDRDQ0MTY5M0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb064jFmPOrAxUCKAJDMywXQDFEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&_nc_zt=28&oh=00_AQKhW464F7ciijeHwdIwSWR6Lh__ZpfHntU85ae27BFZ4Q&oe=6ABC5A63"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1776150000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1273884838248171"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "מבצע",
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 12,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 18675,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1579133273342389",
+      "1273884838248171"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 18675,
+    "page_categories": [
+      "Jewelry/watches"
+    ],
+    "page_ads": [
+      {
+        "id": "1579133273342389",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "link_description": "אתר התכשיטים של בילי ,תכשיטים מושלמים עד הבית עם משלוח מהיר מהיום למחר מגוון אדיר של תכשיטים בלי לקרוע את הכיס כנסי עכשיו",
+        "landing_url": "http://www.billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619278415_665594163245997_6426692539341419181_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cZ5J_5GDpJ8Q7kNvwFyoY-u&_nc_oc=Adp8NcYYkrh9WzErF9gX6T2GgIK0VyeJXE14gTqEiif62oY2NdglEueyHQDFhk87ogk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJ41diy2rlOomRzsTZ61mMtAdGijEZgd0urxHmNktJZ7g&oe=6ABC4BBF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623232834_903995128670165_9017115065030875923_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vTj0cQDhQugQ7kNvwFbM8cQ&_nc_oc=Adr4iOW3TgrO-ePbs_cGWbAWV5_7CppyQW3cgpwmLpmizLpA2gSzR1bVcD4ErMpJhro&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLVrsHGqCFvyV9gun8lIaEHqQI9x_YJqY-WwC-j1QvLVQ&oe=6ABC5E19",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/624474741_1623938411953514_5633494201305311711_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9lhO1k3C8uYQ7kNvwHDiSPo&_nc_oc=Adq04ZwDNwu8Lf4QFnH17tm8f_vujsZvjYHUIuxedj2cbSAMIH0LU6FO1QdLk6vowvA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQIsP_YlqPIOXxTyJeXQXiczD_pfYA5yA9_bhnj0kuRFbg&oe=6ABC2BD7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619599027_899903072690440_4715860328218603562_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ccCiz9M2KK4Q7kNvwFvKILm&_nc_oc=AdrsHD1sJqZ5D9rEd6kFFKolmgeGvJ9byPZYb7axdtbdmFvc3zyRfGDVKWKKPoL8hgo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJ2OCJkOJlI47kUs1RSBvJYKr7pmM7gEOw7RAjmVVIwwQ&oe=6ABC2D11",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619373887_1214064566901170_6717098145667635075_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_7qUlCxbZ4IQ7kNvwHWNSGa&_nc_oc=Adp-twCARGdZqZWd_yYH4Qxx7ZxBZ5q0_wqcR5jQiRfJxfeVJEdXoALljMJmatGHoQU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLMQCEwgcnRwYXmZxY3CYHiKHymzdXWbNMKGu-9YFEwDw&oe=6ABC4BBC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1579133273342389"
+      },
+      {
+        "id": "1623930868760944",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1770192000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627413784_1528510958244073_6537312554398311576_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c7YXpqHcpDAQ7kNvwFtHQ5-&_nc_oc=AdqzxO2PfRIYLTD4h_voFBqEgJUamYaDY_yuOxJavklhBjlHIk9UHcB4Fs62Z_kPoTw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLMAKlUhXEPviha27jxUzDAPCVmh751duEw2ZzWrBXcAg&oe=6ABC4F3A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM4oIA-7GPKDmz02X8rPM2KypAZXiq1Tq6cKKML0dftOflo4teqvgN9td_nZLZCT5DaWv-eka0m3AqSkuU080k3IvMtOZwskhRI6Z-LJQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=P2TP_e17f9UQ7kNvwHVPTX6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM5MTEyMjQwOTY5NjgxNSwiYXNzZXRfYWdlX2RheXMiOjIzMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIpta8cVpr1V7cim4jTL-mz2gB4mIdC3z90rMYyGo189Q&oe=6ABC2A04"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627150177_1235257871886058_8436239686917035394_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbleanNm_q8Q7kNvwGp8H_s&_nc_oc=AdrPXRog3DRPXVb1r3QyYL7SEAmlGJ3lY3HRmt_g4ElKXWlSgvI-r38O9wnEJbfU-0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJx_7H5Kgsoi_jz4XPjV_ubJ-vggO7czVELBdJjUqf7XA&oe=6ABC36DD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3WxbyqkOVUIWoHZzGJC1cbh2zYZTeQsC3Z5INcLODZZjMeRi9evq7BFKeXOHz4i0emIr5VqDj93SiEDe4aOQc6t4Smmt99xYosy7bl9ixMg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ml95BPdUQJwQ7kNvwGzy-f1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4MjQxMjA3OTgzMjcsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9390dfa7efc63ce1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjQyQUJBRjA5RDcwNDEwQzNFOEY1ODk3NUZFQTg5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI5QUM1NUIwNUY1RERCREFEMjA1NTkxRjIxMEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusZLlwsGbBxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKPG9Yxj-1zT1qznlv1t5OZ0kGoyq9vvyhFQQck7hPa-A&oe=6ABC530A"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627578596_1946951869259549_430676220042188491_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8MrLl-O7XbsQ7kNvwHo1Kqs&_nc_oc=Adqb-gNyPNuxx3-_dJghYWryElGT0Gvu82lOJXXWaQazEwwdBnX4wQbutscME3u9xU8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKUBpyxxIaJ-cf73agaMtoWoXPZUxTDXLAPma-O3OxK8g&oe=6ABC59FC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOUy4UjRYGBfgCtRaZAwlyQtgIS3plZcCBoZ-TmCnw2MKwO3Sa1Nwyz3Ze69e77jevFgG0W6q6WrIIWjHRkLBjAjgxBS3D6flxZ6qANRm9ugQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=UUti22TG-hAQ7kNvwEIQbpW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMDM2ODk3NzAzOTEwODAsImFzc2V0X2FnZV9kYXlzIjoyMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=55c59599a2a2598e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTREREMxQzFGNEVDNzY2NkRBREQ2QjVFNjczOUJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhDNDkwNDAyREQzODExMDcyMkNBRUQxODY3NEE0RUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ2NqX7tK8BxUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL59vz1Eis2HyI_I9CDPDbJ4UunhWyS6iCwNNb2blvG0A&oe=6ABC361B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1623930868760944"
+      },
+      {
+        "id": "1273884838248171",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "קונים יותר משלמים פחות",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "link_description": "קולקציה חדשה",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776150000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671599096_1463218198616687_1411642193461924577_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UFZRkgbGpG0Q7kNvwE1yn8_&_nc_oc=AdqI7rMU74jSPYUR4kZFG4SWCxvFPBXRI7KuvbbwHfF5rpw4Qt5Jud4EcYn9o8f6e48&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQIRZevtDmaH8wZCpbkDKEUYsASyBnIaejGfwdlDbL7k5Q&oe=6ABC6061",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMnScZL3xGEzL-f2gkVQjZnlrFGTu0uOvf-WDnrIUm-k-VOBe9BkNpUnyt7B0rHAZn7tvV65k4jG2G5hpG2lrF_fB9v6ZdioA2Eu7V-V0Q-JA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WUeOOubLgNQQ7kNvwFZDbP9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk0MDk2MTkwODcyNjUyMiwiYXNzZXRfYWdlX2RheXMiOjE2NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e36e201f8ed98cda&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMjQ3RTU5QkM3NjI3N0REOEQ0MEUwM0UxQzU2QjY4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk1NEI4RDNBRTYwQTkzOEIzRDkwQjFDRDQ0MTY5M0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb064jFmPOrAxUCKAJDMywXQDFEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK7z78ndu2R62i5rpRb718pyhMC07V4daHR5xdODXqMyg&oe=6ABC5A63"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1273884838248171"
+      },
+      {
+        "id": "855411960699145",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769587200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623655201_766807119234319_3386062860481681726_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kU9mBRqOMMIQ7kNvwFwDh3w&_nc_oc=AdqCVl1b8jb3pGGlBjUG2OAQSkXYuO5bk7MwwEXuQ7zarzA5yEMKMCFFfZi3rlTQi48&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJiBPSB8aJKMoSKf9nV1_1r8UZO_H8iFxFmw_h1F2uWcQ&oe=6ABC4940",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622326779_1670343457711019_2939893402404484558_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ccfw1z2L_dIQ7kNvwEKZ8yO&_nc_oc=AdqLV5UPmJrVN0ERaBC2mYeKBnV8PyGF1EvlZqpmaYTEAnJ6Ul0vBAu6fQkVanDH910&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJwo2fBzqktgKoB7ZTGfcRcIwteRYVfZZ_1CfU-znFVdw&oe=6ABC410D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622074373_1208450768141329_3545878352279784286_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TRWv6sDGWB4Q7kNvwE27sCs&_nc_oc=Adr1xQHjrZFJDvAVfqPe2WOmrjBEcIwX8z3tlL6w_EQTv3WV7csrWUpD7MxIqwVYuNw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLCNnCF7fgZZUnlk6UhKqGHwItaZwZ_aOJxrG6adDMDkg&oe=6ABC5EE9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=855411960699145"
+      },
+      {
+        "id": "1482666546809695",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769587200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619605858_1599087504578603_2685481613270515787_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nb80m20x1o8Q7kNvwEKqAMe&_nc_oc=Adp4x5TsrfB-5hltJGEzZ600vknwGIxsjyAKrLH3c-yimDOIgpVGAGRT5CDbsIZSFNE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKQJnRws8thN8qJynyJTIo3tZju5nSu-7ooKsQajhsokg&oe=6ABC4B9B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619682541_1376789900342089_2776416127733540205_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ymrZzac3twQ7kNvwEKWSsN&_nc_oc=Adr9bc5FL1UZGDRfM1IkC9EEkNCfOqqxa5NQwK-CL0Q1VU7ARCrBNZHC3ceEzIB9F0s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKnttSMR9YSK9oxd1go3XzxuTqCrjsQF_2GT7xW70slVQ&oe=6ABC2C89",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622811073_916896520899119_4944575027858242889_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AS9Z3pWbfnQQ7kNvwH5o01x&_nc_oc=AdpPErwjuTP6N5_fgZN_UwvlAFMjTMrp8SQl6Ff3PfK_eFbJTJi8iHw1ZnO6O2WETLU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLNA_O6wTV3wYJKOx6_lNoRH-tSqdCoUscCdxK6VxgxKA&oe=6ABC5B81"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1482666546809695"
+      },
+      {
+        "id": "747950741712697",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622817123_893051806976608_7784693308800606573_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lPDtmZZGZB0Q7kNvwF55moF&_nc_oc=AdpFTSuJp0wALlLYaupXXwYIdCQBnW65cKdlu9FvaY0Qh1Hq8BzLV3Alyo7N6-EKocg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKeIXGkicWPOFWFRHv82DLlcYaAf-Y_NVSKFUNzfj8PYg&oe=6ABC3FE7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622127389_4215146472082904_8770056109161324551_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yc2EjlnCE40Q7kNvwGKB5op&_nc_oc=AdqyjPfvoYX96NK_8tkPAt-V6VssFHEnWYx9GgXv4bqo0NN40ySOv7zYjT77nNvWFYY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKs3zeicaSEG2W9EU65ou87Ig0ir21pYpJRG6yaHaL8-g&oe=6ABC5305",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618637100_1673665523613467_774007537815445992_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6rYTgsRMtAsQ7kNvwGzBVJa&_nc_oc=AdqBDmuHsMH0DZFCaNZr7LTRZUngCLvUFer8BWo95lbz13ni8z7qD1VOCXr-Vwz5uCc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLLIGUSxENU1bB7xQ5V9CPPjWGXQ9gSeesDLKXFzeGSbw&oe=6ABC5337"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=747950741712697"
+      },
+      {
+        "id": "876200268459427",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769760000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623364342_1856241508590024_4666087484861694141_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E9EucwbjbW4Q7kNvwEhfSCa&_nc_oc=AdqCc5w4wtm94zq4vGQqNn8BF5sXdZxDmW3HcJkIieMMaPqSTCzxQ2ULF6n06-wSOhk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQI7EKldwGX-clb2f8IfHx5HpRkd2As2GDcVwUI8CQFI6w&oe=6ABC51D6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMyK2ZFVN7llMbjLX0uRkoQzvtWQjkkUPtX57L8HV9R1voJ_sOir2LnMEkZslyojzYYXeUJJSyadlu6jQGaptGtlQ1RY3VV9auVLSFm5IOdVg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hOYQKS2r1BgQ7kNvwGLbaYX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTQ1Njg0MTM3MDQ2MDQsImFzc2V0X2FnZV9kYXlzIjoyMzcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fdc956a02d8787f3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDQxNDVERTVFM0RGMENENUUzN0IzNzAxMDgxRjBCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QxNDJEODcwNzI2RDg0RDg1NDA0NjFEMTA5NDdFMkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4xvn826KDBRUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLth7YnbiNWD3Rsp4JKFyjoQjNOvWZwB2Umwy6PdigJ8A&oe=6ABC5887"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/623964791_2055821241652273_4097603757611943590_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MfObfcAFX8AQ7kNvwG5rQln&_nc_oc=AdqJlUiPL5iQyzn0dvglHfw_HxLkantx3xvHeYMsqmOAjKLNLPuUtJutly4lmffc0_M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJYDUlYalp6S6UPp__072oulRGU-4kdQ2vAwM66J7JOWQ&oe=6ABC2C9B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP5NaOjKqbtYzfV83xvBGFrap9ge8LRsFopyuaKcAypGYIrJbiPrq4BC3gPYb16U8eHsfI9cKdLhBjTXWYli3wTjTsNTiISxp91HEzHSaR2bw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1Hc8IfT7D6cQ7kNvwGs3OFk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMDYxNDAxNjgzMTI0MTgsImFzc2V0X2FnZV9kYXlzIjoyMzcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=390e5a3b1d56a89a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjQ5NDMyNzQ3QTgwODNDOEMwQUU4OEZCQjUwOUZBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ5NEEwRDIyMDAzRTMyNTRERUQ4MjZDMTZCNTdGNkI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE2cDEzL6kBBUCKAJDMywXQDcIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLVGC4iyw9Ar-ctVpt2Hzq5Tq1TJZo-xKxIhyTr428YNA&oe=6ABC4DBF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=876200268459427"
+      },
+      {
+        "id": "856898230683830",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619696195_2418774478568053_6917733158326719966_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qiOImMBRvSQQ7kNvwFA6tpT&_nc_oc=AdrFWFKP3K_rXGc7R6fXmquc45hk3yiYIJVdQ7oTCTxXiZEWdAPI8dktGjVl7GmYkEo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLoMZWgC8NHEA6NKeOOBTjo_qQKLkigKwO96EpZE269tw&oe=6ABC6107",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622228056_4407857466152658_7457490561532679389_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UQSBebt7n7AQ7kNvwGpigvp&_nc_oc=AdopItvMfRmjCHQJLcnCvSvPm4X31Ua1pep6mMrObqUP98dbQCQJLuFrN5nJKllw8No&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLpKkZi6hZFTJEZ8T0ioF6q6Xe0Z2aVP7BT6jYljomfdA&oe=6ABC592B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622158900_2622541711465480_3164177031732607018_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WVuKYOOrtEYQ7kNvwGclBk2&_nc_oc=AdqEuJXHg1aS5rj8qsleNEgA5etqPPUJsL6WkomCkVGmNUqDTl_lVGnlFsUhdIxWntA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQL9kVMJJ3g7oeVRHqhPsJnHcjsoq3URcknB8X67suULdA&oe=6ABC5768"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=856898230683830"
+      },
+      {
+        "id": "1351309253351041",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/623400512_866276306405171_929170448472736678_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LahFSyc5_m4Q7kNvwHG6UUl&_nc_oc=AdoYolEtUDQxWF2KD6xC5SgnK-BzQlgNiwRQn7NGzXu7aL0dJp9mDupHP_BW9a_YMiI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLAJ88xKc1eQ42YdYi4OBwg1DtFTR7NSdXO2REj9uD2EA&oe=6ABC5274",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619320201_1650643529266403_8548115799343434723_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bti-Ti2Jl04Q7kNvwHywDy4&_nc_oc=Adr_iIJYlYAsWgmt1Zikpltgn9G7oMjUzJ3DW6ux5166gX9UKyXELJCQlL9Je4hox8E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKFiRHtB8vJqqKno6YKpNh2qyr6LzIimt2G1s4gxtauGw&oe=6ABC4A11",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619199538_923950873407166_3062495375993062187_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKNownJAOdwQ7kNvwHvcPM6&_nc_oc=AdpnptXz47p7aEWs-KxGJtrQDvsnUqxzjf3o3FOzQaFtCtjfJ9Mo7t71BaNoRahVKfA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQKx8AwAopFb33RxqYLnPz7QCT7yB07N6UabFJAmmOzRZQ&oe=6ABC54C1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1351309253351041"
+      },
+      {
+        "id": "25937982679128887",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622799337_1598120667982833_7289037452832140303_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uFVFQHH5o5UQ7kNvwHH6dKa&_nc_oc=Adopl9_h8d3mhsSpUBmbZwDflXL-HH6RbeylrE71EH04KvpfKaGHq45fg-ENBgzYMxI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLJFZ2cATaDG68yFYs3uqqqA3OqnyEvGAdp4J8KTTuOEw&oe=6ABC597D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622800179_947171271820211_3984727357130011853_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RcclOj3POvQQ7kNvwHxEuip&_nc_oc=Adqp-Vf_GLrCPKsKAKRnGJh0cWCJP4kLWH6SdkWVdtHk8YMOYajyUoQTNdiVIi60lxI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLX7us-Bq8cB-cPUcH0Ch2CXxlLNVjz-kh9jzRpls45Tg&oe=6ABC4A26",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622809356_25607756552216267_3876565824382139544_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4aeMZMa1NngQ7kNvwGnAq5Y&_nc_oc=AdreOcQZ5YSpmB4ShsT2u2SLFDnEpZgfQl3Q-IS1mt2AsMthy07iT9mwsgnlaW4pU28&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQIv73goJzeYA9LMIj1bd7v80PLXMiiyK_ZwjAaBbZtm4g&oe=6ABC43AA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25937982679128887"
+      },
+      {
+        "id": "882656941218978",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/623109732_2065282964015975_1370515745131198525_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I8RXvBHCK3EQ7kNvwGlMacC&_nc_oc=AdoPvGo5yK0DAFpmVmpe_2PUQwpmofzGlz_hfLsE5XX3l2GqMhr5k5knogUNp0SFNTM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJRWdQMNJvUe-Y7RRhGK4RkiEhibvhbo1vWOkCGM_LWLw&oe=6ABC4AB1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622839288_887687620849520_5391747179565982617_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BI2QAPYYt_wQ7kNvwGdV4nf&_nc_oc=Adr_lHugxedESKhtoXxeWU-5C-yhpI8Yv_Ejq3blsstrtYy6OaAuX7pMqX9OMelTPNw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQLom_rK8_RkqY9tVwdYyMsmEDfSMjgzTYRF-sDs3q1RFg&oe=6ABC3C62",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621237945_1565290894764655_3097449943736594598_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4XMDCThGqp8Q7kNvwF15rfG&_nc_oc=AdoYvlV9bB-v06WsOmC-3vsvSAByq-GhjvkLe3mX_82EY83UTot39LEm09MZaaw-GzU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQK-qzMfz5-WRlJ5oeSfyzqi5m6bZmuQWfEPlLO8QoqBzg&oe=6ABC4235"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=882656941218978"
+      },
+      {
+        "id": "1869710826988001",
+        "page_id": "105754401257140",
+        "page_name": "Billy",
+        "page_url": "https://www.facebook.com/billiyonline/",
+        "page_like_count": 18675,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://billy-online.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1769587200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621558286_723735897274432_6345620622253237394_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KGAGtasLQjYQ7kNvwG7P-Hw&_nc_oc=AdrNZB41Fy7yX50EM47nsQzRGztBgx0GvAB9Ty21kBbC9UzRuO5KgwYGfWHdNT9vVmc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJjj5Jaq7tk9tyIY6LivehCDO9wa6fVnNv_CNNWVxShxw&oe=6ABC56C9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621833084_1239188681473109_4419694150082794316_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yRDdGHeHQfYQ7kNvwEmTsyN&_nc_oc=Adp__tY2DMB7_JYsyakgJvmzW28w0t57GOHYVK9AwgdrAPz0FrnhlOdPRxdqRq4_688&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQInB6G1cj0afva_fiOPEWdTX-JYZmO02DJ3MRx0AomdDA&oe=6ABC2B4F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/622289477_1400525568470923_1335406365649906205_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FkcLxMOLi7IQ7kNvwENBq5s&_nc_oc=AdqJgGHtD4i0qFyD2qEU1OPC7uaIK1s9u3Yi5kSYgXf2l7EqXwDzvflraDCDXuzVnyw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tN15wlB8gGASP6PMsmzJmQ&_nc_ss=70289&oh=00_AQJBd1DK5TrOCs5jyWwW88Dpv-PxFoabLHcCu8h_0aa4sA&oe=6ABC5B06"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1869710826988001"
+      },
+      {
+        "id": "1579133273342389",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "landing_url": "http://www.billy-online.com/"
+      },
+      {
+        "id": "1273884838248171",
+        "body": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "landing_url": "http://billy-online.com/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1579133273342389",
+        "text": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "links": [
+          "http://www.billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1623930868760944",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1273884838248171",
+        "text": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "855411960699145",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1482666546809695",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "747950741712697",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "876200268459427",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "856898230683830",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1351309253351041",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "25937982679128887",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "882656941218978",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1869710826988001",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1579133273342389",
+        "text": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "links": [
+          "http://www.billy-online.com/"
+        ]
+      },
+      {
+        "ad_id": "1273884838248171",
+        "text": "מוכנים ? המבצעים התעדכנו באתר !\n4 תכשיטים 199₪\n8 תכשיטים 349₪",
+        "links": [
+          "http://billy-online.com/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.billy-online.com/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:11:10",
+    "filtered": "2026-09-25T13:11:21",
+    "unqualified": "2026-09-25T13:14:25"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.billy-online.com/",
+      "https://www.billy-online.com/",
+      "https://www.billy-online.com/search"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "instagram_page"
+    ]
+  }
+}

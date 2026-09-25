@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-25-026",
+  "status": "rejected",
+  "reject_reason": "big brand/chain: bug, באג",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/GoBug/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "120994861272056",
+    "page_name": "BUG באג",
+    "active_ads_count": 1,
+    "search_keyword": "טיפוח",
+    "sample_ads": [
+      {
+        "ad_id": "2237965700271331",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.bug.co.il/therabody?utm_source=facebook&utm_medium=cpc&utm_campaign=therabody",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762008037_1984847015497336_613484014125520486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=42iHWFrqU8IQ7kNvwHtvxFe&_nc_oc=AdrjNxRz4aXMU460BgbVqXS9Q1ZbtoSptBm34i0R0bavdYSRG8fT8Puzy7zkqTpOSq8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQL8WYRlT26IBbSHpa-rkbbtp0Swumu-5bmsuWtRA1RubQ&oe=6ABC5C8D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/761615204_1817240459649956_464045217490334658_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mwFt4URKSWUQ7kNvwG8H_Bn&_nc_oc=Adr9hVTTBZiSDNhcsIItMf0EdusCMFG3jsn6SQ0KS7hl0k0bltb7gceRMhjecMRfmVs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQLltpWJHJELsGfDFT-QFcQ7CCOOtusSHgbNA8ZlK5mvcg&oe=6ABC2AEA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762008037_1984847015497336_613484014125520486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=42iHWFrqU8IQ7kNvwHtvxFe&_nc_oc=AdrjNxRz4aXMU460BgbVqXS9Q1ZbtoSptBm34i0R0bavdYSRG8fT8Puzy7zkqTpOSq8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WslE_wn8BbpWk2GhWx4gwg&_nc_ss=70289&oh=00_AQL8WYRlT26IBbSHpa-rkbbtp0Swumu-5bmsuWtRA1RubQ&oe=6ABC5C8D"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1785654000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2237965700271331"
+      }
+    ],
+    "filter": {
+      "brand_hits": [
+        "bug",
+        "באג"
+      ],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 189605,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2237965700271331"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 189605,
+    "page_categories": [
+      "Retail company"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T12:52:23",
+    "rejected": "2026-09-25T12:53:08"
+  }
+}

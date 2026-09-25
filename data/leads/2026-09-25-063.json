@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-25-063",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/glam42il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "428548227879167",
+    "page_name": "Glam42",
+    "active_ads_count": 1,
+    "search_keyword": "בישום",
+    "sample_ads": [
+      {
+        "ad_id": "1987421075503136",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://glam42.co.il/collections/top-selling-fragrances-sale",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/669769619_2149565465864778_2811942262164357585_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mqx8Vi30wn8Q7kNvwFPKbtO&_nc_oc=Ado6RTAUD_P2NA44BiOXVep5Tll43lfhTVuRLNlgeu_M83_KNOIq2vlob6Q6QSLd8m0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJl9HDtxxfIy5w7BsI6B0y2W1EmpoO8ITdEP8Wr4sipfA&oe=6ABC2D68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/670870108_913866134816748_817360903281089444_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F48QlKWf5WcQ7kNvwG6GwE-&_nc_oc=AdoyajEJsj3BQBIZnI4N7ZPtLy5QtS7aUuwiWhRAVm7gqPcmQrZK2LDwmd1PPjwFcgk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQIZNwp6g5Ikk0CIl3Fe6jxCm2LTLd12nTP0QQKkpTnpqw&oe=6ABC4F77",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/669095146_1281626130733967_9012886152551706165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QcqxAwjpbn4Q7kNvwEA_zR9&_nc_oc=AdpkAM6RMVH3OHaxzvHL2H1lhV5aYn9Lvid1zo7HjFHOcqet8DjJCLnbMxxu4_L9q6Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=1XTcdOWeLsCNd79hi0BLiQ&_nc_ss=70289&oh=00_AQJ01usQiIDebNPowoQK05uTso9tazWUKQkyi2U0o7z52A&oe=6ABC3473"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1776063600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1987421075503136"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 14838,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1987421075503136"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 14838,
+    "page_categories": [
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:05:36",
+    "rejected": "2026-09-25T13:06:26"
+  }
+}

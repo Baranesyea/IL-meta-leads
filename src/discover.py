@@ -1,6 +1,8 @@
 """Stage 1 — DISCOVER Israeli advertisers in the Meta Ad Library.
 
 Backends (config.discovery.backend):
+  playwright  (default) Ad Library search page rendered in Chromium, no login. Returns full
+              ad data: body, landing URL, CTA, media, start date, page likes & categories.
   mcp_import  Meta Ads MCP `ads_library_search` dumps saved by Claude Code into
               data/raw/discover/<date>_<keyword>.json. Verified 2026-09-25: the MCP
               DOES return active IL commercial ads (country=IL, currency ILS).
@@ -73,8 +75,15 @@ def group_by_page(ads: list[dict], keyword: str, page_counts: dict | None = None
             "ad_ids": [],
             "sample_ads": [],
             "currencies": set(),
+            "cta_types": set(),
+            "page_like_count": ad.get("page_like_count"),
+            "page_categories": ad.get("page_categories") or [],
             "search_keyword": keyword,
         })
+        if ad.get("page_url"):
+            p["page_url"] = ad["page_url"]
+        if ad.get("cta_type"):
+            p["cta_types"].add(ad["cta_type"])
         p["ad_ids"].append(str(ad.get("id")))
         if ad.get("currency"):
             p["currencies"].add(ad["currency"])
@@ -84,6 +93,11 @@ def group_by_page(ads: list[dict], keyword: str, page_counts: dict | None = None
                 "link_title": ad.get("ad_creative_link_title") or "",
                 "body": ad.get("body") or "",
                 "landing_url": ad.get("landing_url") or "",
+                "cta_type": ad.get("cta_type") or "",
+                "platforms": ad.get("platforms") or [],
+                "images": (ad.get("images") or [])[:3],
+                "videos": (ad.get("videos") or [])[:1],
+                "collation_count": ad.get("collation_count"),
                 "start_time": ad.get("ad_delivery_start_time"),
                 "snapshot_url": ad.get("ad_snapshot_url")
                                 or f"https://www.facebook.com/ads/library/?id={ad.get('id')}",
@@ -91,6 +105,7 @@ def group_by_page(ads: list[dict], keyword: str, page_counts: dict | None = None
     out = []
     for pid, p in pages.items():
         p["currencies"] = sorted(p["currencies"])
+        p["cta_types"] = sorted(p["cta_types"])
         p["ad_count_in_sample"] = len(p["ad_ids"])
         counts = page_counts or {}
         p["active_ads_count"] = int(counts.get(pid, p["ad_count_in_sample"]))
@@ -151,9 +166,23 @@ def from_apify(keyword: str, cfg: dict) -> list[dict]:
     return group_by_page(ads, keyword)
 
 
+def from_playwright(keyword: str, cfg: dict, browser) -> list[dict]:
+    from .web import flatten_ad
+
+    total, raw = browser.search(keyword, cfg["country"], cfg["discovery"]["max_ads_per_keyword"])
+    ads = [flatten_ad(a) for a in raw]
+    RAW_DISCOVER.mkdir(parents=True, exist_ok=True)
+    (RAW_DISCOVER / f"{today()}_{keyword.replace(' ', '_')}.pw.json").write_text(
+        json.dumps({"source": "ad_library_playwright", "keyword": keyword, "fetched_at": now_iso(),
+                    "estimated_total_count": total, "ads": ads}, ensure_ascii=False, indent=1),
+        encoding="utf-8")
+    log.info("playwright keyword=%r total=%s fetched=%d", keyword, total, len(ads))
+    return group_by_page(ads, keyword)
+
+
 # ---------- entry ----------
 
-def run() -> list[dict]:
+def run(browser=None, keyword: str | None = None) -> list[dict]:
     """Discover new advertisers and register them in the DB as `discovered`."""
     from . import db
 
@@ -168,6 +197,15 @@ def run() -> list[dict]:
             kw = next_keyword(cfg, state)
             log.warning("No new MCP dumps in %s. Ask Claude Code to run ads_library_search "
                         "for keyword %r (country=IL, active) and save the dump.", RAW_DISCOVER, kw)
+    elif backend == "playwright":
+        from .web import AdLibraryBrowser
+
+        kw = keyword or next_keyword(cfg, state)
+        if browser is None:
+            with AdLibraryBrowser() as b:
+                batches = [(None, kw, from_playwright(kw, cfg, b))]
+        else:
+            batches = [(None, kw, from_playwright(kw, cfg, browser))]
     elif backend == "apify":
         kw = next_keyword(cfg, state)
         batches = [(None, kw, from_apify(kw, cfg))]
@@ -187,7 +225,11 @@ def run() -> list[dict]:
                 "ad_ids": adv["ad_ids"],
                 "currencies": adv["currencies"],
                 "sample_ads": adv["sample_ads"],
+                "cta_types": adv["cta_types"],
+                "page_like_count": adv["page_like_count"],
+                "page_categories": adv["page_categories"],
             })
+            lead["contact"]["facebook_page"]["url"] = adv["page_url"]
             db.save_lead(lead)
             new.append(lead)
             added += 1

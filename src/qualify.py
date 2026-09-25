@@ -65,7 +65,19 @@ def normalize_il_mobile(raw: str) -> str | None:
 def _site_from_ads(lead: dict, browser: web.AdLibraryBrowser) -> tuple[str | None, list[str], list[dict]]:
     """Visit up to 3 of the page's ads; return (homepage, landing_urls, ad_texts)."""
     landings, texts = [], []
-    for ad in lead["meta"].get("sample_ads", [])[:3]:
+    # Ad data from the Ad Library search already carries body + landing URL
+    known = lead["meta"].get("page_ads") or []
+    known += [{"id": a["ad_id"], "body": a.get("body", ""), "landing_url": a.get("landing_url", "")}
+              for a in lead["meta"].get("sample_ads", [])]
+    for ad in known:
+        u = ad.get("landing_url")
+        if u and u not in landings:
+            landings.append(u)
+        if ad.get("body"):
+            texts.append({"ad_id": ad["id"], "text": ad["body"][:4000], "links": [u] if u else []})
+    texts = texts[:15]
+    direct = [u for u in landings if not _is(db.normalize_domain(u), web.META_HOSTS + SOCIAL)]
+    for ad in ([] if direct else lead["meta"].get("sample_ads", [])[:3]):
         try:
             html, text = browser.ad_snapshot(ad["ad_id"])
         except Exception as e:  # noqa: BLE001 — keep going on flaky pages
@@ -74,6 +86,9 @@ def _site_from_ads(lead: dict, browser: web.AdLibraryBrowser) -> tuple[str | Non
         links = web.outbound_links(html)
         landings += [u for u in links if u not in landings]
         texts.append({"ad_id": ad["ad_id"], "text": text[:4000], "links": links})
+    # Landing straight on Instagram / WhatsApp is itself a contact source
+    lead["meta"]["social_landings"] = [u for u in landings if _is(db.normalize_domain(u), web.META_HOSTS + SOCIAL)]
+    landings = [u for u in landings if not _is(db.normalize_domain(u), web.META_HOSTS + SOCIAL)]
     # Resolve shorteners / link-in-bio redirects to the real store
     resolved = []
     for u in landings[:4]:
@@ -230,6 +245,13 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         log.info("REJECT %s %s — not a store", lead["lead_id"], domain)
         return
 
+    for u in lead["meta"].get("social_landings", []):
+        if (m := IG_LINK.search(u)) and m.group(1).lower() not in IG_RESERVED:
+            h = m.group(1).rstrip(".").lower()
+            x["ig_links"][h] += 5
+            x["ig_src"].setdefault(h, "ad landing URL (Ad Library)")
+        if (m := WA_LINK.search(u)) and (n := normalize_il_mobile(m.group(1))):
+            x["wa"].append((n, "ad landing URL (Ad Library)"))
     c = lead["contact"]
     # Instagram business page: the handle linked most on the site
     biz_handle = None
@@ -261,8 +283,9 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
     missing = []
     if not c["instagram_page"]["url"]:
         missing.append("instagram_page")
-    if not c["owner_instagram"]["url"] or c["owner_instagram"]["confidence"] == "low":
-        missing.append("owner_instagram")
+    # Owner IG is best-effort (decided 2026-09-25): IG bios can't be read here,
+    # so it doesn't block qualification; Eran completes it from the dashboard.
+    q["owner_instagram_found"] = bool(c["owner_instagram"]["url"]) and c["owner_instagram"]["confidence"] != "low"
     if not c["whatsapp"]["number_e164"] or c["whatsapp"]["confidence"] == "low":
         missing.append("whatsapp")
     q["missing"] = missing
@@ -270,10 +293,13 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
     log.info("%s %s %s missing=%s", "QUALIFIED" if not missing else "UNQUAL", lead["lead_id"], domain, missing)
 
 
-def run(lead_ids: list[str] | None = None) -> list[dict]:
+def run(lead_ids: list[str] | None = None, browser=None) -> list[dict]:
+    if browser is None:
+        with web.AdLibraryBrowser() as b:
+            return run(lead_ids, b)
     leads = [db.load_lead(i) for i in lead_ids] if lead_ids else db.leads_by_status("filtered")
     done = []
-    with web.AdLibraryBrowser() as browser:
+    if True:
         for lead in leads:
             try:
                 qualify_lead(lead, browser)

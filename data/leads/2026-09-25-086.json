@@ -1,0 +1,373 @@
+{
+  "lead_id": "2026-09-25-086",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://jackson.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Jackson.jewelry.RG/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/jackson.jewelry/",
+      "source": "https://jackson.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972549200074",
+      "source": "https://jackson.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "active_ads_count": 6,
+    "search_keyword": "תכשיטים",
+    "sample_ads": [
+      {
+        "ad_id": "794325733111383",
+        "link_title": "{{product.name}}",
+        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+        "landing_url": "https://bit.ly/3J8s9Qq",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwGy1Spw&_nc_oc=AdpJqO4ok43qOk8RU6n_FD88uffuW52_N-gz5KLLc4LAIWYa2AxaFJtmLlZVFNMvhSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJuD_8Z0hFHHTNcf5qN2w18Z8ADLPBS8yv8-C7u_8OnuQ&oe=6ABC2FBC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwGNXQk-&_nc_oc=AdqgQTq-QEQcMnjRBk6Egj5PaDfrCRFFSUZ53x5TbOfY8uvg5tQGeafVRvHL2bPBek0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQIAsM4TSU-wfRmMs6y4uljF5MuIaLiy9EifNKF7U3pH4w&oe=6ABC5F7E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwF8uzUC&_nc_oc=AdpuOZieLkpUb7TBeozXjiyP3og5O2iCQJ0L5KJBZN5ox3sQF9VkT7HDszg49bweoGY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJFIQhbU43-MC0q5PxLqck1E-oi0fxz8bmut50k-LKPDg&oe=6ABC43FE"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1772179200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "ORDER_NOW"
+      ],
+      "page_like_count": 36131,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "794325733111383"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "ORDER_NOW"
+    ],
+    "page_like_count": 36131,
+    "page_categories": [
+      "Jewelry"
+    ],
+    "page_ads": [
+      {
+        "id": "794325733111383",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+        "link_description": "<strong>עגילי יהלום מעבדה CVD </strong> גודל אבן משתנה לבחירה ניתן להזמין גם בזהב צהוב/לבן 14",
+        "landing_url": "https://bit.ly/3J8s9Qq",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1772179200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwHSolmN&_nc_oc=AdoMO6z_D-txYZAhxf6YwqOBZKpqw8bpt6xprEi-d2mb7Ff-KUtlFsB_OzNzKXaQ82U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJ8LDHj1loJpu5FJ107uLp4JZVKnVx05otPVa_jilxneQ&oe=6ABC43FE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/577487155_1908217143440677_6703941672142534682_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZFj2vI6Bj0Q7kNvwHF01KA&_nc_oc=AdoOwhQzYn4DfmlU0tcqQxlkMNBTuynAfmYVH9FG28bFVvMorbu0f3fIm8w4Qbch218&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJhmLWymQX4sSRY9xcTq7klWIhnqd3xZ549bDLgOg8uDg&oe=6ABC604C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576794168_766348959698212_1886621066863864200_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJB96quoGLAQ7kNvwHUYNLY&_nc_oc=AdogrMID0ihnTU7FXsC-WXnoeseaCBcu0ZKixX6QwaKubdNLnvlWBHBy1-Vsn80_6UI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJvl3PVl_J_XBFbmk_TvRJvkSnYsMX-Th46T5c1jzXc6A&oe=6ABC359F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576467325_24732665909769939_2764500602641821820_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bClBtVEhNksQ7kNvwEsEUR5&_nc_oc=AdqnS9WkyQ5jXmVr9xVUY1VxlnLVY4N3jOqreVWrVxPjDgBPOMmEmKiYwu3yKoP_tQ4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJO8LawDUw7dqmPajM-QZJQjQcwaSpRZoRadin6ot2ViQ&oe=6ABC4D78",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwG53l5S&_nc_oc=Adry-lk5xuPnW9cJmTnth9NwxsTObloO-eIF40F3A-np4aa9Ty61ZN0n92Ch0HBHqQM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJBQlmS-rruQ6qveBy7865NndT6pmjPeX1VHyU7tJWmqg&oe=6ABC2FBC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwETyfSK&_nc_oc=AdofCGyrDRL1plpZSeCRn9O_Em33AH_VGnrtESBRzuXpkL_jnqsGgYBRo8Koid1vU7g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLwS62Z0_IVxdI7zrHFy-q0CHv19s5Q8Dac0-PKNDeDrQ&oe=6ABC5F7E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
+      },
+      {
+        "id": "2226343788199827",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "ג'קסון תכשיטים",
+        "body": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
+        "link_description": " ",
+        "landing_url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1782457200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616815186_1439875027665524_2721233967584999717_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KX89y6o6-RYQ7kNvwFCm3ox&_nc_oc=AdouwTkX5_lwLUKFIIkW0W-JTqGpdrLK_OdqUN7Zz_vpWA2mEoz7uA47DkoK3fjf1-E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJs4wRVO4EkPIXWs6nX8vMoprBgunPTC9Vznp1-w2dIXA&oe=6ABC3D37",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618231354_1404173934595538_8784800191154714504_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1SdkQNg_wrwQ7kNvwGOE8R4&_nc_oc=Adp2-O004n9FSlR9gQ3NCRMUCrEYZ5EZxYY4qG3eGE5ypIJAXj2ZvBglshcbZC6wDjg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJuJnViyAZoNfRsAuTLwGy2mueoCh8XIMEgzpe5rvzycA&oe=6ABC5E70",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617022378_1512847769816350_2111358096828501117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bKFCiy2A2n4Q7kNvwEg38NZ&_nc_oc=AdoJ8FXaDIO_TNWFUWnZGV84nZWobWXg59vUk0ZV-gdoQ5UW9KSGugPvAzcuJxCnE5U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLg7iCoujiriKFE13ms5jhFUye7YRDfE7hyIcD6c0m19w&oe=6ABC37C7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618583930_1530680561560405_7012197903916934647_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WTURxPV7uLAQ7kNvwFx_iXo&_nc_oc=Adq7TLkC4M1q6dT2z0PXtO1Vzq45t15R0-r1MLxBe2UxiraXrpLetRwbYPEQiivc3kk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIB53UYAELxDDkorWe9KzfzBWrQPh5H0x_lmk14TZwTGg&oe=6ABC48C4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616802936_2019859131921832_7000771741310548304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86X3ZuRHB1QQ7kNvwF7Ws7c&_nc_oc=AdpwjtbmlN5ZRoxg4OzInVV7EVN6v0oB4MIXfZFnpZTJ8vdH4z4a6P1rNvu1QF1eWi0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLzxT7jujgdhxC7INzK21oBMV1MM6-a_OMUPK-Pcaz2Aw&oe=6ABC2C68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617076126_1544920653247477_7787971640006617293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QS3yFhQNwGQQ7kNvwFvUcwQ&_nc_oc=AdqUY4MC1tf6YVMI_bE4ycgJVp2WZ6RDKT0L8glAcOhPck3zSAwVHRHEbT7sB_Ci5N4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKkbTOgHhooKUHOG9QEX6iebSDEmagDx-knG-XMoZG45Q&oe=6ABC2C60",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618418491_2096969164476157_2294364744464291888_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kStfXmDf1eAQ7kNvwFecoDD&_nc_oc=Adq7BKTrVqOCjVG6UljNZexTkOyknRJ0uyNcrPTFP1hmxSdR3jO1ZvwBk0Ak4m0Ol_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJh7zRQ7FQF3IB7Bp69zrsEUTRs5WnbOHMqA6pw8aJQLg&oe=6ABC4774"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2226343788199827"
+      },
+      {
+        "id": "1505369600979671",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "תכשיטים"
+        ],
+        "ad_creative_link_title": "טבעת יהלומים – סולארה",
+        "body": "",
+        "link_description": "<strong>טבעת זהב 14K עם שיבוצי יהלומים </strong> משקל אבן מרכזית : 0.51 ואבנים צדדיות :0.21 | צבע: F | ניקיון: VS1<strong> </strong>ניתן לבחור בזהב צהוב | לבן *למידה גדולה מ-20, נא לרשום בהערות בתו...",
+        "landing_url": "https://bit.ly/4d6FjwP",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778137200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689015868_1179241037626393_1093065598453126213_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9J-l94tRKYQ7kNvwFkD5Qb&_nc_oc=Adpo4v4T5sAkG6tWjiEB1ic3tFOEo5wg99MSYce6oTBkV-MHf4EUg6Rrry6OhDCb5Ko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKX-XyFeKuWDOHSTFeeTzDRZ5vgOKkQphMNNhCz7wwmVQ&oe=6ABC5F2A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1505369600979671"
+      },
+      {
+        "id": "977078085188458",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://bit.ly/3Py45y6",
+        "cta_type": "SUBSCRIBE",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779001200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701020019_1869241177083601_3717946382405565828_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJIgeffLvFQQ7kNvwHn7peM&_nc_oc=AdpQVkHJGeqRWxgkKysarVvS_JMZdOSkN29Zs6h8rZQ8Z7tV0nYHQYMmt2skisixukw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJEHNvMZx7xDrH8UwWBnrwW0Z6oPY0qAiD2aGAzZMTvgQ&oe=6ABC499B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701293482_2138964353691048_9072326960830004641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOZ7REEznqAQ7kNvwF18gTb&_nc_oc=AdrGaVk6QRFq2f5S9nt3BIFP-BKDXRtiRaG0OhLRupWtuLJBmPOHlP3JcArUI1NkiOs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIrFA_9foLxrvRhv0PERYaPfRkspU5s3_ZZayopW5MW6Q&oe=6ABC4DC9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=977078085188458"
+      },
+      {
+        "id": "1437107998321957",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "מבצע חגים בג'קסון תכשיטים",
+        "body": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
+        "link_description": "טבעות זהב, תליוני יהלום, עגילים וצמידים בעבודת יד. תכשיטים עם מגע אישי, שילוב של יוקרה ודיוק.",
+        "landing_url": "https://tinyurl.com/5n74b2ud",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799143008_1757345841851009_3254700217103200610_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JPRwiBS4om8Q7kNvwE9Um2r&_nc_oc=Adq5i0vguPX6gFMHeU7I7X9BKKGdbf1pyqqeGI_71HC6g_rTyhQH4xgOrccFIEdT3pI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLVST0_WnnNxCdmrvpc1alGpHdNOK1Eln3U5ddHHUMMcg&oe=6ABC49AE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1437107998321957"
+      },
+      {
+        "id": "28454913314174459",
+        "page_id": "1548314218819146",
+        "page_name": "ג'קסון תכשיטים",
+        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+        "page_like_count": 36131,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812065042_1404242221679912_7023666577045831278_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DSCyyJXw8qQQ7kNvwEmOw8s&_nc_oc=Ado7R_OocihUI0sZl18-KJm7mUDb5QpL---xJp__tMxAZR7Kc-BGVqRnGO5byfgtjOQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLvR1HDS89_6UJoeV26xHnnn5LWXJkwggChibPFayUUGA&oe=6ABC57B5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28454913314174459"
+      },
+      {
+        "id": "794325733111383",
+        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+        "landing_url": "https://bit.ly/3J8s9Qq"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "794325733111383",
+        "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+        "links": [
+          "https://bit.ly/3J8s9Qq"
+        ]
+      },
+      {
+        "ad_id": "2226343788199827",
+        "text": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
+        "links": [
+          "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "977078085188458",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://bit.ly/3Py45y6"
+        ]
+      },
+      {
+        "ad_id": "1437107998321957",
+        "text": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
+        "links": [
+          "https://tinyurl.com/5n74b2ud"
+        ]
+      },
+      {
+        "ad_id": "28454913314174459",
+        "text": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
+        "links": []
+      },
+      {
+        "ad_id": "794325733111383",
+        "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+        "links": [
+          "https://bit.ly/3J8s9Qq"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
+      "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+      "https://jackson.co.il/product-category/new/?utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94&utm_id=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94",
+      "https://hub.flashy.app/lp.html?hash=MjUxNDo1OTM1OQ%3D%3D&utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA&utm_id=%D7%A4%D7%95%D7%A4%D7%90%D7%A4+%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-25T13:11:10",
+    "filtered": "2026-09-25T13:13:39",
+    "qualified": "2026-09-25T13:19:06"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://jackson.co.il/",
+      "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
+      "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}
