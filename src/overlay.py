@@ -36,21 +36,23 @@ ZONES = {  # (x, y, w, h) as canvas fractions. RTL: text starts on the right.
     "top_left":     (0.06, 0.06, 0.54, 0.30),
     "bottom_right": (0.40, 0.64, 0.54, 0.28),
     "bottom_left":  (0.06, 0.64, 0.54, 0.28),
+    "mid_right":    (0.50, 0.00, 0.44, 0.28),   # beside the subject, at any height
+    "mid_left":     (0.06, 0.00, 0.44, 0.28),
 }
 SAFE_916 = (250 / 1920, 340 / 1920)  # Stories/Reels UI
 
 DIRECTIONS = {
-    "contrast": dict(zones=["top_right", "top_left", "bottom_right", "bottom_left"], big=True),
+    "contrast": dict(zones=["top_right", "top_left", "bottom_right", "bottom_left", "mid_right", "mid_left"], big=True),
     "quiet":    dict(zones=["bottom", "top"], big=False),
     "stack":    dict(zones=["top", "bottom"], big=True),
-    "note":     dict(zones=["top", "bottom", "top_right", "top_left"], big=False),
+    "note":     dict(zones=["top", "bottom", "top_right", "top_left", "mid_right", "mid_left"], big=False),
     "cover":    dict(zones=["top", "bottom"], big=True),
     "panel":    dict(zones=[], big=False),
-    "label":    dict(zones=["top_right", "top_left", "bottom_right", "bottom_left"], big=False),
+    "label":    dict(zones=["top_right", "top_left", "bottom_right", "bottom_left", "mid_right", "mid_left"], big=False),
 }
-ORDER = ["contrast", "quiet", "panel", "stack", "note", "cover", "label"]
+ORDER = ["contrast", "quiet", "stack", "note", "cover", "label"]   # panel: legacy only, never chosen
 BUSY = {True: 23.0, False: 31.0}   # max zone detail score for big / small type
-MAX_PANELS = 4                       # per lead — panels are the safe fallback, not the look
+MAX_PANELS = 0                       # Eran: a photo cut short by a colour strip is not premium — full bleed only
 
 
 def _canvas(img_path: str, w: int, h: int) -> Image.Image:
@@ -67,31 +69,29 @@ def _skin_ratio(im: Image.Image) -> float:
     return skin / len(px)
 
 
-def _zone_box(name: str, w: int, h: int, fmt: str, protect=None) -> tuple[int, int, int, int] | None:
-    """Zone in px. With protected regions, the zone is cut to the free band above/below them
-    (text lives in the space the product leaves, not in a fixed slot). None = no room."""
-    x, y, zw, zh = ZONES[name]
+def _zone_boxes(name: str, w: int, h: int, fmt: str, protect=None) -> list[tuple[int, int, int, int]]:
+    """Candidate text boxes (px) for a zone: the zone's column slid vertically over the canvas
+    (top zones in the upper half, bottom zones in the lower half, mid zones anywhere), at full
+    height first and shorter if needed, keeping clear of every protected region (product, faces,
+    hands). Text lives in whatever space the photo leaves — never a strip cut off the photo."""
+    x, y0, zw, zh0 = ZONES[name]
     top_m, bot_m = SAFE_916 if fmt == "9:16" else (0.05, 0.05)
-    if protect:
-        py0 = min(r[1] for r in protect)
-        py1 = max(r[3] for r in protect)
-        gap = 0.025
-        if name.startswith("top"):
-            y, y1 = top_m, py0 - gap
-        else:
-            y, y1 = py1 + gap, 1 - bot_m
-        zh = y1 - y
-        if zh < 0.12:                       # not enough air for type
-            return None
-        zh = min(zh, 0.34)
-        if name.startswith("bottom"):
-            y = y1 - zh
-    else:
-        if fmt == "9:16":
-            y = max(y, top_m)
-            if y + zh > 1 - bot_m:
-                y = 1 - bot_m - zh
-    return int(x * w), int(y * h), int((x + zw) * w), int((y + zh) * h)
+    out = []
+    for zh in (zh0, 0.22, 0.17, 0.14):
+        if zh > zh0:
+            continue
+        ys = [top_m + i * 0.02 for i in range(int((1 - bot_m - zh - top_m) / 0.02) + 1)]
+        for y in ys:
+            if name.startswith("top") and y > 0.5 - zh / 2:
+                continue
+            if name.startswith("bottom") and y + zh / 2 < 0.5:
+                continue
+            box = (int(x * w), int(y * h), int((x + zw) * w), int((y + zh) * h))
+            if all(_overlap(box, r, w, h) <= 0.02 for r in (protect or [])):
+                out.append(box)
+        if out:
+            return out
+    return []
 
 
 def detect_faces(canvas: Image.Image) -> list[tuple[float, float, float, float]]:
@@ -134,18 +134,21 @@ def find_zone(canvas: Image.Image, fmt: str, allowed: list[str], people: bool = 
     edges = gray.filter(ImageFilter.FIND_EDGES)
     best = None
     for name in allowed:
-        box = _zone_box(name, w, h, fmt, protect)
-        if box is None:
-            continue
-        sbox = tuple(v // 4 for v in box)
-        lum = ImageStat.Stat(gray.crop(sbox))
-        score = (ImageStat.Stat(edges.crop(sbox)).mean[0] + 0.35 * lum.stddev[0]
-                 + (60 * _skin_ratio(small.crop(sbox)) if people else 0))  # skin looks "empty" to edges
-        # product / faces / hands: text may not touch them at all
-        if any(_overlap(box, r, w, h) > 0.02 for r in (protect or [])):
-            score += 1000
-        if best is None or score < best[3]:
-            best = (name, box, lum.mean[0], score)
+        boxes = _zone_boxes(name, w, h, fmt, protect)
+        forced = not boxes
+        if forced:   # no clear spot: the plain zone, flagged so callers only take it as a last resort
+            boxes = _zone_boxes(name, w, h, fmt, None)[:1] or []
+        for box in boxes:
+            sbox = tuple(v // 4 for v in box)
+            lum = ImageStat.Stat(gray.crop(sbox))
+            score = (ImageStat.Stat(edges.crop(sbox)).mean[0] + 0.35 * lum.stddev[0]
+                     + (60 * _skin_ratio(small.crop(sbox)) if people else 0))  # skin looks "empty" to edges
+            # edge placement reads as deliberate layout; the exact middle of the frame does not
+            score += 6 * (1 - abs((box[1] + box[3]) / 2 / h - 0.5) * 2)
+            if forced:
+                score += 1000
+            if best is None or score < best[3]:
+                best = (name, box, lum.mean[0], score)
     return best if best else (None, None, 0, 10_000)
 
 
@@ -184,7 +187,7 @@ def _palette(canvas: Image.Image) -> tuple[str, str]:
 
 LIGHT_INK, DARK_INK = "#f4ecdf", "#1f1812"
 MIN_CONTRAST = {True: 4.5, False: 7.0}   # big Black type: WCAG AA; thin/script/small type: AAA
-MAX_SCRIM = 0.62            # beyond this a scrim looks like a dirty cloud → use a plate
+MAX_SCRIM = 0.82            # full-width gradient only — no boxes/plates behind text (Eran: "a compromise")
 
 
 def _lin(v: float) -> float:
@@ -199,7 +202,7 @@ def _contrast(l1: float, l2: float) -> float:
 
 def legibility(canvas: Image.Image, box, big: bool = False) -> dict:
     """Measure the real pixels under the text box and pick ink + the least cover that keeps
-    every pixel behind the text at >= MIN_CONTRAST: none, a scrim of the needed strength, or a plate.
+    every pixel behind the text at >= MIN_CONTRAST: a full-width gradient scrim of the needed strength.
     Worst case = 95th/5th luminance percentile of the box (so a bright highlight can't hide a word)."""
     g = canvas.convert("L").crop(tuple(int(v) for v in box)).resize((96, 96))
     px = sorted(g.getdata())
@@ -220,10 +223,7 @@ def legibility(canvas: Image.Image, box, big: bool = False) -> dict:
             break
     need = 0.9 if need is None else need
     rgb = "0,0,0" if dark_bg else "250,246,238"
-    if busy or need > MAX_SCRIM:
-        alpha = round(max(need, 0.66 if dark_bg else 0.8), 2)
-        return dict(ink=ink, plate=True, plate_bg=f"rgba({rgb},{alpha})", scrim=f"rgba({rgb},0)", luma=mean)
-    alpha = round(max(need + 0.08, 0.18), 2)     # small safety margin; never a naked overlay
+    alpha = round(min(max(need + 0.08, 0.18) + (0.1 if busy else 0), MAX_SCRIM), 2)
     return dict(ink=ink, plate=False, plate_bg=None, scrim=f"rgba({rgb},{alpha})", luma=mean)
 
 
@@ -252,7 +252,7 @@ def _fonts() -> dict:
 
 
 def choose_direction(canvas: Image.Image, fmt: str, preferred: list[str], people: bool = False,
-                     allow_panel: bool = True, protect=None) -> tuple[str, dict]:
+                     allow_panel: bool = True, protect=None, force: bool = False) -> tuple[str, dict]:
     """First preferred direction whose best zone is empty enough; `panel` always fits.
     Without a panel allowance, take the overlay direction with the emptiest zone."""
     best = None
@@ -263,7 +263,7 @@ def choose_direction(canvas: Image.Image, fmt: str, preferred: list[str], people
                 return d, {}
             continue
         zone, box, luma, score = find_zone(canvas, fmt, spec["zones"], people, protect)
-        if score >= 1000:
+        if score >= 1000 and not force:
             continue
         if score <= BUSY[spec["big"]]:
             return d, dict(zone=zone, box=box, luma=luma)
@@ -291,7 +291,7 @@ def render(jobs: list[dict]) -> list[str]:
             # a single pre-chosen overlay direction is final (render_lead already weighed it)
             final = len(j["directions"]) == 1 and j["directions"][0] != "panel"
             direction, z = choose_direction(canvas, fmt, j["directions"], j.get("people", False),
-                                            allow_panel=not final, protect=j.get("protect"))
+                                            allow_panel=not final, protect=j.get("protect"), force=final)
             box = z.get("box", (0, 0, w, h))
             paper, ink = _palette(canvas)
             obj_pos, panel_side = "center", "right"
@@ -299,9 +299,9 @@ def render(jobs: list[dict]) -> list[str]:
             if direction == "panel":
                 panel_side, obj_pos = _panel_side(canvas, fmt)
             else:
-                leg = legibility(canvas, box, DIRECTIONS[direction]["big"])   # measured contrast → ink + scrim strength or plate
+                leg = legibility(canvas, box, DIRECTIONS[direction]["big"])   # measured contrast → ink + scrim strength
                 ink = leg["ink"]
-            top = box[1] < h / 2
+            top = (box[1] + box[3]) / 2 < h / 2
             plate = leg["plate"]
             brand_color = brand_line(canvas, top if direction != "panel" else False)
             params = dict(w=w, h=h, direction=direction,
@@ -345,13 +345,23 @@ def render_lead(lead: dict) -> list[str]:
         forced = ad.get("layout", {}).get("direction")
         rot = ORDER[k % len(ORDER):] + ORDER[:k % len(ORDER)]
         k += 1
-        prefs = [forced] if forced else [d for d in rot if d not in taken]
+        # least-used looks first (stable within the rotation) so the 20 ads spread across all directions
+        count = {d: sum(1 for j in jobs if j["directions"] == [d]) for d in ORDER}
+        prefs = [forced] if forced else sorted([d for d in rot if d not in taken], key=lambda d: count[d])
         people = ad.get("has_people", False)
         canvas = _canvas(str(raw), *SIZES[ad["format"]])
         protect = list(ad.get("protect") or []) + (detect_faces(canvas) if people else [])
         n_panels = sum(1 for j in jobs if j["directions"] == ["panel"])
         direction, _ = choose_direction(canvas, ad["format"], prefs, people,
                                         allow_panel=n_panels < MAX_PANELS, protect=protect)
+        if direction == "panel" and forced:                     # a hand-picked look wins, in its least-bad spot
+            direction = forced
+        if direction == "panel" and n_panels >= MAX_PANELS:   # nothing clear among the unused looks
+            direction, _ = choose_direction(canvas, ad["format"], ORDER, people, allow_panel=False,
+                                            protect=protect)
+        if direction == "panel" and n_panels >= MAX_PANELS:   # every zone touches the subject: least bad
+            direction, _ = choose_direction(canvas, ad["format"], ORDER, people, allow_panel=False,
+                                            protect=protect, force=True)
         taken.append(direction)
         jobs.append(dict(img=str(raw), out=str(base / ad["image"]), headline=ad["overlay"],
                          sub=ad.get("overlay_sub"), note=ad.get("note"), signature=signature,

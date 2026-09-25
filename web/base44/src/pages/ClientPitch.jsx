@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { useParams } from "react-router-dom";
 import { REPORTS } from "@/reports/data";
 import AdCanvas from "@/components/AdCanvas";
@@ -14,6 +14,10 @@ const CSS = `
 .bp .reveal.in{opacity:1;transform:none}
 .bp .eyebrow{font-weight:400;font-size:15px;letter-spacing:.08em;color:var(--gold)}
 .bp .script{font-family:Idealist,cursive;font-weight:400}
+/* typing: the untyped rest keeps its space (no layout jump), a thin caret leads */
+.bp .ty-rest{color:transparent;text-shadow:none}
+.bp .ty-caret{display:inline-block;width:.06em;min-width:2px;height:.82em;margin:0 .04em;background:currentColor;vertical-align:-.06em;animation:blink .9s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
 
 /* top bar — transparent over the hero, ivory after scroll */
 .bp .bar{position:fixed;inset:0 0 auto 0;z-index:40;height:74px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 28px;
@@ -32,7 +36,8 @@ const CSS = `
 .bp .hero .shade{position:absolute;inset:0;background:
   linear-gradient(270deg,rgba(7,6,5,.78) 0%,rgba(7,6,5,.35) 42%,rgba(7,6,5,0) 70%),
   linear-gradient(0deg,rgba(7,6,5,.55) 0%,rgba(7,6,5,0) 35%)}
-.bp .hero .copy{position:absolute;right:0;bottom:0;z-index:3;padding:0 6vw 11vh;max-width:760px}
+.bp .hero .copy{position:absolute;right:0;bottom:0;z-index:3;padding:0 6vw 11vh;max-width:760px;text-shadow:0 2px 24px rgba(0,0,0,.45)}
+.bp .hero .eyebrow{color:#efe2c4;font-size:17px;letter-spacing:.06em}
 .bp .hero h1{margin:18px 0 0;line-height:.9}
 .bp .hero h1 .b{display:block;font-weight:900;font-size:clamp(58px,9.4vw,150px);letter-spacing:-.015em}
 .bp .hero h1 .l{display:block;font-weight:300;font-size:clamp(50px,8vw,128px)}
@@ -41,17 +46,18 @@ const CSS = `
 .bp .fadein{animation:fu 1.6s cubic-bezier(.2,.7,.2,1) both}
 .bp .d1{animation-delay:.25s}.bp .d2{animation-delay:.55s}.bp .d3{animation-delay:.9s}.bp .d4{animation-delay:1.3s}
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
-@media (max-width:760px){.bp .hero .shade{background:linear-gradient(0deg,rgba(7,6,5,.9) 0%,rgba(7,6,5,.2) 60%,rgba(7,6,5,0) 100%)}.bp .hero .line{display:none}}
+@media (max-width:760px){.bp .hero .shade{background:linear-gradient(0deg,rgba(7,6,5,.92) 0%,rgba(7,6,5,.78) 32%,rgba(7,6,5,.35) 58%,rgba(7,6,5,0) 78%)}
+  .bp .hero .copy{padding:0 22px 9vh}.bp .hero .eyebrow{font-size:15px}}
 
 /* campaign marquee */
 .bp .marquee{padding:90px 0 70px;background:var(--paper);overflow:hidden}
 .bp .marquee .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:38px}
 .bp .marquee h2{font-weight:900;font-size:clamp(34px,4.4vw,64px);margin:10px 0 0;line-height:1}
 .bp .marquee h2 span{font-weight:300}
-.bp .track{--h:clamp(300px,34vw,440px);display:flex;gap:22px;width:max-content;align-items:flex-start;animation:mq 70s linear infinite}
-.bp .track:hover{animation-play-state:paused}
+.bp .strip{--h:clamp(360px,34vw,440px);direction:ltr;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;touch-action:pan-x pan-y}
+.bp .strip::-webkit-scrollbar{display:none}
+.bp .track{display:flex;gap:22px;width:max-content;align-items:flex-start;padding:0 11px 40px}
 .bp .track .it{height:var(--h);width:calc(var(--h) * var(--ar));flex:none;box-shadow:0 26px 50px -30px rgba(30,20,10,.55)}
-@keyframes mq{from{transform:translateX(0)}to{transform:translateX(50%)}}
 
 /* editorial split */
 .bp .split{display:grid;grid-template-columns:1.05fr .95fr;min-height:92vh;background:var(--ivory)}
@@ -62,7 +68,11 @@ const CSS = `
 .bp .split h2 .l{display:block;font-weight:300;font-size:clamp(40px,5.2vw,84px)}
 .bp .split p{font-weight:300;font-size:20px;line-height:1.75;color:var(--muted);max-width:40ch;margin:30px 0 0}
 .bp .split .price{margin-top:34px;font-weight:900;font-size:20px;letter-spacing:.04em}
-@media (max-width:900px){.bp .split{grid-template-columns:1fr}}
+@media (max-width:900px){.bp .split{display:block;position:relative;min-height:100svh;overflow:hidden;color:#f4eee4}
+  .bp .split .img{position:absolute;inset:0;min-height:0}
+  .bp .split .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(7,6,5,.9) 0%,rgba(7,6,5,.7) 38%,rgba(7,6,5,0) 70%)}
+  .bp .split .txt{position:absolute;inset:auto 0 0 0;z-index:2;padding:0 22px 12vh}
+  .bp .split p{color:rgba(244,238,228,.86)}.bp .split .eyebrow{color:#efe2c4}}
 
 /* full-bleed quote band */
 .bp .band{position:relative;height:88vh;min-height:560px;overflow:hidden;color:#f4eee4;display:flex;align-items:center}
@@ -98,14 +108,12 @@ const CSS = `
 .bp .angle .hook{font-weight:300;font-size:clamp(24px,2.6vw,36px);margin:14px 0 0}
 .bp .angle .idea{font-weight:300;font-size:19px;line-height:1.75;color:var(--muted);max-width:62ch;margin:18px 0 0}
 .bp .ads{display:flex;flex-direction:column;gap:22px}
-.bp .ads .row{display:flex;gap:22px;align-items:stretch}
+.bp .ads .row{display:flex;gap:22px;align-items:flex-start}
 .bp .ads .card{min-width:0}  /* flex-grow set inline: aspect ratio × 100 (grow factors < 1 would leave the row half empty) */
-.bp .card{cursor:zoom-in;background:#fff;box-shadow:0 22px 44px -26px rgba(40,25,10,.45);transition:transform .6s cubic-bezier(.2,.7,.2,1),box-shadow .6s}
-.bp .card:hover{transform:translateY(-8px);box-shadow:0 36px 70px -28px rgba(40,25,10,.55)}
-.bp .card .cap{padding:16px 18px 20px}
-.bp .card .cap b{font-weight:900;font-size:18px;display:block}
-.bp .card .cap span{font-weight:300;font-size:14px;color:var(--muted)}
-@media (max-width:540px){.bp .angle .head{grid-template-columns:1fr;gap:6px}.bp .ads,.bp .ads .row{gap:14px}}
+.bp .card{cursor:zoom-in;box-shadow:0 22px 44px -26px rgba(40,25,10,.45);transition:transform .6s cubic-bezier(.2,.7,.2,1),box-shadow .6s}
+@media (hover:hover){.bp .card:hover{transform:translateY(-8px);box-shadow:0 36px 70px -28px rgba(40,25,10,.55)}}
+@media (max-width:540px){.bp .angle{padding:90px 0}.bp .angle .head{grid-template-columns:1fr;gap:6px}
+  .bp .ads{gap:4px;margin:0 -24px}.bp .ads .row{gap:4px}.bp .card{box-shadow:none}}  /* phones: ads edge to edge */
 
 /* CTA */
 .bp .cta{background:var(--deep);color:#efe6d7;padding:150px 0;text-align:center}
@@ -142,6 +150,77 @@ function useScrollY() {
     return () => { window.removeEventListener("scroll", on); cancelAnimationFrame(raf); };
   }, []);
   return y;
+}
+
+// Types `text` in once it scrolls into view. The untyped rest is rendered transparent so the
+// layout never jumps; reduced-motion users get the full text at once.
+function Type({ text, speed = 42, delay = 0, as: Tag = "span", className, style }) {
+  const ref = useRef(null);
+  const chars = useMemo(() => Array.from(text || ""), [text]);
+  const reduce = typeof window !== "undefined" && window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
+  const [n, setN] = useState(reduce ? chars.length : 0);
+  const [go, setGo] = useState(false);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el || reduce) return;
+    const io = new IntersectionObserver(([e]) => { if (e.isIntersecting) { setGo(true); io.disconnect(); } }, { threshold: 0.5 });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [reduce]);
+  useEffect(() => {
+    if (!go) return;
+    let i = 0, t;
+    const tick = () => { i += 1; setN(i); if (i < chars.length) t = setTimeout(tick, speed); };
+    t = setTimeout(tick, delay);
+    return () => clearTimeout(t);
+  }, [go, chars, speed, delay]);
+  return (
+    <Tag ref={ref} className={className} style={style} aria-label={text}>
+      <span aria-hidden="true">{chars.slice(0, n).join("")}</span>
+      {go && n < chars.length && <span className="ty-caret" aria-hidden="true" />}
+      <span className="ty-rest" aria-hidden="true">{chars.slice(n).join("")}</span>
+    </Tag>
+  );
+}
+const typeMs = (t, speed = 42) => Array.from(t || "").length * speed;
+
+// Campaign strip: drifts on its own, stops the moment a finger or mouse touches it, can be swiped
+// either way, and picks the drift back up a moment after release. Content is doubled for a seamless loop.
+function Strip({ children }) {
+  const ref = useRef(null);
+  const held = useRef(false);
+  const pos = useRef(0);
+  const resume = useRef(0);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    let raf, last = performance.now();
+    const half = () => el.scrollWidth / 2;
+    const step = (t) => {
+      const dt = Math.min(64, t - last); last = t;
+      if (!held.current && half() > 0) {
+        pos.current += dt * 0.045;
+        if (pos.current >= half()) pos.current -= half();
+        el.scrollLeft = pos.current;
+      }
+      raf = requestAnimationFrame(step);
+    };
+    raf = requestAnimationFrame(step);
+    const hold = () => { held.current = true; clearTimeout(resume.current); };
+    const release = () => { clearTimeout(resume.current); resume.current = setTimeout(() => { pos.current = el.scrollLeft; held.current = false; }, 2200); };
+    const onScroll = () => {
+      if (!held.current) return;
+      if (el.scrollLeft <= 1) el.scrollLeft += half();          // swiping back past the start wraps
+      else if (el.scrollLeft >= half() * 1.5) el.scrollLeft -= half();
+      pos.current = el.scrollLeft;
+    };
+    const onWheel = () => { hold(); release(); };
+    const on = [["pointerdown", hold], ["touchstart", hold], ["pointerup", release], ["pointercancel", release],
+      ["touchend", release], ["wheel", onWheel], ["mouseenter", hold], ["mouseleave", release], ["scroll", onScroll]];
+    on.forEach(([ev, fn]) => el.addEventListener(ev, fn, { passive: true }));
+    return () => { cancelAnimationFrame(raf); clearTimeout(resume.current); on.forEach(([ev, fn]) => el.removeEventListener(ev, fn)); };
+  }, []);
+  return <div className="strip" ref={ref}><div className="track">{children}</div></div>;
 }
 
 function useCols() {
@@ -203,6 +282,9 @@ export default function ClientPitch({ slug: fixedSlug }) {
   }
   const b = r.business;
   const strip = r.ads.filter((a) => [1, 5, 11, 14, 17, 20, 7, 10].includes(a.no));
+  const h1a = r.hero_title?.[0] || "פרחים נובלים.";
+  const h1b = r.hero_title?.[1] || "זהב נשאר.";
+  const two = (a, b2, speed = 42) => (<><Type className="b" text={a} speed={speed} /><Type className="l" text={b2} speed={speed} delay={typeMs(a, speed) + 200} /></>);
 
   return (
     <div className="bp">
@@ -225,8 +307,8 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="copy">
           <div className="eyebrow fadein d1">{r.hero_eyebrow || "קולקציית הטבע · זהב 14K · אמרלד טבעי"}</div>
           <h1>
-            <span className="b fadein d2">{r.hero_title?.[0] || "פרחים נובלים."}</span>
-            <span className="l fadein d3">{r.hero_title?.[1] || "זהב נשאר."}</span>
+            <Type className="b" text={h1a} delay={700} speed={70} />
+            <Type className="l" text={h1b} delay={700 + typeMs(h1a, 70) + 250} speed={70} />
           </h1>
           <div className="script sig fadein d4">{b.owner_first}</div>
         </div>
@@ -237,16 +319,16 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="wrap head reveal">
           <div>
             <div className="eyebrow">הקמפיין</div>
-            <h2>{r.ads.length} מודעות. <span>חמש זוויות. מותג אחד.</span></h2>
+            <h2><Type text={`${r.ads.length} מודעות. `} /><Type as="span" text="חמש זוויות. מותג אחד." delay={typeMs(`${r.ads.length} מודעות. `) + 150} /></h2>
           </div>
         </div>
-        <div className="track">
+        <Strip>
           {[...strip, ...strip].map((a, i) => (
             <div key={i} className="it" onClick={() => setOpen(a)} style={{ cursor: "zoom-in", "--ar": a.spec.w / a.spec.h }}>
               <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
             </div>
           ))}
-        </div>
+        </Strip>
       </section>
 
       {/* editorial split */}
@@ -254,7 +336,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="img" style={{ backgroundImage: `url(${ad(5)?.img})` }} />
         <div className="txt reveal">
           <div className="eyebrow">יהלום מעבדה</div>
-          <h2><span className="b">אותו יהלום.</span><span className="l">אותו ברק.</span><span className="l">בלי המכרה.</span></h2>
+          <h2><Type className="b" text="אותו יהלום." /><Type className="l" text="אותו ברק." delay={typeMs("אותו יהלום.") + 200} /><Type className="l" text="בלי המכרה." delay={typeMs("אותו יהלום.אותו ברק.") + 400} /></h2>
           <p>סוליטר 1.50 קראט בחיתוך רדיאנט מוארך, בשיבוץ כוס חלק מזהב 14K. אותו פחמן, אותה קשיות, אותו ברק.</p>
           <div className="price">5,300 ש״ח</div>
         </div>
@@ -265,7 +347,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="bg" style={{ backgroundImage: `url(${ad(3)?.img})`, transform: `translateY(${(y - 2200) * 0.12}px)` }} />
         <div className="shade" />
         <div className="q reveal">
-          <div className="script">כל תכשיט מתחיל אצלי בסקיצה.</div>
+          <Type as="div" className="script" text="כל תכשיט מתחיל אצלי בסקיצה." speed={60} />
           <div className="by">{b.name} · שינקין 48, תל אביב</div>
         </div>
       </section>
@@ -275,7 +357,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="wrap g">
           <div className="reveal">
             <div className="eyebrow">מה ראינו</div>
-            <h2><span className="b">התכשיטים שלך ברמה של מגזין.</span><span className="l">המודעות עוד לא.</span></h2>
+            <h2>{two("התכשיטים שלך ברמה של מגזין.", "המודעות עוד לא.")}</h2>
           </div>
           <p className="reveal">עברנו על המודעות הפעילות שלך בספריית המודעות של מטא, על האתר ועל הקולקציות. זה מה שבלט לנו, ומזה בנינו את הקמפיין שראית למעלה.</p>
         </div>
@@ -284,7 +366,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         {r.insights.map((it, i) => (
           <div key={i} className="reveal" style={{ transitionDelay: `${i * 100}ms` }}>
             <div className="n">0{i + 1}</div>
-            <h3>{it.t}</h3>
+            <Type as="h3" text={it.t} delay={i * 250} />
             <p>{it.d}</p>
           </div>
         ))}
@@ -298,8 +380,8 @@ export default function ClientPitch({ slug: fixedSlug }) {
               <div className="num">0{i + 1}</div>
               <div>
                 <div className="eyebrow">זווית {i + 1}</div>
-                <h3>{ang.name}</h3>
-                <div className="hook">״{ang.hook}״</div>
+                <Type as="h3" text={ang.name} />
+                <Type as="div" className="hook" text={`״${ang.hook}״`} delay={typeMs(ang.name) + 250} speed={30} />
                 <p className="idea">{ang.idea}</p>
               </div>
             </div>
@@ -310,7 +392,6 @@ export default function ClientPitch({ slug: fixedSlug }) {
                   {row.map((a, k) => (
                     <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${(a.spec.w / a.spec.h) * 100} 1 0` }} onClick={() => setOpen(a)}>
                       <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
-                      <div className="cap"><b>{a.headline}</b><span>{a.format} · לטקסט המלא</span></div>
                     </div>
                   ))}
                 </div>
@@ -323,7 +404,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       <section className="cta">
         <div className="wrap reveal">
           <div className="eyebrow" style={{ color: "#d9c49a" }}>השלב הבא</div>
-          <h2><span className="b">{b.owner_first}, רוצה לראות</span><span className="l">את זה באוויר?</span></h2>
+          <h2>{two(`${b.owner_first}, רוצה לראות`, "את זה באוויר?")}</h2>
           <p>נעלה את המודעות, נבדוק מה עובד הכי טוב, ונגדיל את מה שמוכר.</p>
           {r.contact_url
             ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">לשיחה קצרה בוואטסאפ</a>

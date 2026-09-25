@@ -23,9 +23,12 @@
   .zone{ {% if ink=='#f4ecdf' %}text-shadow:0 2px 18px rgba(0,0,0,.45){% endif %} }
   .brand{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:54px;text-align:center;font-family:'OptR';font-size:34px;letter-spacing:2px;
          color:{{ brand_color }}}
-  /* scrim holds its measured strength across the whole text box, then fades out */
-  .scrim{position:absolute;left:0;right:0;{% if top %}top:0;height:{{ box[3]+200 }}px{% else %}bottom:0;height:{{ h-box[1]+200 }}px{% endif %};
-         background:linear-gradient({{ 'to bottom' if top else 'to top' }}, {{ scrim }} 0, {{ scrim }} {{ (box[3]+20) if top else (h-box[1]+20) }}px, transparent)}
+  /* scrim: a band feathered on all sides around the text only (half-width text fades sideways too),
+     at the strength legibility() measured — never a box, never a strip */
+  .scrim{position:absolute;top:{{ box[1]-170 }}px;height:{{ box[3]-box[1]+340 }}px;left:0;right:0;
+    background:{% if (box[2]-box[0]) < w*0.6 %}linear-gradient(to {{ 'left' if box[2] > w*0.6 else 'right' }}, {{ scrim }} 0, {{ scrim }} 50%, transparent 85%){% else %}{{ scrim }}{% endif %};
+    -webkit-mask-image:linear-gradient(to bottom, transparent 0, #000 170px, #000 calc(100% - 170px), transparent 100%);
+            mask-image:linear-gradient(to bottom, transparent 0, #000 170px, #000 calc(100% - 170px), transparent 100%)}
   .brand{text-shadow:0 1px 12px rgba(0,0,0,{{ '.5' if brand_color=='#f4ecdf' else '0' }})}
 
   /* 1 contrast — Black keyword line vs. Light line, aligned to the text start */

@@ -3,8 +3,8 @@ import React, { useLayoutEffect, useRef, useState } from "react";
 // Renders one ad exactly like the IL-meta-leads overlay engine (templates/overlay.html.j2):
 // a 1080px-wide canvas (photo + typography direction), scaled down to the container width.
 // `spec` comes from the pipeline: direction, box, colours, headline, sub, note, signature…
-// Legibility is measured in the pipeline (src/overlay.py legibility/brand_line): `scrim` and
-// `plate_bg` carry the strength needed for the text to hold contrast on the real pixels,
+// Legibility is measured in the pipeline (src/overlay.py legibility/brand_line): `scrim` carries the
+// strength needed for the text to hold contrast on the real pixels (no plates behind text),
 // and `brand_color` is null when the brand line would sit on a busy area.
 
 const CSS = `
@@ -15,7 +15,9 @@ const CSS = `
 .adc .zone{position:absolute;display:flex;flex-direction:column}
 .adc .fit{white-space:nowrap}
 .adc .brand{position:absolute;left:0;right:0;text-align:center;font-family:Optimum;font-weight:400;font-size:34px;letter-spacing:2px}
-.adc .scrim{position:absolute;left:0;right:0}
+.adc .scrim{position:absolute;left:0;right:0;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 170px,#000 calc(100% - 170px),transparent 100%);
+          mask-image:linear-gradient(to bottom,transparent 0,#000 170px,#000 calc(100% - 170px),transparent 100%)}
 .adc .sig,.adc .hand{-webkit-text-stroke:1.4px currentColor}
 .adc.contrast .l1{font-family:Optimum;font-weight:900;font-size:112px;line-height:.95;letter-spacing:-1px}
 .adc.contrast .l2{font-family:Optimum;font-weight:300;font-size:72px;line-height:1.1;margin-top:10px}
@@ -45,7 +47,7 @@ const CSS = `
 .adc.panel .sub{font-family:Optimum;font-weight:400;font-size:38px;letter-spacing:1px;margin-top:22px}
 .adc.panel .sig{font-family:Idealist;font-size:104px;margin-top:10px;line-height:1}
 .adc.label .zone{text-align:right}
-.adc.label .card{display:inline-block;align-self:flex-start;max-width:600px}
+.adc.label .lcard{display:inline-block;align-self:flex-start;max-width:600px}
 .adc.label .hl{font-family:Optimum;font-weight:900;font-size:74px;line-height:1.12}
 .adc.label .rule{width:100%;height:1px;opacity:.5;margin:20px 0}
 .adc.label .sub{font-family:Optimum;font-weight:400;font-size:38px;line-height:1.5}
@@ -118,11 +120,14 @@ export default function AdCanvas({ spec, img, brand, eager = false }) {
         justifyContent: top ? "flex-start" : "flex-end" };
   if (onDark) zoneStyle.textShadow = "0 2px 18px rgba(0,0,0,.45)";
 
-  // scrim holds its measured strength across the whole text box, then fades out
-  const hold = top ? box[3] + 20 : h - box[1] + 20;
+  // scrim: a band feathered on all sides around the text only (half-width text fades sideways too),
+  // at the strength the pipeline measured — never a box, never a strip (same as overlay.html.j2)
+  const half = box[2] - box[0] < w * 0.6;
   const scrimStyle = {
-    ...(top ? { top: 0, height: hold + 180 } : { bottom: 0, height: hold + 180 }),
-    background: `linear-gradient(${top ? "to bottom" : "to top"}, ${scrim} 0, ${scrim} ${hold}px, transparent)`,
+    top: box[1] - 170, height: box[3] - box[1] + 340,
+    background: half
+      ? `linear-gradient(to ${box[2] > w * 0.6 ? "left" : "right"}, ${scrim} 0, ${scrim} 50%, transparent 85%)`
+      : scrim,
   };
 
   const photoStyle = { objectPosition: obj_pos };
@@ -177,7 +182,7 @@ export default function AdCanvas({ spec, img, brand, eager = false }) {
                 {spec.sub && <div className="sub">{spec.sub}</div>}
               </>)}
               {d === "label" && (
-                <div className="card">
+                <div className="lcard">
                   <div className="hl">{lines.map((l, i) => <div key={i}>{l}</div>)}</div>
                   <div className="rule" style={{ background: ink }} />
                   {spec.sub && <div className="sub">{spec.sub.split(" · ").map((s, i) => <div key={i}>{s}</div>)}</div>}
