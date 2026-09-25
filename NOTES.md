@@ -66,3 +66,12 @@
   `data/stav_ads_2026-09-25-076.py`.
 - QA: 1 retry (ad 14: pendant petals came out hollow). ~43 Higgsfield credits total for this lead.
 - Overlay: RTL + ₪ + maqaf breaks bidi ("מ־₪1,500") → write prices as "1,500 ש״ח" on images.
+
+## 2026-09-25 — Overlay v2 (typography variety + don't cover the product)
+
+- Eran: typography identical on every ad and sometimes covers important details; he'll upload fonts
+  to `assets/fonts/`.
+- `src/overlay.py`: 6 layouts (editorial / corner / bigtype / column / band / frame). Per angle the 4 ads
+  get 4 different layouts. `find_zone()` scores candidate zones by edge density + luminance variance on
+  the actual image and places text in the emptiest one; full-width layouts only where the band is empty
+  (score ≤ BUSY), else a small corner/column. Text + brand colour follow local brightness.
