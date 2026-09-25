@@ -53,7 +53,7 @@ const CSS = `
 .bp .marquee{padding:90px 0 70px;background:var(--paper);overflow:hidden}
 .bp .marquee .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:38px}
 .bp .marquee h2{font-weight:900;font-size:clamp(34px,4.4vw,64px);margin:10px 0 0;line-height:1}
-.bp .marquee h2 span{font-weight:300}
+.bp .marquee h2 .l{font-weight:300}
 .bp .strip{--h:clamp(360px,34vw,440px);direction:ltr;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;touch-action:pan-x pan-y}
 .bp .strip::-webkit-scrollbar{display:none}
 .bp .track{display:flex;gap:22px;width:max-content;align-items:flex-start;padding:0 11px 40px}
@@ -68,9 +68,10 @@ const CSS = `
 .bp .split h2 .l{display:block;font-weight:300;font-size:clamp(40px,5.2vw,84px)}
 .bp .split p{font-weight:300;font-size:20px;line-height:1.75;color:var(--muted);max-width:40ch;margin:30px 0 0}
 .bp .split .price{margin-top:34px;font-weight:900;font-size:20px;letter-spacing:.04em}
-@media (max-width:900px){.bp .split{display:block;position:relative;min-height:100svh;overflow:hidden;color:#f4eee4}
-  .bp .split .img{position:absolute;inset:0;min-height:0}
-  .bp .split .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(7,6,5,.9) 0%,rgba(7,6,5,.7) 38%,rgba(7,6,5,0) 70%)}
+@media (max-width:900px){.bp .split{display:block;position:relative;min-height:100svh;overflow:hidden;color:#f4eee4;background:#0e0b08}
+  /* the photo owns the top of the screen and melts into the dark ground the text sits on */
+  .bp .split .img{position:absolute;inset:0 0 34% 0;min-height:0;background-position:center 45%}
+  .bp .split .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#0e0b08 0%,rgba(14,11,8,.85) 18%,rgba(14,11,8,0) 48%)}
   .bp .split .txt{position:absolute;inset:auto 0 0 0;z-index:2;padding:0 22px 12vh}
   .bp .split p{color:rgba(244,238,228,.86)}.bp .split .eyebrow{color:#efe2c4}}
 
@@ -319,7 +320,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="wrap head reveal">
           <div>
             <div className="eyebrow">הקמפיין</div>
-            <h2><Type text={`${r.ads.length} מודעות. `} /><Type as="span" text="חמש זוויות. מותג אחד." delay={typeMs(`${r.ads.length} מודעות. `) + 150} /></h2>
+            <h2><Type text={`${r.ads.length} מודעות. `} /><Type className="l" text="חמש זוויות. מותג אחד." delay={typeMs(`${r.ads.length} מודעות. `) + 150} /></h2>
           </div>
         </div>
         <Strip>
