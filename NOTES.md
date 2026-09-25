@@ -17,3 +17,15 @@
   on the real website and can still reject.
 - **Images (stage 7):** provider deliberately left `undecided` in config.yaml — decide with Eran
   what we generate and on which model before building stage 7.
+
+## 2026-09-25 — Step 3 (qualify)
+
+- Network opened by Eran. Chromium needed the proxy CA in `~/.pki/nssdb` (added with certutil) and
+  `proxy=HTTPS_PROXY` in Playwright launch.
+- **Works:** Ad Library ad pages via Playwright without login → landing URL, full ad text, dates.
+  Business websites via httpx (Playwright fallback on 403/503). Link-in-bio pages are followed.
+- **Doesn't work:** Facebook page "About" (login wall). Instagram profiles/bios — scraping them is
+  off-limits in this environment. Some stores (goluggage, lavender) block bots even in Chromium.
+- First run on the 7 filtered leads: website 6/7, IG page 3/7, owner IG 0/7, WhatsApp 3/7.
+  Owner IG is the bottleneck: sites almost never name the owner's personal IG, and web search
+  didn't surface it either (tested on 2 leads). Decision pending with Eran.

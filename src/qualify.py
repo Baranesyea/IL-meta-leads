@@ -43,6 +43,16 @@ STORE_SIGNALS = {
 }
 
 
+LINK_IN_BIO = ("linke.to", "linktr.ee", "linkin.bio", "lnk.bio", "beacons.ai", "bio.link",
+               "taplink.cc", "campsite.bio", "linkpop.com", "later.com")
+SOCIAL = ("instagram.com", "facebook.com", "tiktok.com", "youtube.com", "wa.me", "whatsapp.com",
+          "twitter.com", "x.com", "waze.com", "google.com", "goo.gl", "apple.com", "spotify.com")
+
+
+def _is(host: str | None, hosts: tuple) -> bool:
+    return bool(host) and any(host == h or host.endswith("." + h) for h in hosts)
+
+
 def normalize_il_mobile(raw: str) -> str | None:
     digits = re.sub(r"\D", "", raw)
     if digits.startswith("972"):
@@ -64,21 +74,43 @@ def _site_from_ads(lead: dict, browser: web.AdLibraryBrowser) -> tuple[str | Non
         links = web.outbound_links(html)
         landings += [u for u in links if u not in landings]
         texts.append({"ad_id": ad["ad_id"], "text": text[:4000], "links": links})
-    hosts = Counter(db.normalize_domain(u) for u in landings if db.normalize_domain(u))
+    # Resolve shorteners / link-in-bio redirects to the real store
+    resolved = []
+    for u in landings[:4]:
+        res = browser.fetch(u)
+        final = res[0] if res else u
+        if final not in resolved:
+            resolved.append(final)
+    # Link-in-bio pages (linktr.ee etc.): keep the page for contacts, follow its store link
+    bio_pages = []
+    for u in list(resolved):
+        if _is(db.normalize_domain(u), LINK_IN_BIO) and (res := browser.fetch(u)):
+            bio_pages.append(res)
+            soup = BeautifulSoup(res[1], "html.parser")
+            for a in soup.find_all("a", href=True):
+                href = web.unwrap(urljoin(res[0], a["href"]))
+                h = db.normalize_domain(href)
+                if h and not _is(h, LINK_IN_BIO + SOCIAL) and href not in resolved:
+                    resolved.append(href)
+    lead["meta"]["link_in_bio_pages"] = [u for u, _ in bio_pages]
+    landings = resolved
+    hosts = Counter(h for u in landings
+                    if (h := db.normalize_domain(u)) and not _is(h, LINK_IN_BIO))
     if not hosts:
         return None, landings, texts
     host = hosts.most_common(1)[0][0]
     return f"https://{host}/", landings, texts
 
 
-def _collect_pages(home: str, landings: list[str]) -> list[tuple[str, str]]:
+def _collect_pages(home: str, landings: list[str],
+                   browser: web.AdLibraryBrowser) -> list[tuple[str, str]]:
     pages, seen = [], set()
 
     def add(url):
         if url in seen or len(pages) >= 8:
             return None
         seen.add(url)
-        res = web.get(url)
+        res = browser.fetch(url)
         if res:
             pages.append(res)
         return res
@@ -148,13 +180,33 @@ def _extract(pages: list[tuple[str, str]]) -> dict:
             "store_hits": sorted(store_hits), "prices": prices}
 
 
+def _add_ad_contacts(x: dict, ad_texts: list[dict], lead: dict) -> None:
+    """Phones / WhatsApp links written in the ads themselves (source = the ad's library page)."""
+    for ad in ad_texts:
+        src = f"https://www.facebook.com/ads/library/?id={ad['ad_id']}"
+        for link in ad.get("links", []):
+            m = WA_LINK.search(link)
+            if m and (n := normalize_il_mobile(m.group(1))):
+                x["wa"].append((n, src))
+        text = ad["text"]
+        for m in PHONE.finditer(text):
+            if n := normalize_il_mobile(m.group(0)):
+                ctx = text[max(0, m.start() - 60): m.end() + 20].lower()
+                x["phones"].append((n, src, any(w in ctx for w in ("וואטסאפ", "ווטסאפ", "whatsapp"))))
+
+
 def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
     home, landings, ad_texts = _site_from_ads(lead, browser)
     lead["meta"]["ad_snapshots"] = ad_texts
     lead["meta"]["landing_urls"] = landings
     q = lead.setdefault("qualify", {})
     if not home:
-        q["missing"] = ["website"]
+        x = {"wa": [], "phones": []}
+        _add_ad_contacts(x, ad_texts, lead)
+        q["phones_in_ads"] = [{"number_e164": n, "source": src, "labelled_whatsapp": w}
+                              for n, src, w in x["phones"]] + \
+                             [{"number_e164": n, "source": src, "labelled_whatsapp": True} for n, src in x["wa"]]
+        q["missing"] = ["website", "instagram_page", "owner_instagram", "whatsapp"]
         db.set_status(lead, "unqualified")
         log.info("UNQUAL %s — no landing URL found in ads", lead["lead_id"])
         return
@@ -164,12 +216,16 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         db.set_status(lead, "rejected", f"domain {domain} already in DB")
         return
 
-    pages = _collect_pages(home, landings)
+    pages = _collect_pages(home, landings, browser)
+    pages += [(u, web.get(u)[1]) for u in lead["meta"].get("link_in_bio_pages", []) if web.get(u)]
     x = _extract(pages)
+    _add_ad_contacts(x, ad_texts, lead)
     q.update({"pages_checked": [u for u, _ in pages], "store_signals": x["store_hits"],
               "prices_in_ils": x["prices"], "owner_candidates": x["owner_cands"][:5]})
 
-    if pages and not x["store_hits"]:
+    site_pages = [u for u, _ in pages if db.normalize_domain(u) == domain]
+    q["site_blocked"] = not site_pages
+    if site_pages and not x["store_hits"]:
         db.set_status(lead, "rejected", "website is not a store (no cart / store platform)")
         log.info("REJECT %s %s — not a store", lead["lead_id"], domain)
         return

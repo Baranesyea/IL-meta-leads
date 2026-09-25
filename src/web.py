@@ -71,6 +71,29 @@ class AdLibraryBrowser:
         self._browser.close()
         self._pw.stop()
 
+    def render(self, url: str) -> tuple[str, str] | None:
+        """Fallback for sites that block plain HTTP clients (403/503). Cached like get()."""
+        path = _cache_path(url)
+        if path.exists():
+            final, _, html = path.read_text(encoding="utf-8").partition("\n")
+            return final, html
+        _sleep()
+        try:
+            resp = self.page.goto(url, timeout=60000, wait_until="domcontentloaded")
+            self.page.wait_for_timeout(3000)
+        except Exception as e:  # noqa: BLE001
+            log.warning("render %s failed: %s", url, e)
+            return None
+        if resp is None or resp.status >= 400:
+            log.warning("render %s -> %s", url, resp.status if resp else "no response")
+            return None
+        html = self.page.content()
+        path.write_text(f"{self.page.url}\n{html}", encoding="utf-8")
+        return self.page.url, html
+
+    def fetch(self, url: str) -> tuple[str, str] | None:
+        return get(url) or self.render(url)
+
     def ad_snapshot(self, ad_id: str) -> tuple[str, str]:
         """Return (html, body_text) of the ad's Ad Library page. Cached."""
         key = f"adlib:{ad_id}"

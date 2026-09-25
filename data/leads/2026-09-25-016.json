@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-25-016",
-  "status": "filtered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://astain.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "info@astain.co.il"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/astain.il/",
+      "source": "https://astain.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,9 +28,9 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972503910883",
+      "source": "https://astain.co.il/contact/",
+      "confidence": "high"
     }
   },
   "meta": {
@@ -69,6 +69,18 @@
     ],
     "currencies": [
       "ILS"
+    ],
+    "ad_snapshots": [
+      {
+        "ad_id": "1831234051212275",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nAstain אסטאין - קוסמטיקה טבעית ישראלית\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1831234051212275\nהתחילה לפעול בתאריך 24 בספט' 2026 · זמן פעולה כולל 20 שעות\nפלטפורמות\n​\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nAstain אסטאין - קוסמטיקה טבעית ישראלית\nממומן\nאת לא צריכה להתאפר 🎵\nתפסיקי להסתיר את הפנים עם מייקאפ!\nהכירי את ערכת 3 השלבים של Asta-In לטיפוח ואיזון עור שנוטה לפצעונים. שגרה טבעית, קלה ומהירה שמבוססת על אסטקסנטין – נוגד החמצון העוצמתי מהאצה האדומה.\n✨ 10% הנחה נוספים ברכישת הערכה עם קוד קופון: NEW10\nמשלוח מהיר עד הבית | מאושר משרד הבריאות\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nASTAIN.CO.IL\nערכת 3 שלבים לאקנה | 10% עם NEW10 🌿\nקוד: NEW10 | משלוח מהיר לכל הארץ 🚚\nלהזמנה\nסגירה",
+        "links": [
+          "https://astain.co.il/product/acne-set/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://astain.co.il/product/acne-set/"
     ]
   },
   "current_ads": [],
@@ -83,6 +95,24 @@
   },
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
-    "filtered": "2026-09-25T11:03:05"
+    "filtered": "2026-09-25T11:03:05",
+    "unqualified": "2026-09-25T11:32:27"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://astain.co.il/",
+      "https://astain.co.il/product/acne-set/",
+      "https://astain.co.il/about/",
+      "https://astain.co.il/contact/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "missing": [
+      "owner_instagram"
+    ]
   }
 }
