@@ -135,3 +135,17 @@
 - Client page: lightbox close button fixed on top (was covered by the ad box on mobile), opaque backdrop,
   scroll lock; campaign strip = one height; angle rows chunked by viewport (4/2/1) and justified to one height.
 - CTA WhatsApp: https://wa.me/972545471522 (Eran).
+
+## 2026-09-25 (night) — full-bleed only
+- Eran: plates behind text and photo+colour-strip panels read as a compromise, not premium. Both removed
+  (MAX_PANELS=0, no plates). Zones now slide over the whole frame incl. beside the subject (mid_left/right)
+  clear of `protect`; scrim = band feathered around the text only, strength from legibility().
+- Hand-picked look per ad: `layout.direction` wins even in a tight frame (e.g. ad 12 → contrast above the head).
+- Baked-in black bands: ad 6 cropped; ad 10 cropped + outpainted upward (Higgsfield outpaint 2 cr, low-res
+  768px → only the new sky is used, original sharp pixels composited back). Originals kept as *_v1_*.png.
+- Page-style leak: `.bp .card` (white card) also hit the ad's label `.card` → renamed `.lcard` in AdCanvas.
+- Client page: ads without caption strips, edge to edge on phones; campaign strip = JS drift + native swipe
+  (pauses on touch, resumes after 2.2s); headlines type in on scroll (`Type`, layout-stable, reduced-motion safe);
+  phone split section = photo melting into dark ground under the text.
+- Base44 quirk: create_checkpoint can snapshot a stale commit right after a sandbox commit — re-run until
+  git_commit_hash matches `git log -1` before deploying.
