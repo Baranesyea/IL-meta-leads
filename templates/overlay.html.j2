@@ -14,60 +14,65 @@
   .zone{position:absolute;left:{{box[0]}}px;top:{{box[1]}}px;width:{{box[2]-box[0]}}px;height:{{box[3]-box[1]}}px;
         display:flex;flex-direction:column;justify-content:{{ 'flex-start' if top else 'flex-end' }}}
   .fit{white-space:nowrap}
-  .brand{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:54px;text-align:center;font-family:'OptR';font-size:22px;letter-spacing:3px;
+  {% if plate %}.zone{height:auto;width:auto;max-width:{{box[2]-box[0]}}px;left:auto;right:{{w-box[2]}}px;
+    {% if top %}top:{{box[1]}}px{% else %}top:auto;bottom:{{h-box[3]}}px{% endif %};padding:30px 38px;
+    background:{{ 'rgba(14,11,8,.55)' if ink=='#f4ecdf' else 'rgba(250,246,238,.80)' }};backdrop-filter:blur(10px)}
+  .scrim{display:none}{% endif %}
+  .zone{ {% if ink=='#f4ecdf' %}text-shadow:0 2px 18px rgba(0,0,0,.45){% endif %} }
+  .brand{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:54px;text-align:center;font-family:'OptR';font-size:30px;letter-spacing:2px;
          color:{{ brand_color }};opacity:.9}
   .scrim{position:absolute;left:0;right:0;{% if top %}top:0;height:{{ box[3]+80 }}px{% else %}bottom:0;height:{{ h-box[1]+80 }}px{% endif %};
          background:linear-gradient({{ 'to bottom' if top else 'to top' }}, {{ scrim }}, transparent)}
 
   /* 1 contrast — Black keyword line vs. Light line, aligned to the text start */
   .contrast .l1{font-family:'OptB';font-size:112px;line-height:.95;letter-spacing:-1px}
-  .contrast .l2{font-family:'OptL';font-size:62px;line-height:1.1;margin-top:10px}
-  .contrast .sub{font-family:'OptR';font-size:24px;letter-spacing:2px;margin-top:26px;opacity:.85}
+  .contrast .l2{font-family:'OptL';font-size:72px;line-height:1.1;margin-top:10px}
+  .contrast .sub{font-family:'OptR';font-size:32px;letter-spacing:2px;margin-top:26px;opacity:.85}
   .contrast .zone{text-align:right}
 
   /* 2 quiet — perfume-ad restraint: small Light text, wide air, handwritten signature */
   .quiet .zone{text-align:center;align-items:center}
-  .quiet .hl{font-family:'OptL';font-size:44px;line-height:1.35;letter-spacing:1px}
+  .quiet .hl{font-family:'OptR';font-size:62px;line-height:1.25}
   .quiet .sig{font-family:'Script';font-size:120px;margin-top:6px;line-height:1}
-  .quiet .sub{font-family:'OptR';font-size:20px;letter-spacing:3px;margin-top:14px;opacity:.8}
+  .quiet .sub{font-family:'OptR';font-size:30px;letter-spacing:2px;margin-top:14px;opacity:.8}
 
   /* 3 stack — oversized Black stacked headline, tight leading */
   .stack .zone{text-align:right}
   .stack .l{font-family:'OptB';font-size:170px;line-height:.9;letter-spacing:-2px}
   .stack .l.light{font-family:'OptL'}
-  .stack .sub{font-family:'OptR';font-size:26px;letter-spacing:2px;margin-top:22px}
+  .stack .sub{font-family:'OptR';font-size:32px;letter-spacing:2px;margin-top:22px}
 
   /* 4 note — designer's handwritten note + small product line */
   .note .zone{text-align:right}
   .note .hand{font-family:'Script';font-size:112px;line-height:1.05}
   .note .rule{width:90px;height:1.5px;background:var(--ink);opacity:.6;margin:22px 0 16px auto}
-  .note .sub{font-family:'OptR';font-size:22px;letter-spacing:2px}
-  .note .hl{font-family:'OptL';font-size:34px;margin-top:6px}
+  .note .sub{font-family:'OptR';font-size:30px;letter-spacing:1px}
+  .note .hl{font-family:'OptB';font-size:50px;margin-top:6px}
 
   /* 5 cover — thin frame, magazine masthead feel */
   .cover .frame{position:absolute;inset:34px;border:1.5px solid var(--ink);opacity:.55}
   .cover .mast{position:absolute;left:0;right:0;{{ 'bottom' if top else 'top' }}:64px;text-align:center;font-family:'OptB';font-size:30px;letter-spacing:6px;color:var(--ink)}
   .cover .zone{text-align:center;align-items:center}
-  .cover .hl{font-family:'OptL';font-size:70px;line-height:1.08}
-  .cover .sub{font-family:'OptB';font-size:22px;letter-spacing:3px;margin-top:22px}
+  .cover .hl{font-family:'OptR';font-size:78px;line-height:1.08}
+  .cover .sub{font-family:'OptB';font-size:30px;letter-spacing:2px;margin-top:22px}
   .cover .brand{display:none}
 
   /* 6 panel — solid colour panel beside/below the photo: text never touches the product */
   .panel .photo{ {% if panel_side == 'bottom' %}height:{{ (h*0.68)|int }}px{% else %}width:{{ (w*0.6)|int }}px;left:{{ 0 if panel_side=='right' else (w*0.4)|int }}px{% endif %} }
   .panel .pnl{position:absolute;background:var(--paper);display:flex;flex-direction:column;justify-content:center;padding:0 64px;text-align:right;
     {% if panel_side == 'bottom' %}left:0;right:0;bottom:0;height:{{ (h*0.32)|int }}px{% else %}top:0;bottom:0;width:{{ (w*0.4)|int }}px;{{ panel_side }}:0{% endif %}}
-  .panel .hl{font-family:'OptB';font-size:58px;line-height:1.05}
+  .panel .hl{font-family:'OptB';font-size:72px;line-height:1.05}
   .panel .l2{font-family:'OptL'}
-  .panel .sub{font-family:'OptR';font-size:22px;letter-spacing:2px;margin-top:22px;opacity:.85}
+  .panel .sub{font-family:'OptR';font-size:30px;letter-spacing:2px;margin-top:22px;opacity:.85}
   .panel .sig{font-family:'Script';font-size:104px;margin-top:10px;line-height:1}
   .panel .brand{ {% if panel_side=='bottom' %}top:40px;bottom:auto;color:#fff;text-shadow:0 1px 10px rgba(0,0,0,.45){% else %}top:auto;bottom:48px;{{ 'left' if panel_side=='right' else 'right' }}:auto;{{ panel_side }}:0;width:{{ (w*0.4)|int }}px;color:var(--ink){% endif %} }
 
   /* 7 label — museum label: small Regular headline, hairline, detail list */
   .label .zone{text-align:right}
   .label .card{display:inline-block;align-self:flex-{{ 'start' }};max-width:520px}
-  .label .hl{font-family:'OptR';font-size:46px;line-height:1.15}
+  .label .hl{font-family:'OptB';font-size:60px;line-height:1.12}
   .label .rule{width:100%;height:1px;background:var(--ink);opacity:.5;margin:20px 0}
-  .label .sub{font-family:'OptL';font-size:24px;line-height:1.6;letter-spacing:1px}
+  .label .sub{font-family:'OptR';font-size:32px;line-height:1.5}
 </style></head>
 <body><div class="ad {{ direction }}">
   <img class="photo" src="{{ img }}">
@@ -119,6 +124,16 @@
       el.style.display = 'inline-block';
       while (el.scrollWidth > max && size > 18) { size -= 2; el.style.fontSize = size + 'px'; }
       el.style.display = '';
+    }
+    // then shrink the whole text block until it fits its zone height
+    for (const z of document.querySelectorAll('.zone, .pnl')) {
+      let guard = 0;
+      while (z.scrollHeight > z.clientHeight + 2 && guard++ < 30) {
+        for (const el of z.querySelectorAll('*')) {
+          const fs = parseFloat(getComputedStyle(el).fontSize);
+          if (fs > 22) el.style.fontSize = (fs * 0.94) + 'px';
+        }
+      }
     }
     document.body.dataset.ready = '1';
   });

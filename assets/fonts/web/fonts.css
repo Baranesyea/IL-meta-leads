@@ -1,0 +1,5 @@
+/* Optimum (3 weights) + Idealist handwriting — web versions of assets/fonts/*.otf */
+@font-face{font-family:"Optimum";src:url("FbOptimum-Light.woff2") format("woff2");font-weight:300;font-display:swap}
+@font-face{font-family:"Optimum";src:url("FbOptimum-Regular.woff2") format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Optimum";src:url("FbOptimum-Black.woff2") format("woff2");font-weight:900;font-display:swap}
+@font-face{font-family:"Idealist";src:url("FbIdealist-Regular.woff2") format("woff2");font-weight:400;font-display:swap}

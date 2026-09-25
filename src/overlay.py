@@ -67,17 +67,66 @@ def _skin_ratio(im: Image.Image) -> float:
     return skin / len(px)
 
 
-def _zone_box(name: str, w: int, h: int, fmt: str) -> tuple[int, int, int, int]:
+def _zone_box(name: str, w: int, h: int, fmt: str, protect=None) -> tuple[int, int, int, int] | None:
+    """Zone in px. With protected regions, the zone is cut to the free band above/below them
+    (text lives in the space the product leaves, not in a fixed slot). None = no room."""
     x, y, zw, zh = ZONES[name]
-    if fmt == "9:16":
-        top, bottom = SAFE_916
-        y = max(y, top)
-        if y + zh > 1 - bottom:
-            y = 1 - bottom - zh
+    top_m, bot_m = SAFE_916 if fmt == "9:16" else (0.05, 0.05)
+    if protect:
+        py0 = min(r[1] for r in protect)
+        py1 = max(r[3] for r in protect)
+        gap = 0.025
+        if name.startswith("top"):
+            y, y1 = top_m, py0 - gap
+        else:
+            y, y1 = py1 + gap, 1 - bot_m
+        zh = y1 - y
+        if zh < 0.12:                       # not enough air for type
+            return None
+        zh = min(zh, 0.34)
+        if name.startswith("bottom"):
+            y = y1 - zh
+    else:
+        if fmt == "9:16":
+            y = max(y, top_m)
+            if y + zh > 1 - bot_m:
+                y = 1 - bot_m - zh
     return int(x * w), int(y * h), int((x + zw) * w), int((y + zh) * h)
 
 
-def find_zone(canvas: Image.Image, fmt: str, allowed: list[str], people: bool = False):
+def detect_faces(canvas: Image.Image) -> list[tuple[float, float, float, float]]:
+    """Backup face finder (Haar, frontal + both profiles) → fractional boxes, padded."""
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        return []
+    w, h = canvas.size
+    g = np.array(canvas.convert("L"))
+    boxes = []
+    for name in ("haarcascade_frontalface_default.xml", "haarcascade_profileface.xml"):
+        c = cv2.CascadeClassifier(cv2.data.haarcascades + name)
+        for flip in (False, True):
+            img = np.ascontiguousarray(np.fliplr(g)) if flip else g
+            for x, y, fw, fh in c.detectMultiScale(img, 1.1, 6, minSize=(w // 8, w // 8)):
+                if flip:
+                    x = w - x - fw
+                boxes.append(((x - .3 * fw) / w, (y - .3 * fh) / h, (x + 1.3 * fw) / w, (y + 1.6 * fh) / h))
+            if name.startswith("haarcascade_frontal"):
+                break
+    return boxes
+
+
+def _overlap(box, region, w, h) -> float:
+    """Share of the zone box covered by a fractional region."""
+    x0, y0, x1, y1 = box
+    rx0, ry0, rx1, ry1 = region[0] * w, region[1] * h, region[2] * w, region[3] * h
+    ix = max(0, min(x1, rx1) - max(x0, rx0))
+    iy = max(0, min(y1, ry1) - max(y0, ry0))
+    return ix * iy / max(1, (x1 - x0) * (y1 - y0))
+
+
+def find_zone(canvas: Image.Image, fmt: str, allowed: list[str], people: bool = False, protect=None):
     """(zone, box, mean_luma, score) of the allowed zone with the least visual detail."""
     w, h = canvas.size
     small = canvas.resize((w // 4, h // 4))
@@ -85,14 +134,19 @@ def find_zone(canvas: Image.Image, fmt: str, allowed: list[str], people: bool = 
     edges = gray.filter(ImageFilter.FIND_EDGES)
     best = None
     for name in allowed:
-        box = _zone_box(name, w, h, fmt)
+        box = _zone_box(name, w, h, fmt, protect)
+        if box is None:
+            continue
         sbox = tuple(v // 4 for v in box)
         lum = ImageStat.Stat(gray.crop(sbox))
         score = (ImageStat.Stat(edges.crop(sbox)).mean[0] + 0.35 * lum.stddev[0]
                  + (60 * _skin_ratio(small.crop(sbox)) if people else 0))  # skin looks "empty" to edges
+        # product / faces / hands: text may not touch them at all
+        if any(_overlap(box, r, w, h) > 0.02 for r in (protect or [])):
+            score += 1000
         if best is None or score < best[3]:
             best = (name, box, lum.mean[0], score)
-    return best
+    return best if best else (None, None, 0, 10_000)
 
 
 def _panel_side(canvas: Image.Image, fmt: str) -> tuple[str, str]:
@@ -134,7 +188,7 @@ def _fonts() -> dict:
 
 
 def choose_direction(canvas: Image.Image, fmt: str, preferred: list[str], people: bool = False,
-                     allow_panel: bool = True) -> tuple[str, dict]:
+                     allow_panel: bool = True, protect=None) -> tuple[str, dict]:
     """First preferred direction whose best zone is empty enough; `panel` always fits.
     Without a panel allowance, take the overlay direction with the emptiest zone."""
     best = None
@@ -144,13 +198,15 @@ def choose_direction(canvas: Image.Image, fmt: str, preferred: list[str], people
             if allow_panel:
                 return d, {}
             continue
-        zone, box, luma, score = find_zone(canvas, fmt, spec["zones"], people)
+        zone, box, luma, score = find_zone(canvas, fmt, spec["zones"], people, protect)
+        if score >= 1000:
+            continue
         if score <= BUSY[spec["big"]]:
             return d, dict(zone=zone, box=box, luma=luma)
         margin = score - BUSY[spec["big"]]
         if best is None or margin < best[0]:
             best = (margin, d, dict(zone=zone, box=box, luma=luma))
-    if allow_panel or best is None:
+    if allow_panel or best is None:   # nothing clear of the subject → panel (never overlaps)
         return "panel", {}
     return best[1], best[2]
 
@@ -171,8 +227,14 @@ def render(jobs: list[dict]) -> list[str]:
             # a single pre-chosen overlay direction is final (render_lead already weighed it)
             final = len(j["directions"]) == 1 and j["directions"][0] != "panel"
             direction, z = choose_direction(canvas, fmt, j["directions"], j.get("people", False),
-                                            allow_panel=not final)
+                                            allow_panel=not final, protect=j.get("protect"))
             box = z.get("box", (0, 0, w, h))
+            # busy or high-contrast background behind the text → soft plate under the type
+            plate = False
+            if direction != "panel":
+                sb = tuple(v // 4 for v in box)
+                g = canvas.resize((w // 4, h // 4)).convert("L").crop(sb)
+                plate = ImageStat.Stat(g).stddev[0] > 26 or ImageStat.Stat(g.filter(ImageFilter.FIND_EDGES)).mean[0] > 9
             top = box[1] < h / 2
             dark = z.get("luma", 0) < 128
             paper, ink = _palette(canvas)
@@ -190,7 +252,7 @@ def render(jobs: list[dict]) -> list[str]:
                 brand=j.get("brand", ""), box=box, top=top, ink=ink, paper=paper, accent=ink,
                 scrim_on=True, scrim="rgba(0,0,0,.32)" if dark else "rgba(255,250,242,.42)",
                 brand_color="#f4ecdf" if brand_dark else "#231a12",
-                obj_pos=obj_pos, panel_side=panel_side)
+                obj_pos=obj_pos, panel_side=panel_side, plate=plate)
             tmp = Path(j["out"]).with_suffix(".html")
             Path(j["out"]).parent.mkdir(parents=True, exist_ok=True)
             tmp.write_text(html, encoding="utf-8")
@@ -225,13 +287,16 @@ def render_lead(lead: dict) -> list[str]:
         k += 1
         prefs = [forced] if forced else [d for d in rot if d not in taken]
         people = ad.get("has_people", False)
+        canvas = _canvas(str(raw), *SIZES[ad["format"]])
+        protect = list(ad.get("protect") or []) + (detect_faces(canvas) if people else [])
         n_panels = sum(1 for j in jobs if j["directions"] == ["panel"])
-        direction, _ = choose_direction(_canvas(str(raw), *SIZES[ad["format"]]), ad["format"], prefs, people,
-                                        allow_panel=n_panels < MAX_PANELS)
+        direction, _ = choose_direction(canvas, ad["format"], prefs, people,
+                                        allow_panel=n_panels < MAX_PANELS, protect=protect)
         taken.append(direction)
         jobs.append(dict(img=str(raw), out=str(base / ad["image"]), headline=ad["overlay"],
                          sub=ad.get("overlay_sub"), note=ad.get("note"), signature=signature,
-                         brand=brand, format=ad["format"], directions=[direction], people=people))
+                         brand=brand, format=ad["format"], directions=[direction], people=people,
+                         protect=protect))
         ads.append(ad)
     outs = render(jobs)
     for ad, j in zip(ads, jobs):

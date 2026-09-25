@@ -87,3 +87,12 @@
   Each angle gets 4 different directions; panels capped at 4–5 per lead; `has_people` on an ad enables a
   skin-tone penalty so text avoids faces/necks/hands; `layout.direction` forces a direction per ad.
 - Idealist must be ≥100px to read. Keep handwritten notes short (≤ 5 words).
+
+## 2026-09-25 — Legibility pass + web fonts
+
+- Eran: tiny text, white text on busy photos, text on the model's lips = unacceptable.
+- Min sizes raised (details ≥30px on a 1080 canvas, headlines 60–170px). Busy background under text →
+  translucent plate. Text zones are now cut to the free space above/below each ad's `protect` boxes
+  (product, faces, hands — set per ad; Haar face detection as a backup) and text shrinks to fit.
+- Web fonts: `assets/fonts/web/*.woff2` + `fonts.css` (family "Optimum" 300/400/900, "Idealist").
+  Fb fonts are commercial — confirm the web licence covers public pages.
