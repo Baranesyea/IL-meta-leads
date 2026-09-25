@@ -106,3 +106,19 @@
 - BLOCKED: images (ads webp) and woff2 fonts are not yet in the app's `public/` — uploading the asset
   bundle to external storage was refused by the environment's policy. Needs Eran's decision.
 - Missing: Eran's WhatsApp link for the CTA (`contact_url`).
+
+## 2026-09-25 — IL Meta site v2 (live)
+
+- Live: https://il-meta.base44.app  (home = "כאן יהיה תוכן", no menus, no client lists)
+  Stav: https://il-meta.base44.app/p/stav-56f5e275
+- Each client only sees their own page (standalone route, unguessable slug, noindex). Sidebar/Layout,
+  /report route and the builder's sample entity pages were removed from routing.
+- Whole app uses Eran's fonts (Optimum 300/400/900 + Idealist) from /public/fonts (pulled from this repo).
+- Client page = brand showcase: full-screen hero campaign (Ken Burns + parallax), campaign marquee,
+  editorial split (lab diamond), handwritten quote band, then the pitch (insights, 5 angles × 4 ads, CTA).
+- Ads on the site are drawn live: raw Higgsfield photos (webp, /public/reports/<client>/raw_NN.webp) +
+  `src/components/AdCanvas.jsx`, a React port of templates/overlay.html.j2 driven by the per-ad `spec`
+  exported by `src/overlay.py` (layout.render). Keep the two in sync when the overlay changes.
+- Source of truth for site files: `web/base44/` in this repo → synced into the Base44 sandbox with
+  curl from raw.githubusercontent (repo is public). AdCanvas.jsx currently lives only in the Base44 app.
+- Still missing: Eran's WhatsApp link for the CTA (`contact_url` in data.js).
