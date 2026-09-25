@@ -96,3 +96,13 @@
   (product, faces, hands — set per ad; Haar face detection as a backup) and text shrinks to fit.
 - Web fonts: `assets/fonts/web/*.woff2` + `fonts.css` (family "Optimum" 300/400/900, "Idealist").
   Fb fonts are commercial — confirm the web licence covers public pages.
+
+## 2026-09-25 — Base44 app "IL Meta" (client report pages)
+
+- App id `6ab69996dac5efca4ece2296` (editor: https://app.base44.com/apps/6ab69996dac5efca4ece2296/editor/preview).
+  Home = "כאן יהיה תוכן" (builder-made, sidebar). Client pitch pages: `/p/<slug>` standalone
+  (`src/pages/ClientPitch.jsx` + `src/reports/data.js` in the Base44 app; copies in `web/base44/`).
+  Stav: `/p/stav-56f5e275`. Hero = full-bleed creative with parallax + floating ad cards, Optimum web font.
+- BLOCKED: images (ads webp) and woff2 fonts are not yet in the app's `public/` — uploading the asset
+  bundle to external storage was refused by the environment's policy. Needs Eran's decision.
+- Missing: Eran's WhatsApp link for the CTA (`contact_url`).
