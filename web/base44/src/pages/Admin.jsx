@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { REPORTS } from '@/reports/data';
+import { useAuth } from '@/lib/AuthContext';
 
 // Eran's private index of client pages. Behind login (see App.jsx) — clients never see this.
 export default function Admin() {
+  const { user } = useAuth();
   const [copied, setCopied] = useState(null);
   const origin = typeof window !== 'undefined' ? window.location.origin : '';
   const pages = Object.values(REPORTS);
@@ -10,6 +12,11 @@ export default function Admin() {
   const copy = async (url, slug) => {
     try { await navigator.clipboard.writeText(url); setCopied(slug); setTimeout(() => setCopied(null), 1800); } catch { /* ignore */ }
   };
+
+  // Only the app admin (Eran). A registered visitor who isn't admin sees nothing.
+  if (user?.role !== 'admin') {
+    return <main style={{ minHeight: '100svh', display: 'grid', placeItems: 'center', background: '#f4eee4', fontFamily: 'Optimum, Georgia, serif', direction: 'rtl' }}>אין הרשאה לעמוד הזה.</main>;
+  }
 
   return (
     <main style={{ minHeight: '100svh', background: '#f4eee4', color: '#17120d', direction: 'rtl', fontFamily: 'Optimum, Georgia, serif' }}>
