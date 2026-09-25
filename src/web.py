@@ -187,10 +187,17 @@ class AdLibraryBrowser:
         _sleep()
         self.page.goto(f"https://www.facebook.com/ads/library/?id={ad_id}",
                        timeout=60000, wait_until="domcontentloaded")
-        self.page.wait_for_timeout(5000)
+        # The ad opens in a modal that loads after the page; wait for its library ID
+        loaded = False
+        for _ in range(10):
+            self.page.wait_for_timeout(1500)
+            if ad_id in self.page.inner_text("body"):
+                loaded = True
+                break
         html = self.page.content()
         text = self.page.inner_text("body")
-        path.write_text(f"{text}\n<!--SPLIT-->\n{html}", encoding="utf-8")
+        if loaded:  # never cache a half-loaded page
+            path.write_text(f"{text}\n<!--SPLIT-->\n{html}", encoding="utf-8")
         return html, text
 
 

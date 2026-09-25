@@ -42,3 +42,15 @@
 - Collect: Woo Store API / Shopify products.json via httpx, Chromium fallback for protected stores.
 - Research for 2026-09-25-076 (Stav Fine Jewelry) written by Claude Code in-session;
   `python run.py internal <id>` renders a self-contained internal page (images inlined).
+
+## 2026-09-25 — Fix: multi-version ads + first image test
+
+- Ads with several versions (dynamic creative / catalog) come back from Ad Library search with
+  `{{product.brand}}` / `{{product.name}}` placeholders. Eran caught it. `collect.resolve_rendered`
+  now opens the ad's own library page and takes the real text; `multiple_versions` is recorded.
+  Stav's audit + WhatsApp message corrected (her 550-day winners are founder/education videos).
+- Image model decision (with Eran): **Higgsfield `nano_banana_pro`**, 4:5, 2k, 2 credits/image,
+  2 product reference photos per ad (one colour variant only — Shopify images come in Y/W/R gold).
+  Test: 3/3 kept the real product (flower pendant, lab-diamond ring, sapphire threaders).
+  `soul_2` failed (no model on-body, redesigned the pendant) — not used.
+- Hebrew text: `src/overlay.py` + `templates/overlay.html.j2` (Frank Ruhl Libre + Heebo, Chromium).

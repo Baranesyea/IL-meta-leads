@@ -40,6 +40,45 @@ def _rel(path: str | None) -> str | None:
     return str(Path(path).relative_to(OUTPUT)) if path else None
 
 
+TEMPLATE = re.compile(r"\{\{\s*product\.\w+\s*\}\}")
+MULTI_VERSION = ("למודעה זאת יש מספר גרסאות", "This ad has multiple versions")
+UI_LINES = {"0:00 / 0:00", "סגירה", "Close", "\u200b", ""}
+
+
+def resolve_rendered(ad_id: str, browser: web.AdLibraryBrowser) -> dict:
+    """Ads with several versions come back from search as a {{product.*}} template.
+    The ad's own library page shows the real text of its first version."""
+    try:
+        _, text = browser.ad_snapshot(ad_id)
+    except Exception as e:  # noqa: BLE001
+        log.warning("snapshot %s failed: %s", ad_id, e)
+        return {}
+    i = text.find(ad_id)
+    if i < 0:
+        return {}
+    block = text[i:]
+    out = {"multiple_versions": any(m in block for m in MULTI_VERSION)}
+    lines = block.split("\n")
+    try:
+        start = next(k for k, ln in enumerate(lines) if ln.strip() in ("ממומן", "Sponsored")) + 1
+    except StopIteration:
+        return out
+    body = []
+    for ln in lines[start:]:
+        if ln.strip() in ("סגירה", "Close") or ln.strip().startswith("מזהה ספרייה"):
+            break
+        body.append(ln)
+    if "0:00 / 0:00" in [b.strip() for b in body]:   # video: text above the player, headline below
+        k = [b.strip() for b in body].index("0:00 / 0:00")
+        after = [b for b in body[k + 1:] if b.strip() not in UI_LINES]
+        body = body[:k]
+        if after:
+            out["headline"] = after[0]
+            out["description"] = after[1] if len(after) > 2 else ""
+    out["primary_text"] = "\n".join(body).strip()
+    return out
+
+
 def collect_ads(lead: dict, browser: web.AdLibraryBrowser) -> None:
     ads = lead["meta"].get("page_ads")
     if not ads:
@@ -65,13 +104,25 @@ def collect_ads(lead: dict, browser: web.AdLibraryBrowser) -> None:
             p = _download(v["thumb"], out_dir / f"{ad['id']}_video.jpg") if v.get("thumb") else None
             media.append({"type": "video", "thumb": _rel(p), "url": v.get("url")})
         variations = ad.get("collation_count") or 1
+        body, headline = ad.get("body", ""), ad.get("ad_creative_link_title", "")
+        desc = ad.get("link_description", "")
+        multi = False
+        if TEMPLATE.search(body) or TEMPLATE.search(headline):
+            r = resolve_rendered(ad["id"], browser)
+            multi = r.get("multiple_versions", False)
+            if TEMPLATE.search(body) and r.get("primary_text"):
+                body = r["primary_text"]
+            if TEMPLATE.search(headline):
+                headline = r.get("headline", "")
+            if TEMPLATE.search(desc):
+                desc = r.get("description", "")
         current.append({
             "ad_id": ad["id"], "start_date": start_d.isoformat() if start_d else "",
             "days_running": days, "platforms": ad.get("platforms", []), "variations": variations,
-            "primary_text": ad.get("body", ""), "headline": ad.get("ad_creative_link_title", ""),
-            "description": ad.get("link_description", ""), "cta": ad.get("cta_text") or ad.get("cta_type", ""),
+            "primary_text": body, "headline": headline, "multiple_versions": multi,
+            "description": desc, "cta": ad.get("cta_text") or ad.get("cta_type", ""),
             "landing_url": ad.get("landing_url", ""), "media": media,
-            "likely_winner": days >= 30 or variations >= 3,
+            "likely_winner": days >= 30 or variations >= 3 or multi,
             "library_url": ad.get("ad_snapshot_url"),
         })
     lead["current_ads"] = current
