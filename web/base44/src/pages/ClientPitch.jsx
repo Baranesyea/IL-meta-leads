@@ -151,8 +151,9 @@ function useReveal(dep) {
   }, [dep]);
 }
 
-export default function ClientPitch() {
-  const { slug } = useParams();
+export default function ClientPitch({ slug: fixedSlug }) {
+  const params = useParams();
+  const slug = fixedSlug || params.slug;
   const r = REPORTS[slug];
   const y = useScrollY();
   const [open, setOpen] = useState(null);

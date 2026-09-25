@@ -1,10 +1,16 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { REPORTS } from '@/reports/data';
 import { useAuth } from '@/lib/AuthContext';
 
 // Eran's private index of client pages. Behind login (see App.jsx) — clients never see this.
 export default function Admin() {
-  const { user } = useAuth();
+  const { user, isAuthenticated, authChecked, isLoadingAuth, checkUserAuth, navigateToLogin } = useAuth();
+
+  // Not logged in → platform login, then back here
+  useEffect(() => {
+    if (!authChecked && !isLoadingAuth) checkUserAuth();
+    else if (authChecked && !isAuthenticated) navigateToLogin();
+  }, [authChecked, isLoadingAuth, isAuthenticated]);
   const [copied, setCopied] = useState(null);
   const origin = typeof window !== 'undefined' ? window.location.origin : '';
   const pages = Object.values(REPORTS);
@@ -14,6 +20,7 @@ export default function Admin() {
   };
 
   // Only the app admin (Eran). A registered visitor who isn't admin sees nothing.
+  if (!authChecked || isLoadingAuth || !isAuthenticated) return null;
   if (user?.role !== 'admin') {
     return <main style={{ minHeight: '100svh', display: 'grid', placeItems: 'center', background: '#f4eee4', fontFamily: 'Optimum, Georgia, serif', direction: 'rtl' }}>אין הרשאה לעמוד הזה.</main>;
   }
