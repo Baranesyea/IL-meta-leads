@@ -30,6 +30,8 @@
   .ad img { width:100%; aspect-ratio:1; object-fit:cover; display:block; background:var(--line); }
   .ad .body { padding:10px 12px; font-size:14px; }
   .ad .txt { white-space:pre-line; max-height:9.6em; overflow:hidden; }
+  .ad .full { white-space:pre-line; font-size:14px; margin-top:8px; }
+  .newads .ad img { aspect-ratio:auto; object-fit:contain; }
   .win { color:var(--ok); font-weight:700; }
   .product img { width:100%; aspect-ratio:1; object-fit:cover; border-radius:10px; background:var(--line); }
   ul { margin:6px 0; padding-inline-start:20px; }
@@ -140,7 +142,24 @@
 <section class="card">
   <h2>20 המודעות החדשות</h2>
   {% if lead.new_ads %}
-    {# filled in stage 7-8 #}
+    {% for ang in r.angles %}
+    <h3>{{ ang.id }} · {{ ang.name }}</h3>
+    <div class="grid newads">
+    {% for ad in lead.new_ads if ad.angle_id == ang.id %}
+      <div class="ad">
+        <img loading="lazy" src="{{ inline(lead.lead_id ~ '/' ~ ad.image, 700) }}" alt="">
+        <div class="body">
+          <div class="muted">מודעה {{ ad.ad_no }} · {{ ad.format }} · {{ ad.cta }}</div>
+          <div><strong>{{ ad.headline }}</strong></div>
+          <div class="muted">{{ ad.description }}</div>
+          <div class="full">{{ ad.primary_text }}</div>
+          {% if ad.alt_texts %}<div class="muted">גרסה קצרה: {{ ad.alt_texts[0] }}</div>{% endif %}
+          {% if ad.to_verify %}<div class="conf-medium">לאמת מול העסק: {{ ad.to_verify|join(", ") }}</div>{% endif %}
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+    {% endfor %}
   {% else %}
     <div class="placeholder muted">ייווצרו אחרי אישור הליד (שלבים 7–8)</div>
   {% endif %}

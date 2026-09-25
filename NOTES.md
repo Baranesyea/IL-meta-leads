@@ -54,3 +54,15 @@
   Test: 3/3 kept the real product (flower pendant, lab-diamond ring, sapphire threaders).
   `soul_2` failed (no model on-body, redesigned the pendant) — not used.
 - Hebrew text: `src/overlay.py` + `templates/overlay.html.j2` (Frank Ruhl Libre + Heebo, Chromium).
+
+## 2026-09-25 — 20 ads for Stav (076), round 1
+
+- Eran: direction good; font wrong (he'll send one → `config.yaml: overlay.*_font`, supports a file
+  in `assets/fonts/`); wants some on-model shots; stronger messages; diverse angles/looks for testing.
+- 5 angles × 4, each with a different look (dark studio / bright / on-model / flat lay / typographic)
+  and mixed formats (4:5, 1:1, 9:16). 6 on-model shots via nano_banana_pro with a worn reference photo.
+- Copy per ad in `data/leads/2026-09-25-076.json → new_ads[]` (overlay, primary, short alt, headline,
+  description, CTA, `to_verify` for claims to confirm with the business). Script kept in
+  `data/stav_ads_2026-09-25-076.py`.
+- QA: 1 retry (ad 14: pendant petals came out hollow). ~43 Higgsfield credits total for this lead.
+- Overlay: RTL + ₪ + maqaf breaks bidi ("מ־₪1,500") → write prices as "1,500 ש״ח" on images.

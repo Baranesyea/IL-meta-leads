@@ -1729,13 +1729,522 @@
       "https://www.shenkar.ac.il/he/news-events/alumni/"
     ]
   },
-  "new_ads": [],
+  "new_ads": [
+    {
+      "ad_no": 1,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "לא מפעל.<br>סטודיו בשינקין.",
+      "overlay_sub": "עבודת יד · זהב 14K",
+      "primary_text": "התכשיט הזה לא יצא מפס ייצור.\n\nהוא התחיל כסקיצה על השולחן שלי, נוצק בזהב 14K ושובץ ביד, אבן אחרי אבן.\n\nככה נוצר כל תכשיט אצלי, בסטודיו בשינקין 48.\n\nרוצה לראות את הקולקציה מקרוב? מחכה לך באתר או בבוטיק.",
+      "alt_texts": [
+        "כל תכשיט אצלי נוצר ביד, בסטודיו בשינקין 48. בואי לראות מקרוב."
+      ],
+      "headline": "עבודת יד מהסטודיו בשינקין",
+      "description": "זהב 14K ואבני חן טבעיות",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_01.png",
+      "image_raw": "ads_raw/ad_01.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_a27672be-0c52-4b54-ad70-b356f2a179c3.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 2,
+      "angle_id": "A1",
+      "format": "1:1",
+      "overlay": "מהסקיצה שלי,<br>לצוואר שלך.",
+      "overlay_sub": "סתיו דוידוביץ' · מעצבת תכשיטים",
+      "primary_text": "כל תכשיט שלי מתחיל בעיפרון.\n\nהפרח הזה נולד כסקיצה קטנה על נייר, ובסוף הפך לזהב 14K עם אמרלד טבעי בלב.\n\nאין פה תבנית מקטלוג. יש מעצבת שיושבת על כל פרט.\n\nהקולקציה המלאה באתר.",
+      "alt_texts": [
+        "כל תכשיט שלי מתחיל בעיפרון, ונגמר בזהב 14K."
+      ],
+      "headline": "מהסקיצה ועד התכשיט",
+      "description": "שרשרת פרח עם אמרלד טבעי",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_02.png",
+      "image_raw": "ads_raw/ad_02.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144126_c3126729-f543-4002-8c6e-34ae4098cccb.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 3,
+      "angle_id": "A1",
+      "format": "9:16",
+      "overlay": "כל תכשיט<br>עובר בידיים שלי.",
+      "overlay_sub": "סקיצה · יציקה · שיבוץ",
+      "primary_text": "יש הבדל בין תכשיט שקונים לתכשיט שמישהי יצרה.\n\nאני מעצבת כל דגם בעצמי, יוצקת אותו בזהב ומשבצת את האבנים ביד.\n\nזה לוקח יותר זמן. וזה מרגישים ברגע שהוא על היד.\n\nהטבעות החדשות מחכות באתר.",
+      "alt_texts": [
+        "אני מעצבת, יוצקת ומשבצת כל תכשיט בעצמי. וזה מרגישים."
+      ],
+      "headline": "טבעות בעבודת יד, זהב 14K",
+      "description": "ייצור מוגבל מהסטודיו בתל אביב",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [
+        "שהיא יוצקת ומשבצת בעצמה"
+      ],
+      "image": "ads/ad_03.png",
+      "image_raw": "ads_raw/ad_03.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_6bdcce7c-4c26-4686-bbed-fdd2b4d4f8e9.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 4,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "תכשיט הוא זיכרון<br>שנושאים כל יום.",
+      "overlay_sub": "",
+      "primary_text": "אולי קיבלת אותו אחרי התואר. אולי ממישהו שאת אוהבת. אולי מסבתא.\n\nתכשיט נשאר איתך כל יום, על היד ועל הצוואר, ובכל פעם שאת נוגעת בו את נזכרת.\n\nבשביל זה אני מעצבת תכשיטים שנשארים: זהב 14K, אבני חן טבעיות, עבודת יד.\n\nבואי ליצור את הזיכרון הבא שלך.",
+      "alt_texts": [
+        "תכשיט הוא זיכרון שנושאים כל יום. בואי ליצור את הבא."
+      ],
+      "headline": "הזיכרון הבא שלך מתחיל כאן",
+      "description": "תכשיטי זהב בעבודת יד",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 92,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_04.png",
+      "image_raw": "ads_raw/ad_04.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_795b7063-ed72-43e6-b06a-89a6f3271a62.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 5,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "אותו יהלום.<br>בלי המכרה.",
+      "overlay_sub": "יהלום מעבדה · 1.50 קראט · זהב 14K",
+      "primary_text": "יהלום מעבדה הוא יהלום. לא חיקוי ולא זירקון.\n\nאותו פחמן, אותה קשיות, אותו ברק. ההבדל היחיד הוא שהוא גדל במעבדה ולא נכרה מהאדמה.\n\nוזה מה שמאפשר טבעת סוליטר של 1.50 קראט בזהב 14K, ב־₪5,300.\n\nכל הפרטים באתר.",
+      "alt_texts": [
+        "יהלום מעבדה: אותו פחמן, אותו ברק, בלי המכרה. סוליטר 1.50 קראט ב־₪5,300."
+      ],
+      "headline": "סוליטר 1.50 קראט ב־₪5,300",
+      "description": "יהלום מעבדה בזהב 14K",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#34261a",
+        "shade": "rgba(245,225,195,.35)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_05.png",
+      "image_raw": "ads_raw/ad_05.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142452_9b83e665-9cf7-4b04-a8f2-2a1108b32f57.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 6,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "1.50 קראט<br>שרואים מכל החדר.",
+      "overlay_sub": "",
+      "primary_text": "יש טבעות שצריך להתקרב כדי לראות.\nוזו לא אחת מהן.\n\nחיתוך רדיאנט מוארך, שיבוץ כוס חלק מזהב 14K, ויהלום מעבדה של 1.50 קראט שתופס כל קרן אור.\n\nלהצעה, ליום נישואין, או פשוט כי מגיע לך.\n\nהטבעת באתר.",
+      "alt_texts": [
+        "חיתוך רדיאנט, זהב 14K, 1.50 קראט. טבעת שרואים מכל החדר."
+      ],
+      "headline": "טבעת סוליטר 1.50 קראט",
+      "description": "יהלום מעבדה בשיבוץ כוס",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_06.png",
+      "image_raw": "ads_raw/ad_06.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144128_4f3f1637-a0ca-467c-b18b-c78d5400c7bd.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 7,
+      "angle_id": "A2",
+      "format": "1:1",
+      "overlay": "זה לא זכוכית.<br>זה יהלום.",
+      "overlay_sub": "",
+      "primary_text": "השאלה הראשונה ששואלים אותי על יהלומי מעבדה: זה אמיתי?\n\nכן. יהלום מעבדה בנוי מאותו חומר בדיוק כמו יהלום מהמכרה, עם אותו ברק ואותה קשיות.\n\nמה ששונה זה המחיר. ואת זה מרגישים רק בקופה.\n\nמוזמנת להציץ בקולקציה.",
+      "alt_texts": [
+        "יהלום מעבדה הוא יהלום אמיתי. ההבדל היחיד מרגישים בקופה."
+      ],
+      "headline": "יהלום מעבדה? זה יהלום אמיתי",
+      "description": "טבעות ושרשראות בזהב 14K",
+      "cta": "Learn More",
+      "layout": {
+        "pos": "top",
+        "size": 84,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_07.png",
+      "image_raw": "ads_raw/ad_07.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_2109efa6-89b0-4410-9495-039335149030.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 8,
+      "angle_id": "A2",
+      "format": "9:16",
+      "overlay": "יהלום אמיתי.<br>1,500 ש״ח.",
+      "overlay_sub": "יהלום מעבדה · זהב 14K",
+      "primary_text": "שרשרת זהב 14K עם יהלום מעבדה אחד, נקי, בשיבוץ ארבע שיניים.\n\nהיא הולכת עם ג'ינס, עם שמלת ערב ועם כל מה שביניהם. והיא לא יורדת מהצוואר.\n\n₪1,500, ומשלוח חינם בקנייה מעל ₪1,000.\n\nהשרשרת באתר.",
+      "alt_texts": [
+        "שרשרת זהב 14K עם יהלום מעבדה. ₪1,500, משלוח חינם."
+      ],
+      "headline": "שרשרת יהלום ב־1,500 ש״ח",
+      "description": "משלוח חינם מעל ₪1,000",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_08.png",
+      "image_raw": "ads_raw/ad_08.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_6551fc41-9c7e-43ce-9ff6-b0c219b45755.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 9,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "היא תזכור<br>מי נתן לה את זה.",
+      "overlay_sub": "עגילי ספיר ויהלום · זהב 14K",
+      "primary_text": "רוב המתנות נשכחות אחרי שבוע.\n\nעגילי זהב עם ספיר כחול ויהלום היא תענוד שנים, ובכל פעם שמישהו ישאל עליהם, היא תספר ממי קיבלה אותם.\n\nאם אתה מחפש מתנה שלא תיעלם במגירה, תתחיל מכאן.",
+      "alt_texts": [
+        "מתנה שהיא תענוד שנים: עגילי זהב עם ספיר ויהלום."
+      ],
+      "headline": "מתנה שלא נשכחת אחרי שבוע",
+      "description": "עגילי ספיר ויהלום, זהב 14K",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#352c22",
+        "shade": "rgba(240,232,220,.6)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_09.png",
+      "image_raw": "ads_raw/ad_09.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142450_d3a23c42-154c-4c8a-8bd1-0acc16d9fd87.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 10,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "שתדע<br>שחשבת עליה באמת.",
+      "overlay_sub": "",
+      "primary_text": "יום נישואין, יום הולדת, או סתם ערב שרוצים שייזכר.\n\nשרשרת זהב 14K עם יהלום מעבדה אחד. עדינה מספיק לכל יום, מרשימה מספיק לרגע הזה.\n\nלא בטוח מה לבחור? אפשר לקפוץ לבוטיק בשינקין 48 ולהתייעץ.\n\nהשרשרת כאן.",
+      "alt_texts": [
+        "שרשרת יהלום בזהב 14K. עדינה לכל יום, מרשימה לרגע הזה."
+      ],
+      "headline": "המתנה לרגע שרוצים שייזכר",
+      "description": "שרשרת יהלום מעבדה, ₪1,500",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_10.png",
+      "image_raw": "ads_raw/ad_10.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_2a3f0dbc-f9ff-435c-afff-d0ec4a3b5db2.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 11,
+      "angle_id": "A3",
+      "format": "1:1",
+      "overlay": "פרחים נובלים.<br>זהב נשאר.",
+      "overlay_sub": "",
+      "primary_text": "השנה, במקום זר שייזרק בעוד שבוע,\nתן לה פרח שיישאר.\n\nתליון פרח מזהב 14K עם אמרלד טבעי בלב, בעבודת יד.\n\nהיא תענוד אותו ותחשוב עליך, הרבה אחרי שהזר היה נגמר.\n\nהתליון באתר.",
+      "alt_texts": [
+        "במקום זר שנובל, פרח מזהב 14K עם אמרלד טבעי."
+      ],
+      "headline": "הפרח שלא נובל",
+      "description": "תליון זהב עם אמרלד טבעי",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 84,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_11.png",
+      "image_raw": "ads_raw/ad_11.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_0285c1c1-4821-4e1f-aadc-d02f95f124d6.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 12,
+      "angle_id": "A3",
+      "format": "9:16",
+      "overlay": "המתנה<br>שהיא תענוד כל יום.",
+      "overlay_sub": "",
+      "primary_text": "המתנות הכי טובות לא נשארות בקופסה.\n\nעגילי שרשרת עדינים מזהב 14K, ספיר כחול ויהלום קטן. קלים מספיק ליום עבודה, מיוחדים מספיק לערב.\n\nומשלוח חינם בקנייה מעל ₪1,000.\n\nלפרטים.",
+      "alt_texts": [
+        "עגילי ספיר ויהלום שהיא לא תוריד. משלוח חינם מעל ₪1,000."
+      ],
+      "headline": "עגילים שהיא לא תוריד",
+      "description": "ספיר כחול ויהלום, זהב 14K",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_12.png",
+      "image_raw": "ads_raw/ad_12.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144125_45385a12-0d1f-468f-a2ab-98a2e6f1c242.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 13,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "טבע.<br>יצוק בזהב 14K.",
+      "overlay_sub": "אמרלד טבעי · עבודת יד",
+      "primary_text": "פרח קטן מזהב, שמונה עלי כותרת, ואמרלד טבעי בלב.\n\nכאן הטבע פוגש עבודת יד: כל עלה מלוטש ביד, כל פרט מדויק.\n\nקולקציית הפרחים של סתיו, עכשיו באתר.",
+      "alt_texts": [
+        "פרח מזהב 14K עם אמרלד טבעי בלב. קולקציית הטבע של סתיו."
+      ],
+      "headline": "קולקציית הפרחים החדשה",
+      "description": "זהב 14K ואמרלד טבעי",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_13.png",
+      "image_raw": "ads_raw/ad_13.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_142451_a05444af-5157-42a0-aa84-f0df6cc47e1f.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 14,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "תכשיט<br>שעוצרים עליו ברחוב.",
+      "overlay_sub": "",
+      "primary_text": "יש תכשיטים שאף אחד לא שם לב אליהם.\nויש כאלה ששואלים עליהם.\n\nתליון הפרח עם האמרלד הוא מהסוג השני. עדין, ובכל זאת אי אפשר לפספס אותו.\n\nזהב 14K, אמרלד טבעי, עבודת יד בסטודיו בתל אביב.\n\nמוזמנת לראות את כל הקולקציה.",
+      "alt_texts": [
+        "תליון פרח עם אמרלד טבעי. עדין, ואי אפשר לפספס."
+      ],
+      "headline": "התליון ששואלים עליו",
+      "description": "פרח מזהב 14K עם אמרלד",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_14.png",
+      "image_raw": "ads_raw/ad_14.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144523_0e48ab4c-ee3d-4e4d-ac48-6eff069ac97e.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 15,
+      "angle_id": "A4",
+      "format": "1:1",
+      "overlay": "אמרלד טבעי.<br>בלב של פרח.",
+      "overlay_sub": "",
+      "primary_text": "לא זכוכית ולא אבן סינתטית.\nאמרלד טבעי, בלב של פרח מזהב 14K.\n\nמקולקציית הטבע של סתיו, בעבודת יד.\n\nלכל הקולקציה.",
+      "alt_texts": [
+        "אמרלד טבעי בלב של פרח מזהב 14K."
+      ],
+      "headline": "אמרלד טבעי, זהב 14K",
+      "description": "קולקציית הטבע של סתיו",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 84,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_15.png",
+      "image_raw": "ads_raw/ad_15.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144159_a5846f72-ec9b-4bf4-8ae4-410ea6f99d69.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 16,
+      "angle_id": "A4",
+      "format": "9:16",
+      "overlay": "גן שלם<br>על שרשרת אחת.",
+      "overlay_sub": "",
+      "primary_text": "פרחים, יונים ועלים. הקולקציה החדשה שלי נולדה מהטבע.\n\nשרשראות ועגילים מזהב 14K, משובצים באמרלד, רובי וספיר טבעיים, מ־₪1,100.\n\n5% הנחה בקנייה של 3 תכשיטים ומעלה.\n\nכל הקולקציה באתר.",
+      "alt_texts": [
+        "קולקציית הטבע: זהב 14K ואבני חן טבעיות, מ־₪1,100."
+      ],
+      "headline": "קולקציית הטבע, מ־₪1,100",
+      "description": "5% הנחה על 3 תכשיטים",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_16.png",
+      "image_raw": "ads_raw/ad_16.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_ec51909f-6df8-4082-ac51-53482b9f4c74.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 17,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "אותו עיצוב.<br>האבן שלך.",
+      "overlay_sub": "ספיר · רובי · אמרלד · יהלום",
+      "primary_text": "אהבת את הטבעת, אבל חלמת על ספיר? או רובי?\n\nאצלי אפשר. כל תכשיט אפשר להתאים: את האבן, את גוון הזהב ואת המידה.\n\nכי תכשיט שעוצב בשבילך הוא תכשיט שאין לאף אחת אחרת.\n\nלעיצוב אישי.",
+      "alt_texts": [
+        "כל תכשיט אפשר להתאים: אבן, גוון זהב ומידה."
+      ],
+      "headline": "עיצוב אישי, האבן שאת בוחרת",
+      "description": "זהב 14K בהתאמה אישית",
+      "cta": "Learn More",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [
+        "אילו דגמים זמינים בהחלפת אבן"
+      ],
+      "image": "ads/ad_17.png",
+      "image_raw": "ads_raw/ad_17.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144159_bd8360c0-9e93-44b9-87ab-8ae757b67309.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 18,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "הטבעת<br>שאין לאף אחת אחרת.",
+      "overlay_sub": "",
+      "primary_text": "תכשיט מהקניון יש לעוד אלף נשים.\n\nאת הטבעות שלי אני מעצבת בייצור מוגבל, ואפשר להתאים כל אחת: אבן, גוון זהב, מידה.\n\nכך שהטבעת שעל היד שלך באמת שלך.\n\nלקולקציית הטבעות.",
+      "alt_texts": [
+        "טבעות בייצור מוגבל, בהתאמה אישית. באמת שלך."
+      ],
+      "headline": "טבעות בייצור מוגבל",
+      "description": "התאמה אישית של אבן וגוון",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 76,
+        "color": "#2e2419",
+        "shade": "rgba(250,244,234,.55)"
+      },
+      "to_verify": [],
+      "image": "ads/ad_18.png",
+      "image_raw": "ads_raw/ad_18.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_6e1c6f01-a579-4356-bc2a-7f87c0b0af51.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 19,
+      "angle_id": "A5",
+      "format": "1:1",
+      "overlay": "רוצה אבן אחרת?<br>רק תגידי.",
+      "overlay_sub": "",
+      "primary_text": "כל תכשיט באתר אפשר להתאים אישית: ספיר, אמרלד, רובי או יהלום, בזהב צהוב, לבן או אדום.\n\nספרי לי מה את מדמיינת, ואני אעצב את זה.\n\nלעיצוב אישי.",
+      "alt_texts": [
+        "ספיר, אמרלד, רובי או יהלום. ספרי לי מה את מדמיינת."
+      ],
+      "headline": "ספרי לי מה את מדמיינת",
+      "description": "עיצוב אישי בזהב 14K",
+      "cta": "Learn More",
+      "layout": {
+        "pos": "top",
+        "size": 92,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [
+        "התאמת אבן לכל תכשיט באתר"
+      ],
+      "image": "ads/ad_19.png",
+      "image_raw": "ads_raw/ad_19.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_f469eadf-a4b3-49c4-a95a-567fb64c18e0.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    },
+    {
+      "ad_no": 20,
+      "angle_id": "A5",
+      "format": "9:16",
+      "overlay": "ספיר, אמרלד או רובי?<br>את בוחרת.",
+      "overlay_sub": "",
+      "primary_text": "אותם עגילים, שלוש אישיויות.\n\nספיר כחול לקלאסיקה. אמרלד ירוק לנועזות. רובי אדום למי שלא מתנצלת.\n\nעגילי שרשרת מזהב 14K עם יהלום קטן, בהתאמה אישית.\n\nבחרי את שלך.",
+      "alt_texts": [
+        "אותם עגילים, שלוש אישיויות. בחרי את האבן שלך."
+      ],
+      "headline": "עגילים באבן שאת בוחרת",
+      "description": "זהב 14K ויהלום",
+      "cta": "Shop Now",
+      "layout": {
+        "pos": "top",
+        "size": 68,
+        "color": "#f1e6d0",
+        "shade": "rgba(0,0,0,.40)"
+      },
+      "to_verify": [
+        "עגילים אלה זמינים באמרלד/רובי"
+      ],
+      "image": "ads/ad_20.png",
+      "image_raw": "ads_raw/ad_20.png",
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260925_144158_a5cba0e9-127b-4d9b-86e9-67abc06a212f.png",
+      "model": "higgsfield/nano_banana_pro 2k"
+    }
+  ],
   "outreach": {
     "suggested_whatsapp_message": "היי סתיו, כאן ערן 🙂\nראיתי את הסרטון שלך על יהלומים שחורים. רואים שהוא עובד, הוא רץ כבר יותר משנה וחצי.\nמה שבלט לי זה שהמודעות הסטטיות שלך הן תמונות קטלוג על רקע לבן, כשהתכשיטים שלך ברמה של קמפיין מגזין.\nהכנתי לך כמה דוגמאות של מודעות בסגנון הזה, על התכשיטים שלך. רוצה שאשלח לך?"
   },
   "cost": {
     "image_gen_usd": 0,
-    "image_gen_credits": 7
+    "image_gen_credits": 43
   },
   "timestamps": {
     "discovered": "2026-09-25T13:11:10",
@@ -1761,5 +2270,22 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
+  },
+  "higgsfield_refs": {
+    "necklace_flower": [
+      "43a4ca13-c7d6-410a-b850-978c93b73fcf",
+      "9dadf1f0-70a4-4408-a03d-f76a2c6c376b"
+    ],
+    "ring_lab_radiant": [
+      "5b81ecda-e01e-4d19-8017-f68b3293b0a2",
+      "683c4078-2a82-4271-8bc8-ce828e71075f"
+    ],
+    "earrings_sapphire": [
+      "45ae1aac-c4cb-4e17-8920-cf7024daceb6",
+      "015d1e1e-ed95-4393-ad0e-0dd7c2f3f107"
+    ],
+    "necklace_lab_solitaire": [
+      "4e3587f0-9a40-4783-b778-ea643e9a998f"
+    ]
   }
 }
