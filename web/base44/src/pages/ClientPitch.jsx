@@ -12,18 +12,18 @@ const CSS = `
 .bp .wrap{max-width:1240px;margin:0 auto;padding:0 24px}
 .bp .reveal{opacity:0;transform:translateY(34px);transition:opacity 1.1s ease,transform 1.1s cubic-bezier(.2,.7,.2,1)}
 .bp .reveal.in{opacity:1;transform:none}
-.bp .eyebrow{font-weight:400;font-size:13px;letter-spacing:.32em;color:var(--gold)}
+.bp .eyebrow{font-weight:400;font-size:15px;letter-spacing:.08em;color:var(--gold)}
 .bp .script{font-family:Idealist,cursive;font-weight:400}
 
 /* top bar — transparent over the hero, ivory after scroll */
 .bp .bar{position:fixed;inset:0 0 auto 0;z-index:40;height:74px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 28px;
   color:#f4eee4;transition:background .5s,color .5s,box-shadow .5s}
 .bp .bar.solid{background:rgba(250,247,241,.92);backdrop-filter:blur(14px);color:var(--ink);box-shadow:0 1px 0 rgba(0,0,0,.06)}
-.bp .bar .mark{font-weight:900;font-size:26px;letter-spacing:.42em;padding-left:.42em}
+.bp .bar .mark{font-weight:900;font-size:30px;letter-spacing:.12em}
 .bp .bar nav{display:flex;gap:28px;font-size:15px;font-weight:400}
 .bp .bar nav a{color:inherit;text-decoration:none;opacity:.85}
-.bp .bar .tag{justify-self:end;font-size:12px;letter-spacing:.18em;border:1px solid currentColor;padding:7px 14px;opacity:.8}
-@media (max-width:820px){.bp .bar nav{display:none}.bp .bar{grid-template-columns:auto 1fr;}.bp .bar .mark{font-size:22px}}
+.bp .bar .tag{justify-self:end;font-size:13px;letter-spacing:.04em;border:1px solid currentColor;padding:7px 14px;opacity:.8}
+@media (max-width:820px){.bp .bar nav,.bp .bar .tag{display:none}.bp .bar{grid-template-columns:1fr;justify-items:center}.bp .bar .mark{font-size:26px}}
 
 /* HERO */
 .bp .hero{position:relative;height:100svh;min-height:640px;overflow:hidden;background:#070605;color:#f4eee4}
@@ -36,9 +36,8 @@ const CSS = `
 .bp .hero h1{margin:18px 0 0;line-height:.9}
 .bp .hero h1 .b{display:block;font-weight:900;font-size:clamp(58px,9.4vw,150px);letter-spacing:-.015em}
 .bp .hero h1 .l{display:block;font-weight:300;font-size:clamp(50px,8vw,128px)}
-.bp .hero .meta{font-weight:400;font-size:clamp(15px,1.4vw,19px);letter-spacing:.14em;margin-top:28px;opacity:.9}
+
 .bp .hero .sig{font-size:clamp(70px,8vw,120px);line-height:1;margin-top:6px;opacity:.95}
-.bp .hero .line{position:absolute;left:6vw;bottom:11vh;z-index:3;writing-mode:vertical-rl;font-size:12px;letter-spacing:.4em;opacity:.7}
 .bp .fadein{animation:fu 1.6s cubic-bezier(.2,.7,.2,1) both}
 .bp .d1{animation-delay:.25s}.bp .d2{animation-delay:.55s}.bp .d3{animation-delay:.9s}.bp .d4{animation-delay:1.3s}
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
@@ -49,7 +48,7 @@ const CSS = `
 .bp .marquee .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:38px}
 .bp .marquee h2{font-weight:900;font-size:clamp(34px,4.4vw,64px);margin:10px 0 0;line-height:1}
 .bp .marquee h2 span{font-weight:300}
-.bp .track{display:flex;gap:22px;width:max-content;animation:mq 70s linear infinite}
+.bp .track{display:flex;gap:22px;width:max-content;align-items:flex-start;animation:mq 70s linear infinite}
 .bp .track:hover{animation-play-state:paused}
 .bp .track .it{width:clamp(220px,22vw,320px);flex:none;box-shadow:0 26px 50px -30px rgba(30,20,10,.55)}
 @keyframes mq{from{transform:translateX(0)}to{transform:translateX(50%)}}
@@ -62,7 +61,7 @@ const CSS = `
 .bp .split h2 .b{display:block;font-weight:900;font-size:clamp(46px,6vw,96px)}
 .bp .split h2 .l{display:block;font-weight:300;font-size:clamp(40px,5.2vw,84px)}
 .bp .split p{font-weight:300;font-size:20px;line-height:1.75;color:var(--muted);max-width:40ch;margin:30px 0 0}
-.bp .split .price{margin-top:34px;font-weight:400;font-size:15px;letter-spacing:.2em}
+.bp .split .price{margin-top:34px;font-weight:900;font-size:20px;letter-spacing:.04em}
 @media (max-width:900px){.bp .split{grid-template-columns:1fr}}
 
 /* full-bleed quote band */
@@ -71,7 +70,7 @@ const CSS = `
 .bp .band .shade{position:absolute;inset:0;background:rgba(6,5,4,.5)}
 .bp .band .q{position:relative;z-index:2;width:100%;text-align:center;padding:0 24px}
 .bp .band .q .script{font-size:clamp(70px,9vw,150px);line-height:1.05}
-.bp .band .q .by{margin-top:26px;font-size:14px;letter-spacing:.3em;opacity:.85}
+.bp .band .q .by{margin-top:26px;font-size:16px;letter-spacing:.06em;opacity:.85}
 
 /* pitch: what we saw */
 .bp .intro{padding:130px 0 70px;background:var(--paper)}
@@ -98,14 +97,15 @@ const CSS = `
 .bp .angle h3{font-weight:900;font-size:clamp(32px,4.2vw,58px);margin:8px 0 0;line-height:1}
 .bp .angle .hook{font-weight:300;font-size:clamp(24px,2.6vw,36px);margin:14px 0 0}
 .bp .angle .idea{font-weight:300;font-size:19px;line-height:1.75;color:var(--muted);max-width:62ch;margin:18px 0 0}
-.bp .ads{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;align-items:start}
+.bp .ads{display:flex;gap:22px;align-items:flex-start}
+.bp .ads .card{flex:var(--ar) 1 0;min-width:0}
 .bp .card{cursor:zoom-in;background:#fff;box-shadow:0 22px 44px -26px rgba(40,25,10,.45);transition:transform .6s cubic-bezier(.2,.7,.2,1),box-shadow .6s}
 .bp .card:hover{transform:translateY(-8px);box-shadow:0 36px 70px -28px rgba(40,25,10,.55)}
 .bp .card .cap{padding:16px 18px 20px}
 .bp .card .cap b{font-weight:900;font-size:18px;display:block}
 .bp .card .cap span{font-weight:300;font-size:14px;color:var(--muted)}
-@media (max-width:980px){.bp .ads{grid-template-columns:1fr 1fr}}
-@media (max-width:540px){.bp .angle .head{grid-template-columns:1fr;gap:6px}.bp .ads{gap:14px}}
+@media (max-width:980px){.bp .ads{flex-wrap:wrap}.bp .ads .card{flex:1 1 calc(50% - 11px)}}
+@media (max-width:540px){.bp .angle .head{grid-template-columns:1fr;gap:6px}.bp .ads{gap:14px}.bp .ads .card{flex:1 1 100%}}
 
 /* CTA */
 .bp .cta{background:var(--deep);color:#efe6d7;padding:150px 0;text-align:center}
@@ -204,7 +204,6 @@ export default function ClientPitch() {
           </h1>
           <div className="script sig fadein d4">{b.owner_first}</div>
         </div>
-        <div className="line">{b.name}</div>
       </section>
 
       {/* campaign strip */}
@@ -280,7 +279,7 @@ export default function ClientPitch() {
             </div>
             <div className="ads">
               {(byAngle[ang.id] || []).map((a, k) => (
-                <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms` }} onClick={() => setOpen(a)}>
+                <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, "--ar": a.spec.w / a.spec.h }} onClick={() => setOpen(a)}>
                   <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
                   <div className="cap"><b>{a.headline}</b><span>{a.format} · לטקסט המלא</span></div>
                 </div>
