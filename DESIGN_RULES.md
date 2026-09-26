@@ -36,14 +36,16 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 ## Client page (one per client, `/p/<unguessable-slug>`)
 - Standalone brand showcase: no menus to other clients, no internal notes. The client must say "wow".
 - Same template for everyone: colours, fonts (Optimum web font), structure. Content comes from `data.js`.
-- Structure: fixed bar (wordmark, nav: מה היינו משנים / הקמפיין / 20 המודעות) → HERO (full screen, the
+- Structure: fixed bar (wordmark, nav: מה היינו משנים / הקמפיין / 20 המודעות / מה מקבלים) → HERO (full screen, the
   product visible — on phones the words sit in the photo's dark space and the product is never under text or
   shade; on desktop the whole photo, words on the other side) with a CTA button "מה היינו משנים בקמפיין שלך"
   → the review right after the hero: "your campaign works, it can bring much more" + a short paragraph, then
   "ככה זה נראה היום": their 4 running ads SMALL in one row (no zoom, no carousel), then "וככה אנחנו היינו
   עושים את זה": 4 of ours BIG — then "מה היינו משנים" + the 4 insights → button to the campaign → campaign
   strip → editorial split (photo above text on phones) → quote band (text in the photo's dark area, product
-  clear) → 5 angle sections → closing: "<name>, את כל זה הכנו בשבילך. בחינם, בלי התחייבות." + what working
+  clear) → 5 angle sections → "למה לעבוד איתי" (shared `OFFER` in ClientPitch: Eran, 17 years, 6
+  things you get, fixed monthly price, all included; addressed per client via `address`: f / m / pl; nav link
+  "מה מקבלים") → closing: "<name>, את כל זה הכנו בשבילך. בחינם, בלי התחייבות." + what working
   together adds + WhatsApp button (Eran: https://wa.me/972545471522).
 - Rows of ads: every image in a row has the same height (justified by aspect ratio); edge to edge on phones;
   no white caption strip under an ad.

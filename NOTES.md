@@ -193,3 +193,6 @@
   small, ours big — not pairs. Phone hero now uses `hero_bg_m` (tall outpainted photo) full-bleed with a soft
   top shade; Stav's dark top was extended locally (plain background), B-scents' button sits at the bottom.
   Higgsfield: 3 outpaints (6 credits).
+- (later) Eran: a "why work with me" section on every page, one before the end, with a nav link. Built as the
+  shared `OFFER` in ClientPitch.jsx (not per-client data): intro on one side, 6 numbered things you get on the
+  other, then "מחיר חודשי קבוע. הכל כלול." Grammar per client via `address` ("f" Stav, "pl" B-scents).
