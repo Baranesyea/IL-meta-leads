@@ -35,6 +35,8 @@ const CSS = `
 /* hero: one full-bleed photo, words on its dark side */
 .hp .hero{position:relative;min-height:100svh;background:var(--night);color:#fff;overflow:hidden}
 .hp .hero .bg{position:absolute;inset:0;background:url(/home/eran_desk.webp) left center/auto 100% no-repeat}
+/* the photo's right edge melts into the page (photo width = 0.806 x its height) */
+.hp .hero .bg{-webkit-mask-image:linear-gradient(90deg,#000 calc(80.6svh - 240px),transparent calc(80.6svh - 10px));mask-image:linear-gradient(90deg,#000 calc(80.6svh - 240px),transparent calc(80.6svh - 10px))}
 .hp .hero .shade{position:absolute;inset:0;background:linear-gradient(270deg,rgba(19,21,23,.96) 0%,rgba(19,21,23,.75) 38%,rgba(19,21,23,0) 62%)}
 .hp .hero .copy{position:relative;z-index:2;min-height:100svh;display:flex;flex-direction:column;justify-content:center;
   max-width:1240px;margin:0 auto;padding:120px 32px 80px}
@@ -113,6 +115,8 @@ const CSS = `
   /* the photo sits at the bottom, full width; its dark wall continues the page colour, so the words above
      it never reach the face */
   .hp .hero .bg{background:url(/home/eran_desk.webp) center bottom/100% auto no-repeat}
+  /* soft top edge instead of a hard line where the photo starts (photo height = 1.24 x screen width) */
+  .hp .hero .bg{-webkit-mask-image:linear-gradient(180deg,transparent calc(100% - 124vw),#000 calc(100% - 124vw + 40px));mask-image:linear-gradient(180deg,transparent calc(100% - 124vw),#000 calc(100% - 124vw + 40px))}
   .hp .hero .shade{background:linear-gradient(180deg,rgba(19,21,23,1) 0%,rgba(19,21,23,1) 30%,rgba(19,21,23,0) 52%)}
   .hp .hero .copy{justify-content:flex-start;padding:96px 24px 40px}
   .hp .hero .lead{display:none}
@@ -120,8 +124,11 @@ const CSS = `
 }
 /* portrait tablets: a smaller photo, centred at the bottom, sides fading into the page */
 @media (min-width:761px) and (max-aspect-ratio:1/1){
-  .hp .hero .bg{background-size:auto 74%;-webkit-mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%);
-    mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%)}
+  .hp .hero .bg{background-size:auto 74%;
+    -webkit-mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%),linear-gradient(180deg,transparent 26%,#000 28%);
+    -webkit-mask-composite:source-in;
+    mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%),linear-gradient(180deg,transparent 26%,#000 28%);
+    mask-composite:intersect}
 }
 @media (max-width:760px){
   .hp .wrap{padding:0 22px}
