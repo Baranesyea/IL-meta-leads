@@ -234,3 +234,15 @@
   invented a label ("BIOTOP") on a jar once — name the exact label words in the prompt and forbid others.
   Never "14K" (or any Latin) in overlay lines — it scrambles RTL; write "14 קראט". Band quotes (handwriting)
   must stay short (≤ ~18 chars) or they clip on a 375px phone.
+- 2026-09-26 (later) — Home page (`/`) is now Eran's about page (web/base44/src/pages/Home.jsx): hero with his
+  Higgsfield Soul "Eran" photo (bald, glasses; files in public/home/), story, 17 years, 6 things you get, how it
+  starts (look → free campaign page → work), fixed monthly price, WhatsApp CTA. Phone hero: photo pinned to the
+  bottom at full width so the words never reach his face.
+- Pet discovery: `discover.run(browser, keyword=...)` with pet keywords (חיות מחמד, מזון לחתולים …) → 34 advertisers.
+  Built Kelev Teva (026-024, "health store for dogs", Moshav Beit HaLevi) → /p/kelevteva-369078b4 (warm natural
+  golden-light editorial) and Pet Best (026-012, pet supermarket, Ramat Yishai) → /p/petbest-20bd483a (bright home
+  lifestyle). Other qualified pet leads with WhatsApp: Mega Pet (021), Kolbo (029), Pet Sale (018), Pets-online (034),
+  Dr Food (026, also a vet clinic), Kef Lahayot (002) and Crazy Pet (006, no IG).
+- Lessons: the model invents packaging for loose products (Wiggle buffalo ears) — say "loose chews, no bag, no
+  label". With a pasted-looking room band on top, re-prompt as "one real photograph taken in one room, the top
+  third is the plain wall, no collage / inset / seams" — that fixed all five. Animals' faces get protect boxes too.
