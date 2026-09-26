@@ -159,3 +159,16 @@
 - Headlines use text-wrap:balance (no lone last word).
 - Page (phones): hero words in the photo's dark top so the pendant is clear; lab-diamond photo above its
   text; quote band text in the photo's dark top, ring below.
+
+## 2026-09-26 — second client from the template: B-scents (lead 2026-09-25-066)
+- Scent diffusers / perfume oils / laundry perfume — deliberately far from Stav (jewellery). Page:
+  https://il-meta.base44.app/p/bscents-97198747 (plural address). Built end to end from `data/bscents_*.py`
+  + `src/site_export.py` into the shared `ClientPitch.jsx` template (`REPORTS` in data.js).
+- Product refs must be the brand's own labels: store photos of oils named after designer perfumes
+  (BLUE CHANEL, CREED) were swapped for the MUSK VANILLA bottle. "note" look only for ads that have a note;
+  subs Hebrew-only (mixed Latin/Hebrew scrambles in RTL).
+- Higgsfield: ~58 credits (21 initial + 5 regen + 2 face fixes + 1 outpaint, nano_banana_pro 2k).
+- Verification (live, Playwright 390×844 / 1280×700 / 1440×900) found the quote band parallax used a
+  hard-coded page offset (`y - 2200`), leaving a grey stripe on tall phone pages. Now `bandShift()` is
+  relative to the band's own position and clamped inside its 12% bleed.
+- Base44 sandbox: app code is in `/app` (a fresh shell starts in `/workspace`).
