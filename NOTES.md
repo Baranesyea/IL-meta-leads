@@ -246,3 +246,12 @@
 - Lessons: the model invents packaging for loose products (Wiggle buffalo ears) — say "loose chews, no bag, no
   label". With a pasted-looking room band on top, re-prompt as "one real photograph taken in one room, the top
   third is the plain wall, no collage / inset / seams" — that fixed all five. Animals' faces get protect boxes too.
+
+## 2026-09-26 (evening) — CRM, lightbox fix, new home photos
+- **Lightbox X fix** (all client pages): the X now renders outside `.lb` as a fixed `.lbx` button (z-index max, safe-area aware), plus a second "סגירה" button under the copy. Verified live on mobile tap + desktop click, 3 pages.
+- **CRM** at `/crm` (`src/pages/Crm.jsx`): Base44 login + `role === 'admin'`, and the `LeadCRM` entity has admin-only RLS on every operation (anonymous API read returns `[]`).
+  Per lead: page link, website/FB/IG links, WhatsApp number, editable first message (autosaves on blur), wa.me link with the message prefilled, copy button, status select (חדש / נשלח / נענה / נקבעה פגישה / נסגר / לא מעוניין / לא רלוונטי) that stamps `last_contact_date`, notes. Filter tabs with counts.
+  Seed: `data/crm/seed.py` → `seed.json` (9 published leads, messages in Eran's voice). New leads: add a row with `create_entities` (entity `LeadCRM`).
+- Leads 076 (Stav) and 066 (B-scents) set to `published` with `client_page`.
+- **Home photos** replaced with the cinematic dark set from Higgsfield history (nano_banana_flash, 928×1152): hero 4b737cbb, story 6360cdd0, end c6dbc1bc. More in the same series: 753a4f8a, b16c1144, a5148b6f, 0c8c9086, 0b894934, d0893915, 4204d371, a0d1e0cc, d07635b7.
+  Hero photo edges are masked into the page colour; short phones (≤720px tall) get an 84% photo so the buttons never cover the face.
