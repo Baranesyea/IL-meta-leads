@@ -757,6 +757,53 @@ export const REPORTS = {
    "ad": 3,
    "quote": "כל תכשיט מתחיל אצלי בסקיצה.",
    "by": "סתיו תכשיטי יוקרה · שינקין 48, תל אביב"
+  },
+  "compare": {
+   "eyebrow": "היום מול מחר",
+   "title": [
+    "אותם תכשיטים.",
+    "שפה אחרת לגמרי."
+   ],
+   "before": {
+    "label": "היום",
+    "note": "מודעות שרצות אצלך עכשיו",
+    "items": [
+     {
+      "img": "/reports/stav/cur_01.webp",
+      "w": 720,
+      "h": 720,
+      "video": true
+     },
+     {
+      "img": "/reports/stav/cur_02.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/stav/cur_03.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/stav/cur_04.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "איתנו",
+    "note": "מתוך הקמפיין שבנינו בשבילך",
+    "ads": [
+     1,
+     18,
+     5,
+     13
+    ]
+   }
   }
  },
  "bscents-97198747": {
@@ -775,15 +822,15 @@ export const REPORTS = {
      "h": 1350,
      "direction": "contrast",
      "box": [
-      583,
+      432,
       67,
       1015,
-      445
+      364
      ],
      "top": true,
-     "ink": "#f4ecdf",
-     "paper": "rgb(217,208,197)",
-     "scrim": "rgba(0,0,0,0.36)",
+     "ink": "#1f1812",
+     "paper": "rgb(222,211,199)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate": false,
      "plate_bg": null,
      "brand_color": null,
@@ -837,17 +884,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "quiet",
+     "direction": "stack",
      "box": [
       86,
-      288,
+      250,
       993,
-      614
+      518
      ],
      "top": true,
      "ink": "#f4ecdf",
-     "paper": "rgb(27,15,9)",
-     "scrim": "rgba(0,0,0,0.42)",
+     "paper": "rgb(14,7,5)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate": false,
      "plate_bg": null,
      "brand_color": null,
@@ -937,16 +984,16 @@ export const REPORTS = {
      "box": [
       64,
       54,
-      648,
-      237
+      496,
+      356
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(222,218,215)",
+     "paper": "rgb(237,237,237)",
      "scrim": "rgba(250,246,238,0.14)",
      "plate": false,
      "plate_bg": null,
-     "brand_color": null,
+     "brand_color": "#231a12",
      "obj_pos": "center",
      "headline": "ריח שנשאר<br>גם בארון.",
      "sub": "גם אחרי המייבש",
@@ -1029,7 +1076,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "stack",
+     "direction": "cover",
      "box": [
       86,
       67,
@@ -1038,7 +1085,7 @@ export const REPORTS = {
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(227,222,218)",
+     "paper": "rgb(229,221,215)",
      "scrim": "rgba(250,246,238,0.14)",
      "plate": false,
      "plate_bg": null,
@@ -1061,17 +1108,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1080,
-     "direction": "cover",
+     "direction": "contrast",
      "box": [
-      86,
+      583,
       54,
-      993,
-      334
+      1015,
+      356
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(215,205,195)",
-     "scrim": "rgba(250,246,238,0.3)",
+     "paper": "rgb(218,208,199)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate": false,
      "plate_bg": null,
      "brand_color": null,
@@ -1129,12 +1176,12 @@ export const REPORTS = {
      "box": [
       64,
       67,
-      648,
-      256
+      496,
+      364
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(221,213,205)",
+     "paper": "rgb(55,36,23)",
      "scrim": "rgba(250,246,238,0.14)",
      "plate": false,
      "plate_bg": null,
@@ -1215,7 +1262,7 @@ export const REPORTS = {
     "angle": "A4",
     "format": "9:16",
     "img": "/reports/bscents/raw_15.webp",
-    "headline": "המפיץ שאשכרה מפיץ",
+    "headline": "ריח שממלא את החלל",
     "primary": "קניתם פעם מפיץ ריח ואחרי יומיים כבר לא הרגשתם כלום?\n\nה-B-150 של בי סנטס בנוי אחרת: מאוורר פנימי, משאבה מחוזקת ואידוי שמן בושם טהור, לחללים עד 150 מ״ר.\n\nהוא חסכוני בשמן ובחשמל, ומגיע עם 100 מ״ל שמן בושם.\n\n599 ש״ח, באתר.",
     "cta": "Shop Now",
     "spec": {
@@ -1236,7 +1283,7 @@ export const REPORTS = {
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
-     "headline": "מפיץ ריח<br>שאשכרה מפיץ.",
+     "headline": "ריח שממלא<br>את כל החלל.",
      "sub": "עד 150 מ״ר · 599 ש״ח",
      "note": null,
      "signature": null
@@ -1383,15 +1430,15 @@ export const REPORTS = {
      "h": 1350,
      "direction": "contrast",
      "box": [
-      432,
-      121,
+      583,
+      67,
       1015,
-      418
+      445
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(17,15,11)",
-     "scrim": "rgba(250,246,238,0.14)",
+     "paper": "rgb(209,199,188)",
+     "scrim": "rgba(250,246,238,0.26)",
      "plate": false,
      "plate_bg": null,
      "brand_color": null,
@@ -1464,7 +1511,7 @@ export const REPORTS = {
    {
     "id": "A4",
     "name": "בלי מים. בלי אדים. רק ריח.",
-    "hook": "מפיץ ריח שאשכרה מפיץ.",
+    "hook": "ריח שמרגישים מהרגע הראשון.",
     "idea": "הטכנולוגיה כיתרון: אידוי שמן בושם טהור, שליטה מהנייד ותזמון לפי ימים ושעות. תשובה ישירה לשאלה הכי גדולה של הקונים: זה בכלל מורגש?"
    },
    {
@@ -1474,6 +1521,53 @@ export const REPORTS = {
     "idea": "המפיץ לרכב והבשמים ליאו ולייה: מוצרים שכבר קיימים באתר ולא מקבלים חשיפה, ומרחיבים את הסל ואת עונת המתנות."
    }
   ],
+  "compare": {
+   "eyebrow": "היום מול מחר",
+   "title": [
+    "אותם מוצרים.",
+    "שפה אחרת לגמרי."
+   ],
+   "before": {
+    "label": "היום",
+    "note": "מודעות שרצות אצלכם עכשיו",
+    "items": [
+     {
+      "img": "/reports/bscents/cur_01.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/bscents/cur_02.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/bscents/cur_03.webp",
+      "w": 2160,
+      "h": 2160,
+      "video": true
+     },
+     {
+      "img": "/reports/bscents/cur_04.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     }
+    ]
+   },
+   "after": {
+    "label": "איתנו",
+    "note": "מתוך הקמפיין שבנינו בשבילכם",
+    "ads": [
+     1,
+     8,
+     5,
+     7
+    ]
+   }
+  },
   "strip": [
    1,
    15,
@@ -1488,9 +1582,9 @@ export const REPORTS = {
    "ad": 15,
    "eyebrow": "הדגל שלכם",
    "title": [
-    "מפיץ ריח.",
-    "שאשכרה",
-    "מפיץ."
+    "ריח שממלא",
+    "את כל",
+    "החלל."
    ],
    "text": "עד 150 מ״ר. אידוי תמצית שמן בושם בלי מים, בלי גז ובלי אלכוהול. תזמון ימים ושעות ישר מהנייד, וריח שנשאר בחלל גם כשהמכשיר כבוי.",
    "price": "599 ש״ח · כולל 100 מ״ל שמן בושם"

@@ -37,8 +37,24 @@ def _webp(src: Path, dst: Path, max_w: int = 1400) -> None:
     im.save(dst, "WEBP", quality=86)
 
 
+def export_current(lead: dict, folder: str, picks: list[int]) -> list[dict]:
+    """Their ads as they run today (Ad Library media, picked by index into current_ads) for the
+    before/after row. Video ads show their thumbnail with a play mark."""
+    out = []
+    for k, i in enumerate(picks):
+        a = lead["current_ads"][i]
+        m = a["media"][0]
+        src = OUTPUT / (m.get("thumb") or m["path"])
+        name = f"cur_{k + 1:02d}.webp"
+        _webp(src, WEB / "public" / "reports" / folder / name, max_w=900)
+        w, h = Image.open(src).size
+        out.append(dict(img=f"/reports/{folder}/{name}", w=w, h=h, video=m.get("type") == "video"))
+    return out
+
+
 def export_lead(lead: dict, slug: str, folder: str, copy: dict, hero_img: str | None = None) -> dict:
-    """Write images to public/reports/<folder>/ and the REPORTS[slug] entry; returns the entry."""
+    """Write images to public/reports/<folder>/ and the REPORTS[slug] entry; returns the entry.
+    copy["compare"]["before"]["picks"] (indices into current_ads) become the "today" row."""
     base = OUTPUT / lead["lead_id"]
     pub = WEB / "public" / "reports" / folder
     ads = []
@@ -53,6 +69,10 @@ def export_lead(lead: dict, slug: str, folder: str, copy: dict, hero_img: str | 
                         primary=ad["primary_text"], cta=ad["cta"], spec=spec))
     if hero_img:
         _webp(base / hero_img, pub / "hero.webp", max_w=1800)
+    copy = json.loads(json.dumps(copy))
+    cmp = copy.get("compare")
+    if cmp:
+        cmp["before"]["items"] = export_current(lead, folder, cmp["before"].pop("picks"))
     entry = dict(slug=slug, ads=ads, hero_bg=f"/reports/{folder}/hero.webp", **copy)
     reports = _read()
     reports[slug] = entry

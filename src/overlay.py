@@ -293,15 +293,39 @@ MEASURE_JS = """() => {
   const px = els.length ? Math.max(...els.map(e => parseFloat(getComputedStyle(e).fontSize))) : 0;
   let x0 = 1e9, y0 = 1e9, x1 = -1, y1 = -1;
   document.querySelectorAll('.zone *, .pnl *').forEach(e => {
-    if (!e.offsetParent || !e.textContent.trim() || e.children.length) return;
-    const rg = document.createRange(); rg.selectNodeContents(e);   // the letters, not the block
-    const r = rg.getBoundingClientRect(); if (!r.width) return;
-    x0 = Math.min(x0, r.left); y0 = Math.min(y0, r.top); x1 = Math.max(x1, r.right); y1 = Math.max(y1, r.bottom);
+    if (!e.offsetParent) return;
+    e.childNodes.forEach(t => {        // every text run, also inside a headline split by <br>
+      if (t.nodeType !== 3 || !t.textContent.trim()) return;
+      const rg = document.createRange(); rg.selectNodeContents(t);   // the letters, not the block
+      const r = rg.getBoundingClientRect(); if (!r.width) return;
+      x0 = Math.min(x0, r.left); y0 = Math.min(y0, r.top); x1 = Math.max(x1, r.right); y1 = Math.max(y1, r.bottom);
+    });
   });
   return {main_px: px, text_box: x1 < 0 ? null : [x0, y0, x1, y1]};
 }"""
 MIN_MAIN_PX = {"note": 92}   # script needs more size to read
 MIN_MAIN_PX_DEFAULT = 78     # on a 1080 canvas ≈ 28px on a phone-width feed
+
+
+def crossing_lines(canvas: Image.Image, box) -> float:
+    """How strongly a straight edge (a wall corner, ceiling line, window frame, shelf) runs through the
+    text box: the largest share of one row or column of the box where the photo steps in brightness.
+    Letters laid over such a line read broken on a phone even when the average contrast is fine."""
+    import numpy as np
+    w, h = canvas.size
+    x0, y0, x1, y1 = (int(v) for v in box)
+    x0, y0, x1, y1 = max(x0 - 12, 0), max(y0 - 12, 0), min(x1 + 12, w), min(y1 + 12, h)
+    if x1 - x0 < 16 or y1 - y0 < 16:
+        return 0.0
+    g = np.asarray(canvas.convert("L").filter(ImageFilter.GaussianBlur(2)).crop((x0, y0, x1, y1)), dtype=float)
+    dy = np.abs(g[4:, :] - g[:-4, :])       # soft architectural edges step over a few pixels
+    dx = np.abs(g[:, 4:] - g[:, :-4])
+    return float(max((dy > LINE_STEP).mean(1).max(), (dx > LINE_STEP).mean(0).max()))
+
+
+LINE_STEP = 5          # brightness step (0-255) that reads as an edge behind thin type
+MAX_LINE = 0.5         # above this the ad is flagged for a look at phone size (not a gate: soft wall
+                       # shadows score high and diagonal soffits low — the eye decides, then regenerate)
 
 
 def _legible(j: dict) -> bool:
@@ -360,6 +384,8 @@ def render(jobs: list[dict]) -> list[str]:
             pg.wait_for_selector("body[data-ready='1']", timeout=15000)
             pg.wait_for_timeout(200)
             j["measured"] = pg.evaluate(MEASURE_JS)
+            if j["measured"].get("text_box"):
+                j["measured"]["lines"] = round(crossing_lines(canvas, j["measured"]["text_box"]), 2)
             pg.screenshot(path=j["out"], clip={"x": 0, "y": 0, "width": w, "height": h})
             pg.close()
             tmp.unlink()
@@ -434,6 +460,9 @@ def render_lead(lead: dict) -> list[str]:
     for j in jobs:
         if not _legible(j):
             log.warning("ad %s: no look fits cleanly (%s)", Path(j["out"]).name, j.get("measured"))
+        elif (j.get("measured") or {}).get("lines", 0) > MAX_LINE:
+            log.warning("ad %s: an edge runs through the text (%s) - check at phone size",
+                        Path(j["out"]).name, j["measured"]["lines"])
     for ad, j in zip(ads, jobs):
         ad.setdefault("layout", {}).update(rendered_direction=j["direction"], rendered_zone=j["zone"],
                                            render=j.get("params"))

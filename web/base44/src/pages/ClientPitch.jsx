@@ -140,6 +140,22 @@ html:has(.bp){scroll-behavior:smooth}
 @media (max-width:980px){.bp .ins{grid-template-columns:1fr 1fr}.bp .ins > div:nth-child(2){border-left:0}}
 @media (max-width:560px){.bp .ins{grid-template-columns:1fr}.bp .ins > div{border-left:0;border-bottom:1px solid #dcd1c1;padding:30px 0 40px}}
 
+/* before / after: their ads today, then ours */
+.bp .cmp{background:var(--paper);padding:30px 0 40px}
+.bp .cmp .top{margin-bottom:46px}
+.bp .cmp h2{margin:14px 0 0;line-height:1.05}
+.bp .cmp h2 .b{display:block;font-weight:900;font-size:clamp(34px,4.4vw,60px)}
+.bp .cmp h2 .l{display:block;font-weight:300;font-size:clamp(30px,3.9vw,54px)}
+.bp .cmp .lab{display:flex;align-items:baseline;gap:16px;margin:0 0 16px;flex-wrap:wrap}
+.bp .cmp .lab b{font-weight:900;font-size:clamp(24px,2.4vw,32px)}
+.bp .cmp .lab span{font-weight:300;font-size:17px;color:var(--muted)}
+.bp .cmp .set + .set{margin-top:56px}
+.bp .cmp .ads .cur{position:relative;overflow:hidden;background:#e9e1d4}
+.bp .cmp .ads .cur img{display:block;width:100%;height:auto}
+.bp .cmp .ads .cur .play{position:absolute;top:12px;left:12px;width:34px;height:34px;border-radius:50%;background:rgba(10,8,6,.55);
+  color:#fff;display:grid;place-items:center;font-size:13px;padding-left:2px;backdrop-filter:blur(4px)}
+@media (max-width:540px){.bp .cmp .set + .set{margin-top:40px}.bp .cmp .lab{margin-bottom:12px}}
+
 /* angles */
 .bp .angle{padding:120px 0;border-top:1px solid #e1d7c8}
 .bp .angle.alt{background:var(--paper)}
@@ -438,6 +454,51 @@ export default function ClientPitch({ slug: fixedSlug }) {
           </div>
         ))}
       </section>
+      {/* before / after: the ads they run today, then the same brand in our campaign */}
+      {r.compare && (() => {
+        const c = r.compare, per = cols === 1 ? 2 : 4;
+        const before = c.before.items.map((it) => ({ ...it, ar: it.w / it.h }));
+        const after = (c.after.ads || []).map(ad).filter(Boolean);
+        return (
+          <section className="cmp">
+            <div className="wrap">
+              <div className="top reveal">
+                <div className="eyebrow">{c.eyebrow}</div>
+                <h2>{two(c.title[0], c.title[1])}</h2>
+              </div>
+              <div className="set">
+                <div className="lab reveal"><b>{c.before.label}</b><span>{c.before.note}</span></div>
+                <div className="ads">
+                  {chunk(before, per).map((row, ri) => (
+                    <div key={ri} className="row">
+                      {row.map((it, k) => (
+                        <div key={k} className="cur reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${it.ar * 100} 1 0` }}>
+                          <img src={it.img} alt="" loading="lazy" />
+                          {it.video && <span className="play" aria-hidden="true">▶</span>}
+                        </div>
+                      ))}
+                    </div>
+                  ))}
+                </div>
+              </div>
+              <div className="set">
+                <div className="lab reveal"><b>{c.after.label}</b><span>{c.after.note}</span></div>
+                <div className="ads">
+                  {chunk(after, per).map((row, ri) => (
+                    <div key={ri} className="row">
+                      {row.map((a, k) => (
+                        <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${(a.spec.w / a.spec.h) * 100} 1 0` }} onClick={() => setOpen(a)}>
+                          <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
+                        </div>
+                      ))}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </section>
+        );
+      })()}
       <div className="ins-next reveal"><a className="go" href="#campaign">{rv.next || "לקמפיין שבנינו בשבילך"} <span aria-hidden="true">↓</span></a></div>
 
       {/* campaign strip */}

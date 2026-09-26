@@ -1967,7 +1967,7 @@
     "name": "בלי מים. בלי אדים. רק ריח.",
     "idea": "הטכנולוגיה כיתרון: אידוי שמן בושם טהור, שליטה מהנייד, תזמון לפי ימים ושעות.",
     "persona": "הבית כמלון",
-    "hook": "מפיץ ריח שאשכרה מפיץ.",
+    "hook": "ריח שמרגישים מהרגע הראשון.",
     "why": "עונה על ההתנגדות הכי גדולה ('זה בכלל מורגש?') וממצב מול מפיצי אדים זולים."
    },
    {
@@ -1999,7 +1999,7 @@
    "to_verify": [],
    "layout": {
     "rendered_direction": "contrast",
-    "rendered_zone": "mid_right",
+    "rendered_zone": "top_right",
     "render": {
      "w": 1080,
      "h": 1350,
@@ -2010,17 +2010,17 @@
      "signature": "",
      "brand": "בי סנטס",
      "box": [
-      583,
+      432,
       67,
       1015,
-      445
+      364
      ],
      "top": true,
-     "ink": "#f4ecdf",
-     "paper": "rgb(217,208,197)",
-     "accent": "#f4ecdf",
+     "ink": "#1f1812",
+     "paper": "rgb(222,211,199)",
+     "accent": "#1f1812",
      "scrim_on": true,
-     "scrim": "rgba(0,0,0,0.36)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -2032,19 +2032,25 @@
    "image_raw": "ads_raw/ad_01.png",
    "protect": [
     [
-     0.53,
-     0.42,
-     0.77,
-     0.64
+     0.41,
+     0.4,
+     0.58,
+     0.6
     ],
     [
-     0.08,
-     0.42,
-     0.52,
-     0.88
+     0.0,
+     0.44,
+     0.48,
+     0.86
+    ],
+    [
+     0.0,
+     0.36,
+     1.0,
+     1.0
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044320_5d576827-6538-4fcc-8d9c-c65a68cb92d8.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_ff191a05-1d10-4592-8789-6cd51c8eb958.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. The white wall-mounted electric scent diffuser from the reference, mounted at eye level on a warm travertine wall in a serene luxury home entryway, a low oak console below with a ceramic vase of dried olive branches, soft late-afternoon window light raking across the stone. Leave the upper third of the frame calm and uncluttered (plain wall, ceiling or soft background) for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2065,6 +2071,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -2132,12 +2139,12 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "quiet",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1920,
-     "direction": "quiet",
+     "direction": "stack",
      "headline": "חמישה כוכבים.<br>בלי צ׳ק אאוט.",
      "sub": "שמן בושם 100% · בלי מים",
      "note": null,
@@ -2145,16 +2152,16 @@
      "brand": "בי סנטס",
      "box": [
       86,
-      288,
+      250,
       993,
-      614
+      518
      ],
      "top": true,
      "ink": "#f4ecdf",
-     "paper": "rgb(27,15,9)",
+     "paper": "rgb(14,7,5)",
      "accent": "#f4ecdf",
      "scrim_on": true,
-     "scrim": "rgba(0,0,0,0.42)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -2166,25 +2173,25 @@
    "image_raw": "ads_raw/ad_03.png",
    "protect": [
     [
-     0.33,
-     0.46,
-     0.7,
-     0.72
+     0.36,
+     0.52,
+     0.65,
+     0.74
     ],
     [
-     0.2,
-     0.74,
-     0.75,
-     0.97
+     0.28,
+     0.73,
+     0.58,
+     1.0
     ],
     [
-     0.22,
-     0.33,
-     0.42,
-     0.47
+     0.0,
+     0.3,
+     1.0,
+     1.0
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044634_141a7ff5-b7a5-4349-94ae-2ebe67cdcf9c.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_3548364e-889c-4869-bdd5-0966f985d68a.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. The black wall-mounted diffuser from the first reference on a dark walnut-panelled wall of a moody boutique-hotel style living room at dusk, a brass floor lamp casting a warm pool of light, the perfume-oil bottle from the second reference on a low marble side table beneath it. Deep shadows, rich warm tones. Leave the upper third of the frame calm and uncluttered (plain wall, ceiling or soft background) for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2205,6 +2212,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "cover",
     "rendered_direction": "cover",
     "rendered_zone": "top",
     "render": {
@@ -2272,6 +2280,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "stack",
     "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
@@ -2340,7 +2349,7 @@
    "to_verify": [],
    "layout": {
     "rendered_direction": "contrast",
-    "rendered_zone": "top_left",
+    "rendered_zone": "mid_left",
     "render": {
      "w": 1080,
      "h": 1080,
@@ -2353,17 +2362,17 @@
      "box": [
       64,
       54,
-      648,
-      237
+      496,
+      356
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(222,218,215)",
+     "paper": "rgb(237,237,237)",
      "accent": "#1f1812",
      "scrim_on": true,
      "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
-     "brand_color": null,
+     "brand_color": "#231a12",
      "obj_pos": "center",
      "panel_side": "right",
      "plate": false
@@ -2373,19 +2382,19 @@
    "image_raw": "ads_raw/ad_06.png",
    "protect": [
     [
-     0.36,
-     0.28,
-     0.68,
+     0.54,
+     0.08,
+     1.0,
      1.0
     ],
     [
-     0.71,
-     0.55,
-     0.82,
-     0.85
+     0.39,
+     0.6,
+     0.51,
+     0.9
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044320_64f939c7-b614-4ed1-9a13-f00b334d2ae0.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_cf8ca1af-5a26-4f4f-9e23-930336360bf2.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. A smiling woman in her early thirties in a soft grey knit, pressing a freshly folded white towel to her face and breathing in, in a bright Scandinavian laundry room with white cabinets; the laundry perfume bottle from the reference stands on the counter beside her. Natural daylight, joyful and clean. Keep one side of the frame calm and uncluttered for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2406,6 +2415,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "top_left",
     "render": {
@@ -2467,6 +2477,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -2534,12 +2545,12 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "stack",
+    "rendered_direction": "cover",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1350,
-     "direction": "stack",
+     "direction": "cover",
      "headline": "לקוחות זוכרים<br>איך המקום הריח.",
      "sub": "לעסקים · עד 420 מ״ר",
      "note": null,
@@ -2553,7 +2564,7 @@
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(227,222,218)",
+     "paper": "rgb(229,221,215)",
      "accent": "#1f1812",
      "scrim_on": true,
      "scrim": "rgba(250,246,238,0.14)",
@@ -2568,19 +2579,25 @@
    "image_raw": "ads_raw/ad_09.png",
    "protect": [
     [
-     0.43,
-     0.38,
-     0.64,
-     0.56
+     0.2,
+     0.46,
+     0.39,
+     0.63
+    ],
+    [
+     0.5,
+     0.47,
+     1.0,
+     0.92
     ],
     [
      0.0,
-     0.55,
+     0.62,
      1.0,
      1.0
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044320_34f94910-69e5-4dbf-92b6-ce95551a538b.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_48808455-c064-4b67-8253-3fdedf586d07.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. Minimal high-end fashion boutique interior with pale plaster walls, a few neutral garments on a brushed brass rail, a travertine plinth, and the white horizontal scent machine from the reference mounted discreetly on the wall; warm gallery spotlights, calm and expensive. Leave the upper third of the frame calm and uncluttered (plain wall, ceiling or soft background) for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2601,29 +2618,29 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
-    "rendered_zone": "top",
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
     "render": {
      "w": 1080,
      "h": 1080,
-     "direction": "cover",
+     "direction": "contrast",
      "headline": "הריח הוא<br>קבלת הפנים.",
      "sub": "בישום מקצועי לעסקים",
      "note": null,
      "signature": "",
      "brand": "בי סנטס",
      "box": [
-      86,
+      583,
       54,
-      993,
-      334
+      1015,
+      356
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(215,205,195)",
+     "paper": "rgb(218,208,199)",
      "accent": "#1f1812",
      "scrim_on": true,
-     "scrim": "rgba(250,246,238,0.3)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -2635,19 +2652,31 @@
    "image_raw": "ads_raw/ad_10.png",
    "protect": [
     [
-     0.58,
-     0.4,
-     0.78,
-     0.68
+     0.69,
+     0.44,
+     0.89,
+     0.73
     ],
     [
-     0.08,
+     0.1,
      0.46,
-     0.56,
-     0.95
+     0.58,
+     0.82
+    ],
+    [
+     0.9,
+     0.45,
+     1.0,
+     0.8
+    ],
+    [
+     0.0,
+     0.78,
+     1.0,
+     1.0
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044320_e575b5a6-b7bc-4a4f-8d28-19395efb3c30.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_c6766397-0092-4a58-b856-3cf730287b13.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. Boutique hotel reception: a curved travertine desk, a large arrangement of white flowers, soft linen-shaded lamps, and the black wall-mounted diffuser from the reference on the wall behind the desk. No people. Warm, welcoming, quiet luxury. Leave the upper third of the frame calm and uncluttered (plain wall, ceiling or soft background) for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2668,6 +2697,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "top_right",
     "render": {
@@ -2736,7 +2766,7 @@
    "to_verify": [],
    "layout": {
     "rendered_direction": "contrast",
-    "rendered_zone": "top_left",
+    "rendered_zone": "mid_left",
     "render": {
      "w": 1080,
      "h": 1350,
@@ -2749,12 +2779,12 @@
      "box": [
       64,
       67,
-      648,
-      256
+      496,
+      364
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(221,213,205)",
+     "paper": "rgb(55,36,23)",
      "accent": "#1f1812",
      "scrim_on": true,
      "scrim": "rgba(250,246,238,0.14)",
@@ -2769,25 +2799,31 @@
    "image_raw": "ads_raw/ad_12.png",
    "protect": [
     [
-     0.48,
-     0.22,
+     0.5,
+     0.32,
      0.82,
-     0.76
-    ],
-    [
-     0.35,
-     0.21,
-     0.49,
-     0.42
-    ],
-    [
-     0.3,
-     0.7,
-     1.0,
      1.0
+    ],
+    [
+     0.78,
+     0.38,
+     0.96,
+     0.58
+    ],
+    [
+     0.0,
+     0.32,
+     0.62,
+     1.0
+    ],
+    [
+     0.64,
+     0.0,
+     1.0,
+     0.4
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_044320_6d242f6d-9236-4bfd-a93e-a8a5e23ee963.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052836_a3ab970e-e175-4735-ab67-cccf8d7dd741.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. A stylish woman in her early forties, owner of an elegant concept store, standing behind her oak counter checking her phone with a calm confident expression; the white wall-mounted diffuser from the reference is on the plaster wall behind her. Warm afternoon light, shallow depth of field. Keep one side of the frame calm and uncluttered for typography. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2808,6 +2844,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -2881,6 +2918,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "stack",
     "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
@@ -2935,26 +2973,27 @@
    "ad_no": 15,
    "angle_id": "A4",
    "format": "9:16",
-   "overlay": "מפיץ ריח<br>שאשכרה מפיץ.",
+   "overlay": "ריח שממלא<br>את כל החלל.",
    "overlay_sub": "עד 150 מ״ר · 599 ש״ח",
    "note": null,
    "primary_text": "קניתם פעם מפיץ ריח ואחרי יומיים כבר לא הרגשתם כלום?\n\nה-B-150 של בי סנטס בנוי אחרת: מאוורר פנימי, משאבה מחוזקת ואידוי שמן בושם טהור, לחללים עד 150 מ״ר.\n\nהוא חסכוני בשמן ובחשמל, ומגיע עם 100 מ״ל שמן בושם.\n\n599 ש״ח, באתר.",
    "alt_texts": [
-    "מפיץ ריח שאשכרה מפיץ. B-150 עם 100 מ״ל שמן."
+    "ריח שממלא את כל החלל. B-150 עם 100 מ״ל שמן."
    ],
-   "headline": "המפיץ שאשכרה מפיץ",
+   "headline": "ריח שממלא את החלל",
    "description": "B-150 · 599 ש״ח",
    "cta": "Shop Now",
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "cover",
     "rendered_direction": "cover",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1920,
      "direction": "cover",
-     "headline": "מפיץ ריח<br>שאשכרה מפיץ.",
+     "headline": "ריח שממלא<br>את כל החלל.",
      "sub": "עד 150 מ״ר · 599 ש״ח",
      "note": null,
      "signature": "",
@@ -3015,6 +3054,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -3076,6 +3116,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "cover",
     "rendered_direction": "cover",
     "rendered_zone": "top",
     "render": {
@@ -3143,6 +3184,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -3216,6 +3258,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -3278,7 +3321,7 @@
    "to_verify": [],
    "layout": {
     "rendered_direction": "contrast",
-    "rendered_zone": "top_right",
+    "rendered_zone": "mid_right",
     "render": {
      "w": 1080,
      "h": 1350,
@@ -3289,17 +3332,17 @@
      "signature": "",
      "brand": "בי סנטס",
      "box": [
-      432,
-      121,
+      583,
+      67,
       1015,
-      418
+      445
      ],
      "top": true,
      "ink": "#1f1812",
-     "paper": "rgb(17,15,11)",
+     "paper": "rgb(209,199,188)",
      "accent": "#1f1812",
      "scrim_on": true,
-     "scrim": "rgba(250,246,238,0.14)",
+     "scrim": "rgba(250,246,238,0.26)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -3311,25 +3354,25 @@
    "image_raw": "ads_raw/ad_20.png",
    "protect": [
     [
-     0.0,
-     0.0,
-     0.32,
-     1.0
-    ],
-    [
-     0.3,
-     0.33,
-     0.72,
-     0.72
-    ],
-    [
      0.38,
+     0.5,
+     0.62,
+     0.83
+    ],
+    [
      0.58,
-     0.6,
-     0.88
+     0.55,
+     1.0,
+     0.8
+    ],
+    [
+     0.0,
+     0.0,
+     0.45,
+     0.62
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_045006_aa303f05-f250-4ce9-a04d-9c7c9d31bc95.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_052835_2b8be62c-860f-432b-8225-1f5f58de77cb.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial advertising photograph, quiet-luxury architectural interior style, soft natural light, refined muted palette, shot on medium format, shallow depth of field, photorealistic, magazine campaign quality. Sunny daytime inside a luxury car, shot from the back seat between the front seats: the gold car scent diffuser from the reference sits sharp in the centre cup holder in the lower third; a woman in a cream blazer is at the wheel on the left, seen from behind and softly out of focus (no face visible); through the windshield a bright, soft, empty sky fills the upper half of the frame. The upper 40% of the frame must be bright, calm sky with nothing in it. The product must be an exact match of the reference photo: same shape, proportions, color, materials, buttons and logo placement — do not redesign it, do not add or change any text or label on it. No other text, signage, watermarks or logos anywhere in the image. "
   }
@@ -3345,7 +3388,7 @@
   "filtered": "2026-09-25T13:06:50",
   "qualified": "2026-09-25T13:09:09",
   "collected": "2026-09-26T04:36:36",
-  "researched": "2026-09-26T04:54:01"
+  "researched": "2026-09-26T05:30:36"
  },
  "qualify": {
   "pages_checked": [

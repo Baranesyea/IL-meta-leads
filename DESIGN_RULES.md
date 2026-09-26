@@ -20,6 +20,10 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - **Full bleed only.** No colour strip / panel cutting the photo, no plate/box behind text ("a compromise").
   Legibility comes from placing text in the photo's own calm space; if needed a soft band scrim feathered
   around the text (measured strength), never a box.
+- **Text never sits on a line in the photo** — a wall corner, ceiling/soffit edge, window frame, shelf or panel
+  seam. Letters over an edge read broken on a phone. Prompt for one seamless wall/backdrop where the text goes
+  (no corners, frames or objects) and fence the lines off with protect boxes; if the photo has no clean space,
+  regenerate it. The renderer flags edges through the text (`lines` in the measurement) — check those by eye.
 - **Text never touches the product, a face, lips or hands.** Hand-drawn `protect` boxes per ad, tight and
   separate (face and hand are two boxes). Keep clear air around the jewel/product.
 - **Big and legible on a phone:** main line ≥ 78px on the 1080 canvas (script ≥ 92px); sub lines not faded;
@@ -27,7 +31,7 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - Contrast: measured per ad (4.5:1 big type, 7:1 thin/script/small). Brand line hidden on busy strips.
 - Baked-in black bands in generated images: crop, or outpaint the missing space (keep the original pixels).
 - Hebrew text is rendered after generation (HTML/CSS), never by the image model.
-- Copy: natural Israeli Hebrew, strong hooks, Meta policy (no personal-attribute claims, no fake urgency).
+- Copy: natural Israeli Hebrew, strong hooks, no slang that cheapens the brand (e.g. "אשכרה"), Meta policy (no personal-attribute claims, no fake urgency).
 
 ## Client page (one per client, `/p/<unguessable-slug>`)
 - Standalone brand showcase: no menus to other clients, no internal notes. The client must say "wow".
@@ -35,7 +39,9 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - Structure: fixed bar (wordmark, nav: מה היינו משנים / הקמפיין / 20 המודעות) → HERO (full screen, the
   product visible — on phones the words sit in the photo's dark space and the product is never under text or
   shade; on desktop the whole photo, words on the other side) with a CTA button "מה היינו משנים בקמפיין שלך"
-  → the review right after the hero ("עברנו על הקמפיין שלך", 4 insights, button to the campaign) → campaign
+  → the review right after the hero ("עברנו על הקמפיין שלך", 4 insights) → before/after: one row of 4 ads
+  they run today (from the Ad Library, videos as thumbnails) above one row of 4 of ours for the same products
+  ("היום" / "איתנו") → button to the campaign → campaign
   strip → editorial split (photo above text on phones) → quote band (text in the photo's dark area, product
   clear) → 5 angle sections → closing: "<name>, את כל זה הכנו בשבילך. בחינם, בלי התחייבות." + what working
   together adds + WhatsApp button (Eran: https://wa.me/972545471522).
