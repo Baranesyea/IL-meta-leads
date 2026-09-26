@@ -1,6 +1,7 @@
 # Project: Ad Lead Engine (Israel)
 
 > Implementation status, findings and decisions live in `NOTES.md` — read it first.
+> Eran's binding design rules for ads and client pages: `DESIGN_RULES.md` — check every item before showing work.
 
 ## Mission
 Every day, find **10 qualified leads**: small/medium Israeli businesses that sell **physical products** and are **currently running ads on Meta**. For each lead, research their ads, write a strategic mini report, generate **20 new premium product ads** (image + Hebrew copy), and produce two HTML pages:
