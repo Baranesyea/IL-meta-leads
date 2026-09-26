@@ -49,13 +49,27 @@ const CSS = `
 /* phones: the words sit in the photo's own dark space on top, the photo below them untouched —
    the necklace and pendant (the product) are never under a shade or under type */
 @media (max-width:760px){.bp .hero{background:#010c0b}
-  .bp .hero .bg{inset:30% 0 -3% 0;background-position:center bottom;
+  .bp .hero .bg{inset:36% 0 -3% 0;background-position:center bottom;
     -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 14%);mask-image:linear-gradient(to bottom,transparent 0,#000 14%)}
   .bp .hero .shade{display:none}
   .bp .hero .copy{top:96px;bottom:auto;padding:0 22px}
   .bp .hero .eyebrow{font-size:15px}
   .bp .hero h1 .b{font-size:52px}.bp .hero h1 .l{font-size:44px}
-  .bp .hero .sig{font-size:64px;margin-top:2px}}
+  .bp .hero .sig{display:none}
+  .bp .hero .go{margin-top:24px;padding:14px 22px;font-size:16px}}
+
+/* call-to-action link used in the hero and after the review */
+.bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
+  text-decoration:none;font-size:17px;font-weight:400;letter-spacing:.02em;transition:background .35s,color .35s}
+.bp .go span{display:inline-block;animation:nudge 2.2s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+.bp .hero .go{margin-top:30px;color:#f4eee4;border-color:rgba(244,238,228,.7);background:rgba(7,6,5,.18);backdrop-filter:blur(6px)}
+.bp .hero .go:hover{background:#f4eee4;color:#0d0b08}
+.bp .ins-next{background:var(--paper);text-align:center;padding:10px 24px 110px}
+.bp .ins-next .go{color:var(--ink)}
+.bp .ins-next .go:hover{background:var(--ink);color:var(--paper)}
+.bp section[id],.bp #angles{scroll-margin-top:74px}
+html:has(.bp){scroll-behavior:smooth}
 
 /* campaign marquee */
 .bp .marquee{padding:90px 0 70px;background:var(--paper);overflow:hidden}
@@ -93,7 +107,7 @@ const CSS = `
 .bp .band .q .by{margin-top:26px;font-size:16px;letter-spacing:.06em;opacity:.85}
 
 /* pitch: what we saw */
-.bp .intro{padding:130px 0 70px;background:var(--paper)}
+.bp .intro{padding:120px 0 70px;background:var(--paper)}
 .bp .intro .g{display:grid;grid-template-columns:1.1fr .9fr;gap:70px;align-items:end}
 .bp .intro h2{margin:14px 0 0;line-height:1}
 .bp .intro h2 .b{display:block;font-weight:900;font-size:clamp(38px,5vw,72px)}
@@ -321,8 +335,29 @@ export default function ClientPitch({ slug: fixedSlug }) {
             <Type className="l" text={h1b} delay={700 + typeMs(h1a, 70) + 250} speed={70} />
           </h1>
           <div className="script sig fadein d4">{b.owner_first}</div>
+          <a className="go hero-go fadein d4" href="#review">מה היינו משנים בקמפיין שלך <span aria-hidden="true">↓</span></a>
         </div>
       </section>
+
+      <section className="intro" id="review">
+        <div className="wrap g">
+          <div className="reveal">
+            <div className="eyebrow">עברנו על הקמפיין שלך</div>
+            <h2>{two("התכשיטים שלך ברמה של מגזין.", "המודעות עוד לא.")}</h2>
+          </div>
+          <p className="reveal">עברנו על המודעות הפעילות שלך בספריית המודעות של מטא, על האתר ועל הקולקציות. אפשר להוציא מהן הרבה יותר. אלה הדברים שהיינו משנים, ומיד אחריהם הקמפיין שבנינו בשבילך.</p>
+        </div>
+      </section>
+      <section className="wrap ins">
+        {r.insights.map((it, i) => (
+          <div key={i} className="reveal" style={{ transitionDelay: `${i * 100}ms` }}>
+            <div className="n">0{i + 1}</div>
+            <Type as="h3" text={it.t} delay={i * 250} />
+            <p>{it.d}</p>
+          </div>
+        ))}
+      </section>
+      <div className="ins-next reveal"><a className="go" href="#campaign">לקמפיין שבנינו בשבילך <span aria-hidden="true">↓</span></a></div>
 
       {/* campaign strip */}
       <section className="marquee" id="campaign">
@@ -363,25 +398,6 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </section>
 
       {/* the pitch */}
-      <section className="intro">
-        <div className="wrap g">
-          <div className="reveal">
-            <div className="eyebrow">מה ראינו</div>
-            <h2>{two("התכשיטים שלך ברמה של מגזין.", "המודעות עוד לא.")}</h2>
-          </div>
-          <p className="reveal">עברנו על המודעות הפעילות שלך בספריית המודעות של מטא, על האתר ועל הקולקציות. זה מה שבלט לנו, ומזה בנינו את הקמפיין שראית למעלה.</p>
-        </div>
-      </section>
-      <section className="wrap ins">
-        {r.insights.map((it, i) => (
-          <div key={i} className="reveal" style={{ transitionDelay: `${i * 100}ms` }}>
-            <div className="n">0{i + 1}</div>
-            <Type as="h3" text={it.t} delay={i * 250} />
-            <p>{it.d}</p>
-          </div>
-        ))}
-      </section>
-
       <div id="angles" />
       {r.angles.map((ang, i) => (
         <section key={ang.id} className={`angle ${i % 2 ? "alt" : ""}`}>
