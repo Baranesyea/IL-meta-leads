@@ -14,6 +14,8 @@ import BScents from '@/pages/BScents';
 import AstaIn from '@/pages/AstaIn';
 import JewelryFactory from '@/pages/JewelryFactory';
 import MyDeal from '@/pages/MyDeal';
+import HairCosmetics from '@/pages/HairCosmetics';
+import Jackson from '@/pages/Jackson';
 
 // Public site: a home page (content coming) + one standalone page per client at /p/<unguessable-slug>.
 // No menus, no lists: a client only ever sees their own page.
@@ -49,6 +51,8 @@ const AuthenticatedApp = () => {
       <Route path="/p/astain-3f8c21d7" element={<AstaIn />} />
       <Route path="/p/jewelryfactory-8d2e61b4" element={<JewelryFactory />} />
       <Route path="/p/mydeal-5b7e19c2" element={<MyDeal />} />
+      <Route path="/p/haircosmetics-8b8eb022" element={<HairCosmetics />} />
+      <Route path="/p/jackson-18bceed3" element={<Jackson />} />
       {/* CLIENT-ROUTES:END */}
       <Route path="/p/:slug" element={<ClientPitch />} />
       <Route path="*" element={<PageNotFound />} />

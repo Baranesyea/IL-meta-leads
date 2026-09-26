@@ -1,679 +1,2106 @@
 {
-  "lead_id": "2026-09-25-086",
-  "status": "qualified",
-  "reject_reason": null,
-  "business": {
-    "name_he": "",
-    "name_en": "",
-    "website": "https://jackson.co.il/",
-    "city": "",
-    "category": "",
-    "owner_name": "",
-    "email": ""
+ "lead_id": "2026-09-25-086",
+ "status": "published",
+ "reject_reason": null,
+ "business": {
+  "name_he": "ג׳קסון תכשיטים",
+  "name_en": "Jackson Jewelry",
+  "website": "https://jackson.co.il/",
+  "city": "רמת גן",
+  "category": "תכשיטי זהב ויהלומים",
+  "owner_name": "",
+  "email": ""
+ },
+ "contact": {
+  "facebook_page": {
+   "url": "https://www.facebook.com/Jackson.jewelry.RG/",
+   "source": "meta_ad_library",
+   "confidence": "high"
   },
-  "contact": {
-    "facebook_page": {
-      "url": "https://www.facebook.com/Jackson.jewelry.RG/",
-      "source": "meta_ad_library",
-      "confidence": "high"
-    },
-    "instagram_page": {
-      "url": "https://www.instagram.com/jackson.jewelry/",
-      "source": "https://jackson.co.il/",
-      "confidence": "high"
-    },
-    "owner_instagram": {
-      "url": "",
-      "source": "",
-      "confidence": ""
-    },
-    "whatsapp": {
-      "number_e164": "+972549200074",
-      "source": "https://jackson.co.il/",
-      "confidence": "high"
-    }
+  "instagram_page": {
+   "url": "https://www.instagram.com/jackson.jewelry/",
+   "source": "https://jackson.co.il/",
+   "confidence": "high"
   },
-  "meta": {
+  "owner_instagram": {
+   "url": "",
+   "source": "",
+   "confidence": ""
+  },
+  "whatsapp": {
+   "number_e164": "+972549200074",
+   "source": "https://jackson.co.il/",
+   "confidence": "high"
+  }
+ },
+ "meta": {
+  "page_id": "1548314218819146",
+  "page_name": "ג'קסון תכשיטים",
+  "active_ads_count": 6,
+  "search_keyword": "תכשיטים",
+  "sample_ads": [
+   {
+    "ad_id": "794325733111383",
+    "link_title": "{{product.name}}",
+    "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+    "landing_url": "https://bit.ly/3J8s9Qq",
+    "cta_type": "ORDER_NOW",
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM"
+    ],
+    "images": [
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwGy1Spw&_nc_oc=AdpJqO4ok43qOk8RU6n_FD88uffuW52_N-gz5KLLc4LAIWYa2AxaFJtmLlZVFNMvhSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJuD_8Z0hFHHTNcf5qN2w18Z8ADLPBS8yv8-C7u_8OnuQ&oe=6ABC2FBC",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwGNXQk-&_nc_oc=AdqgQTq-QEQcMnjRBk6Egj5PaDfrCRFFSUZ53x5TbOfY8uvg5tQGeafVRvHL2bPBek0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQIAsM4TSU-wfRmMs6y4uljF5MuIaLiy9EifNKF7U3pH4w&oe=6ABC5F7E",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwF8uzUC&_nc_oc=AdpuOZieLkpUb7TBeozXjiyP3og5O2iCQJ0L5KJBZN5ox3sQF9VkT7HDszg49bweoGY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJFIQhbU43-MC0q5PxLqck1E-oi0fxz8bmut50k-LKPDg&oe=6ABC43FE"
+    ],
+    "videos": [],
+    "collation_count": null,
+    "start_time": 1772179200,
+    "snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
+   }
+  ],
+  "filter": {
+   "brand_hits": [],
+   "service_hits": [],
+   "product_hits": [
+    "תכשיט"
+   ],
+   "hebrew": true,
+   "currencies": [],
+   "active_ads_count": 6,
+   "active_ads_count_exact": true,
+   "cta_types": [
+    "ORDER_NOW"
+   ],
+   "page_like_count": 36131,
+   "product_score": 3
+  },
+  "active_ads_count_exact": true,
+  "ad_ids": [
+   "794325733111383"
+  ],
+  "currencies": [],
+  "cta_types": [
+   "ORDER_NOW"
+  ],
+  "page_like_count": 36131,
+  "page_categories": [
+   "Jewelry"
+  ],
+  "page_ads": [
+   {
+    "id": "794325733111383",
     "page_id": "1548314218819146",
     "page_name": "ג'קסון תכשיטים",
-    "active_ads_count": 6,
-    "search_keyword": "תכשיטים",
-    "sample_ads": [
-      {
-        "ad_id": "794325733111383",
-        "link_title": "{{product.name}}",
-        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-        "landing_url": "https://bit.ly/3J8s9Qq",
-        "cta_type": "ORDER_NOW",
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM"
-        ],
-        "images": [
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwGy1Spw&_nc_oc=AdpJqO4ok43qOk8RU6n_FD88uffuW52_N-gz5KLLc4LAIWYa2AxaFJtmLlZVFNMvhSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJuD_8Z0hFHHTNcf5qN2w18Z8ADLPBS8yv8-C7u_8OnuQ&oe=6ABC2FBC",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwGNXQk-&_nc_oc=AdqgQTq-QEQcMnjRBk6Egj5PaDfrCRFFSUZ53x5TbOfY8uvg5tQGeafVRvHL2bPBek0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQIAsM4TSU-wfRmMs6y4uljF5MuIaLiy9EifNKF7U3pH4w&oe=6ABC5F7E",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwF8uzUC&_nc_oc=AdpuOZieLkpUb7TBeozXjiyP3og5O2iCQJ0L5KJBZN5ox3sQF9VkT7HDszg49bweoGY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=6iNpgcZrjbIJV6-BI_Kcag&_nc_ss=70289&oh=00_AQJFIQhbU43-MC0q5PxLqck1E-oi0fxz8bmut50k-LKPDg&oe=6ABC43FE"
-        ],
-        "videos": [],
-        "collation_count": null,
-        "start_time": 1772179200,
-        "snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
-      }
-    ],
-    "filter": {
-      "brand_hits": [],
-      "service_hits": [],
-      "product_hits": [
-        "תכשיט"
-      ],
-      "hebrew": true,
-      "currencies": [],
-      "active_ads_count": 6,
-      "active_ads_count_exact": true,
-      "cta_types": [
-        "ORDER_NOW"
-      ],
-      "page_like_count": 36131,
-      "product_score": 3
-    },
-    "active_ads_count_exact": true,
-    "ad_ids": [
-      "794325733111383"
-    ],
-    "currencies": [],
-    "cta_types": [
-      "ORDER_NOW"
-    ],
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
     "page_like_count": 36131,
     "page_categories": [
-      "Jewelry"
+     "Jewelry"
     ],
-    "page_ads": [
-      {
-        "id": "794325733111383",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "Jewelry"
-        ],
-        "ad_creative_link_title": "{{product.name}}",
-        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-        "link_description": "<strong>עגילי יהלום מעבדה CVD </strong> גודל אבן משתנה לבחירה ניתן להזמין גם בזהב צהוב/לבן 14",
-        "landing_url": "https://bit.ly/3J8s9Qq",
-        "cta_type": "ORDER_NOW",
-        "cta_text": "הזמן עכשיו",
-        "display_format": "DPA",
-        "ad_delivery_start_time": 1772179200,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM"
-        ],
-        "collation_count": null,
-        "images": [
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwHSolmN&_nc_oc=AdoMO6z_D-txYZAhxf6YwqOBZKpqw8bpt6xprEi-d2mb7Ff-KUtlFsB_OzNzKXaQ82U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJ8LDHj1loJpu5FJ107uLp4JZVKnVx05otPVa_jilxneQ&oe=6ABC43FE",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/577487155_1908217143440677_6703941672142534682_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZFj2vI6Bj0Q7kNvwHF01KA&_nc_oc=AdoOwhQzYn4DfmlU0tcqQxlkMNBTuynAfmYVH9FG28bFVvMorbu0f3fIm8w4Qbch218&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJhmLWymQX4sSRY9xcTq7klWIhnqd3xZ549bDLgOg8uDg&oe=6ABC604C",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576794168_766348959698212_1886621066863864200_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJB96quoGLAQ7kNvwHUYNLY&_nc_oc=AdogrMID0ihnTU7FXsC-WXnoeseaCBcu0ZKixX6QwaKubdNLnvlWBHBy1-Vsn80_6UI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJvl3PVl_J_XBFbmk_TvRJvkSnYsMX-Th46T5c1jzXc6A&oe=6ABC359F",
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576467325_24732665909769939_2764500602641821820_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bClBtVEhNksQ7kNvwEsEUR5&_nc_oc=AdqnS9WkyQ5jXmVr9xVUY1VxlnLVY4N3jOqreVWrVxPjDgBPOMmEmKiYwu3yKoP_tQ4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJO8LawDUw7dqmPajM-QZJQjQcwaSpRZoRadin6ot2ViQ&oe=6ABC4D78",
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwG53l5S&_nc_oc=Adry-lk5xuPnW9cJmTnth9NwxsTObloO-eIF40F3A-np4aa9Ty61ZN0n92Ch0HBHqQM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJBQlmS-rruQ6qveBy7865NndT6pmjPeX1VHyU7tJWmqg&oe=6ABC2FBC",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwETyfSK&_nc_oc=AdofCGyrDRL1plpZSeCRn9O_Em33AH_VGnrtESBRzuXpkL_jnqsGgYBRo8Koid1vU7g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLwS62Z0_IVxdI7zrHFy-q0CHv19s5Q8Dac0-PKNDeDrQ&oe=6ABC5F7E"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
-      },
-      {
-        "id": "2226343788199827",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "Jewelry"
-        ],
-        "ad_creative_link_title": "ג'קסון תכשיטים",
-        "body": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
-        "link_description": " ",
-        "landing_url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
-        "cta_type": "SHOP_NOW",
-        "cta_text": "לקנייה",
-        "display_format": "CAROUSEL",
-        "ad_delivery_start_time": 1782457200,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "MESSENGER"
-        ],
-        "collation_count": 1,
-        "images": [
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616815186_1439875027665524_2721233967584999717_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KX89y6o6-RYQ7kNvwFCm3ox&_nc_oc=AdouwTkX5_lwLUKFIIkW0W-JTqGpdrLK_OdqUN7Zz_vpWA2mEoz7uA47DkoK3fjf1-E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJs4wRVO4EkPIXWs6nX8vMoprBgunPTC9Vznp1-w2dIXA&oe=6ABC3D37",
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618231354_1404173934595538_8784800191154714504_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1SdkQNg_wrwQ7kNvwGOE8R4&_nc_oc=Adp2-O004n9FSlR9gQ3NCRMUCrEYZ5EZxYY4qG3eGE5ypIJAXj2ZvBglshcbZC6wDjg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJuJnViyAZoNfRsAuTLwGy2mueoCh8XIMEgzpe5rvzycA&oe=6ABC5E70",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617022378_1512847769816350_2111358096828501117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bKFCiy2A2n4Q7kNvwEg38NZ&_nc_oc=AdoJ8FXaDIO_TNWFUWnZGV84nZWobWXg59vUk0ZV-gdoQ5UW9KSGugPvAzcuJxCnE5U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLg7iCoujiriKFE13ms5jhFUye7YRDfE7hyIcD6c0m19w&oe=6ABC37C7",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618583930_1530680561560405_7012197903916934647_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WTURxPV7uLAQ7kNvwFx_iXo&_nc_oc=Adq7TLkC4M1q6dT2z0PXtO1Vzq45t15R0-r1MLxBe2UxiraXrpLetRwbYPEQiivc3kk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIB53UYAELxDDkorWe9KzfzBWrQPh5H0x_lmk14TZwTGg&oe=6ABC48C4",
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616802936_2019859131921832_7000771741310548304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86X3ZuRHB1QQ7kNvwF7Ws7c&_nc_oc=AdpwjtbmlN5ZRoxg4OzInVV7EVN6v0oB4MIXfZFnpZTJ8vdH4z4a6P1rNvu1QF1eWi0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLzxT7jujgdhxC7INzK21oBMV1MM6-a_OMUPK-Pcaz2Aw&oe=6ABC2C68",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617076126_1544920653247477_7787971640006617293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QS3yFhQNwGQQ7kNvwFvUcwQ&_nc_oc=AdqUY4MC1tf6YVMI_bE4ycgJVp2WZ6RDKT0L8glAcOhPck3zSAwVHRHEbT7sB_Ci5N4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKkbTOgHhooKUHOG9QEX6iebSDEmagDx-knG-XMoZG45Q&oe=6ABC2C60",
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618418491_2096969164476157_2294364744464291888_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kStfXmDf1eAQ7kNvwFecoDD&_nc_oc=Adq7BKTrVqOCjVG6UljNZexTkOyknRJ0uyNcrPTFP1hmxSdR3jO1ZvwBk0Ak4m0Ol_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJh7zRQ7FQF3IB7Bp69zrsEUTRs5WnbOHMqA6pw8aJQLg&oe=6ABC4774"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2226343788199827"
-      },
-      {
-        "id": "1505369600979671",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "תכשיטים"
-        ],
-        "ad_creative_link_title": "טבעת יהלומים – סולארה",
-        "body": "",
-        "link_description": "<strong>טבעת זהב 14K עם שיבוצי יהלומים </strong> משקל אבן מרכזית : 0.51 ואבנים צדדיות :0.21 | צבע: F | ניקיון: VS1<strong> </strong>ניתן לבחור בזהב צהוב | לבן *למידה גדולה מ-20, נא לרשום בהערות בתו...",
-        "landing_url": "https://bit.ly/4d6FjwP",
-        "cta_type": "LEARN_MORE",
-        "cta_text": "מידע נוסף",
-        "display_format": "IMAGE",
-        "ad_delivery_start_time": 1778137200,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "MESSENGER",
-          "THREADS"
-        ],
-        "collation_count": 1,
-        "images": [
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689015868_1179241037626393_1093065598453126213_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9J-l94tRKYQ7kNvwFkD5Qb&_nc_oc=Adpo4v4T5sAkG6tWjiEB1ic3tFOEo5wg99MSYce6oTBkV-MHf4EUg6Rrry6OhDCb5Ko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKX-XyFeKuWDOHSTFeeTzDRZ5vgOKkQphMNNhCz7wwmVQ&oe=6ABC5F2A"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1505369600979671"
-      },
-      {
-        "id": "977078085188458",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "Jewelry"
-        ],
-        "ad_creative_link_title": "{{product.name}}",
-        "body": "{{product.brand}}",
-        "link_description": "{{product.description}}",
-        "landing_url": "https://bit.ly/3Py45y6",
-        "cta_type": "SUBSCRIBE",
-        "cta_text": "הרשמה",
-        "display_format": "DCO",
-        "ad_delivery_start_time": 1779001200,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "MESSENGER",
-          "THREADS"
-        ],
-        "collation_count": 1,
-        "images": [
-          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701020019_1869241177083601_3717946382405565828_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJIgeffLvFQQ7kNvwHn7peM&_nc_oc=AdpQVkHJGeqRWxgkKysarVvS_JMZdOSkN29Zs6h8rZQ8Z7tV0nYHQYMmt2skisixukw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJEHNvMZx7xDrH8UwWBnrwW0Z6oPY0qAiD2aGAzZMTvgQ&oe=6ABC499B",
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701293482_2138964353691048_9072326960830004641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOZ7REEznqAQ7kNvwF18gTb&_nc_oc=AdrGaVk6QRFq2f5S9nt3BIFP-BKDXRtiRaG0OhLRupWtuLJBmPOHlP3JcArUI1NkiOs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIrFA_9foLxrvRhv0PERYaPfRkspU5s3_ZZayopW5MW6Q&oe=6ABC4DC9"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=977078085188458"
-      },
-      {
-        "id": "1437107998321957",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "Jewelry"
-        ],
-        "ad_creative_link_title": "מבצע חגים בג'קסון תכשיטים",
-        "body": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
-        "link_description": "טבעות זהב, תליוני יהלום, עגילים וצמידים בעבודת יד. תכשיטים עם מגע אישי, שילוב של יוקרה ודיוק.",
-        "landing_url": "https://tinyurl.com/5n74b2ud",
-        "cta_type": "ORDER_NOW",
-        "cta_text": "הזמן עכשיו",
-        "display_format": "IMAGE",
-        "ad_delivery_start_time": 1788678000,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "MESSENGER",
-          "THREADS"
-        ],
-        "collation_count": 1,
-        "images": [
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799143008_1757345841851009_3254700217103200610_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JPRwiBS4om8Q7kNvwE9Um2r&_nc_oc=Adq5i0vguPX6gFMHeU7I7X9BKKGdbf1pyqqeGI_71HC6g_rTyhQH4xgOrccFIEdT3pI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLVST0_WnnNxCdmrvpc1alGpHdNOK1Eln3U5ddHHUMMcg&oe=6ABC49AE"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1437107998321957"
-      },
-      {
-        "id": "28454913314174459",
-        "page_id": "1548314218819146",
-        "page_name": "ג'קסון תכשיטים",
-        "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
-        "page_like_count": 36131,
-        "page_categories": [
-          "Jewelry"
-        ],
-        "ad_creative_link_title": "",
-        "body": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
-        "link_description": "",
-        "landing_url": "",
-        "cta_type": "CALL_NOW",
-        "cta_text": "להתקשר כעת",
-        "display_format": "IMAGE",
-        "ad_delivery_start_time": 1789455600,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM"
-        ],
-        "collation_count": 1,
-        "images": [
-          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812065042_1404242221679912_7023666577045831278_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DSCyyJXw8qQQ7kNvwEmOw8s&_nc_oc=Ado7R_OocihUI0sZl18-KJm7mUDb5QpL---xJp__tMxAZR7Kc-BGVqRnGO5byfgtjOQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLvR1HDS89_6UJoeV26xHnnn5LWXJkwggChibPFayUUGA&oe=6ABC57B5"
-        ],
-        "videos": [],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28454913314174459"
-      },
-      {
-        "id": "794325733111383",
-        "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-        "landing_url": "https://bit.ly/3J8s9Qq"
-      }
+    "ad_creative_link_title": "{{product.name}}",
+    "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+    "link_description": "<strong>עגילי יהלום מעבדה CVD </strong> גודל אבן משתנה לבחירה ניתן להזמין גם בזהב צהוב/לבן 14",
+    "landing_url": "https://bit.ly/3J8s9Qq",
+    "cta_type": "ORDER_NOW",
+    "cta_text": "הזמן עכשיו",
+    "display_format": "DPA",
+    "ad_delivery_start_time": 1772179200,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM"
     ],
-    "social_landings": [],
-    "link_in_bio_pages": [],
-    "ad_snapshots": [
-      {
-        "ad_id": "794325733111383",
-        "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-        "links": [
-          "https://bit.ly/3J8s9Qq"
-        ]
-      },
-      {
-        "ad_id": "2226343788199827",
-        "text": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
-        "links": [
-          "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
-        ]
-      },
-      {
-        "ad_id": "977078085188458",
-        "text": "{{product.brand}}",
-        "links": [
-          "https://bit.ly/3Py45y6"
-        ]
-      },
-      {
-        "ad_id": "1437107998321957",
-        "text": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
-        "links": [
-          "https://tinyurl.com/5n74b2ud"
-        ]
-      },
-      {
-        "ad_id": "28454913314174459",
-        "text": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
-        "links": []
-      },
-      {
-        "ad_id": "794325733111383",
-        "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-        "links": [
-          "https://bit.ly/3J8s9Qq"
-        ]
-      }
+    "collation_count": null,
+    "images": [
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576932808_4082188875326161_8471942710378597949_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kn-zHESjymoQ7kNvwHSolmN&_nc_oc=AdoMO6z_D-txYZAhxf6YwqOBZKpqw8bpt6xprEi-d2mb7Ff-KUtlFsB_OzNzKXaQ82U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJ8LDHj1loJpu5FJ107uLp4JZVKnVx05otPVa_jilxneQ&oe=6ABC43FE",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/577487155_1908217143440677_6703941672142534682_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZFj2vI6Bj0Q7kNvwHF01KA&_nc_oc=AdoOwhQzYn4DfmlU0tcqQxlkMNBTuynAfmYVH9FG28bFVvMorbu0f3fIm8w4Qbch218&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJhmLWymQX4sSRY9xcTq7klWIhnqd3xZ549bDLgOg8uDg&oe=6ABC604C",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/576794168_766348959698212_1886621066863864200_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJB96quoGLAQ7kNvwHUYNLY&_nc_oc=AdogrMID0ihnTU7FXsC-WXnoeseaCBcu0ZKixX6QwaKubdNLnvlWBHBy1-Vsn80_6UI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJvl3PVl_J_XBFbmk_TvRJvkSnYsMX-Th46T5c1jzXc6A&oe=6ABC359F",
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576467325_24732665909769939_2764500602641821820_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bClBtVEhNksQ7kNvwEsEUR5&_nc_oc=AdqnS9WkyQ5jXmVr9xVUY1VxlnLVY4N3jOqreVWrVxPjDgBPOMmEmKiYwu3yKoP_tQ4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJO8LawDUw7dqmPajM-QZJQjQcwaSpRZoRadin6ot2ViQ&oe=6ABC4D78",
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/576410627_1492059292053382_1548298741668507471_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTPYN4lyBDIQ7kNvwG53l5S&_nc_oc=Adry-lk5xuPnW9cJmTnth9NwxsTObloO-eIF40F3A-np4aa9Ty61ZN0n92Ch0HBHqQM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJBQlmS-rruQ6qveBy7865NndT6pmjPeX1VHyU7tJWmqg&oe=6ABC2FBC",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574555280_1345797060534021_3643330054657191399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SX_TZ08_-vgQ7kNvwETyfSK&_nc_oc=AdofCGyrDRL1plpZSeCRn9O_Em33AH_VGnrtESBRzuXpkL_jnqsGgYBRo8Koid1vU7g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLwS62Z0_IVxdI7zrHFy-q0CHv19s5Q8Dac0-PKNDeDrQ&oe=6ABC5F7E"
     ],
-    "landing_urls": [
-      "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
-      "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
-      "https://jackson.co.il/product-category/new/?utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94&utm_id=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94",
-      "https://hub.flashy.app/lp.html?hash=MjUxNDo1OTM1OQ%3D%3D&utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA&utm_id=%D7%A4%D7%95%D7%A4%D7%90%D7%A4+%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA"
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=794325733111383"
+   },
+   {
+    "id": "2226343788199827",
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+    "page_like_count": 36131,
+    "page_categories": [
+     "Jewelry"
+    ],
+    "ad_creative_link_title": "ג'קסון תכשיטים",
+    "body": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
+    "link_description": " ",
+    "landing_url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+    "cta_type": "SHOP_NOW",
+    "cta_text": "לקנייה",
+    "display_format": "CAROUSEL",
+    "ad_delivery_start_time": 1782457200,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "MESSENGER"
+    ],
+    "collation_count": 1,
+    "images": [
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616815186_1439875027665524_2721233967584999717_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KX89y6o6-RYQ7kNvwFCm3ox&_nc_oc=AdouwTkX5_lwLUKFIIkW0W-JTqGpdrLK_OdqUN7Zz_vpWA2mEoz7uA47DkoK3fjf1-E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJs4wRVO4EkPIXWs6nX8vMoprBgunPTC9Vznp1-w2dIXA&oe=6ABC3D37",
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618231354_1404173934595538_8784800191154714504_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1SdkQNg_wrwQ7kNvwGOE8R4&_nc_oc=Adp2-O004n9FSlR9gQ3NCRMUCrEYZ5EZxYY4qG3eGE5ypIJAXj2ZvBglshcbZC6wDjg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJuJnViyAZoNfRsAuTLwGy2mueoCh8XIMEgzpe5rvzycA&oe=6ABC5E70",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617022378_1512847769816350_2111358096828501117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bKFCiy2A2n4Q7kNvwEg38NZ&_nc_oc=AdoJ8FXaDIO_TNWFUWnZGV84nZWobWXg59vUk0ZV-gdoQ5UW9KSGugPvAzcuJxCnE5U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLg7iCoujiriKFE13ms5jhFUye7YRDfE7hyIcD6c0m19w&oe=6ABC37C7",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618583930_1530680561560405_7012197903916934647_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WTURxPV7uLAQ7kNvwFx_iXo&_nc_oc=Adq7TLkC4M1q6dT2z0PXtO1Vzq45t15R0-r1MLxBe2UxiraXrpLetRwbYPEQiivc3kk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIB53UYAELxDDkorWe9KzfzBWrQPh5H0x_lmk14TZwTGg&oe=6ABC48C4",
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616802936_2019859131921832_7000771741310548304_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86X3ZuRHB1QQ7kNvwF7Ws7c&_nc_oc=AdpwjtbmlN5ZRoxg4OzInVV7EVN6v0oB4MIXfZFnpZTJ8vdH4z4a6P1rNvu1QF1eWi0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLzxT7jujgdhxC7INzK21oBMV1MM6-a_OMUPK-Pcaz2Aw&oe=6ABC2C68",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617076126_1544920653247477_7787971640006617293_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QS3yFhQNwGQQ7kNvwFvUcwQ&_nc_oc=AdqUY4MC1tf6YVMI_bE4ycgJVp2WZ6RDKT0L8glAcOhPck3zSAwVHRHEbT7sB_Ci5N4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKkbTOgHhooKUHOG9QEX6iebSDEmagDx-knG-XMoZG45Q&oe=6ABC2C60",
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618418491_2096969164476157_2294364744464291888_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kStfXmDf1eAQ7kNvwFecoDD&_nc_oc=Adq7BKTrVqOCjVG6UljNZexTkOyknRJ0uyNcrPTFP1hmxSdR3jO1ZvwBk0Ak4m0Ol_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJh7zRQ7FQF3IB7Bp69zrsEUTRs5WnbOHMqA6pw8aJQLg&oe=6ABC4774"
+    ],
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2226343788199827"
+   },
+   {
+    "id": "1505369600979671",
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+    "page_like_count": 36131,
+    "page_categories": [
+     "תכשיטים"
+    ],
+    "ad_creative_link_title": "טבעת יהלומים – סולארה",
+    "body": "",
+    "link_description": "<strong>טבעת זהב 14K עם שיבוצי יהלומים </strong> משקל אבן מרכזית : 0.51 ואבנים צדדיות :0.21 | צבע: F | ניקיון: VS1<strong> </strong>ניתן לבחור בזהב צהוב | לבן *למידה גדולה מ-20, נא לרשום בהערות בתו...",
+    "landing_url": "https://bit.ly/4d6FjwP",
+    "cta_type": "LEARN_MORE",
+    "cta_text": "מידע נוסף",
+    "display_format": "IMAGE",
+    "ad_delivery_start_time": 1778137200,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "MESSENGER",
+     "THREADS"
+    ],
+    "collation_count": 1,
+    "images": [
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689015868_1179241037626393_1093065598453126213_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9J-l94tRKYQ7kNvwFkD5Qb&_nc_oc=Adpo4v4T5sAkG6tWjiEB1ic3tFOEo5wg99MSYce6oTBkV-MHf4EUg6Rrry6OhDCb5Ko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQKX-XyFeKuWDOHSTFeeTzDRZ5vgOKkQphMNNhCz7wwmVQ&oe=6ABC5F2A"
+    ],
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1505369600979671"
+   },
+   {
+    "id": "977078085188458",
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+    "page_like_count": 36131,
+    "page_categories": [
+     "Jewelry"
+    ],
+    "ad_creative_link_title": "{{product.name}}",
+    "body": "{{product.brand}}",
+    "link_description": "{{product.description}}",
+    "landing_url": "https://bit.ly/3Py45y6",
+    "cta_type": "SUBSCRIBE",
+    "cta_text": "הרשמה",
+    "display_format": "DCO",
+    "ad_delivery_start_time": 1779001200,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "MESSENGER",
+     "THREADS"
+    ],
+    "collation_count": 1,
+    "images": [
+     "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701020019_1869241177083601_3717946382405565828_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJIgeffLvFQQ7kNvwHn7peM&_nc_oc=AdpQVkHJGeqRWxgkKysarVvS_JMZdOSkN29Zs6h8rZQ8Z7tV0nYHQYMmt2skisixukw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQJEHNvMZx7xDrH8UwWBnrwW0Z6oPY0qAiD2aGAzZMTvgQ&oe=6ABC499B",
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701293482_2138964353691048_9072326960830004641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOZ7REEznqAQ7kNvwF18gTb&_nc_oc=AdrGaVk6QRFq2f5S9nt3BIFP-BKDXRtiRaG0OhLRupWtuLJBmPOHlP3JcArUI1NkiOs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQIrFA_9foLxrvRhv0PERYaPfRkspU5s3_ZZayopW5MW6Q&oe=6ABC4DC9"
+    ],
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=977078085188458"
+   },
+   {
+    "id": "1437107998321957",
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+    "page_like_count": 36131,
+    "page_categories": [
+     "Jewelry"
+    ],
+    "ad_creative_link_title": "מבצע חגים בג'קסון תכשיטים",
+    "body": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
+    "link_description": "טבעות זהב, תליוני יהלום, עגילים וצמידים בעבודת יד. תכשיטים עם מגע אישי, שילוב של יוקרה ודיוק.",
+    "landing_url": "https://tinyurl.com/5n74b2ud",
+    "cta_type": "ORDER_NOW",
+    "cta_text": "הזמן עכשיו",
+    "display_format": "IMAGE",
+    "ad_delivery_start_time": 1788678000,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "MESSENGER",
+     "THREADS"
+    ],
+    "collation_count": 1,
+    "images": [
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799143008_1757345841851009_3254700217103200610_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JPRwiBS4om8Q7kNvwE9Um2r&_nc_oc=Adq5i0vguPX6gFMHeU7I7X9BKKGdbf1pyqqeGI_71HC6g_rTyhQH4xgOrccFIEdT3pI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLVST0_WnnNxCdmrvpc1alGpHdNOK1Eln3U5ddHHUMMcg&oe=6ABC49AE"
+    ],
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1437107998321957"
+   },
+   {
+    "id": "28454913314174459",
+    "page_id": "1548314218819146",
+    "page_name": "ג'קסון תכשיטים",
+    "page_url": "https://www.facebook.com/Jackson.jewelry.RG/",
+    "page_like_count": 36131,
+    "page_categories": [
+     "Jewelry"
+    ],
+    "ad_creative_link_title": "",
+    "body": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
+    "link_description": "",
+    "landing_url": "",
+    "cta_type": "CALL_NOW",
+    "cta_text": "להתקשר כעת",
+    "display_format": "IMAGE",
+    "ad_delivery_start_time": 1789455600,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM"
+    ],
+    "collation_count": 1,
+    "images": [
+     "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812065042_1404242221679912_7023666577045831278_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DSCyyJXw8qQQ7kNvwEmOw8s&_nc_oc=Ado7R_OocihUI0sZl18-KJm7mUDb5QpL---xJp__tMxAZR7Kc-BGVqRnGO5byfgtjOQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GLkDKEYZr10xRFATAO0wiA&_nc_ss=70289&oh=00_AQLvR1HDS89_6UJoeV26xHnnn5LWXJkwggChibPFayUUGA&oe=6ABC57B5"
+    ],
+    "videos": [],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28454913314174459"
+   },
+   {
+    "id": "794325733111383",
+    "body": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+    "landing_url": "https://bit.ly/3J8s9Qq"
+   }
+  ],
+  "social_landings": [],
+  "link_in_bio_pages": [],
+  "ad_snapshots": [
+   {
+    "ad_id": "794325733111383",
+    "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+    "links": [
+     "https://bit.ly/3J8s9Qq"
     ]
-  },
-  "current_ads": [
-    {
-      "ad_id": "794325733111383",
-      "start_date": "2026-02-27",
-      "days_running": 210,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM"
-      ],
-      "variations": 1,
-      "primary_text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-      "headline": "{{product.name}}",
-      "description": "<strong>עגילי יהלום מעבדה CVD </strong> גודל אבן משתנה לבחירה ניתן להזמין גם בזהב צהוב/לבן 14",
-      "cta": "הזמן עכשיו",
-      "landing_url": "https://bit.ly/3J8s9Qq",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/794325733111383_0.jpg"
-        },
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/794325733111383_1.jpg"
-        }
-      ],
-      "likely_winner": true,
-      "library_url": "https://www.facebook.com/ads/library/?id=794325733111383"
-    },
-    {
-      "ad_id": "1505369600979671",
-      "start_date": "2026-05-07",
-      "days_running": 141,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM",
-        "MESSENGER",
-        "THREADS"
-      ],
-      "variations": 1,
-      "primary_text": "",
-      "headline": "טבעת יהלומים – סולארה",
-      "description": "<strong>טבעת זהב 14K עם שיבוצי יהלומים </strong> משקל אבן מרכזית : 0.51 ואבנים צדדיות :0.21 | צבע: F | ניקיון: VS1<strong> </strong>ניתן לבחור בזהב צהוב | לבן *למידה גדולה מ-20, נא לרשום בהערות בתו...",
-      "cta": "מידע נוסף",
-      "landing_url": "https://bit.ly/4d6FjwP",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/1505369600979671_0.jpg"
-        }
-      ],
-      "likely_winner": true,
-      "library_url": "https://www.facebook.com/ads/library/?id=1505369600979671"
-    },
-    {
-      "ad_id": "977078085188458",
-      "start_date": "2026-05-17",
-      "days_running": 131,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM",
-        "MESSENGER",
-        "THREADS"
-      ],
-      "variations": 1,
-      "primary_text": "{{product.brand}}",
-      "headline": "{{product.name}}",
-      "description": "{{product.description}}",
-      "cta": "הרשמה",
-      "landing_url": "https://bit.ly/3Py45y6",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/977078085188458_0.jpg"
-        },
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/977078085188458_1.jpg"
-        }
-      ],
-      "likely_winner": true,
-      "library_url": "https://www.facebook.com/ads/library/?id=977078085188458"
-    },
-    {
-      "ad_id": "2226343788199827",
-      "start_date": "2026-06-26",
-      "days_running": 91,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM",
-        "MESSENGER"
-      ],
-      "variations": 1,
-      "primary_text": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
-      "headline": "ג'קסון תכשיטים",
-      "description": " ",
-      "cta": "לקנייה",
-      "landing_url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/2226343788199827_0.jpg"
-        },
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/2226343788199827_1.jpg"
-        }
-      ],
-      "likely_winner": true,
-      "library_url": "https://www.facebook.com/ads/library/?id=2226343788199827"
-    },
-    {
-      "ad_id": "1437107998321957",
-      "start_date": "2026-09-06",
-      "days_running": 19,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM",
-        "MESSENGER",
-        "THREADS"
-      ],
-      "variations": 1,
-      "primary_text": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
-      "headline": "מבצע חגים בג'קסון תכשיטים",
-      "description": "טבעות זהב, תליוני יהלום, עגילים וצמידים בעבודת יד. תכשיטים עם מגע אישי, שילוב של יוקרה ודיוק.",
-      "cta": "הזמן עכשיו",
-      "landing_url": "https://tinyurl.com/5n74b2ud",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/1437107998321957_0.jpg"
-        }
-      ],
-      "likely_winner": false,
-      "library_url": "https://www.facebook.com/ads/library/?id=1437107998321957"
-    },
-    {
-      "ad_id": "28454913314174459",
-      "start_date": "2026-09-15",
-      "days_running": 10,
-      "platforms": [
-        "FACEBOOK",
-        "INSTAGRAM"
-      ],
-      "variations": 1,
-      "primary_text": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
-      "headline": "",
-      "description": "",
-      "cta": "להתקשר כעת",
-      "landing_url": "",
-      "media": [
-        {
-          "type": "image",
-          "path": "2026-09-25-086/current_ads/28454913314174459_0.jpg"
-        }
-      ],
-      "likely_winner": false,
-      "library_url": "https://www.facebook.com/ads/library/?id=28454913314174459"
-    },
-    {
-      "ad_id": "794325733111383",
-      "start_date": "",
-      "days_running": 0,
-      "platforms": [],
-      "variations": 1,
-      "primary_text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
-      "headline": "",
-      "description": "",
-      "cta": "",
-      "landing_url": "https://bit.ly/3J8s9Qq",
-      "media": [],
-      "likely_winner": false,
-      "library_url": null
-    }
+   },
+   {
+    "ad_id": "2226343788199827",
+    "text": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
+    "links": [
+     "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
+    ]
+   },
+   {
+    "ad_id": "977078085188458",
+    "text": "{{product.brand}}",
+    "links": [
+     "https://bit.ly/3Py45y6"
+    ]
+   },
+   {
+    "ad_id": "1437107998321957",
+    "text": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
+    "links": [
+     "https://tinyurl.com/5n74b2ud"
+    ]
+   },
+   {
+    "ad_id": "28454913314174459",
+    "text": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
+    "links": []
+   },
+   {
+    "ad_id": "794325733111383",
+    "text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+    "links": [
+     "https://bit.ly/3J8s9Qq"
+    ]
+   }
   ],
-  "products": [
+  "landing_urls": [
+   "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
+   "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+   "https://jackson.co.il/product-category/new/?utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94&utm_id=%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA+%D7%98%D7%91%D7%A2%D7%95%D7%AA+%D7%97%D7%93%D7%A9%D7%94",
+   "https://hub.flashy.app/lp.html?hash=MjUxNDo1OTM1OQ%3D%3D&utm_source=FACEBOOK&utm_medium=PPC&utm_campaign=%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA&utm_id=%D7%A4%D7%95%D7%A4%D7%90%D7%A4+%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F+%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA"
+  ]
+ },
+ "current_ads": [
+  {
+   "ad_id": "794325733111383",
+   "start_date": "2026-02-27",
+   "days_running": 210,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "variations": 1,
+   "primary_text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+   "headline": "{{product.name}}",
+   "description": "<strong>עגילי יהלום מעבדה CVD </strong> גודל אבן משתנה לבחירה ניתן להזמין גם בזהב צהוב/לבן 14",
+   "cta": "הזמן עכשיו",
+   "landing_url": "https://bit.ly/3J8s9Qq",
+   "media": [
     {
-      "name": "תכשיטים עם חריטה אישית - ג'קסון תכשיטים - יצרן התכשיטים מספר 1 בארץ",
-      "price": "",
-      "url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
-      "images": [
-        "2026-09-25-086/products/p00_0.jpg"
-      ]
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/794325733111383_0.jpg"
     },
     {
-      "name": "טבעת יהלומי מעבדה – נילי",
-      "price": "₪2900",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99-%d7%9e%d7%a2%d7%91%d7%93%d7%94-%d7%a0%d7%99%d7%9c%d7%99/",
-      "images": [
-        "2026-09-25-086/products/p01_0.jpg",
-        "2026-09-25-086/products/p01_1.jpg"
-      ]
-    },
-    {
-      "name": "טבעת יהלומי מעבדה – סניה",
-      "price": "₪3200",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99-%d7%9e%d7%a2%d7%91%d7%93%d7%94-%d7%a1%d7%a0%d7%99%d7%94/",
-      "images": [
-        "2026-09-25-086/products/p02_0.jpg",
-        "2026-09-25-086/products/p02_1.jpg"
-      ]
-    },
-    {
-      "name": "צמיד זהב – מונקו פיגארו שיבוץ מלא – 5 מ”מ",
-      "price": "₪3980",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94-%d7%9e%d7%a9-2/",
-      "images": [
-        "2026-09-25-086/products/p03_0.jpg",
-        "2026-09-25-086/products/p03_1.jpg"
-      ]
-    },
-    {
-      "name": "צמיד זהב – מונקו פיגארו חצי משובץ זרקונים.",
-      "price": "₪3400",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94-%d7%9e%d7%a9/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב  טניס- מונקו בשיבוץ אוניקס שחור.",
-      "price": "₪3415",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-%d7%91%d7%a9%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%a9%d7%97%d7%95%d7%a8%d7%95%d7%aa/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב  פיגארו- מונקו  מבריק.",
-      "price": "₪2140",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-4-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו קלאסי מבריק – 5 מ”מ",
-      "price": "₪2970",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב –  מונקו קלאסי מבריק – 4 מ”מ",
-      "price": "₪2300",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-4-%d7%9e%d7%9e/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו פיגארו מבריק – 5 מ”מ",
-      "price": "₪2810",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו טוויסט",
-      "price": "₪3465",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-3-7-%d7%9e%d7%9e-%d7%9e%d7%a1%d7%95%d7%91%d7%91/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו קלאסי חלק מבריק – 6.5 מ”מ",
-      "price": "₪3697",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%a9%d7%99%d7%91%d7%95%d7%a5/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו קלאסי חצי משובץ – 6.5 מ”מ",
-      "price": "₪4970",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%9e%d7%a9%d7%95%d7%91%d7%a5-%d7%9c%d7%a1%d7%99%d7%a8%d7%95%d7%92%d7%99%d7%9f/",
-      "images": []
-    },
-    {
-      "name": "צמיד זהב – מונקו קלאסי שיבוץ מלא – 6.5 מ”מ",
-      "price": "₪4900",
-      "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%9e%d7%a9%d7%95%d7%91%d7%a5/",
-      "images": []
-    },
-    {
-      "name": "שרשרת שם זהב חריטה – קוביות",
-      "price": "₪1970",
-      "url": "https://jackson.co.il/product/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%96%d7%94%d7%91-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%a7%d7%95%d7%91%d7%99%d7%95%d7%aa/",
-      "images": []
-    },
-    {
-      "name": "שרשרת יהלומי מעבדה – אות וכנפיים",
-      "price": "₪2650",
-      "url": "https://jackson.co.il/product/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%90%d7%95%d7%aa-%d7%95%d7%9b%d7%a0%d7%a4%d7%99%d7%99%d7%9d-cvd/",
-      "images": []
-    },
-    {
-      "name": "טבעת יהלומים – רותם",
-      "price": "₪2280",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a8%d7%95%d7%aa%d7%9d/",
-      "images": []
-    },
-    {
-      "name": "טבעת יהלומים – סטייסי",
-      "price": "₪2390",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a1%d7%98%d7%99%d7%99%d7%a1%d7%99/",
-      "images": []
-    },
-    {
-      "name": "טבעת יהלומים – נלי",
-      "price": "₪2190",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a0%d7%9c%d7%99/",
-      "images": []
-    },
-    {
-      "name": "טבעת יהלומים – מלי",
-      "price": "₪1890",
-      "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%9e%d7%9c%d7%99/",
-      "images": []
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/794325733111383_1.jpg"
     }
-  ],
-  "research": {},
-  "new_ads": [],
-  "outreach": {
-    "suggested_whatsapp_message": ""
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=794325733111383"
   },
-  "cost": {
-    "image_gen_usd": 0
+  {
+   "ad_id": "1505369600979671",
+   "start_date": "2026-05-07",
+   "days_running": 141,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+   ],
+   "variations": 1,
+   "primary_text": "",
+   "headline": "טבעת יהלומים – סולארה",
+   "description": "<strong>טבעת זהב 14K עם שיבוצי יהלומים </strong> משקל אבן מרכזית : 0.51 ואבנים צדדיות :0.21 | צבע: F | ניקיון: VS1<strong> </strong>ניתן לבחור בזהב צהוב | לבן *למידה גדולה מ-20, נא לרשום בהערות בתו...",
+   "cta": "מידע נוסף",
+   "landing_url": "https://bit.ly/4d6FjwP",
+   "media": [
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/1505369600979671_0.jpg"
+    }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=1505369600979671"
   },
-  "timestamps": {
-    "discovered": "2026-09-25T13:11:10",
-    "filtered": "2026-09-25T13:13:39",
-    "qualified": "2026-09-25T13:19:06",
-    "collected": "2026-09-25T13:27:05"
+  {
+   "ad_id": "977078085188458",
+   "start_date": "2026-05-17",
+   "days_running": 131,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+   ],
+   "variations": 1,
+   "primary_text": "{{product.brand}}",
+   "headline": "{{product.name}}",
+   "description": "{{product.description}}",
+   "cta": "הרשמה",
+   "landing_url": "https://bit.ly/3Py45y6",
+   "media": [
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/977078085188458_0.jpg"
+    },
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/977078085188458_1.jpg"
+    }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=977078085188458"
   },
-  "qualify": {
-    "pages_checked": [
-      "https://jackson.co.il/",
-      "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
-      "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
-    ],
-    "store_signals": [
-      "cart",
-      "woocommerce"
-    ],
-    "prices_in_ils": true,
-    "owner_candidates": [],
-    "site_blocked": false,
-    "owner_instagram_found": false,
-    "missing": []
+  {
+   "ad_id": "2226343788199827",
+   "start_date": "2026-06-26",
+   "days_running": 91,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER"
+   ],
+   "variations": 1,
+   "primary_text": "תכשיטי חריטה אישית - לשמור קרוב את \nהאהובים שלנו ❤️❤️❤️\n\nמתנה מושלמת לעצמך, \nאו לכל אחד אחר שתבחרו לפנק💝\nטבעות, שרשראות ותליונים זהב 14K \nועוד מגוון תכשיטי חריטה\n\n✔️משלוח חינם באמצעות שליח עד הבית\n✔️מתנה מפנקת-מחיר מושלם\nג'קסון תכשיטים יצרן התכשיטים הגדול והזול בישראל⭐️",
+   "headline": "ג'קסון תכשיטים",
+   "description": " ",
+   "cta": "לקנייה",
+   "landing_url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+   "media": [
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/2226343788199827_0.jpg"
+    },
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/2226343788199827_1.jpg"
+    }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=2226343788199827"
+  },
+  {
+   "ad_id": "1437107998321957",
+   "start_date": "2026-09-06",
+   "days_running": 19,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "MESSENGER",
+    "THREADS"
+   ],
+   "variations": 1,
+   "primary_text": "מבצע חגים בג'קסון תכשיטים💐\n12% הנחה על כל תכשיטי היהלומים שבאתר\nיהלומים טבעיים ומעבדה\nלהתחיל את השנה עם תכשיטים חדשים, יפים ונוצצים✨\n\n💎קופון לתכשיטי היהלומים: HOL12💎\nלאתר: https://tinyurl.com/5n74b2ud\nhttps://tinyurl.com/5n74b2ud\nבתוקף עד 02.10.26 כולל\nט.ל.ח, ג'קסון תכשיטים רשאית לשנות\\לבטל את המבצע בכל עת פחות",
+   "headline": "מבצע חגים בג'קסון תכשיטים",
+   "description": "טבעות זהב, תליוני יהלום, עגילים וצמידים בעבודת יד. תכשיטים עם מגע אישי, שילוב של יוקרה ודיוק.",
+   "cta": "הזמן עכשיו",
+   "landing_url": "https://tinyurl.com/5n74b2ud",
+   "media": [
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/1437107998321957_0.jpg"
+    }
+   ],
+   "likely_winner": false,
+   "library_url": "https://www.facebook.com/ads/library/?id=1437107998321957"
+  },
+  {
+   "ad_id": "28454913314174459",
+   "start_date": "2026-09-15",
+   "days_running": 10,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "variations": 1,
+   "primary_text": "לג'קסון תכשיטים דרושים נציגי שירות ומכירה \nלאתר האינטרנט ולחנות\nעבודה בסביבה משפחתית \nתנאים טובים למתאימים\nימי עבודה א-ו | החנות נמצאת ברמת גן\nלפרטים התקשרו - 052-3223066",
+   "headline": "",
+   "description": "",
+   "cta": "להתקשר כעת",
+   "landing_url": "",
+   "media": [
+    {
+     "type": "image",
+     "path": "2026-09-25-086/current_ads/28454913314174459_0.jpg"
+    }
+   ],
+   "likely_winner": false,
+   "library_url": "https://www.facebook.com/ads/library/?id=28454913314174459"
+  },
+  {
+   "ad_id": "794325733111383",
+   "start_date": "",
+   "days_running": 0,
+   "platforms": [],
+   "variations": 1,
+   "primary_text": "היי, התכשיטים שאהבת מחכים לך באתר❤️\nקליק לרכישת המוצרים לפני שיאזלו מהמלאי",
+   "headline": "",
+   "description": "",
+   "cta": "",
+   "landing_url": "https://bit.ly/3J8s9Qq",
+   "media": [],
+   "likely_winner": false,
+   "library_url": null
   }
+ ],
+ "products": [
+  {
+   "name": "תכשיטים עם חריטה אישית - ג'קסון תכשיטים - יצרן התכשיטים מספר 1 בארץ",
+   "price": "",
+   "url": "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/",
+   "images": [
+    "2026-09-25-086/products/p00_0.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומי מעבדה – נילי",
+   "price": "₪2900",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99-%d7%9e%d7%a2%d7%91%d7%93%d7%94-%d7%a0%d7%99%d7%9c%d7%99/",
+   "images": [
+    "2026-09-25-086/products/p01_0.jpg",
+    "2026-09-25-086/products/p01_1.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומי מעבדה – סניה",
+   "price": "₪3200",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99-%d7%9e%d7%a2%d7%91%d7%93%d7%94-%d7%a1%d7%a0%d7%99%d7%94/",
+   "images": [
+    "2026-09-25-086/products/p02_0.jpg",
+    "2026-09-25-086/products/p02_1.jpg"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו פיגארו שיבוץ מלא – 5 מ”מ",
+   "price": "₪3980",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94-%d7%9e%d7%a9-2/",
+   "images": [
+    "2026-09-25-086/products/p03_0.jpg",
+    "2026-09-25-086/products/p03_1.jpg"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו פיגארו חצי משובץ זרקונים.",
+   "price": "₪3400",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94-%d7%9e%d7%a9/",
+   "images": [
+    "2026-09-25-086/products/p04_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/23.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב  טניס- מונקו בשיבוץ אוניקס שחור.",
+   "price": "₪3415",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-%d7%91%d7%a9%d7%99%d7%91%d7%95%d7%a5-%d7%90%d7%91%d7%a0%d7%99%d7%9d-%d7%a9%d7%97%d7%95%d7%a8%d7%95%d7%aa/",
+   "images": [
+    "2026-09-25-086/products/p05_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/20.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב  פיגארו- מונקו  מבריק.",
+   "price": "₪2140",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-4-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94/",
+   "images": [
+    "2026-09-25-086/products/p06_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/15.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו קלאסי מבריק – 5 מ”מ",
+   "price": "₪2970",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e/",
+   "images": [
+    "2026-09-25-086/products/p07_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/13.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב –  מונקו קלאסי מבריק – 4 מ”מ",
+   "price": "₪2300",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-4-%d7%9e%d7%9e/",
+   "images": [
+    "2026-09-25-086/products/p08_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/10.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו פיגארו מבריק – 5 מ”מ",
+   "price": "₪2810",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%93%d7%9c-%d7%a9%d7%95%d7%a0%d7%94/",
+   "images": [
+    "2026-09-25-086/products/p09_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/6.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו טוויסט",
+   "price": "₪3465",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-3-7-%d7%9e%d7%9e-%d7%9e%d7%a1%d7%95%d7%91%d7%91/",
+   "images": [
+    "2026-09-25-086/products/p10_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/4-צהוב-מושלם.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו קלאסי חלק מבריק – 6.5 מ”מ",
+   "price": "₪3697",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%97%d7%95%d7%9c%d7%99%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%a9%d7%99%d7%91%d7%95%d7%a5/",
+   "images": [
+    "2026-09-25-086/products/p11_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/09/צהוב-3-6.5-ממ.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו קלאסי חצי משובץ – 6.5 מ”מ",
+   "price": "₪4970",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%9e%d7%a9%d7%95%d7%91%d7%a5-%d7%9c%d7%a1%d7%99%d7%a8%d7%95%d7%92%d7%99%d7%9f/",
+   "images": [
+    "2026-09-25-086/products/p12_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/08/זהב-לבן-3.png"
+   ]
+  },
+  {
+   "name": "צמיד זהב – מונקו קלאסי שיבוץ מלא – 6.5 מ”מ",
+   "price": "₪4900",
+   "url": "https://jackson.co.il/product/%d7%a6%d7%9e%d7%99%d7%93-%d7%96%d7%94%d7%91-%d7%9e%d7%95%d7%a0%d7%a7%d7%95-6-5-%d7%9e%d7%9e-%d7%9e%d7%a9%d7%95%d7%91%d7%a5/",
+   "images": [
+    "2026-09-25-086/products/p13_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/08/זהב-צהוב.png"
+   ]
+  },
+  {
+   "name": "שרשרת שם זהב חריטה – קוביות",
+   "price": "₪1970",
+   "url": "https://jackson.co.il/product/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%96%d7%94%d7%91-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%a7%d7%95%d7%91%d7%99%d7%95%d7%aa/",
+   "images": [
+    "2026-09-25-086/products/p14_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/06/צהוב-לולאות.png"
+   ]
+  },
+  {
+   "name": "שרשרת יהלומי מעבדה – אות וכנפיים",
+   "price": "₪2650",
+   "url": "https://jackson.co.il/product/%d7%a9%d7%a8%d7%a9%d7%a8%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%90%d7%95%d7%aa-%d7%95%d7%9b%d7%a0%d7%a4%d7%99%d7%99%d7%9d-cvd/",
+   "images": [
+    "2026-09-25-086/products/p15_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2021/12/שרשרת-זהב-צהוב-אות-זרקונים-וכנפיים.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומים – רותם",
+   "price": "₪2280",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a8%d7%95%d7%aa%d7%9d/",
+   "images": [
+    "2026-09-25-086/products/p16_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/04/DSCF7865-copy.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומים – סטייסי",
+   "price": "₪2390",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a1%d7%98%d7%99%d7%99%d7%a1%d7%99/",
+   "images": [
+    "2026-09-25-086/products/p17_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/04/DSCF7893-copy.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומים – נלי",
+   "price": "₪2190",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%a0%d7%9c%d7%99/",
+   "images": [
+    "2026-09-25-086/products/p18_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/04/DSCF9038-copy.jpg"
+   ]
+  },
+  {
+   "name": "טבעת יהלומים – מלי",
+   "price": "₪1890",
+   "url": "https://jackson.co.il/product/%d7%98%d7%91%d7%a2%d7%aa-%d7%99%d7%94%d7%9c%d7%95%d7%9e%d7%99%d7%9d-%d7%9e%d7%9c%d7%99/",
+   "images": [
+    "2026-09-25-086/products/p19_0.jpg"
+   ],
+   "image_urls": [
+    "https://jackson.co.il/wp-content/uploads/2026/04/DSCF7876-copy.jpg"
+   ]
+  }
+ ],
+ "research": {
+  "one_liner": "עסק משפחתי לתכשיטים מאז 2005, עם חנות מפעל ברמת גן ואתר: זהב 14K, יהלומים טבעיים ויהלומי מעבדה, תכשיטי חריטה וצמידי מונקו לגברים. ₪1,300–6,300, משלוח חינם ואחריות לכל החיים.",
+  "hero_products": [
+   "טבעות יהלומי מעבדה (נילי ₪2,900, סניה ₪3,200)",
+   "צמיד טניס יהלומי מעבדה — ₪4,420",
+   "צמידי מונקו לגברים — ₪2,140–4,970",
+   "שרשראות שם וחריטה — ₪1,320–2,691",
+   "טבעות יהלומים עדינות ליום־יום — ₪1,890–2,390"
+  ],
+  "audience": [
+   {
+    "persona": "המתנה הגדולה",
+    "who": "גברים ונשים 25–50",
+    "cares": "מתנה לאירוסין, יום נישואין או לידה שתישאר לתמיד"
+   },
+   {
+    "persona": "מפנקת את עצמה",
+    "who": "נשים 25–45",
+    "cares": "יהלום אמיתי ליום־יום, במחיר הגיוני"
+   },
+   {
+    "persona": "הגבר עם הצמיד",
+    "who": "גברים 20–45",
+    "cares": "צמיד זהב נוכח ואיכותי, מקום שמבין בזה"
+   },
+   {
+    "persona": "אמא/סבתא",
+    "who": "נשים 30–65",
+    "cares": "שמות הילדים והנכדים קרוב ללב"
+   }
+  ],
+  "pains": [
+   "\"בחנויות תכשיטים המחיר מנופח\"",
+   "\"לא יודעת אם יהלום מעבדה זה 'אמיתי'\"",
+   "\"קונים באינטרנט ולא יודעים מה מקבלים\"",
+   "\"מתנה שתהיה אישית באמת\""
+  ],
+  "desires": [
+   "יהלום גדול ונוצץ במחיר סביר",
+   "תכשיט שעונדים כל יום",
+   "מתנה עם משמעות",
+   "לקנות ממקום שסומכים עליו"
+  ],
+  "objections": [
+   "\"יהלום מעבדה זה כמו זירקון?\"",
+   "\"מה אם צריך תיקון?\"",
+   "זמני ייצור (עד 14 ימי עסקים)",
+   "\"לקנות תכשיט יקר באונליין?\""
+  ],
+  "current_ads_audit": "7 מודעות פעילות: קטלוג אוטומטי (רץ 210 יום), פלאייר מועדון 5%, פלאייר קופון חג 12%, מודעת חריטה אחת ומודעת דרושים. הקטלוג מוכיח שיש ביקוש, אבל אין אף תמונה של תכשיט על הגוף באור טוב, אין סיפור של העסק המשפחתי והמפעל, ויהלומי המעבדה — היתרון הכי חזק במחיר — לא מוסברים.",
+  "gaps": [
+   "אין צילום פרימיום של תכשיט על עור",
+   "הסיפור 'משפחה + מפעל מאז 2005' לא מסופר",
+   "יהלומי מעבדה בלי הסבר ובלי ביטחון",
+   "צמידי המונקו לגברים כמעט בלי במה",
+   "אחריות לכל החיים לא מופיעה"
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "יהלום אמיתי. מחיר אחר.",
+    "idea": "יהלומי מעבדה: אותו יהלום בדיוק, כימית ואופטית, במחיר שמאפשר גדול יותר.",
+    "persona": "מפנקת את עצמה",
+    "hook": "יהלום אמיתי. מחיר אחר.",
+    "why": "היתרון הכי חזק שלהם, ועונה על 'זה אמיתי?'."
+   },
+   {
+    "id": "A2",
+    "name": "מהמפעל שלנו",
+    "idea": "עסק משפחתי מאז 2005, מפעל וחנות ברמת גן, אחריות לכל החיים.",
+    "persona": "המתנה הגדולה",
+    "hook": "ישר מהמפעל. מאז 2005.",
+    "why": "אמון ומחיר בלי מתווכים — בדיוק מה שמרגיע קנייה יקרה באונליין."
+   },
+   {
+    "id": "A3",
+    "name": "השמות שלהם, קרוב ללב",
+    "idea": "שרשראות שם, חריטה ותליוני שמות — מתנה עם משמעות.",
+    "persona": "אמא/סבתא",
+    "hook": "השמות שלהם. קרוב ללב.",
+    "why": "רגש, מתנות ורכישה חוזרת לכל אירוע."
+   },
+   {
+    "id": "A4",
+    "name": "הצמיד שלו",
+    "idea": "צמידי מונקו מזהב לגברים: קובני, פיגארו, שיבוץ ואוניקס.",
+    "persona": "הגבר עם הצמיד",
+    "hook": "צמיד שלא מורידים.",
+    "why": "קטגוריה עם מחיר גבוה שכמעט לא מקבלת תקציב."
+   },
+   {
+    "id": "A5",
+    "name": "הטבעת של כל יום",
+    "idea": "טבעות יהלומים עדינות מתחת ל-2,400 ש״ח: לענוד, לשלב, לא להוריד.",
+    "persona": "מפנקת את עצמה",
+    "hook": "יהלום קטן. כל יום.",
+    "why": "מחיר כניסה נמוך יותר וקנייה אימפולסיבית לעצמה."
+   }
+  ]
+ },
+ "new_ads": [
+  {
+   "ad_no": 1,
+   "angle_id": "A1",
+   "format": "4:5",
+   "overlay": "יהלום אמיתי.<br>מחיר אחר.",
+   "overlay_sub": "טבעת נילי · 2,900 ש״ח",
+   "note": null,
+   "primary_text": "יהלום מעבדה הוא יהלום לכל דבר: אותו פחמן, אותה קשיות, אותו ניצוץ. ההבדל היחיד הוא איפה הוא נוצר.\n\nוזה מה שמאפשר טבעת כמו נילי, זהב 14K עם יהלום בחיתוך אמרלד, ב-2,900 ש״ח.",
+   "alt_texts": [
+    "יהלום אמיתי, מחיר אחר. טבעת נילי."
+   ],
+   "headline": "טבעת יהלום מעבדה",
+   "description": "2,900 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "יהלום אמיתי.<br>מחיר אחר.",
+     "sub": "טבעת נילי · 2,900 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,225,211)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_01.png",
+   "image_raw": "ads_raw/ad_01.png",
+   "protect": [
+    [
+     0.08,
+     0.45,
+     1.0,
+     0.9
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_09cf2d86-f01a-467d-ab05-fdd6438b0fe9.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. Close-up of a woman's sun-kissed hand resting on white linen, wearing the Nili emerald-cut solitaire ring from the reference on her ring finger, warm hard sunlight making the diamond flash, soft leaf shadows across the linen. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 2,
+   "angle_id": "A1",
+   "format": "1:1",
+   "overlay": "ארבעה יהלומים.<br>פרח אחד.",
+   "overlay_sub": "טבעת סניה · 3,200 ש״ח",
+   "note": null,
+   "primary_text": "ארבעה יהלומי מעבדה בצורת פרח, על טבעת זהב 14K מפוצלת.\n\nטבעת שנראית כמו תכשיט של אירוע, ונענדת כל יום.\n\n3,200 ש״ח, משלוח חינם ואחריות לכל החיים.",
+   "alt_texts": [
+    "ארבעה יהלומים, פרח אחד. טבעת סניה."
+   ],
+   "headline": "טבעת סניה",
+   "description": "3,200 ש״ח",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "top_right",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "headline": "ארבעה יהלומים.<br>פרח אחד.",
+     "sub": "טבעת סניה · 3,200 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      432,
+      75,
+      1015,
+      399
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,228,211)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_02.png",
+   "image_raw": "ads_raw/ad_02.png",
+   "protect": [
+    [
+     0.28,
+     0.38,
+     0.62,
+     0.66
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_f2562005-2e8f-49a8-9700-12bc254f593a.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The Sania four-stone flower ring from the reference standing on a small block of warm limestone, crisp golden sunlight throwing a long soft shadow and tiny rainbow sparkles on the stone, a few leaf shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 3,
+   "angle_id": "A1",
+   "format": "9:16",
+   "overlay": "68 יהלומים.<br>על היד שלך.",
+   "overlay_sub": "צמיד טניס · 2 קראט",
+   "note": null,
+   "primary_text": "צמיד טניס של 2 קראט יהלומי מעבדה, 68 אבנים, בזהב 14K.\n\nתכשיט שפעם היה שמור לאירועים, והיום נענד עם ג'ינס.\n\n4,420 ש״ח.",
+   "alt_texts": [
+    "68 יהלומים, על היד שלך. צמיד טניס."
+   ],
+   "headline": "צמיד טניס 2 קראט",
+   "description": "4,420 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_left",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "headline": "68 יהלומים.<br>על היד שלך.",
+     "sub": "צמיד טניס · 2 קראט",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      64,
+      250,
+      496,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,226,211)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_03.png",
+   "image_raw": "ads_raw/ad_03.png",
+   "protect": [
+    [
+     0.0,
+     0.35,
+     1.0,
+     0.92
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_801c548d-13bf-4b18-862e-7a675c5fcae9.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A woman's sun-kissed wrist and hand resting on the edge of a white linen-covered table, wearing the yellow-gold lab-diamond tennis bracelet from the reference, hard golden sunlight making every stone sparkle, window-shutter shadows on the linen. Only the wrist and hand in frame. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 4,
+   "angle_id": "A1",
+   "format": "4:5",
+   "overlay": "אותו יהלום.<br>רק נוצר אחרת.",
+   "overlay_sub": "יהלומי מעבדה · זהב 14 קראט",
+   "note": null,
+   "primary_text": "שואלים אותנו הרבה: יהלום מעבדה זה כמו זירקון? ממש לא.\n\nיהלום מעבדה הוא יהלום אמיתי, זהה כימית ואופטית ליהלום מהאדמה, בדיוק באותה קשיות. רק במחיר אחר.",
+   "alt_texts": [
+    "אותו יהלום, רק נוצר אחרת."
+   ],
+   "headline": "מה זה יהלום מעבדה",
+   "description": "זהב 14K",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "אותו יהלום.<br>רק נוצר אחרת.",
+     "sub": "יהלומי מעבדה · זהב 14 קראט",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(59,40,26)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_04.png",
+   "image_raw": "ads_raw/ad_04.png",
+   "protect": [
+    [
+     0.2,
+     0.38,
+     0.8,
+     0.68
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_6c65a97e-0fe0-4839-9346-7841038b6d20.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The Nili and Sania rings from the references lying side by side on warm limestone in bright golden sunlight, crisp shadows, tiny rainbow refractions dancing on the stone around them. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 5,
+   "angle_id": "A2",
+   "format": "4:5",
+   "overlay": "ישר מהמפעל.<br>מאז 2005.",
+   "overlay_sub": "עסק משפחתי · רמת גן",
+   "note": null,
+   "primary_text": "מאז 2005 אנחנו עסק משפחתי שמייצר תכשיטים, עם מפעל וחנות ברמת גן.\n\nבלי מתווכים ובלי מחיר מנופח: מהשולחן של הצורף, ישר אלייך.",
+   "alt_texts": [
+    "ישר מהמפעל, מאז 2005."
+   ],
+   "headline": "עסק משפחתי מאז 2005",
+   "description": "חנות מפעל ברמת גן",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_left",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "ישר מהמפעל.<br>מאז 2005.",
+     "sub": "עסק משפחתי · רמת גן",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(73,53,36)",
+     "accent": "#f4ecdf",
+     "scrim_on": true,
+     "scrim": "rgba(0,0,0,0.18)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_05.png",
+   "image_raw": "ads_raw/ad_05.png",
+   "protect": [
+    [
+     0.38,
+     0.55,
+     0.58,
+     0.82
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_a0087f5d-c8d2-40dd-b80b-cbe849cb71e3.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A jeweller's workbench by a sunny window: the Sania ring from the reference held upright in a small brass ring clamp, jeweller's tools softly out of focus, warm hard sunlight through the window, leaf shadows. No hands, no faces. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 6,
+   "angle_id": "A2",
+   "format": "1:1",
+   "overlay": "אחריות<br>לכל החיים.",
+   "overlay_sub": "על כל תכשיט",
+   "note": null,
+   "primary_text": "תכשיט טוב נשאר איתך שנים. ולכן כל תכשיט שיוצא מאיתנו מגיע עם אחריות לכל החיים.\n\nמשלוח חינם עד הבית, או איסוף מהחנות ברמת גן.",
+   "alt_texts": [
+    "אחריות לכל החיים, על כל תכשיט."
+   ],
+   "headline": "אחריות לכל החיים",
+   "description": "משלוח חינם",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "headline": "אחריות<br>לכל החיים.",
+     "sub": "על כל תכשיט",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(57,41,27)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_06.png",
+   "image_raw": "ads_raw/ad_06.png",
+   "protect": [
+    [
+     0.25,
+     0.3,
+     0.85,
+     0.9
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_895e7a5a-abcf-472c-8716-c97ba4a12f7e.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The engraved gold signet ring from the reference standing on a small linen-wrapped jewellery box on warm limestone, golden sunlight, soft leaf shadows, calm and warm. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 7,
+   "angle_id": "A2",
+   "format": "9:16",
+   "overlay": "אתם בוחרים.<br>אנחנו מעצבים.",
+   "overlay_sub": "עיצוב אישי בהזמנה",
+   "note": null,
+   "primary_text": "יש לך תמונה של טבעת שחלמת עליה? רעיון לתכשיט שעוד לא קיים?\n\nבג'קסון מעצבים ומייצרים תכשיטים בהתאמה אישית, לפי הטעם, הסגנון והסיפור שלך.",
+   "alt_texts": [
+    "אתם בוחרים, אנחנו מעצבים."
+   ],
+   "headline": "תכשיט בעיצוב אישי",
+   "description": "עסק משפחתי מאז 2005",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "top_left",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "headline": "אתם בוחרים.<br>אנחנו מעצבים.",
+     "sub": "עיצוב אישי בהזמנה",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      64,
+      250,
+      648,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,229,219)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_07.png",
+   "image_raw": "ads_raw/ad_07.png",
+   "protect": [
+    [
+     0.2,
+     0.4,
+     0.72,
+     0.82
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_ecd73f08-1dfb-4908-ab7f-eb0aa22570b8.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A small open cream jewellery box on white linen by a sunny window, the Nili ring from the reference nestled inside, hard golden sunlight and window-shutter shadows across the linen. No people. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 8,
+   "angle_id": "A2",
+   "format": "4:5",
+   "overlay": "זהב 14 קראט.<br>בלי מתווכים.",
+   "overlay_sub": "משלוח חינם עד הבית",
+   "note": null,
+   "primary_text": "כשהמפעל והחנות הם אותו מקום, המחיר נשאר הוגן.\n\nזהב 14K ויהלומים, עם משלוח חינם ואחריות לכל החיים.",
+   "alt_texts": [
+    "זהב 14K, בלי מתווכים."
+   ],
+   "headline": "ישר מהמפעל",
+   "description": "משלוח חינם",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "זהב 14 קראט.<br>בלי מתווכים.",
+     "sub": "משלוח חינם עד הבית",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,228,210)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.56)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_08.png",
+   "image_raw": "ads_raw/ad_08.png",
+   "protect": [
+    [
+     0.03,
+     0.45,
+     0.9,
+     0.8
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_d153684d-cf36-40ba-a170-b6c2a39ebab3.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The yellow-gold tennis bracelet and the polished gold cuban bracelet from the references laid in gentle curves on warm limestone in hard golden sunlight, long crisp shadows, leaf shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 9,
+   "angle_id": "A3",
+   "format": "4:5",
+   "overlay": "השמות שלהם.<br>קרוב ללב.",
+   "overlay_sub": "תליון לב · 3 שמות",
+   "note": null,
+   "primary_text": "שלושה שמות, לב אחד, והכי קרוב ללב.\n\nתליון זהב 14K עם חריטה של שמות הילדים ויהלומים קטנים.\n\n2,691 ש״ח, משלוח חינם.",
+   "alt_texts": [
+    "השמות שלהם, קרוב ללב."
+   ],
+   "headline": "תליון לב עם שמות",
+   "description": "2,691 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "direction": "contrast",
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_left",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "השמות שלהם.<br>קרוב ללב.",
+     "sub": "תליון לב · 3 שמות",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,207,201)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_09.png",
+   "image_raw": "ads_raw/ad_09.png",
+   "protect": [
+    [
+     0.52,
+     0.0,
+     0.9,
+     0.2
+    ],
+    [
+     0.52,
+     0.15,
+     1.0,
+     0.32
+    ],
+    [
+     0.28,
+     0.32,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_143610_99b335c2-0efe-48cb-b85c-79255ad1deac.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. Close crop of a woman's sun-kissed collarbone and white linen shirt collar, wearing the gold heart pendant with three engraved names from the reference, warm hard sunlight and leaf shadows on the skin. Crop below the chin — no face. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 10,
+   "angle_id": "A3",
+   "format": "1:1",
+   "overlay": "השם שלה.<br>בזהב.",
+   "overlay_sub": "שרשרת שם · 1,560 ש״ח",
+   "note": null,
+   "primary_text": "המתנה הכי אישית שיש: השם שלה, בכתב יד, בזהב 14K.\n\nשרשרת שם בעברית או באנגלית, בעבודת יד.\n\n1,560 ש״ח.",
+   "alt_texts": [
+    "השם שלה, בזהב."
+   ],
+   "headline": "שרשרת שם",
+   "description": "1,560 ש״ח",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "headline": "השם שלה.<br>בזהב.",
+     "sub": "שרשרת שם · 1,560 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(211,203,197)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_10.png",
+   "image_raw": "ads_raw/ad_10.png",
+   "protect": [
+    [
+     0.2,
+     0.42,
+     0.8,
+     0.85
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_e4e73541-ac41-4560-a46c-4c0a9b28cef3.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The gold Hebrew name necklace from the reference lying on white linen in warm golden sunlight, the chain curving softly, crisp leaf shadows. Keep the Hebrew letters exactly as in the reference. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 11,
+   "angle_id": "A3",
+   "format": "4:5",
+   "overlay": "כל קובייה.<br>אות שלך.",
+   "overlay_sub": "שרשרת קוביות · 1,970 ש״ח",
+   "note": null,
+   "primary_text": "קוביות זהב עם האותיות שבחרת: השם שלך, של הילדים, או מילה שרק שניכם מבינים.\n\n1,970 ש״ח, זהב 14K.",
+   "alt_texts": [
+    "כל קובייה, אות שלך."
+   ],
+   "headline": "שרשרת קוביות עם שם",
+   "description": "1,970 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "כל קובייה.<br>אות שלך.",
+     "sub": "שרשרת קוביות · 1,970 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,229,212)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_11.png",
+   "image_raw": "ads_raw/ad_11.png",
+   "protect": [
+    [
+     0.1,
+     0.25,
+     0.75,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142938_5ebacd77-12b8-48b5-a6e6-450cdfb16c0b.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. Close crop of a woman's sun-kissed neck and shoulder in a white linen top, wearing the gold letter-cube name necklace from the reference, warm hard sunlight, leaf shadows across the skin. Crop below the lips — no face. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 12,
+   "angle_id": "A3",
+   "format": "4:5",
+   "overlay": "חריטה שנשארת<br>על היד.",
+   "overlay_sub": "טבעת חריטה · 1,320 ש״ח",
+   "note": null,
+   "primary_text": "טבעת חותם מזהב עם שם בחריטה ויהלום קטן.\n\nמתנה לאמא, לחברה הכי טובה, או לעצמך.\n\n1,320 ש״ח.",
+   "alt_texts": [
+    "חריטה שנשארת על היד."
+   ],
+   "headline": "טבעת חריטה עם יהלום",
+   "description": "1,320 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "חריטה שנשארת<br>על היד.",
+     "sub": "טבעת חריטה · 1,320 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,237,222)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_12.png",
+   "image_raw": "ads_raw/ad_12.png",
+   "protect": [
+    [
+     0.2,
+     0.45,
+     0.85,
+     0.95
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142405_a4ea33a8-91af-4136-b6ca-497f34f64f36.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A woman's sun-kissed hand resting on her white linen sleeve, wearing the engraved gold signet ring from the reference on her index finger, the engraved name visible, hard golden sunlight, leaf shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 13,
+   "angle_id": "A4",
+   "format": "4:5",
+   "overlay": "צמיד<br>שלא מורידים.",
+   "overlay_sub": "מונקו קלאסי · 6.5 מ״מ",
+   "note": null,
+   "primary_text": "צמיד מונקו קלאסי מזהב 14K, 6.5 מ״מ, מבריק ונוכח.\n\nצמיד שעונדים כל יום, לכל החיים, עם אחריות לכל החיים.\n\n3,697 ש״ח.",
+   "alt_texts": [
+    "צמיד שלא מורידים. מונקו קלאסי."
+   ],
+   "headline": "צמיד מונקו לגבר",
+   "description": "3,697 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "צמיד<br>שלא מורידים.",
+     "sub": "מונקו קלאסי · 6.5 מ״מ",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(53,37,26)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_13.png",
+   "image_raw": "ads_raw/ad_13.png",
+   "protect": [
+    [
+     0.0,
+     0.45,
+     1.0,
+     0.9
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_3543a30e-4b8d-4ef8-b1ba-5025652b41d5.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A man's tanned wrist and hand in the rolled-up sleeve of a white linen shirt, resting on a warm limestone ledge, wearing the polished yellow-gold cuban bracelet from the reference, hard golden sunlight, crisp shadows. Only the forearm and hand in frame. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 14,
+   "angle_id": "A4",
+   "format": "1:1",
+   "overlay": "זהב לבן.<br>שיבוץ מלא.",
+   "overlay_sub": "מונקו פיגארו · 3,980 ש״ח",
+   "note": null,
+   "primary_text": "צמיד פיגארו מזהב לבן 14K בשיבוץ מלא: נוכח, נוצץ, ולא מתנצל.\n\n3,980 ש״ח, משלוח חינם.",
+   "alt_texts": [
+    "זהב לבן, שיבוץ מלא. מונקו פיגארו."
+   ],
+   "headline": "מונקו פיגארו בשיבוץ",
+   "description": "3,980 ש״ח",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "headline": "זהב לבן.<br>שיבוץ מלא.",
+     "sub": "מונקו פיגארו · 3,980 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(52,33,19)",
+     "accent": "#f4ecdf",
+     "scrim_on": true,
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_14.png",
+   "image_raw": "ads_raw/ad_14.png",
+   "protect": [
+    [
+     0.3,
+     0.43,
+     0.72,
+     0.75
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_f05a7185-65f5-4a55-8a58-00aa503aeff9.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The white-gold full pavé Monaco figaro bracelet from the reference coiled on dark warm stone in a single shaft of hard golden sunlight, every stone sparkling, deep soft shadows around. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 15,
+   "angle_id": "A4",
+   "format": "9:16",
+   "overlay": "שחור.<br>זהב. הוא.",
+   "overlay_sub": "טניס אוניקס · 3,415 ש״ח",
+   "note": null,
+   "primary_text": "צמיד טניס מזהב 14K בשיבוץ אוניקס שחור.\n\nהמתנה שהוא לא יקנה לעצמו, ולא יוריד.\n\n3,415 ש״ח.",
+   "alt_texts": [
+    "שחור, זהב, הוא. טניס אוניקס."
+   ],
+   "headline": "צמיד אוניקס לגבר",
+   "description": "3,415 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "headline": "שחור.<br>זהב. הוא.",
+     "sub": "טניס אוניקס · 3,415 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(6,6,4)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.72)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_15.png",
+   "image_raw": "ads_raw/ad_15.png",
+   "protect": [
+    [
+     0.0,
+     0.33,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142831_d9a64914-735f-4d63-a81e-fb942c285171.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A man's tanned wrist resting on the steering wheel of a classic car in golden late-afternoon sunlight, wearing the black onyx Monaco tennis bracelet from the reference, a white linen cuff, soft warm background. Only the forearm and hand in frame. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 16,
+   "angle_id": "A4",
+   "format": "4:5",
+   "overlay": "המתנה<br>שהוא לא יוריד.",
+   "overlay_sub": "צמידי מונקו לגבר",
+   "note": null,
+   "primary_text": "יום הולדת, יום נישואין, או סתם כי מגיע לו.\n\nצמידי מונקו מזהב 14K, מ-2,140 ש״ח, עם משלוח חינם ואחריות לכל החיים.",
+   "alt_texts": [
+    "המתנה שהוא לא יוריד."
+   ],
+   "headline": "צמידי זהב לגבר",
+   "description": "מ-2,140 ש״ח",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "המתנה<br>שהוא לא יוריד.",
+     "sub": "צמידי מונקו לגבר",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(56,36,23)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_16.png",
+   "image_raw": "ads_raw/ad_16.png",
+   "protect": [
+    [
+     0.4,
+     0.43,
+     0.7,
+     0.82
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_6fb849ff-4b8d-49b7-880b-750a31e72daf.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The polished yellow-gold cuban bracelet and the black onyx tennis bracelet from the references side by side on a folded white linen shirt, hard golden sunlight, crisp leaf shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 17,
+   "angle_id": "A5",
+   "format": "4:5",
+   "overlay": "יהלום קטן.<br>כל יום.",
+   "overlay_sub": "טבעות יהלומים מ-1,890 ש״ח",
+   "note": null,
+   "primary_text": "לא כל טבעת צריכה אירוע.\n\nטבעות יהלומים עדינות בזהב 14K, לענוד לבד או לשלב, מ-1,890 ש״ח.",
+   "alt_texts": [
+    "יהלום קטן, כל יום."
+   ],
+   "headline": "טבעות יהלומים עדינות",
+   "description": "מ-1,890 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "יהלום קטן.<br>כל יום.",
+     "sub": "טבעות יהלומים מ-1,890 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,225,205)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_17.png",
+   "image_raw": "ads_raw/ad_17.png",
+   "protect": [
+    [
+     0.0,
+     0.3,
+     1.0,
+     0.9
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_777a40d3-3899-4ae8-b791-167bf8fe033a.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A woman's sun-kissed hand resting on white linen, wearing the Rotem, Mali and Nelly diamond rings from the references stacked on two fingers, hard golden sunlight, leaf shadows across the hand. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 18,
+   "angle_id": "A5",
+   "format": "1:1",
+   "overlay": "הקפה של הבוקר.<br>והטבעת.",
+   "overlay_sub": "טבעת מלי · 1,890 ש״ח",
+   "note": null,
+   "primary_text": "הטבעת שנשארת גם כשמורידים את כל השאר.\n\nטבעת מלי: קשת של יהלומים קטנים בזהב 14K.\n\n1,890 ש״ח.",
+   "alt_texts": [
+    "הקפה של הבוקר, והטבעת. טבעת מלי."
+   ],
+   "headline": "טבעת מלי",
+   "description": "1,890 ש״ח",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "headline": "הקפה של הבוקר.<br>והטבעת.",
+     "sub": "טבעת מלי · 1,890 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,225,209)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_18.png",
+   "image_raw": "ads_raw/ad_18.png",
+   "protect": [
+    [
+     0.33,
+     0.42,
+     0.68,
+     0.78
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_33b108a0-4e57-40d0-9877-9cdd98b8cf55.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The Mali graduated-diamond ring from the reference balanced on the rim of a small white ceramic cup on warm limestone, bright golden sunlight, crisp shadows, calm morning mood. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 19,
+   "angle_id": "A5",
+   "format": "4:5",
+   "overlay": "מתנה.<br>לעצמך.",
+   "overlay_sub": "טבעת רותם · 2,280 ש״ח",
+   "note": null,
+   "primary_text": "מתי בפעם האחרונה קנית משהו רק בשבילך?\n\nטבעת רותם: יהלומים קטנים בשיבוץ עגול, בזהב 14K.\n\n2,280 ש״ח.",
+   "alt_texts": [
+    "מתנה לעצמך. טבעת רותם."
+   ],
+   "headline": "טבעת רותם",
+   "description": "2,280 ש״ח",
+   "cta": "Shop Now",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "מתנה.<br>לעצמך.",
+     "sub": "טבעת רותם · 2,280 ש״ח",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      583,
+      202,
+      1015,
+      432
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,223,202)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_19.png",
+   "image_raw": "ads_raw/ad_19.png",
+   "protect": [
+    [
+     0.25,
+     0.0,
+     0.6,
+     0.12
+    ],
+    [
+     0.3,
+     0.35,
+     0.95,
+     0.85
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142937_41efc547-a89c-4241-bf57-7082d8a2e40b.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. A woman's sun-kissed hand lightly touching her white linen collar, wearing the Rotem swirl diamond ring from the reference, hard golden sunlight and window-shutter shadows. Crop at the collar — no face. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  },
+  {
+   "ad_no": 20,
+   "angle_id": "A5",
+   "format": "4:5",
+   "overlay": "שתיים<br>ביחד.",
+   "overlay_sub": "משלבים טבעות · זהב 14 קראט",
+   "note": null,
+   "primary_text": "אחת עדינה, אחת נוכחת, ושתיהן ביחד על אותה אצבע.\n\nטבעות יהלומים לשילוב, עם משלוח חינם ואחריות לכל החיים.",
+   "alt_texts": [
+    "שתיים ביחד. טבעות לשילוב."
+   ],
+   "headline": "טבעות לשילוב",
+   "description": "משלוח חינם",
+   "cta": "Shop Now",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "bottom",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "שתיים<br>ביחד.",
+     "sub": "משלבים טבעות · זהב 14 קראט",
+     "note": null,
+     "signature": "",
+     "brand": "ג׳קסון תכשיטים",
+     "box": [
+      86,
+      1039,
+      993,
+      1269
+     ],
+     "top": false,
+     "ink": "#1f1812",
+     "paper": "rgb(230,215,199)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_20.png",
+   "image_raw": "ads_raw/ad_20.png",
+   "protect": [
+    [
+     0.3,
+     0.53,
+     0.75,
+     0.74
+    ],
+    [
+     0.0,
+     0.25,
+     0.6,
+     0.55
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_142457_55c89e91-a1b8-45e9-84a8-63e031cd0967.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium fine-jewellery advertising photograph, sun-drenched Mediterranean editorial: warm golden late-afternoon hard sunlight, crisp soft-edged shadows of leaves or window shutters falling across the scene, sun-kissed natural skin, white linen and warm limestone, luminous and effortless, shot on medium format, photorealistic. The Nelly twisted marquise ring and the Rotem ring from the references lying on crumpled white linen in hard golden sunlight, crisp leaf shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same background simply continues, evenly lit and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. The jewellery must be an exact match of the reference photos: same metal colour, links, setting, stone shapes, count and proportions, same engraved letters — do not redesign it. Real scale on the body. No text, signage, watermarks or logos anywhere in the image. "
+  }
+ ],
+ "outreach": {
+  "suggested_whatsapp_message": ""
+ },
+ "cost": {
+  "image_gen_usd": 0
+ },
+ "timestamps": {
+  "discovered": "2026-09-25T13:11:10",
+  "filtered": "2026-09-25T13:13:39",
+  "qualified": "2026-09-25T13:19:06",
+  "collected": "2026-09-25T13:27:05",
+  "researched": "2026-09-26T14:38:42"
+ },
+ "qualify": {
+  "pages_checked": [
+   "https://jackson.co.il/",
+   "https://jackson.co.il/shop/?utm_source=facebook&utm_medium=ppc&utm_campaign=%D7%94%D7%A0%D7%97%D7%AA+%D7%A1%D7%95%D7%A3+%D7%A9%D7%A0%D7%94+2021",
+   "https://jackson.co.il/product-category/%d7%aa%d7%9b%d7%a9%d7%99%d7%98%d7%99%d7%9d-%d7%a2%d7%9d-%d7%97%d7%a8%d7%99%d7%98%d7%94/"
+  ],
+  "store_signals": [
+   "cart",
+   "woocommerce"
+  ],
+  "prices_in_ils": true,
+  "owner_candidates": [],
+  "site_blocked": false,
+  "owner_instagram_found": false,
+  "missing": []
+ },
+ "client_page": "https://il-meta.base44.app/p/jackson-18bceed3"
 }

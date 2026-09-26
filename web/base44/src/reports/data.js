@@ -4010,5 +4010,1607 @@ export const REPORTS = {
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"
+ },
+ "haircosmetics-8b8eb022": {
+  "slug": "haircosmetics-8b8eb022",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_01.webp",
+    "headline": "גלייז לתלתלים · 1 ליטר",
+    "primary": "הגלייז של פול מיטשל נותן לתלתלים הגדרה, ברק ואחיזה, בלי להשאיר אותם קשים.\n\nבקבוק ענק של ליטר שמחזיק חודשים.\n\n129 ש״ח, משלוח חינם מעל 199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(57,34,24)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "תלתלים מוגדרים.<br>בלי קראנץ'.",
+     "sub": "גלייז סופר סקלפט · 1 ליטר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/haircosmetics/raw_02.webp",
+    "headline": "תלתלים מוגדרים ורכים",
+    "primary": "לא צריך לשנות את התלתלים. רק לתת להם את מה שהם צריכים.\n\nגלייז מקצועי שמגדיר כל תלתל, שומר על ברק ומונע פריז גם ביום לח.\n\nכל מוצרי התלתלים באתר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(220,206,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "התלתלים שלך.<br>רק מוגדרים יותר.",
+     "sub": "גלייז מקצועי לתלתלים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/haircosmetics/raw_03.webp",
+    "headline": "גלייז לתלתלים",
+    "primary": "יש מוצרים שקונים פעם אחת, ויש כאלה שחוזרים אליהם.\n\nהגלייז לתלתלים של G.Cosmetics: גמישות, הגדרה ואחיזה טבעית, ב-49 ש״ח בלבד.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,219,214)",
+     "scrim": "rgba(250,246,238,0.3)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הגלייז שכולן<br>קונות שוב.",
+     "sub": "49 ש״ח · 500 מ״ל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_04.webp",
+    "headline": "מוס לתלתלים",
+    "primary": "רוצה תלתלים עם נפח, אבל רכים למגע?\n\nהמוס של פול מיטשל מעצב, מוסיף לחות ושומר על תלתלים קופצניים לאורך היום.\n\n119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(215,199,195)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "נפח ורכות.<br>באותו מוס.",
+     "sub": "מוס סקלפטינג · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_05.webp",
+    "headline": "מסכת קרטין לשיער יבש",
+    "primary": "שיער יבש, צבוע או אחרי החלקה? מתחילים מכאן.\n\nמסכת הקרטין של B-YOU חודרת לעומק השערה ומחזירה לחות, רכות וברק.\n\n500 מ״ל ב-99 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(201,210,216)",
+     "scrim": "rgba(250,246,238,0.42)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "5 דקות.<br>שיער אחר.",
+     "sub": "מסכת קרטין · 99 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/haircosmetics/raw_06.webp",
+    "headline": "אמפולת קרטין",
+    "primary": "הטיפול הכי קטן באתר, והאהוב ביותר.\n\nאמפולת קרטין מרוכזת לשיקום מהיר של שיער עייף ופגום.\n\n13 ש״ח לאמפולה. שווה לקחת כמה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      648,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(193,208,216)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "זריקת לחות.<br>ב-13 ש״ח.",
+     "sub": "אמפולת קרטין של אליאן",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/haircosmetics/raw_07.webp",
+    "headline": "שגרת שיקום",
+    "primary": "החלקות, צבע, פן ושמש. השיער עובר הרבה.\n\nשגרת שיקום פשוטה: מסכת קרטין פעם בשבוע ואמפולה כשצריך חיזוק.\n\nכל מוצרי השיקום באתר, משלוח חינם מעל 199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(207,218,224)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מיבש ושבור<br>לרך ומבריק.",
+     "sub": "שגרת שיקום לשיער",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_08.webp",
+    "headline": "מסכה לשיער חשוף לחום",
+    "primary": "הפן, הפלאטה והמסלסל עושים את העבודה, ומשאירים שיער יבש.\n\nמסכת Neuro Repair של פול מיטשל נבנתה בדיוק בשביל זה: שיקום לשיער שחשוף לחום כל יום.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(38,48,61)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לפני הפן.<br>לא אחרי.",
+     "sub": "מסכת נוירו · הגנה מחום",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_09.webp",
+    "headline": "החלקה ללא פורמלין",
+    "primary": "רוצה שיער חלק, אבל לא מוכנה לפורמלין?\n\nההחלקה האורגנית של pH עם מיקרו־פרוטאין, ברישיון משרד הבריאות, לכל סוגי השיער.\n\n219 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(216,209,201)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חלק ומבריק.<br>בלי פורמלין.",
+     "sub": "החלקה אורגנית · 219 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/haircosmetics/raw_10.webp",
+    "headline": "החלקה ביתית",
+    "primary": "בלי לשבת שעות במספרה, ובלי ריח של כימיקלים.\n\nההחלקה של pH נעשית בבית, מתאימה לכל סוגי השיער ומשאירה שיער חלק, מבריק ורך.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,230,223)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "החלקה.<br>בבית שלך.",
+     "sub": "ברישיון משרד הבריאות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/haircosmetics/raw_11.webp",
+    "headline": "החלקה לשיער בהיר",
+    "primary": "שיער בהיר, צבוע או פגום צריך החלקה עדינה יותר.\n\nBlonde+ של pH נבנתה בדיוק לשיער כזה: חלק ומבריק, בלי להכביד.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(217,205,215)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "גם לבלונד.<br>גם לפגום.",
+     "sub": "פי אייץ׳ בלונד פלוס",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_12.webp",
+    "headline": "בוחרים לפי סוג שיער",
+    "primary": "לא כל שיער זהה, ולכן יש שלוש נוסחאות.\n\nשיער רגיל, שיער צבוע, ושיער בלונד או פגום: בוחרים את מה שמתאים לך ומקבלים חלק ובריא.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(210,199,187)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלושה סוגי שיער.<br>שלוש החלקות.",
+     "sub": "רגיל · צבוע · בלונד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_13.webp",
+    "headline": "ווקס במתנה",
+    "primary": "גבר, הגיע הזמן להתפנק.\n\nקונה מוצרים ב-199 ש״ח ומעלה ומקבל את הווקס המקצועי של Biotop במתנה, עם הקוד MAN1.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(36,35,35)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הווקס<br>עלינו.",
+     "sub": "מתנה בקנייה מעל 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/haircosmetics/raw_14.webp",
+    "headline": "ווקס מקצועי",
+    "primary": "אחיזה חזקה, מראה טבעי, ובלי ברק שמנוני.\n\nהווקס של Biotop, בדיוק מה שהספר שלך משתמש בו.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(38,33,29)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "תסרוקת שמחזיקה.<br>עד הערב.",
+     "sub": "ווקס מקצועי לגברים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "9:16",
+    "img": "/reports/haircosmetics/raw_15.webp",
+    "headline": "מוצרי שיער לגברים",
+    "primary": "המוצרים לעיצוב שיער לגברים, במקום אחד.\n\nמעל 199 ש״ח הווקס של Biotop במתנה, והמשלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(39,42,37)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "גם לך<br>מגיע להתפנק.",
+     "sub": "ווקס מתנה עם הקוד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_16.webp",
+    "headline": "הזמנה זוגית",
+    "primary": "היא מזמינה את הגלייז, הוא מקבל את הווקס.\n\nמעל 199 ש״ח המשלוח חינם, וקוד MAN1 מוסיף לו ווקס במתנה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(39,33,28)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הזמנה אחת.<br>לשניכם.",
+     "sub": "מתנה לו · משלוח חינם",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_17.webp",
+    "headline": "מותגים מקצועיים",
+    "primary": "פול מיטשל, pH, B-YOU, אליאן, Biotop ועוד.\n\nהמוצרים המקצועיים שהספרים עובדים איתם, מקוריים, במקום אחד.\n\nמשלוח חינם בכל רכישה מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(214,204,193)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "המוצרים של הספרים.<br>עד הבית.",
+     "sub": "מותגים מקצועיים ומקוריים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/haircosmetics/raw_18.webp",
+    "headline": "קופסת הפתעות",
+    "primary": "קופסת ההפתעות שלנו מלאה במוצרים שווים, ושווי המוצרים בה גבוה בהרבה מהמחיר.\n\n199 ש״ח, עד גמר המלאי.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(223,210,187)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "קופסה אחת.<br>שווה הרבה יותר.",
+     "sub": "קופסת הפתעות · 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/haircosmetics/raw_19.webp",
+    "headline": "קופסת הפתעות",
+    "primary": "מוצרי שיער מקצועיים, בהפתעה, בשווי גבוה בהרבה מהמחיר.\n\nהדרך הכי כיפית להכיר מותגים חדשים.\n\n199 ש״ח, והמשלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,217,192)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "מה יש<br>בקופסה?",
+     "sub": "קופסת הפתעות · 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/haircosmetics/raw_20.webp",
+    "headline": "מוצרים מקוריים",
+    "primary": "כל המוצרים באתר מקוריים, מהמותגים המקצועיים המובילים.\n\nמזמינים היום, והמשלוח מגיע עד הבית. מעל 199 ש״ח הוא עלינו.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(212,197,187)",
+     "scrim": "rgba(0,0,0,0.58)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מקורי.<br>ומגיע מהר.",
+     "sub": "משלוח חינם מעל 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/haircosmetics/hero.webp",
+  "business": {
+   "name": "הייר קוסמטיקס",
+   "wordmark": "הייר קוסמטיקס",
+   "site": "https://www.haircosmetics.co.il/"
+  },
+  "address": "pl",
+  "hero_bg_color": "#3a2016",
+  "hero_eyebrow": "מוצרי שיער מקצועיים · משלוח חינם מעל 199 ש״ח",
+  "hero_title": [
+   "תלתלים מוגדרים.",
+   "בלי קראנץ'."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/haircosmetics/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "המודעות שלכם כבר מוכרות: חלקן רצות יותר מחצי שנה, וזה בדרך כלל סימן שהן מביאות כסף. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "הביצוע שלכם מסודר",
+    "d": "סאטן, סרט BEST SELLER ומחיר גדול. המודעות נקיות ורצות חודשים, כלומר יש ביקוש אמיתי למוצרים."
+   },
+   {
+    "t": "כל המודעות אותה תבנית",
+    "d": "בקבוק על רקע, מחיר וכפתור. אחרי כמה צפיות הקהל כבר לא מבדיל בין מודעה אחת לאחרת."
+   },
+   {
+    "t": "התוצאה לא מופיעה",
+    "d": "אתם מוכרים תלתלים מוגדרים ושיער רך, אבל אף מודעה לא מראה שיער אמיתי. רק את הבקבוק."
+   },
+   {
+    "t": "יתרונות שקבורים בטקסט",
+    "d": "החלקה בלי פורמלין, ווקס במתנה לגברים וקופסת ההפתעות. כל אחד מהם יכול להיות קמפיין בפני עצמו."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "תלתלים שמחזיקים",
+    "hook": "תלתלים מוגדרים. בלי קראנץ'.",
+    "idea": "הגלייז והמוס שכבר רצים אצלכם הכי הרבה זמן, על תלתלים אמיתיים: הגדרה, ברק ורכות."
+   },
+   {
+    "id": "A2",
+    "name": "עזרה ראשונה לשיער",
+    "hook": "5 דקות. שיער אחר.",
+    "idea": "מסכת קרטין, אמפולה ומסכת Neuro: שיקום לשיער יבש, צבוע ופגום, במחיר כניסה נמוך."
+   },
+   {
+    "id": "A3",
+    "name": "חלק. בלי פורמלין.",
+    "hook": "חלק ומבריק. בלי פורמלין.",
+    "idea": "ההחלקה האורגנית של pH, בבית, ברישיון משרד הבריאות. מורידה את החשש הכי גדול בקטגוריה."
+   },
+   {
+    "id": "A4",
+    "name": "גם לו מגיע",
+    "hook": "הווקס עלינו.",
+    "idea": "מוצרי עיצוב לגברים והווקס במתנה מעל 199 ש״ח. קהל שני שכמעט לא מקבל תקציב."
+   },
+   {
+    "id": "A5",
+    "name": "המוצרים של הספרים",
+    "hook": "המוצרים של הספרים. עד הבית.",
+    "idea": "החנות עצמה: מותגים מקצועיים ומקוריים, משלוח חינם וקופסת הפתעות שמעלה את שווי ההזמנה."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/haircosmetics/cur_01.webp",
+      "w": 720,
+      "h": 1280,
+      "video": true
+     },
+     {
+      "img": "/reports/haircosmetics/cur_02.webp",
+      "w": 720,
+      "h": 1280,
+      "video": true
+     },
+     {
+      "img": "/reports/haircosmetics/cur_03.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/haircosmetics/cur_04.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     9,
+     4,
+     18
+    ]
+   }
+  },
+  "strip": [
+   2,
+   5,
+   10,
+   13,
+   3,
+   17,
+   7,
+   19
+  ],
+  "split": {
+   "ad": 2,
+   "eyebrow": "מה שמוכר אצלכם",
+   "title": [
+    "תלתלים",
+    "אמיתיים.",
+    "תוצאה אמיתית."
+   ],
+   "text": "הגלייז והמוס של פול מיטשל הם מוצרי התלתלים שהכי הרבה זמן רצים אצלכם. כשמראים את התלתלים עצמם ולא רק את הבקבוק, הלקוחה רואה את מה שהיא קונה.",
+   "price": "גלייז סופר סקלפט 1 ליטר · 129 ש״ח"
+  },
+  "band": {
+   "ad": 12,
+   "quote": "המוצרים של הספרים. עד הבית.",
+   "by": "הייר קוסמטיקס · מוצרי שיער מקצועיים"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "jackson-18bceed3": {
+  "slug": "jackson-18bceed3",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_01.webp",
+    "headline": "טבעת יהלום מעבדה",
+    "primary": "יהלום מעבדה הוא יהלום לכל דבר: אותו פחמן, אותה קשיות, אותו ניצוץ. ההבדל היחיד הוא איפה הוא נוצר.\n\nוזה מה שמאפשר טבעת כמו נילי, זהב 14K עם יהלום בחיתוך אמרלד, ב-2,900 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,225,211)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יהלום אמיתי.<br>מחיר אחר.",
+     "sub": "טבעת נילי · 2,900 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/jackson/raw_02.webp",
+    "headline": "טבעת סניה",
+    "primary": "ארבעה יהלומי מעבדה בצורת פרח, על טבעת זהב 14K מפוצלת.\n\nטבעת שנראית כמו תכשיט של אירוע, ונענדת כל יום.\n\n3,200 ש״ח, משלוח חינם ואחריות לכל החיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      432,
+      75,
+      1015,
+      399
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,228,211)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ארבעה יהלומים.<br>פרח אחד.",
+     "sub": "טבעת סניה · 3,200 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/jackson/raw_03.webp",
+    "headline": "צמיד טניס 2 קראט",
+    "primary": "צמיד טניס של 2 קראט יהלומי מעבדה, 68 אבנים, בזהב 14K.\n\nתכשיט שפעם היה שמור לאירועים, והיום נענד עם ג'ינס.\n\n4,420 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,226,211)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "68 יהלומים.<br>על היד שלך.",
+     "sub": "צמיד טניס · 2 קראט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_04.webp",
+    "headline": "מה זה יהלום מעבדה",
+    "primary": "שואלים אותנו הרבה: יהלום מעבדה זה כמו זירקון? ממש לא.\n\nיהלום מעבדה הוא יהלום אמיתי, זהה כימית ואופטית ליהלום מהאדמה, בדיוק באותה קשיות. רק במחיר אחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(59,40,26)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אותו יהלום.<br>רק נוצר אחרת.",
+     "sub": "יהלומי מעבדה · זהב 14 קראט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_05.webp",
+    "headline": "עסק משפחתי מאז 2005",
+    "primary": "מאז 2005 אנחנו עסק משפחתי שמייצר תכשיטים, עם מפעל וחנות ברמת גן.\n\nבלי מתווכים ובלי מחיר מנופח: מהשולחן של הצורף, ישר אלייך.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(73,53,36)",
+     "scrim": "rgba(0,0,0,0.18)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ישר מהמפעל.<br>מאז 2005.",
+     "sub": "עסק משפחתי · רמת גן",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/jackson/raw_06.webp",
+    "headline": "אחריות לכל החיים",
+    "primary": "תכשיט טוב נשאר איתך שנים. ולכן כל תכשיט שיוצא מאיתנו מגיע עם אחריות לכל החיים.\n\nמשלוח חינם עד הבית, או איסוף מהחנות ברמת גן.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(57,41,27)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אחריות<br>לכל החיים.",
+     "sub": "על כל תכשיט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/jackson/raw_07.webp",
+    "headline": "תכשיט בעיצוב אישי",
+    "primary": "יש לך תמונה של טבעת שחלמת עליה? רעיון לתכשיט שעוד לא קיים?\n\nבג'קסון מעצבים ומייצרים תכשיטים בהתאמה אישית, לפי הטעם, הסגנון והסיפור שלך.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      648,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,229,219)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אתם בוחרים.<br>אנחנו מעצבים.",
+     "sub": "עיצוב אישי בהזמנה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_08.webp",
+    "headline": "ישר מהמפעל",
+    "primary": "כשהמפעל והחנות הם אותו מקום, המחיר נשאר הוגן.\n\nזהב 14K ויהלומים, עם משלוח חינם ואחריות לכל החיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,228,210)",
+     "scrim": "rgba(250,246,238,0.56)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "זהב 14 קראט.<br>בלי מתווכים.",
+     "sub": "משלוח חינם עד הבית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_09.webp",
+    "headline": "תליון לב עם שמות",
+    "primary": "שלושה שמות, לב אחד, והכי קרוב ללב.\n\nתליון זהב 14K עם חריטה של שמות הילדים ויהלומים קטנים.\n\n2,691 ש״ח, משלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,207,201)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "השמות שלהם.<br>קרוב ללב.",
+     "sub": "תליון לב · 3 שמות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/jackson/raw_10.webp",
+    "headline": "שרשרת שם",
+    "primary": "המתנה הכי אישית שיש: השם שלה, בכתב יד, בזהב 14K.\n\nשרשרת שם בעברית או באנגלית, בעבודת יד.\n\n1,560 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(211,203,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "השם שלה.<br>בזהב.",
+     "sub": "שרשרת שם · 1,560 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_11.webp",
+    "headline": "שרשרת קוביות עם שם",
+    "primary": "קוביות זהב עם האותיות שבחרת: השם שלך, של הילדים, או מילה שרק שניכם מבינים.\n\n1,970 ש״ח, זהב 14K.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,229,212)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל קובייה.<br>אות שלך.",
+     "sub": "שרשרת קוביות · 1,970 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_12.webp",
+    "headline": "טבעת חריטה עם יהלום",
+    "primary": "טבעת חותם מזהב עם שם בחריטה ויהלום קטן.\n\nמתנה לאמא, לחברה הכי טובה, או לעצמך.\n\n1,320 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,237,222)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חריטה שנשארת<br>על היד.",
+     "sub": "טבעת חריטה · 1,320 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_13.webp",
+    "headline": "צמיד מונקו לגבר",
+    "primary": "צמיד מונקו קלאסי מזהב 14K, 6.5 מ״מ, מבריק ונוכח.\n\nצמיד שעונדים כל יום, לכל החיים, עם אחריות לכל החיים.\n\n3,697 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(53,37,26)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "צמיד<br>שלא מורידים.",
+     "sub": "מונקו קלאסי · 6.5 מ״מ",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/jackson/raw_14.webp",
+    "headline": "מונקו פיגארו בשיבוץ",
+    "primary": "צמיד פיגארו מזהב לבן 14K בשיבוץ מלא: נוכח, נוצץ, ולא מתנצל.\n\n3,980 ש״ח, משלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(52,33,19)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "זהב לבן.<br>שיבוץ מלא.",
+     "sub": "מונקו פיגארו · 3,980 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "9:16",
+    "img": "/reports/jackson/raw_15.webp",
+    "headline": "צמיד אוניקס לגבר",
+    "primary": "צמיד טניס מזהב 14K בשיבוץ אוניקס שחור.\n\nהמתנה שהוא לא יקנה לעצמו, ולא יוריד.\n\n3,415 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(6,6,4)",
+     "scrim": "rgba(250,246,238,0.72)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שחור.<br>זהב. הוא.",
+     "sub": "טניס אוניקס · 3,415 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_16.webp",
+    "headline": "צמידי זהב לגבר",
+    "primary": "יום הולדת, יום נישואין, או סתם כי מגיע לו.\n\nצמידי מונקו מזהב 14K, מ-2,140 ש״ח, עם משלוח חינם ואחריות לכל החיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(56,36,23)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "המתנה<br>שהוא לא יוריד.",
+     "sub": "צמידי מונקו לגבר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_17.webp",
+    "headline": "טבעות יהלומים עדינות",
+    "primary": "לא כל טבעת צריכה אירוע.\n\nטבעות יהלומים עדינות בזהב 14K, לענוד לבד או לשלב, מ-1,890 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,225,205)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יהלום קטן.<br>כל יום.",
+     "sub": "טבעות יהלומים מ-1,890 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/jackson/raw_18.webp",
+    "headline": "טבעת מלי",
+    "primary": "הטבעת שנשארת גם כשמורידים את כל השאר.\n\nטבעת מלי: קשת של יהלומים קטנים בזהב 14K.\n\n1,890 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,225,209)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הקפה של הבוקר.<br>והטבעת.",
+     "sub": "טבעת מלי · 1,890 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_19.webp",
+    "headline": "טבעת רותם",
+    "primary": "מתי בפעם האחרונה קנית משהו רק בשבילך?\n\nטבעת רותם: יהלומים קטנים בשיבוץ עגול, בזהב 14K.\n\n2,280 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      202,
+      1015,
+      432
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,223,202)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתנה.<br>לעצמך.",
+     "sub": "טבעת רותם · 2,280 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/jackson/raw_20.webp",
+    "headline": "טבעות לשילוב",
+    "primary": "אחת עדינה, אחת נוכחת, ושתיהן ביחד על אותה אצבע.\n\nטבעות יהלומים לשילוב, עם משלוח חינם ואחריות לכל החיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      1039,
+      993,
+      1269
+     ],
+     "top": false,
+     "ink": "#1f1812",
+     "paper": "rgb(230,215,199)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שתיים<br>ביחד.",
+     "sub": "משלבים טבעות · זהב 14 קראט",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/jackson/hero.webp",
+  "business": {
+   "name": "ג׳קסון תכשיטים",
+   "wordmark": "ג׳קסון",
+   "site": "https://jackson.co.il/"
+  },
+  "address": "pl",
+  "hero_bg_color": "#2b1b10",
+  "hero_eyebrow": "עסק משפחתי מאז 2005 · זהב ויהלומים",
+  "hero_title": [
+   "יהלום אמיתי.",
+   "מחיר אחר."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/jackson/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "מודעת הקטלוג שלכם רצה כבר יותר משבעה חודשים, וזה בדרך כלל סימן שהיא מביאה כסף. עברנו על המודעות, על האתר ועל התכשיטים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "יש ביקוש אמיתי",
+    "d": "מודעת הקטלוג רצה יותר מ-200 יום. אנשים קונים את התכשיטים שלכם גם מתמונה על רקע לבן."
+   },
+   {
+    "t": "התכשיט לא נראה על הגוף",
+    "d": "כמעט כל המודעות הן קטלוג או פלאייר קופון. תכשיט של אלפי שקלים צריך להיראות על יד, באור טוב."
+   },
+   {
+    "t": "הסיפור שלכם לא מסופר",
+    "d": "עסק משפחתי מאז 2005, מפעל ברמת גן ואחריות לכל החיים. זה בדיוק מה שמרגיע מי שקונה תכשיט יקר באינטרנט."
+   },
+   {
+    "t": "יהלומי מעבדה בלי הסבר",
+    "d": "היתרון הכי חזק שלכם במחיר, והשאלה הכי נפוצה של הלקוחות ('זה אמיתי?'), לא מקבלים אף מודעה."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "יהלום אמיתי. מחיר אחר.",
+    "hook": "יהלום אמיתי. מחיר אחר.",
+    "idea": "יהלומי מעבדה: אותו יהלום בדיוק, במחיר שמאפשר גדול יותר. עונה על 'זה אמיתי?'."
+   },
+   {
+    "id": "A2",
+    "name": "מהמפעל שלנו",
+    "hook": "ישר מהמפעל. מאז 2005.",
+    "idea": "עסק משפחתי, מפעל וחנות ברמת גן, אחריות לכל החיים: אמון ומחיר בלי מתווכים."
+   },
+   {
+    "id": "A3",
+    "name": "השמות שלהם, קרוב ללב",
+    "hook": "השמות שלהם. קרוב ללב.",
+    "idea": "שרשראות שם, חריטה ותליוני שמות: מתנה עם משמעות לכל אירוע."
+   },
+   {
+    "id": "A4",
+    "name": "הצמיד שלו",
+    "hook": "צמיד שלא מורידים.",
+    "idea": "צמידי מונקו מזהב לגברים: קטגוריה עם מחיר גבוה שכמעט לא מקבלת תקציב."
+   },
+   {
+    "id": "A5",
+    "name": "הטבעת של כל יום",
+    "hook": "יהלום קטן. כל יום.",
+    "idea": "טבעות יהלומים עדינות מתחת ל-2,400 ש״ח, לענוד ולשלב. קנייה של רגע, לעצמה."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/jackson/cur_01.webp",
+      "w": 1024,
+      "h": 1024,
+      "video": false
+     },
+     {
+      "img": "/reports/jackson/cur_02.webp",
+      "w": 941,
+      "h": 1672,
+      "video": false
+     },
+     {
+      "img": "/reports/jackson/cur_03.webp",
+      "w": 1500,
+      "h": 1500,
+      "video": false
+     },
+     {
+      "img": "/reports/jackson/cur_04.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     3,
+     6,
+     12,
+     1
+    ]
+   }
+  },
+  "strip": [
+   1,
+   13,
+   9,
+   17,
+   3,
+   16,
+   11,
+   20
+  ],
+  "split": {
+   "ad": 5,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "מהשולחן",
+    "של הצורף.",
+    "ישר אליה."
+   ],
+   "text": "עסק משפחתי מאז 2005, עם מפעל וחנות ברמת גן. זהב 14 קראט, יהלומים טבעיים ויהלומי מעבדה, עיצוב אישי, משלוח חינם ואחריות לכל החיים.",
+   "price": "משלוח חינם · אחריות לכל החיים"
+  },
+  "band": {
+   "ad": 18,
+   "quote": "לחיות את הרגע זה נפלא. להפוך אותו לנצחי, זו האמנות שלנו.",
+   "by": "ג׳קסון תכשיטים · מאז 2005"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם המותג שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
  }
 };
