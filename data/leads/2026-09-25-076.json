@@ -2213,35 +2213,36 @@
     "color": "#2e2419",
     "shade": "rgba(250,244,234,.55)",
     "rendered_style": "corner",
-    "rendered_zone": "mid_left",
-    "rendered_direction": "contrast",
+    "rendered_zone": "top",
+    "rendered_direction": "stack",
     "render": {
      "w": 1080,
      "h": 1920,
-     "direction": "contrast",
+     "direction": "stack",
      "headline": "יהלום אמיתי.<br>1,500 ש״ח.",
      "sub": "יהלום מעבדה · זהב 14K",
      "note": "יש לך שאלות על יהלומי מעבדה? תשאלי אותי.",
      "signature": "סתיו",
      "brand": "סתיו תכשיטי יוקרה",
      "box": [
-      64,
-      1248,
-      496,
-      1574
+      86,
+      250,
+      993,
+      749
      ],
-     "top": false,
+     "top": true,
      "ink": "#1f1812",
      "paper": "rgb(64,41,29)",
      "accent": "#1f1812",
      "scrim_on": true,
-     "scrim": "rgba(250,246,238,0.14)",
+     "scrim": "rgba(250,246,238,0.44)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
      "panel_side": "right",
      "plate": false
-    }
+    },
+    "direction": "contrast"
    },
    "to_verify": [],
    "image": "ads/ad_08.png",
@@ -2255,7 +2256,7 @@
      0.18,
      0.03,
      0.82,
-     0.62
+     0.7
     ]
    ]
   },

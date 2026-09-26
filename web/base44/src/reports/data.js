@@ -294,17 +294,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "contrast",
+     "direction": "stack",
      "box": [
-      64,
-      1248,
-      496,
-      1574
+      86,
+      250,
+      993,
+      749
      ],
-     "top": false,
+     "top": true,
      "ink": "#1f1812",
      "paper": "rgb(64,41,29)",
-     "scrim": "rgba(250,246,238,0.14)",
+     "scrim": "rgba(250,246,238,0.44)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",

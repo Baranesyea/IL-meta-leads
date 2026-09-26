@@ -14,6 +14,7 @@ const CSS = `
 .adc .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .adc .zone{position:absolute;display:flex;flex-direction:column}
 .adc .fit{white-space:nowrap}
+.adc .zone div,.adc .pnl div{text-wrap:balance}
 .adc .brand{position:absolute;left:0;right:0;text-align:center;font-family:Optimum;font-weight:400;font-size:34px;letter-spacing:2px}
 .adc .scrim{position:absolute;left:0;right:0;
   -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 100px,#000 calc(100% - 100px),transparent 100%);

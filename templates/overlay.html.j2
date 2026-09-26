@@ -16,6 +16,7 @@
   .zone{position:absolute;left:{{box[0]}}px;top:{{box[1]}}px;width:{{box[2]-box[0]}}px;height:{{box[3]-box[1]}}px;
         display:flex;flex-direction:column;justify-content:{{ 'flex-start' if top else 'flex-end' }}}
   .fit{white-space:nowrap}
+  .zone div,.pnl div{text-wrap:balance}   /* no lone word on the last line */
   {% if plate %}.zone{height:auto;width:auto;max-width:{{box[2]-box[0]}}px;left:auto;right:{{w-box[2]}}px;
     {% if top %}top:{{box[1]}}px{% else %}top:auto;bottom:{{h-box[3]}}px{% endif %};padding:30px 38px;
     background:{{ plate_bg or ('rgba(14,11,8,.66)' if ink=='#f4ecdf' else 'rgba(250,246,238,.84)') }};backdrop-filter:blur(12px)}
