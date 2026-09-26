@@ -46,6 +46,12 @@ const CSS = `
 .bp .fadein{animation:fu 1.6s cubic-bezier(.2,.7,.2,1) both}
 .bp .d1{animation-delay:.25s}.bp .d2{animation-delay:.55s}.bp .d3{animation-delay:.9s}.bp .d4{animation-delay:1.3s}
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
+/* larger screens: the whole portrait (face to pendant) on the left, melting into its own dark green;
+   the words on the right over that same dark — the product is never cropped out of the hero */
+@media (min-width:761px){.bp .hero{background:#010c0b}
+  .bp .hero .bg{inset:-4% auto -4% 0;width:min(64%, calc(108svh * .805));background-position:center 45%;
+    -webkit-mask-image:linear-gradient(to left,transparent 0,#000 26%);mask-image:linear-gradient(to left,transparent 0,#000 26%)}
+  .bp .hero .shade{background:linear-gradient(0deg,rgba(1,12,11,.55) 0%,rgba(1,12,11,0) 30%)}}
 /* phones: the words sit in the photo's own dark space on top, the photo below them untouched —
    the necklace and pendant (the product) are never under a shade or under type */
 @media (max-width:760px){.bp .hero{background:#010c0b}
