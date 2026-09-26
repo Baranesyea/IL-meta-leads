@@ -1,6 +1,6 @@
 {
  "lead_id": "2026-09-25-087",
- "status": "researched",
+ "status": "published",
  "reject_reason": null,
  "business": {
   "name_he": "ג'ולרי פקטורי",
@@ -2947,7 +2947,8 @@
   "filtered": "2026-09-25T13:13:49",
   "qualified": "2026-09-25T13:19:32",
   "collected": "2026-09-25T13:26:27",
-  "researched": "2026-09-26T07:56:20"
+  "researched": "2026-09-26T07:56:20",
+  "published": "2026-09-26"
  },
  "qualify": {
   "pages_checked": [
@@ -2966,5 +2967,6 @@
   "site_blocked": false,
   "owner_instagram_found": false,
   "missing": []
- }
+ },
+ "client_page": "https://il-meta.base44.app/p/jewelryfactory-8d2e61b4"
 }

@@ -196,3 +196,18 @@
 - (later) Eran: a "why work with me" section on every page, one before the end, with a nav link. Built as the
   shared `OFFER` in ClientPitch.jsx (not per-client data): intro on one side, 6 numbered things you get on the
   other, then "מחיר חודשי קבוע. הכל כלול." Grammar per client via `address` ("f" Stav, "pl" B-scents).
+
+## 2026-09-26 — two more clients: Asta-In (016) and JewelryFactory (087)
+- Picked from leads with a WhatsApp number, a physical product, ≥4 collected ads and store photos:
+  Asta-In (natural astaxanthin skincare, bright botanical-biotech look, light hero) and JewelryFactory
+  (personalised jewellery/gifts, warm masculine look). Kalahari Rose skipped: one ad only (no "today" row).
+  Pages: /p/astain-3f8c21d7, /p/jewelryfactory-8d2e61b4 (plural address, shared OFFER section).
+- Higgsfield: 320 → 186 credits (~134): 42 initial + ~22 regenerations + heroes/phone heroes.
+- Lesson: "upper third is one calm surface" makes nano_banana bake in flat bands / split panels. Ask for the
+  same scene continuing as soft out-of-focus background, "one continuous photograph — no borders, bands,
+  panels, split frames". For people, ask for a plain wall filling the side/top the text goes on.
+- Outpaint of a dark hero can come back as a pasted rectangle — check it; a native 9:16 generation worked better.
+- Template: `hero_theme: "light"` (dark ink/nav on bright photos), `band.theme: "light"`, and a short-phone
+  rule (max-height 700px) that tightens hero type so the button stays above the product.
+- Workflow helpers: data/fetch_generated.py, grid_sheet.py (10% grid for protect boxes), render_lead.py,
+  phone_sheet.py (390px review).
