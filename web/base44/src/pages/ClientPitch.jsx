@@ -67,7 +67,8 @@ const CSS = `
   .bp .hero .sig{display:none}
   .bp .hero .go{margin-top:24px;padding:14px 22px;font-size:16px}}
 @media (min-width:761px) and (max-aspect-ratio:7/5){.bp .hero .copy{padding:120px 8vw 0}
-  .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}.bp .hero .bg{min-height:56svh}}
+  .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}
+  .bp .hero .bg{min-height:52svh;background-size:contain;background-position:center bottom}}  /* whole photo, product included */
 
 /* call-to-action link used in the hero and after the review */
 .bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
