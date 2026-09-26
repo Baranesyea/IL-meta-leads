@@ -122,6 +122,14 @@ const CSS = `
   .hp .hero .lead{display:none}
   .hp .hero .ctas{gap:10px}
 }
+/* short phones (iPhone SE etc.): a slightly smaller photo so the buttons never sit on the face */
+@media (max-width:760px) and (max-height:720px){
+  .hp .hero .bg{background-size:84% auto;
+    -webkit-mask-image:linear-gradient(90deg,transparent 6%,#000 14%,#000 86%,transparent 94%),linear-gradient(180deg,transparent calc(100% - 104vw),#000 calc(100% - 104vw + 30px));
+    -webkit-mask-composite:source-in;
+    mask-image:linear-gradient(90deg,transparent 6%,#000 14%,#000 86%,transparent 94%),linear-gradient(180deg,transparent calc(100% - 104vw),#000 calc(100% - 104vw + 30px));
+    mask-composite:intersect}
+}
 /* portrait tablets: a smaller photo, centred at the bottom, sides fading into the page */
 @media (min-width:761px) and (max-aspect-ratio:1/1){
   .hp .hero .bg{background-size:auto 74%;
