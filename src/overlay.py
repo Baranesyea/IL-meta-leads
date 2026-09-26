@@ -388,6 +388,9 @@ def render_lead(lead: dict) -> list[str]:
         # least-used looks first (stable within the rotation) so the 20 ads spread across all directions
         count = {d: sum(1 for j in jobs if j["directions"] == [d]) for d in ORDER}
         prefs = [forced] if forced else sorted([d for d in rot if d not in taken], key=lambda d: count[d])
+        # handwriting is only for a real personal note or signature (DESIGN_RULES) — no note, no "note" look
+        if not ad.get("note"):
+            prefs = [d for d in prefs if d != "note"] or ["contrast"]
         people = ad.get("has_people", False)
         canvas = _canvas(str(raw), *SIZES[ad["format"]])
         # hand-drawn protect boxes are authoritative; the Haar backup only fills in when there are none
@@ -397,17 +400,18 @@ def render_lead(lead: dict) -> list[str]:
                                         allow_panel=n_panels < MAX_PANELS, protect=protect)
         if direction == "panel" and forced:                     # a hand-picked look wins, in its least-bad spot
             direction = forced
+        looks = [d for d in ORDER if d != "note" or ad.get("note")]
         if direction == "panel" and n_panels >= MAX_PANELS:   # nothing clear among the unused looks
-            direction, _ = choose_direction(canvas, ad["format"], ORDER, people, allow_panel=False,
+            direction, _ = choose_direction(canvas, ad["format"], looks, people, allow_panel=False,
                                             protect=protect)
         if direction == "panel" and n_panels >= MAX_PANELS:   # every zone touches the subject: least bad
-            direction, _ = choose_direction(canvas, ad["format"], ORDER, people, allow_panel=False,
+            direction, _ = choose_direction(canvas, ad["format"], looks, people, allow_panel=False,
                                             protect=protect, force=True)
         taken.append(direction)
         jobs.append(dict(img=str(raw), out=str(base / ad["image"]), headline=ad["overlay"],
                          sub=ad.get("overlay_sub"), note=ad.get("note"), signature=signature,
                          brand=brand, format=ad["format"], directions=[direction], people=people,
-                         protect=protect))
+                         protect=protect, has_note=bool(ad.get("note"))))
         ads.append(ad)
     outs = render(jobs)
     # re-try every ad whose rendered text came out too small or touching the product, with another look
@@ -418,7 +422,7 @@ def render_lead(lead: dict) -> list[str]:
         for j in bad:
             j.setdefault("tried", []).append(j["direction"])
             canvas = _canvas(j["img"], *SIZES[j["format"]])
-            left = [d for d in ORDER if d not in j["tried"]]
+            left = [d for d in ORDER if d not in j["tried"] and (d != "note" or j.get("has_note"))]
             if not left:
                 continue
             d, _ = choose_direction(canvas, j["format"], left, j["people"], allow_panel=False, protect=j["protect"])

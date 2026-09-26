@@ -226,6 +226,16 @@ function Type({ text, speed = 42, delay = 0, as: Tag = "span", className, style 
 }
 const typeMs = (t, speed = 42) => Array.from(t || "").length * speed;
 
+// A heading typed line by line: first line Black, the rest Light (the page's one heading voice)
+function Lines({ lines, speed = 42 }) {
+  let at = 0;
+  return (lines || []).map((t, i) => {
+    const el = <Type key={i} className={i ? "l" : "b"} text={t} speed={speed} delay={at} />;
+    at += typeMs(t, speed) + 200;
+    return el;
+  });
+}
+
 // Campaign strip: drifts on its own; a finger swipes it, a mouse drags it or uses the arrows. Any of those
 // pauses the drift, which picks up again a moment after release. It never pauses on mere hover (a hover
 // pause got stuck when the lightbox opened under a still cursor), and it stays still while an ad is open.
@@ -366,9 +376,10 @@ export default function ClientPitch({ slug: fixedSlug }) {
     return <div style={{ minHeight: "100vh", display: "grid", placeItems: "center", fontFamily: "Optimum", direction: "rtl" }}>העמוד לא נמצא.</div>;
   }
   const b = r.business;
-  const strip = r.ads.filter((a) => [1, 5, 11, 14, 17, 20, 7, 10].includes(a.no));
-  const h1a = r.hero_title?.[0] || "פרחים נובלים.";
-  const h1b = r.hero_title?.[1] || "זהב נשאר.";
+  // everything client-specific comes from the report data; this component is the shared template
+  const strip = (r.strip || r.ads.slice(0, 8).map((a) => a.no)).map(ad).filter(Boolean);
+  const [h1a, h1b] = r.hero_title;
+  const rv = r.review, sp = r.split, bd = r.band;
   const two = (a, b2, speed = 42) => (<><Type className="b" text={a} speed={speed} /><Type className="l" text={b2} speed={speed} delay={typeMs(a, speed) + 200} /></>);
 
   return (
@@ -379,9 +390,9 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <nav>
           <a href="#review">מה היינו משנים</a>
           <a href="#campaign">הקמפיין</a>
-          <a href="#angles">20 המודעות</a>
+          <a href="#angles">{r.ads.length} המודעות</a>
         </nav>
-        <div className="mark">{b.wordmark || b.owner_first}</div>
+        <div className="mark">{b.wordmark}</div>
         <div className="tag">הוכן עבור {b.name}</div>
       </header>
 
@@ -390,23 +401,23 @@ export default function ClientPitch({ slug: fixedSlug }) {
         <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)` }} />
         <div className="shade" />
         <div className="copy">
-          <div className="eyebrow fadein d1">{r.hero_eyebrow || "קולקציית הטבע · זהב 14K · אמרלד טבעי"}</div>
+          <div className="eyebrow fadein d1">{r.hero_eyebrow}</div>
           <h1>
             <Type className="b" text={h1a} delay={700} speed={70} />
             <Type className="l" text={h1b} delay={700 + typeMs(h1a, 70) + 250} speed={70} />
           </h1>
-          <div className="script sig fadein d4">{b.owner_first}</div>
-          <a className="go hero-go fadein d4" href="#review">מה היינו משנים בקמפיין שלך <span aria-hidden="true">↓</span></a>
+          {b.signature && <div className="script sig fadein d4">{b.signature}</div>}
+          <a className="go hero-go fadein d4" href="#review">{r.hero_cta || "מה היינו משנים בקמפיין שלך"} <span aria-hidden="true">↓</span></a>
         </div>
       </section>
 
       <section className="intro" id="review">
         <div className="wrap g">
           <div className="reveal">
-            <div className="eyebrow">עברנו על הקמפיין שלך</div>
-            <h2>{two("התכשיטים שלך ברמה של מגזין.", "המודעות עוד לא.")}</h2>
+            <div className="eyebrow">{rv.eyebrow}</div>
+            <h2>{two(rv.title[0], rv.title[1])}</h2>
           </div>
-          <p className="reveal">עברנו על המודעות הפעילות שלך בספריית המודעות של מטא, על האתר ועל הקולקציות. אפשר להוציא מהן הרבה יותר. אלה הדברים שהיינו משנים, ומיד אחריהם הקמפיין שבנינו בשבילך.</p>
+          <p className="reveal">{rv.text}</p>
         </div>
       </section>
       <section className="wrap ins">
@@ -418,7 +429,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
           </div>
         ))}
       </section>
-      <div className="ins-next reveal"><a className="go" href="#campaign">לקמפיין שבנינו בשבילך <span aria-hidden="true">↓</span></a></div>
+      <div className="ins-next reveal"><a className="go" href="#campaign">{rv.next || "לקמפיין שבנינו בשבילך"} <span aria-hidden="true">↓</span></a></div>
 
       {/* campaign strip */}
       <section className="marquee" id="campaign">
@@ -439,22 +450,22 @@ export default function ClientPitch({ slug: fixedSlug }) {
 
       {/* editorial split */}
       <section className="split" id="collection">
-        <div className="img" style={{ backgroundImage: `url(${ad(5)?.img})` }} />
+        <div className="img" style={{ backgroundImage: `url(${sp.img || ad(sp.ad)?.img})`, backgroundPosition: sp.pos }} />
         <div className="txt reveal">
-          <div className="eyebrow">יהלום מעבדה</div>
-          <h2><Type className="b" text="אותו יהלום." /><Type className="l" text="אותו ברק." delay={typeMs("אותו יהלום.") + 200} /><Type className="l" text="בלי המכרה." delay={typeMs("אותו יהלום.אותו ברק.") + 400} /></h2>
-          <p>סוליטר 1.50 קראט בחיתוך רדיאנט מוארך, בשיבוץ כוס חלק מזהב 14K. אותו פחמן, אותה קשיות, אותו ברק.</p>
-          <div className="price">5,300 ש״ח</div>
+          <div className="eyebrow">{sp.eyebrow}</div>
+          <h2><Lines lines={sp.title} /></h2>
+          <p>{sp.text}</p>
+          {sp.price && <div className="price">{sp.price}</div>}
         </div>
       </section>
 
       {/* quote band */}
       <section className="band">
-        <div className="bg" style={{ backgroundImage: `url(${ad(3)?.img})`, transform: `translateY(${(y - 2200) * 0.12}px)` }} />
+        <div className="bg" style={{ backgroundImage: `url(${bd.img || ad(bd.ad)?.img})`, transform: `translateY(${(y - 2200) * 0.12}px)` }} />
         <div className="shade" />
         <div className="q reveal">
-          <Type as="div" className="script" text="כל תכשיט מתחיל אצלי בסקיצה." speed={60} />
-          <div className="by">{b.name} · שינקין 48, תל אביב</div>
+          <Type as="div" className="script" text={bd.quote} speed={60} />
+          <div className="by">{bd.by}</div>
         </div>
       </section>
 
@@ -491,7 +502,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       <section className="cta">
         <div className="wrap reveal">
           <div className="eyebrow" style={{ color: "#d9c49a" }}>{r.cta?.eyebrow || "מאיתנו, בשבילך"}</div>
-          <h2>{two(r.cta?.title?.[0] || `${b.owner_first}, את כל זה הכנו בשבילך.`, r.cta?.title?.[1] || "בחינם, בלי התחייבות.")}</h2>
+          <h2>{two(r.cta?.title?.[0] || "את כל זה הכנו בשבילכם.", r.cta?.title?.[1] || "בחינם, בלי התחייבות.")}</h2>
           <p>{r.cta?.text || "רצינו להראות מה אפשר לעשות עם המותג, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד."}</p>
           {r.contact_url
             ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</a>
