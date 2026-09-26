@@ -39,9 +39,9 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - Structure: fixed bar (wordmark, nav: מה היינו משנים / הקמפיין / 20 המודעות) → HERO (full screen, the
   product visible — on phones the words sit in the photo's dark space and the product is never under text or
   shade; on desktop the whole photo, words on the other side) with a CTA button "מה היינו משנים בקמפיין שלך"
-  → the review right after the hero ("עברנו על הקמפיין שלך", 4 insights) → before/after: one row of 4 ads
-  they run today (from the Ad Library, videos as thumbnails) above one row of 4 of ours for the same products
-  ("היום" / "איתנו") → button to the campaign → campaign
+  → the review right after the hero: "your campaign works, it can bring much more" + a short paragraph, then
+  pairs — their ad running today ("רץ היום") beside the same product our way ("ככה היינו עושים את זה") — then
+  "מה היינו משנים" + the 4 insights → button to the campaign → campaign
   strip → editorial split (photo above text on phones) → quote band (text in the photo's dark area, product
   clear) → 5 angle sections → closing: "<name>, את כל זה הכנו בשבילך. בחינם, בלי התחייבות." + what working
   together adds + WhatsApp button (Eran: https://wa.me/972545471522).
@@ -50,6 +50,9 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - Campaign strip: swipe on touch, drag + arrows with a mouse, auto-drift that pauses only while interacting
   or while an ad is open — never on hover (it got stuck).
 - Lightbox: close button always on top (fixed), opaque backdrop, scroll lock, closes on backdrop / Esc.
+- **No text or button over a face or the product, at any screen size.** Hero on phones, portrait tablets and
+  screens up to 7:5: the words and button first, the photo in its own box below them (whole photo on tablets).
+  Check 360×640, 375×667, 390×844, 768×1024, 1024×768, 1280×700, 1440×900, 1920×1080.
 - Headlines type in on scroll (layout-stable). Hero headline sized by width **and** height so it never
   climbs into the bar on short laptop screens.
 - Address the owner in the right grammatical gender (Stav: feminine).

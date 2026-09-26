@@ -184,3 +184,8 @@
 - New page section `compare` (after the insights): "היום" = 4 of their running ads (Ad Library media, videos as
   thumbnails with a play mark) above "איתנו" = 4 of ours for the same products, in matching order.
   B-scents: `data/bscents_site.py`; Stav: `data/stav_compare.py`.
+
+- (later) Eran on Stav: the hero button sat on the model's face on a short phone (375×667: the photo was pinned
+  at 36% from the top, the words overflowed onto it). Hero is now a flex column below 7:5 — words, then the photo
+  in its own box. The before/after rows became review pairs right under "הקמפיין שלך עובד" (their ad | ours),
+  followed by "מה היינו משנים" + the insights.
