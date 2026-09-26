@@ -497,7 +497,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </header>
 
       {/* HERO — the brand's own campaign, full screen */}
-      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""} ${r.hero_theme === "light" ? "light" : ""}`}>
+      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""} ${r.hero_theme === "light" ? "light" : ""}`} style={r.hero_bg_color ? { background: r.hero_bg_color } : undefined}>
         <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, "--hero-m": `url(${r.hero_bg_m || r.hero_bg})`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
         <div className="shade" />
         <div className="copy">

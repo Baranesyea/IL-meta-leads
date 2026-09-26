@@ -3861,6 +3861,7 @@ export const REPORTS = {
    "site": "https://itsmydeal.co.il/"
   },
   "address": "pl",
+  "hero_bg_color": "#1f0d09",
   "hero_eyebrow": "מותגי טיפוח שיער מקצועיים · משלוח עד הבית",
   "hero_title": [
    "המספרה.",

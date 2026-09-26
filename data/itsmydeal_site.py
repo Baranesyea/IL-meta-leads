@@ -11,6 +11,7 @@ ERAN_WA = "https://wa.me/972545471522"
 COPY = {
     "business": {"name": "מיי דיל", "wordmark": "מיי דיל", "site": "https://itsmydeal.co.il/"},
     "address": "pl",
+    "hero_bg_color": "#1f0d09",   # the coral photo melts into a warm dark brown on desktop
     "hero_eyebrow": "מותגי טיפוח שיער מקצועיים · משלוח עד הבית",
     "hero_title": ["המספרה.", "אצלך במקלחת."],
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
