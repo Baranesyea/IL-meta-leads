@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972545080185",
       "source": "https://www.moon-woman-center.com/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {

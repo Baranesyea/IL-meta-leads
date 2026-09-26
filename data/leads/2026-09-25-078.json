@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972547977990",
       "source": "https://danon-jewellery.co.il/pages/contact-danon",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "branches / warehouse",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

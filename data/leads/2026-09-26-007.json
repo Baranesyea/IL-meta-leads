@@ -30,7 +30,15 @@
     "whatsapp": {
       "number_e164": "+972587377533",
       "source": "https://tyroler.co.il/contact-us/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "labelled 'מוקד' next to the number",
+        "labelled 'נציג' next to the number",
+        "office hours next to the number",
+        "1 landline(s)",
+        "support/sales mailbox"
+      ]
     }
   },
   "meta": {

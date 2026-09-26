@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972526851588",
       "source": "https://www.kolbopet.co.il/contact/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)",
+        "branches / warehouse"
+      ]
     }
   },
   "meta": {

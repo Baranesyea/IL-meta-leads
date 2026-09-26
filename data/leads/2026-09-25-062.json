@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972585807077",
       "source": "https://aromatics.co.il/contact",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)"
+      ]
     }
   },
   "meta": {

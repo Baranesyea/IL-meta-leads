@@ -30,7 +30,13 @@
     "whatsapp": {
       "number_e164": "+972543441280",
       "source": "https://megapet.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa%d7%99%d7%a0%d7%95/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "star number (6897*)",
+        "1 landline(s)",
+        "branches / warehouse"
+      ]
     }
   },
   "meta": {

@@ -30,7 +30,14 @@
     "whatsapp": {
       "number_e164": "+972584052861",
       "source": "https://eli-paz.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "2 landline(s)",
+        "support/sales mailbox",
+        "branches / warehouse",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {

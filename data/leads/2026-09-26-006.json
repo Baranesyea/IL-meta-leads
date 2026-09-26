@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972506020444",
       "source": "https://www.crazypet.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "office hours next to the number",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

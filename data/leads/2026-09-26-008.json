@@ -30,7 +30,13 @@
     "whatsapp": {
       "number_e164": "+972508810728",
       "source": "https://www.chill-shop.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "star number (*3169)",
+        "support/sales mailbox",
+        "branches / warehouse"
+      ]
     }
   },
   "meta": {

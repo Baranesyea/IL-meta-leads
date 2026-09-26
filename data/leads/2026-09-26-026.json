@@ -30,7 +30,16 @@
     "whatsapp": {
       "number_e164": "+972584544284",
       "source": "https://www.drfood.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "labelled 'שירות לקוחות' next to the number",
+        "office hours next to the number",
+        "1-800 line",
+        "branches / warehouse",
+        "gmail / hello@ inbox",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972533524755",
       "source": "https://www.keflahayot.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "3 landline(s)",
+        "branches / warehouse"
+      ]
     }
   },
   "meta": {

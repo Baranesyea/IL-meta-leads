@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972549368071",
       "source": "https://moonjewelry.co.il/",
-      "confidence": "medium"
+      "confidence": "medium",
+      "kind": "service",
+      "kind_signals": [
+        "labelled 'שירות לקוחות' next to the number",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972528944554",
       "source": "https://www.redstar.co.il/pages/contact",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "2 landline(s)"
+      ]
     }
   },
   "meta": {

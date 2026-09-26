@@ -30,7 +30,14 @@
     "whatsapp": {
       "number_e164": "+972559844476",
       "source": "https://www.petsale.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "office hours next to the number",
+        "branches / warehouse",
+        "gmail / hello@ inbox",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

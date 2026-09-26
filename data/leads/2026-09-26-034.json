@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972555632736",
       "source": "https://www.pets-online.pet/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "star number (*8229)",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {

@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972546607075",
       "source": "https://www.billy-online.com/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

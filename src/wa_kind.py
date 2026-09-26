@@ -20,7 +20,8 @@ from bs4 import BeautifulSoup
 
 from . import db, web
 
-SERVICE_NEAR = ("שירות לקוחות", "מוקד", "נציג", "צוות שירות", "support")
+SERVICE_NEAR = ("שירות לקוחות", "שרות לקוחות", "מוקד", "נציג", "צוות", "support")
+HOURS_NEAR = ("שעות פעילות", "שעות הפעילות", "א'-ה'", "א׳-ה׳", "ימים א")
 # facts found by hand (web search, about pages) — they override the heuristic
 OVERRIDE = {
     "2026-09-25-015": ("service", "beauty salon (manicure, laser, tanning): a service business, not a product store"),
@@ -52,6 +53,8 @@ def classify(lead: dict) -> tuple[str, list[str]]:
         for w in SERVICE_NEAR:
             if w in ctx:
                 svc.append(f"labelled '{w}' next to the number")
+        if any(h in text[max(0, m.start() - 120):m.end() + 120] for h in HOURS_NEAR):
+            svc.append("office hours next to the number")
     if re.search(r"\*\d{4}\b|\b\d{4}\*", text):
         svc.append("star number (" + re.search(r"\*\d{4}\b|\b\d{4}\*", text).group(0) + ")")
     if re.search(r"1-?800-?\d", text):

@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972559397380",
       "source": "https://www.sofacovers.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "support/sales mailbox",
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {

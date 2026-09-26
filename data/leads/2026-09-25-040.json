@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972502682582",
       "source": "https://www.apexmotors.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)"
+      ]
     }
   },
   "meta": {

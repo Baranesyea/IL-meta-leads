@@ -30,7 +30,12 @@
     "whatsapp": {
       "number_e164": "+972502207726",
       "source": "https://www.beauty-academy.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {

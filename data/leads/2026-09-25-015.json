@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972558875837",
       "source": "https://www.annabeauty.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "beauty salon (manicure, laser, tanning): a service business, not a product store"
+      ]
     }
   },
   "meta": {

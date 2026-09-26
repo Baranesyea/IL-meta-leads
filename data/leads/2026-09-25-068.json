@@ -30,7 +30,11 @@
     "whatsapp": {
       "number_e164": "+972507858842",
       "source": "https://www.theshine.co.il/",
-      "confidence": "high"
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {
