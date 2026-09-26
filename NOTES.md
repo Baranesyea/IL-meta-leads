@@ -149,3 +149,13 @@
   phone split section = photo melting into dark ground under the text.
 - Base44 quirk: create_checkpoint can snapshot a stale commit right after a sandbox commit — re-run until
   git_commit_hash matches `git log -1` before deploying.
+
+## 2026-09-26 — legibility verified on the rendered ad
+- Eran (screenshots): text too small / too close to the jewel on phones. Rule now: never trust the layout
+  math alone. After rendering, MEASURE_JS reads the main line's px and the letters' real box; an ad fails if
+  main < 78px (script < 92) on the 1080 canvas or the letters touch a padded protect box → retried with another look.
+- Review at phone size (390px wide), never on a small contact sheet. Hand-drawn `protect` boxes are
+  authoritative and must be tight (face and hand as separate boxes); Haar only when none exist.
+- Headlines use text-wrap:balance (no lone last word).
+- Page (phones): hero words in the photo's dark top so the pendant is clear; lab-diamond photo above its
+  text; quote band text in the photo's dark top, ring below.
