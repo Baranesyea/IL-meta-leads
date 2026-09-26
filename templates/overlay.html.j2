@@ -25,10 +25,10 @@
          color:{{ brand_color }}}
   /* scrim: a band feathered on all sides around the text only (half-width text fades sideways too),
      at the strength legibility() measured — never a box, never a strip */
-  .scrim{position:absolute;top:{{ box[1]-170 }}px;height:{{ box[3]-box[1]+340 }}px;left:0;right:0;
+  .scrim{position:absolute;top:{{ box[1]-100 }}px;height:{{ box[3]-box[1]+200 }}px;left:0;right:0;
     background:{% if (box[2]-box[0]) < w*0.6 %}linear-gradient(to {{ 'left' if box[2] > w*0.6 else 'right' }}, {{ scrim }} 0, {{ scrim }} 50%, transparent 85%){% else %}{{ scrim }}{% endif %};
-    -webkit-mask-image:linear-gradient(to bottom, transparent 0, #000 170px, #000 calc(100% - 170px), transparent 100%);
-            mask-image:linear-gradient(to bottom, transparent 0, #000 170px, #000 calc(100% - 170px), transparent 100%)}
+    -webkit-mask-image:linear-gradient(to bottom, transparent 0, #000 100px, #000 calc(100% - 100px), transparent 100%);
+            mask-image:linear-gradient(to bottom, transparent 0, #000 100px, #000 calc(100% - 100px), transparent 100%)}
   .brand{text-shadow:0 1px 12px rgba(0,0,0,{{ '.5' if brand_color=='#f4ecdf' else '0' }})}
 
   /* 1 contrast — Black keyword line vs. Light line, aligned to the text start */
@@ -39,7 +39,7 @@
 
   /* 2 quiet — perfume-ad restraint: small Light text, wide air, handwritten signature */
   .quiet .zone{text-align:center;align-items:center}
-  .quiet .hl{font-family:'OptR';font-size:84px;line-height:1.2}
+  .quiet .hl{font-family:'OptR';font-size:92px;line-height:1.18}
   .quiet .sig{font-family:'Script';font-size:120px;margin-top:6px;line-height:1}
   .quiet .sub{font-family:'OptR';font-size:38px;letter-spacing:1px;margin-top:14px}
 
@@ -54,7 +54,7 @@
   .note .hand{font-family:'Script';font-size:124px;line-height:1.05}
   .note .rule{width:90px;height:1.5px;background:var(--ink);opacity:.6;margin:22px 0 16px auto}
   .note .sub{font-family:'OptR';font-size:38px;letter-spacing:1px}
-  .note .hl{font-family:'OptB';font-size:62px;margin-top:6px}
+  .note .hl{font-family:'OptB';font-size:76px;line-height:1.12;margin-top:6px}
 
   /* 5 cover — thin frame, magazine masthead feel */
   .cover .frame{position:absolute;inset:34px;border:1.5px solid var(--ink);opacity:.55}

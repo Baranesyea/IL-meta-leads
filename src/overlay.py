@@ -23,7 +23,9 @@ from jinja2 import Environment, FileSystemLoader
 from PIL import Image, ImageFilter, ImageOps, ImageStat
 from playwright.sync_api import sync_playwright
 
-from .common import ROOT, load_config
+from .common import ROOT, get_logger, load_config
+
+log = get_logger()
 
 SIZES = {"1:1": (1080, 1080), "4:5": (1080, 1350), "9:16": (1080, 1920)}
 env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=True)
@@ -36,8 +38,8 @@ ZONES = {  # (x, y, w, h) as canvas fractions. RTL: text starts on the right.
     "top_left":     (0.06, 0.06, 0.54, 0.30),
     "bottom_right": (0.40, 0.64, 0.54, 0.28),
     "bottom_left":  (0.06, 0.64, 0.54, 0.28),
-    "mid_right":    (0.50, 0.00, 0.44, 0.28),   # beside the subject, at any height
-    "mid_left":     (0.06, 0.00, 0.44, 0.28),
+    "mid_right":    (0.54, 0.00, 0.40, 0.28),   # beside the subject, at any height
+    "mid_left":     (0.06, 0.00, 0.40, 0.28),
 }
 SAFE_916 = (250 / 1920, 340 / 1920)  # Stories/Reels UI
 
@@ -45,7 +47,7 @@ DIRECTIONS = {
     "contrast": dict(zones=["top_right", "top_left", "bottom_right", "bottom_left", "mid_right", "mid_left"], big=True),
     "quiet":    dict(zones=["bottom", "top"], big=False),
     "stack":    dict(zones=["top", "bottom"], big=True),
-    "note":     dict(zones=["top", "bottom", "top_right", "top_left", "mid_right", "mid_left"], big=False),
+    "note":     dict(zones=["top", "bottom"], big=False),
     "cover":    dict(zones=["top", "bottom"], big=True),
     "panel":    dict(zones=[], big=False),
     "label":    dict(zones=["top_right", "top_left", "bottom_right", "bottom_left", "mid_right", "mid_left"], big=False),
@@ -111,16 +113,21 @@ def detect_faces(canvas: Image.Image) -> list[tuple[float, float, float, float]]
             for x, y, fw, fh in c.detectMultiScale(img, 1.1, 6, minSize=(w // 8, w // 8)):
                 if flip:
                     x = w - x - fw
-                boxes.append(((x - .3 * fw) / w, (y - .3 * fh) / h, (x + 1.3 * fw) / w, (y + 1.6 * fh) / h))
+                boxes.append((max(0, (x - .15 * fw) / w), max(0, (y - .2 * fh) / h),
+                              min(1, (x + 1.15 * fw) / w), min(1, (y + 1.4 * fh) / h)))
             if name.startswith("haarcascade_frontal"):
                 break
     return boxes
 
 
-def _overlap(box, region, w, h) -> float:
-    """Share of the zone box covered by a fractional region."""
+PROTECT_PAD = 0.02    # breathing room around product / faces: text never sits tight against the jewel
+
+
+def _overlap(box, region, w, h, pad: float = PROTECT_PAD) -> float:
+    """Share of the zone box covered by a fractional region (grown by `pad` on every side)."""
     x0, y0, x1, y1 = box
-    rx0, ry0, rx1, ry1 = region[0] * w, region[1] * h, region[2] * w, region[3] * h
+    rx0, ry0, rx1, ry1 = ((region[0] - pad) * w, (region[1] - pad) * h,
+                          (region[2] + pad) * w, (region[3] + pad) * h)
     ix = max(0, min(x1, rx1) - max(x0, rx0))
     iy = max(0, min(y1, ry1) - max(y0, ry0))
     return ix * iy / max(1, (x1 - x0) * (y1 - y0))
@@ -201,30 +208,33 @@ def _contrast(l1: float, l2: float) -> float:
 
 
 def legibility(canvas: Image.Image, box, big: bool = False) -> dict:
-    """Measure the real pixels under the text box and pick ink + the least cover that keeps
-    every pixel behind the text at >= MIN_CONTRAST: a full-width gradient scrim of the needed strength.
-    Worst case = 95th/5th luminance percentile of the box (so a bright highlight can't hide a word)."""
+    """Measure the real pixels under the text box and pick the ink + the least cover that keeps the
+    text at >= MIN_CONTRAST: a band-shaped scrim of the needed strength. Worst case = 90th/10th
+    luminance percentile of the box (a few stray pixels don't force a heavy wash). Both inks are
+    tried and the one needing less cover wins — the photo stays as untouched as possible."""
     g = canvas.convert("L").crop(tuple(int(v) for v in box)).resize((96, 96))
     px = sorted(g.getdata())
-    lo, hi = px[int(len(px) * 0.05)], px[int(len(px) * 0.95)]
+    lo, hi = px[int(len(px) * 0.10)], px[int(len(px) * 0.90)]
     mean = sum(px) / len(px)
     busy = ImageStat.Stat(g).stddev[0] > 38 or ImageStat.Stat(g.filter(ImageFilter.FIND_EDGES).crop((2, 2, 94, 94))).mean[0] > 14
-    dark_bg = mean < 128
-    ink = LIGHT_INK if dark_bg else DARK_INK
-    l_ink = 0.2126 * _lin(0xf4) + 0.7152 * _lin(0xec) + 0.0722 * _lin(0xdf) if dark_bg else \
-        0.2126 * _lin(0x1f) + 0.7152 * _lin(0x18) + 0.0722 * _lin(0x12)
-    worst = hi if dark_bg else lo            # the brightest pixel under light ink, darkest under dark ink
-    cover = (0, 0, 0) if dark_bg else (250, 246, 238)
-    need = None
-    for a in [x / 100 for x in range(0, 96, 2)]:
-        v = worst * (1 - a) + cover[1] * a       # sRGB-space compositing, like the browser
-        if _contrast(l_ink, _lin(v)) >= MIN_CONTRAST[big]:
-            need = a
-            break
-    need = 0.9 if need is None else need
-    rgb = "0,0,0" if dark_bg else "250,246,238"
-    alpha = round(min(max(need + 0.08, 0.18) + (0.1 if busy else 0), MAX_SCRIM), 2)
-    return dict(ink=ink, plate=False, plate_bg=None, scrim=f"rgba({rgb},{alpha})", luma=mean)
+
+    def need(l_ink: float, worst: int, cover: int) -> float:
+        for a in [x / 100 for x in range(0, 96, 2)]:
+            v = worst * (1 - a) + cover * a       # sRGB-space compositing, like the browser
+            if _contrast(l_ink, _lin(v)) >= MIN_CONTRAST[big]:
+                return a
+        return 0.95
+
+    l_light = 0.2126 * _lin(0xf4) + 0.7152 * _lin(0xec) + 0.0722 * _lin(0xdf)
+    l_dark = 0.2126 * _lin(0x1f) + 0.7152 * _lin(0x18) + 0.0722 * _lin(0x12)
+    n_light = need(l_light, hi, 0)       # light ink: brightest pixels, darkened toward black
+    n_dark = need(l_dark, lo, 246)       # dark ink: darkest pixels, lifted toward ivory
+    light = n_light < n_dark or (n_light == n_dark and mean < 128)
+    n = n_light if light else n_dark
+    rgb = "0,0,0" if light else "250,246,238"
+    alpha = round(min(max(n + 0.06, 0.14) + (0.08 if busy else 0), MAX_SCRIM), 2)
+    return dict(ink=LIGHT_INK if light else DARK_INK, plate=False, plate_bg=None,
+                scrim=f"rgba({rgb},{alpha})", luma=mean)
 
 
 def brand_line(canvas: Image.Image, top: bool) -> str | None:
@@ -275,6 +285,35 @@ def choose_direction(canvas: Image.Image, fmt: str, preferred: list[str], people
     return best[1], best[2]
 
 
+# main line of each look (what must read on a phone) + the box the text really occupies
+MEASURE_JS = """() => {
+  const main = {contrast: '.l1', stack: '.l', quiet: '.hl', cover: '.hl', label: '.hl', panel: '.hl', note: '.hand'};
+  const d = document.querySelector('.ad').classList[1];
+  const els = [...document.querySelectorAll(main[d] || '.hl')].filter(e => e.offsetParent && e.textContent.trim());
+  const px = els.length ? Math.max(...els.map(e => parseFloat(getComputedStyle(e).fontSize))) : 0;
+  let x0 = 1e9, y0 = 1e9, x1 = -1, y1 = -1;
+  document.querySelectorAll('.zone *, .pnl *').forEach(e => {
+    if (!e.offsetParent || !e.textContent.trim() || e.children.length) return;
+    const rg = document.createRange(); rg.selectNodeContents(e);   // the letters, not the block
+    const r = rg.getBoundingClientRect(); if (!r.width) return;
+    x0 = Math.min(x0, r.left); y0 = Math.min(y0, r.top); x1 = Math.max(x1, r.right); y1 = Math.max(y1, r.bottom);
+  });
+  return {main_px: px, text_box: x1 < 0 ? null : [x0, y0, x1, y1]};
+}"""
+MIN_MAIN_PX = {"note": 92}   # script needs more size to read
+MIN_MAIN_PX_DEFAULT = 78     # on a 1080 canvas ≈ 28px on a phone-width feed
+
+
+def _legible(j: dict) -> bool:
+    """Rendered main line big enough, and the text itself clear of every protected region."""
+    m = j.get("measured") or {}
+    if m.get("main_px", 0) < MIN_MAIN_PX.get(j.get("direction"), MIN_MAIN_PX_DEFAULT):
+        return False
+    w, h = SIZES[j.get("format", "4:5")]
+    tb = m.get("text_box")
+    return not (tb and any(_overlap(tb, r, w, h) > 0.02 for r in (j.get("protect") or [])))
+
+
 def render(jobs: list[dict]) -> list[str]:
     """jobs: {img, out, headline, sub, note, signature, brand, format, directions:[...]}"""
     fonts = _fonts()
@@ -320,6 +359,7 @@ def render(jobs: list[dict]) -> list[str]:
             pg.goto(tmp.resolve().as_uri())
             pg.wait_for_selector("body[data-ready='1']", timeout=15000)
             pg.wait_for_timeout(200)
+            j["measured"] = pg.evaluate(MEASURE_JS)
             pg.screenshot(path=j["out"], clip={"x": 0, "y": 0, "width": w, "height": h})
             pg.close()
             tmp.unlink()
@@ -350,7 +390,8 @@ def render_lead(lead: dict) -> list[str]:
         prefs = [forced] if forced else sorted([d for d in rot if d not in taken], key=lambda d: count[d])
         people = ad.get("has_people", False)
         canvas = _canvas(str(raw), *SIZES[ad["format"]])
-        protect = list(ad.get("protect") or []) + (detect_faces(canvas) if people else [])
+        # hand-drawn protect boxes are authoritative; the Haar backup only fills in when there are none
+        protect = list(ad.get("protect") or []) or (detect_faces(canvas) if people else [])
         n_panels = sum(1 for j in jobs if j["directions"] == ["panel"])
         direction, _ = choose_direction(canvas, ad["format"], prefs, people,
                                         allow_panel=n_panels < MAX_PANELS, protect=protect)
@@ -369,6 +410,26 @@ def render_lead(lead: dict) -> list[str]:
                          protect=protect))
         ads.append(ad)
     outs = render(jobs)
+    # re-try every ad whose rendered text came out too small or touching the product, with another look
+    for _ in range(4):
+        bad = [j for j in jobs if not _legible(j)]
+        if not bad:
+            break
+        for j in bad:
+            j.setdefault("tried", []).append(j["direction"])
+            canvas = _canvas(j["img"], *SIZES[j["format"]])
+            left = [d for d in ORDER if d not in j["tried"]]
+            if not left:
+                continue
+            d, _ = choose_direction(canvas, j["format"], left, j["people"], allow_panel=False, protect=j["protect"])
+            if d == "panel":
+                d, _ = choose_direction(canvas, j["format"], left, j["people"], allow_panel=False,
+                                        protect=j["protect"], force=True)
+            j["directions"] = [d]
+        render([j for j in bad if j["directions"][0] not in j.get("tried", [])])
+    for j in jobs:
+        if not _legible(j):
+            log.warning("ad %s: no look fits cleanly (%s)", Path(j["out"]).name, j.get("measured"))
     for ad, j in zip(ads, jobs):
         ad.setdefault("layout", {}).update(rendered_direction=j["direction"], rendered_zone=j["zone"],
                                            render=j.get("params"))

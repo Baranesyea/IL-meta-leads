@@ -74,13 +74,13 @@ export const REPORTS = {
      "box": [
       64,
       67,
-      540,
+      496,
       364
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(1,1,1)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -102,17 +102,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1080,
-     "direction": "quiet",
+     "direction": "stack",
      "box": [
       86,
       54,
       993,
-      205
+      334
      ],
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(237,234,231)",
-     "scrim": "rgba(250,246,238,0.18)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -144,7 +144,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(6,4,4)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -168,15 +168,15 @@ export const REPORTS = {
      "h": 1350,
      "direction": "note",
      "box": [
-      64,
+      86,
       67,
-      540,
-      445
+      993,
+      418
      ],
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(242,238,232)",
-     "scrim": "rgba(250,246,238,0.18)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": "#231a12",
      "obj_pos": "center",
@@ -208,7 +208,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(213,196,181)",
-     "scrim": "rgba(250,246,238,0.28)",
+     "scrim": "rgba(250,246,238,0.22)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -230,17 +230,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "label",
+     "direction": "contrast",
      "box": [
-      432,
-      499,
+      583,
+      526,
       1015,
-      877
+      904
      ],
      "top": false,
      "ink": "#f4ecdf",
      "paper": "rgb(0,6,7)",
-     "scrim": "rgba(0,0,0,0.78)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -272,7 +272,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(0,0,0)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -294,17 +294,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "note",
+     "direction": "contrast",
      "box": [
       64,
       1248,
-      540,
+      496,
       1574
      ],
      "top": false,
      "ink": "#1f1812",
      "paper": "rgb(64,41,29)",
-     "scrim": "rgba(250,246,238,0.26)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -326,11 +326,11 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "label",
+     "direction": "note",
      "box": [
-      540,
+      86,
       67,
-      1015,
+      993,
       364
      ],
      "top": true,
@@ -358,17 +358,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "note",
+     "direction": "quiet",
      "box": [
-      540,
+      86,
       94,
-      1015,
-      472
+      993,
+      445
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(16,11,6)",
-     "scrim": "rgba(0,0,0,0.76)",
+     "scrim": "rgba(0,0,0,0.66)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -400,7 +400,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(50,42,36)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -424,15 +424,15 @@ export const REPORTS = {
      "h": 1920,
      "direction": "contrast",
      "box": [
-      540,
+      432,
       250,
       1015,
-      787
+      518
      ],
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(232,215,201)",
-     "scrim": "rgba(250,246,238,0.46)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -454,17 +454,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "stack",
+     "direction": "contrast",
      "box": [
-      86,
+      64,
       67,
-      993,
-      297
+      496,
+      256
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(1,4,4)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": "#f4ecdf",
      "obj_pos": "center",
@@ -486,17 +486,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "note",
+     "direction": "quiet",
      "box": [
-      64,
+      86,
       67,
-      540,
-      445
+      993,
+      418
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(1,8,7)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -518,17 +518,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1080,
-     "direction": "note",
+     "direction": "quiet",
      "box": [
-      540,
+      86,
       54,
-      1015,
-      356
+      993,
+      334
      ],
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(15,20,7)",
-     "scrim": "rgba(250,246,238,0.38)",
+     "scrim": "rgba(250,246,238,0.56)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -550,17 +550,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       250,
       993,
-      576
+      518
      ],
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(242,235,233)",
-     "scrim": "rgba(250,246,238,0.18)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -582,17 +582,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "label",
+     "direction": "cover",
      "box": [
-      432,
+      86,
       67,
-      1015,
+      993,
       364
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(11,12,15)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": "#f4ecdf",
      "obj_pos": "center",
@@ -624,7 +624,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(235,233,231)",
-     "scrim": "rgba(250,246,238,0.76)",
+     "scrim": "rgba(250,246,238,0.7)",
      "plate_bg": null,
      "brand_color": "#231a12",
      "obj_pos": "center",
@@ -646,17 +646,17 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1080,
-     "direction": "contrast",
+     "direction": "stack",
      "box": [
-      64,
+      86,
       54,
-      540,
+      993,
       291
      ],
      "top": true,
      "ink": "#f4ecdf",
      "paper": "rgb(2,35,28)",
-     "scrim": "rgba(0,0,0,0.18)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",
@@ -678,7 +678,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "stack",
+     "direction": "note",
      "box": [
       86,
       250,
@@ -688,7 +688,7 @@ export const REPORTS = {
      "top": true,
      "ink": "#1f1812",
      "paper": "rgb(244,228,220)",
-     "scrim": "rgba(250,246,238,0.18)",
+     "scrim": "rgba(250,246,238,0.14)",
      "plate_bg": null,
      "brand_color": null,
      "obj_pos": "center",

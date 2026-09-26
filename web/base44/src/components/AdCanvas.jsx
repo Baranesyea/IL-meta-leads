@@ -16,15 +16,15 @@ const CSS = `
 .adc .fit{white-space:nowrap}
 .adc .brand{position:absolute;left:0;right:0;text-align:center;font-family:Optimum;font-weight:400;font-size:34px;letter-spacing:2px}
 .adc .scrim{position:absolute;left:0;right:0;
-  -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 170px,#000 calc(100% - 170px),transparent 100%);
-          mask-image:linear-gradient(to bottom,transparent 0,#000 170px,#000 calc(100% - 170px),transparent 100%)}
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 100px,#000 calc(100% - 100px),transparent 100%);
+          mask-image:linear-gradient(to bottom,transparent 0,#000 100px,#000 calc(100% - 100px),transparent 100%)}
 .adc .sig,.adc .hand{-webkit-text-stroke:1.4px currentColor}
 .adc.contrast .l1{font-family:Optimum;font-weight:900;font-size:112px;line-height:.95;letter-spacing:-1px}
 .adc.contrast .l2{font-family:Optimum;font-weight:300;font-size:72px;line-height:1.1;margin-top:10px}
 .adc.contrast .sub{font-family:Optimum;font-weight:400;font-size:38px;letter-spacing:1px;margin-top:26px}
 .adc.contrast .zone{text-align:right}
 .adc.quiet .zone{text-align:center;align-items:center}
-.adc.quiet .hl{font-family:Optimum;font-weight:400;font-size:84px;line-height:1.2}
+.adc.quiet .hl{font-family:Optimum;font-weight:400;font-size:92px;line-height:1.18}
 .adc.quiet .sig{font-family:Idealist;font-size:120px;margin-top:6px;line-height:1}
 .adc.quiet .sub{font-family:Optimum;font-weight:400;font-size:38px;letter-spacing:1px;margin-top:14px}
 .adc.stack .zone{text-align:right}
@@ -35,7 +35,7 @@ const CSS = `
 .adc.note .hand{font-family:Idealist;font-size:124px;line-height:1.05}
 .adc.note .rule{width:90px;height:1.5px;opacity:.6;margin:22px 0 16px auto}
 .adc.note .sub{font-family:Optimum;font-weight:400;font-size:38px;letter-spacing:1px}
-.adc.note .hl{font-family:Optimum;font-weight:900;font-size:62px;margin-top:6px}
+.adc.note .hl{font-family:Optimum;font-weight:900;font-size:76px;line-height:1.12;margin-top:6px}
 .adc.cover .frame{position:absolute;inset:34px;border:1.5px solid;opacity:.55}
 .adc.cover .mast{position:absolute;left:0;right:0;text-align:center;font-family:Optimum;font-weight:900;font-size:30px;letter-spacing:6px}
 .adc.cover .zone{text-align:center;align-items:center}
@@ -124,7 +124,7 @@ export default function AdCanvas({ spec, img, brand, eager = false }) {
   // at the strength the pipeline measured — never a box, never a strip (same as overlay.html.j2)
   const half = box[2] - box[0] < w * 0.6;
   const scrimStyle = {
-    top: box[1] - 170, height: box[3] - box[1] + 340,
+    top: box[1] - 100, height: box[3] - box[1] + 200,
     background: half
       ? `linear-gradient(to ${box[2] > w * 0.6 ? "left" : "right"}, ${scrim} 0, ${scrim} 50%, transparent 85%)`
       : scrim,

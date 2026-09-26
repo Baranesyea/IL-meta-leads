@@ -76,18 +76,19 @@ const CSS = `
 .bp .split h2 .l{display:block;font-weight:300;font-size:clamp(40px,5.2vw,84px)}
 .bp .split p{font-weight:300;font-size:20px;line-height:1.75;color:var(--muted);max-width:40ch;margin:30px 0 0}
 .bp .split .price{margin-top:34px;font-weight:900;font-size:20px;letter-spacing:.04em}
-@media (max-width:900px){.bp .split{display:block;position:relative;min-height:100svh;overflow:hidden;color:#f4eee4;background:#0e0b08}
-  /* the photo owns the top of the screen and melts into the dark ground the text sits on */
-  .bp .split .img{position:absolute;inset:0 0 34% 0;min-height:0;background-position:center 45%}
-  .bp .split .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#0e0b08 0%,rgba(14,11,8,.85) 18%,rgba(14,11,8,0) 48%)}
-  .bp .split .txt{position:absolute;inset:auto 0 0 0;z-index:2;padding:0 22px 12vh}
+@media (max-width:900px){.bp .split{display:block;position:relative;overflow:hidden;color:#f4eee4;background:#0e0b08}
+  /* the photo owns the top of the screen and melts into the dark ground; the text comes after it, never on it */
+  .bp .split .img{position:relative;height:72svh;min-height:420px;background-position:center 55%}
+  .bp .split .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#0e0b08 0%,rgba(14,11,8,0) 22%)}
+  .bp .split .txt{position:relative;z-index:2;padding:8px 22px 90px}
   .bp .split p{color:rgba(244,238,228,.86)}.bp .split .eyebrow{color:#efe2c4}}
 
 /* full-bleed quote band */
-.bp .band{position:relative;height:88vh;min-height:560px;overflow:hidden;color:#f4eee4;display:flex;align-items:center}
-.bp .band .bg{position:absolute;inset:-12% 0;background-size:cover;background-position:center 40%;will-change:transform}
-.bp .band .shade{position:absolute;inset:0;background:rgba(6,5,4,.5)}
-.bp .band .q{position:relative;z-index:2;width:100%;text-align:center;padding:0 24px}
+.bp .band{position:relative;height:88vh;min-height:560px;overflow:hidden;color:#f4eee4;display:flex;align-items:flex-start}
+.bp .band .bg{position:absolute;inset:-12% 0;background-size:cover;background-position:center 62%;will-change:transform}
+.bp .band .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,5,4,.78) 0%,rgba(6,5,4,.45) 38%,rgba(6,5,4,0) 60%)}
+.bp .band .q{position:relative;z-index:2;width:100%;text-align:center;padding:14vh 24px 0}
+@media (max-width:760px){.bp .band .bg{background-position:center 85%}.bp .band .q{padding-top:11vh}}
 .bp .band .q .script{font-size:clamp(70px,9vw,150px);line-height:1.05}
 .bp .band .q .by{margin-top:26px;font-size:16px;letter-spacing:.06em;opacity:.85}
 
