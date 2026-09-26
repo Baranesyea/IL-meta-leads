@@ -40,8 +40,8 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
   product visible — on phones the words sit in the photo's dark space and the product is never under text or
   shade; on desktop the whole photo, words on the other side) with a CTA button "מה היינו משנים בקמפיין שלך"
   → the review right after the hero: "your campaign works, it can bring much more" + a short paragraph, then
-  pairs — their ad running today ("רץ היום") beside the same product our way ("ככה היינו עושים את זה") — then
-  "מה היינו משנים" + the 4 insights → button to the campaign → campaign
+  "ככה זה נראה היום": their 4 running ads SMALL in one row (no zoom, no carousel), then "וככה אנחנו היינו
+  עושים את זה": 4 of ours BIG — then "מה היינו משנים" + the 4 insights → button to the campaign → campaign
   strip → editorial split (photo above text on phones) → quote band (text in the photo's dark area, product
   clear) → 5 angle sections → closing: "<name>, את כל זה הכנו בשבילך. בחינם, בלי התחייבות." + what working
   together adds + WhatsApp button (Eran: https://wa.me/972545471522).
@@ -50,9 +50,11 @@ The Stav page (`/p/stav-56f5e275`) is the reference implementation: one template
 - Campaign strip: swipe on touch, drag + arrows with a mouse, auto-drift that pauses only while interacting
   or while an ad is open — never on hover (it got stuck).
 - Lightbox: close button always on top (fixed), opaque backdrop, scroll lock, closes on backdrop / Esc.
-- **No text or button over a face or the product, at any screen size.** Hero on phones, portrait tablets and
-  screens up to 7:5: the words and button first, the photo in its own box below them (whole photo on tablets).
-  Check 360×640, 375×667, 390×844, 768×1024, 1024×768, 1280×700, 1440×900, 1920×1080.
+- **The hero is one full-bleed photo with the words ON it — never split into a text block and a photo.**
+  Phones/portrait: a tall version of the hero (outpaint to 9:16, keep the original pixels; extend a plain
+  background locally if more air is needed) so the words sit on its calm top. No text or button over a face or
+  the product at any size: the button goes to the bottom (`hero_cta_m: "bottom"`) when the top is too short.
+  Check 360×640, 375×667, 390×844, 430×932, 768×1024, 820×1180, 1024×768, 1280×700, 1440×900, 1920×1080.
 - Headlines type in on scroll (layout-stable). Hero headline sized by width **and** height so it never
   climbs into the bar on short laptop screens.
 - Address the owner in the right grammatical gender (Stav: feminine).

@@ -189,3 +189,7 @@
   at 36% from the top, the words overflowed onto it). Hero is now a flex column below 7:5 — words, then the photo
   in its own box. The before/after rows became review pairs right under "הקמפיין שלך עובד" (their ad | ours),
   followed by "מה היינו משנים" + the insights.
+- (later) Eran: a hero split into words + photo "is not a hero"; and the before/after should be their 4 ads
+  small, ours big — not pairs. Phone hero now uses `hero_bg_m` (tall outpainted photo) full-bleed with a soft
+  top shade; Stav's dark top was extended locally (plain background), B-scents' button sits at the bottom.
+  Higgsfield: 3 outpaints (6 credits).
