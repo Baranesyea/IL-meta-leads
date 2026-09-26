@@ -1,0 +1,376 @@
+{
+  "lead_id": "2026-09-26-022",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/AnimalSolutionsIsrael/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "343804323036077",
+    "page_name": "Animal Solutions Israel LTD",
+    "active_ads_count": 4,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "1414725416446260",
+        "link_title": "",
+        "body": "🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/519085043_1776407496416019_3342368149106869279_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6oMXKG2vI4MQ7kNvwHDbJZt&_nc_oc=AdoLSE3Wlo_yABv0YZQhMkmMt4UAsBQ6Y5Hba6HVVJYHjpRsdYth-2Y3cZiYA8dCFdA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQJ4yyAGnEYYrOwKke8YDBGiG9jXtIYyEJ-5kKbGD_I6XQ&oe=6ABDC7AE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOPCCSmrSI7cju6ytF0YffyJSOs6LMs7bd-OJo0OrlPCPiGfoHO-y1l4a1D-A4muYGXyTQx_RH0ulS6lgDVRQtG6SbBLV9_D-_xugpC12U6Og.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=R0CoZXFw2K8Q7kNvwErl8Si&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc3MjkyNjc1ODYwMjQyNywiYXNzZXRfYWdlX2RheXMiOjQzMywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5b37071ba410afa6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ2OUNENjJFNzA3NUYzMjA3N0RBMURGMzdBQUNBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YxNDA3OUJCNzk1MERCNzAyMDZEMzJGNzZBNDMzNjlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2mpKOob7fAhUCKAJDMywXQFaMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLK7EUzFTEfVIlXvMkQMjCYQsSgm5XHLitW3JoBykTncQ&oe=6ABD995B"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1752994800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1414725416446260"
+      },
+      {
+        "ad_id": "2023301981785353",
+        "link_title": "",
+        "body": "🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/646008608_1490433052461676_7562434010990116827_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBO5mmY3mRwQ7kNvwFbKYT3&_nc_oc=Adppya06ZIHPcuskQB0oHVye-2W16AYZiYSvDL0KVdymkAkB2kRdNVbjB_Z46DnaIYw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKfafxmgYlqhUpsGCpaL88oAmLbZYPSGIDuSOnsWTna0Q&oe=6ABDC106",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOH22oGc1Hgg0ZKG3rFY75sbLIFmXNTJs3VYDeJudphLDdBwMeC67IfoMMISRaKyxMWWUZbyGXGLG-S66FL8qd3SUDxsEdkIY1rH-mfelVaug.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=PpIiuwY98qQQ7kNvwEBsUPH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDI4MTg3ODExMTU3NDQsImFzc2V0X2FnZV9kYXlzIjoyMDQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7bee2309ea38c57&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjQ1NzE5NDI1RTBEMUUxQTk0NTAxQURFRDQ3RDA5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RDNDc5OUZBODk0NzczREQ5N0EzNEJCRTNDRTgxMDk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA1Y-y5vb9BBUCKAJDMywXQE5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL9TNOyDu4Xr4sYpmSDqHgLKL-ycS0hk2iTo7re66cGvQ&oe=6ABDC4EF"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1772870400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2023301981785353"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "משלוח",
+        "קנו",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2295,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1414725416446260",
+      "2023301981785353"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 2295,
+    "page_categories": [
+      "Pet Service"
+    ],
+    "page_ads": [
+      {
+        "id": "1414725416446260",
+        "page_id": "343804323036077",
+        "page_name": "Animal Solutions Israel LTD",
+        "page_url": "https://www.facebook.com/AnimalSolutionsIsrael/",
+        "page_like_count": 2295,
+        "page_categories": [
+          "Pet Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1752994800,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/519085043_1776407496416019_3342368149106869279_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6oMXKG2vI4MQ7kNvwFl3Shs&_nc_oc=AdrvD3iRc4izOm1ipT_Ct7liKe8CnMBPR9DG9zsGRJOg8IkARMU8Ya47i15c19eIMuM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&oh=00_AQK5b1B4EVczZQlLPqR4Lh8K1Ouf_TyZBlzEHtataT8pLw&oe=6ABDC7AE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOPCCSmrSI7cju6ytF0YffyJSOs6LMs7bd-OJo0OrlPCPiGfoHO-y1l4a1D-A4muYGXyTQx_RH0ulS6lgDVRQtG6SbBLV9_D-_xugpC12U6Og.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=R0CoZXFw2K8Q7kNvwG8wM06&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc3MjkyNjc1ODYwMjQyNywiYXNzZXRfYWdlX2RheXMiOjQzMywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjkwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5b37071ba410afa6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ2OUNENjJFNzA3NUYzMjA3N0RBMURGMzdBQUNBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YxNDA3OUJCNzk1MERCNzAyMDZEMzJGNzZBNDMzNjlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2mpKOob7fAhUCKAJDMywXQFaMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&_nc_zt=28&oh=00_AQK1QgrK5d2h0Rz7kOsU9Ix2lEI9NEiPYbOLjp9mfKdN0g&oe=6ABD995B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1414725416446260"
+      },
+      {
+        "id": "1128456719153784",
+        "page_id": "343804323036077",
+        "page_name": "Animal Solutions Israel LTD",
+        "page_url": "https://www.facebook.com/AnimalSolutionsIsrael/",
+        "page_like_count": 2295,
+        "page_categories": [
+          "שירות לחיות מחמד"
+        ],
+        "ad_creative_link_title": "",
+        "body": "✨ מבצע - 50 חטיפי חתולים איכותיים (5 שלוקים בשקית) ב 250 ₪✨\n\n​המבצע שביקשתם - הגיע🥳\n\n🔳​אנחנו מציעים עכשיו מארז ענק של 50 חטיפי Nobillus לחתולים, במגוון של שישה טעמים שונים🐟🍗🦆\n\n🔳​כל החטיפים שלנו הם היפואלרגניים ו-ללא דגנים‼️\n\n​והכי חשוב💖\n🌟כל זה רק ב-250 ש\"ח🌟\n\n🔳​וזה לא הכל... משלוח חינם עד הבית, לכל מקום בארץ‼️\n\n​אל תפספסו‼️\n\n🐱 לחצו עכשיו על הוואטסאפ והזמינו כדי לפנק את החתול שלכם במבצע הכי משתלם שיש! 👇\n052-756-8603",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1756450800,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/540960349_808039174990937_388491855229072475_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OFTSL79kHyQQ7kNvwEijOqC&_nc_oc=AdqhfVDc91A5scKtdShyuUbex_sRN2ACOJx8iNGZdrECUbUvX9aDAl7gmCvJTqru1yE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&oh=00_AQJZenzRxAx7oA38kw4bwqnSVCeEb6J6XawkE_URmkYiHw&oe=6ABDCE20",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOvd92TTF1mxtJF1gZ3z93EA80O2UTD7iO7ex3MKoJ4IMWlMrMKC7ZhAmJCqyo3KucZuZIgeruMWZEaoaNybR96hWVc7zkFgXiM6ebBzlwHEA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=NGKEw6Rag3gQ7kNvwGarbBu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc4LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0OTkyMDQ2NjgxMjY3MzUsImFzc2V0X2FnZV9kYXlzIjozOTQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=13c4d2b6055b5f9a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTQ4MEY0QzFBQjgwNEUyNUFFNjYzODZFOTZCRjU5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzNEYxRUY5MkZEQzNENDY3NUNFQUQxOTAyODI2QTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae2IObmeGpBRUCKAJDMywXQEqmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&_nc_zt=28&oh=00_AQIVBVe3OpnnHu2hHpi4fSml8Szbsr7ap6Bq6an39-d2xQ&oe=6ABDC11D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1128456719153784"
+      },
+      {
+        "id": "2023301981785353",
+        "page_id": "343804323036077",
+        "page_name": "Animal Solutions Israel LTD",
+        "page_url": "https://www.facebook.com/AnimalSolutionsIsrael/",
+        "page_like_count": 2295,
+        "page_categories": [
+          "Pet Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1772870400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/646008608_1490433052461676_7562434010990116827_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBO5mmY3mRwQ7kNvwEjl_qb&_nc_oc=Ado2NF1_7CgaCDaTHriiHpOs2nhLUBSKtuRrb5V9FA2C41jy-eTz50CJce-oqdYQfS4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&oh=00_AQKe94M_Imh1ZGjJaZbWa5TQyF93ZiIOgxt57EjQDKyZUg&oe=6ABDC106",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOH22oGc1Hgg0ZKG3rFY75sbLIFmXNTJs3VYDeJudphLDdBwMeC67IfoMMISRaKyxMWWUZbyGXGLG-S66FL8qd3SUDxsEdkIY1rH-mfelVaug.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=PpIiuwY98qQQ7kNvwEJ9tdV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDI4MTg3ODExMTU3NDQsImFzc2V0X2FnZV9kYXlzIjoyMDQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7bee2309ea38c57&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjQ1NzE5NDI1RTBEMUUxQTk0NTAxQURFRDQ3RDA5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RDNDc5OUZBODk0NzczREQ5N0EzNEJCRTNDRTgxMDk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA1Y-y5vb9BBUCKAJDMywXQE5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&_nc_zt=28&oh=00_AQKpKF6pxkRyr5sh2K-J9iohnPk1Fe7XrUeFBn1KxV8LwA&oe=6ABDC4EF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2023301981785353"
+      },
+      {
+        "id": "1868658784107682",
+        "page_id": "343804323036077",
+        "page_name": "Animal Solutions Israel LTD",
+        "page_url": "https://www.facebook.com/AnimalSolutionsIsrael/",
+        "page_like_count": 2295,
+        "page_categories": [
+          "Pet Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "🔥 המבצע המטורף של Animal Solutions חוזר – ובענק!🔥\n\n​הכנו לכם חגיגה של טעמים ואיכות ישירות מהיבואן‼️\n​📦 חטיפי פרימיום (80 גרם)\n​40 יחידות ב-250 ₪ בלבד‼️\n​מגוון חברות ומותגים מובילים.\n\n✅️​מגוון עצום של טעמים: עוף, כבש, סלמון, טונה, ארנבת ועוד.\n✅️​כל הסטיילים והצורות: פילטים, סושי, חתיכות קטנות/גדולות, נשנושים ואילוף.\n✅️​הרכבה מותאמת אישית: נרכיב לכם מיקס מדויק לפי הגודל וההעדפות של הכלב שלכם – או שתוכלו לבחור בעצמכם באתר‼️\n\n​🎁 בונוסים והטבות בלעדיות לרוכשים חבילת חטיפים:\n​🐟 שמן סלמון טהור (1 ליטר): ב-140 ₪ בלבד (לפרווה מבריקה ובריאות מנצחת).\n​🌾 שקי מזון משתתפים: 20% הנחה על שקי האוכל שבמבצע‼️\n\n​🚚 משלוח מהיר חינם לכל הארץ!\n​לא משנה איפה אתם נמצאים – מאילת ועד מטולה (תל אביב, כפר סבא, רעננה, דימונה, ערד וכל נקודה באמצע!) – הפינוק בדרך אליכם‼️\n\n​📲 איך מזמינים❓️\n​מזמינים בקלות ובמהירות דרך הוואטסאפ שלנו, והצוות שלנו ישמח להרכיב לכם את המיקס המושלם‼️\n​👉 לחצו כאן להזמנה מהירה בוואטסאפ 052-756-8603 \n📱 או באתר: https://zoolife.co.il/product-category/dogs/treats-for-dogs/soft-snacks/?filters=product_tag%5B407%5D",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784703600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/754555074_1074482511778252_7771596366300329243_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xv_BdWQi5wgQ7kNvwGJ3hCQ&_nc_oc=AdriFl-OmSNfUxFV042JekDC0d7BHdMmChWiLP4UpQ6Nhe_hcPJSr3C5ojigr6EQ5kM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&oh=00_AQKI3Pt1nEfVE78jLLUhOHHq0KZnMuKUVtFUGjuvu6GonA&oe=6ABDC328",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOJ7ELHY3d1oxIebA_NsQ8ljyt12OswBN_p17W5w8VvPgUh1F30hP0xTeYko12w1RS91nNBufnLOgDl_Hg_lc3Du6ej9G6pIb7K8ZUVbdA9Ag.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=fV3fU-rrXDEQ7kNvwERebfp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NTg0MzM4MzQ2MDg5MTcsImFzc2V0X2FnZV9kYXlzIjo2NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjgxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1fb9b8ee349c5f16&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDQ3NEU0NkZCMjk3NUI4MDFGRjBFNDM4N0I2OEU4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNDRCQkQ3MkFBMEY4Njc5QTFBMjg0NkYxMkYzMThDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqpKW-ubiLCRUCKAJDMywXQFRMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=fmF8kMG7FxhVF48weE4TrA&_nc_ss=70289&_nc_zt=28&oh=00_AQLyv5Mh9MSxKiqY-jwlLODabIQuP4sHkJO3AyvkUSc0uA&oe=6ABDB3B3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1868658784107682"
+      },
+      {
+        "id": "1414725416446260",
+        "body": "🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "2023301981785353",
+        "body": "🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1414725416446260",
+        "text": "🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1128456719153784",
+        "text": "✨ מבצע - 50 חטיפי חתולים איכותיים (5 שלוקים בשקית) ב 250 ₪✨\n\n​המבצע שביקשתם - הגיע🥳\n\n🔳​אנחנו מציעים עכשיו מארז ענק של 50 חטיפי Nobillus לחתולים, במגוון של שישה טעמים שונים🐟🍗🦆\n\n🔳​כל החטיפים שלנו הם היפואלרגניים ו-ללא דגנים‼️\n\n​והכי חשוב💖\n🌟כל זה רק ב-250 ש\"ח🌟\n\n🔳​וזה לא הכל... משלוח חינם עד הבית, לכל מקום בארץ‼️\n\n​אל תפספסו‼️\n\n🐱 לחצו עכשיו על הוואטסאפ והזמינו כדי לפנק את החתול שלכם במבצע הכי משתלם שיש! 👇\n052-756-8603",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2023301981785353",
+        "text": "🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1868658784107682",
+        "text": "🔥 המבצע המטורף של Animal Solutions חוזר – ובענק!🔥\n\n​הכנו לכם חגיגה של טעמים ואיכות ישירות מהיבואן‼️\n​📦 חטיפי פרימיום (80 גרם)\n​40 יחידות ב-250 ₪ בלבד‼️\n​מגוון חברות ומותגים מובילים.\n\n✅️​מגוון עצום של טעמים: עוף, כבש, סלמון, טונה, ארנבת ועוד.\n✅️​כל הסטיילים והצורות: פילטים, סושי, חתיכות קטנות/גדולות, נשנושים ואילוף.\n✅️​הרכבה מותאמת אישית: נרכיב לכם מיקס מדויק לפי הגודל וההעדפות של הכלב שלכם – או שתוכלו לבחור בעצמכם באתר‼️\n\n​🎁 בונוסים והטבות בלעדיות לרוכשים חבילת חטיפים:\n​🐟 שמן סלמון טהור (1 ליטר): ב-140 ₪ בלבד (לפרווה מבריקה ובריאות מנצחת).\n​🌾 שקי מזון משתתפים: 20% הנחה על שקי האוכל שבמבצע‼️\n\n​🚚 משלוח מהיר חינם לכל הארץ!\n​לא משנה איפה אתם נמצאים – מאילת ועד מטולה (תל אביב, כפר סבא, רעננה, דימונה, ערד וכל נקודה באמצע!) – הפינוק בדרך אליכם‼️\n\n​📲 איך מזמינים❓️\n​מזמינים בקלות ובמהירות דרך הוואטסאפ שלנו, והצוות שלנו ישמח להרכיב לכם את המיקס המושלם‼️\n​👉 לחצו כאן להזמנה מהירה בוואטסאפ 052-756-8603 \n📱 או באתר: https://zoolife.co.il/product-category/dogs/treats-for-dogs/soft-snacks/?filters=product_tag%5B407%5D",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1414725416446260",
+        "text": "🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2023301981785353",
+        "text": "🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1414725416446260",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nAnimal Solutions Israel LTD\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1414725416446260\nהתחילה לפעול ב-20 ביולי 2025\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nAnimal Solutions Israel LTD\nממומן\n🎉 מבצע חם לחברינו בעלי החתולים! 🎉\n\n🐈‍⬛לחתול שלכם מגיע רק לטוב ביותר, ואנחנו דואגים לזה!\n\n📽בסרטון שלפניכם תוכלו לראות את איכות החול המתגבש שלנו מבית iCare - חול איכותי במיוחד שכולם כבר מכירים ואוהבים!\n\nההצעה שלא תוכלו לסרב לה:\n ✅️2 שקי חול iCare (25 ליטר כל אחד) ב-209 ש\"ח בלבד!\n\n ✅️רוצים יותר? קנו 4 שקים ב-418 ש\"ח וקבלו מתנה לבחירתכם:\n✔️ארגז חול מתגבש Ventus Kattus (10 ליטר)\n ✔️משטח גירוד לחתול\n ✔️2 ק\"ג מזון סופר פרימיום לחתולים מסוג Princess Maintenance Adult Complete Cat Food\n\nואל תשכחו את הדובדבן שבקצפת👇\n\n🛻משלוח חינם לכל חלקי הארץ, ללא יוצא מן הכלל! מקריית שמונה ועד דימונה – אנחנו מגיעים אליכם עד הבית, ללא עלות נוספת!\n\nצפו וגלו בעצמכם כמה החול שלנו מתגבש ביעילות ובקלות‼️\n\n🌟אל תחכו, המלאי מוגבל🌟\n\n👇הזמינו עכשיו ופנקו את החברים הפרוותיים שלכם!\n\nלפרטים והזמנות, צרו קשר בוואטסאפ: 052-7568603\nאוהבים אתכם! ❤️\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nAnimal Solutions Israel LTD\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "2023301981785353",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nAnimal Solutions Israel LTD\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 2023301981785353\nהתחילה לפעול ב-7 במרץ 2026\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nAnimal Solutions Israel LTD\nממומן\n🐱 פינוק אמיתי לחתולים שלכם - ובמבצע שאסור לפספס! 🥩\n​ביקשתם – קיבלתם! המותג העולמי המוביל Fitmin For Life נוחת אצלנו עם פתרון מושלם לחתולים מסורסים:\n​✨ Fitmin For Life Castrate with Beef ✨\n\nמזון פרימיום על בסיס בקר, היפואלרגני, עם 84% חלבון מן החי! 🍖 הוא לא רק טעים בטירוף, אלא גם כולל קומפלקס ייחודי לשמירה על בריאות השיניים של החתול שלכם. 🦷✨\n\n​🎁 והנה הפינוק האמיתי - המבצע שלנו:\n​קונים שק של 8 ק\"ג ב-299 ₪ בלבד, ונהנים מחבילת הטבות מטורפת:\n✅ 20% הנחה על השק השני!\n✅ מתנה בכל קנייה: קרטון חול מתגבש פרימיום (10 ליטר) של Ventus Cottus עם פחם פעיל לנטרול ריחות לאורך זמן! 🐈‍⬛💨\n\n✅ משלוח מהיר חינם עד פתח הבית לכל חלקי הארץ! 🚚 במקסימום מהירות ובמינימום מאמץ.\n\n​אל תחכו שהמלאי ייגמר – החתול שלכם כבר מחכה לזה! 😻\n\n​📍 להזמנות ופרטים נוספים השאירו תגובה או שלחו לנו וואטסאפ 052-756-8603  📥\n\n#Fitmin #חתולים #אוכללחתולים #מבצע #חתולמסורס #פינוק #משלוחחינם #חתוליםזהאהבה\n0:00 / 0:00\nAPI.WHATSAPP.COM\nAnimal Solutions Israel LTD\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "filtered": "2026-09-26T15:08:21",
+    "unqualified": "2026-09-26T15:11:02"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=1414725416446260",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=1128456719153784",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=2023301981785353",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=1868658784107682",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=1414725416446260",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=2023301981785353",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=1414725416446260",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972527568603",
+        "source": "https://www.facebook.com/ads/library/?id=2023301981785353",
+        "labelled_whatsapp": true
+      }
+    ],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

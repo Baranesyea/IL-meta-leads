@@ -5612,5 +5612,1609 @@ export const REPORTS = {
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"
+ },
+ "kelevteva-369078b4": {
+  "slug": "kelevteva-369078b4",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_01.webp",
+    "headline": "פילה טונה לכלבים",
+    "primary": "הפכו את השקית וקראו את הרכיבים: טונה. וזהו.\n\nחטיף פילה טונה מבושל ורך, בלי צבעים ובלי תוספות, שכלבים משתגעים עליו.\n\n21.90 ש״ח למארז.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(227,214,200)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חטיף עם רכיב אחד.<br>זהו.",
+     "sub": "פילה טונה · 21.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_02.webp",
+    "headline": "קוביות בקר",
+    "primary": "קוביות בקר מיובשות, רכיב אחד, בגודל מושלם לאילוף ולפינוק.\n\nמארז חיסכון של 150 גרם ב-59 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(70,47,24)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הוא יודע מה טוב.",
+     "sub": "קוביות בקר · 59 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/kelevteva/raw_03.webp",
+    "headline": "חטיף ברווז ואגס",
+    "primary": "פילה ברווז מיובש עם אגס. שני רכיבים שאתם מכירים, בחטיף שהכלב שלכם יאהב.\n\n24.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(208,206,196)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ברווז ואגס.<br>זה כל הסיפור.",
+     "sub": "חטיף ברווז · 24.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/kelevteva/raw_04.webp",
+    "headline": "חטיפים טבעיים",
+    "primary": "בחנות שלנו אין חטיפים עם רשימת רכיבים של חצי עמוד.\n\nטונה, בקר, ברווז ואגס: חטיפים טבעיים, מיובשים בעדינות, שכלבים אוהבים ובעלים סומכים עליהם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(75,55,35)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "קוראים את הרכיבים.<br>ומבינים הכול.",
+     "sub": "חטיפים טבעיים לכלבים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_05.webp",
+    "headline": "אוזן בופאלו טבעית",
+    "primary": "כלב שלועס הוא כלב רגוע.\n\nאוזן בופאלו של וויגל: חטיף לעיסה טבעי לגמרי, שמעסיק את הכלב ושומר על השיניים.\n\n500 גרם ב-99 ש״ח, קילו ב-189.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      297
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(34,31,14)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שעה של שקט.<br>100% טבעי.",
+     "sub": "אוזן בופאלו · מ-99 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/kelevteva/raw_06.webp",
+    "headline": "בולי סטיק 30 ס״מ",
+    "primary": "בולי סטיק 30 ס״מ, 100% טבעי, בלי ריח חזק ובלי תוספות.\n\nהלעיסה הארוכה שכל כלב צריך. 45 ש״ח ליחידה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(228,220,213)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "30 ס״מ<br>של שקט.",
+     "sub": "בולי סטיק · 45 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_07.webp",
+    "headline": "מארז בולי סטיק",
+    "primary": "כלב משועמם מוצא לעצמו מה ללעוס. עדיף שזה יהיה בולי סטיק ולא הספה.\n\nמארז 10 בולי סטיק טבעיים ב-129 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(211,199,187)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הספה שלכם<br>תודה לכם.",
+     "sub": "בולי סטיק · 10 יח׳",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/kelevteva/raw_08.webp",
+    "headline": "חטיפי לעיסה טבעיים",
+    "primary": "חטיפי לעיסה טבעיים לגמרי: אוזני בופאלו ובולי סטיק, מיובשים בלי תוספות.\n\nלכלבים קטנים וגדולים. משלוח חינם מעל 299 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,206,192)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חטיפי לעיסה.<br>בלי שום דבר מיותר.",
+     "sub": "אוזני בופאלו · בולי סטיק",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_09.webp",
+    "headline": "מרכך אורגני לפרווה",
+    "primary": "הפרווה של הכלב נוגעת בכם כל יום. כדאי שתהיה רכה.\n\nמרכך אורגני של ווילדה סיביריקה לברק ולרכות, בלי כימיקלים קשים.\n\n69 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(75,52,32)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "פרווה שמבריקה.<br>בלי כימיקלים.",
+     "sub": "מרכך אורגני · 69 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_10.webp",
+    "headline": "פרווה רכה ומבריקה",
+    "primary": "יש כלבים שאחרי מקלחת נראים כמו אחרי מספרה.\n\nמרכך אורגני שמשאיר פרווה רכה, מבריקה וריחנית.\n\n69 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(24,19,11)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אחרי מקלחת.<br>ככה נראית פרווה.",
+     "sub": "ווילדה סיביריקה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/kelevteva/raw_11.webp",
+    "headline": "מרכך לפרווה ארוכה",
+    "primary": "פרווה ארוכה נוטה להסתבך ולהתייבש.\n\nמרכך אויל־פלקס על בסיס שמנים, לפרווה ארוכה וקשה לסירוק.\n\n69 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      432,
+      54,
+      1015,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(202,203,195)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לפרווה ארוכה<br>ומסתבכת.",
+     "sub": "אויל פלקס · 69 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/kelevteva/raw_12.webp",
+    "headline": "מרככים אורגניים",
+    "primary": "שני מרככים אורגניים: אחד לברק ולרכות, ואחד לפרווה ארוכה.\n\nטיפוח עדין ובטוח, בלי כימיקלים קשים. 69 ש״ח כל אחד.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      787
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(35,30,17)",
+     "scrim": "rgba(250,246,238,0.46)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפוח טבעי.<br>לכל סוג פרווה.",
+     "sub": "ווילדה סיביריקה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_13.webp",
+    "headline": "תמיכה במפרקים",
+    "primary": "הכלב שלכם כבר לא קופץ על הספה כמו פעם?\n\nקונדרוסאלוס של CAMON מאיטליה: תוסף לתמיכה במפרקים של כלבים וחתולים, 60 טבליות.\n\n189 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(79,61,43)",
+     "scrim": "rgba(250,246,238,0.58)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הוא שמר עליכם שנים.<br>עכשיו תורכם.",
+     "sub": "קונדרוסאלוס · 189 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/kelevteva/raw_14.webp",
+    "headline": "קערה מונעת טפטוף",
+    "primary": "קערת שתייה חכמה שמונעת טפטוף והרטבה של הפה.\n\n4.5 ליטר, נירוסטה, ורצפה יבשה סוף־סוף. 159 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(47,30,18)",
+     "scrim": "rgba(250,246,238,0.28)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "בלי שלוליות.<br>בלי זקן רטוב.",
+     "sub": "קערת שתייה · 159 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_15.webp",
+    "headline": "צעצוע רך לכלב",
+    "primary": "כלבים מבוגרים אוהבים לשחק, רק בעדינות.\n\nקונג וובה: צעצוע רך וחזק שנעים להחזיק בפה. 99 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(47,28,12)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "גם בגיל 12<br>מגיע לו צעצוע.",
+     "sub": "קונג וובה · 99 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_16.webp",
+    "headline": "לכלב המבוגר",
+    "primary": "כל מה שכלב מבוגר צריך כדי להרגיש טוב: תמיכה במפרקים, מים נקיים ומקום רך לנוח.\n\nהכול בחנות אחת, עם משלוח מהיר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(236,228,217)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הבית של<br>החבר הוותיק.",
+     "sub": "מפרקים · מים · מנוחה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_17.webp",
+    "headline": "חנות הבריאות לכלבים",
+    "primary": "חטיפים טבעיים, מזון בריא, טיפוח אורגני וצעצועים שנבחרו בקפידה.\n\nכלב טבע: חנות הבריאות לכלבים. משלוח מהיר לכל הארץ, וחינם מעל 299 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(63,42,22)",
+     "scrim": "rgba(250,246,238,0.56)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל מה שבריא לכלב.<br>במקום אחד.",
+     "sub": "משלוח חינם מעל 299 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/kelevteva/raw_18.webp",
+    "headline": "צעצוע קונג",
+    "primary": "צעצוע חבל קשרים של קונג, שמחזיק משיכות, קפיצות ולעיסות.\n\nשלוש מידות, מ-49 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(73,73,35)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "משחק שמחזיק.<br>גם מול הכלב שלכם.",
+     "sub": "קונג תרנגולת · מ-49 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/kelevteva/raw_19.webp",
+    "headline": "חול לחתולים",
+    "primary": "גם החתולים בבית ראויים לטוב ביותר.\n\nחול מתגבש של קלבר קט בניחוח לבנדר ובתוספת פחם פעיל, 10 ליטר. 89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(90,55,24)",
+     "scrim": "rgba(0,0,0,0.5)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "גם לחתול<br>מגיע טבעי.",
+     "sub": "חול מתגבש · לבנדר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/kelevteva/raw_20.webp",
+    "headline": "מזמינים בקלות",
+    "primary": "לא בא לכם לגלול? שלחו לנו הודעה בוואטסאפ ונעזור לכם לבחור.\n\nמשלוחים מהירים לכל הארץ, וחינם מעל 299 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,216,204)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הזמנה בוואטסאפ.<br>משלוח עד הבית.",
+     "sub": "משלוח חינם מעל 299 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/kelevteva/hero.webp",
+  "business": {
+   "name": "כלב טבע",
+   "wordmark": "כלב טבע",
+   "site": "https://kelev-teva.co.il/"
+  },
+  "address": "pl",
+  "hero_theme": "light",
+  "hero_eyebrow": "חנות הבריאות לכלבים · משלוח חינם מעל 299 ש״ח",
+  "hero_title": [
+   "רק מה שבריא.",
+   "לחבר הכי טוב."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/kelevteva/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "יש לכם סיפור חזק.",
+    "המודעות עוד לא מספרות אותו."
+   ],
+   "text": "'חנות הבריאות הראשונה לכלבים' זה מיצוב שאף חנות חיות רגילה לא יכולה להגיד. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "מודעה אחת, שש גרסאות",
+    "d": "רוב המודעות הן אותו באנר עם 'משלוח חינם מעל 299'. משלוח הוא סיבה טובה לסגור הזמנה, אבל לא סיבה להתחיל לקנות."
+   },
+   {
+    "t": "המוצרים לא מופיעים",
+    "d": "חטיפי הלעיסה הטבעיים, המרככים האורגניים והחטיפים עם רכיב אחד הם הוויזואל הכי חזק שלכם, והם כמעט לא במודעות."
+   },
+   {
+    "t": "'בריאות' בלי הסבר",
+    "d": "מה הופך אתכם לחנות בריאות? רכיב אחד, בלי צבעים ובלי תוספות. זה המסר, וכדאי לראות אותו על המוצר עצמו."
+   },
+   {
+    "t": "כלבים אמיתיים מוכרים",
+    "d": "האיורים נראים כמו סטוק שכל חנות יכולה להשתמש בו. כלב אמיתי שנהנה מהמוצר עוצר את הגלילה ובונה אמון."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "רכיב אחד. זהו.",
+    "hook": "חטיף עם רכיב אחד. זהו.",
+    "idea": "חטיפי הנריס: טונה, בקר, ברווז ואגס. קוראים את הרכיבים ומבינים הכול."
+   },
+   {
+    "id": "A2",
+    "name": "שעה של שקט",
+    "hook": "שעה של שקט. 100% טבעי.",
+    "idea": "אוזני בופאלו ובולי סטיק: לעיסה ארוכה וטבעית שמעסיקה את הכלב ומצילה את הספה."
+   },
+   {
+    "id": "A3",
+    "name": "פרווה שמבריקה",
+    "hook": "פרווה שמבריקה. בלי כימיקלים.",
+    "idea": "המרככים האורגניים של ווילדה סיביריקה: טיפוח טבעי במחיר נגיש, עם ויזואל שמוכר את עצמו."
+   },
+   {
+    "id": "A4",
+    "name": "החבר הוותיק",
+    "hook": "הוא שמר עליכם שנים. עכשיו תורכם.",
+    "idea": "לכלב המבוגר: תמיכה במפרקים, קערה נוחה וצעצוע רך. קהל רגשי שמוכן להשקיע."
+   },
+   {
+    "id": "A5",
+    "name": "חנות הבריאות של הכלב",
+    "hook": "כל מה שבריא לכלב. במקום אחד.",
+    "idea": "החנות עצמה: מוצרים שנבחרו בקפידה, משלוח מהיר, חינם מעל 299, והזמנה בוואטסאפ."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/kelevteva/cur_01.webp",
+      "w": 600,
+      "h": 600,
+      "video": false
+     },
+     {
+      "img": "/reports/kelevteva/cur_02.webp",
+      "w": 1254,
+      "h": 1254,
+      "video": false
+     },
+     {
+      "img": "/reports/kelevteva/cur_03.webp",
+      "w": 1254,
+      "h": 1254,
+      "video": false
+     },
+     {
+      "img": "/reports/kelevteva/cur_04.webp",
+      "w": 1254,
+      "h": 1254,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     10,
+     17
+    ]
+   }
+  },
+  "strip": [
+   2,
+   7,
+   13,
+   18,
+   9,
+   4,
+   15,
+   19
+  ],
+  "split": {
+   "ad": 5,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "רק",
+    "מה",
+    "שבריא."
+   ],
+   "text": "מזון טבעי, חטיפים עם רכיב אחד, לעיסה טבעית וטיפוח אורגני. כל מוצר בחנות נבחר כי הוא באמת טוב לכלב, וזה הסיפור שהמודעות צריכות לספר.",
+   "price": "משלוח חינם מעל 299 ש״ח · הזמנה גם בוואטסאפ"
+  },
+  "band": {
+   "ad": 8,
+   "theme": "light",
+   "quote": "רק מה שבריא.",
+   "by": "כלב טבע · חנות הבריאות לכלבים"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "petbest-20bd483a": {
+  "slug": "petbest-20bd483a",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_01.webp",
+    "headline": "מריק ללא דגנים",
+    "primary": "מזון יבש מלא לכלב בוגר, עם סלמון אמיתי כרכיב ראשון ובטטה, ובלי דגנים.\n\nמריק, 10 ק״ג, 359 ש״ח. משלוח חינם עד הבית.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(233,232,230)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "סלמון ובטטה.<br>בלי דגנים.",
+     "sub": "מריק · 10 ק״ג · 359 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/petbest/raw_02.webp",
+    "headline": "מריק בקר ובטטה",
+    "primary": "כשהרכיב הראשון בשק הוא בקר אמיתי, רואים את זה בקערה.\n\nמריק בקר ובטטה, ללא דגנים, 10 ק״ג ב-359 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(65,43,29)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "בקר אמיתי.<br>רכיב ראשון.",
+     "sub": "מריק בקר · 359 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_03.webp",
+    "headline": "מריק לגזע קטן",
+    "primary": "לכלב קטן צריך כופתיות קטנות ומזון עשיר.\n\nמריק לגזע קטן: סלמון ובטטה, ללא דגנים, 5.4 ק״ג ב-269 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(232,231,230)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כלב קטן.<br>ארוחה בגודל שלו.",
+     "sub": "מריק לגזע קטן · 269 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/petbest/raw_04.webp",
+    "headline": "סדרת מריק",
+    "primary": "סלמון, בקר, ומתכון מיוחד לגזעים קטנים.\n\nכל סדרת מריק ללא דגנים, במלאי ועם משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,233,230)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלושה טעמים.<br>אפס דגנים.",
+     "sub": "מריק בפט בסט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_05.webp",
+    "headline": "מזון ייעודי לכלבים",
+    "primary": "הווטרינר המליץ על מזון ייעודי, ועכשיו צריך למצוא אותו.\n\nשימורי בלקנדו וטליין: כליות, מערכת עיכול ומשקל. במלאי, 18 ש״ח לפחית, עד הבית.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,215,205)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הווטרינר אמר דיאטה?<br>יש לנו.",
+     "sub": "בלקנדו וטליין · 18 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/petbest/raw_06.webp",
+    "headline": "תמיכה במשקל",
+    "primary": "דיאטה לא חייבת להיות עונש.\n\nבלקנדו ווייט קונטרול: מזון ייעודי לתמיכה במשקל, שהכלב עדיין מחכה לו. 18 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(237,230,222)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "קצת פחות.<br>אותה הנאה.",
+     "sub": "וויט קונטרול · 18 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_07.webp",
+    "headline": "תמיכה בעיכול",
+    "primary": "לכלבים עם בטן רגישה.\n\nבלקנדו גסטרו: מזון ייעודי לתמיכה במערכת העיכול. 18 ש״ח לפחית, במלאי.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,233,226)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "בטן רגועה.<br>כלב רגוע.",
+     "sub": "בלקנדו גסטרו · 18 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_08.webp",
+    "headline": "בלקנדו וטליין",
+    "primary": "כל סדרת בלקנדו וטליין במלאי קבוע.\n\nמזמינים מהבית, ומקבלים עד הדלת. משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,242,242)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "מזון ייעודי.<br>בלי לחפש.",
+     "sub": "כליות · עיכול · משקל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_09.webp",
+    "headline": "מתקן גירוד לחתול",
+    "primary": "חתול שמגרד את הספה פשוט לא קיבל מקום משלו.\n\nמתקן גירוד טריקסי, 82 ס״מ, עם שתי קומות ומקום לנמנם. 339 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      148,
+      993,
+      499
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,234,233)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "החתול צריך איפה לגרד.<br>תנו לו.",
+     "sub": "מתקן טריקסי · 339 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/petbest/raw_10.webp",
+    "headline": "כדור גירוד טריקסי",
+    "primary": "כדור גירוד מסיסל שחתולים מטפסים עליו, מגרדים ומשחקים.\n\nטריקסי, 29×31 ס״מ, 279 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(233,230,227)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הצעצוע.<br>והמגרד.",
+     "sub": "כדור גירוד · 279 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_11.webp",
+    "headline": "מגרדים לחתול",
+    "primary": "חתולים צריכים לגרד. זה טבעי. השאלה רק איפה.\n\nמגרדים ושטיחי גירוד של טריקסי מ-129 ש״ח, והספה נשארת שלמה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      148,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(223,216,208)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הספה שלכם.<br>נשארת שלכם.",
+     "sub": "טריקסי · מ-129 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/petbest/raw_12.webp",
+    "headline": "מתקן גירוד מעוצב",
+    "primary": "מתקן גירוד בגוון בז׳ שנראה טוב גם בסלון מעוצב.\n\nטריקסי, 82 ס״מ, 339 ש״ח. משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      787
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,222,213)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "יפה לחתול.<br>יפה לסלון.",
+     "sub": "טריקסי בגוון בז׳",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_13.webp",
+    "headline": "קרן בופאלו טבעית",
+    "primary": "קרן בופאלו טבעית: לעיסה ארוכה שמעסיקה, מרגיעה ושומרת על השיניים.\n\n100% טבעי, 75 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(35,23,15)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לועס.<br>רגוע. שמח.",
+     "sub": "קרן בופאלו · 75 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/petbest/raw_14.webp",
+    "headline": "דונאט דנטלי",
+    "primary": "חטיף דנטלי בצורת דונאט עם ציפוי ברווז.\n\nלועסים, נהנים, ושומרים על שיניים נקיות. במלאי בפט בסט.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,241,241)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "דונאט<br>שמותר לו.",
+     "sub": "דונאט ברווז · פטקס",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_15.webp",
+    "headline": "חטיפי לעיסה",
+    "primary": "שני כלבים בבית? שני חטיפי לעיסה, ושעה של שקט.\n\nקרן בופאלו ודונאט ברווז, טבעיים ועמידים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(61,69,35)",
+     "scrim": "rgba(250,246,238,0.26)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אחד לכל אחד.<br>ושקט לכולם.",
+     "sub": "חטיפי לעיסה טבעיים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_16.webp",
+    "headline": "קרן בופאלו",
+    "primary": "חטיף לעיסה אחד שמחזיק ימים.\n\nקרן בופאלו טבעית לגמרי, לכלבים בינוניים וגדולים. 75 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,238,238)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "100% טבעי.<br>100% עסוק.",
+     "sub": "קרן בופאלו · 75 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_17.webp",
+    "headline": "הסופרמרקט לחיות",
+    "primary": "מזון, חטיפים, חול, מגרדים ומזון ייעודי: הכול בחנות אחת.\n\nפט בסט, הסופרמרקט לחיות מחמד. משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      648,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(58,42,31)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל מה שהם צריכים.<br>עד הדלת.",
+     "sub": "משלוח חינם מ-199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/petbest/raw_18.webp",
+    "headline": "משלוח עד הבית",
+    "primary": "שק של 10 ק״ג לא צריך לעלות איתכם במדרגות.\n\nמזמינים מפט בסט, ומקבלים עד הדלת. חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(56,39,27)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "10 ק״ג.<br>בלי לסחוב.",
+     "sub": "משלוח עד הבית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_19.webp",
+    "headline": "הכל במקום אחד",
+    "primary": "יש בבית גם כלב וגם חתול? אצלנו יש את מה ששניהם צריכים.\n\nמזון, חטיפים, מגרדים וצעצועים, עם משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,236,233)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לכלב. לחתול.<br>לכולם בבית.",
+     "sub": "הכל במקום אחד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/petbest/raw_20.webp",
+    "headline": "הזמנה בטלפון",
+    "primary": "מעדיפים לדבר עם מישהו? התקשרו ל־3647* ונעזור לכם לבחור.\n\nאו הזמינו באתר, עם משלוח חינם מ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,239,239)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מזמינים באתר.<br>או בטלפון.",
+     "sub": "פט בסט",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/petbest/hero.webp",
+  "business": {
+   "name": "פט בסט",
+   "wordmark": "פט בסט",
+   "site": "https://petbest.co.il/"
+  },
+  "address": "pl",
+  "hero_theme": "light",
+  "hero_eyebrow": "הסופרמרקט לחיות מחמד · משלוח חינם מ-199 ש״ח",
+  "hero_title": [
+   "כל מה שהם צריכים.",
+   "עד הדלת."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/petbest/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "חלק מהמודעות שלכם רצות יותר משנה, וזה בדרך כלל סימן שהן מביאות כסף. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "יש לכם מודעות מנצחות",
+    "d": "מודעות שרצות 400 יום, ומודעות ברוסית לקהל שכמעט אף אחד לא מדבר איתו. זה בסיס מצוין להגדיל ממנו."
+   },
+   {
+    "t": "אין אף חיה אמיתית",
+    "d": "כמעט כל מודעה היא שק מזון על רקע לבן או פלאייר מבצע. כלב שמחכה לקערה עוצר גלילה הרבה יותר משקית."
+   },
+   {
+    "t": "המזון הייעודי בלי סיפור",
+    "d": "בלקנדו וטליין (כליות, עיכול, משקל) הוא קנייה חוזרת לאורך חודשים, ומי שהווטרינר שלח אותו מחפש בדיוק אותו."
+   },
+   {
+    "t": "החנות בלי זהות",
+    "d": "סופרמרקט עם משלוח חינם מ-199, הזמנה ב-3647* ומבחר ענק: זה מה שמבדל אתכם מהאתרים הגדולים, וזה לא מופיע."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "ללא דגנים",
+    "hook": "סלמון ובטטה. בלי דגנים.",
+    "idea": "סדרת מריק: מזון פרימיום עם רכיב ראשון אמיתי, בזווית של הכלב והקערה ולא של השקית."
+   },
+   {
+    "id": "A2",
+    "name": "כשהווטרינר אמר דיאטה",
+    "hook": "הווטרינר אמר דיאטה? יש לנו.",
+    "idea": "שימורי בלקנדו וטליין: כליות, עיכול ומשקל. במלאי, ועד הבית."
+   },
+   {
+    "id": "A3",
+    "name": "החתול צריך איפה",
+    "hook": "החתול צריך איפה לגרד. תנו לו.",
+    "idea": "מתקני גירוד טריקסי בסלון מעוצב: החתול מקבל מקום משלו, והספה נשארת שלמה."
+   },
+   {
+    "id": "A4",
+    "name": "לעיסה טבעית",
+    "hook": "לועס. רגוע. שמח.",
+    "idea": "קרן בופאלו ודונאט ברווז: חטיפי לעיסה טבעיים שמוסיפים לכל הזמנה."
+   },
+   {
+    "id": "A5",
+    "name": "הסופרמרקט של החיות",
+    "hook": "כל מה שהם צריכים. עד הדלת.",
+    "idea": "פט בסט עצמה: הכול במקום אחד, 10 ק״ג בלי לסחוב, ומשלוח חינם מ-199."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/petbest/cur_01.webp",
+      "w": 1200,
+      "h": 1200,
+      "video": false
+     },
+     {
+      "img": "/reports/petbest/cur_02.webp",
+      "w": 593,
+      "h": 592,
+      "video": false
+     },
+     {
+      "img": "/reports/petbest/cur_03.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/petbest/cur_04.webp",
+      "w": 520,
+      "h": 520,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     9,
+     18
+    ]
+   }
+  },
+  "strip": [
+   3,
+   6,
+   11,
+   13,
+   19,
+   7,
+   12,
+   15
+  ],
+  "split": {
+   "ad": 9,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "הכול",
+    "במקום",
+    "אחד."
+   ],
+   "text": "מזון יבש ורטוב, מזון ייעודי, מגרדים, חטיפים וחול. סופרמרקט אמיתי לחיות מחמד, עם משלוח עד הבית ושירות בטלפון ב-3647*.",
+   "price": "משלוח חינם מ-199 ש״ח"
+  },
+  "band": {
+   "ad": 16,
+   "theme": "light",
+   "quote": "לועס. רגוע. שמח.",
+   "by": "פט בסט · הסופרמרקט לחיות מחמד"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
  }
 };

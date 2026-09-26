@@ -1,0 +1,146 @@
+{
+  "lead_id": "2026-09-26-030",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/petbull605/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "114027824929090",
+    "page_name": "פט-בול",
+    "active_ads_count": 1,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "2082360642647836",
+        "link_title": "פט-בול",
+        "body": "יש לכם כלב או חתול? החג הזה הולך לעלות לכם פחות. 🐶🐱\n\nאספנו את המוצרים שאתם קונים להם גם ככה, והורדנו מחירים במיוחד לחג.\n\nאוכל איכותי לכלבים ולחתולים, חטיפים, חול, פדים, מיטות, משחקים ומוצרים נגד פשפשים וקרציות.\n\nאבל זה לא נגמר במחיר.\n\n🎁 במבצעים נבחרים מחכות לכם גם מתנות\n🚚 משלוחים עד הבית\n💥 והנחות של עד עשרות שקלים על המוצרים שאתם באמת צריכים\n\nלדוגמה:\n\n2 שקי אנרקרוק ב-410 ₪ במקום 440 ₪ + 5 שקיות חטיפים מתנה\nנטורל סופר פרימיום ב-310 ₪ במקום 330 ₪ + 5 שקיות חטיפים מתנה\nחול מתגבש לחתול - 2 ב-100 ₪ במקום 130 ₪\nמיטה מעוצבת ב-270 ₪ במקום 350 ₪ + משלוח חינם\n\nויש עוד.\n\nתבחרו את המוצר שמתאים להם ותנצלו את מחיר החג לפני שהמבצעים מסתיימים.\n\n🐾 פט-בול - כי גם להם מגיע לקבל משהו לחג.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813837230_2144855922797750_7658005470793663738_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wBnksBgvjhoQ7kNvwFasv_w&_nc_oc=AdqyMkfvPeIbKJkbMCOgabkqQjnKzGZk3EnFmx1Ej_ZBRfL2J0ofhMlj5oIJ64O5hcM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKAQanu0sfwioiweBvwMWovIaqq_ciKWpke741uqgFUEw&oe=6ABDA23F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813901333_958460099980566_3488629745540826383_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nGnCBXLYpWMQ7kNvwFqANZo&_nc_oc=AdqnKCz-uGpux5L4QVzXMpKSqjDgEDNH_o_o95vORWRs4RHfaEcTMF8t6e3IcR1qKb8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQIyz4cg_CaXYzp1-vzPj8eRXGZv0VNf3NqaZJBjBU7GDw&oe=6ABDB137",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813320866_2254906405297457_2708854717507314632_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GojbYQd986EQ7kNvwFurVL6&_nc_oc=AdqgnthXAHOATg9HIIEzRjoNf5K9IMfEHuplOtEX_AyaUbtALYLMXh1uNT0G0XGIa0s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQJxEkiMsnt-qY7UqNoEfgrDCXDU7eWonEmSNJb-zGToXQ&oe=6ABD9650"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789628400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2082360642647836"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 128,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2082360642647836"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 128,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "2082360642647836",
+        "page_id": "114027824929090",
+        "page_name": "פט-בול",
+        "page_url": "https://www.facebook.com/petbull605/",
+        "page_like_count": 128,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "פט-בול",
+        "body": "יש לכם כלב או חתול? החג הזה הולך לעלות לכם פחות. 🐶🐱\n\nאספנו את המוצרים שאתם קונים להם גם ככה, והורדנו מחירים במיוחד לחג.\n\nאוכל איכותי לכלבים ולחתולים, חטיפים, חול, פדים, מיטות, משחקים ומוצרים נגד פשפשים וקרציות.\n\nאבל זה לא נגמר במחיר.\n\n🎁 במבצעים נבחרים מחכות לכם גם מתנות\n🚚 משלוחים עד הבית\n💥 והנחות של עד עשרות שקלים על המוצרים שאתם באמת צריכים\n\nלדוגמה:\n\n2 שקי אנרקרוק ב-410 ₪ במקום 440 ₪ + 5 שקיות חטיפים מתנה\nנטורל סופר פרימיום ב-310 ₪ במקום 330 ₪ + 5 שקיות חטיפים מתנה\nחול מתגבש לחתול - 2 ב-100 ₪ במקום 130 ₪\nמיטה מעוצבת ב-270 ₪ במקום 350 ₪ + משלוח חינם\n\nויש עוד.\n\nתבחרו את המוצר שמתאים להם ותנצלו את מחיר החג לפני שהמבצעים מסתיימים.\n\n🐾 פט-בול - כי גם להם מגיע לקבל משהו לחג.",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813837230_2144855922797750_7658005470793663738_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wBnksBgvjhoQ7kNvwEmA2sD&_nc_oc=Adprylhqtfy_dLVJtsna_VZUeG5-rTJwM3pn5kou1rKfqZwFPDa-gIy1A5_Au0FlJ4U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQImUOJP4lMtq4tXxVyt7XFF5tEFAbe6sSr42AHbJB18rQ&oe=6ABDA23F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813901333_958460099980566_3488629745540826383_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nGnCBXLYpWMQ7kNvwEfRwoO&_nc_oc=Adp5GT1UvSKkyJ9ERrSmzY8LpIs8Ws7s6TyRkxPRuwn34jXPj5s1WFK1HbcpzrAyBkk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQKqZezo3Auj1Cc0acAwCGSbuFlk6jtTtH8RtPOYn6NXgg&oe=6ABDB137",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813320866_2254906405297457_2708854717507314632_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GojbYQd986EQ7kNvwH8DKst&_nc_oc=AdosyhB5KtbCXDzS4IrsP4z7qnwVJGXCvCDPO1nWfPPUuKi_Y_tHfLIZ5jccZGJBgFM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQLOJXBnjo2l47d9uCxI0bJjkXsk9N4yGgjZ6jhjPjChIQ&oe=6ABDCE90",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813878278_1601170761464677_7795289866718231713_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=skcedaNfhg8Q7kNvwFUxlN4&_nc_oc=AdpncitB_lJKqJ1y_FxbVXqsfQnG87BlG0ew9n0x-K_6bGqjIRDsex1B0qABkDnZ3PA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQLmhQNHMLraRE8KmB68gHiaFSA1z92062MJL14ebpnNMQ&oe=6ABDAE50",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813976082_1487792053383705_2519799776158359266_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qyx71UJ-vf0Q7kNvwG03qLZ&_nc_oc=AdrnAeCjaNVIxRRV5EWePxJwZbD2vuta-U_3QOGqaFqcQ6pbMSj8DwVDQ1TsQgMna78&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQLofBcD44zr6iNFlrZjoIPoWcnfBibFRRmLr3rbpw8OBw&oe=6ABDCAEF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813912039_1612519096945217_6176433361022101452_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6NRYfOqDEQIQ7kNvwGXSZ00&_nc_oc=AdpiYqRK_qB_xqGgtufSbMkgHs8lZZlMKdxRKSCZPH59FS-AA9KJFqJcknsvoeJ124M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQLULGlMmlkKAKmIjNOO24W9sqlUQax286A_Rwrkb1RKpQ&oe=6ABDC372",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814310167_2211629836236126_2488044296247811374_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=etmoOFgpJlsQ7kNvwHk4Dp8&_nc_oc=AdpCM6n7ADsp4I_YPEOI4mdQqzFIhX_zsfLF6dYHUn7yRCb5nmdMv37oVg1zdD7dZlM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQJG2aA334mLCzGz3F5lxkcVjJm2MIlAVq1Pf3FgLQhVvQ&oe=6ABDAF3C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814800441_1598579991642158_3730099541189628594_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eKj_TDC5A98Q7kNvwH2mJXu&_nc_oc=Adrolpbuo9u7ONf465Qty_cNTB6T11A8DSxE4svwj3rbdixi2gNhWv4d2_Xv34bmmL8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i8s1F7NaDdKkbJevmd6wVg&_nc_ss=70289&oh=00_AQIhdS_HYwv98KAlknsC8bR-AZJQy5oqKLgRH26VRT030Q&oe=6ABDC8C2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2082360642647836"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "rejected": "2026-09-26T15:09:55"
+  }
+}

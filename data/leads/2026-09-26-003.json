@@ -1,0 +1,1309 @@
+{
+  "lead_id": "2026-09-26-003",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://anipet.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "info@anipet.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/anipet.stores/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/anipet_israel/",
+      "source": "https://www.anipet.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "175164359204502",
+    "page_name": "Anipet אניפט",
+    "active_ads_count": 61,
+    "search_keyword": "חיות מחמד",
+    "sample_ads": [
+      {
+        "ad_id": "1402927738676373",
+        "link_title": "Chat with us",
+        "body": "הרשת הגדולה והמקצועית לחיות מחמד",
+        "landing_url": "https://www.instagram.com/",
+        "cta_type": "INSTAGRAM_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702557689_1522979336282350_8767731571454357183_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PFeyiNO8pMUQ7kNvwFNY21v&_nc_oc=Adobdvl08KgwHrT0ZYqaMtWsuNKy_hto8GTtdKtnTIzqYDCW3ljhj2eaHP9V5CU2VFM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQLEH3T5kTL_8zGoQlT6FGJMgFGaixY3fewPh2uzvhcM0A&oe=6ABDA827"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779174000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1402927738676373"
+      },
+      {
+        "ad_id": "2180374289203798",
+        "link_title": "להשיג באניפט",
+        "body": "שומרים על ארגז נקי וחתול מאושר! 🐱✨\nחול איכותי לחתולים מציע פתרון מושלם לשמירה על היגיינה, ספיגת ריחות עוצמתית והתגבשות מהירה – לבית רענן ונעים בכל יום.\n\nרוצים להעניק לחתול שלכם את הטוב ביותר?\n\nלהשיג באניפט",
+        "landing_url": "https://www.anipet.co.il/category/207/%D7%97%D7%95%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772194359_1534576001313404_7779929803423836365_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvjJDT4v90sQ7kNvwEW0CBD&_nc_oc=AdqHeDtMgUVtAcXZ6Kp6w9yWkcsY67kzomRGj_RTdu7Xm7OnRoAZvtFlKETkLuBiYvg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQKzCwiqmFOtesN0KzQtFU9r96IgySrMDtWRnjkdnDlFIg&oe=6ABD9930"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1786431600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2180374289203798"
+      },
+      {
+        "ad_id": "1729482041662845",
+        "link_title": "{{product.description}}",
+        "body": "מזון פרימיום לחיות מחמד מציע רכיבים איכותיים, טעם נפלא ותזונה מאוזנת בכל ארוחה .\nבריאות, חיוניות ופרווה מבריקה בכל יום.\nרוצים להעניק לחיית המחמד שלכם את הטוב ביותר?\nלהשיג באניפט",
+        "landing_url": "http://www.anipet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786352909_2729846217412281_2055519296400478199_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x2Vsfr721r4Q7kNvwHRl2pf&_nc_oc=AdoZcrxAzadjHuVhn1zJzPkmj7sYVSNw1exc-YzL_H8hI2m0bhdu52KbuJjt9MLBnV4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQL3NApt3OcpZoUynJS-LT_lIdJcfUwGtXJi-wz3ASWSvA&oe=6ABD9C8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788461472_1106122445708752_4628972029948986543_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vhDa4Iia9tsQ7kNvwH51sIK&_nc_oc=Adqm6JFnpvYluO4RfDBeSY_b3Vk1nyHvA4NWb80j7Xok48WZ9lI8yPnaTmb4dGnbCzc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQKxXyOy3tmmNbdNQtNJWIj0udC2T8_7Y3IsgznttMrrTw&oe=6ABDBE45",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786811132_1107402895291859_9215191317246063556_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2z3pz7Q-SQsQ7kNvwE6IHNQ&_nc_oc=AdpxBD3DoOPPogrtCAcLw85daiG1x8oyhtFzsfCV3Qoc7ualyEqyIilFp_GQzf9QeqQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQKTj3jAwb3qNNkUbrk8c4ONvkjCN7f2C1gpxXLyMogClA&oe=6ABDABF7"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1788332400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1729482041662845"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 61,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "INSTAGRAM_MESSAGE",
+        "SHOP_NOW"
+      ],
+      "page_like_count": 17228,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1402927738676373",
+      "2180374289203798",
+      "1729482041662845"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "INSTAGRAM_MESSAGE",
+      "SHOP_NOW"
+    ],
+    "page_like_count": 17228,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "1402927738676373",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "הרשת הגדולה והמקצועית לחיות מחמד",
+        "link_description": "",
+        "landing_url": "https://www.instagram.com/",
+        "cta_type": "INSTAGRAM_MESSAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1779174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702557689_1522979336282350_8767731571454357183_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PFeyiNO8pMUQ7kNvwFv9IGl&_nc_oc=AdpvtKlqYyzaezCJCUDyWCJjx-3l9c0r0044S0THCqiOTdPtG-RP50XP_y3dOZRvM8U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJEJONXPdFEj-u5DBOVnxoYg2vRvtPE98SDEXpwsYMC1g&oe=6ABDA827"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1402927738676373"
+      },
+      {
+        "id": "2180374289203798",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "להשיג באניפט",
+        "body": "שומרים על ארגז נקי וחתול מאושר! 🐱✨\nחול איכותי לחתולים מציע פתרון מושלם לשמירה על היגיינה, ספיגת ריחות עוצמתית והתגבשות מהירה – לבית רענן ונעים בכל יום.\n\nרוצים להעניק לחתול שלכם את הטוב ביותר?\n\nלהשיג באניפט",
+        "link_description": "השוו חול לחתולים מהמגוון הרחב בישראל בהתחייבות למחירים הזולים בארץ. משלוח מהיר חינם בהזמנות החל מ-₪200, שירות מקצועי ופריסת הסניפים הרחבה בישראל.",
+        "landing_url": "https://www.anipet.co.il/category/207/%D7%97%D7%95%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772194359_1534576001313404_7779929803423836365_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvjJDT4v90sQ7kNvwH1RCP4&_nc_oc=AdogoPSMCITxnA4SNu5yrMNUuXnkxLAN819hGgDTZw4kidkCmwuBKW9ER_O6dtzmXtk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIJnBPr-Nnm1li3Er-IG60ptCAqhctkfywKWSlYEYSkpA&oe=6ABD9930"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2180374289203798"
+      },
+      {
+        "id": "1729482041662845",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.description}}",
+        "body": "מזון פרימיום לחיות מחמד מציע רכיבים איכותיים, טעם נפלא ותזונה מאוזנת בכל ארוחה .\nבריאות, חיוניות ופרווה מבריקה בכל יום.\nרוצים להעניק לחיית המחמד שלכם את הטוב ביותר?\nלהשיג באניפט",
+        "link_description": "אניפט היא הרשת הגדולה בישראל למזון וציוד לחיות מחמד עם 44 סניפים ברחבי הארץ. מגוון ענק של מזון לכלבים וחתולים, חול לחתולים, חטיפים, צעצועים וציוד מקצועי עם משלוח מהיר ....",
+        "landing_url": "http://www.anipet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786811132_1107402895291859_9215191317246063556_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2z3pz7Q-SQsQ7kNvwGl1dDo&_nc_oc=AdrnVoDVaJF-608EsDlBSKO9KjyPL1Z1A6Te_Je3hw23sKgbNTgvb0iHvEgJeja95Q4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQLYU9wvf9hVNY9zBtBEGmgxaJ10Qo1qqap6o4dL66Qwpg&oe=6ABDABF7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788461472_1106122445708752_4628972029948986543_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vhDa4Iia9tsQ7kNvwF3hDJz&_nc_oc=AdrzffzQiIqO09cxndY26fbtWY4KgvV-i5_il-5mX-KQBw3t1AErHSw5i4X1LayhkdM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQK5ySyTPA-VGkOPgbAo7_263IFoaMbpleRscANAH76W6g&oe=6ABDBE45",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786352909_1419468737065156_6735005182865223144_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FBZg_71QZRMQ7kNvwGX3ak-&_nc_oc=AdphFVGOyQ_3du05fVktC4Ev4RV8Mph_LC0KbPVjcVYHOSdE5VAOH1PjsUQTx_1ITgQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJO5Fl4YRcSTxH3221QnJvVOaq4KMB4s0Fvt7fzRUg8_Q&oe=6ABDC9BB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786352909_2729846217412281_2055519296400478199_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x2Vsfr721r4Q7kNvwF2I_c-&_nc_oc=Adr8OtK2RUMPnLx79MTIFC5UP_bLxigHDBYo_kC-ygqKMoHGh4DYjDyyrkb9bYGSQbU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIHlIjrX6HSRxkdf9FXOlqAw_CVD3aXMNkG3FkVxaco9Q&oe=6ABD9C8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787074055_1820288652476629_7639758843408073284_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2uDJ7_w8FncQ7kNvwGRhkcD&_nc_oc=AdpmEkgn-Mmh_uBZgVyGxfQzY3Krz3SkarhVnV-VcxgRuz9_bCX3izPmTut3xVR7h1k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJmI1vzKhmJpnKwCef1k2_xOApzei8dIlFiPgek5GR2Dw&oe=6ABDC2E3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791453476_4656685441274011_4402393381936485509_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eE53fNGwcsoQ7kNvwHb4Fal&_nc_oc=Adpr7-MZ4iSt9KP-nO91mkT8hUrHgRVL9mralrIhye2AHFqKVEPDXmAt3Iz6puEa2DU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKFZxy6OXB2e77ECD-drdNhgvdGVCPL-gSszEXhzASlNg&oe=6ABDBABD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1729482041662845"
+      },
+      {
+        "id": "2251871848986906",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "12 פאוצ'ים רויאל קנין ב־79 ₪",
+        "body": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "link_description": "12 פאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790993373_1387942126781509_7540900431950526933_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nyT_IYRSBGkQ7kNvwEvuIsT&_nc_oc=AdoHsPEfBd10DpmVvhY5Qbyav4unWJqTWuyT-cyzjv-YdkmYp7CHU4OxH81JOF71H1s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIUCcGTxaub7pujH8QGhGSYsTZq3UtgjCKqdrZKkv1g6w&oe=6ABDA366",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790993373_1387942126781509_7540900431950526933_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nyT_IYRSBGkQ7kNvwEvuIsT&_nc_oc=AdoHsPEfBd10DpmVvhY5Qbyav4unWJqTWuyT-cyzjv-YdkmYp7CHU4OxH81JOF71H1s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIUCcGTxaub7pujH8QGhGSYsTZq3UtgjCKqdrZKkv1g6w&oe=6ABDA366"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2251871848986906"
+      },
+      {
+        "id": "1053719167482970",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "12 פאוצ'ים רויאל קנין ב־79 ₪",
+        "body": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "link_description": "12 פאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818384742_4007578262872436_1974766603587718514_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L14Zg5m9GS0Q7kNvwHg4MEG&_nc_oc=AdokikxlZ-Y-1VpBgUqtOyCH2zyaehQ-77PPQbKH2-5G8Fl5486WMX2mXMlcalf3zzQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQK_xU2J2AgBx-3peNMCcULe4kujLC0AkTzBNFpyVl3lEQ&oe=6ABDB50B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818384742_4007578262872436_1974766603587718514_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L14Zg5m9GS0Q7kNvwHg4MEG&_nc_oc=AdokikxlZ-Y-1VpBgUqtOyCH2zyaehQ-77PPQbKH2-5G8Fl5486WMX2mXMlcalf3zzQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQK_xU2J2AgBx-3peNMCcULe4kujLC0AkTzBNFpyVl3lEQ&oe=6ABDB50B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1053719167482970"
+      },
+      {
+        "id": "1537578224127995",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "להשלמת הרכישה >>",
+        "body": "לא שכחת משהו? \nהמוצרים שראית באתר עוד מחכים לך\n\nלהשלמת הרכישה >>",
+        "link_description": "",
+        "landing_url": "https://www.anipet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1785740400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764881326_28011443261818564_7215335818520513001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LwFf0jVzeigQ7kNvwFTD70Q&_nc_oc=AdpMm1NAIIeoZsoB0-EODMoCZjJPWMjysUOuTbKijnve73M7OQgC7F-foSVm8L8irIk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQL1yicA2KDMNTZsOiEh3ZWOPpDEUKjMHCeAT4UJhSii2g&oe=6ABDC907"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1537578224127995"
+      },
+      {
+        "id": "1063788429837734",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "לשיחה לסניף >>",
+        "body": "אם הכלב או החתול שלכם היו מכינים רשימת קניות, איך היא הייתה נראית? 🐾\nאוכל אהוב, עוד חטיפים, צעצוע חדש… ועוד חטיפים, ליתר ביטחון.\n\nתושבי שילת, כפר רות ולפיד — בואו לסמן וי על הרשימה באניפט שילת!\n\nמחכים לכם עם מזון, חטיפים, אביזרים וצוות שיעזור לכם לבחור את הכי טוב בשבילם 🐶🐱\n\n🚚 עמוסים? יש גם משלוחים עד הבית.\n\n📍 אניפט שילת | מרכז ירדן\n📞 לפרטים ולהזמנות: 076-8099009",
+        "link_description": "📞 לפרטים ולהזמנות: 076-8099009",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795662337_1392477179761238_6343647807114928756_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E1krrIxUsxsQ7kNvwG9jzrC&_nc_oc=AdpvFQqQ8Jkfk1nRZUAURH6gu3Z3YYrWF-GDIInaAi8zHfB3FyCPbb2veBstyI3oP1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKtK1MyRo5VOn-C8l8k2Gnh3dzn56EbKKS9MmYmNreC4A&oe=6ABDAFD3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPAXuJbL5H2cCxPjHns3L4U4Vhe7aionUsJ6lSeXCu-bdzgMSb_F4uImGKKXlmO9VvACaB1QhmYAN4dowogtOGh96p5z4zIB6zC8XJGtb5xeA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4qN4y-ZxG1MQ7kNvwEToT_D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMDMwNjcwMDcwMDIyMjEsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4f07daad5e0fc7ff&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQyOUVGQkI3MTM5NThDOEUzQkNDMUU4MjRFRTFCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdBNENGMDVBNTRGNTQ5RUVBQkNERDdDM0E2QjY3NkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbamaGezq68BxUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIyPkHSq7_oohf0HdBZk3lXYy7gUdFoL10laBBRPC69hw&oe=6ABDB1CB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1063788429837734"
+      },
+      {
+        "id": "2109587873773335",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "12 פאוצ'ים רויאל קנין ב־79 ₪",
+        "body": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "link_description": "12 פאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792120564_1403436895090091_1810251090227525815_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-AjNFzzemsUQ7kNvwHls1JM&_nc_oc=Adr5IIvoKdJ4oRIFxr8Zy-EzL_dYNgrSsXTiVgm-KnRy94LIjFUS_mXJzcWNinPQuSw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIZB1UeIZc2YjA78x5tfwPXC_Q3zyw1Rz_Ne0Y1N7O9ZA&oe=6ABDADDE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNuNQ3IP7X6htUBhxzq74icsjNCqOiLsAZLpBYy6JuJLoPimmWX5tZii-kVhcpzXLUe0r_6uOXVgLU7hM3fKMLg5y7AyxHqJ1dWPSI5cRKFSQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=c9WgbL40t9MQ7kNvwHx8e88&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI3NDA2MDMxNTA2NDAsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e37229fc76825bb7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOTQ4MDBERUYxQjY4MEM0QUI0QjlBMjlBOTZGNThBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE4NEFGNTY1QTIwMDVEMjhEN0MzNzVEQjQ3QzA4M0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbghPLzz-6KBhUCKAJDMywXQDjmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLbnsJ1CeQEIcbwRyE01KauG8dY1Q8kC2-pLeqp9wJBQA&oe=6ABDA860"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2109587873773335"
+      },
+      {
+        "id": "1439734641406879",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "12 פאוצ'ים רויאל קנין ב־79 ₪",
+        "body": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "link_description": "12 פאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792120564_1403436895090091_1810251090227525815_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-AjNFzzemsUQ7kNvwHls1JM&_nc_oc=Adr5IIvoKdJ4oRIFxr8Zy-EzL_dYNgrSsXTiVgm-KnRy94LIjFUS_mXJzcWNinPQuSw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIZB1UeIZc2YjA78x5tfwPXC_Q3zyw1Rz_Ne0Y1N7O9ZA&oe=6ABDADDE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNuNQ3IP7X6htUBhxzq74icsjNCqOiLsAZLpBYy6JuJLoPimmWX5tZii-kVhcpzXLUe0r_6uOXVgLU7hM3fKMLg5y7AyxHqJ1dWPSI5cRKFSQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=c9WgbL40t9MQ7kNvwHx8e88&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI3NDA2MDMxNTA2NDAsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e37229fc76825bb7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOTQ4MDBERUYxQjY4MEM0QUI0QjlBMjlBOTZGNThBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE4NEFGNTY1QTIwMDVEMjhEN0MzNzVEQjQ3QzA4M0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbghPLzz-6KBhUCKAJDMywXQDjmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLbnsJ1CeQEIcbwRyE01KauG8dY1Q8kC2-pLeqp9wJBQA&oe=6ABDA860"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1439734641406879"
+      },
+      {
+        "id": "1096742239674301",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "24 יח׳ Fancy Feast ב־125 ₪",
+        "body": "יש פינוקים שפשוט אי אפשר להגיד להם מיאו 😻\n24 יחידות Fancy Feast ב־125 ₪ בלבד במקום 165.5 ₪.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D-%D7%A7%D7%91%D7%95%D7%A2%D7%99%D7%9D?filter.v.price.lte=470&filter.v.price.gte=0&filter.p.vendor=%D7%A4%D7%A0%D7%A1%D7%99+%D7%A4%D7%99%D7%A1%D7%98&sort_by=most-relevant",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793000800_1049219284570584_2404721282247208380_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YvWucAbG3GsQ7kNvwE53kJz&_nc_oc=AdpW_tfvFLNMF-ZvIpop3f9dEGuQsAXmi1bk1_mvfUoB_MMZH_9v1dXhYkDV7crMXOE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKT9qyAQmCzVo6vQn9MQV7hwRQ9DIxOf1ri0TAHTGz4tQ&oe=6ABD96AF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNbfXdiLaYMMFDflcRKxB21844rPkxjPSqzPI2mrwBcbDVEs3sMOG8Qz2qSKuu_Mk2_MaOucZJdhSnucUysagYjdkNT5sM0bslAVa-3SxHiOA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=31czRdju5MwQ7kNvwEPdAuE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTQ0NDY2NDUzNTE1MDEsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=81e9ed00f63890d6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NTQyQkEyNTM0RURCMDg2QjE1RkY2RDY4MDlERjQ5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y5NEFEMzhEQ0REQUQxNEY1NEQwQTk3NzIyODA1RTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa0aKPvY_6BBUCKAJDMywXQEpAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJacEBy9hBJ3CbyuOZKYBxXTtw8-N9zEj4kjrDaQgSm-A&oe=6ABDA957"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793000800_1049219284570584_2404721282247208380_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YvWucAbG3GsQ7kNvwE53kJz&_nc_oc=AdpW_tfvFLNMF-ZvIpop3f9dEGuQsAXmi1bk1_mvfUoB_MMZH_9v1dXhYkDV7crMXOE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKT9qyAQmCzVo6vQn9MQV7hwRQ9DIxOf1ri0TAHTGz4tQ&oe=6ABD96AF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNbfXdiLaYMMFDflcRKxB21844rPkxjPSqzPI2mrwBcbDVEs3sMOG8Qz2qSKuu_Mk2_MaOucZJdhSnucUysagYjdkNT5sM0bslAVa-3SxHiOA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=31czRdju5MwQ7kNvwEPdAuE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTQ0NDY2NDUzNTE1MDEsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=81e9ed00f63890d6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NTQyQkEyNTM0RURCMDg2QjE1RkY2RDY4MDlERjQ5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y5NEFEMzhEQ0REQUQxNEY1NEQwQTk3NzIyODA1RTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaa0aKPvY_6BBUCKAJDMywXQEpAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJacEBy9hBJ3CbyuOZKYBxXTtw8-N9zEj4kjrDaQgSm-A&oe=6ABDA957"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1096742239674301"
+      },
+      {
+        "id": "2091547925065135",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "לפרטים ולהגשת מועמדות >>",
+        "body": "אניפט מחפשת את הדור הבא של המנהלים - ומגייסת את העתודה הניהולית של הרשת.\n\nאוהבים חיות, טובים עם אנשים ותמיד אלה שלוקחים יוזמה? אנחנו רוצים להכיר אתכם!\n\nאנחנו מחפשים אנשים עם ראש גדול, תחושת אחריות ורצון להתפתח בניהול.\nכאלה שרוצים להוביל צוות, לתת שירות מעולה ולהביא את האנרגיה שלהם לעולם שכולו חיות.\nמרגישים שיש לכם את זה?\n\nלפרטים ולהגשת מועמדות >>",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813525930_1590587019479201_7794349925839628737_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=29vR2O6eCXkQ7kNvwELvnfS&_nc_oc=AdoTd3yRSxa4sbcO1R3zeIDf1IgzU4JVV9Flvz-Sh2a2rgYH5e1FRnm0ocn-Uk37bHI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIqdneIduopNIgf6EsfIdtKSV63zF5-wj0OnPzQOnNhtg&oe=6ABDBF5D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2091547925065135"
+      },
+      {
+        "id": "1369452818690635",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "10 חטיפי Buddy ב־99 ₪",
+        "body": "זה הזמן למלא את מגירת החטיפים 🐾\n10 חטיפי Buddy ב־99 ₪ בלבד, במקום 199 ₪.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D-%D7%A7%D7%91%D7%95%D7%A2%D7%99%D7%9D?filter.v.price.lte=470&filter.v.price.gte=0&filter.p.vendor=PetEx&sort_by=most-relevant",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/791453500_1769249787554372_4793885449249299226_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKT_PbL_HSMQ7kNvwH0Q1_s&_nc_oc=AdoCBIGziM0zKAzNio2G6G5iXZT2YGKCAxB-xDYY7oi1-ujVHu9qwFsQADU6vqOU0Cc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQITI1jvRAruuZCQH6GZcYkkJkOgCIGEkJHOxlU4ermNIw&oe=6ABDCA0C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4mjsaog4yk3q4UIu2vmU-2x_SWI3siGKT2aSeGTPbBB6Gpzzdbn5JvycgolKU8KIJih_1_yD2G6cQiH-boPCPb1WQyNNPnK60XjvshdtMEg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=V1ag0Fxpjj4Q7kNvwFgIFlA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTgzNTk1MzUwNzc5MTksImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ac932ea1fe06656a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzQ3NEY2NzAzRjA0NTg4MzFBOEI5QzZCQkI3Q0E4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MxNDU5MDYwREEzOEZGMDMyRkE0OUY5NTcwMEE3N0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-qM63_82fBhUCKAJDMywXQEMiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKnqzaHNp2aiBi7v7LGeO0IugdYiKmfqhtM7OzE8wH4iw&oe=6ABDB524"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/791453500_1769249787554372_4793885449249299226_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKT_PbL_HSMQ7kNvwH0Q1_s&_nc_oc=AdoCBIGziM0zKAzNio2G6G5iXZT2YGKCAxB-xDYY7oi1-ujVHu9qwFsQADU6vqOU0Cc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQITI1jvRAruuZCQH6GZcYkkJkOgCIGEkJHOxlU4ermNIw&oe=6ABDCA0C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4mjsaog4yk3q4UIu2vmU-2x_SWI3siGKT2aSeGTPbBB6Gpzzdbn5JvycgolKU8KIJih_1_yD2G6cQiH-boPCPb1WQyNNPnK60XjvshdtMEg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=V1ag0Fxpjj4Q7kNvwFgIFlA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTgzNTk1MzUwNzc5MTksImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ac932ea1fe06656a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzQ3NEY2NzAzRjA0NTg4MzFBOEI5QzZCQkI3Q0E4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MxNDU5MDYwREEzOEZGMDMyRkE0OUY5NTcwMEE3N0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-qM63_82fBhUCKAJDMywXQEMiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKnqzaHNp2aiBi7v7LGeO0IugdYiKmfqhtM7OzE8wH4iw&oe=6ABDB524"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1369452818690635"
+      },
+      {
+        "id": "1622942699180448",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "שק השני ב־20% הנחה",
+        "body": "הכלב שלכם אוכל ADVANCE? זה בשבילכם 🐾\nקונים שק מזון יבש לכלב 12 ק\"ג ומקבלים 20% הנחה על השק השני.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=%D7%90%D7%93%D7%95%D7%95%D7%A0%D7%A1&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790308314_1059367916845842_4746261419215789807_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F_wckjFMdpwQ7kNvwEnvg-j&_nc_oc=AdpobMifc3HtjmXECoH-zmHSxzK8HoU-ao0oF02TYv1JnZzkwchBiPkOEzmijoaVxr0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJKwo9b-ExpAlW3OtqRG2CLDPJUi0-vjiKLQWvET4UBqw&oe=6ABD9D71",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN3pCtQTS1Yfa43x2--YrNHuKfJ3Qh9UMYmOcpg6n8-M6_hKnVfEgushjFVYK2UDKOa6kxt95aihvccOfDr3QQBknt712x_0ppiUa5sS3zINw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wEjfGCtTXLUQ7kNvwEU4cud&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODE1MDQ3Mzc0MjQ2OTcsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d126db9b428fbdfc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CODQ1NjAyQUZDNzBCRDM3REI1MzY4NUYzNUUxQzhCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNEZDRUQ2NEEwQkVGN0U4NjhFQTU5NUQwMDY5RDg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby1ImylJ70BBUCKAJDMywXQEkRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ25xNX-62K1ijY7xYoY3qJ5--_auRpQWlRexXjZTZ83A&oe=6ABDA25B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790308314_1059367916845842_4746261419215789807_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F_wckjFMdpwQ7kNvwEnvg-j&_nc_oc=AdpobMifc3HtjmXECoH-zmHSxzK8HoU-ao0oF02TYv1JnZzkwchBiPkOEzmijoaVxr0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJKwo9b-ExpAlW3OtqRG2CLDPJUi0-vjiKLQWvET4UBqw&oe=6ABD9D71",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN3pCtQTS1Yfa43x2--YrNHuKfJ3Qh9UMYmOcpg6n8-M6_hKnVfEgushjFVYK2UDKOa6kxt95aihvccOfDr3QQBknt712x_0ppiUa5sS3zINw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wEjfGCtTXLUQ7kNvwEU4cud&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODE1MDQ3Mzc0MjQ2OTcsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d126db9b428fbdfc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CODQ1NjAyQUZDNzBCRDM3REI1MzY4NUYzNUUxQzhCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNEZDRUQ2NEEwQkVGN0U4NjhFQTU5NUQwMDY5RDg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby1ImylJ70BBUCKAJDMywXQEkRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ25xNX-62K1ijY7xYoY3qJ5--_auRpQWlRexXjZTZ83A&oe=6ABDA25B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1622942699180448"
+      },
+      {
+        "id": "1428708525909363",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "ACANA – שק שני ב־20% הנחה",
+        "body": "🐶 יש מבצעים שפשוט גורמים לזנב לקשקש.\nקונים שק ACANA לכלב, 9.7 ק\"ג ומעלה, ומקבלים 20% הנחה על השק השני.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=332.66&filter.p.vendor=%D7%90%D7%A7%D7%90%D7%A0%D7%94&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790262954_1725640438743191_6069867903038371591_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rpP78PGnLT8Q7kNvwFNc5i1&_nc_oc=AdqHl33ItBGj5E5OIvVsQL4hZ15HoUp4lwYQ4FzMYxeT8ZLb76aNj0iL2D7RgxyjpXw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKfo9wdo1a7vDCz58pGK1GHmZOFdUiqEw91m9IX_GmrYA&oe=6ABDBF36",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLU8a1QtT7dZ5U4_H8mBA2afH9uuSPc7m3SCgY5j1dE8j62EU8HuiFi9FeYxedSuB-QxUVuxwrwFvDPckBLQs-CmWUharAfpZjmPKJGWBFTA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9hVB22QfOnQQ7kNvwGkhy4i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTMxMTc2NjY3Nzc3NDYsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c10da622ffd35fcc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjQ5OTA1ODhGQUM5MkMyOTA2NDMyOTRDODdCNDE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDIzNzdFMjBCODEzQzZENTE0RTU4RENENTI3RjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak6sKlyuaUBRUCKAJDMywXQERqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLruL3_qsoOilWUUpqYBaWqD_qWH9mJRnru62lBqEM4zQ&oe=6ABDCAAF"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790262954_1725640438743191_6069867903038371591_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rpP78PGnLT8Q7kNvwFNc5i1&_nc_oc=AdqHl33ItBGj5E5OIvVsQL4hZ15HoUp4lwYQ4FzMYxeT8ZLb76aNj0iL2D7RgxyjpXw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKfo9wdo1a7vDCz58pGK1GHmZOFdUiqEw91m9IX_GmrYA&oe=6ABDBF36",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLU8a1QtT7dZ5U4_H8mBA2afH9uuSPc7m3SCgY5j1dE8j62EU8HuiFi9FeYxedSuB-QxUVuxwrwFvDPckBLQs-CmWUharAfpZjmPKJGWBFTA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9hVB22QfOnQQ7kNvwGkhy4i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTMxMTc2NjY3Nzc3NDYsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c10da622ffd35fcc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjQ5OTA1ODhGQUM5MkMyOTA2NDMyOTRDODdCNDE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDIzNzdFMjBCODEzQzZENTE0RTU4RENENTI3RjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak6sKlyuaUBRUCKAJDMywXQERqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLruL3_qsoOilWUUpqYBaWqD_qWH9mJRnru62lBqEM4zQ&oe=6ABDCAAF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1428708525909363"
+      },
+      {
+        "id": "1431914432173845",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "Brokaton  שק השני ב־20% הנחה",
+        "body": "שק גדול זה טוב. שניים במבצע זה כבר יותר טוב 😉\nבקניית שק BROKATON במשקל 20 ק\"ג – 20% הנחה על השק השני.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=%D7%91%D7%A8%D7%95%D7%A7%D7%98%D7%95%D7%9F&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790591027_2144554576475300_4326106446237937522_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EPDLCC3ea5YQ7kNvwEKqYjU&_nc_oc=AdqmprL_8uuuR0sgPNughtikQ_5m9mspcqj9QmYT_Ca1QUXdPeQX3W4MJsGyzmFNxvw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIl3K2LcEM3FyfwUd3whIrMvZRpydnyzNQTtCE5-_mhng&oe=6ABDBA65",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790591027_2144554576475300_4326106446237937522_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EPDLCC3ea5YQ7kNvwEKqYjU&_nc_oc=AdqmprL_8uuuR0sgPNughtikQ_5m9mspcqj9QmYT_Ca1QUXdPeQX3W4MJsGyzmFNxvw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIl3K2LcEM3FyfwUd3whIrMvZRpydnyzNQTtCE5-_mhng&oe=6ABDBA65"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1431914432173845"
+      },
+      {
+        "id": "1778838256704881",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "הסופ״ש עובר מהר. גם הסייל שלנו.",
+        "body": "🔮 עתידות: המשלוח הבא שלכם הולך להיות מפנק במיוחד. המחיר? גם 😉📦\nה־FLASH SALE של אניפט כבר ממש כאן, והוא לסופ״ש בלבד. 20% הנחה על מוצרים נבחרים באתר. כדאי למהר, לפני שייגמר 🐾\n\n*בתוקף בתאריכים 24-26.9, באתר אניפט בלבד.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/weekend-sale",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/822081351_1602253714780572_8789709070637091763_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NNpQH6XOuXgQ7kNvwEWHpH-&_nc_oc=AdpDVti8e2beQ8lJTPD_XmdbjsACDRj9uUqwNMpgV416Wy1IZaUEkli02h03duv7TbA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJq9vTJLV6NkQiCCLpYILjSnJgEEKcJKAOWAr1fPKl_mQ&oe=6ABDB36C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/823758437_1429527859283095_3846767196931534899_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tlqVKbXCD-AQ7kNvwELWk01&_nc_oc=AdpdqxLyilurbVEuehJawxeTQdSVZjBGT9dOKp1P4g2_Y__ZpPq7ZyG56fFxcG4_bPk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQLF6ouMBhmXVwcfs5736P1JJhXxhBe8p_Um519ixork9w&oe=6ABDA6C4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1778838256704881"
+      },
+      {
+        "id": "1074819528498045",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "הסופ״ש עובר מהר. גם הסייל שלנו.",
+        "body": "🔮 עתידות: המשלוח הבא שלכם הולך להיות מפנק במיוחד. המחיר? גם 😉📦\nה־FLASH SALE של אניפט כבר ממש כאן, והוא לסופ״ש בלבד. 20% הנחה על מוצרים נבחרים באתר. כדאי למהר, לפני שייגמר 🐾\n\n*בתוקף בתאריכים 24-26.9, באתר אניפט בלבד.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/weekend-sale",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/823730287_38495496323432038_799317772559406693_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OnjsWPkkeUcQ7kNvwH-OXID&_nc_oc=Adrk0SiRQqVqB9kW0GkxhW6ihLBf_rE8xyR1dVbmbmUKnrKWawG-pdA75ilue9HSRhA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKgnSQNjIhKG9Hd5TBxiu-HG9OIa0Vzq7C_UrbNTdd90A&oe=6ABDA6C7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821478707_1087502704046416_8567728321823679371_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=evVmolbggeAQ7kNvwFstC5Z&_nc_oc=AdqDM1A9YJXm8nZy2l0ko7MG5StFhsmr8l2T5wYNX0ZdkSK6TZ7eKE9yASAolH6zAOE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJkOioyd2VU77C1t8Wbe4P-OQC_mr4pxUNwbU8On5e0Ow&oe=6ABDB76A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1074819528498045"
+      },
+      {
+        "id": "2940874359612901",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 13,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789760286_958399283945767_8740310658043246347_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VXYTc9fAR0sQ7kNvwHirOPg&_nc_oc=Adp1BizLuq07cshPWGjDKPRvjEwukfGMN0cTLJ1JumdAdRyyp6LdqqN5lEeFi0F8sBw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJ4eW48TBhOhRCWw3rx7XkLWFOiotSPeGbbEVxsBDggDw&oe=6ABD9B58",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2940874359612901"
+      },
+      {
+        "id": "3159968084193236",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791599692_2326830857889515_383545060238351158_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K6jq_WY2FBgQ7kNvwHNWl53&_nc_oc=AdoI0TSgtf7Oy608wwJSbr5ayqMacxvPwjlAi39838X1BjIlNwOdDibFIBppRjPVh0s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJVbJjpP6AeLdZogdq1WIPjRmLDHxbIF4MxvFRwYDlddg&oe=6ABD9E02",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3159968084193236"
+      },
+      {
+        "id": "1588556772769642",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790025320_2481598219070509_6648667245392609777_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VRwL7xXnu5YQ7kNvwF1m2Lr&_nc_oc=AdqEYQqD05F9uq8s4LOtvItKlvOYs8TThARGeNZWsMIHHqj3ApdifH0toiTWQ3iBYzQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIzIZ5dKS6IG_6sLbxcAfS329jpN8_zJIehVUjpAWRz4A&oe=6ABDB705",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1588556772769642"
+      },
+      {
+        "id": "1063884893030216",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790826406_2006291110059259_8304844372013674545_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xIf_8P-Cte4Q7kNvwG54NwP&_nc_oc=AdrKE7VL3bLcbZHFDO3ja3_VUym9vOcd2cEZ4elwk-Yyulxf6Q7YvryVWTwh6cqJNqw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJT8ZbXC9PV9ozlu5aiOUA6tue9PsERg0VDiCMjsh9OoQ&oe=6ABD9A2F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1063884893030216"
+      },
+      {
+        "id": "2271926020317955",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/788031854_2068103203913333_8067611659713600876_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FsEq-90-1NkQ7kNvwFkyCgS&_nc_oc=AdoFdCY5O477MIqfK8zkjuMN1S9-Zhg0q1-Wn59d9onMwOLkRDmjkgqNXjPtm64dyRE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKu3JTpxEw0bmZUVrRhpAE9oHb18wa1KABGnRlR6806aQ&oe=6ABDC4C6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2271926020317955"
+      },
+      {
+        "id": "919540887435619",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/792207373_1064834576331378_8344691097209446578_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g02CjF7LINcQ7kNvwE71NQ-&_nc_oc=Adq9235TPa5TX_OSknktDojzFoQFwV5RyTTGWbXq8gMmUrk9ctV7ydAjvfhcyFOoJyQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQIS5xk6qeqE_c8s68vj5DHnzhF59vnzUPaMumCSszV_dA&oe=6ABDCB91",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=919540887435619"
+      },
+      {
+        "id": "1099541865759459",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791437076_1098611672567459_6122321590789736065_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Jsi71bn00kQ7kNvwFSKWsE&_nc_oc=AdqkQmPBJoATWWSV1R8I1dWpaSHgESyaVixUeTo28hUYnTvLBMuTKkJSLyNs3akD9CY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQI5R8XU5MPoI6Gapsoac31JgoVFZY4HNU0gz3dOvkx91w&oe=6ABDC9D0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1099541865759459"
+      },
+      {
+        "id": "1424429466230133",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789612669_1876748917035776_913454402202585562_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-uqfOULdlq0Q7kNvwEJ1fht&_nc_oc=AdpfnRAXxn1agHQq4w0OunJamPGD2URxCEA52XtaTnOdW11x5NnuAF97l9rVZO1rEfE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJl0CIPsTTfNPFkAvjMhKYgVES3AOH8umlxuR5RYfjqkQ&oe=6ABDC481",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1424429466230133"
+      },
+      {
+        "id": "1094691493257995",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "אניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!",
+        "body": "אוהבים בעלי חיים ויש לכם גישה למכירות?\nאניפט מגייסת יועצי/ות מכירה לסניפים ברחבי הארץ!\n \nמה מחכה לכם אצלנו?\n☑️ סביבת עבודה צעירה ומשפחתית\n☑️ הכשרה מקצועית בעולם בעלי החיים\n☑️ בונוסים על מכירות\n☑️ אפשרויות קידום והתפתחות\n \nאוהבים אנשים, מכירות ובעלי חיים? הגישו מועמדות!",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818714500_28559727156992826_327482399906148972_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CZeFKUG5CbkQ7kNvwF_OEN3&_nc_oc=Adrv7dclj3UD-U4fYQHeMcvFTXzqh8TjDAxoLQz991zj-3YK-pkJtoFcHMXbB8fY0_g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQKgOIw2VZhRdyF1rXtFSW3t7T_BSVx-d6SQpxKR-JSosw&oe=6ABDC6B9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0ISPRvgMienzTTThzbJZynljJOY8zOw7_jf9CgAPnWhmtWh-6ssMZWxJKx7dyq0cqC9EXtMUSNEUMQzc-1UK27q8xs3nwEhtENjOZe_AQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FZAesf7NOIIQ7kNvwEi5uNc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODc1MDU3MDI3ODg0MDcsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c5207c82ce8147ed&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQ2QTg5NjUwMzJBREVCREM4NDRBODRDMzZGNURCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgyNERCQzdFMTdCN0M2QTlBMDk2RDVBNjEyNTAzRDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu9M6Iu_v2BBUCKAJDMywXQDn3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKdJgak90PCsPUJQYXD3fdj8hWV8Jl8RH3oU0yqd5Sswg&oe=6ABDC2E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1094691493257995"
+      },
+      {
+        "id": "4676641455892698",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "הסופ״ש עובר מהר. גם הסייל שלנו.",
+        "body": "🔮 עתידות: המשלוח הבא שלכם הולך להיות מפנק במיוחד. המחיר? גם 😉📦\nה־FLASH SALE של אניפט כבר ממש כאן, והוא לסופ״ש בלבד. 20% הנחה על מוצרים נבחרים באתר. כדאי למהר, לפני שייגמר 🐾\n\n*בתוקף בתאריכים 24-26.9, באתר אניפט בלבד.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/weekend-sale",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821488068_1091923233549223_1461841417328654953_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZiFLF_yEKwIQ7kNvwHgSVEy&_nc_oc=AdoF79dwyyBCQ4wVoHFNaz73ZeNnSbWY3T7wPgx0ow8t0GZKqw73W57aLsG1IeitFAY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJWWv2N3ljTN__lqcbo7Bvxx4VSXzhf_oVUheBVCwTIzQ&oe=6ABDA8C7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820064603_1444350320980919_2601776710229949871_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ng04NSvhJpYQ7kNvwFNDcnW&_nc_oc=AdoDF3nUIOpAOVmXSBMp1yIcJm0oCamSKQgXO5ZftsOGcd25bENt6Wjebr8uza8g1SI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQLZrKtp3K-2ClkVAeVOrAvnJh_smb3jHeDH4vEP5w3idA&oe=6ABDC3D4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4676641455892698"
+      },
+      {
+        "id": "1652034322975603",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "הסופ״ש עובר מהר. גם הסייל שלנו.",
+        "body": "🔮 עתידות: המשלוח הבא שלכם הולך להיות מפנק במיוחד. המחיר? גם 😉📦\nה־FLASH SALE של אניפט כבר ממש כאן, והוא לסופ״ש בלבד. 20% הנחה על מוצרים נבחרים באתר. כדאי למהר, לפני שייגמר 🐾\n\n*בתוקף בתאריכים 24-26.9, באתר אניפט בלבד.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/weekend-sale",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807590316_38587106774269962_6998120451145225767_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A8ACMgK4hS8Q7kNvwE4uYqJ&_nc_oc=AdqL8S3v4FoCMe_F0xQDNRgndyu6PLzA_j_VbEcHCvnodq_DpA3SwDyLSOdyQTYd_HI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJEHG3quLtCnUTqCLhEJgGhMglDexwo1rWKcOB3oVijcA&oe=6ABDBDE3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818334630_1429524305908661_393381334256707569_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yfjQm5GyvUYQ7kNvwEw4ApX&_nc_oc=AdozSSWxNR-WeZk0_DDIeecRBhuYSGYIqz-B9yFXDXi1gyM2VsIEWgU3UcySjEBl1s8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJgUfLXoW_fFRCkpoWTz6cFooVrLcw1pffVuu4_-odUfw&oe=6ABDBF94"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1652034322975603"
+      },
+      {
+        "id": "1080221191628298",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "קונים 4 – החמישי מתנה 🎁",
+        "body": "החתול לא צריך לדעת שקיבלתם אחת במתנה 😉🐾\nקונים 4 אריזות CAT REX ומקבלים את החמישית מתנה.\nעל המגוון המשתתף במבצע.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=CAT+REX&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791130097_1359247916355077_7946828509336912876_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9KdYWmY16w0Q7kNvwEV9CaW&_nc_oc=Adr1orGQQVa7ggLM5zlFYU6MULzbKSDsX59zFxY2mUdAe9usgWzl0mDKBN4nz3JDNec&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQLK3QnXuTDxDJt_XhXOj9rbrhycg9h08pSGl5PZXPk41w&oe=6ABDAD83",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791130097_1359247916355077_7946828509336912876_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9KdYWmY16w0Q7kNvwEV9CaW&_nc_oc=Adr1orGQQVa7ggLM5zlFYU6MULzbKSDsX59zFxY2mUdAe9usgWzl0mDKBN4nz3JDNec&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQLK3QnXuTDxDJt_XhXOj9rbrhycg9h08pSGl5PZXPk41w&oe=6ABDAD83"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1080221191628298"
+      },
+      {
+        "id": "1778378880462516",
+        "page_id": "175164359204502",
+        "page_name": "Anipet אניפט",
+        "page_url": "https://www.facebook.com/anipet.stores/",
+        "page_like_count": 17228,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "קונים 4 – החמישי מתנה 🎁",
+        "body": "החתול לא צריך לדעת שקיבלתם אחת במתנה 😉🐾\nקונים 4 אריזות CAT REX ומקבלים את החמישית מתנה.\nעל המגוון המשתתף במבצע.",
+        "link_description": " ",
+        "landing_url": "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=CAT+REX&sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791599692_1535883311186115_7741134567740828345_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ynMLlfTZM8Q7kNvwGE3ufd&_nc_oc=AdqviBCy92zRnVcoeQAXj9bfCfvUBGFdzP0g2arGtfwF1F_ZYexp3N4OUfj7TyCK71o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJ7mBcpOxA04S-tqdPFqyT8gKd1S6RPclGnQdmzv4BdeA&oe=6ABDC1B0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcH6pkEpcj_j_LSX0iYuLcoFDWr3nu8TF2_v5vgDCHnYz1URXdpfNLkgRFVps4ysflI7NNJEL2tNnZW0QWKdjGDMZLZ-WympDTGpmuWdPOcQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AhIAjs-loQwQ7kNvwFg1ArK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Nzg4MzE1MTMxNTU3ODMsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5bb63b975903f93f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjQ4NDdCNDMwNUNGNjA2NkUzNzY5RTgwMkY0Rjk5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDQyMzNGQUE2Qzg3RUM1NzdGQkRBMzhEMURDNTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO46fHz_WoBhUCKAJDMywXQDxEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4Ol1sMcm0gjfogfEDbRccIU3zWnOeWx6P6ZlrP4Sj5w&oe=6ABDAF1A"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791599692_1535883311186115_7741134567740828345_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ynMLlfTZM8Q7kNvwGE3ufd&_nc_oc=AdqviBCy92zRnVcoeQAXj9bfCfvUBGFdzP0g2arGtfwF1F_ZYexp3N4OUfj7TyCK71o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&oh=00_AQJ7mBcpOxA04S-tqdPFqyT8gKd1S6RPclGnQdmzv4BdeA&oe=6ABDC1B0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcH6pkEpcj_j_LSX0iYuLcoFDWr3nu8TF2_v5vgDCHnYz1URXdpfNLkgRFVps4ysflI7NNJEL2tNnZW0QWKdjGDMZLZ-WympDTGpmuWdPOcQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AhIAjs-loQwQ7kNvwFg1ArK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Nzg4MzE1MTMxNTU3ODMsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5bb63b975903f93f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjQ4NDdCNDMwNUNGNjA2NkUzNzY5RTgwMkY0Rjk5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDQyMzNGQUE2Qzg3RUM1NzdGQkRBMzhEMURDNTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO46fHz_WoBhUCKAJDMywXQDxEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ny9GDmhUXad7Fw7RyoiyEQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4Ol1sMcm0gjfogfEDbRccIU3zWnOeWx6P6ZlrP4Sj5w&oe=6ABDAF1A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1778378880462516"
+      },
+      {
+        "id": "1402927738676373",
+        "body": "הרשת הגדולה והמקצועית לחיות מחמד",
+        "landing_url": "https://www.instagram.com/"
+      },
+      {
+        "id": "2180374289203798",
+        "body": "שומרים על ארגז נקי וחתול מאושר! 🐱✨\nחול איכותי לחתולים מציע פתרון מושלם לשמירה על היגיינה, ספיגת ריחות עוצמתית והתגבשות מהירה – לבית רענן ונעים בכל יום.\n\nרוצים להעניק לחתול שלכם את הטוב ביותר?\n\nלהשיג באניפט",
+        "landing_url": "https://www.anipet.co.il/category/207/%D7%97%D7%95%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D"
+      },
+      {
+        "id": "1729482041662845",
+        "body": "מזון פרימיום לחיות מחמד מציע רכיבים איכותיים, טעם נפלא ותזונה מאוזנת בכל ארוחה .\nבריאות, חיוניות ופרווה מבריקה בכל יום.\nרוצים להעניק לחיית המחמד שלכם את הטוב ביותר?\nלהשיג באניפט",
+        "landing_url": "http://www.anipet.co.il/"
+      }
+    ],
+    "social_landings": [
+      "https://www.instagram.com/",
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1402927738676373",
+        "text": "הרשת הגדולה והמקצועית לחיות מחמד",
+        "links": [
+          "https://www.instagram.com/"
+        ]
+      },
+      {
+        "ad_id": "2180374289203798",
+        "text": "שומרים על ארגז נקי וחתול מאושר! 🐱✨\nחול איכותי לחתולים מציע פתרון מושלם לשמירה על היגיינה, ספיגת ריחות עוצמתית והתגבשות מהירה – לבית רענן ונעים בכל יום.\n\nרוצים להעניק לחתול שלכם את הטוב ביותר?\n\nלהשיג באניפט",
+        "links": [
+          "https://www.anipet.co.il/category/207/%D7%97%D7%95%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "1729482041662845",
+        "text": "מזון פרימיום לחיות מחמד מציע רכיבים איכותיים, טעם נפלא ותזונה מאוזנת בכל ארוחה .\nבריאות, חיוניות ופרווה מבריקה בכל יום.\nרוצים להעניק לחיית המחמד שלכם את הטוב ביותר?\nלהשיג באניפט",
+        "links": [
+          "http://www.anipet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2251871848986906",
+        "text": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1053719167482970",
+        "text": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1537578224127995",
+        "text": "לא שכחת משהו? \nהמוצרים שראית באתר עוד מחכים לך\n\nלהשלמת הרכישה >>",
+        "links": [
+          "https://www.anipet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1063788429837734",
+        "text": "אם הכלב או החתול שלכם היו מכינים רשימת קניות, איך היא הייתה נראית? 🐾\nאוכל אהוב, עוד חטיפים, צעצוע חדש… ועוד חטיפים, ליתר ביטחון.\n\nתושבי שילת, כפר רות ולפיד — בואו לסמן וי על הרשימה באניפט שילת!\n\nמחכים לכם עם מזון, חטיפים, אביזרים וצוות שיעזור לכם לבחור את הכי טוב בשבילם 🐶🐱\n\n🚚 עמוסים? יש גם משלוחים עד הבית.\n\n📍 אניפט שילת | מרכז ירדן\n📞 לפרטים ולהזמנות: 076-8099009",
+        "links": []
+      },
+      {
+        "ad_id": "2109587873773335",
+        "text": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1439734641406879",
+        "text": "12 סיבות קטנות לגרגורים גדולים 😻\nפאוצ'ים לחתול של Royal Canin עכשיו במבצע: 12 יחידות ב־79 ₪ בלבד, במקום 94.8 ₪.\nכי כשזה מגיע לאוכל שהם אוהבים – תמיד טוב שיהיה עוד בבית.\n*לא כולל פאוצ'ים רפואיים",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1096742239674301",
+        "text": "יש פינוקים שפשוט אי אפשר להגיד להם מיאו 😻\n24 יחידות Fancy Feast ב־125 ₪ בלבד במקום 165.5 ₪.",
+        "links": [
+          "https://www.anipet.co.il/collections/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D-%D7%A7%D7%91%D7%95%D7%A2%D7%99%D7%9D?filter.v.price.lte=470&filter.v.price.gte=0&filter.p.vendor=%D7%A4%D7%A0%D7%A1%D7%99+%D7%A4%D7%99%D7%A1%D7%98&sort_by=most-relevant"
+        ]
+      },
+      {
+        "ad_id": "2091547925065135",
+        "text": "אניפט מחפשת את הדור הבא של המנהלים - ומגייסת את העתודה הניהולית של הרשת.\n\nאוהבים חיות, טובים עם אנשים ותמיד אלה שלוקחים יוזמה? אנחנו רוצים להכיר אתכם!\n\nאנחנו מחפשים אנשים עם ראש גדול, תחושת אחריות ורצון להתפתח בניהול.\nכאלה שרוצים להוביל צוות, לתת שירות מעולה ולהביא את האנרגיה שלהם לעולם שכולו חיות.\nמרגישים שיש לכם את זה?\n\nלפרטים ולהגשת מועמדות >>",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1369452818690635",
+        "text": "זה הזמן למלא את מגירת החטיפים 🐾\n10 חטיפי Buddy ב־99 ₪ בלבד, במקום 199 ₪.",
+        "links": [
+          "https://www.anipet.co.il/collections/%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D-%D7%A7%D7%91%D7%95%D7%A2%D7%99%D7%9D?filter.v.price.lte=470&filter.v.price.gte=0&filter.p.vendor=PetEx&sort_by=most-relevant"
+        ]
+      },
+      {
+        "ad_id": "1622942699180448",
+        "text": "הכלב שלכם אוכל ADVANCE? זה בשבילכם 🐾\nקונים שק מזון יבש לכלב 12 ק\"ג ומקבלים 20% הנחה על השק השני.",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=%D7%90%D7%93%D7%95%D7%95%D7%A0%D7%A1&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1428708525909363",
+        "text": "🐶 יש מבצעים שפשוט גורמים לזנב לקשקש.\nקונים שק ACANA לכלב, 9.7 ק\"ג ומעלה, ומקבלים 20% הנחה על השק השני.",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=332.66&filter.p.vendor=%D7%90%D7%A7%D7%90%D7%A0%D7%94&sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1431914432173845",
+        "text": "שק גדול זה טוב. שניים במבצע זה כבר יותר טוב 😉\nבקניית שק BROKATON במשקל 20 ק\"ג – 20% הנחה על השק השני.",
+        "links": [
+          "https://www.anipet.co.il/collections/sale?filter.v.price.lte=545&filter.v.price.gte=0&filter.p.vendor=%D7%91%D7%A8%D7%95%D7%A7%D7%98%D7%95%D7%9F&sort_by=manual"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.anipet.co.il/collections/%D7%97%D7%95%D7%9C-%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+      "https://www.anipet.co.il/",
+      "https://www.anipet.co.il/collections/sale?filter.v.price.lte=13.65&filter.v.price.gte=0&filter.p.vendor=%D7%A8%D7%95%D7%99%D7%90%D7%9C+%D7%A7%D7%A0%D7%99%D7%9F&sort_by=manual"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T14:59:28",
+    "filtered": "2026-09-26T14:59:59",
+    "unqualified": "2026-09-26T15:03:27"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.anipet.co.il/",
+      "https://www.anipet.co.il/collections/%D7%97%D7%95%D7%9C-%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+      "https://www.anipet.co.il/",
+      "https://www.anipet.co.il/pages/%D7%A6%D7%A8%D7%95-%D7%A7%D7%A9%D7%A8",
+      "https://www.anipet.co.il/pages/%D7%A2%D7%9C%D7%99%D7%A0%D7%95"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

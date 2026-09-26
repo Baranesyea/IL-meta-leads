@@ -1,0 +1,150 @@
+{
+  "lead_id": "2026-09-26-028",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61569420186824/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "510522378808209",
+    "page_name": "פט אקספרט",
+    "active_ads_count": 1,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "1773098717048652",
+        "link_title": "{{product.name}}",
+        "body": "הגיעו מוצרים חדשים,תנו לחיות שלכם את הטוב ביותר! 🐾✨ גלו את הקולקציה החדשה שלנו שתשמח את חבריכם הפרוותיים. אל תפספסו - לחצו עכשיו ובחרו את המוצרים המושלמים! 🛒❤️",
+        "landing_url": "https://petexpert.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406306_1066114056146308_5837362139525668306_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LEZZS-UbkQkQ7kNvwGY7dfn&_nc_oc=AdqQeMVPbShvr0YOYd6qXRy3j1LyADdYs5s4zntXo3NvtAxidyMBMsX1RBOLqeXJogg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKYgwjiHDsjLJw3dnYVDrnZrJXlqU-WzDcvOKjUTtAixg&oe=6ABDCDCA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787405905_1774343140231420_6632028451582483409_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ocnb7TyVMYQ7kNvwHCAGsi&_nc_oc=AdplCUejLXbNzGfiWD1aTV5M3vUYTzuerZRP7S9nAOGHt2idlVXegQ703wZBC5P3W8E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQLkW80zL6Ss0D6CItMoMOvIYNYU4ZsAg8dQ119kVw0xrQ&oe=6ABDCB77",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786436136_2018894438741710_4548801470322204494_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UowwC14hrQUQ7kNvwGTCgIi&_nc_oc=AdqTbMYKHsPqqmGlXfwQhuuPuc_YDEyUUgjtmc15Whv1yts3FitXrPtfTXrg_A8o_fc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQIgqQuOaQkOUAJVLje0Vs6Npp9GnUgtCijW28D8sChq1Q&oe=6ABDB4F4"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787727600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1773098717048652"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "קולקציה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 95,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1773098717048652"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 95,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "1773098717048652",
+        "page_id": "510522378808209",
+        "page_name": "פט אקספרט",
+        "page_url": "https://www.facebook.com/61569420186824/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הגיעו מוצרים חדשים,תנו לחיות שלכם את הטוב ביותר! 🐾✨ גלו את הקולקציה החדשה שלנו שתשמח את חבריכם הפרוותיים. אל תפספסו - לחצו עכשיו ובחרו את המוצרים המושלמים! 🛒❤️",
+        "link_description": "ברוכים הבאים לפט אקספרט! תהנו ממשלוחים חינם, מגוון רחב של מוצרים ואביזרים לחיות מחמד באיכות גבוהה כדי לתת מענה לחיות מחמד מכל הסוגים.",
+        "landing_url": "https://petexpert.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787405905_1774343140231420_6632028451582483409_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ocnb7TyVMYQ7kNvwGsU988&_nc_oc=Adpa5nMehqVVL87yO7k3YYNGfxZsKtxuGKNih88yITOWwf68W6kfw_HnFm_uOKyETYo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQIZpQlbf1R3tTq0sbijItqd3LyUMeA29QuRKL0HLKPMCA&oe=6ABDCB77",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406306_1066114056146308_5837362139525668306_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LEZZS-UbkQkQ7kNvwG1Iodt&_nc_oc=Adrf2Q08Oz7iLiRmE4kKbKHOETcvIVueMyDi_XdYSvwyFw4nO-1Pug6X050bD5HmVKo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQLZwEXEQbCuOel63q-BdxsAsZyGKNwX7h_xTDJc3Cxn4g&oe=6ABDCDCA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406315_1376697917920478_7152721031025789938_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tbSUxJE2SJQQ7kNvwGx2ciu&_nc_oc=Adr1WueTd0CWHi7Ko3jgzF5nltL9cushgO0L0SGK5DFe6WcSGbbN0BRK1EVfZbwl018&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQIvfTRF7FBpYN69TqHQd5wlpJAbOUan6sdBdXl_3ygjoA&oe=6ABDC308",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786436136_2018894438741710_4548801470322204494_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UowwC14hrQUQ7kNvwFYcP6l&_nc_oc=Adq5lh4XQIfzYO42dRjBt34E18G4jvTrpihypo10o3TcYlzPamYRL_8bCHhOn0DbhUY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQLhWikp7YdCpwy1l1MBS9nu4_KoYxm8Nu0PwpT_UzdKAA&oe=6ABDB4F4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785694828_1284531590316266_1753005321534727084_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MkQTYa1xn60Q7kNvwFWrffR&_nc_oc=AdqHH1lgwLS4gH5yphgCRQnx9JPlFyxpuG40Zcx8vtghXkYCp1fb0A3h9YNSicUGRFM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQKQww7AEJXYbQdLuOapyrFZEAQk8eIovHROlmCrmT5gAA&oe=6ABDAFE8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787405860_1112630177754826_8206046436559211597_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pdwQVPIU5ZcQ7kNvwEPDWgE&_nc_oc=Ado1SBdQfj2RJUzoKq5DqTvDEEPXcKOC985o_rPNc4KUEow4mtyJoYnwgZQAr-zddIE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=bp4zV4jcmnrwP-tiyZeQ4A&_nc_ss=70289&oh=00_AQKAyqkSUjnen8UB1yDHG57DepgBSWTGDBkHb74fZOehoA&oe=6ABDA82F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1773098717048652"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "rejected": "2026-09-26T15:09:32"
+  }
+}

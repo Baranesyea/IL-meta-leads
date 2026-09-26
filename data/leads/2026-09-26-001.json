@@ -1,0 +1,474 @@
+{
+  "lead_id": "2026-09-26-001",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://royalpet.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/RoyalPetNetanya/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "312201028964502",
+    "page_name": "Royal Pet  רויאל פט",
+    "active_ads_count": 8,
+    "search_keyword": "חיות מחמד",
+    "sample_ads": [
+      {
+        "ad_id": "24831295036464819",
+        "link_title": "{{product.name}}",
+        "body": "אנחנו ברויאל פט אוהבים חיות המחמד ומציעים מגון עצום של מזון ואביזרים במיוחד בשבילם!\nאצלנו תקבלו:\n🐶משלוח מהיר לכל הארץ \n🐶שירות מסביר פנים\n🐶מחירים מנצחים\n🐶התחייבות לשביעות רצון מלאה\n🐶אפשרויות תשלום נוחות\nאז למה אתם מחכים? הקליקו לרכישה!\nhttps://royalpet.co.il/\n\n👑 רויאלפט חנות ציוד ומזון לחיות מחמד👑",
+        "landing_url": "http://www.royalpet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547626377_1459908801958995_8008845442354991743_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BKJ7_11mTVUQ7kNvwFqkZSe&_nc_oc=AdqElmps5Kpr9SXSFlgmhmU1nJ2wubnqGtaLT1eRzlXdQFlIgJLWt-x0aEHO2byjXic&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQI8vMDlHRLZATomdzj88gcRrH6xOXEm23rtcAB-FqhdJQ&oe=6ABDC6BF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548214021_1308960256947688_5636191666850439732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l094a1X-qDYQ7kNvwEIDiL5&_nc_oc=AdpcfIj1nicrAi0iyqPhQRHYsvBZy5c6i7pu5gIICxPFRVZE7aaQ990tjhyjSyFXUKk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQJyGRf7yCePKFheAjUMp6p7Hw1By9GLR6rugsl41cU2Jg&oe=6ABDB22F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548377871_1316351623539703_5391318225595414768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RylSaogZ-TwQ7kNvwGMFThL&_nc_oc=AdqqAKfBzY0z3wCKoCzuCydQ7BU4uDwo86cZhK4UPXuRsQeyAaQFdo9iUkF1tkibn3Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQLAZmzIJCspbx8ccwnVDAAljoFKzejIsC7jlYh0NPmUjw&oe=6ABD9A38"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1758092400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=24831295036464819"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "לרכישה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 8,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2347,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "24831295036464819"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 2347,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "24831295036464819",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "אנחנו ברויאל פט אוהבים חיות המחמד ומציעים מגון עצום של מזון ואביזרים במיוחד בשבילם!\nאצלנו תקבלו:\n🐶משלוח מהיר לכל הארץ \n🐶שירות מסביר פנים\n🐶מחירים מנצחים\n🐶התחייבות לשביעות רצון מלאה\n🐶אפשרויות תשלום נוחות\nאז למה אתם מחכים? הקליקו לרכישה!\nhttps://royalpet.co.il/\n\n👑 רויאלפט חנות ציוד ומזון לחיות מחמד👑",
+        "link_description": "רויאל פט - חנות מובילה לציוד ומזון איכותי לחיות מחמד, כולל מזון יבש ורטוב, צעצועים, מיטות, ואביזרי טיפוח. שירות מקצועי, משלוחים לכל הארץ.",
+        "landing_url": "http://www.royalpet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1758092400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547176625_1568715831204439_1565398161762394683_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9cfxRJUzAMIQ7kNvwHXrzyG&_nc_oc=AdqgTQo8RChPEKY5JMwn7sYC1XJakF2EbwedfdYE7lUrUEve7Xi5WiQsI9h3HD3DVvU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLIAyEF-LCfmkoXE4c6_0fxbv5FYnmv4aCHmKYg-MElfg&oe=6ABDC48B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547227373_1926604921517622_66453655560567269_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1dkwcl34GuUQ7kNvwHxXmct&_nc_oc=AdoPpvhhzhZYsJxjAA4GT30vSasf5JodgxBMvEbEzPo-s2IWQfDJuwtNsznUiND4A5s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJl24_BrJ8WaCDV4CYX65LBLRG4pJgTerT5e825ATEwmQ&oe=6ABD981C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548214021_1308960256947688_5636191666850439732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l094a1X-qDYQ7kNvwF5251c&_nc_oc=AdooSloGkvLjf6N7EFSAg7Tj05u0UqzSqqFxWWoejMo0IWabSNVSaQSF6-t-kP6H_9c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQIVYvs6e2AAWaktl5Bw4tnj7pSYuZ0svK6JQUgV5cFktA&oe=6ABDB22F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547626377_1459908801958995_8008845442354991743_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BKJ7_11mTVUQ7kNvwGWb4WV&_nc_oc=AdqN0seoVCUBey3Lh6b9ZCp2uyPiWmC9fybSZRQFY2GHd3dHN3J1QGy8kP59h2tIEV4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQKl25iGUJYiOw2ZGH_rW7N2qUJkekxuA1fbECnVzPgZQg&oe=6ABDC6BF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/549151142_1467719667617968_8863472502792818906_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hwGbFxQKz4AQ7kNvwFX2_QF&_nc_oc=AdpbiAdSbuh3EPhkciVPyHWaSoZ8-_0ZafeteiLOxXptu0z8tnn8irB97IyPy5PqItY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQI9oUMkhPrmIaNsqn16qoT1LGxBi1LXB3IshhGVahp6Gw&oe=6ABDAD46",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548377871_1316351623539703_5391318225595414768_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RylSaogZ-TwQ7kNvwHQfmkh&_nc_oc=AdrHcBmFny8vJpVOMQWHmDirpt37bliHfWa3GyKrCo982r2-f9Y4T-oV4qp50E5xboE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJLjxu4Fp35I9uxU8r0JNL66l8e8VAcMkMjlnHPBEg_1g&oe=6ABD9A38"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=24831295036464819"
+      },
+      {
+        "id": "1251994673749755",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "לרכישה>>",
+        "body": "🎉🐾 2026 SALE ברויאל פט! 🐾🎉\nזה הזמן לפנק את הכלב שלך עם מגוון מוצרים שהוא אוהב וליהנות ממבצע על כל הקטגוריה! \n*המבצע בתוקף עד גמר המלאי",
+        "link_description": "רויאל פט",
+        "landing_url": "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%9E%D7%91%D7%A6%D7%A2-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%A1%D7%99%D7%99%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1772697600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/646888399_808583448934288_3692734545874928413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H7gY1seWSGEQ7kNvwG-66oZ&_nc_oc=AdoXT6bHJ40wkU32QpVmsM3almAU6xfFhwtjmlK7FzqKt1RTaeP0F637Wop1VpLyqLU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLA-iJDYke0BuQILr0mV4kLGx-YQ-IZxrHiNK_8J9F1_Q&oe=6ABD94F8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1251994673749755"
+      },
+      {
+        "id": "879523691314948",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "15% הנחה+10% על מוצר שני",
+        "body": "🚫🐜 נלחמים יחד בפרעושים וקרציות! 🐾❤\nמבצע מטורף ברויאל פט: \n🛡 15% הנחה על כל מוצרי ההדברה\n🛡 ועוד 10% הנחה על הפריט השני\nכי הבריאות של חיית המחמד שלכם שווה הכל!\n\n*המבצע בתוקף עד גמר המלאי",
+        "link_description": "קיימים לא מעט פתרונות להיפטר מפרעושים וקרציות, תכשירי הדברה לכלבים לדוגמא: קולר נגד קרציות ופרעושים, תרסיסים טבליות , אמפולות לכלבים ועוד >>>",
+        "landing_url": "https://royalpet.co.il/product-category/%d7%94%d7%9b%d7%9c-%d7%9c%d7%9b%d7%9c%d7%91%d7%99%d7%9d/%d7%90%d7%9e%d7%a4%d7%95%d7%9c%d7%94-%d7%9c%d7%9b%d7%9c%d7%91-%d7%95%d7%aa%d7%9b%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%93%d7%91%d7%a8%d7%94",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1764748800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/549150853_2775413882661081_2504950479900432931_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cHvt9HYY6B0Q7kNvwElYBxe&_nc_oc=AdqkwsneKSlRbyOOBORsjSWQHAU9ELOfbTx0eSgDA_NpXMT-WYXfWPr9f9zczzgZ30s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQK6QrZ97ItscpqdAf2wQ7yaY7mX5AlGDDJ5miw_e-yyDg&oe=6ABDAF75"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=879523691314948"
+      },
+      {
+        "id": "1197301962157463",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "רויאל פט מציגה - אוכל איכותי לחתולים שלכם😻  \nרוצים לפנק את כדור הפרווה שלכם? מחפשים מזון איכותי, טעים ומזין שייתן לו את כל המרכיבים הנחוצים? \n\nאצלנו תקבלו: \n🐱משלוח מהיר לכל הארץ  \n🐱מגוון עצום של סוגי מזון לחתולים מהמותגים המובילים\n🐱שירות מקצועי \n🐱מחירים מנצחים \n🐱אפשרויות תשלום נוחות \n\nאז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד 🔝",
+        "link_description": "רויאל פט - חנות מובילה לציוד ומזון איכותי לחיות מחמד, כולל מזון יבש ורטוב, צעצועים, מיטות, ואביזרי טיפוח. שירות מקצועי, משלוחים לכל הארץ.",
+        "landing_url": "http://www.royalpet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1758092400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548218283_644153115416300_6972493924122327946_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=179X1raNZR0Q7kNvwEHDxlG&_nc_oc=AdruuyzyqL5sy84yu5sf81ymV_JDoQRUbTBJRFzdFR2jVuq2Ut0h6nUH0boNEpJlcB8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJLVPZYn0GTcKmxvY4CydRnSKCTGbTx2Mp_v0Qpvdm5ug&oe=6ABDBD0E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548215146_1534613914557944_1633941368239847437_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kGYEo9J2O8UQ7kNvwHyAnZ9&_nc_oc=AdoZHJmsgGZV1JE0jnyMV8cmMV5DXRHnnqbICoqvNK2QM1PWiiOvh_vqxDpu6Skrfr0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLCnXaJznLUHx5rS68U35GE5VadbHOt8EUdB2OVN6lKng&oe=6ABDB053",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548200970_1122641049293254_4421613099709328627_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0jUvp8p77yMQ7kNvwH9jhD-&_nc_oc=AdoTpnXA3jW0wGCLpP8W6dhUUadlXMs34FBhsvnZs33x7gOUa9Yfk3pbnm_O7QwqlYg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQKxjGn0uCVqcIMlzWq4CWQRItHix_CFxX9LbKA16QP2Bg&oe=6ABD95F0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547520497_1276896897514295_4203708440680181665_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F8tBnfbmu98Q7kNvwGYi1wl&_nc_oc=AdoFmRUE34Yf8Ghxk8XAQf7fkPmHji3LNi1IDA5MsfisI4c1kaTTNcuHxk5d2MXs7TU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLYYRAyxTGBELWszkydFfaj2QPTshCGu_M3yLiCOGkHgw&oe=6ABDA243",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548215535_1340816707721693_8832436427018548500_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y6T1x3lhTyQQ7kNvwFdsOET&_nc_oc=AdoA--xPLQC1Xh0_Tl05TE_FqUIAbPDFQn4RmE8gZpS_5AbuzzqxtSwNq-_3ZhB1390&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQKIlr2c5nCvh7xX6CQ1v2vFW37dY6eJci6zyDqFikQYQg&oe=6ABDB1D5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548216431_4235856170068792_5851926428813954486_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a3g5J5MrH9sQ7kNvwHDgS63&_nc_oc=AdpzPOhQYCl2foPX63SSP2_7I_dCVGx9-BkJcNXYz1aQFjaiJpmNEJF54AATo1oa-wU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLidlJq1ULkuLbuzhsZmXKXOBJikVtJWVixzJhd9yDxig&oe=6ABDC116"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1197301962157463"
+      },
+      {
+        "id": "4262820583976637",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "Royal Pet  רויאל פט",
+        "body": "רויאל פט מציגה - אוכל איכותי לכלב שלכם🐶 \n רוצים לפנק את הכלב שלכם? מחפשים מזון איכותי, טעים ומזין שייתן לו את כל המרכיבים הנחוצים? \nאצלנו תקבלו: \n🐾משלוח מהיר לכל הארץ  \n🐾שירות מקצועי  \n🐾מחירים מנצחים \n🐾אפשרויות תשלום נוחות אז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד🔝",
+        "link_description": "רויאל פט - חנות מובילה לציוד ומזון איכותי לחיות מחמד, כולל מזון יבש ורטוב, צעצועים, מיטות, ואביזרי טיפוח. שירות מקצועי, משלוחים לכל הארץ.",
+        "landing_url": "http://www.royalpet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1758092400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548035915_1315739310287499_1929562414323439174_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KtD5s34lv6EQ7kNvwGkZ933&_nc_oc=AdoGgXtzk8qSsQHE0maTlmWJyRyN7Ta9lCCfdiOfucNS0IoNwzpQp7YVQyCYfUVSW-k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJCQNzN1IWTDsWT50IvLGLICQ0Sh8iR5o3M05n5-BEFmQ&oe=6ABDA64F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/549573808_1891885881741930_2569862737016071347_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ujcY_Rj5E58Q7kNvwGglIqy&_nc_oc=AdqEdoOEu2UU4cF0gxb6FLa8bV3Vwnxj1N9UpxkehdEnhJhthfbqyV8bbU84lkJxC1Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQIpsd9xrpd_OGYA9hc5eIICP4He61VUKrU95y1tTKgrDQ&oe=6ABDA13F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/550089012_1666695264308468_3089555981726229037_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7-1O4599F1oQ7kNvwEOgkeh&_nc_oc=AdqFjtrATeV1HKjvTmujO6Oy6C_ge3VyM_R-gjZ-oDAvll7-lBYQNuL-UJ-1F1WscEE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQIOzH06pYc3W25y1lVtuEUSCDU8FUqEFfFgYoRDGxTPRg&oe=6ABD9EE7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/549574200_657356994073119_2668146941706938770_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3PwUYn-v1cUQ7kNvwFESZPS&_nc_oc=Adoh866ZVUTeF8Y7PEdamAwVaoo8NJ3b0PrQb6BwpARuDtXSoKAxu4nmEXHR0jWgeG0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQK2N8G7PMap_XKP6p5V9k_4zKlbluJ76aLENU0IY5Lrhw&oe=6ABDC5BD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548027160_2274936972942030_380952774164437620_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XifNBtHR72oQ7kNvwEJxR8b&_nc_oc=AdqFUIbmKn4Cid3YFvwrBwBA9_Trb8Bwu54NaNwijem_HCSQ-c0okfHUTIKp2S1HFZQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQL_gYLVLwN3jI-vboOnpbt759pQFDyLuAlZl9PaJj9vUg&oe=6ABDA1FA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547956061_1461179295141070_5430155407593114726_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uL_ymYP5M8oQ7kNvwHiBSbq&_nc_oc=Adp1n8pyYrw3rzScSILsWpy0ryR246z8yHFMSOGp688-bO7xY-3_QzZcv6SPVzYoQk8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLw9KLr-Bll5z3i7BtiBP1khY5SG932jYP7gx62BcSHpg&oe=6ABD959E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4262820583976637"
+      },
+      {
+        "id": "1248667660608963",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מחפשים ציוד איכותי לציפורים שלכם? 🦜\nחנות חיות רויאל פט היא המקום בשבילכם. \nברויאל פט, אנו מציעים מגוון רחב של ציוד לציפורים/תוכים, המותאם לכל הצרכים שלהם. בין המוצרים שלנו תוכלו למצוא: \n\n🐦כלובים במגוון גדלים וצבעים\n🐦 מזון איכותי המותאם לכל שלב בחיים, לסוג ולגודל\n🐦 חטיפים טעימים ומזינים\n🐦 צעצועים מגוונים לשעות הפנאי\n🐦 שירות מקצועי  ומחירים מנצחים  \n🐦 אפשרויות תשלום נוחות\n\nאז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד 🔝",
+        "link_description": "רויאל פט - חנות מובילה לציוד ומזון איכותי לחיות מחמד, כולל מזון יבש ורטוב, צעצועים, מיטות, ואביזרי טיפוח. שירות מקצועי, משלוחים לכל הארץ.",
+        "landing_url": "http://www.royalpet.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1758092400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548302244_4265162060426942_1518744288780629395_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QtdUbV33bBAQ7kNvwG2sn5s&_nc_oc=AdqrSTX0qq-_Akw5BnmcxEv28D7_I0KPzKnigbYKCAF1aIHuYMhzrjmZtQDO6LK1rxQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJ1J_1ayILUH3adsSPHD344COLQGjScIVRZS_WhlrSImg&oe=6ABDC696",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/546954835_1988012125358245_572690224104364905_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=siFkl7v-3WEQ7kNvwF7E4q7&_nc_oc=AdqrAlTiqVcnTodWAWSf6uO3nshSUTbpZ_3cyDGTEpSUXWGVvWea_YVRc-rDly1giEI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQKNIdejvuEhl2-Ax5KdWIcJzBQVLLSo3NoOlA2PdcnIiQ&oe=6ABDA1CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547206126_1336179581194021_6535170390933060940_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GovCMNxZn04Q7kNvwHj15ML&_nc_oc=Adr8WqIX9idFgxTUEbjn-PIDddxZqcJbxI4OuBi-UfKGZBFThdOUkBZG6j638jXUTXo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQL2y-PS5PC9raOga1tlbb1pE6FlJlz4QC2o-12DrKCxcA&oe=6ABDC964",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/549210801_1122819842693462_2505283395257329273_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SQu8VssMF-YQ7kNvwHIPlrK&_nc_oc=Ado-tyeNOT3ifjqX1A6zCGHlvmpNjuhihjDEjMtl8TQtZVGjiyJDDJuyliPophK3gb8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQIxLVoXn8ub2967d1CfUY1W5TzqI6VHsZPTp3lBUV-GsQ&oe=6ABD9E48",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547363512_4228579327374457_4863446702973696924_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dUiM5iL_AH8Q7kNvwECXJ1J&_nc_oc=AdrSepdhktmiFhdz_kg6gU3ZVBQleCGMZLRVml_UnvyW-_rSlxJt3id5QqLX6AhHm7Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQK9t8Q3_3ldmIwWnLctQIg-Vfu3iooNNLIkxY6aAqLzAw&oe=6ABD9ED1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547514538_803455432202943_926393853847076736_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ekTn3-To0EQ7kNvwEfrqUM&_nc_oc=AdokI7EcdU1kYw1WNtkNnemgF05ItsPnlofXruFA9tV3M86NcfWoVRbk5pK5gfJv3IY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQJFbllgKNuihf39GOCH-1r5ublfDhpRCdYlT9j8y0_dGQ&oe=6ABD952D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1248667660608963"
+      },
+      {
+        "id": "4349966611990477",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "לרכישה>>",
+        "body": "🎉 פינוק מושלם לכלב שלך – חטיפים ב-10 ש\"ח בלבד! 🐾\nמגוון חטיפים בחנות ב 10 ש\"ח בלבד! ברכישת שק מזון לכלב\n\n*ללא הגבלת כמות\n*המבצע בתוקף עד גמר המלאי",
+        "link_description": "חטיפים לכלבים יעזרו לכם לחזק התנהגויות חיוביות ורצויות אצל הכלב שלכם. ברויאל פט תמצאו מבחר חטיפים בריאים לכלבים: חטיף דנטלי, חטיפים לאילוף, טבעיים ועוד >>",
+        "landing_url": "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%97%D7%98%D7%99%D7%A4%D7%99%D7%9D-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1764748800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548064125_638507305719120_4117006760865174007_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PC4toEaTKfcQ7kNvwFJcqHs&_nc_oc=AdpaOaMq5aDPAZb-HdxWEwu2cpFd1RvGuC-2eUkskhJc6TuklyS03rqv-ax_fmiJI2Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQIdYjM5K5a8YQzAxvbhZT1bCcHJK6p9YRHoLIA133u9Rg&oe=6ABDA860"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4349966611990477"
+      },
+      {
+        "id": "913083284459655",
+        "page_id": "312201028964502",
+        "page_name": "Royal Pet  רויאל פט",
+        "page_url": "https://www.facebook.com/RoyalPetNetanya/",
+        "page_like_count": 2347,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "לרכישה>>",
+        "body": "🎉🐾 2026  SALE ברויאל פט! 🐾🎉\nזה הזמן לפנק את החתול שלך עם מגוון מוצרים שהוא אוהב וליהנות ממבצע על כל הקטגוריה! \n*המבצע בתוקף עד גמר המלאי",
+        "link_description": "רויאל פט",
+        "landing_url": "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D/%D7%9E%D7%91%D7%A6%D7%A2-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%A1%D7%99%D7%99%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1772697600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/647008202_835393839612318_3827423640844248325_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k3Ri_RsVid4Q7kNvwEIYVZH&_nc_oc=Ador8Rj6CGEe5xj6bwgvWMixF8GDg0Yi35S8KKt-T3ljd6y8JhgJChWmUKsLIMdRxYM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=a9POUoeFR4SqPrBlSTDd9w&_nc_ss=70289&oh=00_AQLcuXS3B_nu7Ffs78Pe4-6ozNZiT87Ff1gn8jKTQOxWew&oe=6ABDB866"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=913083284459655"
+      },
+      {
+        "id": "24831295036464819",
+        "body": "אנחנו ברויאל פט אוהבים חיות המחמד ומציעים מגון עצום של מזון ואביזרים במיוחד בשבילם!\nאצלנו תקבלו:\n🐶משלוח מהיר לכל הארץ \n🐶שירות מסביר פנים\n🐶מחירים מנצחים\n🐶התחייבות לשביעות רצון מלאה\n🐶אפשרויות תשלום נוחות\nאז למה אתם מחכים? הקליקו לרכישה!\nhttps://royalpet.co.il/\n\n👑 רויאלפט חנות ציוד ומזון לחיות מחמד👑",
+        "landing_url": "http://www.royalpet.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "24831295036464819",
+        "text": "אנחנו ברויאל פט אוהבים חיות המחמד ומציעים מגון עצום של מזון ואביזרים במיוחד בשבילם!\nאצלנו תקבלו:\n🐶משלוח מהיר לכל הארץ \n🐶שירות מסביר פנים\n🐶מחירים מנצחים\n🐶התחייבות לשביעות רצון מלאה\n🐶אפשרויות תשלום נוחות\nאז למה אתם מחכים? הקליקו לרכישה!\nhttps://royalpet.co.il/\n\n👑 רויאלפט חנות ציוד ומזון לחיות מחמד👑",
+        "links": [
+          "http://www.royalpet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1251994673749755",
+        "text": "🎉🐾 2026 SALE ברויאל פט! 🐾🎉\nזה הזמן לפנק את הכלב שלך עם מגוון מוצרים שהוא אוהב וליהנות ממבצע על כל הקטגוריה! \n*המבצע בתוקף עד גמר המלאי",
+        "links": [
+          "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%9E%D7%91%D7%A6%D7%A2-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%A1%D7%99%D7%99%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "879523691314948",
+        "text": "🚫🐜 נלחמים יחד בפרעושים וקרציות! 🐾❤\nמבצע מטורף ברויאל פט: \n🛡 15% הנחה על כל מוצרי ההדברה\n🛡 ועוד 10% הנחה על הפריט השני\nכי הבריאות של חיית המחמד שלכם שווה הכל!\n\n*המבצע בתוקף עד גמר המלאי",
+        "links": [
+          "https://royalpet.co.il/product-category/%d7%94%d7%9b%d7%9c-%d7%9c%d7%9b%d7%9c%d7%91%d7%99%d7%9d/%d7%90%d7%9e%d7%a4%d7%95%d7%9c%d7%94-%d7%9c%d7%9b%d7%9c%d7%91-%d7%95%d7%aa%d7%9b%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%93%d7%91%d7%a8%d7%94"
+        ]
+      },
+      {
+        "ad_id": "1197301962157463",
+        "text": "רויאל פט מציגה - אוכל איכותי לחתולים שלכם😻  \nרוצים לפנק את כדור הפרווה שלכם? מחפשים מזון איכותי, טעים ומזין שייתן לו את כל המרכיבים הנחוצים? \n\nאצלנו תקבלו: \n🐱משלוח מהיר לכל הארץ  \n🐱מגוון עצום של סוגי מזון לחתולים מהמותגים המובילים\n🐱שירות מקצועי \n🐱מחירים מנצחים \n🐱אפשרויות תשלום נוחות \n\nאז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד 🔝",
+        "links": [
+          "http://www.royalpet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4262820583976637",
+        "text": "רויאל פט מציגה - אוכל איכותי לכלב שלכם🐶 \n רוצים לפנק את הכלב שלכם? מחפשים מזון איכותי, טעים ומזין שייתן לו את כל המרכיבים הנחוצים? \nאצלנו תקבלו: \n🐾משלוח מהיר לכל הארץ  \n🐾שירות מקצועי  \n🐾מחירים מנצחים \n🐾אפשרויות תשלום נוחות אז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד🔝",
+        "links": [
+          "http://www.royalpet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1248667660608963",
+        "text": "מחפשים ציוד איכותי לציפורים שלכם? 🦜\nחנות חיות רויאל פט היא המקום בשבילכם. \nברויאל פט, אנו מציעים מגוון רחב של ציוד לציפורים/תוכים, המותאם לכל הצרכים שלהם. בין המוצרים שלנו תוכלו למצוא: \n\n🐦כלובים במגוון גדלים וצבעים\n🐦 מזון איכותי המותאם לכל שלב בחיים, לסוג ולגודל\n🐦 חטיפים טעימים ומזינים\n🐦 צעצועים מגוונים לשעות הפנאי\n🐦 שירות מקצועי  ומחירים מנצחים  \n🐦 אפשרויות תשלום נוחות\n\nאז למה אתם מחכים? הקליקו לרכישה! https://royalpet.co.il/  \n\n🔝 רויאלפט חנות ציוד ומזון לחיות מחמד 🔝",
+        "links": [
+          "http://www.royalpet.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4349966611990477",
+        "text": "🎉 פינוק מושלם לכלב שלך – חטיפים ב-10 ש\"ח בלבד! 🐾\nמגוון חטיפים בחנות ב 10 ש\"ח בלבד! ברכישת שק מזון לכלב\n\n*ללא הגבלת כמות\n*המבצע בתוקף עד גמר המלאי",
+        "links": [
+          "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%97%D7%98%D7%99%D7%A4%D7%99%D7%9D-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "913083284459655",
+        "text": "🎉🐾 2026  SALE ברויאל פט! 🐾🎉\nזה הזמן לפנק את החתול שלך עם מגוון מוצרים שהוא אוהב וליהנות ממבצע על כל הקטגוריה! \n*המבצע בתוקף עד גמר המלאי",
+        "links": [
+          "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D/%D7%9E%D7%91%D7%A6%D7%A2-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%A1%D7%99%D7%99%D7%9C-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "24831295036464819",
+        "text": "אנחנו ברויאל פט אוהבים חיות המחמד ומציעים מגון עצום של מזון ואביזרים במיוחד בשבילם!\nאצלנו תקבלו:\n🐶משלוח מהיר לכל הארץ \n🐶שירות מסביר פנים\n🐶מחירים מנצחים\n🐶התחייבות לשביעות רצון מלאה\n🐶אפשרויות תשלום נוחות\nאז למה אתם מחכים? הקליקו לרכישה!\nhttps://royalpet.co.il/\n\n👑 רויאלפט חנות ציוד ומזון לחיות מחמד👑",
+        "links": [
+          "http://www.royalpet.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "http://www.royalpet.co.il/",
+      "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%9E%D7%91%D7%A6%D7%A2-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%A1%D7%99%D7%99%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D",
+      "https://royalpet.co.il/product-category/%d7%94%d7%9b%d7%9c-%d7%9c%d7%9b%d7%9c%d7%91%d7%99%d7%9d/%d7%90%d7%9e%d7%a4%d7%95%d7%9c%d7%94-%d7%9c%d7%9b%d7%9c%d7%91-%d7%95%d7%aa%d7%9b%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%93%d7%91%d7%a8%d7%94",
+      "https://royalpet.co.il/product-category/%D7%94%D7%9B%D7%9C-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D/%D7%97%D7%98%D7%99%D7%A4%D7%99%D7%9D-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T14:59:28",
+    "filtered": "2026-09-26T14:59:39",
+    "unqualified": "2026-09-26T15:02:54"
+  },
+  "qualify": {
+    "pages_checked": [],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "instagram_page",
+      "whatsapp"
+    ]
+  }
+}

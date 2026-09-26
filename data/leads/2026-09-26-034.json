@@ -1,0 +1,447 @@
+{
+  "lead_id": "2026-09-26-034",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://pets-online.pet/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "hello@pets-online.pet"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/petsonline.pet/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/petsonline.pet/",
+      "source": "https://www.pets-online.pet/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972555632736",
+      "source": "https://www.pets-online.pet/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "102852472466480",
+    "page_name": "Pets-online",
+    "active_ads_count": 7,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "1840741710257564",
+        "link_title": "{{product.name}}",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800001226_2302618783856848_2559248329799773023_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4pJdZx174moQ7kNvwFtyDcC&_nc_oc=AdryWAeIn9M0PakttGgnIDE28nene7UERLFo_BIRYuXPI_tgBDS_FrSC7EpVunf62vs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQIrePkZFObTp_hzMzbRAKzcALydTG5kzVBHkaspBqRQuQ&oe=6ABDA03C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801327594_2159680734754674_5584661552905919944_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zsLugJIcAWkQ7kNvwEXC3Bx&_nc_oc=AdrO4UNSJr5UR7GgGhK6C_U26lnfc0YYA0p62lO4FLwNzLsHnJgImhNOZeA7ZtCwwDM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQLho8CzjMTEf8rXxdq9GaQiffbEvzeOyTAhrJmxQNUIWg&oe=6ABDC85C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800945524_2086408775324398_2081666407565079702_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NVbSrt6HKnoQ7kNvwHMlWb7&_nc_oc=AdrDtV-AAe0wcTaNte8k0ZNb_a-aVUqv9bOthTbZMqG5NzSK2lMAmFVUGucJG3njSt0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQLarZmcUYofuRAdBK5YtxJrdZkRnfj6EneG4TwiDEGO4g&oe=6ABDB3FE"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1788937200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1840741710257564"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 7,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 258,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1840741710257564"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 258,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "1840741710257564",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "link_description": "שלום וברוכים הבאים! אנחנו Pets-online, אחת החברות המובילות בישראל בתחום המזון לבעלי החיים. תוכלו למצוא אצלנו מעל ל-3,000 מוצרים בתחומי המזון, ההדברה, ההיגיינה, האקססוריז ועו....",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801284617_1600339268504820_205356704850003902_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uAIyaeq0eJoQ7kNvwGs58M2&_nc_oc=AdpkFdKziV03I-N_d2GYUjW6HI7h7W70xi04TpzUc3fdgHJIzZfxzh-5HZDIH80tckI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJ0WYIZzl7_NgrLECZhMC95kgMRQAmW09KKNFYG5p2oQg&oe=6ABDC865",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800925086_2254188975330435_7562304619564781773_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P0rwSD_9JZ0Q7kNvwF00owO&_nc_oc=Adq57mxVKaGFExzEigouxipo5oSyW-Q40M_wAbNnq81qlYkCGL5NAvnf9SzdIf3aEzg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIgwLem-CzyoaaDpsQFdAJRFUxMMVqZNuR3vV_KQEUI3w&oe=6ABDC579",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799983695_1380933960917996_7541319033934815761_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=td5gt_UgkfgQ7kNvwH-MmFK&_nc_oc=Adq8QBagW4gUohbbyUnk9pCHENEJGkkvoSZLGVxeQzaibLQE1dTdWwvrD9RP5CvllaI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKhng3setXa0xC1J9RNgzIT7mZZ4-yq4qJk5ZvvRlttMQ&oe=6ABDC795",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800001226_2302618783856848_2559248329799773023_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4pJdZx174moQ7kNvwHlQnbc&_nc_oc=Adq8JSBNu2g-T8FmBNW1bqO7M37oM51Efm5SegRpN_5tENKhYfFGQRlEodUO0pwX_7Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIDDcS7dgagtQoq36AbdDNjBeB1d20ui0we-4BGOPXNUQ&oe=6ABDA03C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801327594_2159680734754674_5584661552905919944_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zsLugJIcAWkQ7kNvwEGk3Gt&_nc_oc=AdqS2DF5cr73jOb96WkHByL2BYa0H1rI6CGRyrWIUvkLnYSojYW_eK5mc2svdTVOTGM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQLlvys3-hI_iwnGgMXZhKPYkNR1dTT_d1DRB-kKHwJ2Lw&oe=6ABDC85C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800945524_2086408775324398_2081666407565079702_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NVbSrt6HKnoQ7kNvwGbOxjk&_nc_oc=AdpRUM5IC2F9SEfVsF-BtlW98q_h_52CogYQWk_tT3b5IKv4NUurQkeFcihWTSoYVmk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJ5gLurTPXTBE8-2zghlutzVgsEK5WXtcw866K7senLxg&oe=6ABDB3FE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1840741710257564"
+      },
+      {
+        "id": "1593789385874646",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "קונים 10 ליטר חול לחתולים ומקבלים 6 ליטר מתנה!",
+        "body": "🔥 מבצע השקה שלא כדאי לפספס! 🔥\n\nקונים חול חתולים מתגבש Clever Cat בנפח 10 ליטר, במחיר השקה של 89 ₪ בלבד — ומקבלים אריזת 6 ליטר במתנה!\n\nחול פרימיום מ־100% בנטונייט טבעי, עם התגבשות חזקה ונטרול יעיל של ריחות, לבית נקי ונעים יותר.\n\n🎁 קונים 10 ליטר ומקבלים 6 ליטר מתנה\n🚚 בקנייה מעל 199 ₪ — משלוח חינם\n⏳ בתוקף עד סוף החודש או עד גמר המלאי\n⚠️ מלאי מוגבל — מינימום 100 יחידות במבצע\n\nזה הזמן להצטייד לפני שהמלאי נגמר!",
+        "link_description": " ",
+        "landing_url": "https://www.pets-online.pet/search?type=product&filter.v.availability=1&q=clever&options%5Bprefix%5D=last&type=product&form_type=product&utf8=✓&product-id=10350804238632&section-id=predictive-search-compatibility&var_id=52118724870440&var_id=52118852239656&var_id=52118905225512",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787104000_1076418234929023_1751413723098689798_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U97o7Di86AMQ7kNvwGgi4_b&_nc_oc=Adp8pFV0hczBLP3s2TFzQaKPBT_mB5IsqDgE90AWUt21Uk28zBf9kN-SWvUD5J6IDzU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKAoWiEnaqdPBj7cVuhRO8HQs0schpysPupeIIc36TQmg&oe=6ABDA5CE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787104000_1076418234929023_1751413723098689798_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U97o7Di86AMQ7kNvwGgi4_b&_nc_oc=Adp8pFV0hczBLP3s2TFzQaKPBT_mB5IsqDgE90AWUt21Uk28zBf9kN-SWvUD5J6IDzU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKAoWiEnaqdPBj7cVuhRO8HQs0schpysPupeIIc36TQmg&oe=6ABDA5CE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1593789385874646"
+      },
+      {
+        "id": "1592641942217963",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מחפשים את המוצרים הכי  איכותיים לכלבים ולחתולים שלכם?\nפטס אונליין כאן כדי לדאוג לחיית המחמד שלכם עם מבחר ענק של מזון, צעצועים, אביזרים ועוד!\n\n✅ מזון איכותי שמתאים בדיוק לצרכים של הכלב או החתול שלכם\n✅ צעצועים ואביזרים שיעשו להם את היום הרבה יותר שמח\n✅ משלוחים מהירים עד הבית בכל הארץ\n✅ שירות אישי שמתייחס לכל לקוח ובעלי זנב\n\nהכנסו עכשיו, הזמינו וקבלו משלוח מהיר עד הדלת! 🚚",
+        "link_description": "שלום וברוכים הבאים! אנחנו Pets-online, אחת החברות המובילות בישראל בתחום המזון לבעלי החיים. תוכלו למצוא אצלנו מעל ל-3,000 מוצרים בתחומי המזון, ההדברה, ההיגיינה, האקססוריז ועו....",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785975594_1580254603637553_1623049119453938342_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FNdFke7mTeMQ7kNvwH3NhP3&_nc_oc=Adr52HRUEEoGQXUWd3CjoVUHPv8R8fOkGnNALDRVw_GEITpUIdmveR5T7_DRpdFQ2oI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQLFNEtoBMCcuYl2SKu_0aZv_R05rJeWid-wW8Qpw0IKSw&oe=6ABDB26C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787409603_1736000787620294_7011740884119279539_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qyjQ_dXfXXgQ7kNvwGCXAw_&_nc_oc=AdqOArC3EMOTvSoJbrX7wmQD1U4Ov0n6GRf2-eUp215TuTosM85eF63N3I3qryugN1Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQI9tVx8he3ASldzs5qj8Drr5q67xayB_pWC8FkvO5rAFA&oe=6ABD9912",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784617508_1818063616223458_8255191521596872717_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hkry1dURpSYQ7kNvwGB97Jk&_nc_oc=AdqsFLwDb4ueeRYZN0yarjEsc1JLYahm6WA7EgQTDJHWb4OzOKn6HkAgvlBkYxv4D2s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKw4_86hsUjxINovs8KdSy3NqzHx-cnHHa0eOp98AhqcA&oe=6ABDCEEB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786313784_2027279371249278_1886947607563614644_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qgx_6_uHHekQ7kNvwG56rOw&_nc_oc=Ado3GtUPlC7RSY1ZkNItmccCfTzvvM2YTIuA-CshU3NKmdgRLshsA15dH54FJ3HItfo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJICvJry1H2A9EVP4Il9MLkyuu7IkG_Es93oalY9IQEyg&oe=6ABDC694",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787021425_1419039410140370_222820747521930440_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HQLPXZGaIAoQ7kNvwENGjev&_nc_oc=AdqlvK-OwnO2FvCJhQvFqhOsUJTlbNQAfXC8tiujU6QNB02ul9-SBncokhzOLGEePDs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIStUntdG289v3-VrI3xUSj92kLNclzJAI0T8rxsXtZTg&oe=6ABDAF01",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787135973_921113874407366_7873290232413192569_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zpbhjjmp4tgQ7kNvwF_fa1T&_nc_oc=AdpxW1VhyvQSkWTWE2cwXeMO8Y8pEyvrCxAIpf0PvRh3YP8_9cntirDtxguVyvBMuM4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJhvQmhW7y26IpZOhbUCk8fMx0DyY0Vim_0uDr_3BOVfg&oe=6ABDCAB6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1592641942217963"
+      },
+      {
+        "id": "2077855769530462",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "link_description": "שלום וברוכים הבאים! אנחנו Pets-online, אחת החברות המובילות בישראל בתחום המזון לבעלי החיים. תוכלו למצוא אצלנו מעל ל-3,000 מוצרים בתחומי המזון, ההדברה, ההיגיינה, האקססוריז ועו....",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801555769_2431509764040411_587892564418957223_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jdfn8sRoaHcQ7kNvwGrr-X1&_nc_oc=AdrypLBaDPkWwrsCqkwZfFzVbwXjzTGIYeHkfcRakpGQ_3RmXrgStmObc2RLkZAgnKI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQK4ux82qV606554VGz5Y_aGESeU9CZ3pao272b5A6CCZQ&oe=6ABDBE85",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797956509_1389794379324793_1995912749367890467_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EFZYmWt_WHYQ7kNvwH6Jkmd&_nc_oc=Adr0jzggRGIOpSdDSRb-c7xUQjXR5q58uC_E2QN9rKcNHuFDUqr-82aJnzmU5RL30ew&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIFkz7sbTNEPw2Qc7LZf-0sGpm_VLQyAeAe_8cXUS690A&oe=6ABDCA03",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/793160640_1971328423455875_1179077624763690560_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xcv8FrSOQmAQ7kNvwHrkgO6&_nc_oc=Adr2NUXjjvXvkYPzeibjiuynAo-Z1tBbPrVmD9EXG8ROSczqXyE-W6SNbXOYcZRVAuM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQLJTgRwqllLtSf-_9j3wNuy-ROMSgHbQfdDam4wbH3Odw&oe=6ABDB819",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/794196548_1440474201259292_5531660705811970299_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hc_LqWrMtVQQ7kNvwGXqVgC&_nc_oc=AdrhYwfJGW_E2UKhN5np7Z9CHkfjNccn8F9KtaSX2G_9K_40wojP4b2kEl9PC5CR9FM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKDQeUZjsQicGmvPxRtkVkBY8KJI4l7pGjmiyxKHfqj2A&oe=6ABD9A4E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796866855_1618821459593342_8809483284196534420_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j-f_tLTaxdYQ7kNvwG8s0kE&_nc_oc=AdpIqe4NimoR5jjbkhELwk_eT_036Kxrvv5C6Bmg_PqhhgxCol5XFN_6UJcR_4JU5Ic&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKIxi2Zd-SnrwQ-tbBkLkC0dsc485X8A8sJsbLwufnOEQ&oe=6ABDA8B7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797956510_2328367731329007_3833277151685295516_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iYQtx_3Co1kQ7kNvwGkMYl2&_nc_oc=Adp6m56otEMex-goyZTAOUi6b0C3W7rmyFR5M465CPE_NYnuvnTEy5ZlfrTG38ZOBpI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIVstho-tBzexHx20lochMPLo7pLygRDOYrm4VZApLkJQ&oe=6ABDB18A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2077855769530462"
+      },
+      {
+        "id": "926015236770862",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "link_description": "שלום וברוכים הבאים! אנחנו Pets-online, אחת החברות המובילות בישראל בתחום המזון לבעלי החיים. תוכלו למצוא אצלנו מעל ל-3,000 מוצרים בתחומי המזון, ההדברה, ההיגיינה, האקססוריז ועו....",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794196550_1389536363395459_6734290231755905580_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lFDvNKXXZ1cQ7kNvwHHpg4r&_nc_oc=AdqJe66fDcBzzAbRHE1Sy2Cu8AX9OZAH6RJR1xPuJDuo_74aMnMSpCvPQa7x0ueUOEk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIrTyivIggiEAqf-kco1vlZMzIYWkMA97R7Dpj6lP8AJg&oe=6ABDAEE1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793069793_2021505295167861_8681950296947455479_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-JytMHB8e3UQ7kNvwEEBWRj&_nc_oc=AdoVU7hwhUXpnojGtcCrUGXFwgpwLlfchr57ICAmhMArtuNE1NqTsKDz-0Z_JX0f4fc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIJgZMcyNw-f6Dzc2RMBh018UV0d7szq8vFA5GssICF_w&oe=6ABDC732",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795582521_2645716965846130_245093257396575561_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ypz47G0MTBIQ7kNvwEhiAw3&_nc_oc=AdrM9ThMkCS2_zmQ9oWQiBhSwxh1Lps0FR9WlD470fw7Z2tD6m0moPE3CX7BCnn9GUs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJg3Oo7VV8Xk6ItLRdBd-w4NAOnOy5HNf2yiBZtl3gJ8w&oe=6ABDB8F3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797841495_2868975020143693_564120652664529477_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rPka0H5t-akQ7kNvwHJjAyx&_nc_oc=AdqZXo-DJWLIc9hJEK4CHN5BG-Cczv8wWd36N-qPL4bYqWk5WdbqnlaF_82hhbVwq14&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKJ4IUEK18kPP-sJAG_zmHRrkmr2Ebr26sHg_AbTnGQVw&oe=6ABDB706",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793028174_2499770087195195_455870177631272596_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GCa9rCjyH1IQ7kNvwEp141t&_nc_oc=AdqPE-0Upkm7j9_akwYEhmvs9rqUPe0Rzl45w2zuI_EiZzoDgO2Ka-9H0VDjYAl-BIg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIxYZT1EKZzOKdHBvQ2S-s4NUExKQ9cweMF4Sab6h2Yvw&oe=6ABDB387",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/797956510_1805242757291158_5539240994414733556_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bcFmxucYPjwQ7kNvwHecmK8&_nc_oc=AdqenZDveap5__R86nL1omGxoi3CNSU3bYQGY6Iyc1FcT9MaknNV5pTMhZ889sBkQ_M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJShKjAEbk1BLUl5iRQBy3aq1n2Bvvz1j6dPcZccabBBA&oe=6ABDC91C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=926015236770862"
+      },
+      {
+        "id": "4626010667718282",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "link_description": "שלום וברוכים הבאים! אנחנו Pets-online, אחת החברות המובילות בישראל בתחום המזון לבעלי החיים. תוכלו למצוא אצלנו מעל ל-3,000 מוצרים בתחומי המזון, ההדברה, ההיגיינה, האקססוריז ועו....",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799251578_1345260114244133_3606271645783071125_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1C6x8leH-n4Q7kNvwEo4nqD&_nc_oc=AdoBuqcsgf2yqt39jFwbY4FtM12eSOUcPXPmQmpD384q0Mn6wXXHzO0mtqSSeId933c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQI529h_2hJP-BXKT1g1d56GtPwhGnLOuNOht4P8vCOMPw&oe=6ABDC661",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799858987_1831352808246868_1867928882635949200_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKkOwPw9tkIQ7kNvwGft3U4&_nc_oc=AdrwOjQ9cNE9RflcuNT_-4H0ZI6liqZQoSV_cDhPCO70JAvmIBuKJlL0EOxOosUXNEI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQICUn8AaNZL8QHBuo6i1h5Hst1SGAm3-Hx7pwMUEBmzQA&oe=6ABDCD83",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800966060_1071248222168041_5656503998161490402_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=whsWMDeZd0QQ7kNvwEdVU_1&_nc_oc=AdpzVY0TcBtx_MmU3jcuxFtQv9AwpdfqV5vxGN3g1MklwfIJt_7UcYmbqBSgbskMDLg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQKmYjVmz-W2-qsUdG1plI41nLXvNzTOxWjDU0vVrNJmPA&oe=6ABD996B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799251579_1784951692644999_8146898148031047148_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xlU3ncUXMNUQ7kNvwEpSIkU&_nc_oc=Adr_8UoNNdjbLpFM4nCF_IwmFf-4TDqHgq0KuDk1d_hyb6UBDWtjBtkK5DQ0fixFWPg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQJjOueQN7w11EnM76Kw687ZC4fdQUTteUgt4WgPlDR1JA&oe=6ABD9C8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799859027_2171865210039306_5626029391336360002_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E47zt2GgOLkQ7kNvwEANQGQ&_nc_oc=AdpLKD0so57QIzRpPo0hwYZy4z3WKXde9zAA549pWK9WLIQq99cNg-ErkobnuHBXSNM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIuDSUj2ZDI7m_gqzhZzBH9n7i1AxjXhA62IqDzDSPrwg&oe=6ABDA8AE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799849808_2143905976503220_3577812661982403135_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gFe6ayhfYygQ7kNvwF2SRsx&_nc_oc=AdrHLDLsaPZuEy-K3XaJK2CB65_V5qWmBHbx8HF9ynTiSYhAYY_Bd9GmvPYYoTZij6Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQIZo6yFH3QxLd_1rTBnonPh2mHhEB0SdNmYQXSWuOIG7Q&oe=6ABDA06C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4626010667718282"
+      },
+      {
+        "id": "1587022809463232",
+        "page_id": "102852472466480",
+        "page_name": "Pets-online",
+        "page_url": "https://www.facebook.com/petsonline.pet/",
+        "page_like_count": 258,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "משלוח חינם בקנייה מעל 199 ₪",
+        "body": "כל מה שחיות המחמד שלכם צריכות, במקום אחד 🐾\n\nמזון איכותי, חטיפים מפנקים, צעצועים וציוד לכלבים ולחתולים.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו את המוצרים שמתאימים להם והזמינו עכשיו מ־Pets Online",
+        "link_description": "מזון, חטיפים וציוד לכלבים ולחתולים. משלוחים מהירים לכל הארץ.",
+        "landing_url": "https://www.pets-online.pet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798134954_2907842686275635_4190597664520704223_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1X74RVPsQf8Q7kNvwEEY-2C&_nc_oc=Adom_a20GCsntJEkHtVagz-01Pg-khqrnYSi8v398xcSYvPllteJo1_EDwODFoZ0d00&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PMEmYNdDP7-zBAnECsYu7g&_nc_ss=70289&oh=00_AQLkP875JvZBpnlZ4ODMNuKWGUq4mSbUHj4hm7XiQvFcFQ&oe=6ABDAA04"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1587022809463232"
+      },
+      {
+        "id": "1840741710257564",
+        "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "landing_url": "https://www.pets-online.pet/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1840741710257564",
+        "text": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "1593789385874646",
+        "text": "🔥 מבצע השקה שלא כדאי לפספס! 🔥\n\nקונים חול חתולים מתגבש Clever Cat בנפח 10 ליטר, במחיר השקה של 89 ₪ בלבד — ומקבלים אריזת 6 ליטר במתנה!\n\nחול פרימיום מ־100% בנטונייט טבעי, עם התגבשות חזקה ונטרול יעיל של ריחות, לבית נקי ונעים יותר.\n\n🎁 קונים 10 ליטר ומקבלים 6 ליטר מתנה\n🚚 בקנייה מעל 199 ₪ — משלוח חינם\n⏳ בתוקף עד סוף החודש או עד גמר המלאי\n⚠️ מלאי מוגבל — מינימום 100 יחידות במבצע\n\nזה הזמן להצטייד לפני שהמלאי נגמר!",
+        "links": [
+          "https://www.pets-online.pet/search?type=product&filter.v.availability=1&q=clever&options%5Bprefix%5D=last&type=product&form_type=product&utf8=✓&product-id=10350804238632&section-id=predictive-search-compatibility&var_id=52118724870440&var_id=52118852239656&var_id=52118905225512"
+        ]
+      },
+      {
+        "ad_id": "1592641942217963",
+        "text": "מחפשים את המוצרים הכי  איכותיים לכלבים ולחתולים שלכם?\nפטס אונליין כאן כדי לדאוג לחיית המחמד שלכם עם מבחר ענק של מזון, צעצועים, אביזרים ועוד!\n\n✅ מזון איכותי שמתאים בדיוק לצרכים של הכלב או החתול שלכם\n✅ צעצועים ואביזרים שיעשו להם את היום הרבה יותר שמח\n✅ משלוחים מהירים עד הבית בכל הארץ\n✅ שירות אישי שמתייחס לכל לקוח ובעלי זנב\n\nהכנסו עכשיו, הזמינו וקבלו משלוח מהיר עד הדלת! 🚚",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "2077855769530462",
+        "text": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "926015236770862",
+        "text": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "4626010667718282",
+        "text": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "1587022809463232",
+        "text": "כל מה שחיות המחמד שלכם צריכות, במקום אחד 🐾\n\nמזון איכותי, חטיפים מפנקים, צעצועים וציוד לכלבים ולחתולים.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו את המוצרים שמתאימים להם והזמינו עכשיו מ־Pets Online",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      },
+      {
+        "ad_id": "1840741710257564",
+        "text": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+        "links": [
+          "https://www.pets-online.pet/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.pets-online.pet/",
+      "https://www.pets-online.pet/search?type=product&filter.v.availability=1&q=clever&options%5Bprefix%5D=last&type=product&form_type=product&utf8=%E2%9C%93&product-id=10350804238632&section-id=predictive-search-compatibility&var_id=52118724870440&var_id=52118852239656&var_id=52118905225512"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "filtered": "2026-09-26T15:10:39",
+    "qualified": "2026-09-26T15:14:41"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.pets-online.pet/",
+      "https://www.pets-online.pet/",
+      "https://www.pets-online.pet/search?type=product&filter.v.availability=1&q=clever&options%5Bprefix%5D=last&type=product&form_type=product&utf8=%E2%9C%93&product-id=10350804238632&section-id=predictive-search-compatibility&var_id=52118724870440&var_id=52118852239656&var_id=52118905225512",
+      "https://www.pets-online.pet/pages/about-us",
+      "https://www.pets-online.pet/pages/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

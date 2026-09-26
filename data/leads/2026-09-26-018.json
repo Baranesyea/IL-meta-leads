@@ -1,0 +1,1200 @@
+{
+  "lead_id": "2026-09-26-018",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://petsale.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "petsale1998@gmail.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61555874086345/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/pet_sale_il/",
+      "source": "https://www.petsale.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972559844476",
+      "source": "https://www.petsale.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "249309018258310",
+    "page_name": "פט סייל - Pet Sale",
+    "active_ads_count": 15,
+    "search_keyword": "חיות מחמד",
+    "sample_ads": [
+      {
+        "ad_id": "931678806553611",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/715651855_1526887742284908_7341671947451927901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6nqrrKOXp1wQ7kNvwGnJfjg&_nc_oc=Adrg3_5rS_ndLo6Owhdw68KDd46m6BUagUY_PhiXW4zpbNFbka45AkboE2BEwV8TA1Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQKgkSILUM7jceZjhf9lqrDxSP-eNbCp-ZoeZWgEUk_Ebw&oe=6ABDCA6C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713305262_1298875799060897_3690956079557697087_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DO9R4Es82o8Q7kNvwHYBhS9&_nc_oc=Adpi-SjWO_Ouo-H5qRqo2dCoPNnSZ1j6Ein___dSjc0NEz3rEOmCVo344sb_4SP2l48&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n0J6KWev0VX_nR4idvuvZg&_nc_ss=70289&oh=00_AQIhowOEuu0jhRdNjhJ_bJaZvS8nm7Ft0zQhzf8HfTLTPg&oe=6ABD9E81"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1780383600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=931678806553611"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 15,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 644,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "931678806553611"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 644,
+    "page_categories": [
+      "Animals & Pets"
+    ],
+    "page_ads": [
+      {
+        "id": "721922250790681",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "link_description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+        "landing_url": "https://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1749452400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/506043844_1321788676186450_1724587121970761922_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F521JuU38CMQ7kNvwF4R45Y&_nc_oc=AdozRgR5W6clBCcMPg4JhZmsXlOmyfkppHdGfknr-f2OvazQLUMQKTQKwI619eRSteI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLzJoYgabPw_sNOLQNpIILXmUwumfUMcwCaBtIKTKAVPg&oe=6ABDB72F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/506049784_742155134990524_4980765194669681997_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NnAUOBzjdWAQ7kNvwHdsspj&_nc_oc=Adpo0M468C0LnIfnXUz9b5BaNhLM3tIj4ZJeCrgx0GZySanQQNlTiowPMF7fdapo9lo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKMnFIsXiORUTuY555C-bnm2gfa8TlyDiofCjgfm5kgEQ&oe=6ABD96C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/506020194_4163622667200707_3777742488725496621_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xJZlH766erwQ7kNvwHAT6ct&_nc_oc=AdpRu3AYLgHZHzs2srTNWwCdQPQNBAMwz2FegFsq35nZc80MaSltesKZrQxfmkfQq10&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQL1Rp8FWv7YQ4rmy-LhRdsSkiJs0aKDwt9bwTamU3KuxQ&oe=6ABDBEBB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/506034376_562755310231359_9046092088712890935_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TEN8lpE3VbwQ7kNvwHXTxPV&_nc_oc=AdrGKElNqlehC1BecBhlgboNZUrgD0daYOMOMmF-B8BLOdJIb8uSN9VCD7hcb5Bqg28&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJLxgRTAC8beT1umGhaKVv0V59dOvtuMLAVvAYKgelxIg&oe=6ABDA6C8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505842056_1033023818956508_4139215222547074511_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=deAD9FuGIokQ7kNvwE8_S9w&_nc_oc=AdqkraV_wODLQPJkY3koOyxMVd60olnxJLd7AEZmyVb5PoqbvAVxvg6o-KthJxPhZeo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQID2pnNCTvD3TGPGivusaBMlQQtO76IRdHgcOgis6VXRg&oe=6ABDC75B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/505870952_4043786875894988_5595112456898678364_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MV3T4GVMV1UQ7kNvwE3Hcj5&_nc_oc=Adobaz-yqfFrXMlcC3aRymR3MaC6fO0LW41JpzBQ8BbAuKCkXwVMntcpSwnJGTyH-kE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQL5s0QgHkRUj9j7wvWhz2mIxNg0S3-ajWf0NRPf0lmvpw&oe=6ABDB361"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=721922250790681"
+      },
+      {
+        "id": "2382968505553720",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ההאו-בים שלכם מחכים לנו...\nאל תשכחו אותנו בעגלת הקניות😉",
+        "link_description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+        "landing_url": "https://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1772179200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/445635272_421255954204670_858714197145361382_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lYBznTBVJ28Q7kNvwEzQScu&_nc_oc=Adq7NI4HHa6MthM10uhM3RAJdNqNFBwFMlzmPiyf2jZ2imRWwHA3YS0ckJ-pfWDzpds&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQL78XSCwxd5Y8XyjyhLIxJ7jEawo1hr6MZm3Ss2fcDO1Q&oe=6ABDB47A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/445381265_469577608811576_8107371883575406273_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UniwfgjWRF4Q7kNvwECW0wu&_nc_oc=AdoQuIXmWJGwvFBwH9cbcj03cSPnJ8aXXb6LI73VcUZfGOjWOdMgGGLX7wUPer1rsso&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIk2W4K-LmBpELajQnKF_arVvZipaC1gFatGdEx8r31fw&oe=6ABD9E36",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/436404820_438025178929072_651463698838283535_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dMBpSbbNj6kQ7kNvwGK021H&_nc_oc=AdpifO0SokKnJDPjvE-ukswrjXAYM9S7pTk7Riq2MU-Gcb1y1MrmJ3IGcIBpR5hrzmQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQK2UraQUzuWQ-x_iQakx96yXIZ_Ld-By2epde45zjNGow&oe=6ABDBE29",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/445503063_771152185175197_7887765798379465623_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=52O5cCPj3I8Q7kNvwEIC20-&_nc_oc=AdrEjlsB-UagbYrBHwiFm3PsdbBLNl7kymEvp3PtFgxZGtoPaTtpOZS_4g6JYP-csgo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIoGrt0FGFwPDLMhuQCeItHeXPR6QjpZsz3Z3nqwbytdQ&oe=6ABDAEC2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/445667914_1456515194964869_6415240709713199153_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XQa1Qj1BQVQQ7kNvwHimqyL&_nc_oc=AdoezchjpvPEMxpz0Vzy1uDP4eH9nGyxdZoSHcM9yYrEukgCUTrCCFowPA-F0VwnBG8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLp-_tYEiZq9lXTnmGBBdeu_1n7NGfGCfGAaDL3ragbXw&oe=6ABDA4FD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/445567977_1968480250235434_770803428908303130_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uMgtg31i_vAQ7kNvwHUS1_p&_nc_oc=AdqBTfng2zv5JU24NgAvyLr_uBUtwpUV1g5xueI-ggApue9b32SnL4JIKnkfPpWu8Oc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJDBUdbbnH6oES5ggD1qN15TbbpH54Kqbu-JV-trquHDQ&oe=6ABDC5A6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2382968505553720"
+      },
+      {
+        "id": "885704607425626",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+        "link_description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+        "landing_url": "http://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641036694_2118985625552599_941993748523911573_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MR_8wgd-GDcQ7kNvwEQ1jLH&_nc_oc=AdoIcPt2g16JHgfKa3GNZyC839DvDguQhLUeqXp2L2JhhPxD3tVpb6JcoJpczOdqMxE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQISVCda4_I8htC88h29Y770PXWbRvW5wyxZ9XvNkinEoA&oe=6ABDB3B2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641500456_1234409528893489_1642470058859414387_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CSVMnqzgjqoQ7kNvwGu9VsE&_nc_oc=AdqGA2_2zdaK_vfKdmvnQzzqwCmO7O9Uv0J4wGyfYlVaEycJR0LwhZRvVWYTK2GXIMA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLIPEhZbt4zXOxEnkdp-b5TeII4lNIJjn0vodvizhgEPQ&oe=6ABDB1E8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641156258_1372062031252165_8850428478640846504_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MeCRUiO2F9sQ7kNvwFVktSU&_nc_oc=AdrTciBHRvOLW99uzq59zaefGftAm_vx7RQNuIaFhryh5PXKTl-hbvQEYpPBG11woC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKNP1KcHQsrp0mwmVWBnp4QoUNWIAOKKnhB3bNTn3qW4Q&oe=6ABD9900",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/640916095_909810391832647_5777520629906987331_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WSy73wmJBSwQ7kNvwFFqiXZ&_nc_oc=AdrApXEJ4nOxSVHpgevZNOGPoIWV6EaM_5l7IK3FINFMc13XpPHkhShYPNurvu7l1t8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLH24OnDqIDNPbkhxr_46lCWvBP2RBV3GvzfVe5P01tPg&oe=6ABDC733",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641150806_1412856233495903_9065955356604675308_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CDeLB6ASCHUQ7kNvwHMqbK9&_nc_oc=AdpQNcUyFIIVQHFYSZstebm4BCgEi7xbPaVXhZjmUsZqwBQLGUhcHJfRldkvjgDZK4k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJUEcB3MnHD-NOOg0Lxk_mlR0elIddrC8CMBUsVJ8WJaQ&oe=6ABDAAAA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641219163_1585212806086051_5376114777256665876_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwriUSeKEO4Q7kNvwFLEHFP&_nc_oc=AdoQIWVEGCVyyihhzRjj2i1une-8dNUgU5ZsVQZCLDCreUYJECqWheEtQK41TTWf5pM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKwqMMQ1hSpj5qUphJkUFZ8kACYcTlxOKXedAB3_vN3KA&oe=6ABDBF24"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=885704607425626"
+      },
+      {
+        "id": "4333946816932100",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "link_description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+        "landing_url": "http://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641342136_1424957139371222_892833627189427703_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4epmWqcGG-sQ7kNvwEhLCWS&_nc_oc=AdqPKeGYSGzKlBBHouxBva7kHiijQbzfqcIYDEbf0yF7Vh9tRZYr5kd2t02Qr4Ks_9U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKftwabxTn8XLViMRmK8tp5WW0t2f1oIq53ELk0Lbftmw&oe=6ABDCC12",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641332468_1806027740006265_9099568076452689684_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D5peFYZ7UuAQ7kNvwFkh4HA&_nc_oc=AdqFdpaQsklZy6SFf2mrJMbOSzN0EkE9XyNYlhKWTbvhODhmlOeZluW9_b4qzP4n2Ds&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJyapPro7doB39lxGq5qcdo0WVIz_Dlq9VheQbsT0VuqA&oe=6ABDBD7C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641366357_1257446186450218_2315867290084321641_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EQnhIJ8PCvkQ7kNvwHH9LPk&_nc_oc=AdoR0BgrAoFE7Np8ml0qGYM9QFGuEq5NvOumwrEl03ouUXDupR5MPKhhzxv785s8Cok&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKCRAcslg8ugQMpzFTz1NRVi2Wx9V0z0yN332rPXI1JZA&oe=6ABDBEFA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641578775_25722134737488304_8100291902597860332_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JetHzDjXu-sQ7kNvwFhPjhp&_nc_oc=AdrduQIq3crFEDoXxh0Oq_jGI-__qsqyrN7fEc7QdflrTlAF1CfBEU6w9RxX1WN-Ats&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJ3ymJ8Z_czm2Ubt_276URkXRSNnJxJBVkcFpuDM7iwvQ&oe=6ABDA1C6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641524476_1437067761237740_6754542113581101783_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zgd1GdIy6q8Q7kNvwFVUu-y&_nc_oc=AdpmnkqKCxqfcFyg1ylEXorALqoJMZQNMv7Iom55fcPK8NQt9WKPobOcC195VaYf2G8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKfLNX-UdypcRbzflI9qL85l0e-85HYbGBR-nABf_N3xw&oe=6ABDA2BC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641641852_1214080750452172_2892853068805458157_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BUXnQsjN6MIQ7kNvwENaKWE&_nc_oc=Adq5ijra9Ck_931zQN_IXDkGmjyc5-amhS0izbMtZHF0rbcE27jdEteBGtM2EeAknm8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLkiNmHVHjgO3ZP0IeaYqiUrWEbGZBBNf3zSAjeVGJTJA&oe=6ABDC6D3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4333946816932100"
+      },
+      {
+        "id": "1881639479140159",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+        "link_description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+        "landing_url": "http://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641530199_687435331057201_3881204883557114787_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NPT7Gd03ZzYQ7kNvwHKYQTP&_nc_oc=AdoxPo1i2w_2W3_c45Xcoqt2UzG9fkfF4GFKtcnlWEY-3eCSDiBfN3oHGpsx5umVDrs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLdnG0sCTI5dnNoVTxZqctDndBGXVRzMcRUpMyS2zfEcw&oe=6ABDC27D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641368265_2156747001819385_2669104864330308644_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EYJs5nn45s0Q7kNvwHygbBN&_nc_oc=AdonaxaZZpmFyc-QTEH10BYstxnf4whg63lSDZ_AVTRJ3lXWoml-_GkfQASqsZFLSLU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQK17apNnJtumvGulhLPwDDaDaGfew79G1cDRLtAkFM3XA&oe=6ABDABFA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641490810_1644010987037160_5440230823381141361_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=so_pmqbD8fUQ7kNvwH_lpq3&_nc_oc=AdqyY3izIKffWond0TO-cSA1QAOoOWIBxKPUNrXzvOvp8PBEKIf6e-7RFfQwZlId0LI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKmOzWkddLowhNpxH9kUAKe9ZOyP6vyqmJN2SXBHw-uPw&oe=6ABDA325",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641419533_2169341730487320_619357946177862856_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=quSNjE7DTIgQ7kNvwG1Mrfh&_nc_oc=Adq36zSw79ze79iHLOAC0QExDuEg9U9-M-JqSg2sUAa_RBEk65GL5SR9Z1mC7xSn_NA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQI3muqqvDDBQhMg2zVv9LrttPD2MqEqFHnbn193pD8ylQ&oe=6ABD9820",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641387007_1820578235326903_4486762060550061841_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9fg3HwM9mzUQ7kNvwFgr2gg&_nc_oc=AdriEubY7ZC_QGs6UiMJr8nnj7ZTmTecFS_B9kj1k2KICLB5JwvhrxSiLUpCyLD2Gto&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQL2IVN0jJnkoGB-rYc-7RauEgYttkYmGPvWu3Ry1mqG-w&oe=6ABDB4C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641389045_772609978806231_4938102967761268654_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tmQ2vkRmTk8Q7kNvwGURwpk&_nc_oc=AdoUIMylzZMmiN17g1-S1l03Egh8Ymtouc66gPDM5ZYzALgi2M0P3Opwcp844hp31W0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKn7XiiBjLFxuBeyGnr9OSp6dooYoyKCuE3b94sUHm4Xg&oe=6ABDC01A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1881639479140159"
+      },
+      {
+        "id": "25026480167028090",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}{{product.short_description}}",
+        "body": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "link_description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+        "landing_url": "http://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1771920000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641311856_1866732290713529_5940214616585776140_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OfZDcg7fRL4Q7kNvwF39HbD&_nc_oc=AdpyuxZMlovH9OhCR8VLrQNhJIu2wjRrf1AE3Xl4Oi8bYa99WIHMktoEH3dfF3QhP9s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJpV9eYolMbrwPVBdgbsYlfOVFHL7MVxFOR7f3Xe4k_oA&oe=6ABDA403",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641386435_1444057040731487_4169721296492031110_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bzXdsGfY8LsQ7kNvwGtkkkN&_nc_oc=AdrWKc6_BBLt38pUc_TTJj3e48hGwDWVQa8GHZ6ZUcS1CbIbDIu_pRHloEvXl6YoMls&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIBz4_h_0SuxkV16Vj1i8o_rzQpAoMno8RGSZD4EfVA_g&oe=6ABDBEE3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641426768_2950608648467269_3427361341604427121_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yCMeDYebmRkQ7kNvwEYXpbE&_nc_oc=AdrALG-qCf7xIlAI3YPwYLEDPo5WSE2pNpOeWy1lSHCPW63fOYlIDaQE9OcBuPmHigE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLZbgbaUt2d-NFCA6n0rftbSlZzb_NnNlgS2n3w8P2pKg&oe=6ABDCA25",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640913067_1606021950435629_7496885704307540569_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2EFD_rMyO-oQ7kNvwHeXMQu&_nc_oc=AdrFNyAwLse9yy_meciIXy0uWdLYl7nY6jex8DjAvVZpb23u5tFjgzLQTnCuIFtsNeo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJDnaGL_Nx1Pd4oC2LqhsbfYadMScGjJkpWfJJnhqE1gA&oe=6ABDA126",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640269009_2786855804818047_4824727184160569296_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=usxn_Yy7VeMQ7kNvwHlPBus&_nc_oc=AdqZ-7JvldLGrTfjCGpjjr64nO9s5Q_nUOd33S-qpaAtpw1bCAUW61p0UqPtalGtGuM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLoxD8Qc7wEfhrVNBOOVGTtEBLQqBcfjsvBhSgVhRQ8qg&oe=6ABDCA92",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640152507_1398387604862228_1818461713167434947_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VUa-RWuxyw0Q7kNvwHQ2RXG&_nc_oc=AdogJVQJsU3dDmsqqyUaaqMikXFMqinVAzmW4x19t3lXzyc5t_oVfEHR_1S-5YZr2Qg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIZXi_XMBcAAADzEbKWCOvAJvb2tvV4uVh8pBjDiCCBrg&oe=6ABDAAE7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25026480167028090"
+      },
+      {
+        "id": "931678806553611",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780383600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/715651855_1526887742284908_7341671947451927901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6nqrrKOXp1wQ7kNvwEEH60T&_nc_oc=Adoi8IFCCs89or0jHuRqoRZpuo7fVlbF1cGZQOY_khdSOC-RKJSAhmgH8ionKpXXdAw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKeyE-k8oa4Lk4dnquTKg_uZ8lWwnXt4XlPKm230EY2pg&oe=6ABDCA6C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713305262_1298875799060897_3690956079557697087_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DO9R4Es82o8Q7kNvwG7l1bl&_nc_oc=AdoVbXWgitNyPI9L_sDA5vc1DzVbhuk30Q2Of3cWyVLzmHCYUQbDnVfj3-NCIE9TeRc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQK3cSB5iwdgaWnSxHiNDAbeAxH5jzng3jGEkY_NYvqsOA&oe=6ABD9E81"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=931678806553611"
+      },
+      {
+        "id": "924877866741536",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/642826925_2707180012975207_6833815371323664730_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YAQxLQWmh9IQ7kNvwG4RDp4&_nc_oc=AdqG5u5FFfeTn8BkmwvgvQjciPgnop1axHKfej5uCtTyjLOOAYqX_Wo_lkq2TJHserk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQILA8sK1owaU1Zwpu86JdITEAe5OCGVt_cyfiwA0VYULw&oe=6ABD9EBA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641625744_914763614270914_2348429229879411182_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HptwESPEeWYQ7kNvwF-AUIt&_nc_oc=AdoGLJ4v0k0koSEU3ubP30HN7rODEz4EvgI_yqxR8kLv1cm81cAW9orZJtskneIrL5I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJqG_4ubUtafdPu3fMwqaoWoP2GXgI0ij0sbe4dn_-7xA&oe=6ABDC885"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=924877866741536"
+      },
+      {
+        "id": "1232321221761949",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "link_description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+        "landing_url": "https://www.petsale.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1749452400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504678912_10017642198358207_607197230944810049_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L6X3VPlqwdsQ7kNvwGIytbt&_nc_oc=AdqvQzgIFmPIAOO8dVxfGPaQ677_xmbDrMTxQ5XKGOU9q2UaLYectk_jm7pmqx84Pp8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLle7IcT348tXfY0-gmSduJ2UP6RIpW0jD04a3zzzIgzA&oe=6ABD9C9C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/506093288_683976304468481_4683072183655839477_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j40_0rKrzYMQ7kNvwHk6c3S&_nc_oc=AdqE8_J_BUWsA8LDrBTldUi3wx4SkAoXTi8P98TCcJo6rpPqpPTQp6v9EicSQ32naAo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKtuYCeG4rJ_JTTY-MWMFkAo2XnU93s_WU2gpzVaA1H2A&oe=6ABDB404",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505320111_1262790005370331_415613443430979586_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s_kaub-f2IsQ7kNvwHo7wHt&_nc_oc=AdptGf03tHIZZPIR8wbdcaq_H_n75d0ne6mt16Hp2oQr0_ZXRyRkhB62kwUyWxXuHPI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKZxvO0-2Q1LBU8llltYPuw0WlRMGEDCP-x0hdfARI4ag&oe=6ABDA259",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505312686_1227311955546441_8489153021809455391_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7TC4BxG5cg0Q7kNvwEsLqhW&_nc_oc=Adp-k1fBQwjbTs7IZ3dhebGnjgd8Gnn0Ln2hk14nQoCqhaGw7fKENA0JnWDIFy92ec8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKXMaoW9eIQOvelrKVvp1GGYfsxzuDBh8XwcZLveNEIeQ&oe=6ABDA990",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504683430_1248157143609546_6839504463446613469_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EWVu7z1wxjYQ7kNvwFkwL_R&_nc_oc=AdqDxsxO06rAAnU_g5HIb0pZ4BmAAd9DLOK5dOBHwCIaeVNxiUMKWxcuO3b9zRaXDQI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIiGe5uxsD5BPwlT6w7H44xfKUZZu_OWYdtD-I19e8FbQ&oe=6ABDAAA5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/505321980_717078264068520_8682481781740720923_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Geuaq0p16ukQ7kNvwEyo9gL&_nc_oc=AdraxreM2ajc6Ts7dw2GtSsVkkiMXnCVa3Pknj99eTn3qi_9nzCEk6_5Vy3krbxVS8s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKBVXL3APidTu96pBTkogryhRao5JW0oVQwNAtf0Klt-Q&oe=6ABDBAEE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1232321221761949"
+      },
+      {
+        "id": "845548861867751",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641232682_908027162155602_8355692038171349461_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sWoLWXVHJfoQ7kNvwEhWC1x&_nc_oc=AdpniEyX1foT1ZoV4ZfVvr7TzPvPnR8mOwKezlUoK9ADeYrxdJKiqU9FjAseXEcXzUM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIt2-Fbu6T743TZEmTUaK8UXbeSjGrJ1QhFzEvlC6YRDw&oe=6ABDAB35",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641437478_1588478505630411_5276158291055291453_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pcUScP7CrpwQ7kNvwEZI5V2&_nc_oc=AdrGtBpgh95DvA3BiH2xQJIzAKwGTFN8UuoR3Lz5Iq0dQm78UjC0xwCjzV6tDddZcUM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLOiT4turuTGvxuibn2gi7bfh8guswGx0thRGLT-RNddQ&oe=6ABDA55B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=845548861867751"
+      },
+      {
+        "id": "1251864783496067",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "אין כניסה לפרעושים וקרציות",
+        "body": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "link_description": "ברבקטו, סרסטו, נקסטגארד ועוד",
+        "landing_url": "https://fb.com/canvas_doc/24066249029679551",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713103590_1341325064778270_3532379585454290663_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jp4GsCGz9vQQ7kNvwFdwENI&_nc_oc=AdpKfBVij7Sw_PyrVE6l5zGUnzLkRZI91c6kRrCXpeFugY7bMEzx714E5KiF_1bQwVM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJ6npZo_CDQfPJBMgn36rGLXhkCFUyUYO46plUrAXdZxg&oe=6ABDAA0F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1251864783496067"
+      },
+      {
+        "id": "1502177081238641",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641338775_2851244335074083_5893416235823000245_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Si0HfSvz3AsQ7kNvwEINqk8&_nc_oc=AdrpjD0H9ht_ZynaR02Hwwl7CUVAWXy604vAosygL_66TFH9-TQ8oIs9sbLtv6FzoZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKIgcAApaJAFDRmbWifsd1QpQ0iJgKYFDT6R-l4mehq5w&oe=6ABDB3A9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/640375369_1424596631897395_5188039434902801524_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RwgBdtBYa_4Q7kNvwHbOWZE&_nc_oc=Adrbo3FUtHdaqNAdeyEkUohU8etmPSJELS_V3HaU0g-wWaOtPTv2070RAg2J7o9O4pc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIuCVCMkFM4SUjiLno70__cXIvE-33OXukmCuLd3XI9uA&oe=6ABDA679"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1502177081238641"
+      },
+      {
+        "id": "968381865795351",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "פט סייל - Pet Sale",
+        "body": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+        "link_description": " ",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706035391_1409666364301581_9171086486446277824_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5td5zVXE3BIQ7kNvwEflwFw&_nc_oc=AdrAfi2pviY1Dbh6kxySFpOIgDViJfHNgnx4bOLg0Xfwil1cbQeHWXc3VeJePDy6A1U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLudwhbIaM3CLDLNSmydYmIItrzW2P_bCYjrbh2nyc7hw&oe=6ABD9686",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710365614_1396874778921522_1055179108965028420_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nR4g5pA8NOoQ7kNvwG2Onpf&_nc_oc=AdrbGS_yzw6Klzuk3osESMwc2iQzG-c6F4qSA5r2FDm8uPE50mxwC2JGzf3OtPicUak&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJMFz8jyTX99MTRIy7f8CRA6tZxaiL_y3uedzmty5CNmw&oe=6ABDAD8E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710424271_1372533638027749_5125375520290971639_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4lSbazBesnkQ7kNvwHcP-IN&_nc_oc=Adr1kBzlMsJZClkfcmQ84nuiG59DYCYHw8E8tnfYT0kO_3hlIVdFHi78KKjql8mKY1I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJ-qzU4SI4P96FL4395osnYmWKlhtJlZneGGn2ISsEiig&oe=6ABDA1F4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710745770_1411504824071812_3449991138095971557_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xu36IJx_fCcQ7kNvwHZamoI&_nc_oc=AdrahcDS3TJoh7U0KgqjB2jxJWroHWucRIsvUH79oGF5eZcZMvCXf-SDRgGgzFxCoBs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIgfZ0ujh5-pPHkjavK7YvHYz3ld_SpHNwdx1XN7cBVbA&oe=6ABDB123",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710667022_786666531079002_2167184031730979689_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FLHblvUvpwsQ7kNvwFGia__&_nc_oc=Ado0UWbtKZTEmdWDdcQv67ccUuC77v810bkQLlzpJc63kcKYNcaRijxqBRDVnGSwzjg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLjRrs1Pw3_jnn3qNLf4dfQbVS_PSAfgmgSD_gnAzwh8w&oe=6ABD99B1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=968381865795351"
+      },
+      {
+        "id": "3529892920492724",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "פט סייל - Pet Sale",
+        "body": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+        "link_description": " ",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/708655563_1680759886178062_5424011574897844461_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8b06XSE9oQUQ7kNvwFZdIFa&_nc_oc=AdotYbwF5co1TFg05T82C1G7jIx4P7dY0xbuXVY6_heaAtQSsF2Fy3aJ0FMgl2VKuUE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJJeHm3cLYuISPSsh2Hf77jWhMEzgBxXA3rEGXVpfWifA&oe=6ABDBBF6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709365968_978052215038937_1009434641778454360_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=evVqvZCuAC0Q7kNvwEbMJPm&_nc_oc=AdoFxb8MiAd6DnGOkvlabP9teYnPsHHIzdIVwFp2AbsHlbsA_HHgRUmGCee6ybSfosk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLOsyjn4vPiXb4-6kVM4mcyLCTDibLBBncCAQqzDsc1YA&oe=6ABDC405",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/708655564_4046191792269978_3645854361983485732_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4gzj3akNRJ4Q7kNvwG40fso&_nc_oc=AdrolBuYlJwlRK2NGGIu6Tjeqcp_CJXr-BW-L0VxnT5EaLsAOE2_p8fC3B6350eAe8c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQIIVt87d6jGX9KsGjFQNO0SieBCEOcQ_k8-V52CK1ivuA&oe=6ABDC017",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707944825_2035261304082018_6289295893273491234_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9quMNGjFyikQ7kNvwEA5PrV&_nc_oc=Adp9if1vKelCPeNn5VjEUTnHDbkEM0xbKDnh-xVMhthLsso7XavbZhhyQQzBzb4AoI0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQI6aMsZ-ZburU6KDgeGxGfORgcgtm1YusKUeB5ZVWZAyw&oe=6ABDC0D6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710555595_1471319994162073_7237207196232806856_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pwYXXwW1yOAQ7kNvwHIm6ZD&_nc_oc=AdppV27Tsl02_sAnkriAzFzLERFcKBJgi0Dxm5CU-tmjbDrwt5b4-MVct0sy79wCcuU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQJbgvbPJR4kFmIj_eX_HvJKGoGhYIWgu0OzFvMwConA2g&oe=6ABDA47A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3529892920492724"
+      },
+      {
+        "id": "2092884131257694",
+        "page_id": "249309018258310",
+        "page_name": "פט סייל - Pet Sale",
+        "page_url": "https://www.facebook.com/61555874086345/",
+        "page_like_count": 644,
+        "page_categories": [
+          "Animals & Pets"
+        ],
+        "ad_creative_link_title": "פט סייל - Pet Sale",
+        "body": "רוצים לראות את ההבדל בעיניים? ✨\nעם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם.\nאל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "link_description": " ",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709770816_3955137238122781_7165618840033044053_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jF6UXVxwVBgQ7kNvwGNsqbP&_nc_oc=AdqgLInHPAWire3fc2bI0Jnoe0AXk0tO6r7GIb8ZAnNKVDck4gJWx2jzqi4BehnVAuY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQK0i9aawfmke8z3v_uBi4u47f5LG9ZXMCcXmICl8kjeZA&oe=6ABDB6F3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709426539_2513107852474500_4142745874653838614_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SCjXxYrlXnIQ7kNvwGI26yJ&_nc_oc=AdoEQtE82WFBZGXGX5laea-cago-bF5QAUwlwntAYQnvCiJRnuZyAqcCvxwz9aPO-Fo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKkDUUIzQvDJ_58HoHnYsR4BlyvKauwxom25xalo8-Suw&oe=6ABDBE2F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709783267_2212359896228970_6893199211007501583_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=10hfAeS109MQ7kNvwHfq1KI&_nc_oc=Adoa6456J7HO0ysU08tDbNBiF645przLP3Ksd6FxBjTiAKDsRthZ1XjwtpW4DL8DSTM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKIt7WA7sIo8UwHRgMdQeJ9AjX6Xp6aKjqvI63zljIx8w&oe=6ABDAC6A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709821476_988602030587195_3022060786069191823_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DgndWEqYQVQQ7kNvwG-oHWi&_nc_oc=AdpSnj5CKvKc2L3KDz92cEh0FoT5XDFHJm0lw35eVJ3_1GJXYfRLkRDa_mVqSNIU02o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQLY9fepcBfsSS-VwEhzcT7q4HePkSKC9lb6Xga8YdWQBQ&oe=6ABD95E1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709769472_1704378723903151_8301577322465105785_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AzkU3RLo-PUQ7kNvwEhBSSC&_nc_oc=AdqM68SeLbxlZo2k8rDidY0jfZ0CSQUqSlqI2_AeuXaGLoLrDInYqhPA-S7GkDB1l7A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=zjGa-herqLeOI5146l_Ntw&_nc_ss=70289&oh=00_AQKBcjVCIG7ESK1L3_yAlgLLxNO8y1Ds36BGDURgYs9jfQ&oe=6ABD9FD0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2092884131257694"
+      },
+      {
+        "id": "931678806553611",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/canvas_doc/24066249029679551"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "721922250790681",
+        "text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "links": [
+          "https://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2382968505553720",
+        "text": "ההאו-בים שלכם מחכים לנו...\nאל תשכחו אותנו בעגלת הקניות😉",
+        "links": [
+          "https://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "885704607425626",
+        "text": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+        "links": [
+          "http://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4333946816932100",
+        "text": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "links": [
+          "http://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1881639479140159",
+        "text": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+        "links": [
+          "http://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "25026480167028090",
+        "text": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "links": [
+          "http://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "931678806553611",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+        ]
+      },
+      {
+        "ad_id": "924877866741536",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+        ]
+      },
+      {
+        "ad_id": "1232321221761949",
+        "text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "links": [
+          "https://www.petsale.co.il/"
+        ]
+      },
+      {
+        "ad_id": "845548861867751",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
+        ]
+      },
+      {
+        "ad_id": "1251864783496067",
+        "text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+        "links": [
+          "https://fb.com/canvas_doc/24066249029679551"
+        ]
+      },
+      {
+        "ad_id": "1502177081238641",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
+        ]
+      },
+      {
+        "ad_id": "968381865795351",
+        "text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
+        ]
+      },
+      {
+        "ad_id": "3529892920492724",
+        "text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
+        ]
+      },
+      {
+        "ad_id": "2092884131257694",
+        "text": "רוצים לראות את ההבדל בעיניים? ✨\nעם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם.\nאל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+        "links": [
+          "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.petsale.co.il/",
+      "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+      "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
+    ]
+  },
+  "current_ads": [
+    {
+      "ad_id": "721922250790681",
+      "start_date": "2025-06-09",
+      "days_running": 474,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "variations": 1,
+      "primary_text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+      "cta": "לקנייה",
+      "landing_url": "https://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/721922250790681_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/721922250790681_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=721922250790681"
+    },
+    {
+      "ad_id": "1232321221761949",
+      "start_date": "2025-06-09",
+      "days_running": 474,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "variations": 1,
+      "primary_text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+      "cta": "לקנייה",
+      "landing_url": "https://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1232321221761949_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1232321221761949_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1232321221761949"
+    },
+    {
+      "ad_id": "885704607425626",
+      "start_date": "2026-02-24",
+      "days_running": 214,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+      "cta": "לקנייה",
+      "landing_url": "http://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/885704607425626_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/885704607425626_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=885704607425626"
+    },
+    {
+      "ad_id": "4333946816932100",
+      "start_date": "2026-02-24",
+      "days_running": 214,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+      "cta": "לקנייה",
+      "landing_url": "http://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/4333946816932100_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/4333946816932100_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=4333946816932100"
+    },
+    {
+      "ad_id": "1881639479140159",
+      "start_date": "2026-02-24",
+      "days_running": 214,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+      "cta": "לקנייה",
+      "landing_url": "http://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1881639479140159_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1881639479140159_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1881639479140159"
+    },
+    {
+      "ad_id": "25026480167028090",
+      "start_date": "2026-02-24",
+      "days_running": 214,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חיות, אוכל וציוד לחיות מחמד, אוכל לכלבים, לחתולים ולבעלי חיים. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנ...",
+      "cta": "לקנייה",
+      "landing_url": "http://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/25026480167028090_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/25026480167028090_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=25026480167028090"
+    },
+    {
+      "ad_id": "924877866741536",
+      "start_date": "2026-02-25",
+      "days_running": 213,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "רוצים לראות את ההבדל בעיניים? ✨\nעם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם.\nאל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!\nלרכישה מיידית לחצו כאן\nLearn More",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "",
+      "cta": "מידע נוסף",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/924877866741536_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/924877866741536_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=924877866741536"
+    },
+    {
+      "ad_id": "845548861867751",
+      "start_date": "2026-02-25",
+      "days_running": 213,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.\nאיכות פרימיום במחיר מעולה! ✨\nLearn More",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "",
+      "cta": "מידע נוסף",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/845548861867751_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/845548861867751_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=845548861867751"
+    },
+    {
+      "ad_id": "1502177081238641",
+      "start_date": "2026-02-25",
+      "days_running": 213,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.\nאיכות פרימיום במחיר מעולה! ✨\nLearn More",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "",
+      "cta": "מידע נוסף",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1502177081238641_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1502177081238641_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1502177081238641"
+    },
+    {
+      "ad_id": "2382968505553720",
+      "start_date": "2026-02-27",
+      "days_running": 211,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "ההאו-בים שלכם מחכים לנו...\nאל תשכחו אותנו בעגלת הקניות😉",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "פטסייל - חנות חנות ציוד לחיות מחמד, אוכל לחיות. כל המותגים האהובים במקום אחד - טייסט אוף דה ווילד, נסקגארד ספקטרה, פרופלאן, ברבקטו, רויאל קנין, מונג' ועוד. כל המוצרים שלנ...",
+      "cta": "לקנייה",
+      "landing_url": "https://www.petsale.co.il/",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/2382968505553720_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/2382968505553720_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=2382968505553720"
+    },
+    {
+      "ad_id": "968381865795351",
+      "start_date": "2026-05-29",
+      "days_running": 120,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 2,
+      "primary_text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+      "headline": "פט סייל - Pet Sale",
+      "multiple_versions": false,
+      "description": " ",
+      "cta": "לפרטים",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/968381865795351_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/968381865795351_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=968381865795351"
+    },
+    {
+      "ad_id": "3529892920492724",
+      "start_date": "2026-05-29",
+      "days_running": 120,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "המדע מאחורי הבריאות שלהם מתחיל בקערה. 🧬\nכשזה מגיע לחבר הכי טוב שלך, אתם לא רוצים לנחש. מזון הילס (Hill's) פותח על ידי צוות של מאות ווטרינרים ותזונאים כדי להבטיח חיים ארוכים, פרווה מבריקה ומערכת עיכול חזקה.\nב\"פט סייל\" דאגנו לכם למלאי טרי של כל הסדרות: Science Plan, Prescription Diet ועוד.",
+      "headline": "פט סייל - Pet Sale",
+      "multiple_versions": false,
+      "description": " ",
+      "cta": "לפרטים",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/3529892920492724_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/3529892920492724_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=3529892920492724"
+    },
+    {
+      "ad_id": "2092884131257694",
+      "start_date": "2026-05-29",
+      "days_running": 120,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 1,
+      "primary_text": "רוצים לראות את ההבדל בעיניים? ✨\nעם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם.\nאל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+      "headline": "פט סייל - Pet Sale",
+      "multiple_versions": false,
+      "description": " ",
+      "cta": "לפרטים",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/2092884131257694_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/2092884131257694_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=2092884131257694"
+    },
+    {
+      "ad_id": "931678806553611",
+      "start_date": "2026-06-02",
+      "days_running": 116,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "variations": 2,
+      "primary_text": "רוצים לראות את ההבדל בעיניים? ✨\nעם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם.\nאל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!\nלרכישה מיידית לחצו כאן\nSee Details",
+      "headline": "",
+      "multiple_versions": true,
+      "description": "",
+      "cta": "לפרטים",
+      "landing_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/931678806553611_0.jpg"
+        },
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/931678806553611_1.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=931678806553611"
+    },
+    {
+      "ad_id": "1251864783496067",
+      "start_date": "2026-06-03",
+      "days_running": 115,
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "variations": 1,
+      "primary_text": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+      "headline": "אין כניסה לפרעושים וקרציות",
+      "multiple_versions": false,
+      "description": "ברבקטו, סרסטו, נקסטגארד ועוד",
+      "cta": "לפרטים",
+      "landing_url": "https://fb.com/canvas_doc/24066249029679551",
+      "media": [
+        {
+          "type": "image",
+          "path": "2026-09-26-018/current_ads/1251864783496067_0.jpg"
+        }
+      ],
+      "likely_winner": true,
+      "library_url": "https://www.facebook.com/ads/library/?id=1251864783496067"
+    }
+  ],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T14:59:28",
+    "filtered": "2026-09-26T15:02:06",
+    "qualified": "2026-09-26T15:07:15",
+    "collected": "2026-09-26T15:18:22"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.petsale.co.il/",
+      "https://www.petsale.co.il/",
+      "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+      "https://www.petsale.co.il/about",
+      "https://www.petsale.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "konimbo",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

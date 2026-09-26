@@ -1,0 +1,646 @@
+{
+  "lead_id": "2026-09-26-026",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://drfood.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "drfood1@gmail.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61565445343461/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/dr_food_pet/",
+      "source": "https://www.drfood.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972584544284",
+      "source": "https://www.drfood.co.il/",
+      "confidence": "high"
+    }
+  },
+  "meta": {
+    "page_id": "410471132153680",
+    "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+    "active_ads_count": 12,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "1678568373389101",
+        "link_title": "{{product.name}}",
+        "body": "היי, יש לנו הרגשה ששכחת כמה מוצרים בעגלה שלנו🛒\nמחכים לך באתר עם מגוון הטבות ומשלוח מהיר עד הבית!",
+        "landing_url": "https://www.drfood.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710710201_1289432853271349_2455635581927988557_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jgdudciRh-IQ7kNvwGB2zGG&_nc_oc=AdqMDv2y6G5SDX7iQgAgsCIekGBbl8uT350duWD_fvlxvK501ziYrAsG2hME-H5ZOVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKAMlL7WUHuumMpw-p26AL-cwgPMwWjZoiVaVuwmZmuBw&oe=6ABDA764",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711466683_2404149373346307_1061564737745000597_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oH5Lny4cabEQ7kNvwFgF9Vg&_nc_oc=Adqmk1yZTYUisbBw1lby-wuhtjPSgrr2235fbpLT5GmdJMUK1ZM6Bj33fx6q6AXY-yk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKpvhZiNiuXoZ-ym3HAwFY21lSUMOSy9cHRSnN3dkhGyA&oe=6ABDC54D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709226891_997387652742816_6755359718543720485_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vGkKV6rtqDIQ7kNvwGPKTPi&_nc_oc=Ado7bMM4R6K4k7aKH8_HDKltZkVLSaKIug4eBjZWWkw7FUSnDHpQOEmCqNXCCSE7LHY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQI3XM_dKaF8k4GWrL5I9tFPASRVpLgVdHaIdBDzItjskg&oe=6ABDBB01"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1780038000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1678568373389101"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 12,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 316,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1678568373389101"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 316,
+    "page_categories": [
+      "Pet Store"
+    ],
+    "page_ads": [
+      {
+        "id": "2518069428585965",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "🚫נלחמים בפרעושים וקרציות!🚫\nקולרים, אמפולות וכדורים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.\nמחירים הכי משתלמים רק אצלנו בד\"ר פוד!",
+        "link_description": "מבצעים - ד\"ר פוד - רשת המומחים לבעלי חיים",
+        "landing_url": "https://www.drfood.co.il/525235-%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1757487600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/510410104_1110100557625643_8308181974904409267_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rX_6inZ9jn0Q7kNvwEiAo8b&_nc_oc=Adojc8qGP-OKW1kiLZT_4NUslVJ5j1TeD8pT7ZHY3CKzkh6V19QIJC1-cn5wGQGbwlk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQK_mxj4scL8V6vBuGTpUtH0Vz9gxGMTWTwXw9PvkWK3QA&oe=6ABD9A45",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/511027880_4093266900923675_5387418151116663723_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KO0odIGJnY8Q7kNvwHJB3hI&_nc_oc=AdpzVLSB7h00ImM49uZqZdEfCDE7_PcE9rwsKB-LNwbDhyU_iW_nNaCq9QXD0AFW3bw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIkqKjTAB4dWdF5XD3KxzQ0o1RMUnxe4JjJxf_ddWojZQ&oe=6ABDB415",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510595335_1671839320876500_7633213593773151272_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NAWajdjXL50Q7kNvwGdzTam&_nc_oc=AdqN5QEyJutvN0QsOtJpn7JIdHVLalJND-8j_QB3-7i96w0uUKfC4XyFwG5Umue1iy0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIPYi9zq1Ng6-I4pyvDL_JD7IFwsGK7lvKzthXgDzlylw&oe=6ABD9D58",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/509988617_4128226837417691_5851134113781324167_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B8AUZupQh7AQ7kNvwGVs2zC&_nc_oc=AdolCmlacdsvBeL5MnH4ytmTl6LH-XZByPivOhw4kYf72-2m6oXmyFdxXrMuSkHZQFc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKejPosXT74j1gcTJl3qHuwdKKk2r_bGFcC40zUR_3mTw&oe=6ABDAB79",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/512183815_1706589333346540_8948943523949086900_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3zuiV4HH17kQ7kNvwGR73Ky&_nc_oc=AdpCLuS12_dESEPI-2sqImfG-1wi0Zy3qBU_73rJvAUFR6OHjKSbAJbvQFASZbAA-5w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQI3x1iextGjwKuOZhM6bJU5gynCNy0BjJ19ilymU8zbzQ&oe=6ABDAF15",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510164921_1035213788729689_7503192448855826448_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U-SuMZ0c-24Q7kNvwGfQ6NH&_nc_oc=AdrzsWCKyVfhTkPS5RGox5zNEVrY3at2fGlf--phR7sq9h_TJJozZ_i4aJiP9-X630Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQK6B0sKq5GJKHpEVLCMXWZ1PYqkTteEuGRziz9YOf3-fg&oe=6ABDCC12"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2518069428585965"
+      },
+      {
+        "id": "1526056828601950",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.short_description}}",
+        "body": "כל ארוחה נגמרת בגירודים, הקאות או דרמה בבטן? 😕\nבדר פוד מחכה לכם מגוון מזונות היפואלרגניים מהמותגים המובילים בעולם לכלבים ולחתולים 🐾\nאוכל איכותי, מותאם לרגישויות, שעוזר להחזיר את השקט הביתה 💫\nהכול זמין באתר עם שירות אישי ומשלוח עד הבית 🚚\nהקליקו עכשיו ובחרו להם את המזון שיעשה להם טוב מבפנים ומבחוץ 💚",
+        "link_description": "ד\"ר פוד - חנות חיות לאוהבי חיות, אצלנו תמצאו מגוון רחב של אוכל לחיות, אוכל לכלבים, אוכל לחתולים, מזון לבעלי חיים, מזון יבש לכלבים, שימורים לחתולים, מזון רטוב לכלבים ועוד...",
+        "landing_url": "http://www.drfood.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1765440000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597912702_2999523260245467_5440987739417682265_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MTchtklAk3cQ7kNvwFgAnIg&_nc_oc=Adq6LGl_4QXvaD9IikASurYys2BP1-qVpJJZ6K7dALwnhEYwiW3K5m_QvqQJ_hCsKTA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQL8sdKl953rF-ZKWohVucJcUFlyefCA1uz_n8RSmAla3w&oe=6ABDAAA5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/598715459_1937807976806384_5594921050234096841_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DY353wWcNW4Q7kNvwHtbQ_S&_nc_oc=AdpusemuPnQKBHn6zTRdge5hlcfFhrBb5hes_P9AtuC1K7rx-zf7CMtXGPkjdUbzsX4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJAEAs7r9DSAEX_qLPmUJQ1rWWXhQJgO57iaHZKNNcjgg&oe=6ABDA842",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597821161_1308790247669908_8166169075194912638_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jje1FDWaAH8Q7kNvwF9vb0K&_nc_oc=AdoVHcTwZZpPlrROw91G-wITg_nswm9DfepqD_GJjbQ_VDPBV5Mu6oErzULbITUevbk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLC0og7eP1NtnWds_wU9a8ux4p_BMChKg3MDy-ClCC8tQ&oe=6ABDAB43",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/597869121_1869395193674766_344522248731133222_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=er4UEUBSb00Q7kNvwF32Q0x&_nc_oc=Adqf_KLemOyZj1mqcpy8qO7Gk8Yk4t3JGxv6045WaAlGj0hl2vAPRBLck1p2Oqty1Fs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLaM4d4vlBllx-ZzoJ9Ne5TPsbopK9mzDMP0LLKHPmSUA&oe=6ABDCAB9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597862590_1443980467257021_6714406951449767691_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RIvX10mgurgQ7kNvwH3xTSg&_nc_oc=Adrh8wL_OoQul6YB4q7xvptg4HS44NPh_pK-Q_lVGPwOSkK3jGOWLyxwQMeaEPzrTNM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKs0qT60wuWdSXMvsbjGA08c9UhbM9OLafO7zLhR52Wug&oe=6ABDAC30",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/597819915_1213243617351244_3880484471102366442_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5YLF1hF9mXEQ7kNvwFPNEIN&_nc_oc=Adp4hL-oPJzjuri6YMLWv66wcIZeKvuK-hDhrJko7viwsWEUtanbZxA2c4VCyNluqoI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKb1Pq4S4zCplkjltl-2V3Ekz4j1MHIeDV7cyCTXPPmXg&oe=6ABDA226"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1526056828601950"
+      },
+      {
+        "id": "1678568373389101",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "היי, יש לנו הרגשה ששכחת כמה מוצרים בעגלה שלנו🛒\nמחכים לך באתר עם מגוון הטבות ומשלוח מהיר עד הבית!",
+        "link_description": "ד\"ר פוד - חנות חיות לאוהבי חיות, אצלנו תמצאו מגוון רחב של אוכל לחיות, אוכל לכלבים, אוכל לחתולים, מזון לבעלי חיים, מזון יבש לכלבים, שימורים לחתולים, מזון רטוב לכלבים ועוד...",
+        "landing_url": "https://www.drfood.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710252407_1500069654930996_6588194184638633506_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2R3pAd8qF14Q7kNvwF-hPxA&_nc_oc=Adqtzi6HlVHTenBKzBddDc8IDD9iyrQ_fj9lEnlbjVo4m9xCJ8jXHI-6nsQUcATObRc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLHvWSIrPtL9SyJUFeSkFhuPHUjR3OWvUCJolMEFMe9dQ&oe=6ABDCB51",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709226891_997387652742816_6755359718543720485_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vGkKV6rtqDIQ7kNvwGqQO4w&_nc_oc=AdqaQJmf2rLIgneoOgUrvCSS3y3Xb1AmRGmbZdE0oZtxUeQksh-01kpINLgEkS_TLc8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJZhG_aLPC8TC7gaMytImJjHunK0D6zGzf7xptntCcJwA&oe=6ABDBB01",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710059383_1555645716280357_6020680741782052983_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A2-xFhHXhKwQ7kNvwGES73O&_nc_oc=Adrd0ntsF9hs9sXq309r5IaGoXH3ACJ64dBZVQjgkX8y6hghrZ7ihXwOW704VVzuveI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJiIRPkr5Ej1bcFftx6SNH1GmGK1bgaOd_Nwb3drelZCw&oe=6ABDB55A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711466683_2404149373346307_1061564737745000597_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oH5Lny4cabEQ7kNvwEjqrsj&_nc_oc=AdoXZ_vJAVD0UT4v4fk4xQUp5d39pZgTVDci_Vx3T5jeH5V6Mzr7zw8ZEAwySYNDvVY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKh4piwXIM6vEuOec7tKQsSPjPNJTvANO2e-b0nxO9YHg&oe=6ABDC54D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710745877_2403381490162665_2039135320960216855_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UHJ7Oc3Ob60Q7kNvwGBAqUm&_nc_oc=AdroLScY07_Oq5DyQWhcfcNSHNJX5wpRFCqtnmSuaPX8D_qLY7go1UUtXa--oqIpKCw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJoE8NgTQ1424fG8sVOd0TEJL0IKWgWFIuIotHb4HAl-A&oe=6ABDC82E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710710201_1289432853271349_2455635581927988557_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jgdudciRh-IQ7kNvwEeyDkm&_nc_oc=Adr7UEzewPLmbV5BlsPrwA-QvB83jScnHyqSgBpAHxzUPIprDexhkiqzoNNfcASaGn4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLcBNhH6IioEHNDrbHwn414A7OZeuABzyTgj24rRjXsiA&oe=6ABDA764"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1678568373389101"
+      },
+      {
+        "id": "1849236635712993",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.short_description}}",
+        "body": "כל ארוחה נגמרת בגירודים, הקאות או דרמה בבטן? 😕\nבדר פוד מחכה לכם מגוון מזונות היפואלרגניים מהמותגים המובילים בעולם לכלבים ולחתולים 🐾\nאוכל איכותי, מותאם לרגישויות, שעוזר להחזיר את השקט הביתה 💫\nהכול זמין באתר עם שירות אישי ומשלוח עד הבית 🚚\nהקליקו עכשיו ובחרו להם את המזון שיעשה להם טוב מבפנים ומבחוץ 💚",
+        "link_description": "ד\"ר פוד - חנות חיות לאוהבי חיות, אצלנו תמצאו מגוון רחב של אוכל לחיות, אוכל לכלבים, אוכל לחתולים, מזון לבעלי חיים, מזון יבש לכלבים, שימורים לחתולים, מזון רטוב לכלבים ועוד...",
+        "landing_url": "http://www.drfood.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1765440000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597907136_1583753993056452_3220688197970026010_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NIcFNo5SneIQ7kNvwHfLo0b&_nc_oc=AdoDL6INGeutOqmVRGfnqdZyJCIuHku-g-gnUgxHIyZpO1LfxhUnF9kwQkmDfRiqytY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIV-iCzNpO8EtudzgFneRfLnPAtrgEWnVGdG_7qBZQH3w&oe=6ABDBC1A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/598699554_836500905661851_1001085559257454743_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T1Ga3mgjTTIQ7kNvwEm7dD4&_nc_oc=AdpaoTmi8H7etuimlSxGBpvugDE1yxGe09cdnQqL_NUPTRPmMCUGZRDiwR-u_yxQ3IY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLrwPC0pqphvBzBx0w3hZwqB0GaezraLBdidlETTO6JSw&oe=6ABDCD6F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597356832_695636966953809_9191396869356908913_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0WyIBGf32bkQ7kNvwGR0fKP&_nc_oc=AdqYGQnjz4nBXz4Ei7WqqU_-PKourThvuuUQJYUibNMG5ZwGIlocrGyjnUfPcntbSB4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKtNaqZjZexug7QIK_Z3aIBfAb9lxYeyYooWRw2UIcGXg&oe=6ABDC4D5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597917108_1320648679861630_8396738175319481268_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EuupBU3BkmcQ7kNvwHWfjy2&_nc_oc=AdpJZjZwCXABbaBdAn67qEb5ViETd9dAoNKnmpK_61nvFjPS-9-66GoI2JSGkpw4rbs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJ52FNESzfCw0Qire3qchsBMo90hNkGMFH0e3_aautfcA&oe=6ABD9909",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/598957946_829443310061910_4325994933987572112_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h8JzYULvOKYQ7kNvwF1YcSb&_nc_oc=AdpdGIWXdKv-GIJ9vCuNNTbJU8FfPNHW5bqPFpan5YFPzwiHQAHEbd6thvVFz46Is50&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLTTK6rS4E80JCE0k1vFVBGJUn8V9dhHlauiaedx1gu2w&oe=6ABD99EE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/596389824_856057963854579_6813518344499509104_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rl4BA0SwtlQQ7kNvwEtwuLn&_nc_oc=AdooIIW9WBsvbO9JSZixpvVXkh3L2VXayooRKi4HmxTXVoR91xxHe7KHp8UdTbT3pXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLizrdMTQ04ApM-Ps2cHi84loGRck_BQlzNB2z2wPJKZA&oe=6ABDBAE2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1849236635712993"
+      },
+      {
+        "id": "1680445789722127",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "לכל המזונות>>>",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "ד\"ר פוד - חנות חיות לאוהבי חיות, אצלנו תמצאו מגוון רחב של אוכל לחיות, אוכל לכלבים, אוכל לחתולים, מזון לבעלי חיים, מזון יבש לכלבים, שימורים לחתולים, מזון רטוב לכלבים ועוד...",
+        "landing_url": "https://www.drfood.co.il/tags/237975",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814735567_2157910341453738_3984048942735501057_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xSMzJ7N3yo0Q7kNvwHnNVtn&_nc_oc=AdoVDkHCOKXencXUo1PUVyWtNMTOQZs5cscCb5zU2TiyLWbk4RSeLWJIs_HmzIlXtro&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJO-KVsnqfUGIEzViePWeWb-U35jSmzD0pPQL5p6p4l6A&oe=6ABDB0BB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1680445789722127"
+      },
+      {
+        "id": "1819779415682909",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "לכל המזונות>>>",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "ד\"ר פוד - חנות חיות לאוהבי חיות, אצלנו תמצאו מגוון רחב של אוכל לחיות, אוכל לכלבים, אוכל לחתולים, מזון לבעלי חיים, מזון יבש לכלבים, שימורים לחתולים, מזון רטוב לכלבים ועוד...",
+        "landing_url": "https://www.drfood.co.il/tags/237975",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813861018_1610896094043718_4174320588109474895_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XK9Qeo8R6FEQ7kNvwGcHDaD&_nc_oc=AdrQgFCDFiEs_qFHEswGiUtQgGm8Szr6x4_FBq0HAM3IPCXgx7RrjqBlyqdUooKK0BE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKQvfLv70zsxNPaJTH5dnDHK7_HkjnaqTNaqAHfkjmLQA&oe=6ABDB225"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1819779415682909"
+      },
+      {
+        "id": "1892222221323562",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.drfood.co.il/519497-%D7%94%D7%93%D7%91%D7%A8%D7%94-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1757487600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/509718032_723384327080405_8552182952525513774_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9P9FpcNaNYMQ7kNvwGBH7GY&_nc_oc=Adqe6LmOUDqH5TkbbgHxtjjpvwJ1jKc3aMosWUVlKKARvmGZ2klhj7an5XprdjVApVw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIAz3dprdGal05qxrFmVzP89qOteNW8eRsGKPovA4MDVQ&oe=6ABDA020",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510681234_1754699675143361_6923288451841496432_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eDGpTKl-in0Q7kNvwHfYtTe&_nc_oc=AdpxgJQ4EplLzmINj_0oF8Amw2koneNtgh7u0wUV5Z6wAtf2ynH77qy_2cpvdTTMNE4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIV8hq3a9BgbvJTkzKniltDNfwgDwDl3Wd_t-zWLjPXSQ&oe=6ABDA4A4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1892222221323562"
+      },
+      {
+        "id": "1085249667795201",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "לכל המזונות>>>",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "",
+        "landing_url": "https://fb.com/canvas_doc/832533359911371",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814785796_1050376911158367_5703248918751165008_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5qUjOT-SRM4Q7kNvwEfNHtP&_nc_oc=AdqDQo6eum0iqov4sASFCnOTCer80VHV1G5iUsF3oJ1SzgcfbFSquIKXd_NVz-L1XT0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKbm2KmxSQoa3DrEx-vdOP4R1UcvzgwcFwKaRR2fAPNmQ&oe=6ABDC697"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1085249667795201"
+      },
+      {
+        "id": "2296255804139411",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.drfood.co.il/519511-%D7%94%D7%93%D7%91%D7%A8%D7%94-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1757487600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/511435114_1944715915932991_7393037537587613545_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y8XHogM7sTYQ7kNvwFoIGgn&_nc_oc=AdppgI4AezaxQ7kAE_s47TmV6xaflGYEP9mwXfqW5Pr0MHYzJVE2r3QVWIQqpsFhcd0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKI_po1edsUFoTPgaGRig_T_nybEkeNLnPaufE5YFQeCw&oe=6ABDAE47",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/509364846_1433313437669618_3354577715979448288_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N5Qlk75z4IEQ7kNvwGov8GL&_nc_oc=Adq_f-ucKvnn8HpW3kCT35Ca3FkZSN9hWNqsMdpLAwcO0j608rMLwZzQEWpCR2VpfHc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIdYUVcv5fO1tXsENT9qId_67lMP6O8lm3YsInZYiPELQ&oe=6ABDAA82"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2296255804139411"
+      },
+      {
+        "id": "1410017177765527",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "לכל המזונות>>>",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "",
+        "landing_url": "https://fb.com/canvas_doc/1785564819261367",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813987410_1961911361151005_5625168557034989320_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XUCf_iumRJ8Q7kNvwFBNwXC&_nc_oc=Ado-kxaybW-U4sTNSG4qTBiNDKludoNbKL6GjeM37EEtdRVNl0lrs6tO0N6fBipiTXU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIYlPm7tC_pX1grMrd2nhoY8vu44ptbC-eXI9TVZnuqTw&oe=6ABD9CE1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1410017177765527"
+      },
+      {
+        "id": "1076551345342330",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "של המותגים המובילים",
+        "landing_url": "https://www.drfood.co.il/tags/237975",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814670686_1416090749993806_333380484459484640_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v4G82-89YKkQ7kNvwG9C4l5&_nc_oc=AdrtXZQlRBO2rw8ALBAbnI1O4NPLfBExJRvIlA2SIH5rG1TttcLfvoJHVeii07Y6xhA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQL6ALPxhDbWHHRNW40CMG45xvF-umQd1PY9uIjWkrsgyg&oe=6ABDB551",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814368402_2099490130663932_6711041838963192128_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZTyUAv4hEGcQ7kNvwGZKKPZ&_nc_oc=Adr8RN3hGcnwkB9C2u3ATecm0DY9j-Fehg0j4HIxxhh2Lmxq_aEMBf2hBcUQjweEM4o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIp2ksCDYEJLuKa2WsrCN2Sf81ed_ThPrng5VE4v2EcXA&oe=6ABD9AA5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813901509_1494718382493657_8836420085480429721_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hhpCUBnCJZwQ7kNvwGHNJgE&_nc_oc=AdqTXzwuig5ujRdxgyA_bG72o1fCm3NEOtktyQmE82jhjsZdX3Kkj2rdfX5LqLyFIAM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJkxKvDxOPXmZpr8J1dvHoJ84YsEUacdoQVZei5h9Rqxg&oe=6ABDA07E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813661604_1619302419608822_240753687376375441_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m-ix6fo6DM8Q7kNvwEjtsyd&_nc_oc=Adq6dDfVupuLVi3a_qG9c38BVWtOhEvfkGEdvRYlfZgR97kZN77MquRQ4m2HUGQhh-Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLDRh-nPe2FZWwMJxvSk5Apqi53CxnPhOjGjhlOcPXcrQ&oe=6ABDA9C5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814452796_1059307043666280_7373673833950093637_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dS_xjezDp-UQ7kNvwGjSYN9&_nc_oc=Adr7rzAdo25z22vJgyUPLYuwVZuj-xzGKF6PYXpJtfQMYEQPnXGgRjp55yBHbpvp3U8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIYlWHcJ9qnVWWLFtqzmX5RpS-NHI_y2xp87eteUSHK0w&oe=6ABDB7E0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813965963_1091006430325957_3401074863800621954_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0jzwCCUG-u0Q7kNvwH-SrSg&_nc_oc=AdonnDdexQVAIuwydl6DmPXF4LQoQvQ-HBjJgu6PVFZkSDGeSRPDeJ-qC0Q3qS1aevc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKZXzZPc_uLy9VeZ-vOX2nAgCsa5CZPHegEYlZxtc8mgw&oe=6ABDA8C2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813582667_971057436015419_503411422504822962_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K9YihxXX55sQ7kNvwHEW7Al&_nc_oc=AdpvbIgHllG8xPDhTXc8wwNGVQF1xaTSJsY1JwKOsjvOARfyafN6Tjt0cxJNeuKnuR8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQID5aW4na7LaxG2xr3wH1VUctIGocH1AI8RKbHmU7cVwg&oe=6ABDB8F5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1076551345342330"
+      },
+      {
+        "id": "1009624158758437",
+        "page_id": "410471132153680",
+        "page_name": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "page_url": "https://www.facebook.com/61565445343461/",
+        "page_like_count": 316,
+        "page_categories": [
+          "Pet Store",
+          "Veterinarian"
+        ],
+        "ad_creative_link_title": "ד\"ר פוד - חנות  חיות, מרפאה וטרינרית ומספרה לכלבים וחתולים ",
+        "body": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "link_description": "של המותגים המובילים",
+        "landing_url": "https://www.drfood.co.il/tags/237975",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814470936_1654438956253050_1217349662602639781_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YhtX6zbo5K4Q7kNvwHHgz0i&_nc_oc=AdrOMcKvReWkXlyvVnqL-T1bYo8geh7llCgsdUBtHwaEsKNPKvbrFD_IKABHxMI8mxE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQKJ68zgtP0IhVlffTlczlXXzO60xK6ZSQCsfgeKrgcIMQ&oe=6ABDC01B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813645672_1661653975386245_8989569819328688095_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vzemrrtZAOsQ7kNvwH-4rx3&_nc_oc=Adr8DwDaxyaaJBnSL8asdjuYTHno805kRCEiWvFI5kejNmOc_fBInytF-SfrwBCpWH8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQLSkjmmbbA_phMPwOXH4PjNqSlJWxMbxaUQTbLpSzS_pw&oe=6ABDAC16",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813841650_1070582982391530_2432851173388514413_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JNO-noLZyYoQ7kNvwF0h8NO&_nc_oc=AdrI4TrF301Jxm3HBzRFISe9asRxNQT9n0sEYFGmKccNTsxW9bMHdJrh1NZbOA1roto&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJWedbypm44jqyTaiUen1jOUe5Du6y4Qo1h_4R5N2hcmA&oe=6ABDA085",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814695407_1380374610847869_3661927224562088072_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZtfEaCON4w4Q7kNvwFTwNDU&_nc_oc=AdqX5x_EG-bcECJxFVsLwlKybnCKR6dANhq0s1UP3-QPekN0qRRp03GDxDGb3xPCBWs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIabhpNlBVihnayNyFmtHDBCICayBP0X93R9GQFKsQ7ZQ&oe=6ABDBC4F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813623877_1447380320617048_6408338872971275372_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TFIuJqg6VGQQ7kNvwFuQD3U&_nc_oc=AdrcEoBWJkNu3pjARdGD0_-h3dmcIZqm0j5CWgWO5iGhmDdZUvcHqAN9V2uLeBYFtmQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQK4jxGAaXDH6Y_3Q2w2iWLN_vsEkN7Fbvm21fEfBuT-Pg&oe=6ABDAD20",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813747461_1399924148235065_7937815604823136037_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-q-zGSoWkM8Q7kNvwFQINSm&_nc_oc=AdoLzuoZSKlPAQUjTrU_XpRL7KMGu8vxwZsDHcclHbQHtdXGsZL2h_PrJqCBRRWsPI4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQJ04bgPJn5ofwaasN6meDgjGBwpM0TkGLJZGs4rvmhaDA&oe=6ABDBCBF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813804879_1105337791868834_8544891618838525709_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3rJbVULe12AQ7kNvwHdIK-2&_nc_oc=Adq8EqRZEHWA68Ha-ZQZcUNhzY56NwmNSKVID6OCrw460s3n0WSovG_vg_8_x34I6UE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NAc0lI9OEfQwROsPFQzBbw&_nc_ss=70289&oh=00_AQIz4sSh8w4B4-b2O6OLcH8EhHriMCULI4MEs4f6vNWwMg&oe=6ABDBA8E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1009624158758437"
+      },
+      {
+        "id": "1678568373389101",
+        "body": "היי, יש לנו הרגשה ששכחת כמה מוצרים בעגלה שלנו🛒\nמחכים לך באתר עם מגוון הטבות ומשלוח מהיר עד הבית!",
+        "landing_url": "https://www.drfood.co.il/"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/canvas_doc/832533359911371",
+      "https://fb.com/canvas_doc/1785564819261367"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2518069428585965",
+        "text": "🚫נלחמים בפרעושים וקרציות!🚫\nקולרים, אמפולות וכדורים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.\nמחירים הכי משתלמים רק אצלנו בד\"ר פוד!",
+        "links": [
+          "https://www.drfood.co.il/525235-%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "1526056828601950",
+        "text": "כל ארוחה נגמרת בגירודים, הקאות או דרמה בבטן? 😕\nבדר פוד מחכה לכם מגוון מזונות היפואלרגניים מהמותגים המובילים בעולם לכלבים ולחתולים 🐾\nאוכל איכותי, מותאם לרגישויות, שעוזר להחזיר את השקט הביתה 💫\nהכול זמין באתר עם שירות אישי ומשלוח עד הבית 🚚\nהקליקו עכשיו ובחרו להם את המזון שיעשה להם טוב מבפנים ומבחוץ 💚",
+        "links": [
+          "http://www.drfood.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1678568373389101",
+        "text": "היי, יש לנו הרגשה ששכחת כמה מוצרים בעגלה שלנו🛒\nמחכים לך באתר עם מגוון הטבות ומשלוח מהיר עד הבית!",
+        "links": [
+          "https://www.drfood.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1849236635712993",
+        "text": "כל ארוחה נגמרת בגירודים, הקאות או דרמה בבטן? 😕\nבדר פוד מחכה לכם מגוון מזונות היפואלרגניים מהמותגים המובילים בעולם לכלבים ולחתולים 🐾\nאוכל איכותי, מותאם לרגישויות, שעוזר להחזיר את השקט הביתה 💫\nהכול זמין באתר עם שירות אישי ומשלוח עד הבית 🚚\nהקליקו עכשיו ובחרו להם את המזון שיעשה להם טוב מבפנים ומבחוץ 💚",
+        "links": [
+          "http://www.drfood.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1680445789722127",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://www.drfood.co.il/tags/237975"
+        ]
+      },
+      {
+        "ad_id": "1819779415682909",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://www.drfood.co.il/tags/237975"
+        ]
+      },
+      {
+        "ad_id": "1892222221323562",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.drfood.co.il/519497-%D7%94%D7%93%D7%91%D7%A8%D7%94-%D7%9C%D7%9B%D7%9C%D7%91%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "1085249667795201",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://fb.com/canvas_doc/832533359911371"
+        ]
+      },
+      {
+        "ad_id": "2296255804139411",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.drfood.co.il/519511-%D7%94%D7%93%D7%91%D7%A8%D7%94-%D7%9C%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "1410017177765527",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://fb.com/canvas_doc/1785564819261367"
+        ]
+      },
+      {
+        "ad_id": "1076551345342330",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://www.drfood.co.il/tags/237975"
+        ]
+      },
+      {
+        "ad_id": "1009624158758437",
+        "text": "הכלב או החתול סובל מרגישויות, גירודים או בטן רגישה\nהמזון ההיפואלרגני בדר פוד – מהמותגים המובילים בעולם 🌍 – נותן להם לאכול בשקט ולכם לנשום לרווחה\nעדין לעור ולמערכת העיכול, טעים ומאוזן תזונתית 💚\nמזמינים באתר דר פוד ומקבלים משלוח עד הבית 🚚\nלחצו עכשיו ותנו להם קערה שמרגישה אחרת 🥣",
+        "links": [
+          "https://www.drfood.co.il/tags/237975"
+        ]
+      },
+      {
+        "ad_id": "1678568373389101",
+        "text": "היי, יש לנו הרגשה ששכחת כמה מוצרים בעגלה שלנו🛒\nמחכים לך באתר עם מגוון הטבות ומשלוח מהיר עד הבית!",
+        "links": [
+          "https://www.drfood.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.drfood.co.il/525235-%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D",
+      "https://www.drfood.co.il/",
+      "https://www.drfood.co.il/tags/237975"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "filtered": "2026-09-26T15:09:07",
+    "qualified": "2026-09-26T15:12:30"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.drfood.co.il/",
+      "https://www.drfood.co.il/525235-%D7%9E%D7%91%D7%A6%D7%A2%D7%99%D7%9D",
+      "https://www.drfood.co.il/",
+      "https://www.drfood.co.il/about",
+      "https://www.drfood.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "konimbo",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

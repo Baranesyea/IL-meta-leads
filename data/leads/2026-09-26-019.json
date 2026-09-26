@@ -1,0 +1,109 @@
+{
+  "lead_id": "2026-09-26-019",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/hishhay4u/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "199973273354740",
+    "page_name": "חיש חי פתרונות ושרות לכלבים וחתולים",
+    "active_ads_count": 1,
+    "search_keyword": "מזון לחתולים",
+    "sample_ads": [
+      {
+        "ad_id": "700086352583752",
+        "link_title": "{{product.name}}-{{product.custom_label_4}}",
+        "body": "מבחר ענק של מזון וציוד לחתולים וכלבים במשלוחים לכל הארץ 🐾",
+        "landing_url": "https://hishhay.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491292713_1734338753845910_1915525446759942750_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jP55z53Y6UQQ7kNvwGeYCLA&_nc_oc=AdrT5Lkc3xCc8Mdm5d6ZxGzeRxmstkpuMUtLxlLf6MrMLbFOJBDu8xnK9yuh2kv7JJI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQKA4z3W8vlwIFcZ-YRjqeD6aU4_OJyEQWL9qBqeClLwiQ&oe=6ABDB1C7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491831714_689176070305305_7105585621534056563_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LpWqRyf3aZUQ7kNvwGcATHG&_nc_oc=AdoqvKjEoCjhUN9YcIwgPCqldQS1i7K2OJg2n7C2Tqu7LRM2SZhrHw6GDlExungPOjU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQJnajQMOdqq1HfMxjcWJ1qO3AEic_P7zIF0uhmW7mZA5Q&oe=6ABD973D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/490923673_655934007160243_8450661729116006840_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2TNvzx-YDKEQ7kNvwEyGjXy&_nc_oc=AdqS5-JzMIJRbzv6U-5aZF-P6gL48ouDKalbMyAM1g6Q5MYYGByYxXcgW_rlFce5TB0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zoh4VRwwuH336FuF9lFscQ&_nc_ss=70289&oh=00_AQINkwzWTpjp0TlFscGgLfdL6KHBGiIvZxo0SQHW6X9_wg&oe=6ABDAD95"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1744614000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=700086352583752"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2730,
+      "product_score": 4
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "700086352583752"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 2730,
+    "page_categories": [
+      "Local business"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-26T15:07:49",
+    "rejected": "2026-09-26T15:07:57"
+  }
+}
