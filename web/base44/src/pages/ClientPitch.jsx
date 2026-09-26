@@ -22,6 +22,7 @@ const CSS = `
 /* top bar — transparent over the hero, ivory after scroll */
 .bp .bar{position:fixed;inset:0 0 auto 0;z-index:40;height:74px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:0 28px;
   color:#f4eee4;transition:background .5s,color .5s,box-shadow .5s}
+.bp .bar.on-light{color:var(--ink)}
 .bp .bar.solid{background:rgba(250,247,241,.92);backdrop-filter:blur(14px);color:var(--ink);box-shadow:0 1px 0 rgba(0,0,0,.06)}
 .bp .bar .mark{font-weight:900;font-size:30px;letter-spacing:.12em}
 .bp .bar nav{display:flex;gap:28px;font-size:15px;font-weight:400}
@@ -79,6 +80,16 @@ const CSS = `
     -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%)}
   .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}}
 
+/* light hero (bright product photography, e.g. skincare): dark ink, ivory ground, light shades */
+.bp .hero.light{background:var(--hl-bg,#f2f0ea)!important;color:var(--ink)}
+.bp .hero.light .copy{text-shadow:none}
+.bp .hero.light .eyebrow{color:var(--gold)}
+.bp .hero.light .shade{background:linear-gradient(270deg,rgba(242,240,234,.85) 0%,rgba(242,240,234,.4) 42%,rgba(242,240,234,0) 70%)!important}
+.bp .hero.light .go{color:var(--ink);border-color:rgba(23,18,13,.55);background:rgba(255,255,255,.35)}
+.bp .hero.light .go:hover{background:var(--ink);color:var(--paper)}
+@media (max-width:760px), (max-aspect-ratio:1/1){
+  .bp .hero.light .shade{background:linear-gradient(180deg,rgba(242,240,234,.7) 0%,rgba(242,240,234,.35) 26%,rgba(242,240,234,0) 44%)!important}}
+
 /* call-to-action link used in the hero and after the review */
 .bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
   text-decoration:none;font-size:17px;font-weight:400;letter-spacing:.02em;transition:background .35s,color .35s}
@@ -134,6 +145,8 @@ html:has(.bp){scroll-behavior:smooth}
 .bp .band .q{position:relative;z-index:2;width:100%;text-align:center;padding:14vh 24px 0}
 @media (max-width:760px){.bp .band .bg{background-position:center 85%}.bp .band .q{padding-top:11vh}}
 .bp .band .q .script{font-size:clamp(70px,9vw,150px);line-height:1.05}
+.bp .band.light{color:var(--ink)}
+.bp .band.light .shade{background:linear-gradient(180deg,rgba(250,247,241,.82) 0%,rgba(250,247,241,.45) 38%,rgba(250,247,241,0) 60%)}
 .bp .band .q .by{margin-top:26px;font-size:16px;letter-spacing:.06em;opacity:.85}
 
 /* pitch: what we saw */
@@ -467,7 +480,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
     <div className="bp">
       <style>{CSS}</style>
 
-      <header className={`bar ${y > 60 ? "solid" : ""}`}>
+      <header className={`bar ${y > 60 ? "solid" : ""} ${r.hero_theme === "light" ? "on-light" : ""}`}>
         <nav>
           <a href="#review">מה היינו משנים</a>
           <a href="#campaign">הקמפיין</a>
@@ -479,7 +492,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </header>
 
       {/* HERO — the brand's own campaign, full screen */}
-      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""}`}>
+      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""} ${r.hero_theme === "light" ? "light" : ""}`}>
         <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, "--hero-m": `url(${r.hero_bg_m || r.hero_bg})`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
         <div className="shade" />
         <div className="copy">
@@ -571,7 +584,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </section>
 
       {/* quote band */}
-      <section className="band" ref={bandRef}>
+      <section className={`band ${bd.theme === "light" ? "light" : ""}`} ref={bandRef}>
         <div className="bg" style={{ backgroundImage: `url(${bd.img || ad(bd.ad)?.img})`, transform: `translateY(${bandShift(bandRef.current, y)}px)` }} />
         <div className="shade" />
         <div className="q reveal">

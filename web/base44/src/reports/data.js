@@ -1607,5 +1607,1607 @@ export const REPORTS = {
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"
+ },
+ "astain-3f8c21d7": {
+  "slug": "astain-3f8c21d7",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/astain/raw_01.webp",
+    "headline": "מהחווה שלנו לעור שלך",
+    "primary": "את האצה האדומה אנחנו מגדלים בעצמנו, בחווה שלנו במושב יד רמב״ם.\n\nממנה אנחנו מפיקים אסטקסנטין טבעי, נוגד חמצון עוצמתי, והוא הלב של כל מוצר של Asta-In.\n\nמהחווה ישר לעור שלך. בלי מתווכים ובלי הפתעות.\n\nסרום פעיל אסטקסנטין, 349 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(86,37,14)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מהחווה שלנו בשפלה.<br>ישר לעור שלך.",
+     "sub": "אסטקסנטין טבעי · מיוצר בישראל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/astain/raw_02.webp",
+    "headline": "הסרום עם הכוח של האצה",
+    "primary": "הצבע האדום של האסטקסנטין הוא לא צבע מאכל. זה הפיגמנט של האצה עצמה.\n\nבסרום של Asta-In הוא מגיע יחד עם חומצה היאלורונית ושמנים בוטניים, להזנה, לחות ומראה רענן יותר.\n\nטבעוני, מיוצר בישראל, מאושר ע״י משרד הבריאות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,231,230)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפה אדומה אחת.<br>כל הכוח של האצה.",
+     "sub": "סרום פעיל אסטקסנטין",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/astain/raw_03.webp",
+    "headline": "מדע ישראלי, בבקבוק אחד",
+    "primary": "Asta-In שייך לחברת ביוטכנולוגיה ישראלית שמתמחה בגידול האצה Haematococcus pluvialis והפקת אסטקסנטין טבעי.\n\nאנחנו לא קונים חומר גלם. אנחנו מגדלים אותו, בודקים אותו ומפתחים ממנו את המוצרים.\n\nכל המוצרים טבעוניים, מאושרים ע״י משרד הבריאות ומיוצרים בישראל.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      518
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,224,221)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ביוטכנולוגיה ישראלית.<br>בבקבוק אחד.",
+     "sub": "מאושר ע״י משרד הבריאות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/astain/raw_04.webp",
+    "headline": "טבעי, טבעוני, ישראלי",
+    "primary": "רכיבים טבעיים, בלי ניסויים בבעלי חיים, בייצור ישראלי לפי תקני ISO, HACCP ו-GMP.\n\nכל מוצר של Asta-In מתחיל באצה שאנחנו מגדלים בעצמנו, ומסתיים בעור שלך.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(229,232,235)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טבעי. טבעוני.<br>ישראלי.",
+     "sub": "לא נוסה על בעלי חיים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/astain/raw_05.webp",
+    "headline": "3 שלבים לעור רגוע",
+    "primary": "שגרה של 3 שלבים לעור עם נטייה לפצעונים:\n\n1. ניקוי עדין עם סבון מוצק מועשר באוזון ואסטקסנטין.\n2. טיפול נקודתי עם אוקסי אסטה.\n3. איזון והזנה עם הסרום הפעיל.\n\nבוקר וערב, כמה דקות. הערכה המלאה ב-492 ש״ח במקום 692.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(207,205,199)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "3 שלבים.<br>בוקר וערב.",
+     "sub": "סבון · אוקסי אסטה · סרום",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/astain/raw_06.webp",
+    "headline": "הערכה שבנויה לעבוד יחד",
+    "primary": "לא צריך מדף מלא מוצרים. צריך שגרה נכונה.\n\nסבון, אוקסי אסטה וסרום: שלושה מוצרים שנבנו לעבוד יחד, לעור שנוטה לפצעונים, לאדמומיות ולשומניות.\n\n17 ביקורות, דירוג 4.94 מתוך 5.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(220,222,216)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שגרה אחת.<br>שלושה צעדים.",
+     "sub": "ערכת 3 שלבים · 492 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/astain/raw_07.webp",
+    "headline": "ניקוי שלא מייבש",
+    "primary": "השלב הראשון בשגרה: סבון מוצק בעבודת יד, מועשר באוזון, אסטקסנטין ושמנים טהורים.\n\nמנקה לעומק בלי לייבש, ומשאיר את העור רך ונקי.\n\n85 ש״ח, 100 גרם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(240,238,237)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "מתחילים בניקוי.<br>עדין.",
+     "sub": "סבון מוצק מועשר באוזון",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/astain/raw_08.webp",
+    "headline": "טיפול נקודתי חכם",
+    "primary": "אוקסי אסטה משלבת גז אוזון ואסטקסנטין בנוסחה אחת, לטיפול נקודתי בעור בעייתי.\n\nמנקה, מטהרת ומרגיעה את האזור, בדיוק איפה שצריך.\n\n249 ש״ח, 50 מ״ל.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      518
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(236,237,238)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפול נקודתי.<br>בדיוק איפה שצריך.",
+     "sub": "אוקסי אסטה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/astain/raw_09.webp",
+    "headline": "פחות להסתיר, יותר לחיות",
+    "primary": "יש ימים שבא לך פשוט לצאת מהבית. בלי שכבה, בלי להסתיר.\n\nשגרת Asta-In בנויה בדיוק לזה: ניקוי, טיפול ואיזון, עם אסטקסנטין טבעי מהאצה האדומה.\n\nהערכה המלאה ב-492 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(207,197,183)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הפנים שלך.<br>בלי פילטר.",
+     "sub": "שגרת טיפוח טבעית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/astain/raw_10.webp",
+    "headline": "המייקאפ יכול לחכות",
+    "primary": "המייקאפ יכול לחכות.\n\nהסרום הפעיל של Asta-In מזין את העור באסטקסנטין, חומצה היאלורונית ושמנים בוטניים, למראה רענן, חלק וקורן יותר.\n\n349 ש״ח במקום 399.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,235,235)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "פחות מייקאפ.<br>יותר עור.",
+     "sub": "סרום פעיל אסטקסנטין",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/astain/raw_11.webp",
+    "headline": "שגרה שמחזיקים בה",
+    "primary": "שגרה טובה היא שגרה שמחזיקים בה.\n\nשלושה מוצרים, כמה דקות בבוקר ובערב. בלי שלבים מסובכים ובלי עשרה בקבוקים.\n\nערכת Asta-In לעור עם נטייה לפצעונים, 492 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      648,
+      518
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(237,231,226)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חמש דקות בבוקר.<br>זה כל הסוד.",
+     "sub": "שגרת 3 שלבים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/astain/raw_12.webp",
+    "headline": "עור רגוע, ראש רגוע",
+    "primary": "כשהעור רגוע, הכול קל יותר.\n\nAsta-In נולד מאצה שגדלה בשפלה ומהרצון לתת לעור עם נטייה לפצעונים שגרה טבעית ועדינה.\n\nמשלוח חינם בקנייה מעל 450 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(245,245,244)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "עור רגוע.<br>ראש רגוע.",
+     "sub": "טבעי · מיוצר בישראל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/astain/raw_13.webp",
+    "headline": "למה דווקא אסטקסנטין?",
+    "primary": "אסטקסנטין הוא הפיגמנט שהופך את האצה האדומה לאדומה, ואחד מנוגדי החמצון המוערכים בטבע.\n\nהוא מסייע להגן על העור מפני נזקי סביבה, לחות וגמישות, ומראה זוהר ובריא יותר.\n\nאצלנו הוא מגיע ישר מהחווה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(240,240,240)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "נוגד חמצון עוצמתי.<br>מהאצה האדומה.",
+     "sub": "אסטקסנטין טבעי",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/astain/raw_14.webp",
+    "headline": "לחות שנספגת מהר",
+    "primary": "קרם פנים עם אסטקסנטין טבעי ושמנים בוטניים.\n\nמרקם קליל שנספג מהר, מעניק לחות לאורך היום ומשאיר את העור רך ונעים.\n\nחלק מהמארז המשקם לפנים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,235,233)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מרקם שנספג.<br>ומשאיר את העור רך.",
+     "sub": "קרם פנים טבעי",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "9:16",
+    "img": "/reports/astain/raw_15.webp",
+    "headline": "רגע של רעננות",
+    "primary": "טונר מרגיע ומאזן PH, בין הניקוי לסרום.\n\nמרענן, מרגיע ומכין את העור לספוג את מה שבא אחריו.\n\n119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,234,234)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "איזון PH.<br>בריסוס אחד.",
+     "sub": "טונר מרגיע",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/astain/raw_16.webp",
+    "headline": "שני כוחות, נוסחה אחת",
+    "primary": "האוזון ידוע בזכות תכונותיו המטהרות. האסטקסנטין בזכות ההגנה וההרגעה.\n\nבאוקסי אסטה הם עובדים יחד, לטיפוח עור בעייתי.\n\nעכשיו גם בגודל 100 מ״ל, 379 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(232,234,233)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אוזון ואסטקסנטין.<br>בנוסחה אחת.",
+     "sub": "אוקסי אסטה · 100 מ״ל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/astain/raw_17.webp",
+    "headline": "מארז שיער טבעי",
+    "primary": "שמפו, מרכך ומסכה משקמת, כולם עם אסטקסנטין טבעי.\n\nבלי פרבנים ובלי SLS, לשיער רך, מלא ומוזן.\n\nמארז השיער ב-179 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(224,220,217)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "גם לשיער<br>מגיע טבעי.",
+     "sub": "מארז שיער · 179 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/astain/raw_18.webp",
+    "headline": "מארז גוף משקם",
+    "primary": "סבון נוזלי, פילינג וקרם גוף משקם, עם אסטקסנטין ושמנים טבעיים.\n\nערב אחד בשבוע רק בשבילך. העור ירגיש את זה כל השבוע.\n\nמארז הגוף ב-235 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(236,237,238)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ערב אחד.<br>רק בשבילך.",
+     "sub": "מארז גוף · 235 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/astain/raw_19.webp",
+    "headline": "הלחות שנכנסת לכל תיק",
+    "primary": "שפתון טיפולי עם אסטקסנטין ושמנים טבעיים.\n\nלחות והגנה לשפתיים לאורך כל היום, בגודל שנכנס לכל תיק.\n\n46 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,238,237)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "לחות לשפתיים.<br>לכל היום.",
+     "sub": "שפתון טיפולי · 46 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/astain/raw_20.webp",
+    "headline": "האסטקסנטין שלנו, מבפנים",
+    "primary": "האסטקסנטין שלנו לא נעצר בקרמים.\n\nתוספי תזונה עם אסטקסנטין וקולגן, או אסטקסנטין וכורכומין, מאותה אצה שאנחנו מגדלים בשפלה.\n\n159 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(236,236,236)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפוח מבחוץ.<br>וגם מבפנים.",
+     "sub": "תוספי אסטקסנטין",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/astain/hero.webp",
+  "business": {
+   "name": "אסטאין",
+   "wordmark": "אסטאין",
+   "site": "https://astain.co.il/"
+  },
+  "address": "pl",
+  "hero_theme": "light",
+  "hero_eyebrow": "קוסמטיקה טבעית מאסטקסנטין · מיוצר בישראל",
+  "hero_title": [
+   "הכוח של האצה.",
+   "על העור שלך."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/astain/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "המודעות שלכם כבר מוכרות: המסר 'את לא צריכה להתאפר' רץ יותר מחודש בכמה גרסאות, וזה בדרך כלל סימן שהוא מביא כסף. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "המסר שלכם חזק",
+    "d": "'את לא צריכה להתאפר' רץ בכמה גרסאות כבר יותר מחודש. זה המסר שמזיז את הקהל שלכם, והוא ראוי לוויזואל ברמה שלו."
+   },
+   {
+    "t": "הסיפור הכי טוב לא מסופר",
+    "d": "אתם מגדלים את האצה בעצמכם, בחווה בשפלה. אף מתחרה לא יכול להגיד את זה, ואף מודעה שלכם עוד לא מספרת את זה."
+   },
+   {
+    "t": "אין תמונה שמוכרת איכות",
+    "d": "כל המודעות הן סרטונים מהטלפון. אין אף תמונת מוצר שמראה מותג ביוטכנולוגי, טבעוני ומאושר ע״י משרד הבריאות."
+   },
+   {
+    "t": "רק מוצר אחד מקבל במה",
+    "d": "כמעט כל המודעות מקדמות את ערכת האקנה. מארזי השיער והגוף, השפתון והתוספים לא מופיעים בכלל."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "מהאצה לעור",
+    "hook": "מהחווה שלנו בשפלה. ישר לעור שלך.",
+    "idea": "הסיפור שאף מתחרה לא יכול להעתיק: האצה האדומה שאתם מגדלים בחווה בשפלה, והופכת לסרום."
+   },
+   {
+    "id": "A2",
+    "name": "שגרת 3 השלבים",
+    "hook": "3 שלבים. בוקר וערב.",
+    "idea": "ניקוי, טיפול, איזון. הערכה מוסברת במבט אחד, כך שהלקוחה מבינה בדיוק מה היא קונה ואיך משתמשים."
+   },
+   {
+    "id": "A3",
+    "name": "בלי להסתיר",
+    "hook": "הפנים שלך. בלי פילטר.",
+    "idea": "המסר שכבר עובד לכם, 'את לא צריכה להתאפר', בשפה ויזואלית יוקרתית ואופטימית, בלי להצביע על הבעיה."
+   },
+   {
+    "id": "A4",
+    "name": "המדע שבטבע",
+    "hook": "נוגד חמצון עוצמתי. מהאצה האדומה.",
+    "idea": "אסטקסנטין, אוזון, איזון PH: הרכיבים כגיבורים, בצילום נקי של מעבדה וטבע. עונה על 'טבעי זה באמת עובד?'."
+   },
+   {
+    "id": "A5",
+    "name": "טיפוח לכל הגוף",
+    "hook": "גם לשיער מגיע טבעי.",
+    "idea": "שיער, גוף, שפתיים ותוספים: הרחבת הסל ללקוחות שכבר מכירות את המותג, והגדלת שווי ההזמנה."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/astain/cur_01.webp",
+      "w": 464,
+      "h": 832,
+      "video": true
+     },
+     {
+      "img": "/reports/astain/cur_02.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/astain/cur_03.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/astain/cur_04.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     5,
+     9,
+     11,
+     7
+    ]
+   }
+  },
+  "strip": [
+   1,
+   13,
+   5,
+   9,
+   16,
+   2,
+   17,
+   3
+  ],
+  "split": {
+   "ad": 5,
+   "eyebrow": "הערכה שלכם",
+   "title": [
+    "שלושה שלבים.",
+    "בוקר",
+    "וערב."
+   ],
+   "text": "סבון מוצק עם אוזון ואסטקסנטין, אוקסי אסטה לטיפול נקודתי וסרום פעיל לאיזון. שגרה קצרה וברורה לעור עם נטייה לפצעונים, עם דירוג 4.94 מתוך 5.",
+   "price": "492 ש״ח · במקום 692"
+  },
+  "band": {
+   "ad": 13,
+   "theme": "light",
+   "quote": "הטבע יודע לייצר. אנחנו רק מגדלים.",
+   "by": "אסטאין · מהחווה בשפלה"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם המותג שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "jewelryfactory-8d2e61b4": {
+  "slug": "jewelryfactory-8d2e61b4",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_01.webp",
+    "headline": "המתנה שהוא לא יוריד",
+    "primary": "יש גברים שאין להם צורך בכלום. חוץ מהדברים שבאמת חשובים להם.\n\nצמיד עור עם לוחיות פלדה וחריטה אישית של השמות שהוא הכי אוהב.\n\nייצור אישי תוך 48 שעות, 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(75,57,44)",
+     "scrim": "rgba(250,246,238,0.48)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "השמות של הילדים.<br>על היד שלו.",
+     "sub": "צמיד עור עם חריטה אישית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/jewelryfactory/raw_02.webp",
+    "headline": "צמיד עם השמות שלכם",
+    "primary": "צמיד עור קלוע עם לוחיות מפלדת אל־חלד, ועליהן השמות שלכם בחריטת לייזר מדויקת.\n\nמתנה שנשארת על היד שלו, יום אחרי יום.\n\n199 ש״ח, משלוח מהיר לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      291
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(66,58,51)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הוא לא יוריד אותו.<br>אף פעם.",
+     "sub": "עור איכותי · פלדת אל־חלד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/jewelryfactory/raw_03.webp",
+    "headline": "מתנה לאבא עם משמעות",
+    "primary": "מה קונים לאבא שיש לו הכול? את השמות של מי שהוא הכי אוהב.\n\nצמיד עור עם לוחיות חרוטות, מוכן אצלנו תוך 48 שעות.\n\nליום הולדת, לחג, או סתם כי מגיע לו.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      583,
+      326,
+      1015,
+      653
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(230,213,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לאבא שיש לו הכול.<br>חוץ מזה.",
+     "sub": "חריטה אישית · 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_04.webp",
+    "headline": "לא עוד מתנה למגירה",
+    "primary": "את מכירה את זה: קונים לו מתנה, והיא נשארת במגירה.\n\nצמיד עם חריטה אישית הוא מתנה שעונדים. כל יום.\n\nמגיע באריזת מתנה, ייצור תוך 48 שעות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(3,2,2)",
+     "scrim": "rgba(250,246,238,0.26)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתנה שהוא<br>באמת יענוד.",
+     "sub": "ייצור אישי תוך 48 שעות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_05.webp",
+    "headline": "יברכך ה׳ וישמרך",
+    "primary": "״יברכך ה׳ וישמרך״ חרוט על צמיד טיטניום, שהולך איתו לכל מקום.\n\nמתכת חזקה שלא מחלידה, וחריטה אישית שנשארת.\n\n199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(9,7,6)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ברכה<br>שהולכת איתו.",
+     "sub": "צמיד טיטניום עם חריטה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/jewelryfactory/raw_06.webp",
+    "headline": "כל התנ״ך, קרוב ללב",
+    "primary": "בתוך השבב הזעיר שבתליון נמצאים כל 24 ספרי התנ״ך, בכתב מיקרוסקופי.\n\nשרשרת עם ברכה חרוטה ושבב תנ״ך, בכסף או בזהב.\n\n399 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(13,7,4)",
+     "scrim": "rgba(0,0,0,0.52)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל התנ״ך.<br>בשבב אחד קטן.",
+     "sub": "שרשרת עם שבב תנ״ך",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/jewelryfactory/raw_07.webp",
+    "headline": "מתנה של שמירה",
+    "primary": "תליון זהב עם ברכה חרוטה ושבב שמכיל את כל התנ״ך.\n\nמתנה של שמירה, לבן, לבעל או לאבא.\n\n399 ש״ח, באריזת מתנה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(52,30,5)",
+     "scrim": "rgba(250,246,238,0.26)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "headline": "שמירה.<br>קרוב ללב.",
+     "sub": "תליון עם שבב תנ״ך",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_08.webp",
+    "headline": "המילים שילוו אותו",
+    "primary": "לפני טיסה, לפני משימה, לפני התחלה חדשה.\n\nצמיד עור עם לוחית חרוטה, עם ברכה או מילים שרק שניכם מבינים.\n\n199 ש״ח, מוכן תוך 48 שעות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(44,35,28)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "headline": "יוצא לדרך?<br>שיהיה לו איתו.",
+     "sub": "צמיד עור עם לוחית חרוטה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_09.webp",
+    "headline": "שרשרת עם השם שלה",
+    "primary": "שרשרת עם השם שלה, בכתב יד עדין ובציפוי זהב 14K.\n\nמתנה שהיא תענוד כל יום, ותזכיר לה ממי קיבלה.\n\n249 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      1039,
+      993,
+      1269
+     ],
+     "top": false,
+     "ink": "#1f1812",
+     "paper": "rgb(63,36,19)",
+     "scrim": "rgba(250,246,238,0.52)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "השם שלה.<br>בזהב.",
+     "sub": "שרשרת שם · ציפוי זהב 14K",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/jewelryfactory/raw_10.webp",
+    "headline": "צמיד אינפיניטי עם שמות",
+    "primary": "סימן האינסוף עם שני השמות שלכם, חרוטים בצמיד אחד.\n\nלבת הזוג, לאמא, או לחברה הכי טובה.\n\n299 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      648,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(29,18,9)",
+     "scrim": "rgba(250,246,238,0.52)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שני שמות.<br>לנצח.",
+     "sub": "צמיד אינפיניטי · 299 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/jewelryfactory/raw_11.webp",
+    "headline": "כל המשפחה בלב אחד",
+    "primary": "לב זהב עם חרוזים קטנים, ועל כל אחד שם של מישהו שהיא אוהבת.\n\nמתנה מושלמת לאמא ולסבתא.\n\nבאריזת מתנה, ייצור תוך 48 שעות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(60,44,30)",
+     "scrim": "rgba(250,246,238,0.44)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לב אחד.<br>כל המשפחה.",
+     "sub": "שרשרת לב עם שמות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_12.webp",
+    "headline": "המתנה שעוצרת לה את הנשימה",
+    "primary": "יש מתנות שפותחים ואומרים תודה. ויש מתנות שפותחים ושותקים לרגע.\n\nשרשרת עם השם שלה ולב קטן, בציפוי זהב.\n\n249 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(70,47,33)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הרגע שהיא פותחת<br>ומבינה.",
+     "sub": "שרשרת שם עם לב",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_13.webp",
+    "headline": "חריטת לייזר מדויקת",
+    "primary": "כל צמיד נחרט אצלנו, אחד־אחד, בלייזר מדויק.\n\nאתם בוחרים את המילים, ואנחנו דואגים שהן ייראו מושלם.\n\nייצור תוך 48 שעות, משלוח לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(13,8,6)",
+     "scrim": "rgba(0,0,0,0.16)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חרוט במיוחד.<br>בשבילו.",
+     "sub": "ייצור אישי תוך 48 שעות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/jewelryfactory/raw_14.webp",
+    "headline": "נעשה בשבילכם",
+    "primary": "כל תכשיט אצלנו נעשה לפי הזמנה, עם השם או המילים שבחרתם.\n\nבודקים, מלטשים, אורזים, ושולחים.\n\nמשלוח לכל הארץ תוך 1–3 ימים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      75,
+      1015,
+      313
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(12,6,3)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לא מהמדף.<br>מהסדנה.",
+     "sub": "משלוח 1–3 ימים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "9:16",
+    "img": "/reports/jewelryfactory/raw_15.webp",
+    "headline": "עוד מספיקים",
+    "primary": "שכחת שהיום הולדת בשבוע הבא? זה קורה.\n\nמזמינים היום, ותוך 48 שעות המתנה האישית מוכנה ויוצאת אליך.\n\nצמידים, שרשראות וארנקים עם חריטה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(15,9,7)",
+     "scrim": "rgba(250,246,238,0.42)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתנה אישית.<br>אצלך תוך 48 שעות.",
+     "sub": "משלוח לכל הארץ",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_16.webp",
+    "headline": "צמיד טיטניום שחור",
+    "primary": "צמיד רשת מטיטניום שחור, קל ונוח לכל היום, עם שבב שמכיל את כל התנ״ך.\n\nעיצוב נקי שמתאים לכל שעון ולכל סגנון.\n\n399 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      931,
+      993,
+      1255
+     ],
+     "top": false,
+     "ink": "#f4ecdf",
+     "paper": "rgb(12,8,8)",
+     "scrim": "rgba(0,0,0,0.64)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיטניום.<br>נבנה להישאר.",
+     "sub": "צמיד טיטניום עם שבב",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_17.webp",
+    "headline": "רגע אחד, לתמיד",
+    "primary": "תמונה אהובה, חרוטה על לב זהב קטן בצמיד.\n\nהזוגיות, הילדים או רגע אחד שלא רוצים לשכוח.\n\n399 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(55,36,22)",
+     "scrim": "rgba(0,0,0,0.26)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "התמונה שלכם.<br>על היד שלה.",
+     "sub": "צריבת תמונה אישית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/jewelryfactory/raw_18.webp",
+    "headline": "צמידים זוגיים",
+    "primary": "צמיד בשבילו, צמיד בשבילה, והשמות שלכם על שניהם.\n\nמתנה ליום נישואין, לחתונה או לסתם יום שבא לחגוג.\n\nמ-199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(32,17,9)",
+     "scrim": "rgba(250,246,238,0.32)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "headline": "שניכם.<br>חרוטים.",
+     "sub": "צמידים זוגיים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/jewelryfactory/raw_19.webp",
+    "headline": "מתנה לכל סיבה",
+    "primary": "לא צריך סיבה כדי לתת לו משהו שישמח אותו.\n\nצמידים, ארנקים ושרשראות עם חריטה אישית, באריזת מתנה.\n\nמזמינים היום, מקבלים תוך ימים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(50,41,35)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יום הולדת.<br>יום נישואין.<br>סתם יום.",
+     "sub": "מתנות לגבר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/jewelryfactory/raw_20.webp",
+    "headline": "המתנה לסבתא",
+    "primary": "כל הנכדים, כל הילדים, בלב אחד קטן שהיא תענוד כל יום.\n\nמתנה שסבתא לא תשכח.\n\nבאריזת מתנה, ייצור תוך 48 שעות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      526,
+      496,
+      904
+     ],
+     "top": false,
+     "ink": "#1f1812",
+     "paper": "rgb(84,56,37)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "סבתא תענוד<br>את כולם.",
+     "sub": "שרשרת לב עם שמות",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/jewelryfactory/hero.webp",
+  "business": {
+   "name": "ג׳ולרי פקטורי",
+   "wordmark": "ג׳ולרי פקטורי",
+   "site": "https://jewelryfactory.co.il/"
+  },
+  "address": "pl",
+  "hero_eyebrow": "תכשיטים ומתנות עם חריטה אישית",
+  "hero_title": [
+   "מתנה עם שם.",
+   "שנשארת על היד."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/jewelryfactory/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "המודעות שלכם כבר מוכרות: חלקן רצות כמעט עשרה חודשים, וזה בדרך כלל סימן שהן מביאות כסף. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "המוצרים שלכם נמכרים",
+    "d": "מודעות הקטלוג רצות 140 עד 290 יום. יש ביקוש אמיתי לצמידים ולשרשראות עם חריטה."
+   },
+   {
+    "t": "הצילום מוריד מהערך",
+    "d": "רקע לבן, אייקונים וקולאז'ים. מוצר של 199 ש״ח נראה במודעה זול יותר ממה שהוא באמת."
+   },
+   {
+    "t": "הרגע של המתנה חסר",
+    "d": "אתם מוכרים רגש: את מי שפותחת את הקופסה ומתרגשת. אף מודעה עוד לא מראה את הרגע הזה."
+   },
+   {
+    "t": "48 שעות קבור בטקסט",
+    "d": "ייצור אישי תוך 48 שעות הוא יתרון ענק לקונים של הרגע האחרון, והוא מופיע רק בשורה קטנה."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "השמות על היד שלו",
+    "hook": "השמות של הילדים. על היד שלו.",
+    "idea": "הצמיד הכי נמכר שלכם, בזווית רגשית במקום קטלוג: מתנה לגבר שאין לו צורך בכלום."
+   },
+   {
+    "id": "A2",
+    "name": "ברכה שהולכת איתו",
+    "hook": "כל התנ״ך. בשבב אחד קטן.",
+    "idea": "תכשיטי ברכה ושבב תנ״ך: אמונה ושמירה שנושאים כל יום. מוצר ייחודי עם סיפור, שמצדיק את המחיר."
+   },
+   {
+    "id": "A3",
+    "name": "בשבילה",
+    "hook": "השם שלה. בזהב.",
+    "idea": "שרשראות שם, אינפיניטי ולב עם שמות, בצילום רך וחם. קהל שלם שכמעט לא מקבל היום תקציב."
+   },
+   {
+    "id": "A4",
+    "name": "מתנה אישית תוך 48 שעות",
+    "hook": "לא מהמדף. מהסדנה.",
+    "idea": "החריטה בסדנה שלכם והייצור תוך 48 שעות: עונה על 'איך זה ייראה?' ועל 'זה יגיע בזמן?'."
+   },
+   {
+    "id": "A5",
+    "name": "רגעים שנשארים",
+    "hook": "שניכם. חרוטים.",
+    "idea": "תמונה חרוטה, צמידים זוגיים ומתנות לסבתא: מתנות לרגעים הגדולים, שמעלות את סל הקנייה."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/jewelryfactory/cur_01.webp",
+      "w": 720,
+      "h": 717,
+      "video": false
+     },
+     {
+      "img": "/reports/jewelryfactory/cur_02.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/jewelryfactory/cur_03.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/jewelryfactory/cur_04.webp",
+      "w": 1528,
+      "h": 1526,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     2,
+     5,
+     8,
+     9
+    ]
+   }
+  },
+  "strip": [
+   1,
+   9,
+   6,
+   3,
+   12,
+   16,
+   10,
+   19
+  ],
+  "split": {
+   "ad": 13,
+   "eyebrow": "הסדנה שלכם",
+   "title": [
+    "חרוט",
+    "במיוחד",
+    "בשבילו."
+   ],
+   "text": "כל תכשיט נחרט אצלכם בלייזר, לפי המילים שהלקוח בוחר, ויוצא תוך 48 שעות. זה היתרון שהופך קנייה של הרגע האחרון לבטוחה.",
+   "price": "מ-199 ש״ח · ייצור תוך 48 שעות"
+  },
+  "band": {
+   "ad": 6,
+   "quote": "יש מתנות שפותחים. ויש מתנות שעונדים.",
+   "by": "ג׳ולרי פקטורי · מתנות עם חריטה אישית"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם המותג שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
  }
 };
