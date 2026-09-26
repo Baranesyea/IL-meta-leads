@@ -447,5 +447,48 @@
     "missing": [],
     "site_blocked": false,
     "owner_instagram_found": false
+  },
+  "landing_audit": {
+    "ads_checked": 3,
+    "pages": 2,
+    "groups": [
+      {
+        "url": "https://annabeauty.co.il/מכון-שיזוף-בקריות",
+        "final_url": "https://www.annabeauty.co.il/%D7%9E%D7%9B%D7%95%D7%9F-%D7%A9%D7%99%D7%96%D7%95%D7%A3-%D7%91%D7%A7%D7%A8%D7%99%D7%95%D7%AA/",
+        "status": 200,
+        "kind": "other",
+        "title": "מכון שיזוף בקריות - שיזוף באור אדום וקולגן - נייח אנד ביוטי",
+        "h1": "מכון שיזוף",
+        "ads": [
+          "2339373390143539",
+          "1096049939742750"
+        ],
+        "messages": [
+          "שיזוף עוצמתי עם טיפוח עור באור אדום וקולגן"
+        ]
+      },
+      {
+        "url": "https://api.whatsapp.com/send",
+        "final_url": "https://api.whatsapp.com/send",
+        "status": null,
+        "kind": "whatsapp",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1364441832481887"
+        ],
+        "messages": [
+          "מגיע לך להתחדש"
+        ]
+      }
+    ],
+    "findings": [
+      {
+        "type": "offsite",
+        "url": "https://api.whatsapp.com/send",
+        "kind": "whatsapp",
+        "ads": 1
+      }
+    ]
   }
 }

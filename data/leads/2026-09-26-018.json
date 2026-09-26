@@ -1196,5 +1196,97 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
+  },
+  "landing_audit": {
+    "ads_checked": 15,
+    "pages": 4,
+    "groups": [
+      {
+        "url": "https://petsale.co.il/",
+        "final_url": "https://www.petsale.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "Pet sale פט סייל - חנות חיות, אוכל לכלבים וחתולים",
+        "h1": "פ טסייל - petsale",
+        "ads": [
+          "721922250790681",
+          "1232321221761949",
+          "885704607425626",
+          "4333946816932100",
+          "1881639479140159",
+          "25026480167028090",
+          "2382968505553720"
+        ],
+        "messages": [
+          "המוצרים המובילים במחירים המשתלמים ביותר",
+          "אוהבים את הילס (Hill's)",
+          "רוצים לראות את ההבדל בעיניים",
+          "ההאו-בים שלכם מחכים לנו"
+        ]
+      },
+      {
+        "url": "https://petsale.co.il/g/64405-יצרן/413310-Hills",
+        "final_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills",
+        "status": 200,
+        "kind": "category",
+        "title": "Pet sale פט סייל - חנות חיות, אוכל לכלבים וחתולים",
+        "h1": "Hills",
+        "ads": [
+          "845548861867751",
+          "1502177081238641",
+          "968381865795351",
+          "3529892920492724"
+        ],
+        "messages": [
+          "המדע מאחורי הבריאות שלהם מתחיל בקערה",
+          "פט סייל - Pet Sale"
+        ]
+      },
+      {
+        "url": "https://petsale.co.il/g/64405-יצרן/409961-Pro-plan",
+        "final_url": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
+        "status": 200,
+        "kind": "category",
+        "title": "Pet sale פט סייל - חנות חיות, אוכל לכלבים וחתולים",
+        "h1": "Pro plan",
+        "ads": [
+          "924877866741536",
+          "2092884131257694",
+          "931678806553611"
+        ],
+        "messages": [
+          "רוצים לראות את ההבדל בעיניים",
+          "פט סייל - Pet Sale"
+        ]
+      },
+      {
+        "url": "https://fb.com/canvas_doc/24066249029679551",
+        "final_url": "https://fb.com/canvas_doc/24066249029679551",
+        "status": null,
+        "kind": "facebook",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1251864783496067"
+        ],
+        "messages": [
+          "אין כניסה לפרעושים וקרציות"
+        ]
+      }
+    ],
+    "findings": [
+      {
+        "type": "home_many",
+        "url": "https://petsale.co.il/",
+        "ads": 7,
+        "messages": 4
+      },
+      {
+        "type": "offsite",
+        "url": "https://fb.com/canvas_doc/24066249029679551",
+        "kind": "facebook",
+        "ads": 1
+      }
+    ]
   }
 }

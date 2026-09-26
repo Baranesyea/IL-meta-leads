@@ -255,3 +255,24 @@
 - Leads 076 (Stav) and 066 (B-scents) set to `published` with `client_page`.
 - **Home photos** replaced with the cinematic dark set from Higgsfield history (nano_banana_flash, 928×1152): hero 4b737cbb, story 6360cdd0, end c6dbc1bc. More in the same series: 753a4f8a, b16c1144, a5148b6f, 0c8c9086, 0b894934, d0893915, 4204d371, a0d1e0cc, d07635b7.
   Hero photo edges are masked into the page colour; short phones (≤720px tall) get an 84% photo so the buttons never cover the face.
+
+## 2026-09-26 (night) — login 404, landing-page check, Red Star + Mega Pet
+- **/crm was 404 for Eran**: the platform's own login pages (Login/Register/ForgotPassword/ResetPassword) had no routes in
+  our custom App.jsx, so `navigateToLogin()` landed on a 404. Added the routes; `/login` translates the SDK's
+  `?from_url=` into the page's `?returnTo=` so a login from /crm returns to /crm.
+- **Rule from Eran**: only leads with a WhatsApp number (he works alone, mostly on autopilot). No WhatsApp = no lead.
+- **Landing-page check** `python -m src.landing <lead_id>...` → `lead["landing_audit"]`: groups the collected ads by the page
+  they lead to (redirects resolved, tracking params stripped, duplicate ad versions removed), classifies each page
+  (home / category / product / search / whatsapp / facebook / broken) and flags `home_many`, `same_many`, `broken`,
+  `offsite`. Client page: optional `COPY["landing"]` (eyebrow, title, text, flows[picks,count,count_label,to,title,url,
+  broken,note], points) renders "where your ads lead": their ads fanned → arrow → a browser-card of the page.
+  CSS class is `.lpads` (not `.ads` — that clashes with the campaign grid).
+  Ran on all WhatsApp-qualified leads. Findings worth a pitch: Red Star 4 ads → 404 (product handles changed),
+  Mega Pet 8 ads / 8 topics → home page, Pet Sale 7 ads / 4 messages → home.
+- **Red Star** (054, /p/redstar-02f7aee4): online beauty store, Givatayim. Glossy lacquer-red + cream editorial.
+  Regens: 9 (bare-shoulder crop → linen top), 15 twice (face cut, then text on cheek → woman in right half),
+  13 (dropper under the text → bottle in the right third), hero_m (stray hands).
+- **Mega Pet** (021, /p/megapet-beb32c3c): Be'er Sheva store + Ra'anana warehouse. Bold colour-studio pet portraits
+  (seamless teal / mustard / coral / cobalt paper). No regens. Same-day claim softened to "same day or within 24h"
+  (their site's wording).
+- Both added to the CRM with first messages that open on the landing finding.

@@ -300,5 +300,49 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
+  },
+  "landing_audit": {
+    "ads_checked": 3,
+    "pages": 2,
+    "groups": [
+      {
+        "url": "https://eli-paz.co.il/",
+        "final_url": "https://eli-paz.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "אלי פז - חנות תכשיטים בתל אביב. זהב, כסף, יהלומים, טבעות, שרשראות.",
+        "h1": "אלי פז - חנות תכשיטים",
+        "ads": [
+          "776887461408978",
+          "776887461408978"
+        ],
+        "messages": [
+          "אלי פז - חנות תכשיטים בתל אביב",
+          "בחנות תכשיטים של אלי פז בתל אביב יש - חנות יהלומים, חנות תכשיטי זהב, חנות טבעות, חנות שרשר"
+        ]
+      },
+      {
+        "url": "https://api.whatsapp.com/send",
+        "final_url": "https://api.whatsapp.com/send",
+        "status": null,
+        "kind": "whatsapp",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1074684208472272"
+        ],
+        "messages": [
+          "מבחר ענק של עגילי יהלומי מעבדה CVD הכל מתועד IGI"
+        ]
+      }
+    ],
+    "findings": [
+      {
+        "type": "offsite",
+        "url": "https://api.whatsapp.com/send",
+        "kind": "whatsapp",
+        "ads": 1
+      }
+    ]
   }
 }

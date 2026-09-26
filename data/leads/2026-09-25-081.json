@@ -1928,5 +1928,77 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
+  },
+  "landing_audit": {
+    "ads_checked": 15,
+    "pages": 4,
+    "groups": [
+      {
+        "url": "https://moonjewelry.co.il/product-category/צמידי-חריטה-לגבר",
+        "final_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/",
+        "status": 200,
+        "kind": "category",
+        "title": "צמיד לגבר עם חריטה אישית | מתנה שלא ישכח | MOON",
+        "h1": "צמיד לגבר עם חריטה | צמידים לגברים בעיצוב אישי",
+        "ads": [
+          "805395798518681",
+          "884910180978959",
+          "1295388989167569",
+          "881541751607068",
+          "901932746163037",
+          "1410648753407060",
+          "1229107992183270"
+        ],
+        "messages": [
+          "תכשיטים עם חריטה אישית"
+        ]
+      },
+      {
+        "url": "https://moonjewelry.co.il/product-category/צמידי-חריטה-לאישה",
+        "final_url": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/",
+        "status": 200,
+        "kind": "category",
+        "title": "צמיד חריטה לאישה | חריטה אישית שהיא תאהב | MOON",
+        "h1": "צמידי חריטה לאישה",
+        "ads": [
+          "1980692379532317",
+          "25408634315480731",
+          "2874056619466022",
+          "839916489076755"
+        ],
+        "messages": [
+          "תכשיטים עם חריטה אישית"
+        ]
+      },
+      {
+        "url": "https://moonjewelry.co.il/",
+        "final_url": "https://moonjewelry.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "המותג MOON - תכשיטים עם משמעות בהתאמה אישית",
+        "h1": "",
+        "ads": [
+          "1199912778574205",
+          "1968570474033210",
+          "4284360951798915"
+        ],
+        "messages": [
+          "תכשיטים עם חריטה אישית"
+        ]
+      },
+      {
+        "url": "https://moonjewelry.co.il/product-category/חריטה-לנשים",
+        "final_url": "https://moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d/",
+        "status": 200,
+        "kind": "category",
+        "title": "תכשיטי חריטה לנשים | שרשראות, צמידים וטבעות | MOON",
+        "h1": "",
+        "ads": [
+          "952673484096666"
+        ],
+        "messages": []
+      }
+    ],
+    "findings": []
   }
 }

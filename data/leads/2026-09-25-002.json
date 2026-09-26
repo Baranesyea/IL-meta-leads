@@ -407,5 +407,28 @@
     "missing": [],
     "site_blocked": false,
     "owner_instagram_found": false
+  },
+  "landing_audit": {
+    "ads_checked": 3,
+    "pages": 1,
+    "groups": [
+      {
+        "url": "https://kalaharirose.co.il/",
+        "final_url": "https://www.kalaharirose.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "קוסמטיקה טבעית לפנים ולגוף | קלהרי רוז ישראל",
+        "h1": "",
+        "ads": [
+          "4718898048396528",
+          "1118502324199985",
+          "1578521020439802"
+        ],
+        "messages": [
+          "20% הנחה על כל האתר"
+        ]
+      }
+    ],
+    "findings": []
   }
 }

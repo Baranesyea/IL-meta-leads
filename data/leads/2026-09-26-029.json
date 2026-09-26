@@ -1324,5 +1324,158 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
+  },
+  "landing_audit": {
+    "ads_checked": 15,
+    "pages": 10,
+    "groups": [
+      {
+        "url": "https://kolbopet.co.il/product/seresto-collar-for-dogs-over-8kg",
+        "final_url": "https://www.kolbopet.co.il/product/seresto-collar-for-dogs-over-8kg/",
+        "status": 200,
+        "kind": "product",
+        "title": "סרסטו קולר לטיפול בפרעושים וקרציות למשקל מעל 8 ק\"ג - כלבו לכלב ולחתול | משלוחים עד הבית לכל הארץ !",
+        "h1": "סרסטו קולר לטיפול בפרעושים וקרציות למשקל מעל 8 ק”ג",
+        "ads": [
+          "1726466078702445",
+          "1567104058205574",
+          "895499013633124",
+          "1302293555128622"
+        ],
+        "messages": [
+          "קרציות ופרעושים לא מחכים לקיץ",
+          "אם הכלב שלכם עדיין בלי הגנה – אולי אתם מזמינים את הקרציות אליו הביתה"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/product/seresto-collar-dogs-up-to-8-kg",
+        "final_url": "https://www.kolbopet.co.il/product/seresto-collar-dogs-up-to-8-kg/",
+        "status": 200,
+        "kind": "product",
+        "title": "סרסטו קולר לטיפול בפרעושים וקרציות עד 8 ק\"ג - כלבו לכלב ולחתול | משלוחים עד הבית לכל הארץ !",
+        "h1": "סרסטו קולר לטיפול בפרעושים וקרציות עד 8 ק”ג",
+        "ads": [
+          "1962181797742288",
+          "2019361745456854"
+        ],
+        "messages": [
+          "קרציות ופרעושים לא מחכים לקיץ"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/?s=%D7%9E%D7%95%D7%A6%D7%A8%D7%99+%D7%92%27%D7%99%D7%A0%D7%A1&post_type=product",
+        "final_url": "https://www.kolbopet.co.il/?s=%D7%9E%D7%95%D7%A6%D7%A8%D7%99+%D7%92%27%D7%99%D7%A0%D7%A1&post_type=product&utm_source=facebook&utm_medium=cpc&utm_content=dec25",
+        "status": 200,
+        "kind": "search",
+        "title": "חיפוש עבור מוצרי ג'ינס - כלבו לכלב ולחתול",
+        "h1": "תוצאות חיפוש: \"מוצרי ג'ינס\"",
+        "ads": [
+          "1066134899229870",
+          "1547076053413412"
+        ],
+        "messages": [
+          "מחכה לכם הצצה בסוף הסרטון למלאי המשוגע"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/earth-rated-canadian-product-has-arrived-for-dog-and-cat",
+        "final_url": "https://www.kolbopet.co.il/earth-rated-canadian-product-has-arrived-for-dog-and-cat/",
+        "status": 200,
+        "kind": "other",
+        "title": "ארט-רייטד המוצר הקנדי הגיע לכלבו לכלב ולחתול - כלבו לכלב ולחתול | משלוחים עד הבית לכל הארץ !",
+        "h1": "ארט-רייטד המוצר הקנדי הגיע לכלבו לכלב ולחתול",
+        "ads": [
+          "2096199314316359"
+        ],
+        "messages": [
+          "נמאס לכם מהשקיות שנקרעות בדיוק ברגע הכי גרוע"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/category/cats/catdryfood?filter_manufacturer-type=now",
+        "final_url": "https://www.kolbopet.co.il/category/cats/catdryfood/?filter_manufacturer-type=now&utm_source=paid+social&utm_medium=paid+social&utm_campaign=paid+social&utm_id=paid+social&utm_term=paid+social&utm_content=paid+social",
+        "status": 200,
+        "kind": "category",
+        "title": "אוכל לחתולים | כלבו לכלב ולחתול | מזון לחתולים משלוחים חינם לכל הארץ!",
+        "h1": "מזון יבש לחתולים",
+        "ads": [
+          "1203079918651142"
+        ],
+        "messages": [
+          "מזמינים NOW ‼️ מזון יבש לחתול שלך – במשלוחים מהירים עד הבית"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/category/dogs/dogbeds",
+        "final_url": "https://www.kolbopet.co.il/category/dogs/dogbeds/",
+        "status": 200,
+        "kind": "category",
+        "title": "מיטות ומזרנים לכלבים | מיטה לכלב - כלבו לכלב ולחתול | משלוחים חינם לכל הארץ !",
+        "h1": "מיטות ומזרנים לכלבים",
+        "ads": [
+          "1781006023213407"
+        ],
+        "messages": [
+          "זה רק 3 מתוך המון המון המון מיטות מטריפות שמחכות לכם בחנות"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/product/4-bags-nutri-source-dry-food-for-dog-1-8k",
+        "final_url": "https://www.kolbopet.co.il/product/4-bags-nutri-source-dry-food-for-dog-1-8k/",
+        "status": 200,
+        "kind": "product",
+        "title": "4 שקי נוטרי סורס מזון יבש לכלב 1.8 ק\"ג - כלבו לכלב ולחתול | משלוחים עד הבית לכל הארץ !",
+        "h1": "4 שקי נוטרי סורס מזון יבש לכלב 1.8 ק”ג",
+        "ads": [
+          "1110222514869457"
+        ],
+        "messages": [
+          "מבצע 4 שקים של נוטרי סורס | עד 1"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/category/dogs/dryfoodfordogs?filter_pa_manufacturer-type%5B%5D=nutri-source",
+        "final_url": "https://www.kolbopet.co.il/category/dogs/dryfoodfordogs/?filter_pa_manufacturer-type%5B%5D=nutri-source",
+        "status": 200,
+        "kind": "category",
+        "title": "אוכל לכלבים | כלבו לכלב ולחתול | מזון לכלבים משלוחים חינם לכל הארץ!",
+        "h1": "מזון יבש לכלבים",
+        "ads": [
+          "1626328078907590"
+        ],
+        "messages": [
+          "מבצע 2 שקים של נוטרי סורס | בתוקף עד 1"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/product/אוריגן-מזון-לחתול-עוף-ודגים-17-קילו",
+        "final_url": "https://www.kolbopet.co.il/product/%d7%90%d7%95%d7%a8%d7%99%d7%92%d7%9f-%d7%9e%d7%96%d7%95%d7%9f-%d7%9c%d7%97%d7%aa%d7%95%d7%9c-%d7%a2%d7%95%d7%a3-%d7%95%d7%93%d7%92%d7%99%d7%9d-17-%d7%a7%d7%99%d7%9c%d7%95/",
+        "status": 200,
+        "kind": "product",
+        "title": "אוריג'ן | מזון יבש לחתול - עוף ודגים | 17 ק\"ג - כלבו לכלב ולחתול | משלוחים עד הבית לכל הארץ !",
+        "h1": "אוריג’ן | מזון יבש לחתול – עוף ודגים | 17 ק”ג",
+        "ads": [
+          "1480768730765603"
+        ],
+        "messages": [
+          "85% חלבון איכותי מן החי בכל שקית של אוריג'ן, ללא פשרות"
+        ]
+      },
+      {
+        "url": "https://kolbopet.co.il/category/dogs/dryfoodfordogs?filter_pa_manufacturer-type%5B%5D=acana",
+        "final_url": "https://www.kolbopet.co.il/category/dogs/dryfoodfordogs/?filter_pa_manufacturer-type%5B%5D=acana",
+        "status": 200,
+        "kind": "category",
+        "title": "אוכל לכלבים | כלבו לכלב ולחתול | מזון לכלבים משלוחים חינם לכל הארץ!",
+        "h1": "מזון יבש לכלבים",
+        "ads": [
+          "911572488553273"
+        ],
+        "messages": [
+          "חלבון יחיד לכלב רגיש | עד 1"
+        ]
+      }
+    ],
+    "findings": []
   }
 }
