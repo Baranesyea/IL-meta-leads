@@ -25,7 +25,9 @@ const CSS = `
 .bp .bar.solid{background:rgba(250,247,241,.92);backdrop-filter:blur(14px);color:var(--ink);box-shadow:0 1px 0 rgba(0,0,0,.06)}
 .bp .bar .mark{font-weight:900;font-size:30px;letter-spacing:.12em}
 .bp .bar nav{display:flex;gap:28px;font-size:15px;font-weight:400}
-.bp .bar nav a{color:inherit;text-decoration:none;opacity:.85}
+.bp .bar nav a{color:inherit;text-decoration:none;opacity:.85;white-space:nowrap}
+.bp .bar .tag{white-space:nowrap}
+@media (max-width:1180px){.bp .bar .tag{display:none}}
 .bp .bar .tag{justify-self:end;font-size:13px;letter-spacing:.04em;border:1px solid currentColor;padding:7px 14px;opacity:.8}
 @media (max-width:820px){.bp .bar nav,.bp .bar .tag{display:none}.bp .bar{grid-template-columns:1fr;justify-items:center}.bp .bar .mark{font-size:26px}}
 
@@ -36,13 +38,13 @@ const CSS = `
 .bp .hero .shade{position:absolute;inset:0;background:
   linear-gradient(270deg,rgba(7,6,5,.78) 0%,rgba(7,6,5,.35) 42%,rgba(7,6,5,0) 70%),
   linear-gradient(0deg,rgba(7,6,5,.55) 0%,rgba(7,6,5,0) 35%)}
-.bp .hero .copy{position:absolute;right:0;bottom:0;z-index:3;padding:0 6vw 11vh;max-width:760px;text-shadow:0 2px 24px rgba(0,0,0,.45)}
+.bp .hero .copy{position:absolute;right:0;bottom:0;z-index:3;padding:0 6vw 11vh;max-width:min(860px,56vw);text-shadow:0 2px 24px rgba(0,0,0,.45)}
 .bp .hero .eyebrow{color:#efe2c4;font-size:17px;letter-spacing:.06em}
 .bp .hero h1{margin:18px 0 0;line-height:.9}
-.bp .hero h1 .b{display:block;font-weight:900;font-size:clamp(58px,9.4vw,150px);letter-spacing:-.015em}
-.bp .hero h1 .l{display:block;font-weight:300;font-size:clamp(50px,8vw,128px)}
+.bp .hero h1 .b{display:block;font-weight:900;font-size:clamp(52px,min(6.6vw,12.5vh),132px);letter-spacing:-.015em;white-space:nowrap}
+.bp .hero h1 .l{display:block;font-weight:300;font-size:clamp(46px,min(5.6vw,10.5vh),112px);white-space:nowrap}
 
-.bp .hero .sig{font-size:clamp(70px,8vw,120px);line-height:1;margin-top:6px;opacity:.95}
+.bp .hero .sig{font-size:clamp(60px,min(6vw,11vh),110px);line-height:1;margin-top:6px;opacity:.95}
 .bp .fadein{animation:fu 1.6s cubic-bezier(.2,.7,.2,1) both}
 .bp .d1{animation-delay:.25s}.bp .d2{animation-delay:.55s}.bp .d3{animation-delay:.9s}.bp .d4{animation-delay:1.3s}
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
@@ -82,8 +84,17 @@ html:has(.bp){scroll-behavior:smooth}
 .bp .marquee .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:38px}
 .bp .marquee h2{font-weight:900;font-size:clamp(34px,4.4vw,64px);margin:10px 0 0;line-height:1}
 .bp .marquee h2 .l{font-weight:300}
-.bp .strip{--h:clamp(360px,34vw,440px);direction:ltr;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;touch-action:pan-x pan-y}
+.bp .strip-wrap{--h:clamp(360px,34vw,440px)}
+.bp .strip{direction:ltr;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;touch-action:pan-x pan-y}
 .bp .strip::-webkit-scrollbar{display:none}
+.bp .strip-wrap{position:relative}
+.bp .strip{cursor:grab}.bp .strip.dragging{cursor:grabbing}.bp .strip.dragging .it{pointer-events:none}
+.bp .strip-wrap .arrow{position:absolute;top:calc(var(--h, 440px) / 2 - 28px);width:56px;height:56px;border-radius:50%;border:1px solid rgba(23,18,13,.25);
+  background:rgba(250,247,241,.9);backdrop-filter:blur(8px);color:var(--ink);font-size:30px;line-height:1;cursor:pointer;display:grid;place-items:center;
+  font-family:inherit;box-shadow:0 10px 30px -12px rgba(30,20,10,.4);transition:background .3s,color .3s;z-index:2}
+.bp .strip-wrap .arrow:hover{background:var(--ink);color:var(--paper)}
+.bp .strip-wrap .prev{left:22px}.bp .strip-wrap .next{right:22px}
+@media (hover:none){.bp .strip-wrap .arrow{display:none}}
 .bp .track{display:flex;gap:22px;width:max-content;align-items:flex-start;padding:0 11px 40px}
 .bp .track .it{height:var(--h);width:calc(var(--h) * var(--ar));flex:none;box-shadow:0 26px 50px -30px rgba(30,20,10,.55)}
 
@@ -150,7 +161,8 @@ html:has(.bp){scroll-behavior:smooth}
 .bp .cta h2{margin:14px 0 0;line-height:1}
 .bp .cta h2 .b{display:block;font-weight:900;font-size:clamp(44px,6vw,96px)}
 .bp .cta h2 .l{display:block;font-weight:300;font-size:clamp(40px,5.4vw,86px)}
-.bp .cta p{font-weight:300;font-size:21px;opacity:.85;margin:30px auto 0;max-width:44ch;line-height:1.65}
+.bp .cta p{font-weight:300;font-size:21px;opacity:.85;margin:30px auto 0;max-width:52ch;line-height:1.7;text-wrap:balance}
+.bp .cta h2 .b,.bp .cta h2 .l{text-wrap:balance}
 .bp .btn{display:inline-block;margin-top:48px;padding:20px 52px;border:1px solid #d9c49a;color:#efe6d7;font-size:18px;letter-spacing:.08em;text-decoration:none;transition:background .35s,color .35s}
 .bp .btn:hover{background:#d9c49a;color:var(--deep)}
 .bp footer{padding:36px 20px;text-align:center;font-size:13px;color:var(--muted);letter-spacing:.14em;background:var(--ivory)}
@@ -214,13 +226,30 @@ function Type({ text, speed = 42, delay = 0, as: Tag = "span", className, style 
 }
 const typeMs = (t, speed = 42) => Array.from(t || "").length * speed;
 
-// Campaign strip: drifts on its own, stops the moment a finger or mouse touches it, can be swiped
-// either way, and picks the drift back up a moment after release. Content is doubled for a seamless loop.
-function Strip({ children }) {
+// Campaign strip: drifts on its own; a finger swipes it, a mouse drags it or uses the arrows. Any of those
+// pauses the drift, which picks up again a moment after release. It never pauses on mere hover (a hover
+// pause got stuck when the lightbox opened under a still cursor), and it stays still while an ad is open.
+// Content is doubled for a seamless loop.
+function Strip({ children, paused }) {
   const ref = useRef(null);
   const held = useRef(false);
+  const pausedRef = useRef(paused);
   const pos = useRef(0);
   const resume = useRef(0);
+  pausedRef.current = paused;
+  const hold = () => { held.current = true; clearTimeout(resume.current); };
+  const release = () => {
+    clearTimeout(resume.current);
+    resume.current = setTimeout(() => { if (ref.current) pos.current = ref.current.scrollLeft; held.current = false; }, 2200);
+  };
+  const nudge = (dir) => {
+    const el = ref.current;
+    if (!el) return;
+    hold();
+    const step = (el.querySelector(".it")?.offsetWidth || 320) + 22;
+    el.scrollBy({ left: dir * step, behavior: "smooth" });
+    release();
+  };
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
@@ -228,7 +257,7 @@ function Strip({ children }) {
     const half = () => el.scrollWidth / 2;
     const step = (t) => {
       const dt = Math.min(64, t - last); last = t;
-      if (!held.current && half() > 0) {
+      if (!held.current && !pausedRef.current && half() > 0) {
         pos.current += dt * 0.045;
         if (pos.current >= half()) pos.current -= half();
         el.scrollLeft = pos.current;
@@ -236,21 +265,47 @@ function Strip({ children }) {
       raf = requestAnimationFrame(step);
     };
     raf = requestAnimationFrame(step);
-    const hold = () => { held.current = true; clearTimeout(resume.current); };
-    const release = () => { clearTimeout(resume.current); resume.current = setTimeout(() => { pos.current = el.scrollLeft; held.current = false; }, 2200); };
     const onScroll = () => {
       if (!held.current) return;
-      if (el.scrollLeft <= 1) el.scrollLeft += half();          // swiping back past the start wraps
+      if (el.scrollLeft <= 1) el.scrollLeft += half();          // past either end wraps around
       else if (el.scrollLeft >= half() * 1.5) el.scrollLeft -= half();
       pos.current = el.scrollLeft;
     };
-    const onWheel = () => { hold(); release(); };
-    const on = [["pointerdown", hold], ["touchstart", hold], ["pointerup", release], ["pointercancel", release],
-      ["touchend", release], ["wheel", onWheel], ["mouseenter", hold], ["mouseleave", release], ["scroll", onScroll]];
+    // mouse drag (touch scrolls natively)
+    let drag = null;
+    const down = (e) => {
+      hold();
+      if (e.pointerType === "mouse" && e.button === 0) drag = { x: e.clientX, left: el.scrollLeft, moved: false, id: e.pointerId };
+    };
+    const move = (e) => {
+      if (!drag) return;
+      const dx = e.clientX - drag.x;
+      if (!drag.moved && Math.abs(dx) > 6) { drag.moved = true; el.setPointerCapture(drag.id); el.classList.add("dragging"); }
+      if (drag.moved) el.scrollLeft = drag.left - dx;
+    };
+    const up = () => {
+      if (drag?.moved) {   // a drag is not a click: swallow the click that follows
+        const stop = (ev) => { ev.stopPropagation(); ev.preventDefault(); };
+        el.addEventListener("click", stop, { capture: true, once: true });
+        setTimeout(() => el.removeEventListener("click", stop, { capture: true }), 0);
+      }
+      drag = null; el.classList.remove("dragging"); release();
+    };
+    const wheel = () => { hold(); release(); };
+    const on = [["pointerdown", down], ["pointermove", move], ["pointerup", up], ["pointercancel", up],
+      ["touchend", release], ["wheel", wheel], ["scroll", onScroll]];
     on.forEach(([ev, fn]) => el.addEventListener(ev, fn, { passive: true }));
     return () => { cancelAnimationFrame(raf); clearTimeout(resume.current); on.forEach(([ev, fn]) => el.removeEventListener(ev, fn)); };
   }, []);
-  return <div className="strip" ref={ref}><div className="track">{children}</div></div>;
+  // pick the drift back up from wherever the strip is when an ad closes
+  useEffect(() => { if (!paused && ref.current) pos.current = ref.current.scrollLeft; }, [paused]);
+  return (
+    <div className="strip-wrap">
+      <div className="strip" ref={ref}><div className="track">{children}</div></div>
+      <button className="arrow prev" aria-label="הקודם" onClick={() => nudge(-1)}>‹</button>
+      <button className="arrow next" aria-label="הבא" onClick={() => nudge(1)}>›</button>
+    </div>
+  );
 }
 
 function useCols() {
@@ -322,8 +377,8 @@ export default function ClientPitch({ slug: fixedSlug }) {
 
       <header className={`bar ${y > 60 ? "solid" : ""}`}>
         <nav>
+          <a href="#review">מה היינו משנים</a>
           <a href="#campaign">הקמפיין</a>
-          <a href="#collection">יהלום מעבדה</a>
           <a href="#angles">20 המודעות</a>
         </nav>
         <div className="mark">{b.wordmark || b.owner_first}</div>
@@ -373,7 +428,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
             <h2><Type text={`${r.ads.length} מודעות. `} /><Type className="l" text="חמש זוויות. מותג אחד." delay={typeMs(`${r.ads.length} מודעות. `) + 150} /></h2>
           </div>
         </div>
-        <Strip>
+        <Strip paused={!!open}>
           {[...strip, ...strip].map((a, i) => (
             <div key={i} className="it" onClick={() => setOpen(a)} style={{ cursor: "zoom-in", "--ar": a.spec.w / a.spec.h }}>
               <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
@@ -435,12 +490,12 @@ export default function ClientPitch({ slug: fixedSlug }) {
 
       <section className="cta">
         <div className="wrap reveal">
-          <div className="eyebrow" style={{ color: "#d9c49a" }}>השלב הבא</div>
-          <h2>{two(`${b.owner_first}, רוצה לראות`, "את זה באוויר?")}</h2>
-          <p>נעלה את המודעות, נבדוק מה עובד הכי טוב, ונגדיל את מה שמוכר.</p>
+          <div className="eyebrow" style={{ color: "#d9c49a" }}>{r.cta?.eyebrow || "מאיתנו, בשבילך"}</div>
+          <h2>{two(r.cta?.title?.[0] || `${b.owner_first}, את כל זה הכנו בשבילך.`, r.cta?.title?.[1] || "בחינם, בלי התחייבות.")}</h2>
+          <p>{r.cta?.text || "רצינו להראות מה אפשר לעשות עם המותג, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד."}</p>
           {r.contact_url
-            ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">לשיחה קצרה בוואטסאפ</a>
-            : <span className="btn" style={{ opacity: 0.5 }}>לשיחה קצרה בוואטסאפ</span>}
+            ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</a>
+            : <span className="btn" style={{ opacity: 0.5 }}>{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</span>}
         </div>
       </section>
       <footer>הוכן במיוחד עבור {b.name}</footer>
