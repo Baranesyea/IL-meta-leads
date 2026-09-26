@@ -46,8 +46,16 @@ const CSS = `
 .bp .fadein{animation:fu 1.6s cubic-bezier(.2,.7,.2,1) both}
 .bp .d1{animation-delay:.25s}.bp .d2{animation-delay:.55s}.bp .d3{animation-delay:.9s}.bp .d4{animation-delay:1.3s}
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
-@media (max-width:760px){.bp .hero .shade{background:linear-gradient(0deg,rgba(7,6,5,.92) 0%,rgba(7,6,5,.78) 32%,rgba(7,6,5,.35) 58%,rgba(7,6,5,0) 78%)}
-  .bp .hero .copy{padding:0 22px 9vh}.bp .hero .eyebrow{font-size:15px}}
+/* phones: the words sit in the photo's own dark space on top, the photo below them untouched —
+   the necklace and pendant (the product) are never under a shade or under type */
+@media (max-width:760px){.bp .hero{background:#010c0b}
+  .bp .hero .bg{inset:30% 0 -3% 0;background-position:center bottom;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 14%);mask-image:linear-gradient(to bottom,transparent 0,#000 14%)}
+  .bp .hero .shade{display:none}
+  .bp .hero .copy{top:96px;bottom:auto;padding:0 22px}
+  .bp .hero .eyebrow{font-size:15px}
+  .bp .hero h1 .b{font-size:52px}.bp .hero h1 .l{font-size:44px}
+  .bp .hero .sig{font-size:64px;margin-top:2px}}
 
 /* campaign marquee */
 .bp .marquee{padding:90px 0 70px;background:var(--paper);overflow:hidden}
