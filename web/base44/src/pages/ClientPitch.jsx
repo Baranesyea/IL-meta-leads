@@ -188,6 +188,26 @@ html:has(.bp){scroll-behavior:smooth}
 @media (max-width:540px){.bp .angle{padding:90px 0}.bp .angle .head{grid-template-columns:1fr;gap:6px}
   .bp .ads{gap:4px;margin:0 -24px}.bp .ads .row{gap:4px}.bp .card{box-shadow:none}}  /* phones: ads edge to edge */
 
+/* why work with me */
+.bp .offer{background:var(--ivory);padding:130px 0 120px;border-top:1px solid #e1d7c8}
+.bp .offer .g{display:grid;grid-template-columns:.9fr 1.1fr;gap:80px;align-items:start}
+.bp .offer .me{position:sticky;top:110px}
+.bp .offer h2{margin:14px 0 26px;line-height:1}
+.bp .offer h2 .b{display:block;font-weight:900;font-size:clamp(38px,4.6vw,66px)}
+.bp .offer h2 .l{display:block;font-weight:300;font-size:clamp(32px,3.9vw,56px)}
+.bp .offer .me p{font-weight:300;font-size:20px;line-height:1.75;color:var(--muted);margin:0 0 14px;max-width:44ch}
+.bp .offer .gets{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 44px}
+.bp .offer .gets li{display:flex;gap:18px;padding:28px 0;border-top:1px solid #dccfbd}
+.bp .offer .gets .n{font-weight:300;font-size:34px;line-height:1;color:var(--gold);min-width:44px}
+.bp .offer .gets h3{font-weight:900;font-size:21px;margin:2px 0 8px;line-height:1.3}
+.bp .offer .gets p{font-weight:300;font-size:17px;line-height:1.65;color:var(--muted);margin:0}
+.bp .offer .price{margin-top:60px;padding-top:40px;border-top:2px solid var(--ink);display:grid;grid-template-columns:.9fr 1.1fr;gap:80px;align-items:baseline}
+.bp .offer .price h3{font-weight:900;font-size:clamp(28px,3vw,42px);margin:0;line-height:1.15}
+.bp .offer .price p{font-weight:300;font-size:19px;line-height:1.75;margin:0;color:var(--ink)}
+@media (max-width:980px){.bp .offer .g,.bp .offer .price{grid-template-columns:1fr;gap:30px}.bp .offer .me{position:static}}
+@media (max-width:620px){.bp .offer{padding:90px 0 80px}.bp .offer .gets{grid-template-columns:1fr}
+  .bp .offer .gets li{padding:22px 0}.bp .offer .me p{font-size:18px}.bp .offer .price{margin-top:40px}}
+
 /* CTA */
 .bp .cta{background:var(--deep);color:#efe6d7;padding:150px 0;text-align:center}
 .bp .cta h2{margin:14px 0 0;line-height:1}
@@ -221,6 +241,26 @@ function bandShift(el, y) {
   const d = (y + window.innerHeight / 2 - (el.getBoundingClientRect().top + window.scrollY + h / 2)) * 0.12;
   return Math.max(-max, Math.min(max, d));
 }
+
+// "why work with me" — the same offer on every client page, in the client's grammatical address
+const OFFER = (g) => ({
+  eyebrow: "למה לעבוד איתי",
+  title: ["קוראים לי ערן.", "17 שנה במרקטינג."],
+  text: [
+    "ניהלתי אנשים וצוותים, ייעצתי לסוכנויות והייתי בעלים של סוכנות דיגיטל.",
+    `אבל העולם השתנה. עם הכלים של היום אפשר לעבוד הרבה יותר מהר, בלי צוות שלם באמצע. ככה אני עובד היום, וזה מה ש${g("תקבלו", "תקבלי", "תקבל")} כש${g("תעבדו", "תעבדי", "תעבוד")} איתי:`,
+  ],
+  items: [
+    ["אופטימיזציה פעילה, כל שבוע", `בחשבון המודעות ובעמודי המוצר שאליהם המודעות מביאות. לא מנחשים: מוצאים מה מזיז את המחט, ועושים ממנו יותר.`],
+    ["לפחות 10 קריאייטיבים חדשים בשבוע", "כל אחד עם סיבה ברורה למה הוא נבנה. הם נבדקים בחשבון, והמנצחים מקבלים יותר תקציב."],
+    ["דוח שבועי קצר וברור", "מה עבד, מה פחות, מה התוצאות ומה ההמלצות לשבוע הבא. עם סיכום של כמה שורות, בלי לבזבז זמן."],
+    ["מבצעים לחגים ולהזדמנויות", "קמפיין מוכן בזמן לכל חג ולכל מבצע מיוחד."],
+    ["עמודי נחיתה כשצריך", `בעיצוב איכותי ומזמין, כמו ${g("שראיתם", "שראית", "שראית")} כאן למעלה. זה חלק מהאסטרטגיה.`],
+    ["מדידה מדויקת", `הטמעה ובדיקה של כלי המדידה בנכסים ${g("שלכם", "שלך", "שלך")}, כדי שכל החלטה תישען על מספרים אמיתיים.`],
+  ],
+  price: ["מחיר חודשי קבוע. הכל כלול.",
+    `בלי תשלום על כלים, בלי חיובים על עבודה נוספת ובלי ספקים נוספים. מחיר ש${g("אתם יכולים", "את יכולה", "אתה יכול")} להרשות ${g("לעצמכם", "לעצמך", "לעצמך")}, ושמחזיר את עצמו בבירור, כי המטרה היא שהקמפיין יכניס הרבה יותר ממה שהוא עולה.`],
+});
 
 function useScrollY() {
   const [y, setY] = useState(0);
@@ -432,6 +472,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
           <a href="#review">מה היינו משנים</a>
           <a href="#campaign">הקמפיין</a>
           <a href="#angles">{r.ads.length} המודעות</a>
+          <a href="#offer">מה מקבלים</a>
         </nav>
         <div className="mark">{b.wordmark}</div>
         <div className="tag">הוכן עבור {b.name}</div>
@@ -568,6 +609,35 @@ export default function ClientPitch({ slug: fixedSlug }) {
           </div>
         </section>
       ))}
+
+      {/* why work with me — shared by every client page */}
+      {(() => {
+        const g = (pl, f, m) => (r.address === "f" ? f : r.address === "m" ? m : pl);
+        const o = OFFER(g);
+        return (
+          <section className="offer" id="offer">
+            <div className="wrap g">
+              <div className="me reveal">
+                <div className="eyebrow">{o.eyebrow}</div>
+                <h2>{two(o.title[0], o.title[1])}</h2>
+                {o.text.map((t, i) => <p key={i}>{t}</p>)}
+              </div>
+              <ol className="gets">
+                {o.items.map(([t, d], i) => (
+                  <li key={i} className="reveal" style={{ transitionDelay: `${(i % 2) * 90}ms` }}>
+                    <span className="n">0{i + 1}</span>
+                    <div><h3>{t}</h3><p>{d}</p></div>
+                  </li>
+                ))}
+              </ol>
+            </div>
+            <div className="wrap price reveal">
+              <h3>{o.price[0]}</h3>
+              <p>{o.price[1]}</p>
+            </div>
+          </section>
+        );
+      })()}
 
       <section className="cta">
         <div className="wrap reveal">

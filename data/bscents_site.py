@@ -10,6 +10,7 @@ ERAN_WA = "https://wa.me/972545471522"
 
 COPY = {
     "business": {"name": "בי סנטס", "wordmark": "בי סנטס", "site": "https://b-scents.co.il/"},
+    "address": "pl",   # plural (no owner name on the site)
     "hero_eyebrow": "מפיצי ריח חשמליים · שמני בושם · בישום לכביסה",
     "hero_title": ["ריח של מלון.", "בבית שלכם."],
     # phones: a tall outpainted version of the hero (original pixels kept), words on its dark top; crop to the

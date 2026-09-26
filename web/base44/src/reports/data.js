@@ -804,7 +804,8 @@ export const REPORTS = {
    }
   },
   "hero_bg_m": "/reports/stav/hero_m.webp",
-  "hero_pos_m": "center top"
+  "hero_pos_m": "center top",
+  "address": "f"
  },
  "bscents-97198747": {
   "slug": "bscents-97198747",
@@ -1456,6 +1457,7 @@ export const REPORTS = {
    "wordmark": "בי סנטס",
    "site": "https://b-scents.co.il/"
   },
+  "address": "pl",
   "hero_eyebrow": "מפיצי ריח חשמליים · שמני בושם · בישום לכביסה",
   "hero_title": [
    "ריח של מלון.",

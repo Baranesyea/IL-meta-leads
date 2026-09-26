@@ -8,6 +8,7 @@ st = R["stav-56f5e275"]
 lead = json.load(open("data/leads/2026-09-25-076.json"))
 # phones: the hero outpainted to 9:16 (Higgsfield) + the plain dark top extended, so the words and the button
 # sit on the photo above her head
+st["address"] = "f"          # feminine singular (the shared offer section is addressed per client)
 st["hero_bg_m"] = "/reports/stav/hero_m.webp"
 st["hero_pos_m"] = "center top"
 st["review"] = {
