@@ -40,7 +40,7 @@ const CSS = `
 .crm select,.crm textarea{font:inherit;font-size:15px;border:1px solid #cdbfa9;background:#fff;color:#17120d;padding:9px 10px}
 .crm label{font-size:13px;color:#6d6257;display:block;margin:14px 0 6px}
 .crm textarea{width:100%;box-sizing:border-box;resize:vertical;line-height:1.55}
-.crm .msg{min-height:230px}
+.crm .msg{min-height:300px}
 .crm .btn{padding:11px 18px;font:inherit;font-size:15px;cursor:pointer;border:1px solid #17120d;background:transparent;color:#17120d;text-decoration:none;display:inline-block}
 .crm .btn.dark{background:#17120d;color:#f4eee4}
 .crm .btn.wa{background:#1f7a4a;border-color:#1f7a4a;color:#fff}
