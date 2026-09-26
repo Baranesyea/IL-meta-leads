@@ -217,3 +217,20 @@
 - Collected 039/051/054 via `src.collect.run` (all three are resellers of international hair brands).
   Built It's My Deal (051) → /p/mydeal-5b7e19c2: bold colour-block studio look; overlay subs Hebrew-only
   (brand names moved to the primary text). ~60 Higgsfield credits.
+- `hero_bg_color` (per client): the desktop hero's side fill colour, so a warm photo doesn't fade into the
+  default green-black.
+- 2026-09-26 — two more WhatsApp leads, both live:
+  - Zaban (088) REJECTED on inspection: 26 branches, 150+ employees, since 1975 (zaban.co.il/about) — a chain.
+    Check an "About"/branches page before building a jewellery lead.
+  - Hair Cosmetics (039) → /p/haircosmetics-8b8eb022: tone-on-tone plaster studio (one soft colour per ad,
+    arches, product texture as the hero detail), curls/straight hair from behind.
+  - Jackson Jewelry (086, family business since 2005, factory store Ramat Gan) → /p/jackson-18bceed3:
+    sun-drenched Mediterranean skin editorial (golden hard light, leaf shadows, linen, limestone).
+    The product data from collect had wrong images for Nili/Sania — re-fetched og:image per product page.
+  - ~110 Higgsfield credits for both (1148 → 1038), incl. ~10 regenerations.
+- Lessons: at 9:16 with people the model often bakes a flat colour band above the subject (or a hard seam) even
+  with the no-bands wording — move that ad to 4:5 rather than retry. Arches/niches put vertical edges exactly
+  where centred text goes; ask for "one flat seamless wall, no arches" when the text needs the top. The model
+  invented a label ("BIOTOP") on a jar once — name the exact label words in the prompt and forbid others.
+  Never "14K" (or any Latin) in overlay lines — it scrambles RTL; write "14 קראט". Band quotes (handwriting)
+  must stay short (≤ ~18 chars) or they clip on a 375px phone.
