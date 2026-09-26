@@ -50,23 +50,23 @@ const CSS = `
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
 /* larger screens: the whole portrait (face to pendant) on the left, melting into its own dark green;
    the words on the right over that same dark — the product is never cropped out of the hero */
-@media (min-width:761px) and (min-aspect-ratio:5/4){.bp .hero{background:#010c0b}
+@media (min-width:761px) and (min-aspect-ratio:7/5){.bp .hero{background:#010c0b}
   .bp .hero .bg{inset:-4% auto -4% 0;width:min(64%, calc(108svh * .805));background-position:center 45%;
     -webkit-mask-image:linear-gradient(to left,transparent 0,#000 26%);mask-image:linear-gradient(to left,transparent 0,#000 26%)}
   .bp .hero .shade{background:linear-gradient(0deg,rgba(1,12,11,.55) 0%,rgba(1,12,11,0) 30%)}}
 /* phones and portrait tablets: the words first, the photo BELOW them in its own box — never under the words
    or the button, whatever the screen height (a short phone used to push the button onto the face) */
-@media (max-width:760px), (max-aspect-ratio:5/4){.bp .hero{background:#010c0b;height:auto;min-height:100svh;display:flex;flex-direction:column}
-  .bp .hero .bg{position:relative;inset:auto;flex:1 0 auto;min-height:max(50svh,340px);margin-top:26px;
+@media (max-width:760px), (max-aspect-ratio:7/5){.bp .hero{background:#010c0b;height:auto;min-height:100svh;display:flex;flex-direction:column}
+  .bp .hero .bg{position:relative;inset:auto;flex:1 0 auto;min-height:max(50svh,340px);margin-top:26px;order:2;
     background-position:var(--hero-pos-m,center 30%);transform-origin:center bottom;
     -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 12%);mask-image:linear-gradient(to bottom,transparent 0,#000 12%)}
   .bp .hero .shade{display:none}
-  .bp .hero .copy{position:relative;right:auto;bottom:auto;max-width:none;padding:96px 22px 0}
+  .bp .hero .copy{position:relative;right:auto;bottom:auto;max-width:none;padding:96px 22px 0;order:1}
   .bp .hero .eyebrow{font-size:15px}
   .bp .hero h1 .b{font-size:52px}.bp .hero h1 .l{font-size:44px}
   .bp .hero .sig{display:none}
   .bp .hero .go{margin-top:24px;padding:14px 22px;font-size:16px}}
-@media (min-width:761px) and (max-aspect-ratio:5/4){.bp .hero .copy{padding:120px 8vw 0}
+@media (min-width:761px) and (max-aspect-ratio:7/5){.bp .hero .copy{padding:120px 8vw 0}
   .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}.bp .hero .bg{min-height:56svh}}
 
 /* call-to-action link used in the hero and after the review */
