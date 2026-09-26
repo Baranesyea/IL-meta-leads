@@ -13,7 +13,7 @@ COPY = {
     "address": "pl",
     "hero_theme": "light",            # bright white home: dark ink on the pale wall
     "hero_eyebrow": "הסופרמרקט לחיות מחמד · משלוח חינם מ-199 ש״ח",
-    "hero_title": ["כל מה שהם צריכים.", "עד הדלת."],
+    "hero_title": ["הכול בשבילם.", "עד הדלת."],
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
     "hero_bg_m": "/reports/petbest/hero_m.webp", "hero_pos_m": "center top",
     "review": {
