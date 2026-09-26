@@ -245,9 +245,14 @@ html:has(.bp){scroll-behavior:smooth}
 .bp .lb .txt{color:#efe6d7;flex:1 1 360px;max-width:420px}
 .bp .lb .txt b{font-weight:900;font-size:28px;display:block;margin:8px 0}
 .bp .lb .txt pre{white-space:pre-wrap;font-family:Optimum,Georgia,serif;font-weight:300;font-size:18px;line-height:1.8;margin:18px 0}
-.bp .lb .x{position:fixed;top:14px;left:14px;z-index:70;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;
-  color:#efe6d7;font-size:30px;line-height:1;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.35);cursor:pointer;font-family:inherit}
-.bp .lb .x:hover{background:rgba(255,255,255,.22)}
+/* the close button lives outside the scrolling .lb (iOS drops taps on fixed children of a scrolling fixed layer)
+   and above anything a host page may float over the site */
+.bp .lbx{position:fixed;top:max(14px, env(safe-area-inset-top));left:14px;z-index:2147483000;width:56px;height:56px;border-radius:50%;
+  display:grid;place-items:center;color:#efe6d7;font-size:30px;line-height:1;background:rgba(20,16,12,.72);border:1px solid rgba(255,255,255,.45);
+  cursor:pointer;font-family:inherit;touch-action:manipulation;-webkit-tap-highlight-color:transparent;padding:0}
+.bp .lbx:hover{background:rgba(60,50,40,.85)}
+.bp .lb .close2{margin-top:26px;padding:12px 26px;border:1px solid rgba(239,230,215,.5);background:transparent;color:#efe6d7;
+  font-family:inherit;font-size:16px;cursor:pointer;touch-action:manipulation}
 @media (max-width:880px){.bp .lb{align-items:flex-start;padding:80px 16px 40px}.bp .lb .box{flex-direction:column;align-items:center;gap:26px}
   .bp .lb .ad{width:min(100%, calc(70svh * var(--ar)))}.bp .lb .txt{flex:none;width:100%;max-width:520px}}
 `;
@@ -670,8 +675,11 @@ export default function ClientPitch({ slug: fixedSlug }) {
       <footer>הוכן במיוחד עבור {b.name}</footer>
 
       {open && (
+        <button type="button" className="lbx" aria-label="סגירה"
+          onClick={(e) => { e.stopPropagation(); setOpen(null); }}>✕</button>
+      )}
+      {open && (
         <div className="lb" onClick={() => setOpen(null)}>
-          <button className="x" aria-label="סגירה" onClick={(e) => { e.stopPropagation(); setOpen(null); }}>✕</button>
           <div className="box" onClick={(e) => e.stopPropagation()}>
             <div className="ad" style={{ "--ar": open.spec.w / open.spec.h }}><AdCanvas key={open.no} spec={open.spec} img={open.img} brand={b.name} eager /></div>
             <div className="txt">
@@ -679,6 +687,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
               <b>{open.headline}</b>
               <pre>{open.primary}</pre>
               <div className="eyebrow">כפתור: {open.cta}</div>
+              <button type="button" className="close2" onClick={() => setOpen(null)}>סגירה ✕</button>
             </div>
           </div>
         </div>
