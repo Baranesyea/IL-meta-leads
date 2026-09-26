@@ -1,6 +1,6 @@
 {
  "lead_id": "2026-09-25-066",
- "status": "researched",
+ "status": "published",
  "reject_reason": null,
  "business": {
   "name_he": "בי סנטס",
@@ -3388,7 +3388,8 @@
   "filtered": "2026-09-25T13:06:50",
   "qualified": "2026-09-25T13:09:09",
   "collected": "2026-09-26T04:36:36",
-  "researched": "2026-09-26T05:30:36"
+  "researched": "2026-09-26T05:30:36",
+  "published": "2026-09-26T18:00:00"
  },
  "qualify": {
   "pages_checked": [
@@ -3407,5 +3408,6 @@
   "site_blocked": false,
   "owner_instagram_found": false,
   "missing": []
- }
+ },
+ "client_page": "https://il-meta.base44.app/p/bscents-97198747"
 }

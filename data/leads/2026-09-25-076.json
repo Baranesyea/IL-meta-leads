@@ -1,6 +1,6 @@
 {
  "lead_id": "2026-09-25-076",
- "status": "researched",
+ "status": "published",
  "reject_reason": null,
  "business": {
   "name_he": "סתיו תכשיטי יוקרה",
@@ -3060,7 +3060,8 @@
   "filtered": "2026-09-25T13:12:06",
   "qualified": "2026-09-25T13:16:10",
   "collected": "2026-09-25T14:26:46",
-  "researched": "2026-09-25T13:29:02"
+  "researched": "2026-09-25T13:29:02",
+  "published": "2026-09-26T18:00:00"
  },
  "qualify": {
   "pages_checked": [
@@ -3096,5 +3097,6 @@
   "necklace_lab_solitaire": [
    "4e3587f0-9a40-4783-b778-ea643e9a998f"
   ]
- }
+ },
+ "client_page": "https://il-meta.base44.app/p/stav-56f5e275"
 }
