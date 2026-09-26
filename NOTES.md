@@ -172,3 +172,15 @@
   hard-coded page offset (`y - 2200`), leaving a grey stripe on tall phone pages. Now `bandShift()` is
   relative to the band's own position and clamped inside its 12% bleed.
 - Base44 sandbox: app code is in `/app` (a fresh shell starts in `/workspace`).
+
+## 2026-09-26 — Eran on B-scents: text on wall lines, slang, before/after
+- Text over wall corners / soffit / window frames reads broken (ad 9 screenshot). Regenerated ads 1,3,6,9,10,12,20
+  with prompts that demand one seamless wall/backdrop where the text goes, and protect boxes that fence off the
+  remaining lines (14 credits; old images kept as `ads_raw/ad_XX_v_lines.png`). The other 13 keep their looks
+  (`layout.direction` pinned from the previous render).
+- overlay: MEASURE_JS now measures every text run (headlines split by `<br>` were missed, so the protect-overlap
+  check ignored them). `crossing_lines()` is advisory only: soft wall shadows score high, diagonal soffits low.
+- "אשכרה" (their own tagline) removed from ad 15, angle A4 hook and the split title.
+- New page section `compare` (after the insights): "היום" = 4 of their running ads (Ad Library media, videos as
+  thumbnails with a play mark) above "איתנו" = 4 of ours for the same products, in matching order.
+  B-scents: `data/bscents_site.py`; Stav: `data/stav_compare.py`.
