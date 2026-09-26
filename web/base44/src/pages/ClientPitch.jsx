@@ -80,6 +80,11 @@ const CSS = `
     -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%)}
   .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}}
 
+/* short phones (SE and smaller): tighter words so the button stays above the product */
+@media (max-width:760px) and (max-height:700px){.bp .hero .copy{top:80px}.bp .hero .eyebrow{font-size:13px}
+  .bp .hero h1{margin-top:8px}.bp .hero h1 .b{font-size:42px}.bp .hero h1 .l{font-size:36px}
+  .bp .hero .go{margin-top:16px;padding:11px 18px;font-size:14px}}
+
 /* light hero (bright product photography, e.g. skincare): dark ink, ivory ground, light shades */
 .bp .hero.light{background:var(--hl-bg,#f2f0ea)!important;color:var(--ink)}
 .bp .hero.light .copy{text-shadow:none}
