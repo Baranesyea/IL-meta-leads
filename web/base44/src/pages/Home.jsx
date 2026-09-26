@@ -78,7 +78,7 @@ const CSS = `
 .hp .how{padding:130px 0 120px}
 .hp .how .steps{list-style:none;margin:50px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:28px;counter-reset:s}
 .hp .how .steps li{background:var(--paper);border:1px solid #e1d7c8;border-radius:4px;padding:40px 34px 38px}
-.hp .how .steps .n{font-family:Idealist,Optimum,serif;font-size:44px;color:var(--gold);line-height:1}
+.hp .how .steps .n{font-weight:300;font-size:44px;color:var(--gold);line-height:1}
 .hp .how .steps h3{font-weight:900;font-size:24px;margin:16px 0 12px;line-height:1.25}
 .hp .how .steps p{font-weight:300;font-size:18px;line-height:1.7;color:var(--muted);margin:0}
 
@@ -110,10 +110,18 @@ const CSS = `
 /* phones and portrait screens: the photo fills the screen, words on its dark top */
 @media (max-width:760px),(max-aspect-ratio:1/1){
   .hp .bar nav{display:none}
-  .hp .hero .bg{background:url(/home/eran_desk.webp) center 42%/cover no-repeat}
-  .hp .hero .shade{background:linear-gradient(180deg,rgba(19,21,23,.95) 0%,rgba(19,21,23,.7) 30%,rgba(19,21,23,0) 50%)}
+  /* the photo sits at the bottom, full width; its dark wall continues the page colour, so the words above
+     it never reach the face */
+  .hp .hero .bg{background:url(/home/eran_desk.webp) center bottom/100% auto no-repeat}
+  .hp .hero .shade{background:linear-gradient(180deg,rgba(19,21,23,1) 0%,rgba(19,21,23,1) 30%,rgba(19,21,23,0) 52%)}
   .hp .hero .copy{justify-content:flex-start;padding:96px 24px 40px}
   .hp .hero .lead{display:none}
+  .hp .hero .ctas{gap:10px}
+}
+/* portrait tablets: a smaller photo, centred at the bottom, sides fading into the page */
+@media (min-width:761px) and (max-aspect-ratio:1/1){
+  .hp .hero .bg{background-size:auto 74%;-webkit-mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%);
+    mask-image:linear-gradient(90deg,transparent 12%,#000 26%,#000 74%,transparent 88%)}
 }
 @media (max-width:760px){
   .hp .wrap{padding:0 22px}
@@ -131,7 +139,8 @@ const CSS = `
   .hp .end .ph{min-height:440px}
 }
 @media (max-width:760px) and (max-height:700px){
-  .hp .hero h1 .b{font-size:42px}.hp .hero h1 .l{font-size:36px}.hp .hero .copy{padding-top:80px}
+  .hp .hero h1 .b{font-size:40px}.hp .hero h1 .l{font-size:34px}.hp .hero .copy{padding-top:76px}
+  .hp .hero .eyebrow{font-size:13px}.hp .hero .btn.line{display:none}
 }
 `;
 
