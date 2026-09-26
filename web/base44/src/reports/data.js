@@ -2584,7 +2584,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1080,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       54,
@@ -2616,7 +2616,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       250,
@@ -2648,7 +2648,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1350,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       67,
@@ -2744,7 +2744,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       250,
@@ -2817,11 +2817,11 @@ export const REPORTS = {
      ],
      "top": true,
      "ink": "#f4ecdf",
-     "paper": "rgb(13,8,6)",
-     "scrim": "rgba(0,0,0,0.16)",
+     "paper": "rgb(10,6,3)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate": false,
      "plate_bg": null,
-     "brand_color": null,
+     "brand_color": "#f4ecdf",
      "obj_pos": "center",
      "headline": "חרוט במיוחד.<br>בשבילו.",
      "sub": "ייצור אישי תוך 48 שעות",
@@ -2872,7 +2872,7 @@ export const REPORTS = {
     "spec": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "box": [
       86,
       250,
@@ -3206,6 +3206,806 @@ export const REPORTS = {
     "בחינם, בלי התחייבות."
    ],
    "text": "רצינו להראות לכם מה אפשר לעשות עם המותג שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "mydeal-5b7e19c2": {
+  "slug": "mydeal-5b7e19c2",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_01.webp",
+    "headline": "הטיפול שהספרים ממליצים",
+    "primary": "יש סיבה שכל ספר שני עובד עם Olaplex.\n\nמספר 3 הוא הטיפול הביתי שמחזק את השיער מבפנים, בין טיפול לטיפול במספרה.\n\n159 ש״ח, ועם הקוד OFF20 עוד 20% הנחה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(215,229,237)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הסוד של הספרים.<br>אצלך במקלחת.",
+     "sub": "אולפלקס מספר 3 · 159 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/mydeal/raw_02.webp",
+    "headline": "Olaplex No.3 Plus החדש",
+    "primary": "Olaplex No.3 Plus החדש, בגודל 370 מ״ל.\n\nהשדרוג של הטיפול הכי מפורסם בעולם השיער, לשיקום מלא יותר.\n\nהמחיר של החנות, והמשלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      205
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(213,207,225)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הגדול.<br>החדש.",
+     "sub": "אולפלקס 3 פלוס · 370 מ״ל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/mydeal/raw_03.webp",
+    "headline": "תחושה של אחרי מספרה",
+    "primary": "את מכירה את התחושה של יציאה מהמספרה? שיער רך, מבריק, מלא חיים.\n\nעם המוצרים שהספרים עצמם עובדים איתם, אפשר להרגיש ככה גם ביום רביעי רגיל.\n\nכל המותגים המקצועיים, במקום אחד.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(40,20,11)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שיער של אחרי מספרה.<br>כל יום.",
+     "sub": "טיפוח מקצועי לבית",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_04.webp",
+    "headline": "בלונד בלי צהוב",
+    "primary": "הבלונד יצא מושלם מהמספרה, ואחרי שבוע הוא מתחיל להצהיב?\n\nהשמפו הסגול של K18 מנטרל גוונים צהובים ושומר על בלונד קריר ובהיר, במרקם קצף נעים.\n\n239 ש״ח, 20% הנחה עם OFF20.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(217,191,232)",
+     "scrim": "rgba(250,246,238,0.3)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "בלונד בלי צהוב.",
+     "sub": "שמפו סגול · 239 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_05.webp",
+    "headline": "צבע שנשאר",
+    "primary": "השיער צבוע? ככה שומרים עליו זוהר ורך.\n\nסדרת Color Therapy של Bolly Jon: שמפו, סרום ומסכה שנבנו לשיער צבוע ויבש, ושומרים על הגוון.\n\nהמארז המלא ב-459 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(246,198,194)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הצבע מהמספרה.<br>לשבועות.",
+     "sub": "מארז 3 מוצרים לשיער צבוע",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/mydeal/raw_06.webp",
+    "headline": "מוצרים לשיער צבוע",
+    "primary": "כל חפיפה עם שמפו רגיל לוקחת איתה קצת מהצבע.\n\nמוצרים לשיער צבוע שומרים על הגוון ועל הברק, ומאריכים את הזמן עד הצבע הבא.\n\nכל הסדרות לשיער צבוע באתר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(246,193,185)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הגוון נשאר.<br>הברק נשאר.",
+     "sub": "לשיער צבוע",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/mydeal/raw_07.webp",
+    "headline": "סט Hyloren במהדורה מוגבלת",
+    "primary": "סט הפרימיום של Mon Platin לשיער מוחלק, במהדורה מוגבלת עם תיק נשיאה.\n\nכל מה שצריך כדי לשמור על החלקה רכה ומבריקה לאורך זמן.\n\n479 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      583,
+      250,
+      1015,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(229,199,198)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מהדורה מוגבלת.<br>לשיער מוחלק.",
+     "sub": "סט פרימיום · 479 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_08.webp",
+    "headline": "בלונד של יום ראשון",
+    "primary": "הבלונד הכי יפה ביום שיוצאים מהמספרה. אז למה לא לשמור עליו ככה?\n\nK18 Purple מנטרל צהוב ומחזק את השיער בכל חפיפה.\n\n239 ש״ח, משלוח חינם מעל 249.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(211,202,225)",
+     "scrim": "rgba(250,246,238,0.34)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הבלונד שלך.<br>כמו ביום הראשון.",
+     "sub": "שמפו סגול לבלונד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_09.webp",
+    "headline": "בושם שנשאר בשיער",
+    "primary": "בושם על העור נעלם עד הצהריים. בשיער הוא נשאר.\n\nבשמי השיער של Olie're Paris מעניקים ריח עדין וברק, בלי לייבש.\n\n139 ש״ח לבקבוק.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(90,64,40)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הריח שנשאר<br>בשיער.",
+     "sub": "בושם לשיער · 139 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/mydeal/raw_10.webp",
+    "headline": "ריסוס אחד, כל היום",
+    "primary": "ריסוס אחד בבוקר, וכל מי שמתקרב שם לב.\n\nבושם לשיער בבקבוק מעוצב, שמתאים גם למתנה.\n\nשלושה ניחוחות לבחירה באתר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      237
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(14,6,3)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ריסוס אחד.<br>כל היום.",
+     "sub": "שלושה ניחוחות לבחירה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/mydeal/raw_11.webp",
+    "headline": "שמפו יבש שקוף",
+    "primary": "אין זמן לחפוף? לא צריך.\n\nהשמפו היבש השקוף של Olie're Paris סופג שומניות, מוסיף נפח ולא משאיר שאריות לבנות.\n\n79 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(79,59,45)",
+     "scrim": "rgba(0,0,0,0.18)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יום שני של שיער.<br>בלי שאף אחד יידע.",
+     "sub": "שמפו יבש שקוף",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_12.webp",
+    "headline": "מתנה עם ריח",
+    "primary": "מחפשת מתנה שלא נראית כמו עוד מתנה?\n\nבושם לשיער של Olie're Paris, בבקבוק שנראה טוב על כל שידה.\n\n139 ש״ח, משלוח מהיר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,233,223)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "המתנה שהיא<br>לא קנתה לעצמה.",
+     "sub": "בושם לשיער · 139 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_13.webp",
+    "headline": "שיקום אינטנסיבי",
+    "primary": "סדרת Sea & Soil של Herbaliste משלבת מינרלים מהים ומהאדמה לשיקום אינטנסיבי של שיער יבש, פגום או צבוע.\n\nשמפו, מרכך, מסכה וסרום.\n\nמ-119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(4,81,86)",
+     "scrim": "rgba(0,0,0,0.42)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מים ואדמה.<br>לשיער יבש.",
+     "sub": "סדרת סי אנד סויל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/mydeal/raw_14.webp",
+    "headline": "מסכה לשיער יבש",
+    "primary": "פעם בשבוע, חמש דקות, והשיער מרגיש אחרת.\n\nמסכת Sea & Soil לשיקום אינטנסיבי של שיער יבש ופגום.\n\n169 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(4,55,66)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "5 דקות מסכה.<br>שבוע של רכות.",
+     "sub": "מסכה לשיער יבש",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "9:16",
+    "img": "/reports/mydeal/raw_15.webp",
+    "headline": "מארז La Lueur",
+    "primary": "המארז שסוגר את הפינה: שמפו 500 מ״ל ומסכה 500 מ״ל מסדרת La Lueur של ז׳אן מור.\n\nלשיער רך, מבריק ומלא חיים, בגודל שמחזיק חודשים.\n\n369 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(200,208,194)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שמפו ומסכה.<br>ברמה של סלון.",
+     "sub": "ז׳אן מור · 500 מ״ל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_16.webp",
+    "headline": "סרום נגד פריז",
+    "primary": "יום לח, שיער מתנפח. מכירה?\n\nסרום הגימור של Indola מרסן פריז ומעניק ברק בריא, בכמה טיפות.\n\n119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      256
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(12,5,3)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "בלי פריז.<br>רק ברק.",
+     "sub": "סרום גימור · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_17.webp",
+    "headline": "המותגים המקצועיים",
+    "primary": "Olaplex, K18, Bolly Jon, Olie're Paris, Mon Platin ועוד.\n\nכל המותגים המקצועיים שהספרים עובדים איתם, מקוריים, במקום אחד.\n\nמשלוח חינם בקנייה מעל 249 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(243,229,191)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "כל המותגים של המספרה.<br>במקום אחד.",
+     "sub": "כל המותגים המקצועיים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/mydeal/raw_18.webp",
+    "headline": "מוצרים מקוריים",
+    "primary": "כל המוצרים באתר מקוריים, ישירות מהיבואנים.\n\nמזמינים היום, ותוך 1–5 ימי עסקים הם אצלך. מעל 249 ש״ח המשלוח עלינו.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      432,
+      54,
+      1015,
+      291
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(2,39,95)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מקורי.<br>ומגיע עד הבית.",
+     "sub": "1–5 ימי עסקים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/mydeal/raw_19.webp",
+    "headline": "20% הנחה קבועה",
+    "primary": "בלי לחכות למבצע ובלי לרדוף אחרי קופונים.\n\n20% הנחה על כל האתר עם הקוד OFF20, כל יום.\n\nמשלוח חינם מעל 249 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(121,47,21)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "20% הנחה.<br>על הכול. תמיד.",
+     "sub": "קוד OFF20",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/mydeal/raw_20.webp",
+    "headline": "מוצרים לפי סוג שיער",
+    "primary": "שיער יבש, צבוע, מתולתל או מוחלק: לכל אחד יש את המוצרים שלו.\n\nבאתר הכול מסודר לפי סוג שיער, כדי שתמצאי בדיוק מה שמתאים לך.\n\n20% הנחה עם OFF20.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(110,35,81)",
+     "scrim": "rgba(0,0,0,0.38)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "headline": "לכל סוג שיער.<br>המוצר שלו.",
+     "sub": "יבש · צבוע · מתולתל · מוחלק",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/mydeal/hero.webp",
+  "business": {
+   "name": "מיי דיל",
+   "wordmark": "מיי דיל",
+   "site": "https://itsmydeal.co.il/"
+  },
+  "address": "pl",
+  "hero_eyebrow": "מותגי טיפוח שיער מקצועיים · משלוח עד הבית",
+  "hero_title": [
+   "המספרה.",
+   "אצלך במקלחת."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/mydeal/hero_m.webp",
+  "hero_pos_m": "center top",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "המודעות שלכם כבר מוכרות: חלקן רצות קרוב לשלושה חודשים, וזה בדרך כלל סימן שהן מביאות כסף. עברנו על המודעות, על האתר ועל המוצרים. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "הסרטונים שלכם עובדים",
+    "d": "בנות אמיתיות שמחזיקות את המוצר מול המצלמה, והמודעות רצות קרוב ל-100 יום. הקהל מאמין להן."
+   },
+   {
+    "t": "הכול נשען על הקופון",
+    "d": "כמעט כל מודעה נגמרת ב-OFF20. זה מוכר, אבל לא בונה סיבה לקנות דווקא אצלכם ולא בחנות אחרת עם אותם מותגים."
+   },
+   {
+    "t": "החנות עצמה בלי זהות",
+    "d": "המותגים שאתם מוכרים יוקרתיים, אבל המודעות נראות כמו קטלוג. אין ויזואל אחד שאומר 'זו החנות של המותגים המקצועיים'."
+   },
+   {
+    "t": "מוצרים שלא מקבלים במה",
+    "d": "בשמי השיער של Olie're Paris, סדרת Sea & Soil והסטים של Mon Platin כמעט לא מופיעים, למרות שהם מוצרים עם סיפור."
+   }
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "המספרה, אצלך במקלחת",
+    "hook": "הסוד של הספרים. אצלך במקלחת.",
+    "idea": "המותגים שהספרים עובדים איתם, לשימוש ביתי. המסר שכבר עובד לכם בסרטונים, בוויזואל ברמה של המותגים עצמם."
+   },
+   {
+    "id": "A2",
+    "name": "צבע שנשאר",
+    "hook": "הצבע מהמספרה. לשבועות.",
+    "idea": "שמירה על שיער צבוע ובלונד בין טיפולים: Color Therapy, K18 הסגול ו-Hyloren. כאב חוזר וקהל עם רכישות חוזרות."
+   },
+   {
+    "id": "A3",
+    "name": "בושם לשיער",
+    "hook": "הריח שנשאר בשיער.",
+    "idea": "בשמי השיער והשמפו היבש של Olie're Paris: פינוק, ריח ומתנה, בלי תחרות מחירים."
+   },
+   {
+    "id": "A4",
+    "name": "שיקום לשיער יבש",
+    "hook": "5 דקות מסכה. שבוע של רכות.",
+    "idea": "Sea & Soil, Jan Mor ו-Indola לשיער אחרי החלקות, צבע ופן. הצורך הכי רחב בקטגוריה."
+   },
+   {
+    "id": "A5",
+    "name": "כל המותגים. מחיר של חנות.",
+    "hook": "כל המותגים של המספרה. במקום אחד.",
+    "idea": "החנות עצמה: מותגים מקוריים, 20% הנחה קבועה, משלוח חינם מעל 249. בונה זהות ומעלה את סל הקנייה."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/mydeal/cur_01.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/mydeal/cur_02.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/mydeal/cur_03.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/mydeal/cur_04.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     5,
+     1,
+     15,
+     6
+    ]
+   }
+  },
+  "strip": [
+   1,
+   9,
+   5,
+   13,
+   4,
+   17,
+   7,
+   11
+  ],
+  "split": {
+   "ad": 17,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "כל",
+    "המותגים.",
+    "מקום אחד."
+   ],
+   "text": "Olaplex, K18, Bolly Jon, Olie're Paris, Mon Platin ועוד: המותגים שהספרים עובדים איתם, מקוריים, במחיר של חנות ועם משלוח עד הבית.",
+   "price": "20% הנחה קבועה · משלוח חינם מעל 249 ש״ח"
+  },
+  "band": {
+   "ad": 3,
+   "quote": "שיער של אחרי מספרה. כל יום.",
+   "by": "מיי דיל · מותגי שיער מקצועיים"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"

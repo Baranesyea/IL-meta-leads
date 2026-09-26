@@ -211,3 +211,9 @@
   rule (max-height 700px) that tightens hero type so the button stays above the product.
 - Workflow helpers: data/fetch_generated.py, grid_sheet.py (10% grid for protect boxes), render_lead.py,
   phone_sheet.py (390px review).
+- (later) JewelryFactory ad 13 regenerated: a laser can't spark from nowhere — the bracelet now lies on a laser
+  bed, beam from the laser head onto the engraving plate, no hands. Rule: every physical process in an image
+  must be physically plausible (tool present, acting on the right part).
+- Collected 039/051/054 via `src.collect.run` (all three are resellers of international hair brands).
+  Built It's My Deal (051) → /p/mydeal-5b7e19c2: bold colour-block studio look; overlay subs Hebrew-only
+  (brand names moved to the primary text). ~60 Higgsfield credits.

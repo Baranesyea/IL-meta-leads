@@ -1606,6 +1606,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -1673,6 +1674,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -1740,6 +1742,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -1807,6 +1810,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -1880,6 +1884,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "cover",
     "rendered_direction": "cover",
     "rendered_zone": "top",
     "render": {
@@ -1941,12 +1946,13 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
+    "direction": "cover",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1080,
-     "direction": "cover",
+     "direction": "stack",
      "headline": "כל התנ״ך.<br>בשבב אחד קטן.",
      "sub": "שרשרת עם שבב תנ״ך",
      "note": null,
@@ -2008,12 +2014,13 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
+    "direction": "cover",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "headline": "שמירה.<br>קרוב ללב.",
      "sub": "תליון עם שבב תנ״ך",
      "note": null,
@@ -2081,12 +2088,13 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
+    "direction": "cover",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1350,
-     "direction": "cover",
+     "direction": "stack",
      "headline": "יוצא לדרך?<br>שיהיה לו איתו.",
      "sub": "צמיד עור עם לוחית חרוטה",
      "note": null,
@@ -2142,6 +2150,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "bottom",
     "render": {
@@ -2209,6 +2218,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "top_left",
     "render": {
@@ -2282,12 +2292,13 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
+    "direction": "cover",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "headline": "לב אחד.<br>כל המשפחה.",
      "sub": "שרשרת לב עם שמות",
      "note": null,
@@ -2355,6 +2366,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -2416,6 +2428,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -2435,12 +2448,12 @@
      ],
      "top": true,
      "ink": "#f4ecdf",
-     "paper": "rgb(13,8,6)",
+     "paper": "rgb(10,6,3)",
      "accent": "#f4ecdf",
      "scrim_on": true,
-     "scrim": "rgba(0,0,0,0.16)",
+     "scrim": "rgba(0,0,0,0.14)",
      "plate_bg": null,
-     "brand_color": null,
+     "brand_color": "#f4ecdf",
      "obj_pos": "center",
      "panel_side": "right",
      "plate": false
@@ -2450,25 +2463,25 @@
    "image_raw": "ads_raw/ad_13.png",
    "protect": [
     [
-     0.25,
-     0.4,
-     1.0,
-     0.72
+     0.38,
+     0.0,
+     0.56,
+     0.46
+    ],
+    [
+     0.05,
+     0.54,
+     0.97,
+     0.78
     ],
     [
      0.0,
-     0.0,
-     0.22,
-     0.3
-    ],
-    [
-     0.0,
-     0.72,
+     0.5,
      1.0,
      1.0
     ]
    ],
-   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_074421_1e970487-df68-4ec2-8157-bb59df53e679.png",
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_123539_48ab5e80-35d9-454e-ae6e-5b702a3bf8de.png",
    "model": "higgsfield/nano_banana_pro 2k",
    "prompt": "Premium editorial jewellery advertising photograph, warm and masculine luxury: charcoal slate, dark leather, brushed steel, walnut wood, warm tungsten light with deep soft shadows, real skin texture, shot on medium format, photorealistic, magazine campaign quality. Macro of a fibre-laser engraving machine at work in a dark workshop: a fine bright laser point and a thin wisp of smoke on the steel plate of the silver titanium link bracelet from the reference, warm amber glow, sparks of light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same scene simply continues as soft, out-of-focus, evenly lit background (the same wall, window light or sky), with no objects or hard lines in it. One continuous photograph — no borders, bands, panels, split frames or blank areas. The jewellery must be an exact match of the reference photo: same design, materials, colours, proportions, links, beads and clasp — do not redesign it. Any engraved lettering stays soft, small or turned slightly away; never invent new readable letters. No other text, signage, watermarks or logos anywhere in the image. "
   },
@@ -2489,6 +2502,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -2550,12 +2564,13 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
-    "rendered_direction": "cover",
+    "direction": "cover",
+    "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
      "w": 1080,
      "h": 1920,
-     "direction": "cover",
+     "direction": "stack",
      "headline": "מתנה אישית.<br>אצלך תוך 48 שעות.",
      "sub": "משלוח לכל הארץ",
      "note": null,
@@ -2617,6 +2632,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "bottom",
     "render": {
@@ -2684,6 +2700,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_right",
     "render": {
@@ -2751,6 +2768,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "quiet",
     "rendered_direction": "quiet",
     "rendered_zone": "top",
     "render": {
@@ -2812,6 +2830,7 @@
    "has_people": false,
    "to_verify": [],
    "layout": {
+    "direction": "stack",
     "rendered_direction": "stack",
     "rendered_zone": "top",
     "render": {
@@ -2873,6 +2892,7 @@
    "has_people": true,
    "to_verify": [],
    "layout": {
+    "direction": "contrast",
     "rendered_direction": "contrast",
     "rendered_zone": "mid_left",
     "render": {
@@ -2947,7 +2967,7 @@
   "filtered": "2026-09-25T13:13:49",
   "qualified": "2026-09-25T13:19:32",
   "collected": "2026-09-25T13:26:27",
-  "researched": "2026-09-26T07:56:20",
+  "researched": "2026-09-26T12:45:28",
   "published": "2026-09-26"
  },
  "qualify": {
