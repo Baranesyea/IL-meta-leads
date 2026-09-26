@@ -182,6 +182,14 @@ html:has(.bp){scroll-behavior:smooth}
   .bp .lb .ad{width:min(100%, calc(70svh * var(--ar)))}.bp .lb .txt{flex:none;width:100%;max-width:520px}}
 `;
 
+// parallax offset for the quote band, relative to the band's own position; clamped inside its 12% bleed
+function bandShift(el, y) {
+  if (!el) return 0;
+  const h = el.offsetHeight, max = h * 0.1;
+  const d = (y + window.innerHeight / 2 - (el.getBoundingClientRect().top + window.scrollY + h / 2)) * 0.12;
+  return Math.max(-max, Math.min(max, d));
+}
+
 function useScrollY() {
   const [y, setY] = useState(0);
   useEffect(() => {
@@ -347,6 +355,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
   const slug = fixedSlug || params.slug;
   const r = REPORTS[slug];
   const y = useScrollY();
+  const bandRef = useRef(null);
   const [open, setOpen] = useState(null);
   const cols = useCols();
   useReveal(slug);
@@ -460,8 +469,8 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </section>
 
       {/* quote band */}
-      <section className="band">
-        <div className="bg" style={{ backgroundImage: `url(${bd.img || ad(bd.ad)?.img})`, transform: `translateY(${(y - 2200) * 0.12}px)` }} />
+      <section className="band" ref={bandRef}>
+        <div className="bg" style={{ backgroundImage: `url(${bd.img || ad(bd.ad)?.img})`, transform: `translateY(${bandShift(bandRef.current, y)}px)` }} />
         <div className="shade" />
         <div className="q reveal">
           <Type as="div" className="script" text={bd.quote} speed={60} />
