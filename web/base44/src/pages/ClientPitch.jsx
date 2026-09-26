@@ -50,21 +50,24 @@ const CSS = `
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
 /* larger screens: the whole portrait (face to pendant) on the left, melting into its own dark green;
    the words on the right over that same dark — the product is never cropped out of the hero */
-@media (min-width:761px){.bp .hero{background:#010c0b}
+@media (min-width:761px) and (min-aspect-ratio:5/4){.bp .hero{background:#010c0b}
   .bp .hero .bg{inset:-4% auto -4% 0;width:min(64%, calc(108svh * .805));background-position:center 45%;
     -webkit-mask-image:linear-gradient(to left,transparent 0,#000 26%);mask-image:linear-gradient(to left,transparent 0,#000 26%)}
   .bp .hero .shade{background:linear-gradient(0deg,rgba(1,12,11,.55) 0%,rgba(1,12,11,0) 30%)}}
-/* phones: the words sit in the photo's own dark space on top, the photo below them untouched —
-   the necklace and pendant (the product) are never under a shade or under type */
-@media (max-width:760px){.bp .hero{background:#010c0b}
-  .bp .hero .bg{inset:36% 0 -3% 0;background-position:center bottom;
-    -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 14%);mask-image:linear-gradient(to bottom,transparent 0,#000 14%)}
+/* phones and portrait tablets: the words first, the photo BELOW them in its own box — never under the words
+   or the button, whatever the screen height (a short phone used to push the button onto the face) */
+@media (max-width:760px), (max-aspect-ratio:5/4){.bp .hero{background:#010c0b;height:auto;min-height:100svh;display:flex;flex-direction:column}
+  .bp .hero .bg{position:relative;inset:auto;flex:1 0 auto;min-height:max(50svh,340px);margin-top:26px;
+    background-position:var(--hero-pos-m,center 30%);transform-origin:center bottom;
+    -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 12%);mask-image:linear-gradient(to bottom,transparent 0,#000 12%)}
   .bp .hero .shade{display:none}
-  .bp .hero .copy{top:96px;bottom:auto;padding:0 22px}
+  .bp .hero .copy{position:relative;right:auto;bottom:auto;max-width:none;padding:96px 22px 0}
   .bp .hero .eyebrow{font-size:15px}
   .bp .hero h1 .b{font-size:52px}.bp .hero h1 .l{font-size:44px}
   .bp .hero .sig{display:none}
   .bp .hero .go{margin-top:24px;padding:14px 22px;font-size:16px}}
+@media (min-width:761px) and (max-aspect-ratio:5/4){.bp .hero .copy{padding:120px 8vw 0}
+  .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}.bp .hero .bg{min-height:56svh}}
 
 /* call-to-action link used in the hero and after the review */
 .bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
@@ -140,21 +143,24 @@ html:has(.bp){scroll-behavior:smooth}
 @media (max-width:980px){.bp .ins{grid-template-columns:1fr 1fr}.bp .ins > div:nth-child(2){border-left:0}}
 @media (max-width:560px){.bp .ins{grid-template-columns:1fr}.bp .ins > div{border-left:0;border-bottom:1px solid #dcd1c1;padding:30px 0 40px}}
 
-/* before / after: their ads today, then ours */
-.bp .cmp{background:var(--paper);padding:30px 0 40px}
-.bp .cmp .top{margin-bottom:46px}
-.bp .cmp h2{margin:14px 0 0;line-height:1.05}
-.bp .cmp h2 .b{display:block;font-weight:900;font-size:clamp(34px,4.4vw,60px)}
-.bp .cmp h2 .l{display:block;font-weight:300;font-size:clamp(30px,3.9vw,54px)}
-.bp .cmp .lab{display:flex;align-items:baseline;gap:16px;margin:0 0 16px;flex-wrap:wrap}
-.bp .cmp .lab b{font-weight:900;font-size:clamp(24px,2.4vw,32px)}
-.bp .cmp .lab span{font-weight:300;font-size:17px;color:var(--muted)}
-.bp .cmp .set + .set{margin-top:56px}
-.bp .cmp .ads .cur{position:relative;overflow:hidden;background:#e9e1d4}
-.bp .cmp .ads .cur img{display:block;width:100%;height:auto}
-.bp .cmp .ads .cur .play{position:absolute;top:12px;left:12px;width:34px;height:34px;border-radius:50%;background:rgba(10,8,6,.55);
-  color:#fff;display:grid;place-items:center;font-size:13px;padding-left:2px;backdrop-filter:blur(4px)}
-@media (max-width:540px){.bp .cmp .set + .set{margin-top:40px}.bp .cmp .lab{margin-bottom:12px}}
+/* review pairs: their ad today | the same product our way */
+.bp .pairs{background:var(--paper);padding:10px 0 20px}
+.bp .pairs .grid{display:grid;grid-template-columns:1fr 1fr;gap:56px 48px}
+.bp .pair{display:flex;gap:10px;align-items:flex-end}
+.bp .pair .cell{min-width:0}
+.bp .pair .lab{font-size:15px;letter-spacing:.04em;color:var(--muted);margin:0 0 10px;white-space:nowrap}
+.bp .pair .lab.ours{color:var(--ink);font-weight:900}
+.bp .pair .cur{position:relative;overflow:hidden;background:#e9e1d4}
+.bp .pair .cur img{display:block;width:100%;height:auto}
+.bp .pair .cur .play{position:absolute;top:10px;left:10px;width:30px;height:30px;border-radius:50%;background:rgba(10,8,6,.55);
+  color:#fff;display:grid;place-items:center;font-size:12px;padding-left:2px;backdrop-filter:blur(4px)}
+.bp .pairs .issues{padding-top:110px}
+.bp .pairs .issues h2{margin:14px 0 0;line-height:1.05}
+.bp .pairs .issues h2 .b{display:block;font-weight:900;font-size:clamp(34px,4.4vw,60px)}
+.bp .pairs .issues h2 .l{display:block;font-weight:300;font-size:clamp(30px,3.9vw,54px)}
+@media (max-width:880px){.bp .pairs .grid{grid-template-columns:1fr;gap:40px}}
+@media (max-width:540px){.bp .pairs .grid{margin:0 -24px}.bp .pair{gap:4px}.bp .pair .lab{padding:0 12px;font-size:14px}
+  .bp .pairs .issues{padding-top:80px}}
 
 /* angles */
 .bp .angle{padding:120px 0;border-top:1px solid #e1d7c8}
@@ -423,7 +429,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
 
       {/* HERO — the brand's own campaign, full screen */}
       <section className="hero">
-        <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)` }} />
+        <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
         <div className="shade" />
         <div className="copy">
           <div className="eyebrow fadein d1">{r.hero_eyebrow}</div>
@@ -445,6 +451,31 @@ export default function ClientPitch({ slug: fixedSlug }) {
           <p className="reveal">{rv.text}</p>
         </div>
       </section>
+      {/* right under the review: what runs today next to how we'd do it, pair by pair */}
+      {r.compare && (
+        <section className="pairs">
+          <div className="wrap grid">
+            {r.compare.before.items.map((it, i) => {
+              const a = ad(r.compare.after.ads[i]);
+              if (!a) return null;
+              const ar1 = it.w / it.h, ar2 = a.spec.w / a.spec.h;
+              return (
+                <div key={i} className="pair reveal" style={{ transitionDelay: `${(i % 2) * 120}ms` }}>
+                  <div className="cell" style={{ flex: `${ar1 * 100} 1 0` }}>
+                    <div className="lab">{r.compare.before.label}</div>
+                    <div className="cur"><img src={it.img} alt="" loading="lazy" />{it.video && <span className="play" aria-hidden="true">▶</span>}</div>
+                  </div>
+                  <div className="cell" style={{ flex: `${ar2 * 100} 1 0` }}>
+                    <div className="lab ours">{r.compare.after.label}</div>
+                    <div className="card" onClick={() => setOpen(a)}><AdCanvas spec={a.spec} img={a.img} brand={b.name} /></div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+          {rv.issues && <div className="wrap issues reveal"><div className="eyebrow">{rv.issues_eyebrow}</div><h2>{two(rv.issues[0], rv.issues[1])}</h2></div>}
+        </section>
+      )}
       <section className="wrap ins">
         {r.insights.map((it, i) => (
           <div key={i} className="reveal" style={{ transitionDelay: `${i * 100}ms` }}>
@@ -454,51 +485,6 @@ export default function ClientPitch({ slug: fixedSlug }) {
           </div>
         ))}
       </section>
-      {/* before / after: the ads they run today, then the same brand in our campaign */}
-      {r.compare && (() => {
-        const c = r.compare, per = cols === 1 ? 2 : 4;
-        const before = c.before.items.map((it) => ({ ...it, ar: it.w / it.h }));
-        const after = (c.after.ads || []).map(ad).filter(Boolean);
-        return (
-          <section className="cmp">
-            <div className="wrap">
-              <div className="top reveal">
-                <div className="eyebrow">{c.eyebrow}</div>
-                <h2>{two(c.title[0], c.title[1])}</h2>
-              </div>
-              <div className="set">
-                <div className="lab reveal"><b>{c.before.label}</b><span>{c.before.note}</span></div>
-                <div className="ads">
-                  {chunk(before, per).map((row, ri) => (
-                    <div key={ri} className="row">
-                      {row.map((it, k) => (
-                        <div key={k} className="cur reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${it.ar * 100} 1 0` }}>
-                          <img src={it.img} alt="" loading="lazy" />
-                          {it.video && <span className="play" aria-hidden="true">▶</span>}
-                        </div>
-                      ))}
-                    </div>
-                  ))}
-                </div>
-              </div>
-              <div className="set">
-                <div className="lab reveal"><b>{c.after.label}</b><span>{c.after.note}</span></div>
-                <div className="ads">
-                  {chunk(after, per).map((row, ri) => (
-                    <div key={ri} className="row">
-                      {row.map((a, k) => (
-                        <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${(a.spec.w / a.spec.h) * 100} 1 0` }} onClick={() => setOpen(a)}>
-                          <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
-                        </div>
-                      ))}
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </section>
-        );
-      })()}
       <div className="ins-next reveal"><a className="go" href="#campaign">{rv.next || "לקמפיין שבנינו בשבילך"} <span aria-hidden="true">↓</span></a></div>
 
       {/* campaign strip */}
