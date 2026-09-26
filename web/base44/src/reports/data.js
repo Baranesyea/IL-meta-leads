@@ -7216,5 +7216,1776 @@ export const REPORTS = {
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"
+ },
+ "megapet-beb32c3c": {
+  "slug": "megapet-beb32c3c",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_01.webp",
+    "headline": "רויאל קנין מקסי אדולט",
+    "primary": "שק מזון של כלב גדול לא אמור לעבור דרך הגב שלכם.\n\nרויאל קנין מקסי אדולט, ומשלוח חינם ומהיר עד הדלת.\n\n279 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(2,27,61)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "15 ק״ג.<br>בלי לסחוב.",
+     "sub": "רויאל קנין מקסי · 279 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_02.webp",
+    "headline": "מזון לגור מגזע ענק",
+    "primary": "גור מגזע ענק צריך מזון שבנוי בדיוק בשבילו.\n\nרויאל קנין ג'וניור ג'איינט, 329 ש״ח, עם משלוח חינם עד הבית.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(227,201,162)",
+     "scrim": "rgba(250,246,238,0.36)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הוא יגדל מהר.<br>תנו לו להתחיל נכון.",
+     "sub": "רויאל קנין ג'וניור ג'איינט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/megapet/raw_03.webp",
+    "headline": "אקאנה לחתול אינדור",
+    "primary": "אקאנה אינדור לחתולים שחיים בבית: עוף והרינג כמרכיב ראשון, ומזון שמתאים לחתול מעוקר.\n\n159 ש״ח, משלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,205,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חתול של בית.<br>מזון של בית.",
+     "sub": "אקאנה אינדור · 159 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_04.webp",
+    "headline": "המותגים המובילים",
+    "primary": "הם כבר יודעים מה הם אוהבים. אתם רק צריכים שזה יגיע.\n\nכל המותגים המובילים, משלוח חינם ומהיר לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(2,48,48)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "המותג שלהם.<br>עד הדלת.",
+     "sub": "רויאל קנין · אקאנה · פרו פלאן",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_05.webp",
+    "headline": "פריסקיז פארטי מיקס",
+    "primary": "יש צליל אחד שכל חתול מזהה מכל מקום בבית.\n\nצנצנת פריסקיז פארטי מיקס בטעמי ים, 99 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      648,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(179,227,228)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "החתול כבר שמע<br>את הצנצנת.",
+     "sub": "פריסקיז פארטי מיקס · 99 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/megapet/raw_06.webp",
+    "headline": "פאוצ'ים רויאל קנין",
+    "primary": "הארוחה שהחתול מחכה לה, במחיר שמחכה לכם.\n\n12 פאוצ'ים של רויאל קנין ב-79 ש״ח במקום 94.80.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(220,215,233)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "12 פאוצ'ים.<br>79 ש״ח.",
+     "sub": "במקום 94.80 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_07.webp",
+    "headline": "פינוקים לחתול",
+    "primary": "פאוצ'ים, חטיפים ומעדנים לחתולים שיודעים בדיוק מה הם רוצים.\n\nמשלוח חינם ומהיר לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,200,163)",
+     "scrim": "rgba(250,246,238,0.38)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "היא יודעת<br>מה מגיע לה.",
+     "sub": "פינוקים לחתול",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/megapet/raw_08.webp",
+    "headline": "חטיפים לחתול",
+    "primary": "רוצים שהחתול יבוא כשקוראים לו? יש לנו רעיון.\n\nפריסקיז פארטי מיקס, 99 ש״ח לצנצנת.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,191,184)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חטיף אחד.<br>חבר לכל החיים.",
+     "sub": "פריסקיז · 99 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_09.webp",
+    "headline": "האנט בולי סטיק ויאק",
+    "primary": "בולי סטיק וגבינת יאק של האנט: חטיף לעיסה טבעי, בלי חומרים משמרים, שמעסיק את הכלב לאורך זמן.\n\n169 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(190,228,228)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שעה של לעיסה.<br>שעה של שקט.",
+     "sub": "האנט בולי סטיק · 169 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/megapet/raw_10.webp",
+    "headline": "צעצוע בארק",
+    "primary": "צעצוע מחבואים של בארק: מסתירים בתוכו את הצעצועים הקטנים, והכלב עסוק בלמצוא אותם.\n\n89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      583,
+      54,
+      1015,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,207,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הצעצוע שלו.<br>לא הנעל שלכם.",
+     "sub": "בארק סוני העצלן · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_11.webp",
+    "headline": "צעצועים לכלבים",
+    "primary": "כלב עם אנרגיה צריך איפה להוציא אותה.\n\nצעצועים שמחזיקים וחטיפי לעיסה טבעיים, במשלוח חינם עד הבית.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(13,31,56)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "אנרגיה?<br>יש לנו פתרון.",
+     "sub": "צעצועים וחטיפי לעיסה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/megapet/raw_12.webp",
+    "headline": "חטיפי לעיסה טבעיים",
+    "primary": "חטיפי האנט הם חטיפים טבעיים לגמרי: בולי סטיק, ריאות באפלו וזנב באפלו. בלי דגנים ובלי חומרים משמרים.\n\nמ-44 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      496,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(49,37,29)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "רכיב אחד.<br>בלי תוספות.",
+     "sub": "חטיפי האנט · מ-44 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_13.webp",
+    "headline": "מיטה פרוותית עגולה",
+    "primary": "המיטה העגולה והפרוותית שכלבים וחתולים פשוט נעלמים בתוכה.\n\nבמגוון מידות, מ-189 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(211,216,203)",
+     "scrim": "rgba(250,246,238,0.22)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "יש לו<br>מקום משלו.",
+     "sub": "מיטה פרוותית עגולה · מ-189 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/megapet/raw_14.webp",
+    "headline": "מיטה פרוותית",
+    "primary": "תנו להם מקום רך משלהם, והם יפסיקו לחפש את שלכם.\n\nמיטה פרוותית עגולה, מ-189 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,215,234)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "הספה חזרה<br>להיות שלכם.",
+     "sub": "מיטה לכלב ולחתול",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_15.webp",
+    "headline": "מיטות וצעצועים",
+    "primary": "אחרי יום שלם של משחק, כל אחד צריך את הפינה שלו.\n\nמיטות וצעצועים לכלבים ולחתולים, במשלוח חינם עד הבית.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(226,202,167)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "סוף יום.<br>לכולם.",
+     "sub": "מיטה · צעצוע · שקט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_16.webp",
+    "headline": "מיטה לכל אחד",
+    "primary": "כשלכל אחד יש מיטה משלו, אף אחד לא רב על המקום.\n\nמיטה פרוותית עגולה, במגוון מידות, מ-189 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(4,44,47)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלום בית.<br>סוף סוף.",
+     "sub": "מיטה לכל אחד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_17.webp",
+    "headline": "מגה פט",
+    "primary": "מזמינים באתר, בטלפון או בוואטסאפ, והכול מגיע עד הדלת.\n\nמשלוח חינם ומהיר לכל הארץ, ובאזור באר שבע באותו יום או תוך 24 שעות.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(189,233,231)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "נגמר המזון?<br>מחר הוא אצלכם.",
+     "sub": "משלוח חינם ומהיר לכל הארץ",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/megapet/raw_18.webp",
+    "headline": "המותגים המובילים",
+    "primary": "רויאל קנין, אקאנה, פרו פלאן, אדוונס, פריסקיז והאנט. יותר מ-1,000 מוצרים לכלבים ולחתולים.\n\nמשלוח חינם לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      648,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(247,191,184)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל המותגים.<br>חנות אחת.",
+     "sub": "מגה פט · באר שבע",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_19.webp",
+    "headline": "משלוח מהיר",
+    "primary": "גרים באזור באר שבע? ההזמנה מגיעה אליכם באותו יום או תוך 24 שעות.\n\nבשאר הארץ, משלוח חינם ומהיר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(227,205,169)",
+     "scrim": "rgba(250,246,238,0.26)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הזמנתם היום.<br>זה כבר בדרך.",
+     "sub": "באזור באר שבע · תוך 24 שעות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/megapet/raw_20.webp",
+    "headline": "הזמנה בטלפון",
+    "primary": "לא בא לכם לגלול? מתקשרים ל-6897* או שולחים הודעה בוואטסאפ, ואנחנו נעזור לבחור.\n\nמשלוח חינם ומהיר לכל הארץ.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(18,34,61)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתקשרים 6897*<br>ואנחנו דואגים לשאר.",
+     "sub": "הזמנה בטלפון ובוואטסאפ",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/megapet/hero.webp",
+  "business": {
+   "name": "מגה פט",
+   "wordmark": "מגה פט",
+   "site": "https://megapet.co.il/"
+  },
+  "address": "pl",
+  "hero_bg_color": "#0f5856",
+  "hero_eyebrow": "מזון וציוד לחיות מחמד · משלוח חינם לכל הארץ",
+  "hero_title": [
+   "המותג שלהם.",
+   "עד הדלת."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/megapet/hero_m.webp",
+  "hero_pos_m": "center bottom",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול להכניס הרבה יותר."
+   ],
+   "text": "שמונה מהמודעות שלכם רצות כבר ארבעה חודשים, וזה סימן שהן מביאות קונים. עברנו על המודעות, על האתר ועל המוצרים, ולחצנו על כל מודעה כדי לראות לאן היא מובילה. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "הטקסט ארוך, ההוק חסר",
+    "d": "המודעות פותחות ב'מגה פט, החנות המובילה' ורשימה ארוכה. השורה הראשונה היא מה שעוצר גלילה, והיא מדברת על החנות ולא על הכלב."
+   },
+   {
+    "t": "אין חיה אחת שנראית טוב",
+    "d": "בחנות לחיות מחמד, כלב שמחכה ליד השק או חתול מול הצנצנת עושים את כל העבודה. היום התמונות נראות כמו סטוק."
+   },
+   {
+    "t": "המשלוח קבור ברשימה",
+    "d": "משלוח חינם ומהיר לכל הארץ, ובאזור באר שבע באותו יום או תוך 24 שעות. זה היתרון הכי חזק שלכם, והוא שורה שלישית ברשימה."
+   },
+   {
+    "t": "קונים לפי מותג",
+    "d": "מי שמאכיל רויאל קנין מחפש רויאל קנין. מודעות לפי מותג ולפי חיה מדברות בדיוק למי שכבר מוכן לקנות."
+   }
+  ],
+  "landing": {
+   "eyebrow": "בדקנו לאן כל מודעה מובילה",
+   "title": [
+    "שמונה מודעות. שמונה נושאים.",
+    "עמוד אחד."
+   ],
+   "text": "לחצנו על כל אחת מ-12 המודעות הפעילות שלכם. ארבע מודעות המבצע מובילות בדיוק למבצע, וזה מצוין. אבל שמונה המודעות הוותיקות, כל אחת על נושא אחר, מובילות כולן לדף הבית.",
+   "flows": [
+    {
+     "count": 8,
+     "count_label": "מודעות, 8 נושאים שונים",
+     "to": "דף הבית",
+     "title": "כל הציוד לחיית המחמד שלך במקום אחד",
+     "url": "megapet.co.il",
+     "note": "מזון לחתולים, פרעושים, צעצועים, מזון לגורים, חטיפים ומיטות. מי שלחץ על מודעת המיטות מגיע לדף הבית ומתחיל לחפש מיטה. כל לחיצה כזאת כבר שולמה, והרבה מהן נוטשות לפני שהן מגיעות למוצר.",
+     "items": [
+      {
+       "img": "/reports/megapet/lp_00.webp",
+       "w": 700,
+       "h": 700,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_01.webp",
+       "w": 520,
+       "h": 522,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_02.webp",
+       "w": 1000,
+       "h": 1000,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_03.webp",
+       "w": 1500,
+       "h": 1502,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_07.webp",
+       "w": 1280,
+       "h": 853,
+       "video": false
+      }
+     ]
+    },
+    {
+     "count": 4,
+     "count_label": "מודעות מבצע",
+     "to": "עמוד המבצע",
+     "title": "כל מודעה לעמוד שלה",
+     "url": "megapet.co.il/deal/…",
+     "note": "ככה זה צריך להיראות: מי שלחץ על אקאנה מגיע למבצע של אקאנה. את זה אתם כבר עושים, רק צריך להחיל את זה גם על שמונה המודעות האחרות.",
+     "items": [
+      {
+       "img": "/reports/megapet/lp_08.webp",
+       "w": 1200,
+       "h": 1200,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_09.webp",
+       "w": 1200,
+       "h": 1200,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_10.webp",
+       "w": 1200,
+       "h": 1200,
+       "video": false
+      },
+      {
+       "img": "/reports/megapet/lp_11.webp",
+       "w": 1200,
+       "h": 1200,
+       "video": false
+      }
+     ]
+    }
+   ]
+  },
+  "angles": [
+   {
+    "id": "A1",
+    "name": "המותג שלהם, עד הבית",
+    "hook": "15 ק״ג. בלי לסחוב.",
+    "idea": "רויאל קנין ואקאנה: המזון שהם כבר אוכלים, עד הדלת."
+   },
+   {
+    "id": "A2",
+    "name": "פינוק לחתול",
+    "hook": "החתול כבר שמע את הצנצנת.",
+    "idea": "פאוצ'ים של רויאל קנין ב-79 ופריסקיז פארטי מיקס."
+   },
+   {
+    "id": "A3",
+    "name": "עסוק ושמח",
+    "hook": "הצעצוע שלו. לא הנעל שלכם.",
+    "idea": "חטיפי לעיסה של האנט וצעצועי בארק."
+   },
+   {
+    "id": "A4",
+    "name": "מקום משלו",
+    "hook": "יש לו מקום משלו.",
+    "idea": "מיטות פרוותיות עגולות לכלבים ולחתולים."
+   },
+   {
+    "id": "A5",
+    "name": "מגה פט, עד הבית",
+    "hook": "נגמר המזון? מחר הוא אצלכם.",
+    "idea": "המותגים המובילים, משלוח חינם ומהיר לכל הארץ, והזמנה ב-6897*."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/megapet/cur_01.webp",
+      "w": 700,
+      "h": 700,
+      "video": false
+     },
+     {
+      "img": "/reports/megapet/cur_02.webp",
+      "w": 520,
+      "h": 522,
+      "video": false
+     },
+     {
+      "img": "/reports/megapet/cur_03.webp",
+      "w": 1000,
+      "h": 1000,
+      "video": false
+     },
+     {
+      "img": "/reports/megapet/cur_04.webp",
+      "w": 1200,
+      "h": 1200,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     9,
+     17
+    ]
+   }
+  },
+  "strip": [
+   2,
+   6,
+   10,
+   13,
+   15,
+   19,
+   3,
+   11
+  ],
+  "split": {
+   "ad": 17,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "הכול",
+    "עד",
+    "הדלת."
+   ],
+   "text": "רויאל קנין, אקאנה, פרו פלאן, אדוונס, פריסקיז והאנט. יותר מ-1,000 מוצרים, משלוח חינם ומהיר לכל הארץ, והזמנות גם ב-6897* ובוואטסאפ.",
+   "price": "משלוח חינם לכל הארץ"
+  },
+  "band": {
+   "ad": 13,
+   "theme": "light",
+   "quote": "יש לו מקום משלו.",
+   "by": "מגה פט · מזון וציוד לחיות מחמד"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נחבר כל מודעה לעמוד הנכון, נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "redstar-02f7aee4": {
+  "slug": "redstar-02f7aee4",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_01.webp",
+    "headline": "מסכת קרל אקספרשן",
+    "primary": "המסכה שהספריות משתמשות בה לתלתלים יבשים, עכשיו אצלך בבית.\n\nקרל אקספרשן של לוריאל פרופסיונל מזינה, מגדירה ומשאירה את התלתלים רכים.\n\n500 מ״ל ב-246.90 ש״ח. משלוח חינם מעל 199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      94,
+      993,
+      324
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(13,7,7)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "תלתלים של מספרה.<br>בבית.",
+     "sub": "קרל אקספרשן · לוריאל פרופסיונל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_02.webp",
+    "headline": "קרם לחות לתלתלים",
+    "primary": "קרם הלחות של קרל אקספרשן מגדיר את התלתל בלי להשאיר אותו קשה.\n\nמורחים על שיער רטוב, מסדרים באצבעות, ונותנים לתלתלים לעשות את שלהם.\n\n200 מ״ל ב-164.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(240,233,228)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "בלי פריז.<br>בלי קראנץ'.",
+     "sub": "קרם לחות לתלתלים · 164.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_03.webp",
+    "headline": "תרסיס לתלתלים",
+    "primary": "בוקר אחרי, והתלתלים כבר לא מה שהיו? כמה התזות של התרסיס, קצת מגע באצבעות, והם חוזרים לחיים.\n\nקרל אקספרשן, 190 מ״ל, ב-164.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      256
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(225,210,199)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "תלתלים של יום שני.<br>מתעוררים.",
+     "sub": "תרסיס ללא שטיפה · 164.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/redstar/raw_04.webp",
+    "headline": "סדרת קרל אקספרשן",
+    "primary": "מסכה פעם בשבוע, קרם אחרי כל חפיפה, ותרסיס לבוקר שאחרי.\n\nכל סדרת קרל אקספרשן של לוריאל פרופסיונל, מקורית, במקום אחד. משלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(38,7,17)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלושה צעדים.<br>תלתל אחד מושלם.",
+     "sub": "סדרת קרל אקספרשן",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_05.webp",
+    "headline": "שמן אבסולוט ריפר",
+    "primary": "פן, מחליק ומסלסל עושים את שלהם. השמן הדו-פאזי של אבסולוט ריפר מחזיר לשיער ברק ורכות, בלי להכביד.\n\nמנערים, מרססים על שיער רטוב או יבש, וזהו.\n\n90 מ״ל ב-199.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      648,
+      297
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(78,39,30)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הפן לקח.<br>זה מחזיר.",
+     "sub": "שמן דו-פאזי · 199.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_06.webp",
+    "headline": "מסכת אבסולוט ריפר",
+    "primary": "המסכה הכי נמכרת של לוריאל פרופסיונל לשיער יבש ופגום, במידה המקצועית.\n\nחמש דקות על השיער, ומרגישים את ההבדל כבר בייבוש.\n\n500 מ״ל ב-246.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      75,
+      648,
+      313
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(217,201,187)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מסכה אחת.<br>שיער אחר.",
+     "sub": "אבסולוט ריפר · 500 מ״ל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_07.webp",
+    "headline": "מסכת גלוס אבסולו",
+    "primary": "מסכת הקרם של קרסטס מעניקה לשיער עבה ופריזי ברק עמוק ורכות, בלי להכביד.\n\n75 מ״ל ב-89.90 ש״ח. הדרך הכי קלה להכיר את קרסטס.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      256
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(33,7,6)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ברק של מספרה.<br>כל יום.",
+     "sub": "קרסטס גלוס אבסולו",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_08.webp",
+    "headline": "מסכה ושמן אבסולוט ריפר",
+    "primary": "מסכה פעם בשבוע ושמן אחרי כל חפיפה. זה כל מה ששיער צבוע ומוחלק צריך.\n\nשני המוצרים הכי נמכרים של אבסולוט ריפר, מקוריים, עם משלוח חינם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(236,227,215)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "headline": "הזוג שמציל<br>שיער צבוע.",
+     "sub": "אבסולוט ריפר · מסכה ושמן",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_09.webp",
+    "headline": "מוס שיזוף עצמי",
+    "primary": "מוס השיזוף של באלי בודי נותן גוון שזוף ואחיד תוך שעה אחת.\n\nמורחים עם כפפה, מחכים שעה, שוטפים. בלי כתמים ובלי גוון כתום.\n\n225 מ״ל ב-139.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      121,
+      1015,
+      499
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,203,190)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שזופה תוך שעה.<br>בלי שמש.",
+     "sub": "באלי בודי · 139.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_10.webp",
+    "headline": "ספריי שיזוף לפנים",
+    "primary": "כמה התזות על הפנים בערב, ובבוקר מתעוררים עם זוהר של אחרי חופשה.\n\nספריי השיזוף לפנים של באלי בודי, גוון כהה, 100 מ״ל ב-109.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(221,207,193)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "זוהר של חופשה.<br>על הפנים.",
+     "sub": "ספריי שיזוף לפנים · 109.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_11.webp",
+    "headline": "שיזוף עצמי לגוף ולפנים",
+    "primary": "גוף ופנים באותו גוון, בלי שמש ובלי שעות על החוף.\n\nמוס לגוף וספריי לפנים של באלי בודי. משלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(219,201,185)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הקיץ לא חייב<br>להיגמר.",
+     "sub": "באלי בודי · לגוף ולפנים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/redstar/raw_12.webp",
+    "headline": "מוס שיזוף אקספרס",
+    "primary": "הסוד לשיזוף עצמי שנראה טבעי: מוס קליל, כפפה, ושעה של סבלנות.\n\nבאלי בודי אקספרס, 139.90 ש״ח. 10% הנחה בקנייה ראשונה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(66,28,18)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "גוון אחיד.<br>בלי כתמים.",
+     "sub": "מוס אקספרס · שעה אחת",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_13.webp",
+    "headline": "אליקסיר אולטים",
+    "primary": "השמן האייקוני של קרסטס: טיפה אחת על הקצוות, והשיער מקבל ברק ורכות לכל היום.\n\nמארז 75 ו-30 מ״ל ב-309.90 ש״ח. אחד לבית ואחד לתיק.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(84,40,27)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפה אחת<br>של זהב.",
+     "sub": "קרסטס אליקסיר אולטים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_14.webp",
+    "headline": "שמן מרוקן אויל",
+    "primary": "השמן שהתחיל את הכול. ריח שאי אפשר לטעות בו, ושיער רך ומבריק.\n\nכל סדרת מרוקן אויל המקורית אצלנו, עם משלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(214,203,189)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הריח שכולן<br>שואלות עליו.",
+     "sub": "מרוקן אויל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_15.webp",
+    "headline": "תחליב לחות סרווה",
+    "primary": "תחליב הלחות של סרווה עם סרמידים וחומצה היאלורונית, לעור רגיל עד יבש.\n\nבלי בושם, מתאים לכל יום. 52 מ״ל ב-89.90 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      877,
+      496,
+      1255
+     ],
+     "top": false,
+     "ink": "#1f1812",
+     "paper": "rgb(240,233,225)",
+     "scrim": "rgba(250,246,238,0.22)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "לחות שעור<br>באמת מבין.",
+     "sub": "סרווה · 89.90 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_16.webp",
+    "headline": "הטקס של הערב",
+    "primary": "סוף יום. שמן על הקצוות, לחות על הפנים, ורגע של שקט.\n\nכל המותגים שאת אוהבת, מקוריים, בהזמנה אחת. משלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(234,220,207)",
+     "scrim": "rgba(250,246,238,0.78)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חמש דקות<br>רק בשבילך.",
+     "sub": "הטקס של הערב",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_17.webp",
+    "headline": "רד סטאר",
+    "primary": "לוריאל פרופסיונל, קרסטס, מרוקן אויל, סרווה, באלי בודי ועוד. כ-1,750 מוצרים מקוריים במקום אחד.\n\n10% הנחה בקנייה הראשונה, ומשלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(221,205,192)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "כל המותגים שלך.<br>בהזמנה אחת.",
+     "sub": "10% הנחה בקנייה הראשונה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/redstar/raw_18.webp",
+    "headline": "מוצרים מקוריים",
+    "primary": "המוצרים שאת רואה במספרה ובפארם, מקוריים, במחיר של אונליין.\n\nמשלוח חינם מעל 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,226,215)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "המדף של<br>המספרה. אצלך.",
+     "sub": "מוצרים מקוריים בלבד",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/redstar/raw_19.webp",
+    "headline": "משלוח עד הבית",
+    "primary": "מזמינים באתר, והמוצרים מגיעים עד הבית.\n\nמשלוח חינם מעל 199 ש״ח, ו-10% הנחה על ההזמנה הראשונה.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,227,219)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הזמנת היום.<br>מטפחת מחר.",
+     "sub": "משלוח חינם מעל 199 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/redstar/raw_20.webp",
+    "headline": "רד סטאר",
+    "primary": "פעם ראשונה ברד סטאר? 10% הנחה על כל ההזמנה, ומשלוח חינם מעל 199 ש״ח.\n\nכל המותגים הגדולים, מקוריים, במקום אחד.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(235,227,217)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "10% הנחה.<br>על ההזמנה הראשונה.",
+     "sub": "רד סטאר · הבית של הביוטי",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/redstar/hero.webp",
+  "business": {
+   "name": "רד סטאר",
+   "wordmark": "רד סטאר",
+   "site": "https://www.redstar.co.il/"
+  },
+  "address": "pl",
+  "hero_theme": "light",
+  "hero_eyebrow": "הבית של מותגי הביוטי · משלוח חינם מעל 199 ש״ח",
+  "hero_title": [
+   "כל המותגים.",
+   "בהזמנה אחת."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/redstar/hero_m.webp",
+  "hero_pos_m": "center bottom",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "ויש בו כסף שנשפך."
+   ],
+   "text": "רוב המודעות שלכם רצות חודשיים עד ארבעה חודשים, וזה סימן שהן מוכרות. עברנו על המודעות, על האתר ועל המוצרים, ולחצנו על כל מודעה כדי לראות לאן היא מובילה. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "כרטיס מוצר, לא מודעה",
+    "d": "רוב מודעות המוצר הן תמונה מהאתר על רקע לבן ותיאור מוצר. זה מספיק למי שכבר מחפשת, אבל לא עוצר גלילה."
+   },
+   {
+    "t": "אין תוצאה אמיתית",
+    "d": "מוכרים מסכות, שמנים ושיזוף עצמי, ואף מודעה לא מראה שיער מבריק או עור זוהר. התוצאה היא מה שקונים."
+   },
+   {
+    "t": "התלתלים בלי סדרה",
+    "d": "קרל אקספרשן הוא קהל ענק עם כאב ברור. שלושה מוצרים שנמכרים יחד מקבלים מודעה אחת."
+   },
+   {
+    "t": "החנות בלי זהות",
+    "d": "כ-1,750 מוצרים מקוריים, 10% בהזמנה ראשונה ומשלוח חינם מעל 199. זו הסיבה לקנות אצלכם, והיא כמעט לא מופיעה."
+   }
+  ],
+  "landing": {
+   "eyebrow": "בדקנו לאן כל מודעה מובילה",
+   "title": [
+    "ארבע מודעות",
+    "מובילות לעמוד שלא קיים."
+   ],
+   "text": "לחצנו על כל אחת מ-15 המודעות הפעילות שלכם. רובן מובילות בדיוק למוצר שהן מציגות, וזה מצוין. אבל בארבע מודעות הכתובת של המוצר השתנתה באתר, ומי שלוחצת מגיעה לעמוד שגיאה. כל שקל שהולך על המודעות האלה נשרף.",
+   "flows": [
+    {
+     "count": 4,
+     "count_label": "מודעות מוצר",
+     "to": "העמוד לא נמצא",
+     "title": "404",
+     "url": "redstar.co.il/products/…",
+     "broken": true,
+     "note": "ספריי ההגנה של מרוקן אויל, השמן הדו-פאזי של לוריאל, הג'ל של סרווה והמסקרה של לוריאל פריז. השמן הדו-פאזי, למשל, עדיין באתר, רק בכתובת חדשה. התיקון לוקח חמש דקות: מעדכנים את הקישור בכל מודעה.",
+     "items": [
+      {
+       "img": "/reports/redstar/lp_04.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      },
+      {
+       "img": "/reports/redstar/lp_06.webp",
+       "w": 941,
+       "h": 1672,
+       "video": false
+      },
+      {
+       "img": "/reports/redstar/lp_09.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": false
+      },
+      {
+       "img": "/reports/redstar/lp_10.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": false
+      }
+     ]
+    },
+    {
+     "count": 4,
+     "count_label": "מודעות, שני מסרים שונים",
+     "to": "דף הבית",
+     "title": "רד סטאר, הבית של מותגי הביוטי",
+     "url": "redstar.co.il",
+     "note": "מודעות הקטלוג ומודעת הטרנדים נוחתות בדף הבית. מי שלחצה על 'כל מה שויראלי ברשת' מצפה לראות את הטרנדים, ובמקום זה מתחילה לחפש.",
+     "items": [
+      {
+       "img": "/reports/redstar/lp_00.webp",
+       "w": 1080,
+       "h": 1080,
+       "video": false
+      },
+      {
+       "img": "/reports/redstar/lp_02.webp",
+       "w": 1080,
+       "h": 1080,
+       "video": false
+      },
+      {
+       "img": "/reports/redstar/lp_11.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      }
+     ]
+    }
+   ],
+   "points": [
+    {
+     "t": "מודעה אחת, עמוד אחד",
+     "d": "כל מודעה מובילה לעמוד של מה שהיא מבטיחה: מוצר לעמוד המוצר, סדרה לעמוד הסדרה."
+    },
+    {
+     "t": "בדיקה פעם בחודש",
+     "d": "כשמשנים שם או כתובת של מוצר באתר, בודקים שאין מודעה שעדיין מובילה לכתובת הישנה."
+    }
+   ]
+  },
+  "angles": [
+   {
+    "id": "A1",
+    "name": "תלתלים של מספרה",
+    "hook": "תלתלים של מספרה. בבית.",
+    "idea": "סדרת קרל אקספרשן: מסכה, קרם ותרסיס, בשלושה צעדים ברורים."
+   },
+   {
+    "id": "A2",
+    "name": "שיקום אחרי החום",
+    "hook": "הפן לקח. זה מחזיר.",
+    "idea": "אבסולוט ריפר וקרסטס גלוס: שיקום וברק לשיער שעבר פן, מחליק וצבע."
+   },
+   {
+    "id": "A3",
+    "name": "זוהר בלי שמש",
+    "hook": "שזופה תוך שעה. בלי שמש.",
+    "idea": "באלי בודי: שיזוף עצמי לגוף ולפנים, בגוון אחיד וטבעי."
+   },
+   {
+    "id": "A4",
+    "name": "הטקס של הערב",
+    "hook": "חמש דקות רק בשבילך.",
+    "idea": "אליקסיר, מרוקן אויל וסרווה: המותגים הגדולים ברגע של טיפוח."
+   },
+   {
+    "id": "A5",
+    "name": "כל המותגים. במקום אחד.",
+    "hook": "כל המותגים שלך. בהזמנה אחת.",
+    "idea": "רד סטאר עצמה: מוצרים מקוריים, 10% בהזמנה ראשונה ומשלוח חינם מעל 199."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/redstar/cur_01.webp",
+      "w": 1080,
+      "h": 1080,
+      "video": false
+     },
+     {
+      "img": "/reports/redstar/cur_02.webp",
+      "w": 941,
+      "h": 1672,
+      "video": false
+     },
+     {
+      "img": "/reports/redstar/cur_03.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": false
+     },
+     {
+      "img": "/reports/redstar/cur_04.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": false
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     9,
+     17
+    ]
+   }
+  },
+  "strip": [
+   3,
+   7,
+   11,
+   13,
+   15,
+   19,
+   2,
+   20
+  ],
+  "split": {
+   "ad": 18,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "כל",
+    "המותגים.",
+    "במקום אחד."
+   ],
+   "text": "לוריאל פרופסיונל, קרסטס, מרוקן אויל, סרווה, באלי בודי ועוד. כ-1,750 מוצרים מקוריים באתר אחד, עם משלוח עד הבית.",
+   "price": "10% הנחה בהזמנה הראשונה"
+  },
+  "band": {
+   "ad": 7,
+   "theme": "light",
+   "quote": "ברק של מספרה.",
+   "by": "רד סטאר · הבית של מותגי הביוטי"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נתקן את הקישורים, נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
  }
 };

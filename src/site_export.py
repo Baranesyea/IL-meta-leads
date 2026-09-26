@@ -37,7 +37,7 @@ def _webp(src: Path, dst: Path, max_w: int = 1400) -> None:
     im.save(dst, "WEBP", quality=86)
 
 
-def export_current(lead: dict, folder: str, picks: list[int]) -> list[dict]:
+def export_current(lead: dict, folder: str, picks: list[int], prefix: str = "cur", max_w: int = 900) -> list[dict]:
     """Their ads as they run today (Ad Library media, picked by index into current_ads) for the
     before/after row. Video ads show their thumbnail with a play mark."""
     out = []
@@ -45,8 +45,8 @@ def export_current(lead: dict, folder: str, picks: list[int]) -> list[dict]:
         a = lead["current_ads"][i]
         m = a["media"][0]
         src = OUTPUT / (m.get("thumb") or m["path"])
-        name = f"cur_{k + 1:02d}.webp"
-        _webp(src, WEB / "public" / "reports" / folder / name, max_w=900)
+        name = f"{prefix}_{k + 1:02d}.webp" if prefix == "cur" else f"{prefix}_{i:02d}.webp"
+        _webp(src, WEB / "public" / "reports" / folder / name, max_w=max_w)
         w, h = Image.open(src).size
         out.append(dict(img=f"/reports/{folder}/{name}", w=w, h=h, video=m.get("type") == "video"))
     return out
@@ -73,6 +73,9 @@ def export_lead(lead: dict, slug: str, folder: str, copy: dict, hero_img: str | 
     cmp = copy.get("compare")
     if cmp:
         cmp["before"]["items"] = export_current(lead, folder, cmp["before"].pop("picks"))
+    # "where your ads lead": each flow shows a few of their ads (small) flowing into one page
+    for fl in (copy.get("landing") or {}).get("flows", []):
+        fl["items"] = export_current(lead, folder, fl.pop("picks"), prefix="lp", max_w=360)
     entry = dict(slug=slug, ads=ads, hero_bg=f"/reports/{folder}/hero.webp", **copy)
     reports = _read()
     reports[slug] = entry

@@ -1,13 +1,13 @@
 {
   "lead_id": "2026-09-25-054",
-  "status": "qualified",
+  "status": "published",
   "reject_reason": null,
   "business": {
-    "name_he": "",
-    "name_en": "",
+    "name_he": "רד סטאר",
+    "name_en": "Red Star",
     "website": "https://redstar.co.il/",
-    "city": "",
-    "category": "",
+    "city": "גבעתיים",
+    "category": "חנות ביוטי אונליין",
     "owner_name": "",
     "email": ""
   },
@@ -1464,8 +1464,1338 @@
       "images": []
     }
   ],
-  "research": {},
-  "new_ads": [],
+  "research": {
+    "one_liner": "חנות ביוטי אונליין עם כ-1,750 מוצרים מהמותגים המקצועיים והפארם הגדולים: לוריאל פרופסיונל, קרסטס, מרוקן אויל, שוורצקופף, סרווה, באלי בודי. ₪20–570, 10% הנחה בקנייה ראשונה, משלוח חינם מעל ₪199. מיצוב: כל המותגים הגדולים במקום אחד, במחיר של אונליין.",
+    "hero_products": [
+      "אבסולוט ריפר של לוריאל פרופסיונל (מסכה ושמן דו-פאזי) — ₪199.90–246.90",
+      "קרל אקספרשן לתלתלים — ₪164.90–246.90",
+      "מרוקן אויל",
+      "באלי בודי לשיזוף עצמי — ₪109.90–139.90",
+      "קרסטס גלוס אבסולו ואליקסיר אולטים — ₪89.90–309.90"
+    ],
+    "audience": [
+      {
+        "persona": "המטפחת המקצועית",
+        "who": "נשים 25–45",
+        "cares": "מוצרי מספרה אמיתיים בבית, בלי לשלם מחיר של מספרה"
+      },
+      {
+        "persona": "המתולתלת",
+        "who": "נשים 18–40",
+        "cares": "תלתלים מוגדרים, בלי פריז ובלי קראנץ'"
+      },
+      {
+        "persona": "הזוהרת של הקיץ",
+        "who": "נשים 20–40",
+        "cares": "גוון שזוף ואחיד בלי שמש"
+      }
+    ],
+    "pains": [
+      "\"השיער נשרף מהפן ומהמחליק\"",
+      "\"התלתלים יוצאים פריזיים\"",
+      "\"בסופר אין את המותגים המקצועיים\"",
+      "\"באתרים אחרים אני לא בטוחה שזה מקורי\"",
+      "\"שיזוף עצמי יוצא כתום ומנומר\""
+    ],
+    "desires": [
+      "שיער רך ומבריק כמו אחרי מספרה",
+      "תלתלים מוגדרים",
+      "עור זוהר",
+      "כל המותגים שלי בהזמנה אחת"
+    ],
+    "objections": [
+      "\"זה מקורי?\"",
+      "\"למה לא לקנות בפארם?\"",
+      "משלוח",
+      "\"מוצר מקצועי יקר\""
+    ],
+    "current_ads_audit": "15 מודעות פעילות, רובן רצות חודשיים עד ארבעה חודשים, אז יש ביקוש. יש קרוסלת קטלוג עם 10% הנחה, סרטוני מותג של מרוקן אויל ושורה של כרטיסי מוצר: מוצר על רקע לבן ותיאור מהאתר. הבעיה הגדולה היא לא בוויזואל: ארבע ממודעות המוצר מובילות לעמודים שכבר לא קיימים (404), כי הכתובות של המוצרים השתנו באתר, וארבע נוספות שולחות לדף הבית. בנוסף, אין שום דבר שמראה תוצאה על שיער אמיתי, ואין זהות לחנות עצמה.",
+    "gaps": [
+      "מודעות שמובילות לעמודים שלא קיימים",
+      "מודעות מוצר שנוחתות בדף הבית",
+      "אין תוצאה על שיער ועור אמיתיים",
+      "אין זהות לחנות: למה לקנות דווקא ברד סטאר",
+      "הקהל המתולתל הגדול לא מקבל סדרה משלו"
+    ],
+    "angles": [
+      {
+        "id": "A1",
+        "name": "תלתלים של מספרה",
+        "idea": "סדרת קרל אקספרשן: מסכה, קרם ותרסיס. תלתלים מוגדרים ורכים, עם המוצרים שהספרית משתמשת בהם.",
+        "persona": "המתולתלת",
+        "hook": "תלתלים של מספרה. בבית.",
+        "why": "קהל גדול, כאב ברור, ושלושה מוצרים שנמכרים יחד."
+      },
+      {
+        "id": "A2",
+        "name": "שיקום אחרי החום",
+        "idea": "אבסולוט ריפר וקרסטס גלוס: שיקום לשיער שעבר פן, מחליק וצבע.",
+        "persona": "המטפחת המקצועית",
+        "hook": "הפן לקח. זה מחזיר.",
+        "why": "המוצרים הכי נמכרים שלהם, ובעיה שכל אחת מכירה."
+      },
+      {
+        "id": "A3",
+        "name": "זוהר בלי שמש",
+        "idea": "באלי בודי: שיזוף עצמי תוך שעה, לגוף ולפנים. גוון אחיד וטבעי.",
+        "persona": "הזוהרת של הקיץ",
+        "hook": "שזופה תוך שעה. בלי שמש.",
+        "why": "מוצר עונתי ויזואלי מאוד, עם קהל צעיר."
+      },
+      {
+        "id": "A4",
+        "name": "הטקס של הערב",
+        "idea": "רגע הטיפוח: שמן אליקסיר, שמן מרוקן אויל ולחות של סרווה. המוצרים הגדולים, בשגרה שלך.",
+        "persona": "המטפחת המקצועית",
+        "hook": "חמש דקות רק בשבילך.",
+        "why": "זווית רגשית שמעלה סל ומציגה מותגי יוקרה."
+      },
+      {
+        "id": "A5",
+        "name": "כל המותגים. במקום אחד.",
+        "idea": "רד סטאר עצמה: 1,750 מוצרים מקוריים, 10% הנחה בקנייה ראשונה, משלוח חינם מעל 199.",
+        "persona": "כולן",
+        "hook": "כל המותגים שלך. בהזמנה אחת.",
+        "why": "בונה זהות לחנות ועונה על ההתנגדות 'למה פה'."
+      }
+    ]
+  },
+  "new_ads": [
+    {
+      "ad_no": 1,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "תלתלים של מספרה.<br>בבית.",
+      "overlay_sub": "קרל אקספרשן · לוריאל פרופסיונל",
+      "note": null,
+      "primary_text": "המסכה שהספריות משתמשות בה לתלתלים יבשים, עכשיו אצלך בבית.\n\nקרל אקספרשן של לוריאל פרופסיונל מזינה, מגדירה ומשאירה את התלתלים רכים.\n\n500 מ״ל ב-246.90 ש״ח. משלוח חינם מעל 199.",
+      "alt_texts": [
+        "תלתלים של מספרה. בבית."
+      ],
+      "headline": "מסכת קרל אקספרשן",
+      "description": "246.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "תלתלים של מספרה.<br>בבית.",
+          "sub": "קרל אקספרשן · לוריאל פרופסיונל",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            94,
+            993,
+            324
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(13,7,7)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_01.png",
+      "image_raw": "ads_raw/ad_01.png",
+      "protect": [
+        [
+          0.0,
+          0.28,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_be360c4c-7ce9-41b0-af52-7b4b8ba7f4a8.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A young woman with voluminous defined dark curly hair, seen from behind and slightly to the side, standing against a warm cream studio wall, soft sculpted light making each curl shine; the purple Curl Expression mask jar from the reference stands on a small cream plinth beside her shoulder. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 2,
+      "angle_id": "A1",
+      "format": "1:1",
+      "overlay": "בלי פריז.<br>בלי קראנץ'.",
+      "overlay_sub": "קרם לחות לתלתלים · 164.90 ש״ח",
+      "note": null,
+      "primary_text": "קרם הלחות של קרל אקספרשן מגדיר את התלתל בלי להשאיר אותו קשה.\n\nמורחים על שיער רטוב, מסדרים באצבעות, ונותנים לתלתלים לעשות את שלהם.\n\n200 מ״ל ב-164.90 ש״ח.",
+      "alt_texts": [
+        "בלי פריז. בלי קראנץ'."
+      ],
+      "headline": "קרם לחות לתלתלים",
+      "description": "164.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "quiet",
+          "headline": "בלי פריז.<br>בלי קראנץ'.",
+          "sub": "קרם לחות לתלתלים · 164.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            54,
+            993,
+            291
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(240,233,228)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_02.png",
+      "image_raw": "ads_raw/ad_02.png",
+      "protect": [
+        [
+          0.1,
+          0.3,
+          0.95,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_694473e3-7efb-4559-9a56-199fc6c89a81.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The purple Curl Expression cream tube from the reference lying diagonally on glossy cream satin, a generous swirl of the white cream beside it showing its rich texture, soft sculpted light, deep lacquer red satin folds at the bottom edge. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 3,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "תלתלים של יום שני.<br>מתעוררים.",
+      "overlay_sub": "תרסיס ללא שטיפה · 164.90 ש״ח",
+      "note": null,
+      "primary_text": "בוקר אחרי, והתלתלים כבר לא מה שהיו? כמה התזות של התרסיס, קצת מגע באצבעות, והם חוזרים לחיים.\n\nקרל אקספרשן, 190 מ״ל, ב-164.90 ש״ח.",
+      "alt_texts": [
+        "תלתלים של יום שני. מתעוררים."
+      ],
+      "headline": "תרסיס לתלתלים",
+      "description": "164.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "תלתלים של יום שני.<br>מתעוררים.",
+          "sub": "תרסיס ללא שטיפה · 164.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            67,
+            993,
+            256
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(225,210,199)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_03.png",
+      "image_raw": "ads_raw/ad_03.png",
+      "protect": [
+        [
+          0.2,
+          0.22,
+          0.8,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_bfb571b4-ccb9-4047-8df6-26ac2e6152fd.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The purple Curl Expression spray bottle from the reference standing on a wet glossy surface, a fine mist cloud caught in the light above its nozzle, water droplets around, warm cream background, soft sculpted light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 4,
+      "angle_id": "A1",
+      "format": "9:16",
+      "overlay": "שלושה צעדים.<br>תלתל אחד מושלם.",
+      "overlay_sub": "סדרת קרל אקספרשן",
+      "note": null,
+      "primary_text": "מסכה פעם בשבוע, קרם אחרי כל חפיפה, ותרסיס לבוקר שאחרי.\n\nכל סדרת קרל אקספרשן של לוריאל פרופסיונל, מקורית, במקום אחד. משלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "שלושה צעדים, תלתל אחד מושלם."
+      ],
+      "headline": "סדרת קרל אקספרשן",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "cover",
+          "headline": "שלושה צעדים.<br>תלתל אחד מושלם.",
+          "sub": "סדרת קרל אקספרשן",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            250,
+            993,
+            576
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(38,7,17)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_04.png",
+      "image_raw": "ads_raw/ad_04.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182616_ec21b402-c70c-445d-92c5-f90dde7ccd34.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The three purple Curl Expression products from the references (mask jar, cream tube, spray bottle) arranged as a trio on stepped cream plinths, a deep lacquer red satin drape behind the lowest plinth, soft sculpted light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 5,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "הפן לקח.<br>זה מחזיר.",
+      "overlay_sub": "שמן דו-פאזי · 199.90 ש״ח",
+      "note": null,
+      "primary_text": "פן, מחליק ומסלסל עושים את שלהם. השמן הדו-פאזי של אבסולוט ריפר מחזיר לשיער ברק ורכות, בלי להכביד.\n\nמנערים, מרססים על שיער רטוב או יבש, וזהו.\n\n90 מ״ל ב-199.90 ש״ח.",
+      "alt_texts": [
+        "הפן לקח. זה מחזיר."
+      ],
+      "headline": "שמן אבסולוט ריפר",
+      "description": "199.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "top_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "הפן לקח.<br>זה מחזיר.",
+          "sub": "שמן דו-פאזי · 199.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            64,
+            67,
+            648,
+            297
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(78,39,30)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_05.png",
+      "image_raw": "ads_raw/ad_05.png",
+      "protect": [
+        [
+          0.3,
+          0.28,
+          0.75,
+          0.92
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182616_be494045-8e98-4964-a29c-f0740c2a87e7.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The L'Oréal Absolut Repair Molecular bi-phase oil bottle from the reference standing on a glossy deep lacquer red surface, its two golden layers glowing in the light, a few golden oil droplets beside it, warm cream background. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 6,
+      "angle_id": "A2",
+      "format": "1:1",
+      "overlay": "מסכה אחת.<br>שיער אחר.",
+      "overlay_sub": "אבסולוט ריפר · 500 מ״ל",
+      "note": null,
+      "primary_text": "המסכה הכי נמכרת של לוריאל פרופסיונל לשיער יבש ופגום, במידה המקצועית.\n\nחמש דקות על השיער, ומרגישים את ההבדל כבר בייבוש.\n\n500 מ״ל ב-246.90 ש״ח.",
+      "alt_texts": [
+        "מסכה אחת, שיער אחר."
+      ],
+      "headline": "מסכת אבסולוט ריפר",
+      "description": "246.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "top_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "מסכה אחת.<br>שיער אחר.",
+          "sub": "אבסולוט ריפר · 500 מ״ל",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            64,
+            75,
+            648,
+            313
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(217,201,187)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_06.png",
+      "image_raw": "ads_raw/ad_06.png",
+      "protect": [
+        [
+          0.15,
+          0.35,
+          1.0,
+          0.8
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182616_fb4dd099-5908-4686-8957-c76b257b4482.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The gold Absolut Repair mask jar from the reference, lid off, on warm cream satin, a thick glossy swirl of the golden mask on a small spatula beside it, soft sculpted light, deep red satin fold in the background corner. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 7,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "ברק של מספרה.<br>כל יום.",
+      "overlay_sub": "קרסטס גלוס אבסולו",
+      "note": null,
+      "primary_text": "מסכת הקרם של קרסטס מעניקה לשיער עבה ופריזי ברק עמוק ורכות, בלי להכביד.\n\n75 מ״ל ב-89.90 ש״ח. הדרך הכי קלה להכיר את קרסטס.",
+      "alt_texts": [
+        "ברק של מספרה. כל יום."
+      ],
+      "headline": "מסכת גלוס אבסולו",
+      "description": "89.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "ברק של מספרה.<br>כל יום.",
+          "sub": "קרסטס גלוס אבסולו",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            67,
+            993,
+            256
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(33,7,6)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_07.png",
+      "image_raw": "ads_raw/ad_07.png",
+      "protect": [
+        [
+          0.0,
+          0.22,
+          0.75,
+          1.0
+        ],
+        [
+          0.7,
+          0.6,
+          1.0,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_7e599254-3fb7-4bf9-b58d-7a40883b2014.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman with long sleek glossy brown hair, seen from behind, her hair falling straight down her back and catching a soft highlight, against a warm cream wall; the pink Kérastase Gloss Absolu jar from the reference on a small cream ledge at her side. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 8,
+      "angle_id": "A2",
+      "format": "1:1",
+      "overlay": "הזוג שמציל<br>שיער צבוע.",
+      "overlay_sub": "אבסולוט ריפר · מסכה ושמן",
+      "note": null,
+      "primary_text": "מסכה פעם בשבוע ושמן אחרי כל חפיפה. זה כל מה ששיער צבוע ומוחלק צריך.\n\nשני המוצרים הכי נמכרים של אבסולוט ריפר, מקוריים, עם משלוח חינם.",
+      "alt_texts": [
+        "הזוג שמציל שיער צבוע."
+      ],
+      "headline": "מסכה ושמן אבסולוט ריפר",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "stack",
+          "headline": "הזוג שמציל<br>שיער צבוע.",
+          "sub": "אבסולוט ריפר · מסכה ושמן",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            54,
+            993,
+            237
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(236,227,215)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#f4ecdf",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_08.png",
+      "image_raw": "ads_raw/ad_08.png",
+      "protect": [
+        [
+          0.2,
+          0.25,
+          0.85,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_77183fce-ac09-4f04-9197-6e73a3ef5c38.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The bi-phase oil bottle and the gold Absolut Repair mask jar from the references side by side on a glossy deep lacquer red surface, warm golden rim light, a few golden droplets, calm cream background. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 9,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "שזופה תוך שעה.<br>בלי שמש.",
+      "overlay_sub": "באלי בודי · 139.90 ש״ח",
+      "note": null,
+      "primary_text": "מוס השיזוף של באלי בודי נותן גוון שזוף ואחיד תוך שעה אחת.\n\nמורחים עם כפפה, מחכים שעה, שוטפים. בלי כתמים ובלי גוון כתום.\n\n225 מ״ל ב-139.90 ש״ח.",
+      "alt_texts": [
+        "שזופה תוך שעה. בלי שמש."
+      ],
+      "headline": "מוס שיזוף עצמי",
+      "description": "139.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "שזופה תוך שעה.<br>בלי שמש.",
+          "sub": "באלי בודי · 139.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            583,
+            121,
+            1015,
+            499
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(219,203,190)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_09.png",
+      "image_raw": "ads_raw/ad_09.png",
+      "protect": [
+        [
+          0.0,
+          0.0,
+          0.45,
+          1.0
+        ],
+        [
+          0.4,
+          0.4,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183405_d6781c53-dd5d-4d28-a4cc-ffb0d8e49a5b.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman seen from behind at waist height, wearing a white linen tank top, her tanned arm and shoulder showing an even natural golden tan, soft warm afternoon light; the tall Bali Body express mousse can from the reference stands in the foreground on a warm sand-coloured stone ledge. Her head is out of frame at the top-left corner. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 10,
+      "angle_id": "A3",
+      "format": "1:1",
+      "overlay": "זוהר של חופשה.<br>על הפנים.",
+      "overlay_sub": "ספריי שיזוף לפנים · 109.90 ש״ח",
+      "note": null,
+      "primary_text": "כמה התזות על הפנים בערב, ובבוקר מתעוררים עם זוהר של אחרי חופשה.\n\nספריי השיזוף לפנים של באלי בודי, גוון כהה, 100 מ״ל ב-109.90 ש״ח.",
+      "alt_texts": [
+        "זוהר של חופשה, על הפנים."
+      ],
+      "headline": "ספריי שיזוף לפנים",
+      "description": "109.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "cover",
+          "headline": "זוהר של חופשה.<br>על הפנים.",
+          "sub": "ספריי שיזוף לפנים · 109.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            54,
+            993,
+            291
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(221,207,193)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_10.png",
+      "image_raw": "ads_raw/ad_10.png",
+      "protect": [
+        [
+          0.3,
+          0.3,
+          0.7,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182615_8bc03dd5-9103-4a47-979d-7b1c44794751.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The white Bali Body face tan mist bottle from the reference standing on a warm sand-coloured stone, a fine mist catching golden light, dried palm leaf shadows falling across the scene, warm cream background. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 11,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "הקיץ לא חייב<br>להיגמר.",
+      "overlay_sub": "באלי בודי · לגוף ולפנים",
+      "note": null,
+      "primary_text": "גוף ופנים באותו גוון, בלי שמש ובלי שעות על החוף.\n\nמוס לגוף וספריי לפנים של באלי בודי. משלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "הקיץ לא חייב להיגמר."
+      ],
+      "headline": "שיזוף עצמי לגוף ולפנים",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "הקיץ לא חייב<br>להיגמר.",
+          "sub": "באלי בודי · לגוף ולפנים",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            583,
+            67,
+            1015,
+            445
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(219,201,185)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_11.png",
+      "image_raw": "ads_raw/ad_11.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182616_77862afe-517a-4577-93e7-81e088524475.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The Bali Body mousse can and the white face mist bottle from the references on a warm sand-coloured stone ledge beside a folded cream linen towel and a sprig of dried palm, warm late-afternoon light and palm shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 12,
+      "angle_id": "A3",
+      "format": "9:16",
+      "overlay": "גוון אחיד.<br>בלי כתמים.",
+      "overlay_sub": "מוס אקספרס · שעה אחת",
+      "note": null,
+      "primary_text": "הסוד לשיזוף עצמי שנראה טבעי: מוס קליל, כפפה, ושעה של סבלנות.\n\nבאלי בודי אקספרס, 139.90 ש״ח. 10% הנחה בקנייה ראשונה.",
+      "alt_texts": [
+        "גוון אחיד, בלי כתמים."
+      ],
+      "headline": "מוס שיזוף אקספרס",
+      "description": "139.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "cover",
+          "headline": "גוון אחיד.<br>בלי כתמים.",
+          "sub": "מוס אקספרס · שעה אחת",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            250,
+            993,
+            749
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(66,28,18)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_12.png",
+      "image_raw": "ads_raw/ad_12.png",
+      "protect": [
+        [
+          0.2,
+          0.25,
+          0.85,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_dc72c556-145d-465b-a75f-920aabe3534b.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The tall Bali Body mousse can from the reference standing on warm sand-coloured stone, a soft cloud of golden mousse foam beside it, strong warm sunlight and palm leaf shadows, warm cream wall. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 13,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "טיפה אחת<br>של זהב.",
+      "overlay_sub": "קרסטס אליקסיר אולטים",
+      "note": null,
+      "primary_text": "השמן האייקוני של קרסטס: טיפה אחת על הקצוות, והשיער מקבל ברק ורכות לכל היום.\n\nמארז 75 ו-30 מ״ל ב-309.90 ש״ח. אחד לבית ואחד לתיק.",
+      "alt_texts": [
+        "טיפה אחת של זהב."
+      ],
+      "headline": "אליקסיר אולטים",
+      "description": "309.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "direction": "contrast",
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "טיפה אחת<br>של זהב.",
+          "sub": "קרסטס אליקסיר אולטים",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            64,
+            67,
+            496,
+            445
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(84,40,27)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_13.png",
+      "image_raw": "ads_raw/ad_13.png",
+      "protect": [
+        [
+          0.5,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_184449_124c102b-25f6-4ae0-97b1-8f7bd559cf96.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The golden Kérastase Elixir Ultime bottle from the reference standing in the right third of the frame on a glossy deep lacquer red surface, a single drop of golden oil falling from a glass dropper just above its neck, warm rim light. The whole left half of the frame is the same calm warm cream background, empty. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 14,
+      "angle_id": "A4",
+      "format": "1:1",
+      "overlay": "הריח שכולן<br>שואלות עליו.",
+      "overlay_sub": "מרוקן אויל",
+      "note": null,
+      "primary_text": "השמן שהתחיל את הכול. ריח שאי אפשר לטעות בו, ושיער רך ומבריק.\n\nכל סדרת מרוקן אויל המקורית אצלנו, עם משלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "הריח שכולן שואלות עליו."
+      ],
+      "headline": "שמן מרוקן אויל",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "cover",
+          "headline": "הריח שכולן<br>שואלות עליו.",
+          "sub": "מרוקן אויל",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            54,
+            993,
+            334
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(214,203,189)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_14.png",
+      "image_raw": "ads_raw/ad_14.png",
+      "protect": [
+        [
+          0.1,
+          0.08,
+          0.95,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_2369f53c-a3e3-4c1c-a2d4-11fa87210947.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The amber Moroccanoil treatment oil bottle from the reference on warm cream satin beside a small brass tray, golden evening light from the side, a few drops of oil glowing on the satin. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 15,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "לחות שעור<br>באמת מבין.",
+      "overlay_sub": "סרווה · 89.90 ש״ח",
+      "note": null,
+      "primary_text": "תחליב הלחות של סרווה עם סרמידים וחומצה היאלורונית, לעור רגיל עד יבש.\n\nבלי בושם, מתאים לכל יום. 52 מ״ל ב-89.90 ש״ח.",
+      "alt_texts": [
+        "לחות שעור באמת מבין."
+      ],
+      "headline": "תחליב לחות סרווה",
+      "description": "89.90 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "direction": "contrast",
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "לחות שעור<br>באמת מבין.",
+          "sub": "סרווה · 89.90 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            64,
+            877,
+            496,
+            1255
+          ],
+          "top": false,
+          "ink": "#1f1812",
+          "paper": "rgb(240,233,225)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.22)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_15.png",
+      "image_raw": "ads_raw/ad_15.png",
+      "protect": [
+        [
+          0.57,
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183929_0019fb69-b56d-4dee-bdd9-45276fcbf833.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Side profile of a young woman with her hair tied back, her whole face visible, gently applying a small dab of white lotion to her cheek with her fingertips, eyes closed, soft natural skin texture, warm cream bathroom light; the CeraVe facial moisturising lotion tube from the reference standing on the cream marble counter beside her. The woman and the tube fill only the right half of the frame; the whole left half is plain warm cream wall, calm and empty. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 16,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "חמש דקות<br>רק בשבילך.",
+      "overlay_sub": "הטקס של הערב",
+      "note": null,
+      "primary_text": "סוף יום. שמן על הקצוות, לחות על הפנים, ורגע של שקט.\n\nכל המותגים שאת אוהבת, מקוריים, בהזמנה אחת. משלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "חמש דקות רק בשבילך."
+      ],
+      "headline": "הטקס של הערב",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "חמש דקות<br>רק בשבילך.",
+          "sub": "הטקס של הערב",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(234,220,207)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.78)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_16.png",
+      "image_raw": "ads_raw/ad_16.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_7f314371-80e1-4e4c-8132-2954de6804eb.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. An evening vanity: the Kérastase Elixir Ultime bottle, the Moroccanoil oil bottle and the CeraVe tube from the references arranged on a cream marble tray, a lit candle glow, a folded cream towel, deep red satin fold, warm evening light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 17,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "כל המותגים שלך.<br>בהזמנה אחת.",
+      "overlay_sub": "10% הנחה בקנייה הראשונה",
+      "note": null,
+      "primary_text": "לוריאל פרופסיונל, קרסטס, מרוקן אויל, סרווה, באלי בודי ועוד. כ-1,750 מוצרים מקוריים במקום אחד.\n\n10% הנחה בקנייה הראשונה, ומשלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "כל המותגים שלך, בהזמנה אחת."
+      ],
+      "headline": "רד סטאר",
+      "description": "10% הנחה בקנייה ראשונה",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "כל המותגים שלך.<br>בהזמנה אחת.",
+          "sub": "10% הנחה בקנייה הראשונה",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            67,
+            993,
+            364
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(221,205,192)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_17.png",
+      "image_raw": "ads_raw/ad_17.png",
+      "protect": [
+        [
+          0.0,
+          0.3,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_e220f58b-297e-4558-90e9-f505db4d8ff0.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A glossy deep lacquer red shopping bag, open, overflowing onto cream satin with the gold Absolut Repair jar, the pink Kérastase jar, the purple Curl Expression jar and the Bali Body can from the references, soft studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 18,
+      "angle_id": "A5",
+      "format": "1:1",
+      "overlay": "המדף של<br>המספרה. אצלך.",
+      "overlay_sub": "מוצרים מקוריים בלבד",
+      "note": null,
+      "primary_text": "המוצרים שאת רואה במספרה ובפארם, מקוריים, במחיר של אונליין.\n\nמשלוח חינם מעל 199 ש״ח.",
+      "alt_texts": [
+        "המדף של המספרה, אצלך."
+      ],
+      "headline": "מוצרים מקוריים",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "stack",
+          "headline": "המדף של<br>המספרה. אצלך.",
+          "sub": "מוצרים מקוריים בלבד",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            54,
+            993,
+            237
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(235,226,215)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_18.png",
+      "image_raw": "ads_raw/ad_18.png",
+      "protect": [
+        [
+          0.0,
+          0.28,
+          0.95,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_12d696ae-e062-4c67-91ee-919567c7e40a.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Five beauty products from the references (the bi-phase oil, the Kérastase Elixir bottle, the Moroccanoil bottle, the purple spray and the white Bali mist) standing in a neat row on a glossy deep lacquer red shelf, warm cream wall, soft sculpted light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 19,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "הזמנת היום.<br>מטפחת מחר.",
+      "overlay_sub": "משלוח חינם מעל 199 ש״ח",
+      "note": null,
+      "primary_text": "מזמינים באתר, והמוצרים מגיעים עד הבית.\n\nמשלוח חינם מעל 199 ש״ח, ו-10% הנחה על ההזמנה הראשונה.",
+      "alt_texts": [
+        "הזמנת היום, מטפחת מחר."
+      ],
+      "headline": "משלוח עד הבית",
+      "description": "משלוח חינם מעל 199",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "הזמנת היום.<br>מטפחת מחר.",
+          "sub": "משלוח חינם מעל 199 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            64,
+            67,
+            496,
+            445
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(235,227,219)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_19.png",
+      "image_raw": "ads_raw/ad_19.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_6539dc00-f00d-4480-be98-7666966fdc24.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman's hands opening a glossy deep lacquer red delivery box on a cream bed sheet, inside tissue paper with the pink Kérastase jar and the CeraVe tube from the references, soft morning window light. Only hands visible. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 20,
+      "angle_id": "A5",
+      "format": "9:16",
+      "overlay": "10% הנחה.<br>על ההזמנה הראשונה.",
+      "overlay_sub": "רד סטאר · הבית של הביוטי",
+      "note": null,
+      "primary_text": "פעם ראשונה ברד סטאר? 10% הנחה על כל ההזמנה, ומשלוח חינם מעל 199 ש״ח.\n\nכל המותגים הגדולים, מקוריים, במקום אחד.",
+      "alt_texts": [
+        "10% הנחה על ההזמנה הראשונה."
+      ],
+      "headline": "רד סטאר",
+      "description": "10% הנחה בקנייה ראשונה",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "quiet",
+          "headline": "10% הנחה.<br>על ההזמנה הראשונה.",
+          "sub": "רד סטאר · הבית של הביוטי",
+          "note": null,
+          "signature": "",
+          "brand": "רד סטאר",
+          "box": [
+            86,
+            250,
+            993,
+            576
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(235,227,217)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_20.png",
+      "image_raw": "ads_raw/ad_20.png",
+      "protect": [
+        [
+          0.2,
+          0.35,
+          0.85,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_182705_267f8394-86f2-4f54-b4f4-e7acd231bfdd.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium beauty advertising photograph, glossy editorial: soft sculpted studio light, deep lacquer red and warm cream palette, satin, water droplets and creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Three beauty jars from the references (gold Absolut Repair, purple Curl Expression, pink Kérastase Gloss) stacked in a sculptural pyramid on a cream plinth, a deep lacquer red backdrop curving behind the lower half, soft studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bottle, jar and tube shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. People look natural, real skin texture, anatomically correct hands. "
+    }
+  ],
   "outreach": {
     "suggested_whatsapp_message": ""
   },
@@ -1476,7 +2806,9 @@
     "discovered": "2026-09-25T12:59:34",
     "filtered": "2026-09-25T13:00:44",
     "qualified": "2026-09-25T13:04:48",
-    "collected": "2026-09-26T12:38:52"
+    "collected": "2026-09-26T12:38:52",
+    "researched": "2026-09-26T18:45:58",
+    "published": "2026-09-26T19:00:00"
   },
   "qualify": {
     "pages_checked": [
@@ -1496,5 +2828,222 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
-  }
+  },
+  "landing_audit": {
+    "ads_checked": 15,
+    "pages": 12,
+    "groups": [
+      {
+        "url": "https://redstar.co.il/",
+        "final_url": "https://www.redstar.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "רד סטאר - הבית שלך למותגי הביוטי המובילים בארץ ובעולם\n – Red star",
+        "h1": "",
+        "ads": [
+          "1160551937140886",
+          "1651415476089559",
+          "4394568247427576",
+          "4526847677569876"
+        ],
+        "messages": [
+          "כל מוצרי הטיפוח שאת צריכה במקום אחד",
+          "לרכישה >"
+        ]
+      },
+      {
+        "url": "https://fb.com/canvas_doc/2260224427818576",
+        "final_url": "https://fb.com/canvas_doc/2260224427818576",
+        "status": null,
+        "kind": "facebook",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "904550519380474"
+        ],
+        "messages": [
+          "המוצרים שלך מחכים לך >>"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/ספריי-פרוטקט-המגן-על-השיער-מנזקי-החום-לשיער-רך-בריא-ומוגן-225-מל-moroccanoil",
+        "final_url": "https://www.redstar.co.il/products/%D7%A1%D7%A4%D7%A8%D7%99%D7%99-%D7%A4%D7%A8%D7%95%D7%98%D7%A7%D7%98-%D7%94%D7%9E%D7%92%D7%9F-%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A2%D7%A8-%D7%9E%D7%A0%D7%96%D7%A7%D7%99-%D7%94%D7%97%D7%95%D7%9D-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%9A-%D7%91%D7%A8%D7%99%D7%90-%D7%95%D7%9E%D7%95%D7%92%D7%9F-225-%D7%9E%D7%9C-moroccanoil",
+        "status": 404,
+        "kind": "broken",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1566666054963282"
+        ],
+        "messages": [
+          "זה בדיוק מה שקורה לשיער שלך בכל פעם שאת משתמשת במוצר חשמלי בלי הגנה"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/collections/moroccanoil",
+        "final_url": "https://www.redstar.co.il/collections/moroccanoil",
+        "status": 200,
+        "kind": "category",
+        "title": "מרוקן אויל Moroccanoil | מוצרי שיער עם שמן מרוקאי ⭐\n – Red star",
+        "h1": "Moroccanoil",
+        "ads": [
+          "1346052607502661"
+        ],
+        "messages": [
+          "לרכישה >"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml",
+        "final_url": "https://www.redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml",
+        "status": 404,
+        "kind": "broken",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1025057203481759"
+        ],
+        "messages": [
+          "שמן דו-פאזי אבסולוט ריפייר"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/loreal-professionnel-serie-expert-curl-expression-shampoo-500ml",
+        "final_url": "https://www.redstar.co.il/products/loreal-professionnel-serie-expert-curl-expression-shampoo-500ml",
+        "status": 200,
+        "kind": "product",
+        "title": "שמפו קרם לשיער מתולתל קרל אקספרשן 500 מ\"ל L'Oréal Professionnel\n – Red star",
+        "h1": "שמפו קרמי לשיער מתולתל קארל אקספרשן 500 מ\"ל - לוריאל פרופסיונל",
+        "ads": [
+          "4425430854370593"
+        ],
+        "messages": [
+          "שמפו קרל אקספרשן - לוריאל פרו"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/jul-wavii-automatic-curling-iron-black",
+        "final_url": "https://www.redstar.co.il/products/jul-wavii-automatic-curling-iron-black",
+        "status": 200,
+        "kind": "product",
+        "title": "מסלסל שיער אוטומטי שחור | ג'ול (Jul) - תלתלים מושלמים בבית\n – Red star",
+        "h1": "מסלסל שיער אוטומטי JUL Wavii שחור - ג'ול",
+        "ads": [
+          "3246799185506563"
+        ],
+        "messages": [
+          "מסלסל שיער אוטומטי JUL"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/cerave-blemish-control-cleanser-for-blemish-prone-skin-473ml",
+        "final_url": "https://www.redstar.co.il/products/cerave-blemish-control-cleanser-for-blemish-prone-skin-473ml",
+        "status": 404,
+        "kind": "broken",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "1363699682537902"
+        ],
+        "messages": [
+          "ניקוי לעור נוטה לפצעים - CeraVe"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/מסקרה-טלסקופיק-לאורך-מקסימלי-של-הריסים-loreal-paris",
+        "final_url": "https://www.redstar.co.il/products/%D7%9E%D7%A1%D7%A7%D7%A8%D7%94-%D7%98%D7%9C%D7%A1%D7%A7%D7%95%D7%A4%D7%99%D7%A7-%D7%9C%D7%90%D7%95%D7%A8%D7%9A-%D7%9E%D7%A7%D7%A1%D7%99%D7%9E%D7%9C%D7%99-%D7%A9%D7%9C-%D7%94%D7%A8%D7%99%D7%A1%D7%99%D7%9D-loreal-paris",
+        "status": 404,
+        "kind": "broken",
+        "title": "",
+        "h1": "",
+        "ads": [
+          "884018154440638"
+        ],
+        "messages": [
+          "מסקרה טלסקופיק - לוריאל פריז"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/collections/bali-body",
+        "final_url": "https://www.redstar.co.il/collections/bali-body",
+        "status": 200,
+        "kind": "category",
+        "title": "Bali Body באלי בודי - מוצרי שיזוף וטיפוח גוף מהמותג האוסטרלי המוביל\n – Red star",
+        "h1": "Bali Body",
+        "ads": [
+          "1634274428262305"
+        ],
+        "messages": [
+          "תרסיס מים לשיזוף עצמי של Bali Body"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/masque-crme-hydra-glaze-200ml",
+        "final_url": "https://www.redstar.co.il/products/masque-crme-hydra-glaze-200ml",
+        "status": 200,
+        "kind": "product",
+        "title": "מסכת קרם הידרה גלייז לשיער עבה ופריזי 200 מ\"ל - קרסטס\n – Red star",
+        "h1": "מסכת קרם הידרה גלייז לשיער עבה ופריזי 200 מ\"ל - קרסטס",
+        "ads": [
+          "1071058385851578"
+        ],
+        "messages": [
+          "מסכת גלוס של קרסטס"
+        ]
+      },
+      {
+        "url": "https://redstar.co.il/products/loral-professionnel-serie-expert-absolut-repair-mask-500ml",
+        "final_url": "https://www.redstar.co.il/products/loral-professionnel-serie-expert-absolut-repair-mask-500ml",
+        "status": 200,
+        "kind": "product",
+        "title": "מסכה מחדשת אבסולוט ריפר לשיער יבש 500 מ\"ל - לוריאל פרופסיונל\n – Red star",
+        "h1": "מסכה מחדשת אבסולוט ריפר לשיער יבש 500 מ\"ל - לוריאל פרופסיונל",
+        "ads": [
+          "2244020763054425"
+        ],
+        "messages": [
+          "מסכת אבסולוט ריפייר של לוריאל פרופסיונל"
+        ]
+      }
+    ],
+    "findings": [
+      {
+        "type": "home_many",
+        "url": "https://redstar.co.il/",
+        "ads": 4,
+        "messages": 2
+      },
+      {
+        "type": "offsite",
+        "url": "https://fb.com/canvas_doc/2260224427818576",
+        "kind": "facebook",
+        "ads": 1
+      },
+      {
+        "type": "broken",
+        "url": "https://redstar.co.il/products/ספריי-פרוטקט-המגן-על-השיער-מנזקי-החום-לשיער-רך-בריא-ומוגן-225-מל-moroccanoil",
+        "status": 404,
+        "ads": 1
+      },
+      {
+        "type": "broken",
+        "url": "https://redstar.co.il/products/loreal-professionnel-absolut-repair-molecular-bi-phase-oil-90ml",
+        "status": 404,
+        "ads": 1
+      },
+      {
+        "type": "broken",
+        "url": "https://redstar.co.il/products/cerave-blemish-control-cleanser-for-blemish-prone-skin-473ml",
+        "status": 404,
+        "ads": 1
+      },
+      {
+        "type": "broken",
+        "url": "https://redstar.co.il/products/מסקרה-טלסקופיק-לאורך-מקסימלי-של-הריסים-loreal-paris",
+        "status": 404,
+        "ads": 1
+      }
+    ]
+  },
+  "client_page": "https://il-meta.base44.app/p/redstar-02f7aee4"
 }

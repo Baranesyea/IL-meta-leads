@@ -102,6 +102,43 @@ const CSS = `
 @keyframes nudge{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
 .bp .hero .go{margin-top:30px;color:#f4eee4;border-color:rgba(244,238,228,.7);background:rgba(7,6,5,.18);backdrop-filter:blur(6px)}
 .bp .hero .go:hover{background:#f4eee4;color:#0d0b08}
+.bp .lp{background:var(--paper);padding:30px 0 40px;border-top:1px solid #dcd1c1}
+.bp .lp .head{max-width:760px;margin:70px 0 50px}
+.bp .lp .head h2{margin:14px 0 18px}
+.bp .lp .head p{font-weight:300;font-size:19px;line-height:1.75;color:var(--muted);margin:0}
+.bp .lp .flow{display:grid;grid-template-columns:minmax(0,1fr) 70px minmax(0,1fr);align-items:center;gap:10px 18px;
+  padding:34px 0;border-top:1px solid #dcd1c1}
+.bp .lp .ads{position:relative;display:flex;align-items:center;min-height:190px}
+.bp .lp .ads .th{width:118px;aspect-ratio:4/5;background:#e9e1d4 center/cover no-repeat;box-shadow:0 14px 30px -18px rgba(40,25,10,.55);
+  border:3px solid #fff;margin-inline-start:-54px;transform:rotate(var(--r))}
+.bp .lp .ads .th:first-child{margin-inline-start:0}
+.bp .lp .ads .meta{margin-inline-start:22px}
+.bp .lp .ads .cnt{font-weight:900;font-size:40px;line-height:1}
+.bp .lp .ads .msgs{font-weight:300;font-size:16px;color:var(--muted);margin-top:6px}
+.bp .lp .arrow{font-size:34px;color:var(--gold);text-align:center}
+.bp .lp .page{background:#fff;box-shadow:0 18px 40px -26px rgba(40,25,10,.5);border:1px solid #e3d9ca}
+.bp .lp .page .chrome{display:flex;align-items:center;gap:6px;padding:9px 12px;background:#f1ebe1;border-bottom:1px solid #e3d9ca}
+.bp .lp .page .chrome i{width:8px;height:8px;border-radius:50%;background:#d6cab7}
+.bp .lp .page .url{direction:ltr;flex:1;margin-inline-start:8px;font-size:12px;color:#8a7f72;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:left}
+.bp .lp .page .body{padding:22px 20px 24px}
+.bp .lp .page .k{font-size:13px;letter-spacing:.06em;color:var(--gold)}
+.bp .lp .page .t{font-weight:900;font-size:22px;margin-top:8px;line-height:1.25}
+.bp .lp .page.bad .body{background:#fbf1ee}
+.bp .lp .page.bad .k{color:#b0493d}
+.bp .lp .page.bad .t{font-size:44px;color:#b0493d}
+.bp .lp .note{grid-column:1 / -1;font-weight:300;font-size:18px;line-height:1.7;color:var(--ink);margin:14px 0 0;max-width:820px}
+.bp .lp .pts{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0;border-top:1px solid #dcd1c1;margin-top:10px}
+.bp .lp .pts > div{padding:34px 26px 40px;border-left:1px solid #dcd1c1}
+.bp .lp .pts > div:last-child{border-left:0}
+.bp .lp .pts h3{font-weight:900;font-size:23px;margin:0 0 10px}
+.bp .lp .pts p{font-weight:300;font-size:17px;line-height:1.7;color:var(--muted);margin:0}
+@media (max-width:760px){
+  .bp .lp .flow{grid-template-columns:1fr;gap:14px}
+  .bp .lp .arrow{transform:rotate(-90deg);text-align:center;height:34px}
+  .bp .lp .ads .th{width:92px;margin-inline-start:-46px}
+  .bp .lp .ads{min-height:0}
+  .bp .lp .pts > div{border-left:0;border-bottom:1px solid #dcd1c1}
+}
 .bp .ins-next{background:var(--paper);text-align:center;padding:10px 24px 110px}
 .bp .ins-next .go{color:var(--ink)}
 .bp .ins-next .go:hover{background:var(--ink);color:var(--paper)}
@@ -563,6 +600,49 @@ export default function ClientPitch({ slug: fixedSlug }) {
           </div>
         ))}
       </section>
+      {r.landing && (
+        <section className="lp" id="landing">
+          <div className="wrap">
+            <div className="head reveal">
+              <div className="eyebrow">{r.landing.eyebrow}</div>
+              <h2>{two(r.landing.title[0], r.landing.title[1])}</h2>
+              {r.landing.text && <p>{r.landing.text}</p>}
+            </div>
+            {r.landing.flows.map((fl, i) => (
+              <div key={i} className="flow reveal">
+                <div className="ads">
+                  {fl.items.slice(0, 5).map((it, k) => (
+                    <div key={k} className="th" style={{ backgroundImage: `url(${it.img})`, "--r": `${[-4, 3, -2, 4, -3][k]}deg` }} />
+                  ))}
+                  <div className="meta">
+                    <div className="cnt">{fl.count}</div>
+                    <div className="msgs">{fl.count_label}</div>
+                  </div>
+                </div>
+                <div className="arrow" aria-hidden="true">←</div>
+                <div className={`page ${fl.broken ? "bad" : ""}`}>
+                  <div className="chrome"><i /><i /><i /><span className="url">{fl.url}</span></div>
+                  <div className="body">
+                    <div className="k">{fl.to}</div>
+                    <div className="t">{fl.title}</div>
+                  </div>
+                </div>
+                {fl.note && <p className="note">{fl.note}</p>}
+              </div>
+            ))}
+            {r.landing.points && (
+              <div className="pts">
+                {r.landing.points.map((pt, i) => (
+                  <div key={i} className="reveal" style={{ transitionDelay: `${i * 100}ms` }}>
+                    <h3>{pt.t}</h3>
+                    <p>{pt.d}</p>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      )}
       <div className="ins-next reveal"><a className="go" href="#campaign">{rv.next || "לקמפיין שבנינו בשבילך"} <span aria-hidden="true">↓</span></a></div>
 
       {/* campaign strip */}

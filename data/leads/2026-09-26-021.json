@@ -1,13 +1,13 @@
 {
   "lead_id": "2026-09-26-021",
-  "status": "qualified",
+  "status": "published",
   "reject_reason": null,
   "business": {
-    "name_he": "",
-    "name_en": "",
+    "name_he": "מגה פט",
+    "name_en": "Mega Pet",
     "website": "https://megapet.co.il/",
-    "city": "",
-    "category": "",
+    "city": "באר שבע",
+    "category": "מזון וציוד לחיות מחמד",
     "owner_name": "",
     "email": ""
   },
@@ -1166,8 +1166,1330 @@
       "images": []
     }
   ],
-  "research": {},
-  "new_ads": [],
+  "research": {
+    "one_liner": "חנות מזון וציוד לחיות מחמד בבאר שבע עם מחסן הפצה ברעננה ואתר של כ-1,100 מוצרים: רויאל קנין, אקאנה, פרו פלאן, אדוונס, פריסקיז, חטיפי האנט וצעצועי בארק. ₪6–329, משלוח חינם ומהיר לכל הארץ, באותו יום באזור באר שבע, הזמנות גם ב-6897* ובוואטסאפ. מיצוב: המותגים המובילים, עד הבית, מהר.",
+    "hero_products": [
+      "רויאל קנין (מזון יבש ופאוצ'ים) — ₪79–329",
+      "אקאנה לחתול — ₪159",
+      "חטיפי לעיסה של האנט — ₪44–169",
+      "צעצועי בארק — ₪69–119",
+      "מיטות פרוותיות — מ-₪169"
+    ],
+    "audience": [
+      {
+        "persona": "בעלי כלב גדול",
+        "who": "25–55",
+        "cares": "שק מזון כבד שמגיע עד הבית, בלי לסחוב"
+      },
+      {
+        "persona": "אנשי החתולים",
+        "who": "20–50",
+        "cares": "מזון איכותי ופינוקים שהחתול באמת אוכל"
+      },
+      {
+        "persona": "הורים לגור",
+        "who": "25–40",
+        "cares": "להתחיל נכון: מזון לגור, צעצועים ומיטה"
+      }
+    ],
+    "pains": [
+      "\"לסחוב שק של 15 ק״ג מהחנות\"",
+      "\"המזון נגמר בדיוק בשישי בערב\"",
+      "\"הכלב הורס כל צעצוע תוך יום\"",
+      "\"החתול בררן\"",
+      "\"בחנות השכונתית אין את המותג שלנו\""
+    ],
+    "desires": [
+      "מזון שמגיע לפני שנגמר",
+      "כלב עסוק ושמח",
+      "חתול מפונק",
+      "המותג הנכון במחיר טוב"
+    ],
+    "objections": [
+      "\"באתרים הגדולים זה זול יותר\"",
+      "זמן משלוח",
+      "\"זה מקורי?\"",
+      "\"אני לא מכיר את החנות\""
+    ],
+    "current_ads_audit": "14 מודעות פעילות. שמונה מהן רצות כבר ארבעה חודשים: טקסט ארוך של 'למה דווקא אצלנו' על חתולים, פרעושים, צעצועים, מזון לגורים, חטיפים ומיטות, עם תמונות שנראות כמו סטוק. כל השמונה, עם שמונה נושאים שונים, מובילות לדף הבית, כך שמי שלחץ על מיטה לכלב צריך לחפש אותה מחדש. ארבע מודעות המבצע החדשות (אדוונס, אקאנה, פאוצ'ים ב-79, הדברה) עושות את זה נכון ומובילות לעמוד המוצר או המבצע.",
+    "gaps": [
+      "שמונה מודעות עם שמונה נושאים שונים מובילות לדף הבית",
+      "אין חיה אמיתית אחת שנראית טוב",
+      "המשלוח המהיר, היתרון הכי חזק מול החנות השכונתית, קבור בתוך רשימה",
+      "אין פרסום לפי מותג, למרות שקונים לפי מותג",
+      "הטקסטים ארוכים, והמסר הראשון לא עוצר גלילה"
+    ],
+    "angles": [
+      {
+        "id": "A1",
+        "name": "המותג שלהם, עד הבית",
+        "idea": "רויאל קנין ואקאנה: המזון שהכלב והחתול כבר אוכלים, בלי לסחוב שק מהחנות.",
+        "persona": "בעלי כלב גדול",
+        "hook": "15 ק״ג. בלי לסחוב.",
+        "why": "קונים מזון לפי מותג, והכאב של הסחיבה ברור."
+      },
+      {
+        "id": "A2",
+        "name": "פינוק לחתול",
+        "idea": "פאוצ'ים של רויאל קנין במבצע ופריסקיז פארטי מיקס: הדברים שהחתול מחכה להם.",
+        "persona": "אנשי החתולים",
+        "hook": "החתול כבר שמע את הצנצנת.",
+        "why": "קנייה חוזרת, מחיר נמוך ומבצע קיים."
+      },
+      {
+        "id": "A3",
+        "name": "עסוק ושמח",
+        "idea": "חטיפי לעיסה של האנט וצעצועי בארק: שעה של עיסוק בלי שהבית ישלם על זה.",
+        "persona": "הורים לגור",
+        "hook": "הצעצוע שלו. לא הנעל שלכם.",
+        "why": "כאב יומיומי ומוצרים ויזואליים."
+      },
+      {
+        "id": "A4",
+        "name": "מקום משלו",
+        "idea": "מיטות פרוותיות עגולות: המקום שהכלב והחתול בוחרים לעצמם.",
+        "persona": "כולם",
+        "hook": "יש לו מקום משלו.",
+        "why": "מוצר רגשי עם סל גבוה."
+      },
+      {
+        "id": "A5",
+        "name": "מגה פט, עד הבית",
+        "idea": "החנות עצמה: המותגים המובילים, משלוח חינם ומהיר לכל הארץ, באזור באר שבע באותו יום או תוך 24 שעות.",
+        "persona": "כולם",
+        "hook": "נגמר המזון? מחר הוא אצלכם.",
+        "why": "בונה זהות לחנות סביב היתרון החזק ביותר שלה."
+      }
+    ]
+  },
+  "new_ads": [
+    {
+      "ad_no": 1,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "15 ק״ג.<br>בלי לסחוב.",
+      "overlay_sub": "רויאל קנין מקסי · 279 ש״ח",
+      "note": null,
+      "primary_text": "שק מזון של כלב גדול לא אמור לעבור דרך הגב שלכם.\n\nרויאל קנין מקסי אדולט, ומשלוח חינם ומהיר עד הדלת.\n\n279 ש״ח.",
+      "alt_texts": [
+        "15 ק״ג. בלי לסחוב."
+      ],
+      "headline": "רויאל קנין מקסי אדולט",
+      "description": "279 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "15 ק״ג.<br>בלי לסחוב.",
+          "sub": "רויאל קנין מקסי · 279 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            64,
+            67,
+            496,
+            364
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(2,27,61)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_01.png",
+      "image_raw": "ads_raw/ad_01.png",
+      "protect": [
+        [
+          0.1,
+          0.3,
+          0.85,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_d305bbd2-5b70-4104-95e1-c126c2f1abe0.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A proud german shepherd sitting upright beside the dark blue Royal Canin Maxi Adult bag from the reference, on a seamless deep cobalt blue paper backdrop, crisp soft studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 2,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "הוא יגדל מהר.<br>תנו לו להתחיל נכון.",
+      "overlay_sub": "רויאל קנין ג'וניור ג'איינט",
+      "note": null,
+      "primary_text": "גור מגזע ענק צריך מזון שבנוי בדיוק בשבילו.\n\nרויאל קנין ג'וניור ג'איינט, 329 ש״ח, עם משלוח חינם עד הבית.",
+      "alt_texts": [
+        "הוא יגדל מהר. תנו לו להתחיל נכון."
+      ],
+      "headline": "מזון לגור מגזע ענק",
+      "description": "329 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "הוא יגדל מהר.<br>תנו לו להתחיל נכון.",
+          "sub": "רויאל קנין ג'וניור ג'איינט",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            297
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(227,201,162)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.36)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_02.png",
+      "image_raw": "ads_raw/ad_02.png",
+      "protect": [
+        [
+          0.2,
+          0.25,
+          0.9,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183150_6f31a1bc-662d-4664-adc6-75aef30c1fc6.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A fluffy big-breed puppy (young bernese mountain dog) sitting with its paws on the light blue Royal Canin Junior Giant bag from the reference, head tilted, on a seamless warm mustard yellow paper backdrop. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 3,
+      "angle_id": "A1",
+      "format": "1:1",
+      "overlay": "חתול של בית.<br>מזון של בית.",
+      "overlay_sub": "אקאנה אינדור · 159 ש״ח",
+      "note": null,
+      "primary_text": "אקאנה אינדור לחתולים שחיים בבית: עוף והרינג כמרכיב ראשון, ומזון שמתאים לחתול מעוקר.\n\n159 ש״ח, משלוח חינם.",
+      "alt_texts": [
+        "חתול של בית. מזון של בית."
+      ],
+      "headline": "אקאנה לחתול אינדור",
+      "description": "159 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "stack",
+          "headline": "חתול של בית.<br>מזון של בית.",
+          "sub": "אקאנה אינדור · 159 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            54,
+            993,
+            334
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(247,205,197)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_03.png",
+      "image_raw": "ads_raw/ad_03.png",
+      "protect": [
+        [
+          0.15,
+          0.35,
+          0.95,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183152_299a528b-f4eb-4515-8a93-9a4ece1b3242.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. An elegant tabby cat sitting calmly beside the pink Acana Indoor bag from the reference, on a seamless soft coral paper backdrop, crisp studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 4,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "המותג שלהם.<br>עד הדלת.",
+      "overlay_sub": "רויאל קנין · אקאנה · פרו פלאן",
+      "note": null,
+      "primary_text": "הם כבר יודעים מה הם אוהבים. אתם רק צריכים שזה יגיע.\n\nכל המותגים המובילים, משלוח חינם ומהיר לכל הארץ.",
+      "alt_texts": [
+        "המותג שלהם, עד הדלת."
+      ],
+      "headline": "המותגים המובילים",
+      "description": "משלוח חינם לכל הארץ",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "המותג שלהם.<br>עד הדלת.",
+          "sub": "רויאל קנין · אקאנה · פרו פלאן",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(2,48,48)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_04.png",
+      "image_raw": "ads_raw/ad_04.png",
+      "protect": [
+        [
+          0.0,
+          0.45,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_7998abb5-53d9-44eb-80cf-0beaa5029c86.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The three food bags from the references (dark blue Royal Canin Maxi, light blue Royal Canin Junior Giant, pink Acana) standing in a neat row on a seamless deep teal paper backdrop, a relaxed labrador lying in front of them. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 5,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "החתול כבר שמע<br>את הצנצנת.",
+      "overlay_sub": "פריסקיז פארטי מיקס · 99 ש״ח",
+      "note": null,
+      "primary_text": "יש צליל אחד שכל חתול מזהה מכל מקום בבית.\n\nצנצנת פריסקיז פארטי מיקס בטעמי ים, 99 ש״ח.",
+      "alt_texts": [
+        "החתול כבר שמע את הצנצנת."
+      ],
+      "headline": "פריסקיז פארטי מיקס",
+      "description": "99 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "top_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "החתול כבר שמע<br>את הצנצנת.",
+          "sub": "פריסקיז פארטי מיקס · 99 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            64,
+            67,
+            648,
+            297
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(179,227,228)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_05.png",
+      "image_raw": "ads_raw/ad_05.png",
+      "protect": [
+        [
+          0.05,
+          0.28,
+          0.85,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_ae881c4e-d750-4f61-884d-33aecd515ced.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A curious ginger cat reaching up with one paw toward the Friskies Party Mix treats jar from the reference that stands on a small white cube, on a seamless bright teal paper backdrop. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 6,
+      "angle_id": "A2",
+      "format": "1:1",
+      "overlay": "12 פאוצ'ים.<br>79 ש״ח.",
+      "overlay_sub": "במקום 94.80 ש״ח",
+      "note": null,
+      "primary_text": "הארוחה שהחתול מחכה לה, במחיר שמחכה לכם.\n\n12 פאוצ'ים של רויאל קנין ב-79 ש״ח במקום 94.80.",
+      "alt_texts": [
+        "12 פאוצ'ים ב-79 ש״ח."
+      ],
+      "headline": "פאוצ'ים רויאל קנין",
+      "description": "79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "12 פאוצ'ים.<br>79 ש״ח.",
+          "sub": "במקום 94.80 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            64,
+            54,
+            496,
+            237
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(220,215,233)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_06.png",
+      "image_raw": "ads_raw/ad_06.png",
+      "protect": [
+        [
+          0.2,
+          0.28,
+          0.95,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_2e7ea698-f9a0-4abe-99f3-607608d27d12.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The Royal Canin cat pouch boxes from the reference stacked neatly on a seamless soft lilac paper backdrop, a grey british shorthair cat peeking out from behind the stack. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 7,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "היא יודעת<br>מה מגיע לה.",
+      "overlay_sub": "פינוקים לחתול",
+      "note": null,
+      "primary_text": "פאוצ'ים, חטיפים ומעדנים לחתולים שיודעים בדיוק מה הם רוצים.\n\nמשלוח חינם ומהיר לכל הארץ.",
+      "alt_texts": [
+        "היא יודעת מה מגיע לה."
+      ],
+      "headline": "פינוקים לחתול",
+      "description": "משלוח חינם",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "היא יודעת<br>מה מגיע לה.",
+          "sub": "פינוקים לחתול",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(225,200,163)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.38)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_07.png",
+      "image_raw": "ads_raw/ad_07.png",
+      "protect": [
+        [
+          0.0,
+          0.55,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_33185d20-d4a2-4b30-be5f-0182a19b01fe.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A fluffy white persian cat lounging on a seamless warm mustard paper backdrop between the Royal Canin pouch boxes and the Friskies Party Mix jar from the references, looking straight at the camera. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 8,
+      "angle_id": "A2",
+      "format": "9:16",
+      "overlay": "חטיף אחד.<br>חבר לכל החיים.",
+      "overlay_sub": "פריסקיז · 99 ש״ח",
+      "note": null,
+      "primary_text": "רוצים שהחתול יבוא כשקוראים לו? יש לנו רעיון.\n\nפריסקיז פארטי מיקס, 99 ש״ח לצנצנת.",
+      "alt_texts": [
+        "חטיף אחד, חבר לכל החיים."
+      ],
+      "headline": "חטיפים לחתול",
+      "description": "99 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "stack",
+          "headline": "חטיף אחד.<br>חבר לכל החיים.",
+          "sub": "פריסקיז · 99 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            250,
+            993,
+            749
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(247,191,184)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_08.png",
+      "image_raw": "ads_raw/ad_08.png",
+      "protect": [
+        [
+          0.0,
+          0.55,
+          1.0,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_72453b3b-9e79-4125-b055-46fe8bac43fd.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The Friskies Party Mix jar from the reference tipped slightly on its side on a seamless coral paper backdrop, a small scatter of colourful cat treats spilling out, a playful kitten paw entering from the side. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 9,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "שעה של לעיסה.<br>שעה של שקט.",
+      "overlay_sub": "האנט בולי סטיק · 169 ש״ח",
+      "note": null,
+      "primary_text": "בולי סטיק וגבינת יאק של האנט: חטיף לעיסה טבעי, בלי חומרים משמרים, שמעסיק את הכלב לאורך זמן.\n\n169 ש״ח.",
+      "alt_texts": [
+        "שעה של לעיסה, שעה של שקט."
+      ],
+      "headline": "האנט בולי סטיק ויאק",
+      "description": "169 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "שעה של לעיסה.<br>שעה של שקט.",
+          "sub": "האנט בולי סטיק · 169 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(190,228,228)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_09.png",
+      "image_raw": "ads_raw/ad_09.png",
+      "protect": [
+        [
+          0.1,
+          0.35,
+          0.95,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_4437bf20-8216-4386-a141-208b73a8169f.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A happy border collie lying on a seamless bright teal paper backdrop, holding a long natural bully stick between its front paws; the dark HUNT bully stick & yak cheese pouch from the reference stands beside it. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 10,
+      "angle_id": "A3",
+      "format": "1:1",
+      "overlay": "הצעצוע שלו.<br>לא הנעל שלכם.",
+      "overlay_sub": "בארק סוני העצלן · 89 ש״ח",
+      "note": null,
+      "primary_text": "צעצוע מחבואים של בארק: מסתירים בתוכו את הצעצועים הקטנים, והכלב עסוק בלמצוא אותם.\n\n89 ש״ח.",
+      "alt_texts": [
+        "הצעצוע שלו, לא הנעל שלכם."
+      ],
+      "headline": "צעצוע בארק",
+      "description": "89 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "הצעצוע שלו.<br>לא הנעל שלכם.",
+          "sub": "בארק סוני העצלן · 89 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            583,
+            54,
+            1015,
+            356
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(247,207,197)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_10.png",
+      "image_raw": "ads_raw/ad_10.png",
+      "protect": [
+        [
+          0.2,
+          0.4,
+          0.9,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183149_90c71ec8-dd97-4acb-92d2-ec5a07f708ef.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A playful golden retriever puppy tugging gently at the BARK sloth plush toy from the reference, on a seamless soft coral paper backdrop, crisp studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 11,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "אנרגיה?<br>יש לנו פתרון.",
+      "overlay_sub": "צעצועים וחטיפי לעיסה",
+      "note": null,
+      "primary_text": "כלב עם אנרגיה צריך איפה להוציא אותה.\n\nצעצועים שמחזיקים וחטיפי לעיסה טבעיים, במשלוח חינם עד הבית.",
+      "alt_texts": [
+        "אנרגיה? יש לנו פתרון."
+      ],
+      "headline": "צעצועים לכלבים",
+      "description": "משלוח חינם",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "אנרגיה?<br>יש לנו פתרון.",
+          "sub": "צעצועים וחטיפי לעיסה",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(13,31,56)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_11.png",
+      "image_raw": "ads_raw/ad_11.png",
+      "protect": [
+        [
+          0.2,
+          0.2,
+          0.9,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183150_7fe8da4c-e4d3-4946-aac7-17c2d799a212.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The BARK sloth toy and the HUNT pouch from the references arranged on a seamless deep cobalt paper backdrop, a jack russell terrier jumping playfully in the air above them, crisp studio light, motion frozen. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 12,
+      "angle_id": "A3",
+      "format": "9:16",
+      "overlay": "רכיב אחד.<br>בלי תוספות.",
+      "overlay_sub": "חטיפי האנט · מ-44 ש״ח",
+      "note": null,
+      "primary_text": "חטיפי האנט הם חטיפים טבעיים לגמרי: בולי סטיק, ריאות באפלו וזנב באפלו. בלי דגנים ובלי חומרים משמרים.\n\nמ-44 ש״ח.",
+      "alt_texts": [
+        "רכיב אחד, בלי תוספות."
+      ],
+      "headline": "חטיפי לעיסה טבעיים",
+      "description": "מ-44 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "contrast",
+          "headline": "רכיב אחד.<br>בלי תוספות.",
+          "sub": "חטיפי האנט · מ-44 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            64,
+            250,
+            496,
+            576
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(49,37,29)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_12.png",
+      "image_raw": "ads_raw/ad_12.png",
+      "protect": [
+        [
+          0.2,
+          0.35,
+          0.9,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183227_278414b4-57b1-4319-8d3e-479983727b3e.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The dark HUNT bully stick & yak cheese pouch from the reference standing on a seamless warm mustard paper backdrop, three natural bully sticks leaning against it, crisp studio light and a soft shadow. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 13,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "יש לו<br>מקום משלו.",
+      "overlay_sub": "מיטה פרוותית עגולה · מ-189 ש״ח",
+      "note": null,
+      "primary_text": "המיטה העגולה והפרוותית שכלבים וחתולים פשוט נעלמים בתוכה.\n\nבמגוון מידות, מ-189 ש״ח.",
+      "alt_texts": [
+        "יש לו מקום משלו."
+      ],
+      "headline": "מיטה פרוותית עגולה",
+      "description": "מ-189 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "יש לו<br>מקום משלו.",
+          "sub": "מיטה פרוותית עגולה · מ-189 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(211,216,203)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.22)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_13.png",
+      "image_raw": "ads_raw/ad_13.png",
+      "protect": [
+        [
+          0.1,
+          0.45,
+          0.95,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183227_ad59fd78-67d0-46b3-983a-bad1531eb938.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A small cream pomeranian curled up asleep in the round plush mocha donut bed from the reference, on a seamless soft sage green paper backdrop, soft warm studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 14,
+      "angle_id": "A4",
+      "format": "1:1",
+      "overlay": "הספה חזרה<br>להיות שלכם.",
+      "overlay_sub": "מיטה לכלב ולחתול",
+      "note": null,
+      "primary_text": "תנו להם מקום רך משלהם, והם יפסיקו לחפש את שלכם.\n\nמיטה פרוותית עגולה, מ-189 ש״ח.",
+      "alt_texts": [
+        "הספה חזרה להיות שלכם."
+      ],
+      "headline": "מיטה פרוותית",
+      "description": "מ-189 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "stack",
+          "headline": "הספה חזרה<br>להיות שלכם.",
+          "sub": "מיטה לכלב ולחתול",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            54,
+            993,
+            334
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(219,215,234)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_14.png",
+      "image_raw": "ads_raw/ad_14.png",
+      "protect": [
+        [
+          0.15,
+          0.4,
+          0.9,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183226_22fd1912-c825-4d4b-b53a-9e1e0dddca71.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A grey tabby cat stretching lazily inside the round plush mocha donut bed from the reference, on a seamless soft lilac paper backdrop, crisp soft studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 15,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "סוף יום.<br>לכולם.",
+      "overlay_sub": "מיטה · צעצוע · שקט",
+      "note": null,
+      "primary_text": "אחרי יום שלם של משחק, כל אחד צריך את הפינה שלו.\n\nמיטות וצעצועים לכלבים ולחתולים, במשלוח חינם עד הבית.",
+      "alt_texts": [
+        "סוף יום, לכולם."
+      ],
+      "headline": "מיטות וצעצועים",
+      "description": "משלוח חינם",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "סוף יום.<br>לכולם.",
+          "sub": "מיטה · צעצוע · שקט",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(226,202,167)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_15.png",
+      "image_raw": "ads_raw/ad_15.png",
+      "protect": [
+        [
+          0.1,
+          0.35,
+          0.95,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183227_810df431-6513-4064-8a2d-e51183430b8e.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A sleepy french bulldog resting its chin on the BARK sloth toy inside the round plush mocha donut bed from the references, on a seamless warm mustard paper backdrop. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 16,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "שלום בית.<br>סוף סוף.",
+      "overlay_sub": "מיטה לכל אחד",
+      "note": null,
+      "primary_text": "כשלכל אחד יש מיטה משלו, אף אחד לא רב על המקום.\n\nמיטה פרוותית עגולה, במגוון מידות, מ-189 ש״ח.",
+      "alt_texts": [
+        "שלום בית, סוף סוף."
+      ],
+      "headline": "מיטה לכל אחד",
+      "description": "מ-189 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "שלום בית.<br>סוף סוף.",
+          "sub": "מיטה לכל אחד",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            583,
+            67,
+            1015,
+            445
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(4,44,47)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_16.png",
+      "image_raw": "ads_raw/ad_16.png",
+      "protect": [
+        [
+          0.0,
+          0.45,
+          1.0,
+          0.8
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183226_fbc1617c-2153-43cb-a759-027517c8230c.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. Two round plush mocha donut beds from the reference side by side on a seamless deep teal paper backdrop, a dog sleeping in one and a cat sleeping in the other, crisp soft studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 17,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "נגמר המזון?<br>מחר הוא אצלכם.",
+      "overlay_sub": "משלוח חינם ומהיר לכל הארץ",
+      "note": null,
+      "primary_text": "מזמינים באתר, בטלפון או בוואטסאפ, והכול מגיע עד הדלת.\n\nמשלוח חינם ומהיר לכל הארץ, ובאזור באר שבע באותו יום או תוך 24 שעות.",
+      "alt_texts": [
+        "נגמר המזון? מחר הוא אצלכם."
+      ],
+      "headline": "מגה פט",
+      "description": "משלוח חינם לכל הארץ",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "נגמר המזון?<br>מחר הוא אצלכם.",
+          "sub": "משלוח חינם ומהיר לכל הארץ",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(189,233,231)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": "#231a12",
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_17.png",
+      "image_raw": "ads_raw/ad_17.png",
+      "protect": [
+        [
+          0.0,
+          0.38,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183227_0fb3ef40-0471-4692-8801-6bc688baa6d3.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. An open kraft delivery box on a seamless bright teal paper backdrop, holding the dark blue Royal Canin bag, the Friskies jar and the BARK sloth toy from the references, a curious beagle and a tabby cat both sniffing it. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 18,
+      "angle_id": "A5",
+      "format": "1:1",
+      "overlay": "כל המותגים.<br>חנות אחת.",
+      "overlay_sub": "מגה פט · באר שבע",
+      "note": null,
+      "primary_text": "רויאל קנין, אקאנה, פרו פלאן, אדוונס, פריסקיז והאנט. יותר מ-1,000 מוצרים לכלבים ולחתולים.\n\nמשלוח חינם לכל הארץ.",
+      "alt_texts": [
+        "כל המותגים, חנות אחת."
+      ],
+      "headline": "המותגים המובילים",
+      "description": "משלוח חינם",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "top_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "כל המותגים.<br>חנות אחת.",
+          "sub": "מגה פט · באר שבע",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            64,
+            54,
+            648,
+            291
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(247,191,184)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_18.png",
+      "image_raw": "ads_raw/ad_18.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          0.95,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183226_dce8a0e9-c71c-4d8e-be2c-0238737b9bd9.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. The Royal Canin pouch boxes, the pink Acana bag and the HUNT pouch from the references arranged in a bold graphic stack on a seamless coral paper backdrop, crisp studio light, no animals. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 19,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "הזמנתם היום.<br>זה כבר בדרך.",
+      "overlay_sub": "באזור באר שבע · תוך 24 שעות",
+      "note": null,
+      "primary_text": "גרים באזור באר שבע? ההזמנה מגיעה אליכם באותו יום או תוך 24 שעות.\n\nבשאר הארץ, משלוח חינם ומהיר.",
+      "alt_texts": [
+        "הזמנתם היום, זה כבר בדרך."
+      ],
+      "headline": "משלוח מהיר",
+      "description": "באזור באר שבע",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "הזמנתם היום.<br>זה כבר בדרך.",
+          "sub": "באזור באר שבע · תוך 24 שעות",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(227,205,169)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.26)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_19.png",
+      "image_raw": "ads_raw/ad_19.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183227_e342ec86-71ee-48c6-af00-f41fef956a4a.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A delighted young labrador sitting at a front door threshold on a seamless mustard paper backdrop set, the light blue Royal Canin Junior Giant bag from the reference placed at the doorstep beside it, crisp studio light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    },
+    {
+      "ad_no": 20,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "מתקשרים 6897*<br>ואנחנו דואגים לשאר.",
+      "overlay_sub": "הזמנה בטלפון ובוואטסאפ",
+      "note": null,
+      "primary_text": "לא בא לכם לגלול? מתקשרים ל-6897* או שולחים הודעה בוואטסאפ, ואנחנו נעזור לבחור.\n\nמשלוח חינם ומהיר לכל הארץ.",
+      "alt_texts": [
+        "מתקשרים 6897*, אנחנו דואגים לשאר."
+      ],
+      "headline": "הזמנה בטלפון",
+      "description": "משלוח חינם",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "מתקשרים 6897*<br>ואנחנו דואגים לשאר.",
+          "sub": "הזמנה בטלפון ובוואטסאפ",
+          "note": null,
+          "signature": "",
+          "brand": "מגה פט",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(18,34,61)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_20.png",
+      "image_raw": "ads_raw/ad_20.png",
+      "protect": [
+        [
+          0.35,
+          0.2,
+          0.62,
+          1.0
+        ],
+        [
+          0.6,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260926_183226_3eec3e72-b965-4d6e-baea-eac042557523.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium pet advertising photograph, bold colour-studio portrait: a seamless saturated paper backdrop in one strong colour, crisp soft studio light with a gentle shadow on the floor, healthy real animals with natural fur and bright eyes, clean minimal set, shot on medium format, photorealistic, magazine quality. A tall stack of the dark blue Royal Canin bag and the Royal Canin pouch boxes from the references on a seamless deep cobalt paper backdrop, a calm husky sitting beside the stack looking up at the camera. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same seamless coloured backdrop simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: same bag, box, jar and toy shapes, same colours, same labels and logo layout — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere in the image. Animals look natural and healthy, anatomically correct, with the right number of legs and ears. "
+    }
+  ],
   "outreach": {
     "suggested_whatsapp_message": ""
   },
@@ -1178,7 +2500,9 @@
     "discovered": "2026-09-26T15:07:49",
     "filtered": "2026-09-26T15:08:10",
     "qualified": "2026-09-26T15:10:54",
-    "collected": "2026-09-26T15:19:25"
+    "collected": "2026-09-26T15:19:25",
+    "researched": "2026-09-26T18:41:13",
+    "published": "2026-09-26T19:00:00"
   },
   "qualify": {
     "pages_checked": [
@@ -1196,5 +2520,104 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
-  }
+  },
+  "landing_audit": {
+    "ads_checked": 12,
+    "pages": 5,
+    "groups": [
+      {
+        "url": "https://megapet.co.il/",
+        "final_url": "https://megapet.co.il/",
+        "status": 200,
+        "kind": "home",
+        "title": "כל הציוד לחיית המחמד שלך במקום אחד, הזמנות אונליין ואספקה לכל הארץ | מגה פט",
+        "h1": "מגה פט - חנות חיות לבריאות ואיכות חיים",
+        "ads": [
+          "1281038060852417",
+          "1290868359865484",
+          "1708563497257305",
+          "2569950063419366",
+          "1606740290421520",
+          "1529454875593612",
+          "1003419032135520",
+          "994777252928782"
+        ],
+        "messages": [
+          "מגה פט - החנות המובילה למזון וציוד לבעלי חיים מהמותגים המובילים בעולם🔝 למה דווקא אצלנו",
+          "אוכל איכותי לחתולים שלכם",
+          "הפרעושים הגיעו גם אליכם",
+          "צעצועים לכלבים - מתנה מושלמת לכל כלב🐶",
+          "רוצים להעניק לכלב שלכם את האוכל הטוב ביותר",
+          "אוכל לגורים במחירים ללא תחרות במגה פט🐶",
+          "רוצים לפנק את הכלב שלכם",
+          "מיטה מפנקת לכלב שלך🐶"
+        ]
+      },
+      {
+        "url": "https://megapet.co.il/deal/37",
+        "final_url": "https://megapet.co.il/deal/37",
+        "status": 200,
+        "kind": "category",
+        "title": "מבצע! מזון יבש לכלבים אדוונס 12 ק\"ג – שק שני ב-20% הנחה | מגה פט",
+        "h1": "",
+        "ads": [
+          "2166016610610981"
+        ],
+        "messages": [
+          "לרכישה>>"
+        ]
+      },
+      {
+        "url": "https://megapet.co.il/product/12יח-רויאל-קנין-פאוצים-לחתול",
+        "final_url": "https://megapet.co.il/product/12%D7%99%D7%97-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%A7%D7%A0%D7%99%D7%9F-%D7%A4%D7%90%D7%95%D7%A6%D7%99%D7%9D-%D7%9C%D7%97%D7%AA%D7%95%D7%9C/",
+        "status": 200,
+        "kind": "product",
+        "title": "12יח' רויאל קנין פאוצ'ים לחתול מגה פט - משלוחים מהירים",
+        "h1": "12יח' רויאל קנין פאוצ'ים לחתול",
+        "ads": [
+          "28000955419569741"
+        ],
+        "messages": [
+          "לרכישה >>"
+        ]
+      },
+      {
+        "url": "https://megapet.co.il/deal/38",
+        "final_url": "https://megapet.co.il/deal/38",
+        "status": 200,
+        "kind": "category",
+        "title": "מבצע! מזון יבש לכלבים אקאנה 9.7 ק\"ג ומעלה – שק שני ב-20% הנחה | מגה פט",
+        "h1": "",
+        "ads": [
+          "1633873808312956"
+        ],
+        "messages": [
+          "לרכישה>>"
+        ]
+      },
+      {
+        "url": "https://megapet.co.il/deal/40",
+        "final_url": "https://megapet.co.il/deal/40",
+        "status": 200,
+        "kind": "category",
+        "title": "מבצע! מוצרי הדברה של NEXGARD / BRAVECTO ב-10% הנחה | מגה פט",
+        "h1": "",
+        "ads": [
+          "995339846858740"
+        ],
+        "messages": [
+          "לרכישה>>"
+        ]
+      }
+    ],
+    "findings": [
+      {
+        "type": "home_many",
+        "url": "https://megapet.co.il/",
+        "ads": 8,
+        "messages": 8
+      }
+    ]
+  },
+  "client_page": "https://il-meta.base44.app/p/megapet-beb32c3c"
 }
