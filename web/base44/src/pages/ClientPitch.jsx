@@ -74,6 +74,9 @@ const CSS = `
   .bp .hero.cta-bottom .copy{bottom:8svh;display:flex;flex-direction:column;align-items:flex-start}
   .bp .hero.cta-bottom .go{margin-top:auto}}
 @media (min-width:761px) and (max-aspect-ratio:1/1){.bp .hero .copy{top:120px;padding:0 8vw}
+  /* portrait tablets: the whole tall photo, full height, its sides melting into the page's dark */
+  .bp .hero .bg{background-size:auto 100%;background-repeat:no-repeat;background-position:center top;
+    -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0,#000 22%,#000 78%,transparent 100%)}
   .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}}
 
 /* call-to-action link used in the hero and after the review */

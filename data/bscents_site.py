@@ -14,7 +14,7 @@ COPY = {
     "hero_title": ["ריח של מלון.", "בבית שלכם."],
     # phones: a tall outpainted version of the hero (original pixels kept), words on its dark top; crop to the
     # left so the bright window stays out from under the text
-    "hero_bg_m": "/reports/bscents/hero_m.webp", "hero_pos_m": "0% 0%",
+    "hero_bg_m": "/reports/bscents/hero_m.webp", "hero_pos_m": "0% 0%", "hero_cta_m": "bottom",  # button on the dark floor, clear of the device
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
     "review": {
         "eyebrow": "עברנו על הקמפיין שלכם",

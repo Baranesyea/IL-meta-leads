@@ -1463,6 +1463,7 @@ export const REPORTS = {
   ],
   "hero_bg_m": "/reports/bscents/hero_m.webp",
   "hero_pos_m": "0% 0%",
+  "hero_cta_m": "bottom",
   "hero_cta": "מה היינו משנים בקמפיין שלכם",
   "review": {
    "eyebrow": "עברנו על הקמפיין שלכם",
