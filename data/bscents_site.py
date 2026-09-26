@@ -12,6 +12,9 @@ COPY = {
     "business": {"name": "בי סנטס", "wordmark": "בי סנטס", "site": "https://b-scents.co.il/"},
     "hero_eyebrow": "מפיצי ריח חשמליים · שמני בושם · בישום לכביסה",
     "hero_title": ["ריח של מלון.", "בבית שלכם."],
+    # phones: a tall outpainted version of the hero (original pixels kept), words on its dark top; crop to the
+    # left so the bright window stays out from under the text
+    "hero_bg_m": "/reports/bscents/hero_m.webp", "hero_pos_m": "0% 0%",
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
     "review": {
         "eyebrow": "עברנו על הקמפיין שלכם",
@@ -35,8 +38,8 @@ COPY = {
         {"id": "A5", "name": "הריח שלכם, לאן שתלכו", "hook": "הריח שלכם נוסע איתכם.", "idea": "המפיץ לרכב והבשמים ליאו ולייה: מוצרים שכבר קיימים באתר ולא מקבלים חשיפה, ומרחיבים את הסל ואת עונת המתנות."},
     ],
     # review pairs: 4 ads running today (index into current_ads) next to the same products in our campaign
-    "compare": {"before": {"label": "רץ היום", "picks": [0, 4, 5, 10]},
-                "after": {"label": "ככה היינו עושים את זה", "ads": [1, 8, 5, 7]}},
+    "compare": {"before": {"label": "ככה זה נראה היום", "picks": [0, 4, 5, 10]},
+                "after": {"label": "וככה אנחנו היינו עושים את זה", "ads": [1, 8, 5, 7]}},
     "strip": [1, 15, 5, 9, 17, 19, 13, 3],
     "split": {"ad": 15, "eyebrow": "הדגל שלכם", "title": ["ריח שממלא", "את כל", "החלל."],
               "text": "עד 150 מ״ר. אידוי תמצית שמן בושם בלי מים, בלי גז ובלי אלכוהול. תזמון ימים ושעות ישר מהנייד, וריח שנשאר בחלל גם כשהמכשיר כבוי.",

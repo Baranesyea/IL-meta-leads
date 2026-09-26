@@ -50,25 +50,31 @@ const CSS = `
 @keyframes fu{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:none}}
 /* larger screens: the whole portrait (face to pendant) on the left, melting into its own dark green;
    the words on the right over that same dark — the product is never cropped out of the hero */
-@media (min-width:761px) and (min-aspect-ratio:7/5){.bp .hero{background:#010c0b}
+@media (min-width:761px) and (min-aspect-ratio:1/1){.bp .hero{background:#010c0b}
   .bp .hero .bg{inset:-4% auto -4% 0;width:min(64%, calc(108svh * .805));background-position:center 45%;
     -webkit-mask-image:linear-gradient(to left,transparent 0,#000 26%);mask-image:linear-gradient(to left,transparent 0,#000 26%)}
   .bp .hero .shade{background:linear-gradient(0deg,rgba(1,12,11,.55) 0%,rgba(1,12,11,0) 30%)}}
-/* phones and portrait tablets: the words first, the photo BELOW them in its own box — never under the words
-   or the button, whatever the screen height (a short phone used to push the button onto the face) */
-@media (max-width:760px), (max-aspect-ratio:7/5){.bp .hero{background:#010c0b;height:auto;min-height:100svh;display:flex;flex-direction:column}
-  .bp .hero .bg{position:relative;inset:auto;flex:1 0 auto;min-height:max(50svh,340px);margin-top:26px;order:2;
-    background-position:var(--hero-pos-m,center 30%);transform-origin:center bottom;
-    -webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 12%);mask-image:linear-gradient(to bottom,transparent 0,#000 12%)}
-  .bp .hero .shade{display:none}
-  .bp .hero .copy{position:relative;right:auto;bottom:auto;max-width:none;padding:96px 22px 0;order:1}
-  .bp .hero .eyebrow{font-size:15px}
-  .bp .hero h1 .b{font-size:52px}.bp .hero h1 .l{font-size:44px}
+/* narrower landscape screens (tablets, small laptops): the portrait takes at most half, the words the other half */
+@media (min-width:761px) and (min-aspect-ratio:1/1) and (max-aspect-ratio:7/5){
+  .bp .hero .bg{width:min(50%, calc(108svh * .805))}.bp .hero .copy{max-width:46vw;padding-left:3vw}
+  .bp .hero h1 .b{font-size:min(7vw,84px)}.bp .hero h1 .l{font-size:min(6vw,72px)}}
+/* phones and portrait tablets: one full-bleed photo (a tall version with room above the subject, hero_bg_m),
+   the words on the photo's own dark top; the button either there or at the bottom (hero_cta_m) — never over a
+   face or the product */
+@media (max-width:760px), (max-aspect-ratio:1/1){.bp .hero{background:#010c0b}
+  .bp .hero .bg{inset:-3% 0 -3% 0;background-image:var(--hero-m) !important;background-size:cover;background-position:var(--hero-pos-m,center top)}
+  .bp .hero .shade{display:block;background:linear-gradient(180deg,rgba(4,4,3,.62) 0%,rgba(4,4,3,.34) 26%,rgba(4,4,3,0) 44%),
+    linear-gradient(0deg,rgba(4,4,3,.5) 0%,rgba(4,4,3,0) 22%)}
+  .bp .hero .copy{top:92px;bottom:auto;max-width:none;padding:0 22px}
+  .bp .hero .eyebrow{font-size:14px}
+  .bp .hero h1{margin-top:12px}
+  .bp .hero h1 .b{font-size:50px}.bp .hero h1 .l{font-size:42px}
   .bp .hero .sig{display:none}
-  .bp .hero .go{margin-top:24px;padding:14px 22px;font-size:16px}}
-@media (min-width:761px) and (max-aspect-ratio:7/5){.bp .hero .copy{padding:120px 8vw 0}
-  .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}
-  .bp .hero .bg{min-height:52svh;background-size:contain;background-repeat:no-repeat;background-position:center bottom}}  /* whole photo, product included */
+  .bp .hero .go{margin-top:22px;padding:13px 20px;font-size:15px}
+  .bp .hero.cta-bottom .copy{bottom:8svh;display:flex;flex-direction:column;align-items:flex-start}
+  .bp .hero.cta-bottom .go{margin-top:auto}}
+@media (min-width:761px) and (max-aspect-ratio:1/1){.bp .hero .copy{top:120px;padding:0 8vw}
+  .bp .hero h1 .b{font-size:84px}.bp .hero h1 .l{font-size:72px}}
 
 /* call-to-action link used in the hero and after the review */
 .bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
@@ -144,24 +150,24 @@ html:has(.bp){scroll-behavior:smooth}
 @media (max-width:980px){.bp .ins{grid-template-columns:1fr 1fr}.bp .ins > div:nth-child(2){border-left:0}}
 @media (max-width:560px){.bp .ins{grid-template-columns:1fr}.bp .ins > div{border-left:0;border-bottom:1px solid #dcd1c1;padding:30px 0 40px}}
 
-/* review pairs: their ad today | the same product our way */
-.bp .pairs{background:var(--paper);padding:10px 0 20px}
-.bp .pairs .grid{display:grid;grid-template-columns:1fr 1fr;gap:56px 48px}
-.bp .pair{display:flex;gap:10px;align-items:flex-end}
-.bp .pair .cell{min-width:0}
-.bp .pair .lab{font-size:15px;letter-spacing:.04em;color:var(--muted);margin:0 0 10px;white-space:nowrap}
-.bp .pair .lab.ours{color:var(--ink);font-weight:900}
-.bp .pair .cur{position:relative;overflow:hidden;background:#e9e1d4}
-.bp .pair .cur img{display:block;width:100%;height:auto}
-.bp .pair .cur .play{position:absolute;top:10px;left:10px;width:30px;height:30px;border-radius:50%;background:rgba(10,8,6,.55);
-  color:#fff;display:grid;place-items:center;font-size:12px;padding-left:2px;backdrop-filter:blur(4px)}
-.bp .pairs .issues{padding-top:110px}
-.bp .pairs .issues h2{margin:14px 0 0;line-height:1.05}
-.bp .pairs .issues h2 .b{display:block;font-weight:900;font-size:clamp(34px,4.4vw,60px)}
-.bp .pairs .issues h2 .l{display:block;font-weight:300;font-size:clamp(30px,3.9vw,54px)}
-@media (max-width:880px){.bp .pairs .grid{grid-template-columns:1fr;gap:40px}}
-@media (max-width:540px){.bp .pairs .grid{margin:0 -24px}.bp .pair{gap:4px}.bp .pair .lab{padding:0 12px;font-size:14px}
-  .bp .pairs .issues{padding-top:80px}}
+/* review: their ads today, small — then ours, big */
+.bp .today{background:var(--paper);padding:0 0 20px}
+.bp .today .lab{font-size:clamp(20px,2vw,26px);font-weight:300;margin:0 0 16px;color:var(--muted)}
+.bp .today .lab.ours{font-weight:900;color:var(--ink);font-size:clamp(26px,2.8vw,38px);margin:70px 0 20px}
+.bp .today .theirs{display:flex;gap:8px;align-items:flex-start;max-width:560px}
+.bp .today .cur{position:relative;overflow:hidden;background:#e9e1d4;min-width:0}
+.bp .today .cur img{display:block;width:100%;height:auto;filter:saturate(.9)}
+.bp .today .cur .play{position:absolute;top:6px;left:6px;width:20px;height:20px;border-radius:50%;background:rgba(10,8,6,.55);
+  color:#fff;display:grid;place-items:center;font-size:8px;padding-left:1px}
+.bp .today .mine{display:flex;flex-direction:column;gap:22px}
+.bp .today .mine .row{display:flex;gap:22px;align-items:flex-start}
+.bp .today .mine .card{min-width:0}
+.bp .today .issues{padding-top:110px}
+.bp .today .issues h2{margin:14px 0 0;line-height:1.05}
+.bp .today .issues h2 .b{display:block;font-weight:900;font-size:clamp(34px,4.4vw,60px)}
+.bp .today .issues h2 .l{display:block;font-weight:300;font-size:clamp(30px,3.9vw,54px)}
+@media (max-width:540px){.bp .today .theirs{gap:4px;max-width:none}.bp .today .lab.ours{margin:50px 0 16px}
+  .bp .today .mine{gap:4px;margin:0 -24px}.bp .today .mine .row{gap:4px}.bp .today .issues{padding-top:80px}}
 
 /* angles */
 .bp .angle{padding:120px 0;border-top:1px solid #e1d7c8}
@@ -429,8 +435,8 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </header>
 
       {/* HERO — the brand's own campaign, full screen */}
-      <section className="hero">
-        <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
+      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""}`}>
+        <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, "--hero-m": `url(${r.hero_bg_m || r.hero_bg})`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
         <div className="shade" />
         <div className="copy">
           <div className="eyebrow fadein d1">{r.hero_eyebrow}</div>
@@ -452,27 +458,31 @@ export default function ClientPitch({ slug: fixedSlug }) {
           <p className="reveal">{rv.text}</p>
         </div>
       </section>
-      {/* right under the review: what runs today next to how we'd do it, pair by pair */}
+      {/* right under the review: their four ads small (what runs today), then ours big */}
       {r.compare && (
-        <section className="pairs">
-          <div className="wrap grid">
-            {r.compare.before.items.map((it, i) => {
-              const a = ad(r.compare.after.ads[i]);
-              if (!a) return null;
-              const ar1 = it.w / it.h, ar2 = a.spec.w / a.spec.h;
-              return (
-                <div key={i} className="pair reveal" style={{ transitionDelay: `${(i % 2) * 120}ms` }}>
-                  <div className="cell" style={{ flex: `${ar1 * 100} 1 0` }}>
-                    <div className="lab">{r.compare.before.label}</div>
-                    <div className="cur"><img src={it.img} alt="" loading="lazy" />{it.video && <span className="play" aria-hidden="true">▶</span>}</div>
-                  </div>
-                  <div className="cell" style={{ flex: `${ar2 * 100} 1 0` }}>
-                    <div className="lab ours">{r.compare.after.label}</div>
-                    <div className="card" onClick={() => setOpen(a)}><AdCanvas spec={a.spec} img={a.img} brand={b.name} /></div>
-                  </div>
+        <section className="today">
+          <div className="wrap">
+            <div className="lab reveal">{r.compare.before.label}</div>
+            <div className="theirs reveal">
+              {r.compare.before.items.map((it, i) => (
+                <div key={i} className="cur" style={{ flex: `${(it.w / it.h) * 100} 1 0` }}>
+                  <img src={it.img} alt="" loading="lazy" />
+                  {it.video && <span className="play" aria-hidden="true">▶</span>}
                 </div>
-              );
-            })}
+              ))}
+            </div>
+            <div className="lab ours reveal">{r.compare.after.label}</div>
+            <div className="mine">
+              {chunk((r.compare.after.ads || []).map(ad).filter(Boolean), cols === 1 ? 2 : 4).map((row, ri) => (
+                <div key={ri} className="row">
+                  {row.map((a, k) => (
+                    <div key={a.no} className="card reveal" style={{ transitionDelay: `${k * 90}ms`, flex: `${(a.spec.w / a.spec.h) * 100} 1 0` }} onClick={() => setOpen(a)}>
+                      <AdCanvas spec={a.spec} img={a.img} brand={b.name} />
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
           </div>
           {rv.issues && <div className="wrap issues reveal"><div className="eyebrow">{rv.issues_eyebrow}</div><h2>{two(rv.issues[0], rv.issues[1])}</h2></div>}
         </section>

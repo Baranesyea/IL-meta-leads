@@ -6,6 +6,10 @@ from src.site_export import _read, _write, export_current
 R = _read()
 st = R["stav-56f5e275"]
 lead = json.load(open("data/leads/2026-09-25-076.json"))
+# phones: the hero outpainted to 9:16 (Higgsfield) + the plain dark top extended, so the words and the button
+# sit on the photo above her head
+st["hero_bg_m"] = "/reports/stav/hero_m.webp"
+st["hero_pos_m"] = "center top"
 st["review"] = {
     "eyebrow": "עברנו על הקמפיין שלך",
     "title": ["הקמפיין שלך עובד.", "והוא יכול להכניס הרבה יותר."],
@@ -14,6 +18,6 @@ st["review"] = {
     "issues": ["ארבעה דברים", "שהיינו משנים כבר מחר."],
 }
 # pairs: her ad running today -> the same product our way
-st["compare"] = {"before": {"label": "רץ היום", "items": export_current(lead, "stav", [0, 2, 5, 3])},
-                 "after": {"label": "ככה היינו עושים את זה", "ads": [1, 18, 5, 13]}}
+st["compare"] = {"before": {"label": "ככה זה נראה היום", "items": export_current(lead, "stav", [0, 2, 5, 3])},
+                 "after": {"label": "וככה אנחנו היינו עושים את זה", "ads": [1, 18, 5, 13]}}
 _write(R)

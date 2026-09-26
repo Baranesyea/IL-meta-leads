@@ -765,7 +765,7 @@ export const REPORTS = {
   },
   "compare": {
    "before": {
-    "label": "רץ היום",
+    "label": "ככה זה נראה היום",
     "items": [
      {
       "img": "/reports/stav/cur_01.webp",
@@ -794,7 +794,7 @@ export const REPORTS = {
     ]
    },
    "after": {
-    "label": "ככה היינו עושים את זה",
+    "label": "וככה אנחנו היינו עושים את זה",
     "ads": [
      1,
      18,
@@ -802,7 +802,9 @@ export const REPORTS = {
      13
     ]
    }
-  }
+  },
+  "hero_bg_m": "/reports/stav/hero_m.webp",
+  "hero_pos_m": "center top"
  },
  "bscents-97198747": {
   "slug": "bscents-97198747",
@@ -1459,6 +1461,8 @@ export const REPORTS = {
    "ריח של מלון.",
    "בבית שלכם."
   ],
+  "hero_bg_m": "/reports/bscents/hero_m.webp",
+  "hero_pos_m": "0% 0%",
   "hero_cta": "מה היינו משנים בקמפיין שלכם",
   "review": {
    "eyebrow": "עברנו על הקמפיין שלכם",
@@ -1526,7 +1530,7 @@ export const REPORTS = {
   ],
   "compare": {
    "before": {
-    "label": "רץ היום",
+    "label": "ככה זה נראה היום",
     "items": [
      {
       "img": "/reports/bscents/cur_01.webp",
@@ -1555,7 +1559,7 @@ export const REPORTS = {
     ]
    },
    "after": {
-    "label": "ככה היינו עושים את זה",
+    "label": "וככה אנחנו היינו עושים את זה",
     "ads": [
      1,
      8,
