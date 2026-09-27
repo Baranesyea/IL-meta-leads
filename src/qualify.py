@@ -210,11 +210,42 @@ def _add_ad_contacts(x: dict, ad_texts: list[dict], lead: dict) -> None:
                 x["phones"].append((n, src, any(w in ctx for w in ("וואטסאפ", "ווטסאפ", "whatsapp"))))
 
 
+CTA_PHONE = re.compile(r"api\.whatsapp\.com\\?/send\?phone=(\d{11,13})")
+
+
+def _wa_from_cta_ads(lead: dict, browser: web.AdLibraryBrowser) -> tuple[str, str] | None:
+    """Ads with a "send WhatsApp message" button: the ad's library page often carries the exact number the button
+    opens (api.whatsapp.com/send?phone=972...). That is the line the business answers its ad traffic on."""
+    ads = [a for a in lead["meta"].get("sample_ads", []) if a.get("cta_type") == "WHATSAPP_MESSAGE"]
+    for ad in ads[:3]:
+        try:
+            html, _ = browser.ad_snapshot(ad["ad_id"])
+        except Exception as e:  # noqa: BLE001
+            log.warning("ad %s snapshot failed: %s", ad["ad_id"], e)
+            continue
+        for m in CTA_PHONE.finditer(html):
+            if n := normalize_il_mobile(m.group(1)):
+                return n, f"https://www.facebook.com/ads/library/?id={ad['ad_id']}"
+    return None
+
+
 def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
     home, landings, ad_texts = _site_from_ads(lead, browser)
     lead["meta"]["ad_snapshots"] = ad_texts
     lead["meta"]["landing_urls"] = landings
     q = lead.setdefault("qualify", {})
+    cta_wa = _wa_from_cta_ads(lead, browser)
+    if cta_wa:
+        q["whatsapp_from_ad_button"] = {"number_e164": cta_wa[0], "source": cta_wa[1]}
+    if not home and cta_wa:
+        # WhatsApp track: the ad sends people straight to WhatsApp, so a website is not required
+        c = lead["contact"]
+        c["whatsapp"] = {"number_e164": cta_wa[0], "source": cta_wa[1], "confidence": "high",
+                         "kind": "unclear", "kind_signals": ["no website; number from the ad's WhatsApp button"]}
+        q["missing"] = []
+        db.set_status(lead, "qualified")
+        log.info("QUALIFIED %s (WhatsApp button, no website) %s", lead["lead_id"], cta_wa[0])
+        return
     if not home:
         x = {"wa": [], "phones": []}
         _add_ad_contacts(x, ad_texts, lead)
@@ -240,7 +271,7 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
 
     site_pages = [u for u, _ in pages if db.normalize_domain(u) == domain]
     q["site_blocked"] = not site_pages
-    if site_pages and not x["store_hits"]:
+    if site_pages and not x["store_hits"] and lead["meta"].get("track") != "wa":
         db.set_status(lead, "rejected", "website is not a store (no cart / store platform)")
         log.info("REJECT %s %s — not a store", lead["lead_id"], domain)
         return
@@ -266,8 +297,10 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
                                     "source": cand["source"],
                                     "confidence": "high" if cand["kind"] == "link" else "medium"}
             break
-    # WhatsApp: explicit wa.me link > number labelled WhatsApp > nothing
-    if x["wa"]:
+    # WhatsApp: the number the ad button opens > explicit wa.me link > number labelled WhatsApp > nothing
+    if cta_wa:
+        c["whatsapp"] = {"number_e164": cta_wa[0], "source": cta_wa[1], "confidence": "high"}
+    elif x["wa"]:
         n, src = Counter(x["wa"]).most_common(1)[0][0]
         c["whatsapp"] = {"number_e164": n, "source": src, "confidence": "high"}
     else:

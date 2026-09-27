@@ -43,19 +43,20 @@ def save_state(state: dict) -> None:
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def next_keyword(cfg: dict, state: dict) -> str:
-    kws = cfg["discovery"]["keywords"]
-    return kws[state["next_index"] % len(kws)]
+def next_keyword(cfg: dict, state: dict, track: str = "product") -> str:
+    kws = cfg["discovery"]["wa_keywords" if track == "wa" else "keywords"]
+    return kws[state.get("wa_next_index" if track == "wa" else "next_index", 0) % len(kws)]
 
 
 def advance_keyword(state: dict, keyword: str, source: str, advertisers: int,
-                    keywords: list[str]) -> None:
+                    keywords: list[str], track: str = "product") -> None:
     # Continue from the keyword after the one just used.
+    key = "wa_next_index" if track == "wa" else "next_index"
     if keyword in keywords:
-        state["next_index"] = (keywords.index(keyword) + 1) % len(keywords)
+        state[key] = (keywords.index(keyword) + 1) % len(keywords)
     else:
-        state["next_index"] += 1
-    state["history"].append({"date": today(), "keyword": keyword, "source": source,
+        state[key] = state.get(key, 0) + 1
+    state["history"].append({"date": today(), "keyword": keyword, "source": source, "track": track,
                              "advertisers": advertisers, "at": now_iso()})
 
 
@@ -166,23 +167,31 @@ def from_apify(keyword: str, cfg: dict) -> list[dict]:
     return group_by_page(ads, keyword)
 
 
-def from_playwright(keyword: str, cfg: dict, browser) -> list[dict]:
+def is_wa_ad(ad: dict) -> bool:
+    """The ad's button opens a WhatsApp chat."""
+    u = (ad.get("landing_url") or "").lower()
+    return ad.get("cta_type") == "WHATSAPP_MESSAGE" or "api.whatsapp.com" in u or "wa.me/" in u
+
+
+def from_playwright(keyword: str, cfg: dict, browser, track: str = "product") -> list[dict]:
     from .web import flatten_ad
 
     total, raw = browser.search(keyword, cfg["country"], cfg["discovery"]["max_ads_per_keyword"])
     ads = [flatten_ad(a) for a in raw]
+    if track == "wa":
+        ads = [a for a in ads if is_wa_ad(a)]
     RAW_DISCOVER.mkdir(parents=True, exist_ok=True)
-    (RAW_DISCOVER / f"{today()}_{keyword.replace(' ', '_')}.pw.json").write_text(
-        json.dumps({"source": "ad_library_playwright", "keyword": keyword, "fetched_at": now_iso(),
+    (RAW_DISCOVER / f"{today()}_{'wa_' if track == 'wa' else ''}{keyword.replace(' ', '_')}.pw.json").write_text(
+        json.dumps({"source": "ad_library_playwright", "track": track, "keyword": keyword, "fetched_at": now_iso(),
                     "estimated_total_count": total, "ads": ads}, ensure_ascii=False, indent=1),
         encoding="utf-8")
-    log.info("playwright keyword=%r total=%s fetched=%d", keyword, total, len(ads))
+    log.info("playwright track=%s keyword=%r total=%s kept=%d", track, keyword, total, len(ads))
     return group_by_page(ads, keyword)
 
 
 # ---------- entry ----------
 
-def run(browser=None, keyword: str | None = None) -> list[dict]:
+def run(browser=None, keyword: str | None = None, track: str = "product") -> list[dict]:
     """Discover new advertisers and register them in the DB as `discovered`."""
     from . import db
 
@@ -200,12 +209,12 @@ def run(browser=None, keyword: str | None = None) -> list[dict]:
     elif backend == "playwright":
         from .web import AdLibraryBrowser
 
-        kw = keyword or next_keyword(cfg, state)
+        kw = keyword or next_keyword(cfg, state, track)
         if browser is None:
             with AdLibraryBrowser() as b:
-                batches = [(None, kw, from_playwright(kw, cfg, b))]
+                batches = [(None, kw, from_playwright(kw, cfg, b, track))]
         else:
-            batches = [(None, kw, from_playwright(kw, cfg, browser))]
+            batches = [(None, kw, from_playwright(kw, cfg, browser, track))]
     elif backend == "apify":
         kw = next_keyword(cfg, state)
         batches = [(None, kw, from_apify(kw, cfg))]
@@ -228,6 +237,7 @@ def run(browser=None, keyword: str | None = None) -> list[dict]:
                 "cta_types": adv["cta_types"],
                 "page_like_count": adv["page_like_count"],
                 "page_categories": adv["page_categories"],
+                "track": track,
             })
             lead["contact"]["facebook_page"]["url"] = adv["page_url"]
             db.save_lead(lead)
@@ -236,6 +246,7 @@ def run(browser=None, keyword: str | None = None) -> list[dict]:
         log.info("keyword=%r: %d advertisers, %d new", kw, len(advertisers), added)
         if fname:
             state["ingested_files"].append(fname)
-        advance_keyword(state, kw, backend, added, cfg["discovery"]["keywords"])
+        advance_keyword(state, kw, backend, added,
+                        cfg["discovery"]["wa_keywords" if track == "wa" else "keywords"], track)
     save_state(state)
     return new

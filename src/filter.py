@@ -3,6 +3,8 @@
 Hard rejects (logged with reject_reason, never re-checked):
   - big chain / known brand (config.filter.brand_blocklist)
   - service / course / clinic / lead-gen signals (config.filter.service_keywords)
+    WhatsApp track (meta.track == "wa"): services are allowed; only urgent ones are rejected
+    (config.filter.urgent_service_keywords)
   - not Israeli (no ILS currency and no Hebrew anywhere)
   - fewer than min_active_ads active ads, or more than max_active_ads (big advertiser)
   - domain already in DB (only once a website is known)
@@ -64,13 +66,19 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
     signals["product_score"] = (len(signals["product_hits"]) - 2 * len(signals["service_hits"])
                                 + 2 * len(ctas & set(f.get("shop_ctas", []))))
 
+    wa_track = meta.get("track") == "wa"
     if signals["brand_hits"]:
         return False, f"big brand/chain: {', '.join(signals['brand_hits'])}", signals
-    if signals["service_hits"] and signals["product_score"] <= 0:
+    if wa_track:
+        # WhatsApp track: services are fine, except urgent ones (people google a plumber, they don't scroll to one)
+        signals["urgent_hits"] = _hits(text, f.get("urgent_service_keywords", []))
+        if signals["urgent_hits"]:
+            return False, f"urgent service: {', '.join(signals['urgent_hits'])}", signals
+    elif signals["service_hits"] and signals["product_score"] <= 0:
         return False, f"service/course/lead-gen: {', '.join(signals['service_hits'])}", signals
     if likes and likes > f.get("max_page_likes", 10**9):
         return False, f"{likes:,} page likes — too big", signals
-    if ctas and ctas <= set(f.get("leadgen_ctas", [])):
+    if not wa_track and ctas and ctas <= set(f.get("leadgen_ctas", [])):
         return False, f"lead-gen CTA only ({', '.join(sorted(ctas))})", signals
     israeli = signals["hebrew"] or any(c in f["accepted_currencies"] for c in signals["currencies"])
     if not israeli:

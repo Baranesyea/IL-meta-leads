@@ -94,7 +94,7 @@ def cmd_find(args):
             have = sum(owner(l) for l in db.leads_by_status("qualified", "researched", "approved", date=today()))
             if have >= target:
                 break
-            new = discover.run(browser)
+            new = discover.run(browser, track=args.track)
             kept, rejected = flt.run(browser)
             done = qualify.run(browser=browser)
             ok = [l for l in done if l["status"] == "qualified"]
@@ -152,6 +152,8 @@ def main():
     ip.set_defaults(func=cmd_internal)
     fd = sub.add_parser("find")
     fd.add_argument("--max-keywords", type=int, default=8)
+    fd.add_argument("--track", choices=["product", "wa"], default="product",
+                    help="wa = only advertisers whose ads open a WhatsApp chat (services allowed, urgent ones not)")
     fd.set_defaults(func=cmd_find)
     s = sub.add_parser("status")
     s.add_argument("date", nargs="?")

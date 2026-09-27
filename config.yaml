@@ -11,6 +11,38 @@ discovery:
   backend: playwright
   apify_actor: curious_coder~facebook-ads-library-scraper
   max_ads_per_keyword: 120
+  # WhatsApp track: phrases that ads with a "send WhatsApp message" button use; only those ads are kept
+  wa_keywords:
+    - וואטסאפ
+    - שלחו הודעה
+    - שלחו לנו הודעה
+    - דברו איתנו
+    - לפרטים בוואטסאפ
+    - להזמנה בוואטסאפ
+    - הזמנות בוואטסאפ
+    - שלחו וואטסאפ
+    - כתבו לנו
+    - בהודעה פרטית
+    - הצעת מחיר
+    - לתיאום
+    - תכשיטים בהזמנה אישית
+    - עוגות מעוצבות
+    - מגשי אירוח
+    - זרי פרחים
+    - מארזי מתנה
+    - רהיטים
+    - מזרנים
+    - ריהוט גן
+    - שמלות ערב
+    - בגדי ילדים
+    - עיצוב אירועים
+    - בלונים
+    - הדפסה על
+    - שלטים
+    - סדנה
+    - צילום משפחה
+    - מטבחים
+    - פרגולות
   # Rotated one per run; progress kept in data/keyword_state.json
   keywords:
     - קוסמטיקה
@@ -152,6 +184,42 @@ filter:
     - טלאביב
     - cellcom
     - סלקום
+  # WhatsApp track (Eran, 2026-09-27): services are welcome, except urgent ones people google when they need them now
+  urgent_service_keywords:
+    - אינסטלטור
+    - אינסטלציה
+    - סתימה
+    - סתימות
+    - ביוב
+    - מנעולן
+    - פריצת דלת
+    - פריצת רכב
+    - חשמלאי
+    - תקלת חשמל
+    - טכנאי
+    - תיקון מזגנים
+    - מיזוג אוויר
+    - תיקון מקררים
+    - תיקון מכונות כביסה
+    - תיקון דודים
+    - דוד שמש
+    - גרירה
+    - גרר
+    - שירותי דרך
+    - הדברה
+    - מדביר
+    - נזילה
+    - נזילות
+    - איטום
+    - זגג
+    - זגגות
+    - חירום
+    - 24/7
+    - 24 שעות
+    - דחוף
+    - שמאי
+    - תיקון רכב
+    - מוסך
   # Words in page name / ad titles that indicate a service, course, clinic, lead-gen
   service_keywords:
     - אקדמיה
