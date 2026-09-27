@@ -1394,7 +1394,17 @@
       "https://painless-online.com/pages/flexback-adv2",
       "https://painless-online.com/pages/flexback10",
       "https://painless-online.com/pages/flexback5"
-    ]
+    ],
+    "freshness": {
+      "active_count": 131,
+      "active_seen": 30,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-19",
+      "oldest_start": "2026-06-20",
+      "days_since_newest": 8,
+      "stale": false,
+      "complete": false
+    }
   },
   "current_ads": [],
   "products": [],

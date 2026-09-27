@@ -328,6 +328,9 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         elif x["phones"]:
             n, src, _ = x["phones"][0]
             q["mobile_not_labelled_whatsapp"] = {"number_e164": n, "source": src}
+            if lead["meta"].get("track") == "clinic":
+                # clinics publish a mobile for bookings; nobody said it is on WhatsApp, so medium confidence
+                c["whatsapp"] = {"number_e164": n, "source": src, "confidence": "medium"}
     if x["emails"]:
         lead["business"]["email"] = x["emails"][0]
 
@@ -342,7 +345,8 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         from .wa_kind import classify
         kind, sig = classify(lead)
         c["whatsapp"].update(kind=kind, kind_signals=sig)
-        if kind == "service":
+        # WhatsApp-first tracks ask in the message whether it will reach the owner, so a service line is fine there
+        if kind == "service" and lead["meta"].get("track") not in ("wa", "clinic"):
             missing.append("owner_whatsapp")   # a customer-service line reaches a rep, not the person who decides
     q["missing"] = missing
     db.set_status(lead, "unqualified" if missing else "qualified")
