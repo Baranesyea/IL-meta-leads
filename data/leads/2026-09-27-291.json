@@ -819,7 +819,17 @@
     ],
     "landing_urls": [
       "https://www.dr-regev.com/"
-    ]
+    ],
+    "freshness": {
+      "active_count": 18,
+      "active_seen": 18,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-09",
+      "oldest_start": "2026-01-13",
+      "days_since_newest": 18,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],
