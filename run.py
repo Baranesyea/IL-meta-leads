@@ -99,8 +99,9 @@ def cmd_find(args):
             done = qualify.run(browser=browser)
             ok = [l for l in done if l["status"] == "qualified"]
             own = [l for l in ok if owner(l)]
+            stale = [l["lead_id"] for l in own if (l["meta"].get("freshness") or {}).get("stale")]
             print(f"[{i + 1}/{max_kw}] new={len(new)} filtered={len(kept)} rejected={len(rejected)} "
-                  f"qualified={len(ok)} owner_wa={len(own)} (today total {have + len(own)}/{target})")
+                  f"qualified={len(ok)} owner_wa={len(own)} stale={stale} (today total {have + len(own)}/{target})")
     report_qualify(db.leads_by_status("qualified", date=today()))
     log.info("stages 4-5 (collect/research) not implemented yet")
 
@@ -109,6 +110,9 @@ def cmd_status(args):
     for lead in db.leads_by_status(date=args.date):
         m = lead["meta"]
         extra = f"  — {lead['reject_reason']}" if lead.get("reject_reason") else ""
+        fr = m.get("freshness") or {}
+        if fr.get("stale"):
+            extra += f"  STALE: newest ad {fr['days_since_newest']}d old"
         print(f"{lead['lead_id']}  {lead['status']:<11} {m['page_name']}  "
               f"ads={m.get('active_ads_count')}{extra}")
 

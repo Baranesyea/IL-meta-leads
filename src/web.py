@@ -172,10 +172,11 @@ class AdLibraryBrowser:
                   f"&media_type=all&q={quote(keyword)}&search_type=keyword_unordered")
         return self._library_query(params, max_ads)
 
-    def page_ads(self, page_id: str, country: str = "IL", max_ads: int = 30) -> tuple[int | None, list[dict]]:
+    def page_ads(self, page_id: str, country: str = "IL", max_ads: int = 30,
+                 scrolls: int = 1) -> tuple[int | None, list[dict]]:
         params = (f"active_status=active&ad_type=all&country={country}&is_targeted_country=false"
                   f"&media_type=all&search_type=page&view_all_page_id={page_id}")
-        return self._library_query(params, max_ads, scrolls=1)
+        return self._library_query(params, max_ads, scrolls=scrolls)
 
     def ad_snapshot(self, ad_id: str) -> tuple[str, str]:
         """Return (html, body_text) of the ad's Ad Library page. Cached."""

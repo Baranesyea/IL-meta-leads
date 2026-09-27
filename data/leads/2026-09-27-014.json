@@ -839,7 +839,16 @@
       "https://magnus-shop.co.il/search?q=%D7%9E%D7%97%D7%91%D7%AA+%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
       "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
       "https://magnus-shop.co.il/collections/salee"
-    ]
+    ],
+    "freshness": {
+      "active_count": 20,
+      "active_seen": 19,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-20",
+      "oldest_start": "2026-04-06",
+      "days_since_newest": 7,
+      "stale": false
+    }
   },
   "current_ads": [],
   "products": [],

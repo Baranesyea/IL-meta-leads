@@ -303,3 +303,12 @@
   looked at one moment. Look at the ads before the sale too. **Limit:** the Ad Library (web and the Meta MCP, status
   ALL) shows only currently active ads for Israeli commercial advertisers; ads that already stopped are gone. So we
   never claim "you didn't advertise before"; we talk about "the ads running now" and mention the season only in passing.
+
+## 2026-09-27 — campaign freshness rule
+- Eran: more than 10 active ads and none started in the last 30 days = a campaign nobody refreshes or optimises
+  = a great lead. `src/freshness.py` reads every active ad of the page (Ad Library page view, up to 200 ads,
+  20 scrolls) and stores `meta.freshness` {active_count, active_seen, newest_start, oldest_start,
+  days_since_newest, stale}. Runs inside `qualify.run` for qualified leads with >10 ads; `find` prints stale ids,
+  `status` shows "STALE". Manual: `python -m src.freshness <ids>`.
+- "When did the past ads stop" is not answerable: the IL Ad Library has no inactive commercial ads (see above).
+- First result: Billy (071) is stale — 12 ads, newest started 2026-04-14 (166 days).

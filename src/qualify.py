@@ -18,7 +18,7 @@ from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from . import db, web
+from . import freshness, db, web
 from .common import get_logger
 
 log = get_logger("qualify")
@@ -308,6 +308,10 @@ def run(lead_ids: list[str] | None = None, browser=None) -> list[dict]:
         for lead in leads:
             try:
                 qualify_lead(lead, browser)
+                if lead["status"] == "qualified" and (lead["meta"].get("active_ads_count") or 0) > freshness.MIN_ADS:
+                    fr = freshness.check(lead, browser)   # 10+ ads and nothing new in 30 days = a great lead
+                    db.save_lead(lead)
+                    log.info("freshness %s newest=%s stale=%s", lead["lead_id"], fr["newest_start"], fr["stale"])
             except Exception:  # noqa: BLE001 — one bad site must not stop the run
                 log.exception("qualify failed for %s", lead["lead_id"])
                 continue

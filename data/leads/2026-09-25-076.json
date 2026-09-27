@@ -1063,7 +1063,16 @@
       "https://stav-fine-jewelry.com/",
       "https://stav-fine-jewelry.com/collections/mascots-and-symbols",
       "https://stav-fine-jewelry.com/collections/all-jewelry"
-    ]
+    ],
+    "freshness": {
+      "active_count": 22,
+      "active_seen": 22,
+      "checked": "2026-09-27",
+      "newest_start": "2026-06-02",
+      "oldest_start": "2025-03-24",
+      "days_since_newest": 117,
+      "stale": true
+    }
   },
   "current_ads": [
     {

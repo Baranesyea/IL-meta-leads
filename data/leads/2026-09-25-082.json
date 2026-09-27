@@ -785,7 +785,16 @@
       "https://www.moon-woman-center.com/lotus-candle-holders",
       "https://www.moon-woman-center.com/onlinestore",
       "https://www.moon-woman-center.com/course"
-    ]
+    ],
+    "freshness": {
+      "active_count": 17,
+      "active_seen": 17,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-03-23",
+      "days_since_newest": 5,
+      "stale": false
+    }
   },
   "current_ads": [],
   "products": [],

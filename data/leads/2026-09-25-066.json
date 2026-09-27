@@ -1330,7 +1330,16 @@
       "https://b-scents.co.il/product-category/%D7%9E%D7%91%D7%A9%D7%9E%D7%99-%D7%91%D7%93%D7%99%D7%9D/",
       "https://b-scents.co.il/product-category/perfume/",
       "https://b-scents.co.il/product-category/%d7%9e%d7%91%d7%a9%d7%9e%d7%99-%d7%91%d7%93%d7%99%d7%9d/"
-    ]
+    ],
+    "freshness": {
+      "active_count": 28,
+      "active_seen": 28,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-21",
+      "oldest_start": "2026-02-27",
+      "days_since_newest": 6,
+      "stale": false
+    }
   },
   "current_ads": [
     {

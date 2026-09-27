@@ -59,6 +59,13 @@ Keep the advertiser only if ALL are true:
 
 Log rejected advertisers with a `reject_reason` so we never re-check them.
 
+**Campaign freshness (Eran, 2026-09-27).** When a page has **more than 10 active ads**, check their start dates
+(`src/freshness.py`, runs inside qualify). If **not one ad started in the last 30 days**, the lead is `stale` and it is
+a *great* lead: someone built and launched a campaign, and nobody refreshed or optimised it since. Prioritise it, and
+use it in the pitch ("your newest ad started N months ago"). Stored in `meta.freshness`.
+Limit: for Israeli commercial ads the Ad Library shows only ads running now; ads already switched off are not
+public, so we can't tell when the last ones stopped, and we never claim anything about ads we can't see.
+
 ---
 
 ## Stage 3 — QUALIFY (hard gate)

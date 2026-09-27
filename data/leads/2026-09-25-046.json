@@ -1277,7 +1277,16 @@
       "https://www.onlys.co.il/beauty/perfume/narciso-rodriguez/000000000000131534.html",
       "https://www.onlys.co.il/on/demandware.store/Sites-onlys-Site/iw_IL/Default-Start?utm_source=%7b%7bsite_source_name%7d%7d&utm_medium=ads&utm_campaign=performance-dynamic&utm_content=%7b%7bad%2eid%7d%7d",
       "https://www.onlys.co.il/beauty/perfume/issey-miyake"
-    ]
+    ],
+    "freshness": {
+      "active_count": 102,
+      "active_seen": 30,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-05-12",
+      "days_since_newest": 5,
+      "stale": false
+    }
   },
   "current_ads": [],
   "products": [],
