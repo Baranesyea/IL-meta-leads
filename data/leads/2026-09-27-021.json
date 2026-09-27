@@ -691,7 +691,17 @@
     ],
     "landing_urls": [
       "https://www.bendastore.co.il/miracase-main/"
-    ]
+    ],
+    "freshness": {
+      "active_count": 13,
+      "active_seen": 13,
+      "checked": "2026-09-27",
+      "newest_start": "2026-08-27",
+      "oldest_start": "2026-08-06",
+      "days_since_newest": 31,
+      "stale": true,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],

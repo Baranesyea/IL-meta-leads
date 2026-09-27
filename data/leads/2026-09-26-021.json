@@ -655,7 +655,17 @@
       "https://megapet.co.il/deal/37",
       "https://megapet.co.il/product/12%D7%99%D7%97-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%A7%D7%A0%D7%99%D7%9F-%D7%A4%D7%90%D7%95%D7%A6%D7%99%D7%9D-%D7%9C%D7%97%D7%AA%D7%95%D7%9C/",
       "https://megapet.co.il/deal/38"
-    ]
+    ],
+    "freshness": {
+      "active_count": 12,
+      "active_seen": 12,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-02",
+      "oldest_start": "2026-05-27",
+      "days_since_newest": 25,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [
     {

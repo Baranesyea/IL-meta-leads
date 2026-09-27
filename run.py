@@ -112,7 +112,7 @@ def cmd_status(args):
         extra = f"  — {lead['reject_reason']}" if lead.get("reject_reason") else ""
         fr = m.get("freshness") or {}
         if fr.get("stale"):
-            extra += f"  STALE: newest ad {fr['days_since_newest']}d old"
+            extra += f"  STALE: newest ad {fr['days_since_newest']}d old" + ("" if fr.get("complete", True) else " (partial)")
         print(f"{lead['lead_id']}  {lead['status']:<11} {m['page_name']}  "
               f"ads={m.get('active_ads_count')}{extra}")
 

@@ -7,7 +7,7 @@ the Ad Library and store the newest and oldest start dates.
 Limit: for Israeli commercial ads the Ad Library shows only ads that are running now. Ads that were switched off
 are gone, so "when did the last ones stop" cannot be answered from public data.
 
-Result: lead["meta"]["freshness"] = {active_seen, newest_start, oldest_start, days_since_newest, stale, checked}.
+Result: lead["meta"]["freshness"] = {active_seen, newest_start, oldest_start, days_since_newest, stale, complete, checked}.
     python -m src.freshness <lead_id> ...
 """
 from __future__ import annotations
@@ -43,6 +43,8 @@ def check(lead: dict, browser: web.AdLibraryBrowser, today: date | None = None) 
                   days_since_newest=(today - starts[-1]).days)
         n = count or len(ads)
         fr["stale"] = n > MIN_ADS and fr["days_since_newest"] >= STALE_DAYS
+    # the page view sometimes stops loading at 30 ads; then a newer ad may be among the unseen ones
+    fr["complete"] = count is None or len(ads) >= count
     lead["meta"]["freshness"] = fr
     return fr
 
@@ -54,7 +56,7 @@ def run(ids: list[str]) -> None:
             fr = check(lead, b)
             db.save_lead(lead)
             name = lead["business"].get("name_he") or lead["meta"].get("page_name")
-            flag = "STALE (great lead)" if fr["stale"] else ""
+            flag = ("STALE (great lead)" if fr["stale"] else "") + ("" if fr["complete"] else f" (partial: {fr['active_seen']} of {fr['active_count']})")
             print(f"{lid}  ads={fr['active_count']} seen={fr['active_seen']}  newest={fr['newest_start']} "
                   f"({fr['days_since_newest']}d)  oldest={fr['oldest_start']}  {flag}  {name}")
 

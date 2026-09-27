@@ -714,7 +714,17 @@
       "https://tanahiyot.com/he/product-category/classic-sandals/",
       "https://tanahiyot.com/he/store/",
       "https://tanahiyot.com/he/shop/yair-barefoot/"
-    ]
+    ],
+    "freshness": {
+      "active_count": 15,
+      "active_seen": 15,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-21",
+      "oldest_start": "2026-03-18",
+      "days_since_newest": 6,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],

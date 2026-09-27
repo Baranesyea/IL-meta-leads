@@ -726,7 +726,17 @@
       "https://www.petsale.co.il/",
       "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan",
       "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/413310-Hills"
-    ]
+    ],
+    "freshness": {
+      "active_count": 15,
+      "active_seen": 15,
+      "checked": "2026-09-27",
+      "newest_start": "2026-06-03",
+      "oldest_start": "2025-06-09",
+      "days_since_newest": 116,
+      "stale": true,
+      "complete": true
+    }
   },
   "current_ads": [
     {

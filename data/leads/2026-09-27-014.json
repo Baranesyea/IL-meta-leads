@@ -847,7 +847,8 @@
       "newest_start": "2026-09-20",
       "oldest_start": "2026-04-06",
       "days_since_newest": 7,
-      "stale": false
+      "stale": false,
+      "complete": false
     }
   },
   "current_ads": [],

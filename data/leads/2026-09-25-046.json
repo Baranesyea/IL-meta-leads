@@ -1285,7 +1285,8 @@
       "newest_start": "2026-09-22",
       "oldest_start": "2026-05-12",
       "days_since_newest": 5,
-      "stale": false
+      "stale": false,
+      "complete": false
     }
   },
   "current_ads": [],

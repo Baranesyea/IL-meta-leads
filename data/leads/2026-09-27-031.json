@@ -797,7 +797,17 @@
     ],
     "landing_urls": [
       "https://softride.co.il/"
-    ]
+    ],
+    "freshness": {
+      "active_count": 17,
+      "active_seen": 17,
+      "checked": "2026-09-27",
+      "newest_start": "2026-07-26",
+      "oldest_start": "2024-09-29",
+      "days_since_newest": 63,
+      "stale": true,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],
