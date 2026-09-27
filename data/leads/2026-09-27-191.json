@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-191",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "104183621804188",
     "page_name": "Sportivo",
-    "active_ads_count": 1,
+    "active_ads_count": 14,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -60,8 +60,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1416036326945047"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 14,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 3616,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1416036326945047"
     ],
@@ -73,7 +89,569 @@
     "page_categories": [
       "Product/service"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "947045861457560",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "البوت اللي يعطيك فرق من أول مباراة ⚽🔥\n\nلما السرعة، الثبات، والتحكم يجتمعوا بتصميم واحد…\nبتحصل على بوت مصمّم للاعبين اللي بدهم أداء أعلى داخل الملعب.\n\nخفيف على القدم، مريح طول المباراة، ويساعدك تنطلق بثقة بكل حركة.\nمناسب للاعبين المحترفين ولكل لاعب بدو يطوّر لعبه ويختار معدّات صح.\n\n✅ بوت خفيف لا يعيق الحركة\n✅ تحكم أعلى بالكرة\n✅ انطلاق أسرع وثبات أقوى\n✅ راحة تدوم طول المباراة\n\nراسلنا الآن واستفسر عن المقاس المتوفر 👇\n📲 واتساب: 0527924336",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689247793_948121387932517_3360166681030425789_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lzVuXf44w8YQ7kNvwGLum_a&_nc_oc=Adph7YUgPaFo1xEP19QHNS37diY5OE-yb2Iw2x0WdZtHQbvANyQta4MMblbcZdTH9rs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQJqMgQUzlyjjAkKd8bI2TivjtN13zrUV1rz27heIVrD4Q&oe=6ABEB8A1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=947045861457560"
+      },
+      {
+        "id": "1322430823142841",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "البوت اللي يعطيك فرق من أول مباراة ⚽🔥\n\nلما السرعة، الثبات، والتحكم يجتمعوا بتصميم واحد…\nبتحصل على بوت مصمّم للاعبين اللي بدهم أداء أعلى داخل الملعب.\n\nخفيف على القدم، مريح طول المباراة، ويساعدك تنطلق بثقة بكل حركة.\nمناسب للاعبين المحترفين ولكل لاعب بدو يطوّر لعبه ويختار معدّات صح.\n\n✅ بوت خفيف لا يعيق الحركة\n✅ تحكم أعلى بالكرة\n✅ انطلاق أسرع وثبات أقوى\n✅ راحة تدوم طول المباراة\n\nراسلنا الآن واستفسر عن المقاس المتوفر 👇\n📲 واتساب: 0527924336",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/687035841_906369592419080_7534115298607087914_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LaohAIZySF4Q7kNvwE3MLRi&_nc_oc=AdqPPkkc0xDBDwZUVlouUq4ISqMCXZtHnOq-XEUEsTua7bNLX02X7AxEtE15r0BZN6A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKtIknAc9z62Sv0BNugGgnW1lLHCIe2g0LyMHKZY8bFEA&oe=6ABEAA1A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1322430823142841"
+      },
+      {
+        "id": "1416036326945047",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "נעלי כדורגל במגוון דגמים",
+        "body": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "link_description": "שלחו הודעה לבדיקת מידות וזמינות>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778396400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/693961639_1481049996850084_1247373942103732814_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O3ZXn4rpOnIQ7kNvwFgKDgG&_nc_oc=AdphodGK6lO0Wi8dqJ4w3TtzD2FeIAnlIwC4__ZPE1KJCdhN6Ye4x9-dG4Kpzy5b1Yg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQIzFMI0AfW7gywjz2-QFzFqoi9VQGoQflQk_PTH9t_n3g&oe=6ABEB021"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1416036326945047"
+      },
+      {
+        "id": "1044283785015590",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغط اسفل الصورة الان(رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/773147277_1540025393958201_6846141583252681537_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zOyRWt1yfSoQ7kNvwFrGWaK&_nc_oc=Ado2NgV54CWrvJon93eJL3QJkIPaYsExe4_c7fsVvSVXB1jCXm5BNvB3yFkQdhd2Y7Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKRJRlRNktFDgVOyg0_81hEPMEuP0GGVVR-CEsINkhIXw&oe=6ABE99AE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1044283785015590"
+      },
+      {
+        "id": "1693772231922189",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "שלחו הודעה לבדיקת מידות וזמינות>",
+        "body": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "link_description": "נעלי כדורגל במגוון דגמים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774712273_925045850004694_3466455086112726683_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6kwgs_gCDqYQ7kNvwFjpDTt&_nc_oc=AdrpvPHzmRTtjRXedQ0ABoOh1RJr-UU1TIA20zNsecMXAW6XrDldRYwh3QVsqVM0WC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQJueAsCDCv_5Kh96qUu0q2-sMIAdJEebHmqe8JQ8x0Mwg&oe=6ABEA37A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1693772231922189"
+      },
+      {
+        "id": "1688213032601274",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/683389028_2229959527539793_2395235418029245302_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q7z4-aMbQ6MQ7kNvwE3XTXY&_nc_oc=AdoJseqy7ZuexrSDvlLs8CDWTuJ4Lr0RmVDafD4H4Ogl9KpPuyzxIIyWOh89JnfD0LM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKhhMffvRrxH6-W__1S6AjCOrPBw5hGQzmswhkfPJxwjA&oe=6ABE8E73",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686193976_960431330028428_5697505726874556258_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cpVFLfovGjwQ7kNvwFfhfvH&_nc_oc=AdqV1Go3scfxeG0HxqhL28QUo_uUXHWJgChAUz2_fjYuV7o6a-XPs5_3cX34SiGtHeI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQLRVEVd86L6yjJh4LwHALJrEJFQpjryw9ZF6HCqG4FYQg&oe=6ABEB513",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686193976_960431330028428_5697505726874556258_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cpVFLfovGjwQ7kNvwFfhfvH&_nc_oc=AdqV1Go3scfxeG0HxqhL28QUo_uUXHWJgChAUz2_fjYuV7o6a-XPs5_3cX34SiGtHeI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQLRVEVd86L6yjJh4LwHALJrEJFQpjryw9ZF6HCqG4FYQg&oe=6ABEB513"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1688213032601274"
+      },
+      {
+        "id": "1918853595478288",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/690864523_4270944029822357_7837049855017016779_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=alENRj-LOGUQ7kNvwFmTHwk&_nc_oc=Adrz_2F6bnRNJPyOJO15iUm2gZ9laQMZsNExUFxmbbnYlt_omXUVSwtOnYmjaYyA5vM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQLEIUHT9_SMKFMngDDWddy44oHb7hWZWS0C0NV6qyQT_A&oe=6ABE9AC3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689467188_1233587625517987_4172537396797346156_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WUpwYrLrVvsQ7kNvwHb4iJK&_nc_oc=AdrQOpv1kwp9eh-SZXy_avGE8NROAxoagbUq10qxHx2yqFePnqZU00WUHMOSHIQx9PY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKhLdwC5iTwp-qC79LfUon4qd-Wu07M30ynYxPrTcq1rA&oe=6ABEB3F2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689467188_1233587625517987_4172537396797346156_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WUpwYrLrVvsQ7kNvwHb4iJK&_nc_oc=AdrQOpv1kwp9eh-SZXy_avGE8NROAxoagbUq10qxHx2yqFePnqZU00WUHMOSHIQx9PY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKhLdwC5iTwp-qC79LfUon4qd-Wu07M30ynYxPrTcq1rA&oe=6ABEB3F2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1918853595478288"
+      },
+      {
+        "id": "1521185496291253",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغط اسفل الصورة الان(رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/684823620_802911979279100_7625773077651773335_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mbEBwC-3X28Q7kNvwFAjqZc&_nc_oc=AdpqfyRVYLOqCnxGehKF0F9_IPZiVkQwpJBl1STueoTOrmgIyQG3mds7mYADXnfpw8I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQJMtOm-1WXIuy6_nbWC6m03X6wTtzYy728sZEb_EuYVmA&oe=6ABEADA3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1521185496291253"
+      },
+      {
+        "id": "1598056418343761",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغط اسفل الصورة الان(رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772880276_1738784027160403_7999923529965634730_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-ChcHj4s9IAQ7kNvwHnNDRH&_nc_oc=Adq8OywSu7B5e3r17OcwrTuJ3j-rVLcOhdRdZilTQ2JSzvncRXwhtemyX_FhyI4Sf0E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQItXwbckOFjq_9WMq9Cdqrmshsdhfu2D_BmbJGgGwI9xw&oe=6ABE91A7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1598056418343761"
+      },
+      {
+        "id": "27507101615552704",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "تشكيلة جديدة لأحذية كرة القدم>>",
+        "body": "تشكيلة جديدة من أحذية كرة القدم وصلت ⚽🔥\n\nحضّر حالك للمباراة القادمة مع أحذية بتعطيك ثبات، راحة وحركة أسرع على الملعب.\nموديلات مميزة، ألوان قوية، ومناسبة للتدريبات والمباريات.\n\n✅ تشكيلة متنوعة\n✅ مقاسات مختلفة\n✅ شحن سريع لكل البلاد\n✅ طلب مباشر عبر الواتساب\n\nراسلنا الآن وشوف الموديلات المتوفرة 👇\nSportivo — العب بثقة!",
+        "link_description": "اطلب الآن عبر الواتساب وشحن سريع لكل البلاد.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1782802800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/735133924_1547483220497600_8895251384846086043_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D3wZ4vFQoVwQ7kNvwHedAKL&_nc_oc=AdpWrj8fO9ux4eeXAlnB0f1RxdegCjiW4r7_3xDz1Q8jEIk8Yiqh852EqRZT4kmGyms&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQIhG_oZJFDoVZD57Uig_1Lc-zNztSjvs_7Y6ZknoesnKg&oe=6ABEBFD1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27507101615552704"
+      },
+      {
+        "id": "1730976444625405",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "שלחו הודעה לבדיקת מידות וזמינות>",
+        "body": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "link_description": "נעלי כדורגל במגוון דגמים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/773379013_1409759361032515_1668504800692974801_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8zBZL4q1xKsQ7kNvwGLGsc9&_nc_oc=AdpM5cg29pEyfrSo24kdxtVl9_QJp322eMH4aBzqs_eVZk7YS4NLSrH9LAPNuT48Jjk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQJozUmsECKpTVSCT7OCyTXZOE04gTgwIf3kAiss7icdEQ&oe=6ABE9FB4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1730976444625405"
+      },
+      {
+        "id": "1244841841054623",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/680768501_991497219968256_2846883850156001254_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jceXQaCh7k0Q7kNvwECmE9k&_nc_oc=AdqfbO98t1TQHRhzLkKeG_gb4llPedrbgCm7T8yj9uIvVqL_H00hJmzuEkTcfHWDVL4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQI6az6aKhuxpNxY632yqTa69NqWOj0DySjUgWVCTirIjw&oe=6ABEB7DD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1244841841054623"
+      },
+      {
+        "id": "1015385807662308",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغط اسفل الصورة الان(رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/687035863_1002218292330191_4585307362045018366_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sffi4MpdLMEQ7kNvwGCzFF6&_nc_oc=AdoEjRhx6H3XHJqAXWAM1_-l06VjosS8smCxCP3QcO9zakSmAppotsBnv2zkuM_2U-4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQKrie-gb5WunUSYDiW0C1K2T0pg4Wk1ySwiilnml3WQ1A&oe=6ABEA984"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1015385807662308"
+      },
+      {
+        "id": "1656286048905353",
+        "page_id": "104183621804188",
+        "page_name": "Sportivo",
+        "page_url": "https://www.facebook.com/sportivo111/",
+        "page_like_count": 3616,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "للطلب اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "body": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "link_description": "توصيل سريع لجميع المناطق",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1777964400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/687041655_1070047402255390_5362266181677078959_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oF3VKwZEe78Q7kNvwH6elRB&_nc_oc=AdoT8soR2FbNfrCtWL65NJ97hjalQ3XIzswXsBLQQglfpMqSdl_9YqyhPa3mWsM08xI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0odxTHAmm8_ICDuEamVxEA&_nc_ss=70289&oh=00_AQIUvTSvULbzCYtmQltliGyTOum7ryz2v0fo7Q1i7kebSA&oe=6ABEAFD8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1656286048905353"
+      },
+      {
+        "id": "1416036326945047",
+        "body": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "947045861457560",
+        "text": "البوت اللي يعطيك فرق من أول مباراة ⚽🔥\n\nلما السرعة، الثبات، والتحكم يجتمعوا بتصميم واحد…\nبتحصل على بوت مصمّم للاعبين اللي بدهم أداء أعلى داخل الملعب.\n\nخفيف على القدم، مريح طول المباراة، ويساعدك تنطلق بثقة بكل حركة.\nمناسب للاعبين المحترفين ولكل لاعب بدو يطوّر لعبه ويختار معدّات صح.\n\n✅ بوت خفيف لا يعيق الحركة\n✅ تحكم أعلى بالكرة\n✅ انطلاق أسرع وثبات أقوى\n✅ راحة تدوم طول المباراة\n\nراسلنا الآن واستفسر عن المقاس المتوفر 👇\n📲 واتساب: 0527924336",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1322430823142841",
+        "text": "البوت اللي يعطيك فرق من أول مباراة ⚽🔥\n\nلما السرعة، الثبات، والتحكم يجتمعوا بتصميم واحد…\nبتحصل على بوت مصمّم للاعبين اللي بدهم أداء أعلى داخل الملعب.\n\nخفيف على القدم، مريح طول المباراة، ويساعدك تنطلق بثقة بكل حركة.\nمناسب للاعبين المحترفين ولكل لاعب بدو يطوّر لعبه ويختار معدّات صح.\n\n✅ بوت خفيف لا يعيق الحركة\n✅ تحكم أعلى بالكرة\n✅ انطلاق أسرع وثبات أقوى\n✅ راحة تدوم طول المباراة\n\nراسلنا الآن واستفسر عن المقاس المتوفر 👇\n📲 واتساب: 0527924336",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1416036326945047",
+        "text": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1044283785015590",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1693772231922189",
+        "text": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1688213032601274",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1918853595478288",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1521185496291253",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1598056418343761",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27507101615552704",
+        "text": "تشكيلة جديدة من أحذية كرة القدم وصلت ⚽🔥\n\nحضّر حالك للمباراة القادمة مع أحذية بتعطيك ثبات، راحة وحركة أسرع على الملعب.\nموديلات مميزة، ألوان قوية، ومناسبة للتدريبات والمباريات.\n\n✅ تشكيلة متنوعة\n✅ مقاسات مختلفة\n✅ شحن سريع لكل البلاد\n✅ طلب مباشر عبر الواتساب\n\nراسلنا الآن وشوف الموديلات المتوفرة 👇\nSportivo — العب بثقة!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1730976444625405",
+        "text": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1244841841054623",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1015385807662308",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1656286048905353",
+        "text": "📣 كون جاهز لكل تحدي رياضي مع سبورتيفو! 🏋️‍♂️⚽\n\n✨ كل شيء تحتاجه لمغامراتك الرياضية في مكان واحد!\nتشكيلة واسعة من المنتجات الرياضية:\n\n✅ ملابس رياضية بجودة عالية تناسب كل المستويات.\n✅ أدوات الحماية لتضمن راحتك وأمانك أثناء اللعب.\n✅ أحذية رياضية بتصميم عصري وأداء استثنائي.\nوكل ما يحتاجه كل رياضي محترف💪 \n\nلأن الرياضة أسلوب حياة\nاختر الأفضل لتحقق أفضل النتائج باحترافية وامان❤️\n\nللطلب أو الاستفسار تواصلوا معنا الان 📞 0527924336\nاو اضغطوا اسفل الصورة الان (رد سريع)>>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1416036326945047",
+        "text": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1416036326945047",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nSportivo\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1416036326945047\nהתחילה לפעול ב-10 במאי 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nSportivo\nממומן\nמחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.\nWHATSAPP\nנעלי כדורגל במגוון דגמים\nשלחו הודעה לבדיקת מידות וזמינות>\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -86,6 +664,83 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:12",
+    "unqualified": "2026-09-27T08:22:50"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=947045861457560",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1322430823142841",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1416036326945047",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1044283785015590",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1693772231922189",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1521185496291253",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1598056418343761",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1730976444625405",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1244841841054623",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1015385807662308",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1656286048905353",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1416036326945047",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972527924336",
+        "source": "https://www.facebook.com/ads/library/?id=1416036326945047",
+        "labelled_whatsapp": false
+      }
+    ],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

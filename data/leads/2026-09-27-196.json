@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-196",
-  "status": "discovered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -28,15 +28,19 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972547856887",
+      "source": "https://www.facebook.com/ads/library/?id=1947441515870526",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
     }
   },
   "meta": {
     "page_id": "728437487224666",
     "page_name": "חלפון תכשיטי יהלומים",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -60,8 +64,29 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1947441515870526"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "משלוח",
+        "משלוחים",
+        "קולקציה",
+        "להזמנה",
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 8114,
+      "product_score": 6,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1947441515870526"
     ],
@@ -73,7 +98,121 @@
     "page_categories": [
       "Jewelry"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1947441515870526",
+        "page_id": "728437487224666",
+        "page_name": "חלפון תכשיטי יהלומים",
+        "page_url": "https://www.facebook.com/halfonjewelry/",
+        "page_like_count": 8114,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "חלפון תכשיטי יהלומים",
+        "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "link_description": "טבעת שורה יהלומי אובלים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1776841200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678199299_971907601921592_9047057647140306085_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BnuRmrP_cswQ7kNvwEHZDpM&_nc_oc=Adoqr5Fkubk56fI9zBgPJAp7__rRx2Hsb_hT5DE4pmaTdpEha6MS_lM8b48ciWwk9eE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQI13zS4jRjFFeQnXJG2X8bJ1Eo-SixKoM0zpVa-PL1w-w&oe=6ABEA215",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678650402_1582230316167143_4474909023550973126_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G9ad4C0kRbUQ7kNvwEOcKa2&_nc_oc=Adqb8PkyQMu8VgZhdqPRm5MHXcG6rUhkHSotM-tTjKzd4_f0vqVN1I5S9BLZm7OfrLI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQKiLrES8KR90WT2vNd4KjYHucxIBHru-rl6LqVyqe8tiA&oe=6ABE920F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678194708_945446848099800_7093871513525342913_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=unryi5IOZk0Q7kNvwFBRTEu&_nc_oc=Adp6oiW8akMPv9BJPjBbAguIHXBFj2DvLFlDV_DcYKPJvEkoKPD6BAGgE0IZ1E4uzm0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQIUHl19trhFYn7rx6TUdbVzr6vSzxjlL4lQZdmwGsnj1g&oe=6ABE9DFC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/677955156_26876698521968182_2254931261326671976_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLlhyAEqGFMQ7kNvwGF0-mr&_nc_oc=AdohCEPBBjSKTTBELHgDfIZDm47aXZ-1qnzPG_qYzLwlgt0c5nX6vA4YbcVQt_Ys_54&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQKZmbiXycZab4oUb6qmAAqy4PqJHP0zBQIPE8hEfjw1Yg&oe=6ABE9AA2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678231203_979765477947907_410769855290431501_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S-KmP2qH3nQQ7kNvwF--9ST&_nc_oc=AdrEGtEh5VgaVMWwsr7MjoQz6sNKLHuh1HzCLZQG9v_3C-tzoyaIapDPmozUu-00EVA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQKkWtr7A5fPKrQLpNtyWs92yAvAoUZcu7PbjJXcx2SubQ&oe=6ABEB45E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678403111_761755767020134_6493765015314155759_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yC3YZJy39JoQ7kNvwGhs9I1&_nc_oc=AdpBZsDW1GbUYZ33umFOzFh1eDqzm4f0D33teXoA-1iS-hpHX0ylV9fGbJLpGTDB-5M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQKDkuM6EsGiOh2Vuu1XNfh43v4onMUJELUwjktZ5HJJeg&oe=6ABE94DE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/677852690_1483716330200142_5254919926690713048_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qPiGBQ-6I7kQ7kNvwEkNaue&_nc_oc=Adq4SQl2e9-wxgxzibciEOVv7vXX3xmZURCSgzygkQo6XkqAM-NCLLve2OC_6q0B94o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQJ-kxsu9Q-PaX9Pmj6zYZ0mBmzQDhNGwviVXBZV-uVTFw&oe=6ABEBB7F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/677833344_1472432597706735_8311483243130248532_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qqSnPhW9WJkQ7kNvwH3meEt&_nc_oc=AdqjOG1Aeb0z8Bm_CuOCbmHZfJRTLiC1K1npPZn7WkSXahMNZIERlka05CU0r0v9StU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQJLSXKHRZBJAPkWSYp2HtxsJj2drrQVewZqT518RyYPGA&oe=6ABE9472",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678221036_1543768130355688_6166147880285373471_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=--sOiHfOjQwQ7kNvwHYdFzw&_nc_oc=AdpIfhyQHHI9nZzF4S0Bnd03e9acXOYwJQ__mXdApt2eduOmLskbc0uaR0QDhlh5bw0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQLNK4e363N29JdMefgEdMfHFAQHPE35q87Ld_V3Aj78hA&oe=6ABE8CBF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1947441515870526"
+      },
+      {
+        "id": "2113420645891784",
+        "page_id": "728437487224666",
+        "page_name": "חלפון תכשיטי יהלומים",
+        "page_url": "https://www.facebook.com/halfonjewelry/",
+        "page_like_count": 8114,
+        "page_categories": [
+          "Jewelry"
+        ],
+        "ad_creative_link_title": "חלפון תכשיטי יהלומים",
+        "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "link_description": "טבעת שורה יהלומי אובלים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1776754800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/677942016_3404170503054697_6295679150652038773_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ekpxlx3mC6UQ7kNvwEryTLi&_nc_oc=Ado_h6UJM--hUgMu_Ew4owBFbjWfXEc_WPlZl4gAr3-A5PlIGqbSnO5Ack4t6Qn-hsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQK1ZGAlHnIx1ayOaSpPwubVuBRWHz5V8YfvHGr2wVWBGQ&oe=6ABEABAB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/674263171_1272163971758860_8994308749114620150_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dWpUm3vhzjUQ7kNvwH3ZMk2&_nc_oc=AdoRj50oqK__1p9DMpoNnd0nTqMdWvrglrxdDzSQr0nDW81mPmwtpt2wTftfyC4y7Js&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQLdZKxkb1CllD6OhKOOXBL6cyEuk_ZKSamLQwJnHZg8wA&oe=6ABEAA24",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678289116_1718336889602171_2528700699364024755_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D6Hgxa3ey6IQ7kNvwEsR0AO&_nc_oc=AdqyEjk5RNskrfp9zDNMcok-uWCf86EWYTqE6OUWQy7svD9hGVQ6xFWxTYQFWdrY270&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQJUH1aTFjE2Ujd07Gz8ZQjDy72z_L1HxMM8UWFqYUR3iQ&oe=6ABE94C4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/676571360_2046615129289039_2294066156042861420_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pA7779yRnwEQ7kNvwEGvzEs&_nc_oc=AdoEbr3WqiTBrlaiR4kRYznkGZ93YpIT3dX78-tZCvtkemdSzydwdaXt-ccvmx3DPyI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQL-bba4eKeYXnN3EItwF2GxG0nVneqlmevfkbBpd0XtQg&oe=6ABE8ADD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/674996141_1861087014531456_1925523063660348036_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q05v3sDJn1QQ7kNvwF4wsHz&_nc_oc=AdocYOTob9-cxbIX4HmpmoYR7JsxQwzKCFqSR2pu6KAM0chlGpbiy5cKbsyEJg7gbsM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQJUBuDgtj1Q7fqB6iEpXfVH1I62YD7BZFaojelhvMc7yA&oe=6ABEAF91",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/676194685_1674123683710931_5475367583184146748_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L7CHJswDwSAQ7kNvwHmduc9&_nc_oc=AdotZGVLX1NID6ypKAYsHUsWicOLO9a3OTbqx6dmYgJt0B5Xz6T_gtZ8ZtQ4aq0NlRA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQIALY399et8kI9Q0VG1935tDENoyk1_qfPQoATjQCICHg&oe=6ABE9BE4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678357959_2469106286856227_8014863140182986311_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HuAEDj401XoQ7kNvwHlmrc0&_nc_oc=Ado5JH5Xus8d2guG2P3a0a5ZjeZP5F5SXkVUoKAWJIvWM3zezlacDNGobEaVePgBljw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQIRzJLIczFZD2gLP_yv7c2vYtsS9K0ig_H8Zk_cNA5i-w&oe=6ABE9DE9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/676280031_2152935475460929_5632288787677621621_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uGkURZMYqz8Q7kNvwHbzLnl&_nc_oc=Adpwtq55Jy1JpfzuUFM33LYmjOPxuW8SnzMAp3kpzhWDMj31C812Cw4IPbsRCXSrwqE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQIrUdJHzZHd1HJfrmsQdlGYzcgo6_vQpvbx8Zh3mCOSeA&oe=6ABE99EE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/675401140_1688028565955933_4495740812804518453_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tLf5lsIq9B0Q7kNvwEi_QVl&_nc_oc=AdrBUv2-va5-MK6vLW08_j7QhKruUjPkPahedoHR2y24VmT55HJ35La34PSrauYY8p0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=nSfeG2Q6ESB6nUl9pp8bNA&_nc_ss=70289&oh=00_AQKFpBCHplhGAOvXlG2jPQ-gTwabjzZ1jsV05TcKWVlHYw&oe=6ABE891F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2113420645891784"
+      },
+      {
+        "id": "1947441515870526",
+        "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1947441515870526",
+        "text": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2113420645891784",
+        "text": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1947441515870526",
+        "text": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1947441515870526",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nחלפון תכשיטי יהלומים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1947441515870526\nהתחילה לפעול ב-22 באפר' 2026\nפלטפורמות\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nחלפון תכשיטי יהלומים\nממומן\n⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>\nAPI.WHATSAPP.COM\nבמבצע | 4390₪ בלבד\nטבעת שורה יהלומי אובלים\nSend WhatsApp Message\nטבעת שורה יהלומי אובלים\nAPI.WHATSAPP.COM\nשרשרת בעיצוב מיוחד מיהלומי מרקיזות\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nבמבצע | 2990₪ במקום 3490₪\nצמיד טבעת משובץ יהלומי מעבדה\nSend WhatsApp Message\nצמיד טבעת משובץ יהלומי מעבדה\nAPI.WHATSAPP.COM\nעד 2490₪\nמגוון טבעות רחב\nSend WhatsApp Message\nמגוון טבעות רחב\nAPI.WHATSAPP.COM\nטבעות יהלומים מיוחדות\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nטבעת זרת יהלום אובל 1 קרט במבצע\n2600₪ במקום 3000₪\nSend WhatsApp Message\n2600₪ במקום 3000₪\nAPI.WHATSAPP.COM\nהחל מ- 2490₪\nטבעות אירוסין משובצות יהלומים טבעיים ומעבדה\nSend WhatsApp Message\nטבעות אירוסין משובצות יהלומים טבעיים ומעבדה\nAPI.WHATSAPP.COM\nטבעת טיפות משובצת במבצע 2990₪ בלבד\nטבעת שורה בגטים במבצע 2331 בלבד\nSend WhatsApp Message\nטבעת שורה בגטים במבצע 2331 בלבד\nAPI.WHATSAPP.COM\nשרשרת יהלום טיפה\nהחל מ- 1500₪\nSend WhatsApp Message\nהחל מ- 1500₪\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -86,6 +225,15 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:45",
+    "qualified": "2026-09-27T08:23:12"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972547856887",
+      "source": "https://www.facebook.com/ads/library/?id=1947441515870526"
+    },
+    "missing": []
   }
 }

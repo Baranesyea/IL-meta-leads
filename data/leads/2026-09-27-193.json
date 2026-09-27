@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-193",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "100907556213792",
     "page_name": "CASA TUA",
-    "active_ads_count": 1,
+    "active_ads_count": 16,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -61,8 +61,25 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2844912992567132"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "להזמנה",
+        "קרם"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 16,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1555,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2844912992567132"
     ],
@@ -74,7 +91,660 @@
     "page_categories": [
       "Bakery"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1342777197296655",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "⁨\tג׳לאטו איכותי, מקורי מאיטליה 🇮🇹🤍⁩",
+        "link_description": "",
+        "landing_url": "http://instagram.com/casatua_il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782802800,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/733156983_4320378288108069_750902701787806377_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1O3ti4e64AoQ7kNvwHeMeOA&_nc_oc=AdqGDdLM5QX9QzB2Ltozdjh3g9-D5N_6r0uwGAEQTeKLfQ-SvwhcCmJnUbsh6_Oul_Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQIVmhTc6XyDMUy-nxMsMmXJ91nSZA_JKtg9FQnTXFYDXA&oe=6ABEBEDB",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNQe60cTV9Kxkd8SKoGj_oyJvjBo0S0KMSWC9UOekQTvTNm3TX8daXpygQwldo4jHs9f94MFbZc0NnmdJEgtRlNk5qPb8afR_MBYZo27A.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IKBY2wEeYSgQ7kNvwEueEO_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTgyNTgzNDA5MjUzNjA3LCJhc3NldF9hZ2VfZGF5cyI6OTEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJnxYmcpNxS5ed4NkHr9zzmPstC1ercxEpXbnMJjU2luA&oe=6ABEAE27"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1342777197296655"
+      },
+      {
+        "id": "1077445968227435",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "⁨\tג׳לאטו איכותי, מקורי מאיטליה 🇮🇹🤍⁩",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734152620_1375596441116854_5200518181960163344_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HRoPyvW_HHgQ7kNvwH9ftiR&_nc_oc=AdoXF-5qIBln2nkJc_UkgR1iCg1_jwt258KwliSRpNOEsuI94Z22uzaUFoKiGvo0V4Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLJvpE8hLXHOAUARcf7Oiytc3F-QUNhKnEhlmAgn_hr3Q&oe=6ABE8DD4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNQe60cTV9Kxkd8SKoGj_oyJvjBo0S0KMSWC9UOekQTvTNm3TX8daXpygQwldo4jHs9f94MFbZc0NnmdJEgtRlNk5qPb8afR_MBYZo27A.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IKBY2wEeYSgQ7kNvwEueEO_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTgyNTgzNDA5MjUzNjA3LCJhc3NldF9hZ2VfZGF5cyI6OTEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJnxYmcpNxS5ed4NkHr9zzmPstC1ercxEpXbnMJjU2luA&oe=6ABEAE27"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1077445968227435"
+      },
+      {
+        "id": "1514525543719823",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "מאפייה"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הקונדיטוריה האיטלקית CASA TUA פתוחה כל יום, 7 ימים בשבוע, ברח׳ מדינת היהודים 86 הרצליה.",
+        "link_description": "",
+        "landing_url": "http://instagram.com/casatua_il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777618800,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/687040381_887599780406953_6267157548668682042_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ycrYJBfOqgQ7kNvwFbQfTX&_nc_oc=AdoB-R2koNMyYHK3rNF615UwxcAY05ITBGxT-58XTzaa-MSm2rOWNnW7S6FqhmQVXx4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQJfvwvPj7EXD6Nj4uqzZmpEuj4MFcelCZfmquF1HUwrrg&oe=6ABE89E2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZLsGMoxO_0bVVVyuIgbvT6bfw0tYe5hu-uPBi2VDDoSfbjs88AFUyVFsmczS5v12tb2RE9ryRceR9zMrEDC3aj06M-6YXAaHupINCkT757A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Nt2If93dE9sQ7kNvwEuFcjV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMzODQ2Mzc1NjUwNDUwOTQsImFzc2V0X2FnZV9kYXlzIjoyMjgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a1c3c6b43836db97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzRFMTBBNTM2NEM5MkM2QkY1NDNCNjZBQUM2MUNBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDNEVDNEFBMjU1MDMwQTA3NTBFNUExNTUwNDBBRUEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMpZD86pODDBUCKAJDMywXQC-7ZFocrAgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQKt5DglyidXfdgS7o4phimRJSNC1d4jxOI0-OR2FKZVOw&oe=6ABEB6A2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1514525543719823"
+      },
+      {
+        "id": "1353407753325263",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לראות איך אנחנו מכינים את המשקה הכי טעים שתשתו הקיץ 🇮🇹🤍\nפרפה פיסטוק תודה.",
+        "link_description": "",
+        "landing_url": "http://instagram.com/casatua_il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/722453880_1642574326818828_6813908508205257382_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j1nRcwgxA7gQ7kNvwHmpkhN&_nc_oc=AdqogJk0ei3g4L5rSvQD6N41HckFJG3ZvS71mFDvdFMwMTZ9L09GTIN7EZUXsaWwO08&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLjMoZQQpQingPiUecEpYKxiVryFbUKAsfM3uJ8Lcmstg&oe=6ABE88EE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNww2ox1ZnKMUyvKCKcKkPsBl-HHTgm-cA4KnBNG3r54J_sm0jqSHbRYLfqV-ARXqMpwZPq8r36h3XMJ0lR6jnQZz4DeKKhL9x9wzhnAA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aQ91CKNazy4Q7kNvwGV8i7j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDIzNDY4NzkwMzY5MTYyLCJhc3NldF9hZ2VfZGF5cyI6MTA0LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJEylENSc6x2umvNybdjZi_OFZr5bx_YPg3dIvmusj-7A&oe=6ABEC04C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1353407753325263"
+      },
+      {
+        "id": "2324103301750483",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לראות איך אנחנו מכינים את המשקה הכי טעים שתשתו הקיץ 🇮🇹🤍\nפרפה פיסטוק תודה.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721601333_1706071330730928_3624678913776649453_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j3O4BCddlzEQ7kNvwFkAcZC&_nc_oc=AdrPV-v0RtihRKQNPZ25swg6yoOAst_YoM8javwvXKoKu6B19WwI1_BW0oNPVwxMl_I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQK6jkomSh099fsoQrUlC9lscHqpMx9j7Mz6pxgc5jBwwA&oe=6ABEAC26",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNww2ox1ZnKMUyvKCKcKkPsBl-HHTgm-cA4KnBNG3r54J_sm0jqSHbRYLfqV-ARXqMpwZPq8r36h3XMJ0lR6jnQZz4DeKKhL9x9wzhnAA.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aQ91CKNazy4Q7kNvwGV8i7j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDIzNDY4NzkwMzY5MTYyLCJhc3NldF9hZ2VfZGF5cyI6MTA0LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJEylENSc6x2umvNybdjZi_OFZr5bx_YPg3dIvmusj-7A&oe=6ABEC04C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2324103301750483"
+      },
+      {
+        "id": "2844912992567132",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "קרואסון ענק לאירועים | להזמנה מראש",
+        "body": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615830101_1226394992768504_8482246232979131589_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Pe9sa_PGXEQ7kNvwHwav9d&_nc_oc=Adp68ImsxscxHFZjuKyAvYLLan43D-J67l41y3BwBaQXLZ19Y7PX9Rj3sjrTfhiL2Jw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQL6PTXegf2VhWD-hJq6-AMWTAruOWFW0ixI_H58AilaRA&oe=6ABEBE8B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPKG-vuGsHaJAhdQB3HpHWChjASwouT5IKgCZFqvcqy4BeOLe7f6hwLXW3NSoaxLoLTrcw1-F6JWVw159MkZVM-Zvxj_10AydnAdrjUDRHjAw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4IMbI0udKfgQ7kNvwFoCZ4G&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg4NjU5NzUwMzc4MzA5OSwiYXNzZXRfYWdlX2RheXMiOjI1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=12460715829137de&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODRGNkQzM0VBRDlDRkMxODUyRTRDNzYzNThBRTE4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc5NDU1OTJERjc2NzczODQxQzY4RERDQzc4MEFBMEI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2wqyU4paTAxUCKAJDMywXQC_MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQLHxIAJtSnyfRXARMp8SMxWvZnTIUkeJnRMmcimmbSziQ&oe=6ABE9BD6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2844912992567132"
+      },
+      {
+        "id": "1742350090293339",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "קרואסון ענק לאירועים | להזמנה מראש",
+        "body": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731357032_994361843229952_2014182071891362096_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yxz7gSM1qtUQ7kNvwEo475h&_nc_oc=AdrQPE5GPR5HgLXr8BzDUglAfoU-_DRr3mGjmCxIyzBm0J2HTQyu-TOSaEeCwz6JF-A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQJcqw6ZDH1cQCx_sx7pie5U8r-s6WyRIoam18TvVFj5WQ&oe=6ABE9FA5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPbZroJt3IAlQ07yxZ8h8WmO8swVSzFuEDG61TszBFWFvAYLN-pjhYPG6zL0WysqT_kop0WicNVs53eBG7lrEr707XAENO6wk3eLtdxCI9G6Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Kq-_RDG6eqIQ7kNvwEOcBAO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODQyNjYyMzI4MjMzMjQsImFzc2V0X2FnZV9kYXlzIjo5NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8aae11956d6464a5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQzRFQzJFRkZCNEE5NTA1M0M3OEZBNjQzRUM3MzY4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA0NDQ5M0YzNjdGRUQxNkI3RkFBODBERUFFMTdCQkEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4-J2omfX9BRUCKAJDMywXQC_MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQLKDRXoMiuWAjIsLucuvc5o72mbsk8csmKC47XIbIrFXQ&oe=6ABE89DF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1742350090293339"
+      },
+      {
+        "id": "903358565902037",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לדוידה היה רעיון לקחת את סלט הקפרזה האיטלקי שמקורו באי קאפרי, עיר הולדתו, ולהכניס אותו לתוך פוקאצ’ה חמה. \nהתוצאה לפניכם 🤍🇮🇹",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/685848204_1751291416281754_2108617887152188185_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TRimY1-PpgYQ7kNvwGZIOLy&_nc_oc=AdpDrJCfvSpqqsTuDHjGfLtMq6fS7pfJp6LDI1zmY_rPdL9mQQMd1YUO31oW12Z-iG0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQJY1uNsA_P_La0ZXdFbx-AKswUk-ClrLvAdMLPO3uBKkw&oe=6ABEC00C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m86/AQPfq2V0Pq5ATGXON8VZsw2G-RkoNgt1S7_1tQ0DMsX3db48_OEN5r8MyhuxZMwGQz1ljf0K2-035mV0p5FzTIsMEK1SLayqxNsu0fQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zr3q154gb_oQ7kNvwGxLhIG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTgwMTEyMjY2NjI5MDI1NTksImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=315623c974c380df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRjRBNDk2N0U3MDNCM0M4NDIzMjU3RkQ3MDY2OTRCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RENDYzODlCQTAwNTYxQkEwRkRFRkRENjMyMjg0OEFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-7LDzr8f-PxUCKAJDMywXQD9dsi0OVgQYEmRhc2hfYmFzZWxpbmVfM192MREAdQBlrMEBAA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJXjNaP7jQAkmZVm-J4EvgF7_aquwsLDpokROH7oxZ8EQ&oe=6ABAC735"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=903358565902037"
+      },
+      {
+        "id": "1144694260945751",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שכבות של קרם מסקרפונה, בישקוטי טבול בקפה איכותי וקקאו",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618479493_1956799041935391_6883683697235635075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rk0j5Gv_XvQQ7kNvwE569Ld&_nc_oc=AdrxkiSwkRKzT9sX6pixgKaJFCgOQnfu4tJh9osR3xQJ1g7PI2lMyHC3y6ZgZlQhMpk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQIUij_fojfOyG5E0wxL8xQEjQWdDuvCO8oUk3XaPVQHvg&oe=6ABE9F65",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQORxrahxuAnqjp1-WSPrzzgEiMTIyKeGs-Ly_K12Ns5WvHO8AFOGa1V9DdQyO5S6TOwCJsHxCnQfBYYnvOCnon9.mp4?strext=1&_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8PcELI_D4SIQ7kNvwFGLprX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTk0NDA1NDE5MDI1NTksImFzc2V0X2FnZV9kYXlzIjoyNDcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e175e5103e4eec9e&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR0Vxd3lSMGpnbFZuQllIQUdNUzJMYS1TbGs5YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VDNDVFOEM0RTEwNzU4RDUwNzU5NjVGNEVEMjZCQjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-m7-6qpn5PxUCKAJDMywXQB1U_fO2RaIYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJYQVWZEN5Zh02AZwNJqAtqGmOVZbkmxWVQaoRn0BIwxQ&oe=6ABEA07A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1144694260945751"
+      },
+      {
+        "id": "1411786690812926",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "קרואסון ענק לאירועים | להזמנה מראש",
+        "body": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782975600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/738368297_1710614119854853_9170000528787877320_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eKH1LuLO4ekQ7kNvwGip6ro&_nc_oc=AdoKsad1BsNG9dfVw-w6M6bfGxdH8tIH-8kItOnx6PiCWOTCgxz8DoCiWi4MOkLNHlc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLUW6Z6Qu3jSbyILDgsVCxagBwNsRHTUq6AKk5J6B5crg&oe=6ABEB24F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMXLM9LqnVm7j_ihfhqyqnakc1VvbwLZIN5oap2CKZwegoOC8hiTBMSgd4aY2Cwm1X-6YuMRBmOoWPh0N41B9oxMUtqLcQNQ8fswkAnQYOHDA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=vyKcoIhsNMgQ7kNvwGYSr6e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMjkzNTE3OTg3NTEyNTcsImFzc2V0X2FnZV9kYXlzIjo4NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5d89caad9f57e163&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTQ4NUZEQjNCMUIyM0M3MDdEQzQ1QkU0M0E2Q0NCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IyNDhCQ0NFOUU0QzE0MDBBOUJBMkQ1NjM2NkYyM0IzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaygPjbusLcBBUCKAJDMywXQC_MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJjUW8RZHAS7sMxGvlDjmLlsu5SWcXB7mydmRyeJ5Elpg&oe=6ABEA1F8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1411786690812926"
+      },
+      {
+        "id": "1122083960148164",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "להגשת מועמדות ופרטים נוספים",
+        "body": "אנחנו מגייסים עובדי דלפק בקונדיטוריה האיטלקית CASA TUA בהרצליה! שלחו לנו הודעה בוואטסאפ עם כמה מילים עליכם ועל הרקע המקצועי, ונחזור אליכם בהקדם.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813931368_1063417069581448_1902547280140051700_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C7TKL_yklKsQ7kNvwH-ba0t&_nc_oc=Ado2E2hxsqlismEmYe9KCJyGKYxKQqgsdIC_S3Mk7hbPZXAZPeZRcRwCzLQxryxNbaI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQIe-wN07lyXTTJ5I33aBZ0CcB-mm14AGh73bTopTjT0tQ&oe=6ABE889A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-lJKlPZ5XNhecV6FETX59ryaTNd1tYXzReeUMwqDwvEC7tC16gAJCa5wc4zMwNEUlMN7ObuPhm72UeF_PYPSm_GlfE0yMKk3xSpw1TcocUw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pgvq-lCnLkQQ7kNvwErL8yF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MzY0NzIxMDc2NTM3MjUsImFzc2V0X2FnZV9kYXlzIjo5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ca6fa2fd73a342c3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQTQ5MjZDMDQ2NUYzOUNFOEJDN0EzMDA0QTlENDA5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY0NEEwNjg5M0RFRDlENTM4MEQ4M0MxQ0RFRDExMjk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa66Zyy_dOVBhUCKAJDMywXQDdEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQK6d7d5SiERP1O_kdWOTA1Rfc2IERz6FP_c7M2lt1XQDw&oe=6ABEA4F8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1122083960148164"
+      },
+      {
+        "id": "3457601771116372",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "להגשת מועמדות ופרטים נוספים",
+        "body": "אנחנו מגייסים עובדי דלפק בקונדיטוריה האיטלקית CASA TUA בהרצליה! שלחו לנו הודעה בוואטסאפ עם כמה מילים עליכם ועל הרקע המקצועי, ונחזור אליכם בהקדם.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788764400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799525864_1384144573872901_5746508382831971969_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DZVLMoxqVvwQ7kNvwEex0Ax&_nc_oc=Adqy593bcaLbWeBp-I7PrR1M0wezMOSu4pswLwD4gLitMoQjs0NSL8jQzoAWjasrTlw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQIDggWGhQD_xGqDIBEh65lRL4sCnTMGs-v6rr2ogipEOw&oe=6ABE8ABD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNeFcWh_Gl9uFOdeoC8EgXv15YHm_t8v57KO8u5yQHB2COOrnJOKoptNfsypizUGcN8k1IPCWDirGDOGdmu9AHQ4wLOelidfj9lCkwo3h-jbg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ho3KrTxKM_wQ7kNvwFinkrm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODkxMzQzMzkzMzA2NzMsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=97d51334c93b2f72&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRTRDMUNEQzNDNUNCNzIyMzc5MEI2MzM3QzU3RDhBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FBNDMzMjMwNDgyQTVBNDJFQkI4QkE0Q0IwNTc4MEE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbiybqtodr3BBUCKAJDMywXQCsAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ9IbZrV01VgmQxfJsG3Lkruvpngjc-rj5pzOtAFX7lXw&oe=6ABE92AD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3457601771116372"
+      },
+      {
+        "id": "27982282148110444",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אירוח משפחתי, יום הולדת, פינוק למשרד או סתם כי בא לכם להגזים קצת עם כל הטוב הזה🤩",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/643303725_2051263209607824_6175948037231240646_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M2IlDorSFzMQ7kNvwFY5OlB&_nc_oc=AdqxCWVUfyq-MW-DtVUojcAT9khyvc2HBu3tlNLt1NTdIExam4zUqtNiqdHibLvG_Q0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLBZSCvy-7YwGj1ER0TxTpjE8ikAnvSlK3RGllHIqZHqg&oe=6ABEA9E6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPSoJhDaLwykwB9jOIde2Dm_HWn5Yi6jK7Wdmot_lWPgWP4llBgevACMVwsXAyL8oQI26k5t_8KvFneSHKnsPe2.mp4?strext=1&_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=xFg6dhPZfPoQ7kNvwEzfkOE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwMDMxNjM4MzI5MDI1NTksImFzc2V0X2FnZV9kYXlzIjoyMTMsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ffe1b84b36e93161&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRmVXUGlhYjNnc1BQbEFFQU94dlRfdVJIYjFtYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IxNDlCQTEzRjlGMjY3RUY2NjI0MjEzNUNENTBCMDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-jr-Rh_L6PxUCKAJDMywXQC_MzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdQBlrMEBAA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQImgX3ERIq0A4UFPq8Uw8V6e2SFHjCJFsetYkZLD7cYLg&oe=6ABEA810"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27982282148110444"
+      },
+      {
+        "id": "1431666305261634",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "CASA TUA",
+        "body": "Cornettone Vaniglia & Frutti di bosco",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1771488000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619328462_25874432565547077_4978099698272369094_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JW3wfeo7FukQ7kNvwGSa9Di&_nc_oc=Adps5qwqt2XTyUaeTT3L1Zck4DG2ko6-W6d2IjePAljwUbm8Cz-FDw2OGGoVuV-rzwU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQKyiy1gmoj73v1JgOsEK2cj7QvNOQqkOycATEvEFiZ6sQ&oe=6ABEB9AE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621446455_815099781564344_8836471261859453678_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X5gtf5IfqasQ7kNvwF0nLYZ&_nc_oc=AdpnOIIAhHoacFe8Mdbm1kAFgevDt0j2mPyxvGlZ4_gt95veafWEXrH2B176mLOCqYo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQK8pYyaDJ5kUUlpo8_cAZGgHl3sOvZiP8DzS6K5w3tjDQ&oe=6ABE92D9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/618683145_1538116927451057_2653140554652145248_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5u5igfmrNhYQ7kNvwHDaKlQ&_nc_oc=AdqYFyw-zbWQGvYX3ujinkKXIyazsHv2QYBHtDMyzhUe6664RG48DNba3bC0MJKCiKM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQJTqQPkWZYj5XYO-Z6DrAE7jy28qUcOxa5TelfexkzHsA&oe=6ABEA371"
+        ],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619543802_1388664356374903_6859555702259683319_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uDnh4NPt0hAQ7kNvwFP7G9F&_nc_oc=Adrw7LNDrNnR57iWudcFEmBhkJDG885-XqT6fxldrvf2D-hIQiqrAWnzipR-GibNzCQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQJQCGWx0TjZV4uZIRQ1radqsi96nefioEaPebfxsQ7KSw&oe=6ABEBBB0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOY91LZpH13L-n69SXnUjAWZoZE1jWpyU8147Wnf-jLAjV2LMj991S34qphoNU2WEVLnqxkBztXFOmw-mZVtbN0yiRk9xBTOoRvdE0.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FQOR-ClGHfgQ7kNvwHFQ8r-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODYyNDE4NTAzMTAxNjQ1LCJhc3NldF9hZ2VfZGF5cyI6MjYyLCJ2aV91c2VjYXNlX2lkIjoxMDE0NiwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c1dd5e7f1707fe95&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC84MjQxQzhFQjZCRERGMTYxREU2NjI4MzdGRUQ3OUJBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmrOzyK6XiAMVAigCQzMsF0AREGJN0vGqGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZcSeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQI9hx_ov2NeJt5aamBd10dLNEeyuyn2IqD-QXyC6bQR2w&oe=6ABE93D2"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619194743_921176776924517_2765697274271540660_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DvZp-1nvh5cQ7kNvwEz2KNa&_nc_oc=AdqGfkPzM5hhU9PjXJ3D8tar-3FHeYUUY52Rp92SWslxZfaHxL4GsK7PnWLCdBfx084&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQKKgrZdUj-Uf6Sy6_b0HwAkDjH56J8w_EBzpo9a1zFLNg&oe=6ABEBB28",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMpYgxDlm4kuW51FekMsTnIYxU11G3x8pgIMo6Mf0XEK8wA1fujFYJioV884l56pIgQvggoPsN8QHhD8lV3WqeXj2y6x3VxlNDO_XU.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mzymb59LVsAQ7kNvwFnMe_Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg3MzczMzY1OTkyODk1NSwiYXNzZXRfYWdlX2RheXMiOjI2MiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b81b31817dc414ab&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC9ENDQ4OTc1RDA4RjIwQzU5QTBFN0EwNjJCMDVDNkNBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9qWh09OJ1AYVAigCQzMsF0ALul41P3zuGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZcSeAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJH-BEON-_9lNqXItcBDfNdHtjXwNDFU1_yTRUdchnt0g&oe=6ABE9D08"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1431666305261634"
+      },
+      {
+        "id": "1563140014771328",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כל אירוע והמגש שמתאים לו 🇮🇹🤍\nזה ממש פשוט, אתם מדברים איתנו\nואנחנו מארגנים לכם מגשי אירוח לכל אירוע \nמתוק | מלוח | מיקס\n\nלהזמנות לחצו על הקישור לווצאפ בביו",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727466360_1026766173222486_7661525813804013080_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TyPEUIzzZ_QQ7kNvwGrFxk9&_nc_oc=Adr-3ZteRDQ62aFAz7LOnUiCoD3f_6jmERGEalxuPItsONGoMW03f63guVKrextjmIA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQKsaEQRiQ9SeAcekZ9i0Q5iwnZ9HCDTIABSgBCAu1sEpA&oe=6ABEAF1F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOMi50hcJ8dxM5FGM4oIOlGb9-Nr5ep-3wkOmGbWlOXe28XAhMKHwpRJi_zIRGH9Rmdl0zqShLTYjqiwIFDO9aCTfurtN5pUlzvkh9_kw.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rQ6R9BklQv8Q7kNvwGK5ody&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMjQzOTMwMjUzMDc2MzIyLCJhc3NldF9hZ2VfZGF5cyI6OTcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJUmt27jY2hfBbpqtbkDcYE7yeJ0jMvStRD4GMIBTDZTw&oe=6ABEB559"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1563140014771328"
+      },
+      {
+        "id": "1092990660331002",
+        "page_id": "100907556213792",
+        "page_name": "CASA TUA",
+        "page_url": "https://www.facebook.com/100088849475662/",
+        "page_like_count": 1555,
+        "page_categories": [
+          "Bakery"
+        ],
+        "ad_creative_link_title": "CASA TUA",
+        "body": "שיגענו את המדינה🥐🇮🇹",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784083224_2173933753151899_2418419681719154363_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y3eqxCwKfugQ7kNvwFnaNph&_nc_oc=AdrZpBUnV-yL2oV2uOoGOPn_J9piHWrI6Ve-8W0czH72z-KSlDjrbuYqrUARZmvqxtc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQI3eOPg-LfHCIQgwYFsEY4wIzCRDs0SpIOh3asYYBUmIQ&oe=6ABEB0E3",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNAoKuymfldU6W_D0S9_0YSfI8N6YucvijtuhmCGKtgLot0bwLAXiD2LDVAQXz56o_go64ATeMwTxU-5N6fEnk4dRnyXMlbMTJtk1Y.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-iPyt2_SvlcQ7kNvwGnEE3C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ4MDM4MDU1MzcyOTcyOSwiYXNzZXRfYWdlX2RheXMiOjI1NywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e0056451ff4fa017&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC8yQTQyOTdFRUI4MDAyREVCOEVEMzBCOTA1NURBRTQ4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmgtvM0L6ZoQUVAigCQzMsF0ALul41P3zuGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQLRiyPnz67GPQi6sLL5wK9p076mBEoLtgBnF0A1o1nUxg&oe=6ABEBD4F"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/783904286_2097277964508579_3166100052272485495_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jJKt8UfJQXwQ7kNvwF51kz3&_nc_oc=Adol9Hj-S5X8aXLbW49_NU0nZew_mISlatO_d3vsxjtVEg1aWBP7Bz5g6A0I_H09fW8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLpwvJ8NfBca4TRSJLZTf_rnBEsLEYgncGDppK1gk44xQ&oe=6ABE8BB1",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMd63IBOLQVCK1oArP5aG0EV9r-aY5h0FroD_4IaWmpr0MSavy1bHBZiAXLDhdy_AAeRQcTHtvL4_TMBdwqVSH34ufLAATLxEPi0wE.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=7VRnjLG9_1IQ7kNvwG3e-O7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTE0NTYwODA3OTA0ODU1LCJhc3NldF9hZ2VfZGF5cyI6MjU3LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=342ffe4441e05035&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC80MDQ0ODZCQTM0QTIyMDUyMkNDMkVEMURENTI2NDM4Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmrpmlgbnynwMVAigCQzMsF0AKIMSbpeNUGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQJcm-1swSchDFlPJiEf9lXiIQ7NyvXIupUhJPn4LnIGlQ&oe=6ABEBE74"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784200896_1936387837002258_9204257336865573526_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bA_0i5IhUMEQ7kNvwEP6B61&_nc_oc=Adpl7ed-wKiGcjRkyHebGwdy8ROUW8No6CqKJMDI6G5Fm3JTKtwmXK5qO_p0ME8fFxE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQKsmiogSnu6TUFjspSKPtdOJE-6l3xw3GxPDQZla9TxvA&oe=6ABEB7B7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMRyFqZdlGKnbe-VZkMWQMeWAeEDz9_qLDUQdfRbfvFCmtbkqQZvNgknU0V9iIFIySq7T3K2wkNCrNXvWzOOMfAVPzVfRKboGpvcD0.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lR_gYjjsNiMQ7kNvwFNwIv1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTUzOTA2NjQ5NzMwMjgxMCwiYXNzZXRfYWdlX2RheXMiOjI1NywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c4ac95d892d4ed5a&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC8wRTQzRDM5RUQ0QUU1Qzg2QzQ5NTAxRERCNTE5MEZCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmtITc_brxuwUVAigCQzMsF0ACqfvnbItEGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQLUrzrEci1XeOrQ0KZdFna_saJWbemYCnN5kDb87gSUlg&oe=6ABE9E4B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786353633_1524967679399637_6158509571864246382_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=suV9BAfiqcYQ7kNvwHqSxEm&_nc_oc=Adp0_RuVw2JF4qc1ZnNjAhguVjKWixdsFoSq0ztKhOrpe0NVLUq7o_Ju2EuuZenx3eM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQI57nkK4PLMFwaVnKYld6bKkVCoQ9h2ZdXKkOZ7OWYaNg&oe=6ABEB6E4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQN45j0pN9VALDBBYLfKP88qgB-KWomjS_ERwYOGq7EPLHNX31jfWw3S0nxDKQh_KRQU9OfNpcsQ7MS9-yBeYdpX50eTv9f7ET_PW1A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Jn-18QGEMugQ7kNvwFLW8uZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODY1ODQ4OTk2NjIyOTA3LCJhc3NldF9hZ2VfZGF5cyI6MjU3LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b9ae94526711fed9&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC9DMDQxODZEOEZENDFEMzA2OTc1MTYxNDU5QTQ5OEY5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9sj73YXfiQMVAigCQzMsF0AbmZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQKeU3R9lVnUi-qgMKRh86oZ0iWMxy-YcmYkodSzSTCSbw&oe=6ABE8AF4"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785320718_1579876230496968_3817106389131475347_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-5QJRWZxhasQ7kNvwF5ev68&_nc_oc=AdqrEavpXkwM5GNEQ30A1TBOFpKlyOlx3Cab5_0WYwhIxMKw9gNtn7JMjUQWN8kvovM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQKXihttI3dR2DfUOAXgkO_HtPf8Yv0P5a27_Iwx1pIY2Q&oe=6ABEB9C9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQPeUNGM6HF90a2Wf3cc1Adi4eUE8EmdOFI7suP3Nu09GO6_NEIcFv4F-qpzTlVqosa5wJhLY3fdFG9jlAphpaL5nsKZOH6UoZP0VPg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dtMOmKTyVlMQ7kNvwHT2IWT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NDEyNDIwNTE5NDUwODExMSwiYXNzZXRfYWdlX2RheXMiOjI1NywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5da45f47b416aa29&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC9CQjQxMjhFMTU4QkRBOEQ2QUUzMjczRTA4Qjc2RDg5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmnt3Lmau80w4VAigCQzMsF0AiIcrAgxJvGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQLt9l_16CiY_sFHkOVmnmjEg-6MexfYJXLk6VkktSbGAg&oe=6ABE9FA0"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787046609_906827498750550_8561779833122859249_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zRt7kmpnXSwQ7kNvwFUk3RG&_nc_oc=AdrAMV9_B5k2yzCBXSKEKnAQ1jXY4JbMPmCsbpbr3igVpRZlW3lI8x9w8sn1AhNCV_M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&oh=00_AQLLC9T_IO2DLrTaiTupRagOPIcpjcZ1zfNa2L69EfbMGA&oe=6ABE9FE7",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMJ8TXndCxBSsR6GGQVkLZx7_THMTvRnR0pjm2o_98rvfaO_q58rfM9zhfOwBiTaVzyoK1Tpadko0lsc149gVGlyRv06I1JQP6eJ3E.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=PhHSLwLRnI0Q7kNvwFZIjTj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODk2NDUyNjgyODc4NjYxLCJhc3NldF9hZ2VfZGF5cyI6MjU3LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9809489272e7bb4e&_nc_vs=HBkcFQIYQGlnX2VwaGVtZXJhbC9CQzQ3MTIxNDdCQzQzRjNENjMwRUNFQkExMTc2NzFCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmirvE-7TUlwMVAigCQzMsF0AizMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZazBAQA&_nc_gid=-gwLRyqwMjUPQPYBgiroEg&_nc_ss=70289&_nc_zt=28&oh=00_AQKC36tM1vFsKiMmjutw-YX37s5GiPm03CHp8CUD2FKJHg&oe=6ABE9040"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1092990660331002"
+      },
+      {
+        "id": "2844912992567132",
+        "body": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "http://instagram.com/casatua_il",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1342777197296655",
+        "text": "⁨\tג׳לאטו איכותי, מקורי מאיטליה 🇮🇹🤍⁩",
+        "links": [
+          "http://instagram.com/casatua_il"
+        ]
+      },
+      {
+        "ad_id": "1077445968227435",
+        "text": "⁨\tג׳לאטו איכותי, מקורי מאיטליה 🇮🇹🤍⁩",
+        "links": []
+      },
+      {
+        "ad_id": "1514525543719823",
+        "text": "הקונדיטוריה האיטלקית CASA TUA פתוחה כל יום, 7 ימים בשבוע, ברח׳ מדינת היהודים 86 הרצליה.",
+        "links": [
+          "http://instagram.com/casatua_il"
+        ]
+      },
+      {
+        "ad_id": "1353407753325263",
+        "text": "בואו לראות איך אנחנו מכינים את המשקה הכי טעים שתשתו הקיץ 🇮🇹🤍\nפרפה פיסטוק תודה.",
+        "links": [
+          "http://instagram.com/casatua_il"
+        ]
+      },
+      {
+        "ad_id": "2324103301750483",
+        "text": "בואו לראות איך אנחנו מכינים את המשקה הכי טעים שתשתו הקיץ 🇮🇹🤍\nפרפה פיסטוק תודה.",
+        "links": []
+      },
+      {
+        "ad_id": "2844912992567132",
+        "text": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1742350090293339",
+        "text": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "903358565902037",
+        "text": "לדוידה היה רעיון לקחת את סלט הקפרזה האיטלקי שמקורו באי קאפרי, עיר הולדתו, ולהכניס אותו לתוך פוקאצ’ה חמה. \nהתוצאה לפניכם 🤍🇮🇹",
+        "links": []
+      },
+      {
+        "ad_id": "1144694260945751",
+        "text": "שכבות של קרם מסקרפונה, בישקוטי טבול בקפה איכותי וקקאו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1411786690812926",
+        "text": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1122083960148164",
+        "text": "אנחנו מגייסים עובדי דלפק בקונדיטוריה האיטלקית CASA TUA בהרצליה! שלחו לנו הודעה בוואטסאפ עם כמה מילים עליכם ועל הרקע המקצועי, ונחזור אליכם בהקדם.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "3457601771116372",
+        "text": "אנחנו מגייסים עובדי דלפק בקונדיטוריה האיטלקית CASA TUA בהרצליה! שלחו לנו הודעה בוואטסאפ עם כמה מילים עליכם ועל הרקע המקצועי, ונחזור אליכם בהקדם.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27982282148110444",
+        "text": "אירוח משפחתי, יום הולדת, פינוק למשרד או סתם כי בא לכם להגזים קצת עם כל הטוב הזה🤩",
+        "links": []
+      },
+      {
+        "ad_id": "1431666305261634",
+        "text": "Cornettone Vaniglia & Frutti di bosco",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1563140014771328",
+        "text": "כל אירוע והמגש שמתאים לו 🇮🇹🤍\nזה ממש פשוט, אתם מדברים איתנו\nואנחנו מארגנים לכם מגשי אירוח לכל אירוע \nמתוק | מלוח | מיקס\n\nלהזמנות לחצו על הקישור לווצאפ בביו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2844912992567132",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nCASA TUA\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 2844912992567132\nהתחילה לפעול ב-15 בפבר' 2026\nפלטפורמות\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nCASA TUA\nממומן\nהקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nקרואסון ענק לאירועים | להזמנה מראש\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +757,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:23",
+    "unqualified": "2026-09-27T08:22:55"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

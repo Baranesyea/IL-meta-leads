@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-187",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "544012352410914",
     "page_name": "ארטישוק- Artishuk",
-    "active_ads_count": 1,
+    "active_ads_count": 24,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -60,8 +60,22 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1964640657525932"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 24,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 3085,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1964640657525932"
     ],
@@ -73,7 +87,861 @@
     "page_categories": [
       "Business"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1004306685936971",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/759642541_1028746646682234_1358960247414198197_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R0hAhkAJTtwQ7kNvwFw1NpD&_nc_oc=Adr-jkX7rdgTv8pPxo8DrY5qLjwACrubgMwyV-6GrPTVdRth6nMwf2S7xq72f6YQfMs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKvUdj62AR7H295pdT7f5oqbmG1Gp1uc--6n8HMh6zfAQ&oe=6ABEB1C9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/759596264_27777082765281262_5994073358746061886_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0jqO_cO8xoQ7kNvwEB_gH8&_nc_oc=AdpqgXjEiCQ3FqaFgg9TKxgB1KS4GqalYcS1RpgSqq4xZktnnii58-RQQqQsCJmfGhw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLpyOWvYCmzNgsrV7Dsj0kYP1kcZR524xISp9Xr0POROQ&oe=6ABEAC64",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/759642541_1028746646682234_1358960247414198197_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R0hAhkAJTtwQ7kNvwFw1NpD&_nc_oc=Adr-jkX7rdgTv8pPxo8DrY5qLjwACrubgMwyV-6GrPTVdRth6nMwf2S7xq72f6YQfMs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKvUdj62AR7H295pdT7f5oqbmG1Gp1uc--6n8HMh6zfAQ&oe=6ABEB1C9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1004306685936971"
+      },
+      {
+        "id": "1964640657525932",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/760793126_1383234773190767_91211137646749323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Gk9xXW0WAMQ7kNvwGXqm7O&_nc_oc=AdpRomLoyBCgJTmBYtAQOWD_yX-IW8yMiqUkseI2nrHxitKPy_43QPgDUM8941PAvfg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJGFhgpNuzr6Thh_rKag5-TV4cJBLPbq7h10Whcvb8M5g&oe=6ABE9A95",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/761273312_1253397833474334_1918571105499287800_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WqPnryGXEPAQ7kNvwE5gW31&_nc_oc=Adrk9pyrOng9dKB6GT1UAs-g96RRCguxkqUwdukcp6MURjIsnjwJyyVrgNaKwQjNl5g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIihnxoTprMC88fkOj_88Wrsnqf-vzZ5LHlDOyQI86ctw&oe=6ABE952C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/760793126_1383234773190767_91211137646749323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Gk9xXW0WAMQ7kNvwGXqm7O&_nc_oc=AdpRomLoyBCgJTmBYtAQOWD_yX-IW8yMiqUkseI2nrHxitKPy_43QPgDUM8941PAvfg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJGFhgpNuzr6Thh_rKag5-TV4cJBLPbq7h10Whcvb8M5g&oe=6ABE9A95"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1964640657525932"
+      },
+      {
+        "id": "1410091264469715",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772759819_1606052321031410_2283142590389578930_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kf7EqEJCvXAQ7kNvwHVMufQ&_nc_oc=AdogocMJuWKGed5dGrfkeN7lU5J95kWXQ-8l-YJe6HlH5HVIf7p56YrBHovyyWBx8dE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKlO184Q91CG5erqMrSCo56_USyWyQNklwFyRE2kq96Bg&oe=6ABEA6A3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774281060_1454171853426027_7978741457416781368_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fy3_0w-SCj8Q7kNvwERUINH&_nc_oc=Ado4pNnG8xuTw1hR_XHCXI4HupKOwb8LJ3Z8M3eGAnRn78aUL9m5kGyNrTtQIE4Pj4c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKuCP5uqxLAitaFmsOhDVVTLA8p9YRgl6FkoGeA3Gf_HA&oe=6ABE9E34",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772759819_1606052321031410_2283142590389578930_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kf7EqEJCvXAQ7kNvwHVMufQ&_nc_oc=AdogocMJuWKGed5dGrfkeN7lU5J95kWXQ-8l-YJe6HlH5HVIf7p56YrBHovyyWBx8dE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKlO184Q91CG5erqMrSCo56_USyWyQNklwFyRE2kq96Bg&oe=6ABEA6A3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1410091264469715"
+      },
+      {
+        "id": "980408251709149",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784617200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749355037_2079556679310683_5406053860258659595_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mdmwHGKU-MUQ7kNvwEF-dQ6&_nc_oc=AdrDnsNrVbwKoXXnOQgPadQuolG1-OdApug4GnA5DSBzN3jnHWep4K-8A59SUWzhhvw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIbRD7PJXSifzwSBpgfZY6CyZKRYhTpQX64N6Wu9L6AVQ&oe=6ABEB8FB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749714237_1241568818051110_8814458284185159500_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vo9Q7odK4_sQ7kNvwE9ygnf&_nc_oc=AdooIn9jIW6lt5deJse-_Ci9J-gg29b0iWtGMe4e1hdUAk7OkVrPDjdBqfq3tHXd_uY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIlu9bqKDqnieQR0wLMFN7c2ZQ5CSZ98PRaQ8v5lPnerA&oe=6ABE8EF0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=980408251709149"
+      },
+      {
+        "id": "1015409147877050",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740846962_1384786613709150_5959668289633422050_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HxxansJnndUQ7kNvwG3Hg3j&_nc_oc=Adr4q3VYZB0WgZ59Cgx9dDgmsNSjkcAkLzQ1LN5V2oaonrRrTNJfS5z4fdHvZgI6XWE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJuT09HJ_WGiPr-gPwWaYsVVYhknG-dWfqa9z2ILp3EHg&oe=6ABE9140",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739855244_1186598266952964_8145694525759135659_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gnr8cSiC6XcQ7kNvwFyttWG&_nc_oc=Adpx82-NSTnqYn0AyoXa1loEDwlKSWftYedBLuGe7Hl2CDilwFZGnMltgzDUm-I4QsA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQK_6Mz86X0WuKP6taLIi5R_IJTp6HyP6rV2IG7wQesegg&oe=6ABE9E02",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740846962_1384786613709150_5959668289633422050_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HxxansJnndUQ7kNvwG3Hg3j&_nc_oc=Adr4q3VYZB0WgZ59Cgx9dDgmsNSjkcAkLzQ1LN5V2oaonrRrTNJfS5z4fdHvZgI6XWE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJuT09HJ_WGiPr-gPwWaYsVVYhknG-dWfqa9z2ILp3EHg&oe=6ABE9140"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1015409147877050"
+      },
+      {
+        "id": "1626991826102249",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779606000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706527284_796738310041232_8936308525101106286_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xCljYGCcQqIQ7kNvwGcR-1w&_nc_oc=AdqDneEoAS6kpWmlJ2DrColiTRT9z9xYU2Emq5KVKCucPTJfcT0YAcOFX0LbJ-gGGuo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLuw5qBY8-O0mSle6-qOAriaEym_4A1YYm6-G2XWSiFAQ&oe=6ABE9609",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706357280_1081097275095189_2193164823611951887_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4YBbJjqdYmMQ7kNvwFuQW5k&_nc_oc=AdqbSh9J-JmHS7RLCw0ukzydZqctRAZqpaHRDT3ywtmRmcxvPbNr0ZWJOB6RpQDalz8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJ0pRWKEmFooS8GdjNziwfg2EMzg8jLCl5i28OBqPhQgA&oe=6ABEAB9B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1626991826102249"
+      },
+      {
+        "id": "1064327929532822",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "מסיימים מסלול?\nבארטישוק יצרנו חבילת סוף מסלול מושלמת,\nהכי איכותית ומשתלמת!\n\nמה בחבילה?\nכובע Carhart עם רקמה בעיצוב אישי\nסופשל של Aztec עם רקמה בעיצוב אישי\nחולצת דרייפיט עם הדפסה אישי\n\nרק ב-330 ש״ח\n\nהקליקו לשליחת הודעה בוואטסאפ  >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784232199_1473706334602976_1186807424211117926_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D7wKaOH-raAQ7kNvwGJC2i4&_nc_oc=AdrWmZI5vHQF9caut22luzMFIptm7ApJw2Gtoc7vhR-tdUwczxgLGhhK9STuTILw9PY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKnk5IMn3LSEjdTIpXKNXeLRMd7_GiU_oyRNakO-k8MYA&oe=6ABEB083",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783985364_1420088890039147_530591710918874891_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=byxJsgQgAX8Q7kNvwG79CbS&_nc_oc=Adp11QQCCplDbUngj5dgxLc8cnm7mQ87vN5zWtletsOqimiys50-Bmx0ggxlpoVoplg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIftM0I4N34xAoh6hqEPMBWap4Fq8cO70utGR-gpkdk7A&oe=6ABEB006"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064327929532822"
+      },
+      {
+        "id": "1097259539436725",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790640557_1562098038730241_8435213192656018476_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BsBZtKL13NYQ7kNvwG1Qoi0&_nc_oc=AdpGw5wrMLAuPAnwl3sBqtM26PrNHRs4fiRG92KscSpxbXvkMZ3qKowHQqJpa3MWfT0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJh9UY3-RxQ-YV8YrAbP8KIJBCDiuEy1bGKxVVslqjM8g&oe=6ABEB125",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPZMasy-EEtds6DTmBEFxQvkHVMe2uDPE4eUkhhenM9KgD3TrJyUqgqsEILqWEQufxH5VylLDeWwG-zgPxqy5OsFX1J5yIs6sS95LEs0IAcug.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dBD_62-lfc8Q7kNvwE-JmIh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDAxNjg4ODczMjI4NjUsImFzc2V0X2FnZV9kYXlzIjozMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4b5359519c544ad6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjQ1OEFCRkU0MUMyNUM1Q0YwN0M4Nzc3ODRDQTVBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDVEOUIzQ0YxREI3RUM5NEMxRTgxMTVCNkY2RUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbio-K20LG8BRUCKAJDMywXQDWzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&_nc_zt=28&oh=00_AQJiGi6loZl5ukI6gyoGMnrfCoJkbHGgxkmb2MCWMQiQeg&oe=6ABEAB83"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1097259539436725"
+      },
+      {
+        "id": "1754841462506396",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787641200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/782344952_1378359713796612_8690597609113384356_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fe0IDVQHV5cQ7kNvwGyHfYv&_nc_oc=AdrihTvT91yeR3fSESVvz2kg7qVmKRZCf2BFVwuplGi9orMYdeE8oXZQMy6kKIHXeMk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQK4hWLaTCcKeQScuWhK7LyMmG8c4LXObaPG4u-dmYhcyA&oe=6ABE9424",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPZMasy-EEtds6DTmBEFxQvkHVMe2uDPE4eUkhhenM9KgD3TrJyUqgqsEILqWEQufxH5VylLDeWwG-zgPxqy5OsFX1J5yIs6sS95LEs0IAcug.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dBD_62-lfc8Q7kNvwE-JmIh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDAxNjg4ODczMjI4NjUsImFzc2V0X2FnZV9kYXlzIjozMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4b5359519c544ad6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjQ1OEFCRkU0MUMyNUM1Q0YwN0M4Nzc3ODRDQTVBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDVEOUIzQ0YxREI3RUM5NEMxRTgxMTVCNkY2RUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbio-K20LG8BRUCKAJDMywXQDWzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&_nc_zt=28&oh=00_AQJiGi6loZl5ukI6gyoGMnrfCoJkbHGgxkmb2MCWMQiQeg&oe=6ABEAB83"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1754841462506396"
+      },
+      {
+        "id": "2702516306832292",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787641200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786757585_1610456224129849_1419248115596884519_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YIzJogMDZLIQ7kNvwHf5gys&_nc_oc=AdqqhAhalFNoWugKPTV4_WtLof6Hu12SZT2_lvEVr8urDYpLtWPdeYPr7RKJqc9HUGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLs4kBL_UTmmNvpU5kcs3tQTB4qJk80W-sZUCl-kv-hhQ&oe=6ABEACF5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPZMasy-EEtds6DTmBEFxQvkHVMe2uDPE4eUkhhenM9KgD3TrJyUqgqsEILqWEQufxH5VylLDeWwG-zgPxqy5OsFX1J5yIs6sS95LEs0IAcug.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dBD_62-lfc8Q7kNvwE-JmIh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDAxNjg4ODczMjI4NjUsImFzc2V0X2FnZV9kYXlzIjozMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4b5359519c544ad6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjQ1OEFCRkU0MUMyNUM1Q0YwN0M4Nzc3ODRDQTVBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNDVEOUIzQ0YxREI3RUM5NEMxRTgxMTVCNkY2RUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbio-K20LG8BRUCKAJDMywXQDWzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&_nc_zt=28&oh=00_AQJiGi6loZl5ukI6gyoGMnrfCoJkbHGgxkmb2MCWMQiQeg&oe=6ABEAB83"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2702516306832292"
+      },
+      {
+        "id": "1527682008760251",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779606000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703727775_2075039686726774_1904917123349014285_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tcVUzXUdlsEQ7kNvwFKZ6pU&_nc_oc=AdpYF6OHZOcTcxWmEDiLD2bzvSdEG1qCF3yEM5IIYL6CaPK-VFCpJ5o1T_tVXHa45kM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIk7ECoyTZROJLmCeRKGle8vq03rVkZGP2dVSrleZ8o7A&oe=6ABEB2E5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/705938163_1485820052991776_5314515993479131429_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CEvb1B5NRBIQ7kNvwFHtEv4&_nc_oc=AdpIzNn0ILptn9Ub8Pvt3mc-pPrQjXbfkFy8UtJyLWnDaaYuM3FKWB39zfpGv6TUc9s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJudkm7LzMJbyFK84m_iEJm0iZccLIP22D18G7fUdNB0g&oe=6ABE8D9E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707188304_984914687666734_7531259526834641690_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vTsAm8Wm2tYQ7kNvwHW5Q0c&_nc_oc=AdqNvRXWQ6c8FU2IDGoF33uwP3NUFQ5jrPGeuG0kYppjWNG_ouANvIpcWEUqB7jNE3I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIdlfnju-TRhZcr7k_oXL8Jr9UhE8RFUk7emUrm9eEUAw&oe=6ABEB7BC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1527682008760251"
+      },
+      {
+        "id": "1359606716045552",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779606000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706813688_3996517593974021_5432094328131764079_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dr4I54TEaH0Q7kNvwFZJRUI&_nc_oc=Adrve4r6Mgl76U8NPVdO_3JjTAA-wWVthViidI_qNO6f-3b6dt5-c8PTwoS7xmwQ6lk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQK-ugUig1DRX3G4zX2OH1lZeH21bWYUtNRKO1VscZyCxw&oe=6ABE88B2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706781423_3072489426278061_3028749913774581652_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UnShtfajXRsQ7kNvwHM-MKh&_nc_oc=AdrPFttIR8gdvhBYL-nTfnwReB1pn74TG4OqT2iGzQwsI4zDRb8jrzonXu0_dnW82yg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLKVvyPeU5q4ocehaN7RgS8oIx0M1rRf_AQyCdW0gLMUQ&oe=6ABE9A24"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1359606716045552"
+      },
+      {
+        "id": "781383878366117",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784185200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/735043599_876550848448037_8472704558132234925_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XPm-pqQAA5QQ7kNvwFN9-Vy&_nc_oc=AdrFSCs0XULo4hG5SA_fTUBLY028fpdK35jp3y9Q0n4nc3FkjxMDXIJb__LXSdC3a64&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKcBj3Ux3ZpCdJDf2MPVA5Zja6iFd_9Q9ezJUi0Xvb5AQ&oe=6ABEA8FC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/737025857_1032912309125643_1384027767019030368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ONrc8CEl44YQ7kNvwGX9TSK&_nc_oc=Adoyw8O-nojpmIPwzJRgDavacW9OhyQ4QqZ5BXthyOFHpRa0LLhjA4ML9dOphomV3Is&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIPZqgJX1zi7fepbzl1qUttWQ8arVXdFrpXn4_GfFskJQ&oe=6ABEB430"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=781383878366117"
+      },
+      {
+        "id": "2268648757205511",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763119890_1060019876716784_8275418864114007471_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0IKwVTpgz3kQ7kNvwFoYidq&_nc_oc=Adph8WFMKdjZGnAZBxf84pr7ZwHi8Brqosjt8a4TLQwNNvMfE0U_928xAkwkH7r222Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQL3qMz1aKfumvPI4aDV_Y2feb05GrM5yxKsgfYTE0ZpvQ&oe=6ABEA785",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763249642_1929059151100178_3666393304289501340_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mNuQlOY8zEQQ7kNvwFV_MD7&_nc_oc=AdrOtCBND4MakXBM5_Pzw6ykHc_PS0KtYckRNCmyev_OygmMhY8urr1pCbjtL1DU858&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKHUoLcMywISwSf1xVIVFgqxisSCjGEglnuH7g8eyv9RA&oe=6ABE8ED5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763119890_1060019876716784_8275418864114007471_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0IKwVTpgz3kQ7kNvwFoYidq&_nc_oc=Adph8WFMKdjZGnAZBxf84pr7ZwHi8Brqosjt8a4TLQwNNvMfE0U_928xAkwkH7r222Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQL3qMz1aKfumvPI4aDV_Y2feb05GrM5yxKsgfYTE0ZpvQ&oe=6ABEA785"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2268648757205511"
+      },
+      {
+        "id": "1405466071499899",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786863600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775814308_1797899468232491_6269402353786794370_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SfuNoRzaLrMQ7kNvwHKoyFh&_nc_oc=Ado5A9sbvuBhfgI09YDRtCAVrxS8rAkqCnsJ-T6zDUA6YJO2zabxLipKjx5-ezaXqIA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQI_xvdxVIsavlrFxYYvLluAtgPhVQ8_CWrLh2SQM0EjNA&oe=6ABE8C7C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775815207_1294162785967547_4090821671603435267_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OlG9v7weNCcQ7kNvwGVBMDo&_nc_oc=AdoouJEt_Gpj7kkTd7Dvrs5z6hXfF0fHTJN2VFld8xHu8k_1JjQsHr-dtWHvb30O_0M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQI5MCKaBKrs6i-4xoaNK-QxdGt2-GIVB2VDkwUI00AVag&oe=6ABE9C01",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775814308_1797899468232491_6269402353786794370_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SfuNoRzaLrMQ7kNvwHKoyFh&_nc_oc=Ado5A9sbvuBhfgI09YDRtCAVrxS8rAkqCnsJ-T6zDUA6YJO2zabxLipKjx5-ezaXqIA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQI_xvdxVIsavlrFxYYvLluAtgPhVQ8_CWrLh2SQM0EjNA&oe=6ABE8C7C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1405466071499899"
+      },
+      {
+        "id": "1575336583932036",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784444400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/750597514_914985430898037_8078431664342346946_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uHSpMbFUnBYQ7kNvwF8Ol21&_nc_oc=AdoW8AXcxRckkFi1svMD__LA7qZB09GmsbGCUYbzVlj01ZWIe9NO9VdRN91vMp5HAhQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKfgQs4pXu4B390pO1Zu3EhXaP8vwij3li6r3y7T6wG2g&oe=6ABE9CA2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751563171_2601044623646500_6047176095993393056_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7H5S8rZakpwQ7kNvwGie-TS&_nc_oc=AdroxBiYpSdUfxyTkfnsUQdp7YAJwtvDLoEmjm_kZHYPmmgBjE8EzoHUlS8MMffBGD4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLjALcn9IR410qNi3fw60qOKJ4WLifSZ0GFfmklr96bsQ&oe=6ABEBCA5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1575336583932036"
+      },
+      {
+        "id": "1103072872239979",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "הדפסות על מגוון מוצרים לעסק ⭐️\n\n׳ארטישוק׳ מזמינה אתכם למתג את בית העסק עם הדפסה איכותית על מגוון מוצרים- חולצות, סינרים, כובעים ועוד.\n\nבואו לשדרג את הנראות של הצוות שלכם. \n\n*משלוחים לכל הארץ\n*מינימום הזמנה 10 יחידות\nלהזמנה מהירה לחצו>>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812781750_1585718139678469_4621852339043956653_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gzdWZnS3-uUQ7kNvwH0_vVW&_nc_oc=AdpILY0Q0RplQNTZss-1fCycUrHGwQ4i27Xd1hu9qDrdtmLvoHsHeb-Xz_-TEjYBhCc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKJPE6f68RV8ND4KptkAIjraaQCRmU0iByrLfiOixlgqQ&oe=6ABE88F3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1103072872239979"
+      },
+      {
+        "id": "2294506281380904",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "חולצות אנדר ארמור, סאקוני ופאנקייר בעיצוב אישי עם רקמה של הסמל של שלכם.\n\nמינימום הזמנה 20 יחידות\nמשלוח ללא עלות לכל רחבי הארץ\n\nלפרטים והזמנה לחצו 👇🏼",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799170357_1882948472675951_8923238844928264238_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WaM8OtIQ3WgQ7kNvwFtEieE&_nc_oc=AdqPml-VNwQiTG6-jkpM3NsnLt9DMU99yKt6cCFgQgTO6hmXmLt92BDzkMHQPICnMIY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJmIiHBIz1nZ8Vh-bBLJ5e1KwLyzq-ygszbUedWYmuN8w&oe=6ABEC06B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801667742_1550355983006746_6552357449835001120_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=biIFbHvh9RAQ7kNvwHR5O34&_nc_oc=AdoG4QWncym_uU-ca2Ba-4G6Gd0OTCYjb-bYfvi_CcRbYMjFCzxTbtcKtyJtckhkdS0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQK6p9WEhp5QmCEEXeWusYKWwGHItwiDFaXrQZfLf9N2QA&oe=6ABE8EFA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2294506281380904"
+      },
+      {
+        "id": "1673710737649702",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "חולצות אנדר ארמור, סאקוני ופאנקייר בעיצוב אישי עם רקמה של הסמל של שלכם.\n\nמינימום הזמנה 20 יחידות\nמשלוח ללא עלות לכל רחבי הארץ\n\nלפרטים והזמנה לחצו 👇🏼",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799829498_1445789004111339_3966989104516631863_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KaqHFSLJ6gkQ7kNvwHvQjkq&_nc_oc=AdrU5qaUDLUBauk-Rw5GZUDjlpjmecuPl72WQuUoQRIdZ0-jHrBF7AUONLkyK_AS2Ec&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJA5U2KPQeicAzC00nGsPVdHqSJTyorTaOgorY3LyU19w&oe=6ABE8CCF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798018688_1762434931759327_1490822195597767_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7SZQpDmzC3sQ7kNvwHvbTqn&_nc_oc=AdqY5ARSWxPBRzJYFXpuQ9ThKTcpT4b1FSQWE0apFv7Cy11Isioa163O-qVqEKKdA1I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIgwJgJXjBaJpGHAn630341MD8bE70LOlaodQCKtiK5aA&oe=6ABEAE71"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1673710737649702"
+      },
+      {
+        "id": "4458604374414353",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רוצים למתג את הצוות שלכם? \nחולצות עובדים, קפוצ'ונים וכובעים עם הלוגו שלכם. \nנראות מקצועית מתחילה כאן.\n\nמחנה יהודה | אגריפס 95 ירושלים | וואטספ - 054-2964936",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789926556_1557280146174901_890252380692660823_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fcm3yZBwXiEQ7kNvwHd7DEM&_nc_oc=Adom37iqkmAcD0jZOOEsw1tXZJ1gyb_ffsNMPtqdbE09VUY_JgTEmM9Ti-Yjca43xUI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQLPf_dZFVTxFRC8kFLAjDKc5nYH2FuoFVKCuAiFXGGKKA&oe=6ABE95E7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4458604374414353"
+      },
+      {
+        "id": "1389299860125679",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/772156300_1350606736733288_3666785030085860944_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NP7_PvWOVnoQ7kNvwE24TVM&_nc_oc=AdoKtq_7gxvNh963TlwtCzFS_JLODUuBpiZ8wO86WXC16G7dW_MCCtiv6Q43bZeQyKc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKWP3MxJJIhvbHTCjzisTHOsjjYGHabaVJyZxacmiS8OA&oe=6ABE8B53",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772378991_2189085138696737_2619358137917279393_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JFwEdD6dzNgQ7kNvwH-5l9R&_nc_oc=AdphahxbBY5gC8jcdyQAo4lYqfyDJvolrpFM4hn6sYm4i6O3HadvcdtZxRV1S1HVkCw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIy4ohXPDW9oFPyrePnMCaClL__HFs1n6z25JLr8VK_wA&oe=6ABEBD3C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1389299860125679"
+      },
+      {
+        "id": "1212248217764157",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774825942_1685318612544539_7810392919840776144_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BCiwf5a-LrsQ7kNvwFCf3QU&_nc_oc=AdozcgKpWS0fGAfuI-ccHdy_xvT4fQxH-0tQFyfcDYZnp4LLZ0wwDSdKNnvCiwL60UQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKFwsUmb2yJzOpoKydORd9aVgLh4TShtvW0hY09J8MtkQ&oe=6ABEA2CD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772466099_900351096032035_765467816608848379_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=faDeVwwtsR0Q7kNvwHFZrzo&_nc_oc=AdpQnk8tNsKv8VWC6ElYAFCKyV5gmXkAgXJUdb-xZugHqOoDHPOYSwuIgBZSBpHgubQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQIrEDikBSCK1Y7Et476fEKe_oWpOsqvyz0CkF5uyybSHg&oe=6ABEB466"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1212248217764157"
+      },
+      {
+        "id": "1082319677663472",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "חיילים לחצו פה לשלוח הודעה",
+        "body": "מסיימים מסלול?\nבארטישוק יצרנו חבילת סוף מסלול מושלמת,\nהכי איכותית ומשתלמת!\n\nמה בחבילה?\nכובע Carhart עם רקמה בעיצוב אישי\nסופשל של Aztec עם רקמה בעיצוב אישי\nחולצת דרייפיט עם הדפסה אישי\n\nרק ב-330 ש״ח\n\nהקליקו לשליחת הודעה בוואטסאפ  >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780748701_1976059466436140_4078478659851340722_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AHDM_TV0xTgQ7kNvwHUh_vM&_nc_oc=AdoIvNF0aS_jyYKWA-jFYSMtcZK7MGRbfqEjwRlejEMouu6MZBFoUdj7euL5VYDY1Ig&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJoCGIV7-lt44LNiK5hWPnu_Q71TMVDnUYZQnakXYa1ow&oe=6ABE9BD5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783162377_1752741865624864_1100308998888005989_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e-dYt6Dzn4EQ7kNvwEZ6epV&_nc_oc=AdoEi2IQVV1CvKsp6N7dZjzyoOzUMdec38CL-61bitXkt_EkW_V47G04-xFZwtNrU0E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQKhseNTZfDweVGjP9648xlRTsMTBcMS5ODnm1ZyS9FmMg&oe=6ABE9E8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780748701_1976059466436140_4078478659851340722_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AHDM_TV0xTgQ7kNvwHUh_vM&_nc_oc=AdoIvNF0aS_jyYKWA-jFYSMtcZK7MGRbfqEjwRlejEMouu6MZBFoUdj7euL5VYDY1Ig&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQJoCGIV7-lt44LNiK5hWPnu_Q71TMVDnUYZQnakXYa1ow&oe=6ABE9BD5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1082319677663472"
+      },
+      {
+        "id": "2114669982478880",
+        "page_id": "544012352410914",
+        "page_name": "ארטישוק- Artishuk",
+        "page_url": "https://www.facebook.com/100063564309446/",
+        "page_like_count": 3085,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786863600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/772871004_2506694546476856_1360395754654156119_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4OLfvnU6CgkQ7kNvwGTRv6Q&_nc_oc=AdpEB4CzTP0QgBjocc-s6OmXnCX-9fx-2-oEYOPzN40oBvAWKpwZAyZ9Dk0ga_J8h7Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQI6wxYK7Z9_x-teK5A6DkBDtrRY4_s1vVg7fc4ALtCOAw&oe=6ABEB0E2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774667795_1061171136561465_3686961149780390904_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZNzIEMAv7osQ7kNvwHjt3MX&_nc_oc=Adr6ARflu4dP0SPHBEkJNZwHKPrkcdiq6bZqePkJvksx80dHrvRcK5lAMRmdjQE4NKM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=crBzx7Yswx4BZagHnfFIsg&_nc_ss=70289&oh=00_AQI5QfOfvuE6auJY9oInd8N2wG5a1vDmNXHOHEGswfKRgg&oe=6ABEA9AE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2114669982478880"
+      },
+      {
+        "id": "1964640657525932",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1004306685936971",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1964640657525932",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1410091264469715",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "980408251709149",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1015409147877050",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1626991826102249",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1064327929532822",
+        "text": "מסיימים מסלול?\nבארטישוק יצרנו חבילת סוף מסלול מושלמת,\nהכי איכותית ומשתלמת!\n\nמה בחבילה?\nכובע Carhart עם רקמה בעיצוב אישי\nסופשל של Aztec עם רקמה בעיצוב אישי\nחולצת דרייפיט עם הדפסה אישי\n\nרק ב-330 ש״ח\n\nהקליקו לשליחת הודעה בוואטסאפ  >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1097259539436725",
+        "text": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1754841462506396",
+        "text": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2702516306832292",
+        "text": "מחפשים חולצות לקורס קצינים?\n\nסידרנו לכם הטבה משתלמת לחגים!\n\nחולצות OMLA, חולצות איכותיות \nעם הדפסה בהתאמה אישית,\nרק ב- 60 ש״ח ליחידה בלבד עם הדפסה.\n\n*במינימום הזמנה של 20 יחידות\nהקליקו למידע נוסף בוואטסאפ 👇🏼",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1527682008760251",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1359606716045552",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "781383878366117",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2268648757205511",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1405466071499899",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1964640657525932",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nארטישוק- Artishuk\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1964640657525932\nהתחילה לפעול ב-30 ביולי 2026\nפלטפורמות\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nארטישוק- Artishuk\nממומן\nכובעי קארהארט עם רקמה והתאמה אישית באיכות הכי גבוהה שיש!\n\nמינימום הזמנה 20 יחידות\nמשלוח ללא עלות לכל רחבי הארץ\n\nהקליקו לשליחת הודעה בוואטסאפ 👇🏼\nחיילים לחצו פה לשלוח הודעה\nSend WhatsApp Message\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -86,6 +954,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:20:28",
+    "unqualified": "2026-09-27T08:22:27"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

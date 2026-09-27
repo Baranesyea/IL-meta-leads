@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-195",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "urgent service: חירום",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -64,7 +64,26 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=4140514239504323"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 16533,
+      "product_score": 2,
+      "urgent_hits": [
+        "חירום"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "4140514239504323"
@@ -90,6 +109,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "rejected": "2026-09-27T08:21:35"
   }
 }

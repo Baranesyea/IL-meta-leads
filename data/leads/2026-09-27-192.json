@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-192",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "urgent service: איטום, 24 שעות",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -63,7 +63,28 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1033196469708433"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "סט",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 3646,
+      "product_score": 3,
+      "urgent_hits": [
+        "איטום",
+        "24 שעות"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1033196469708433"
@@ -89,6 +110,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "rejected": "2026-09-27T08:21:12"
   }
 }

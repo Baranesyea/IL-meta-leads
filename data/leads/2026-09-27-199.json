@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-199",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "853797554477826",
     "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
-    "active_ads_count": 1,
+    "active_ads_count": 6,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -61,8 +61,26 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=829215119759098"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב"
+      ],
+      "product_hits": [
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 202,
+      "product_score": -1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "829215119759098"
     ],
@@ -74,7 +92,210 @@
     "page_categories": [
       "Patio/Garden"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "829215119759098",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "body": "🏠 מחפש מחסן מעוצב ועמיד שישתלב בצורה מושלמת בבית או בגינה שלך?\nהפתרון המושלם מחכה לך עכשיו ב\"פשוט זול דקה 90\"!\n\nמחסנים איכותיים ודקורטיביים – מושלמים לגינה, לחצר או אפילו לשימוש ביתי כמו חדר כביסה, אחסון ציוד, מייבש, או כל דבר אחר שתצטרך.\n\n✅ עמידים לגשם ולשמש\n✅ זמינים במגוון מידות ועיצובים\n✅ קלים להרכבה\n💥 החל מ-499 ש\"ח בלבד!\n\n📲 שלח לנו עכשיו הודעה בוואטסאפ להזמנה מהירה\nלחץ כאן לוואטסאפ\n\n📍 פשוט זול דקה 90\n⏳ המלאי מוגבל – תתחדש במחסן מעוצב שיחזיק שנים!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1762329600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/575120483_2570824216634689_3822157742766208467_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sDn4G2g0q8oQ7kNvwFMNXKP&_nc_oc=Ado0Q7Y9QjZDLjd5zSArrGs0PaTUPRWREgbmceIa9p7DQD5-Tn0w3yGy_ZkoU9-Le8Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQKCMbfxW8pSK43OXPcL1DP4h_j3sUM61lmp8FDLngVdPA&oe=6ABE8F41",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/577036452_1553709905755511_1097369266397642675_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r_hT1l8g-7cQ7kNvwEZpPUW&_nc_oc=Ado7H_SfRBQ2fmE4Yu56cU16yVeTSpjdW0YS_Xh5hidWqugluR2nrE-eTHDEQUfTrZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQKJQ02-p1KEalIJ8bhPl6Iwav5LY59Fu7MXoODxJWosdg&oe=6ABEBBE5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/575950453_1514079853248785_1033039833869926679_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dFK9e4FeAuoQ7kNvwFSaTfp&_nc_oc=AdoQXwb7LM_XBIEEwDTLFJ0vxsZQ-ZnGhy4XNihdWMnUwRKfXy5i_j5u7QstUfGy6Mk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQIYZsZghsFvA39XwV2Naow01-G73UTWYxcGU0CrEqWPfA&oe=6ABE9624",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/577836767_1313179360104863_2437853001095620692_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=283ImRIz8zUQ7kNvwHyqTJo&_nc_oc=Ado96xsZ83DFuWIYRJKHS7XLFYo2HoUdTvsQ1zGrHb16y5h64R6tdu9dghin9marfNQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQJqb6RaBBPDueBc8AGztJaSXAIqaZ1GnurG6fYNDmTZQA&oe=6ABE9327",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/577861328_1737199620320714_1363544133502619598_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oXmId_d3v_EQ7kNvwH_j0SE&_nc_oc=AdpUQJKIKdDvOWYw8ApreLQoub3T6z8Wp-dLZjmd5MQPp5fXsekXD9rZpV2mF61ASVY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLjA1iME3IFWKmJ-69uVzb6pKGBQP7KnLPsn8xqP1_Xcg&oe=6ABE9365",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/578269488_800047359723298_1572686863374918332_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K1yUBuGrtrwQ7kNvwEyNSX4&_nc_oc=AdqYWXHkdKDgVp_mAVkZ9bFbeTsmPgKCGyY4XEEoX2BolbEccHUiRvT-QOG5dAke_FI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQJSVyebMl3sj1McuEXGV4BdhYGGI5Y8tLNZXQZ6CjeEZw&oe=6ABEAA3C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/577499384_1557529845245549_8468185190511591516_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MF9PfUa4npIQ7kNvwE1G7wM&_nc_oc=AdpTRSRniBt7_NTM5YhZZm8FShBM5I8i-I5sKv57VxgnzTtqRnPVa5duk9FD4M0aDgQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLU588FU5vKlbDhRl8KKEhcOdmoGXP0v_bVXzsTxXc23g&oe=6ABEBC42"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=829215119759098"
+      },
+      {
+        "id": "1179843527664829",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "החל מ־499 ש\"ח",
+        "body": "🏡 מחפש פתרון אחסון חזק, יפה ומעוצב?\nהמחסנים שלנו לא רק שימושיים – הם גם מוסיפים סטייל לבית ולגינה שלך!\n \nאצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות – החל מ־499 ש\"ח ועד 2,199 ש\"ח בלבד!\n\n✅ מתאימים לגינה, למרפסת או לשימוש ביתי\n✅ עמידים בשמש ובגשם\n✅ קלים להרכבה ונראים נהדר בכל חלל\n\nאל תחפש רחוק – כל פתרונות האחסון שלך במקום אחד!\n\n📲 שלח עכשיו הודעה לוואטסאפ להזמנה מהירה\n פשוט זול -מחירי סיטונאות בדקה ה-90  \n⏳ מלאי מוגבל – הזמן עכשיו ותשדרג את הבית והחצר שלך!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783062000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/735994135_863506769806585_7314311957618178165_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nuGWHhoOynAQ7kNvwGp2UIS&_nc_oc=AdokNp8rmJ7xSD9H_nlQBc8KfVsFJgA5Dw3BlhlzTe0H-BXLhwg2VynXpqnCuZeyrp8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQJ3n3mXHWjDdH38bzEtB4Dn_u_whOB_ZxQmsN_6GUbBMw&oe=6ABE8CDC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKYB-IlaG0IHKC9YHReZuAIsr8-NlKp1i0Z5AE6oFNJjJz7UfrlOyJ3c_8os_XN0qkhNXJuYNXx4NFeIMKwoW8qeeOfvuIdAl1M0VoqxeUAA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4YIMOVuoNj4Q7kNvwH90agd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3MDUwNjA2OTY3OTc1NjgzLCJhc3NldF9hZ2VfZGF5cyI6ODUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5904d327e49ac463&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EODQyRTE5RUYyREExOUUwMzkxNjg1MzFCNDVBODU4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI4NEQ5OUNBQzg0NTc0MDQyRkVBRDk4NTY1OUVFREIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGvMe0x5iNYBUCKAJDMywXQC_kWhysCDEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&_nc_zt=28&oh=00_AQIc3CMgW8VeV1XwLWcSjojEo6Z8ZHDGcXfkcaM85ep24Q&oe=6ABEA682"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1179843527664829"
+      },
+      {
+        "id": "1525750062345844",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "החל מה- 499 ‏ש\"ח >>>",
+        "body": "🏡 מחפש פתרון אחסון חזק, יפה ומעוצב?\nהמחסנים שלנו לא רק שימושיים – הם גם מוסיפים סטייל לבית ולגינה שלך!\n \nאצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות – החל מ־499 ש\"ח ועד 2,199 ש\"ח בלבד!\n\n✅ מתאימים לגינה, למרפסת או לשימוש ביתי\n✅ עמידים בשמש ובגשם\n✅ קלים להרכבה ונראים נהדר בכל חלל\n\nאל תחפש רחוק – כל פתרונות האחסון שלך במקום אחד!\n\n📲 שלח עכשיו הודעה לוואטסאפ להזמנה מהירה\n פשוט זול -מחירי סיטונאות בדקה ה-90  \n⏳ מלאי מוגבל – הזמן עכשיו ותשדרג את הבית והחצר שלך!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783062000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736778444_2151404352316057_7297280107317858844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ncTcNrJoqW4Q7kNvwETHLqL&_nc_oc=AdqPFZWbsi-gkdgMpyJImxoT2Qc74tDii7KNBMzWTAlza0rv7eVct0KBbVzJ6sBBwYo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLvam7roK2GudJGhB97IAmsmM91M8-F5qSeWRc72yLw8g&oe=6ABEA713",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKYB-IlaG0IHKC9YHReZuAIsr8-NlKp1i0Z5AE6oFNJjJz7UfrlOyJ3c_8os_XN0qkhNXJuYNXx4NFeIMKwoW8qeeOfvuIdAl1M0VoqxeUAA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4YIMOVuoNj4Q7kNvwH90agd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3MDUwNjA2OTY3OTc1NjgzLCJhc3NldF9hZ2VfZGF5cyI6ODUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5904d327e49ac463&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EODQyRTE5RUYyREExOUUwMzkxNjg1MzFCNDVBODU4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI4NEQ5OUNBQzg0NTc0MDQyRkVBRDk4NTY1OUVFREIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGvMe0x5iNYBUCKAJDMywXQC_kWhysCDEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&_nc_zt=28&oh=00_AQIc3CMgW8VeV1XwLWcSjojEo6Z8ZHDGcXfkcaM85ep24Q&oe=6ABEA682"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1525750062345844"
+      },
+      {
+        "id": "1975422513252210",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "אצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות",
+        "body": "🏡 מחפש פתרון אחסון חזק, יפה ומעוצב?\nהמחסנים שלנו לא רק שימושיים – הם גם מוסיפים סטייל לבית ולגינה שלך!\n \nאצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות – החל מ־399 ש\"ח ועד 2,990 ש\"ח בלבד!\n\n✅ מתאימים לגינה, למרפסת או לשימוש ביתי\n✅ עמידים בשמש ובגשם\n✅ קלים להרכבה ונראים נהדר בכל חלל\n\nאל תחפש רחוק – כל פתרונות האחסון שלך במקום אחד!\n\n📲 שלח עכשיו הודעה לוואטסאפ להזמנה מהירה:\nhttps://wa.link/bfgsw5\n פשוט זול -מחירי סיטונאות בדקה ה-90  \n⏳ מלאי מוגבל – הזמן עכשיו ותשדרג את הבית והחצר שלך!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1762243200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/577153366_2817949945263066_5397855672035989669_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BBstrkJ-P18Q7kNvwGYTT22&_nc_oc=Adp1p4qc7vDBQkG51sBO3n3mDSKOq0wilIMfDvll4u0rvqOKg3tXlHi6eobm_Wx2dS0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQKWCvJyCXluHr9eJZKScatPORRm3R63uZbWu2O6Hkc3og&oe=6ABE9A80",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN4XoGIH3oz5GxLmjj7pEmMcf2avksLHbQfcDRcuKEDD91NZ6Or47zLUgWvFDgj8mmmthYSNSD1M7cmNeNDaOQ74ROS39FU89PoQT4o1PlWew.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1Wrii-MQ-j8Q7kNvwFYdKH9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0OTY3OTc2ODU2MTk5MzEzLCJhc3NldF9hZ2VfZGF5cyI6MzI3LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c5265afe24914fa4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTRCOTVCMTNEMUQ4MzRFNkEwNTI4MUM2NkVCMzNCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VGNDE0QTZCNTkzN0Q1QUQwQzQwRTQ0N0RBNTNENUI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaigrH0w4_aWBUCKAJDMywXQEgAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&_nc_zt=28&oh=00_AQLYDnS2LcVE-vCtNSrkIg6sPBQW7GJucvFZSKq2wnZ9jA&oe=6ABEBA7B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1975422513252210"
+      },
+      {
+        "id": "2104473776944649",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "body": "🏡 מחפש פתרון אחסון חזק, יפה ומעוצב?\nהמחסנים שלנו לא רק שימושיים – הם גם מוסיפים סטייל לבית ולגינה שלך!\n \nאצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות – החל מ־499 ש\"ח ועד 2,199 ש\"ח בלבד!\n\n✅ מתאימים לגינה, למרפסת או לשימוש ביתי\n✅ עמידים בשמש ובגשם\n✅ קלים להרכבה ונראים נהדר בכל חלל\n\nאל תחפש רחוק – כל פתרונות האחסון שלך במקום אחד!\n\n📲 שלח עכשיו הודעה לוואטסאפ להזמנה מהירה\n פשוט זול -מחירי סיטונאות בדקה ה-90  \n\n⏳ מלאי מוגבל – הזמן עכשיו ותשדרג את הבית והחצר שלך!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1783062000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/736689040_999670266181426_4997699622356415413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y2_sBUnfLrwQ7kNvwH4DqbY&_nc_oc=AdqOePrK5CH0gVJOT-L9uyATxZccVnwpsVHmWPAxFs9B1Al9nKaoE1KNywziE4989tk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLgrN69VUOCIF4I_hfIFyFzWtWijPvoZ8oKUW-1KEfD0A&oe=6ABEB707",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736007933_1543431243799912_455692317339969444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0LY1CIjcSCAQ7kNvwFHU9uJ&_nc_oc=AdrFZz4r627kE5dWYqhn_WuQxkucA4FdyAzR14DDcxxVO8RfWLKemhE_u-xgNI6p0uk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLuVp0M3xylrbhokPeLZf1k0TjBKoc-DdIrK2WlXBYhhg&oe=6ABEBB16",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734656220_1703282644028648_1610852685272186761_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xY9ym6d5zAgQ7kNvwEpDjV5&_nc_oc=AdqY0mR8DS6rOp5svxcGW7LeerGggGUIrxIJBATju4VVoU1qlBtb_pIMhZf2foTdup0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQIxm-Gw0QvZpuClaMIN__8zdG8AE9-yc_ITuzRyRKc3HQ&oe=6ABEB4A8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736832745_1015996014246189_7302037786536651663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4G2_vXTbsMQ7kNvwGKFpvU&_nc_oc=Adr62HK_CDK-Nu2-FFdfz-mFJEdi8EicrB0vHPFQacLsU-tIza_8IOW1Ox4RX-T9-lw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLY6v9QaZWjhhjkpltcxhrmVuQFh3jcGNU_oUp6LhZqyA&oe=6ABE8930",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/735482920_853401630884601_5978109918902976778_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ecvmBkTqKEQ7kNvwHRWLq0&_nc_oc=Adr_NKKWNv0Jh0mGSKHZeNY-LAQndQhm5H3uXjvluujpC8UMHAZ-yP2Hlz718bMAf2g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQIxJzwCa5G2jlbLv4uKem_pVowp6AGXBTwNCAnqH78QGg&oe=6ABEAED5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2104473776944649"
+      },
+      {
+        "id": "1741593553646084",
+        "page_id": "853797554477826",
+        "page_name": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "page_url": "https://www.facebook.com/61579760856868/",
+        "page_like_count": 202,
+        "page_categories": [
+          "Patio/Garden"
+        ],
+        "ad_creative_link_title": "פשוט זול -מחירי סיטונאות בדקה ה-90 ",
+        "body": "🏡 מחפש פתרון אחסון חזק, יפה ומעוצב?\nהמחסנים שלנו לא רק שימושיים – הם גם מוסיפים סטייל לבית ולגינה שלך!\n \nאצלנו תמצא מחסנים דקורטיביים במגוון צבעים, גדלים וסגנונות – החל מ־499 ש\"ח ועד 2,199 ש\"ח בלבד!\n\n✅ מתאימים לגינה, למרפסת או לשימוש ביתי\n✅ עמידים בשמש ובגשם\n✅ קלים להרכבה ונראים נהדר בכל חלל\n\nאל תחפש רחוק – כל פתרונות האחסון שלך במקום אחד!\n\n📲 שלח עכשיו הודעה לוואטסאפ להזמנה מהירה\n פשוט זול -מחירי סיטונאות בדקה ה-90  \n\n⏳ מלאי מוגבל – הזמן עכשיו ותשדרג את הבית והחצר שלך!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1783062000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/736689040_999670266181426_4997699622356415413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y2_sBUnfLrwQ7kNvwH4DqbY&_nc_oc=AdqOePrK5CH0gVJOT-L9uyATxZccVnwpsVHmWPAxFs9B1Al9nKaoE1KNywziE4989tk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLgrN69VUOCIF4I_hfIFyFzWtWijPvoZ8oKUW-1KEfD0A&oe=6ABEB707",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736007933_1543431243799912_455692317339969444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0LY1CIjcSCAQ7kNvwFHU9uJ&_nc_oc=AdrFZz4r627kE5dWYqhn_WuQxkucA4FdyAzR14DDcxxVO8RfWLKemhE_u-xgNI6p0uk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLuVp0M3xylrbhokPeLZf1k0TjBKoc-DdIrK2WlXBYhhg&oe=6ABEBB16",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734656220_1703282644028648_1610852685272186761_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xY9ym6d5zAgQ7kNvwEpDjV5&_nc_oc=AdqY0mR8DS6rOp5svxcGW7LeerGggGUIrxIJBATju4VVoU1qlBtb_pIMhZf2foTdup0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQIxm-Gw0QvZpuClaMIN__8zdG8AE9-yc_ITuzRyRKc3HQ&oe=6ABEB4A8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736832745_1015996014246189_7302037786536651663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4G2_vXTbsMQ7kNvwGKFpvU&_nc_oc=Adr62HK_CDK-Nu2-FFdfz-mFJEdi8EicrB0vHPFQacLsU-tIza_8IOW1Ox4RX-T9-lw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQLY6v9QaZWjhhjkpltcxhrmVuQFh3jcGNU_oUp6LhZqyA&oe=6ABE8930",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/735482920_853401630884601_5978109918902976778_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ecvmBkTqKEQ7kNvwHRWLq0&_nc_oc=Adr_NKKWNv0Jh0mGSKHZeNY-LAQndQhm5H3uXjvluujpC8UMHAZ-yP2Hlz718bMAf2g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=qoQmmdEEdZavwoCgoOqKAg&_nc_ss=70289&oh=00_AQIxJzwCa5G2jlbLv4uKem_pVowp6AGXBTwNCAnqH78QGg&oe=6ABEAED5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1741593553646084"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +308,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:22:21"
   }
 }

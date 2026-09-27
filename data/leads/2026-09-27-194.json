@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-194",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -86,8 +86,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1002472219128367"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 329,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1595967354840471",
       "1002472219128367"
@@ -100,7 +116,132 @@
     "page_categories": [
       "Electronics"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1595967354840471",
+        "page_id": "617942441392087",
+        "page_name": "GadgetElectro",
+        "page_url": "https://www.facebook.com/61573783403422/",
+        "page_like_count": 329,
+        "page_categories": [
+          "Electronics"
+        ],
+        "ad_creative_link_title": "להזמנה מהירה בוואטסאפ >>",
+        "body": "אין לכם זמן לנקות חלונות – ובצדק! ⏳\nבין עבודה, משפחה וסידורים – מי פנוי לעמוד ולשפשף זכוכיות?\nהמנקה הרובוטי עושה את זה בשבילכם: מהר, חכם, וללא מאמץ.\nאתם מרוויחים חלונות מבריקים – בלי לבזבז על זה דקה.\nהזמן שלכם שווה יותר. רכשו עכשיו – לפני שהמלאי ייגמר!🛒",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/600331869_25823563577283982_8431885936898857739_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nnfFS4OmL5IQ7kNvwH48yHU&_nc_oc=Adq6ZyFVx6HxuDEV3n6YfvzGTsATNPvPxMGzj4skf5qedhfzhmADuRZfBNsQOKRp7xg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_y7vmIy58G7wIi6s5anb0w&_nc_ss=70289&oh=00_AQLggjbq_R_pIGOYALr3HesssWptqRgayKzEPbfVsk-DHA&oe=6ABE8C96",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN77XYujuzi9ehAbl3EvLS5S2OBmP1To2QAbQigrvB4pOxEWCp7dKqjZ6h1v8oMGcoBejTJCKTTk59elTBG08kVsCWCUC1dSiwdwxJAmtY9nw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZTQ7NcaCkLAQ7kNvwFnF1xx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTAwNjYxNzY5NjIxNTUsImFzc2V0X2FnZV9kYXlzIjozMTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2f65c96d37dd9159&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83ODQ0QzEyRkQ5RTBFNzk1NTlGODZBRjc1NTlBOUM4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YxNDQxRUMwOUUzNjJEMTVBMTk2NkU5N0E4RDVCODg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWuYXhtdmuBRUCKAJDMywXQDBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_y7vmIy58G7wIi6s5anb0w&_nc_ss=70289&_nc_zt=28&oh=00_AQJ5u-slYsnfRsy9PX1MWyEpfksamTbLFht1RCk69yvAWg&oe=6ABE94F5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1595967354840471"
+      },
+      {
+        "id": "1002472219128367",
+        "page_id": "617942441392087",
+        "page_name": "GadgetElectro",
+        "page_url": "https://www.facebook.com/61573783403422/",
+        "page_like_count": 329,
+        "page_categories": [
+          "Electronics"
+        ],
+        "ad_creative_link_title": "להזמנה מהירה בוואטסאפ >>",
+        "body": "הרובוט המרובע החדש לניקוי חלונות 🤖\nדגם משודרג – מנקה יותר יסודי, יותר מהיר, ומגיע גם לפינות הקשות! 🪟\nהמלאי מוגבל, להזמנה שלחו לנו הודעה בוואטסאפ",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/601490021_1360950798829467_8437298754807808087_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DWQzvOzJuzoQ7kNvwF2dM0j&_nc_oc=AdoU23LVZTsWma7Y_trM_Ny3lpLJzubtgCWT1m1bf0LuKMkRYsqm-qq8g1I5H9zh_Gg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_y7vmIy58G7wIi6s5anb0w&_nc_ss=70289&oh=00_AQKWzFNr-1W0QWQTZlc9TukIpJvUhNVpDp6FW3y_q2uZYA&oe=6ABEB247",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOXUtyR0w3We5gCg5oDo0r_HGG5XNV0TtFOgX_3QPqSuHi9_vnvywIwtmRXIsBnJLfr742idib3GtsW0umlPpK6xr1GVs6eAGL4SkeVtJpdLg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-llSNR3BQ-UQ7kNvwGRimU8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDE3MTMxNDEwOTEyMzcsImFzc2V0X2FnZV9kYXlzIjoyNzksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=61aabd953c7793bb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRDMTg0QkE1NEExRTJFRTc1OTg4NzRBOTFBRDQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDkyMERCODIwMkIwQjk2MkZBMEQ2Mjc2REFGNEI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKrqLlmvOqBRUCKAJDMywXQDuQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_y7vmIy58G7wIi6s5anb0w&_nc_ss=70289&_nc_zt=28&oh=00_AQLdEIVnz1-hfRjjsdj0mlcwgOxSta9KKIUPWLdoVYrLjw&oe=6ABEA431"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002472219128367"
+      },
+      {
+        "id": "1595967354840471",
+        "body": "אין לכם זמן לנקות חלונות – ובצדק! ⏳\nבין עבודה, משפחה וסידורים – מי פנוי לעמוד ולשפשף זכוכיות?\nהמנקה הרובוטי עושה את זה בשבילכם: מהר, חכם, וללא מאמץ.\nאתם מרוויחים חלונות מבריקים – בלי לבזבז על זה דקה.\nהזמן שלכם שווה יותר. רכשו עכשיו – לפני שהמלאי ייגמר!🛒",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1002472219128367",
+        "body": "הרובוט המרובע החדש לניקוי חלונות 🤖\nדגם משודרג – מנקה יותר יסודי, יותר מהיר, ומגיע גם לפינות הקשות! 🪟\nהמלאי מוגבל, להזמנה שלחו לנו הודעה בוואטסאפ",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1595967354840471",
+        "text": "אין לכם זמן לנקות חלונות – ובצדק! ⏳\nבין עבודה, משפחה וסידורים – מי פנוי לעמוד ולשפשף זכוכיות?\nהמנקה הרובוטי עושה את זה בשבילכם: מהר, חכם, וללא מאמץ.\nאתם מרוויחים חלונות מבריקים – בלי לבזבז על זה דקה.\nהזמן שלכם שווה יותר. רכשו עכשיו – לפני שהמלאי ייגמר!🛒",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1002472219128367",
+        "text": "הרובוט המרובע החדש לניקוי חלונות 🤖\nדגם משודרג – מנקה יותר יסודי, יותר מהיר, ומגיע גם לפינות הקשות! 🪟\nהמלאי מוגבל, להזמנה שלחו לנו הודעה בוואטסאפ",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1595967354840471",
+        "text": "אין לכם זמן לנקות חלונות – ובצדק! ⏳\nבין עבודה, משפחה וסידורים – מי פנוי לעמוד ולשפשף זכוכיות?\nהמנקה הרובוטי עושה את זה בשבילכם: מהר, חכם, וללא מאמץ.\nאתם מרוויחים חלונות מבריקים – בלי לבזבז על זה דקה.\nהזמן שלכם שווה יותר. רכשו עכשיו – לפני שהמלאי ייגמר!🛒",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1002472219128367",
+        "text": "הרובוט המרובע החדש לניקוי חלונות 🤖\nדגם משודרג – מנקה יותר יסודי, יותר מהיר, ומגיע גם לפינות הקשות! 🪟\nהמלאי מוגבל, להזמנה שלחו לנו הודעה בוואטסאפ",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1595967354840471",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nGadgetElectro\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1595967354840471\nהתחילה לפעול ב-20 במאי 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nGadgetElectro\nממומן\nאין לכם זמן לנקות חלונות – ובצדק! ⏳\nבין עבודה, משפחה וסידורים – מי פנוי לעמוד ולשפשף זכוכיות?\nהמנקה הרובוטי עושה את זה בשבילכם: מהר, חכם, וללא מאמץ.\nאתם מרוויחים חלונות מבריקים – בלי לבזבז על זה דקה.\nהזמן שלכם שווה יותר. רכשו עכשיו – לפני שהמלאי ייגמר!🛒\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלהזמנה מהירה בוואטסאפ >>\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "1002472219128367",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nGadgetElectro\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1002472219128367\nהתחילה לפעול ב-20 במאי 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nGadgetElectro\nממומן\nהרובוט המרובע החדש לניקוי חלונות 🤖\nדגם משודרג – מנקה יותר יסודי, יותר מהיר, ומגיע גם לפינות הקשות! 🪟\nהמלאי מוגבל, להזמנה שלחו לנו הודעה בוואטסאפ\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלהזמנה מהירה בוואטסאפ >>\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -113,6 +254,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:35",
+    "unqualified": "2026-09-27T08:23:04"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-190",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "136323573063513",
     "page_name": "די-קארד",
-    "active_ads_count": 1,
+    "active_ads_count": 4,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -59,8 +59,26 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1617951215859110"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "להזמנה",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2258,
+      "product_score": 3,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1617951215859110"
     ],
@@ -72,7 +90,184 @@
     "page_categories": [
       "Printing"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1617951215859110",
+        "page_id": "136323573063513",
+        "page_name": "די-קארד",
+        "page_url": "https://www.facebook.com/DCARDstudio/",
+        "page_like_count": 2258,
+        "page_categories": [
+          "Printing"
+        ],
+        "ad_creative_link_title": "לפרטים ולהזמנות בוואטסאפ",
+        "body": "מתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1767081600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608312820_1938527820390752_8935789576322071660_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ONfIfzHj0LkQ7kNvwGaL9iN&_nc_oc=AdpqOhdn3JmgughPV6OdM9N9J7Ckoc03jzNMrgZz4m3j68OjZ9akZWMBLlc8GVenNvU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&oh=00_AQLvQ-SwWOUeCLjjIJ41mS-UuUaJqftTYjFwiJUjC3qm7A&oe=6ABEB1A8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1617951215859110"
+      },
+      {
+        "id": "1430419599096079",
+        "page_id": "136323573063513",
+        "page_name": "די-קארד",
+        "page_url": "https://www.facebook.com/DCARDstudio/",
+        "page_like_count": 2258,
+        "page_categories": [
+          "Printing"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אפילו לנו אין מילה טובה יותר ממושלם! \nלהזמנות שלחו לנו הודעה👈",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775372400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/581753232_1274582944433342_4830423639154337070_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L4kcPGDVVrsQ7kNvwE5kydq&_nc_oc=AdouiDrTgkB19TEjytmPqoYNv6GPrP0CbwytCKE3AFnM2t97e9LQH3i3romvJcPgOew&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&oh=00_AQIgL0PO6tw5_GfcwBvVPAUsQbq4S8lRwTyBSN4LAZ3exg&oe=6ABEBE04",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQMJF9HFYrgw_3AGgjbnFfG5q1YP9RzJUSbzi28WB2gDA5I2YTkU63PwnUtA1-CRzr2nKOaOAajTbDLpboPRD8mP8BPaj8ZX0zGTgPI.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=DOWZrWTjn58Q7kNvwE3cgbO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU1NTgzNzQ5OTE3MTQ3MywiYXNzZXRfYWdlX2RheXMiOjMxNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fb99676d0eab4f07&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMzQ5MEU4MEUyNjkxQkZEMjc4OEMwRjg3MTFBOThCQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MTk2NjI0MzA2NzQ0MDFfNzU3MTM0NDY5NzM4NDMxODAxNi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmooq719TBwwUVAigCQzMsF0BDBDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZeadAQA&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&_nc_zt=28&oh=00_AQIlsST8c29q_fKsuntyjgZbBVYg3XPQ6HRxEVUZftwCMg&oe=6ABAAB67"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1430419599096079"
+      },
+      {
+        "id": "2061573274777550",
+        "page_id": "136323573063513",
+        "page_name": "די-קארד",
+        "page_url": "https://www.facebook.com/DCARDstudio/",
+        "page_like_count": 2258,
+        "page_categories": [
+          "Printing"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הדפסה איכותית על כל סוגי הביגוד👕👖🧦🧢\nמשלוחים מהירים🛵 \nמקבלים גם הזמנות בכמויות קטנות🫰 \nצרו איתנו קשר בוואטסאפ או בפרטי לכל שאלה.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710307660_986312184361700_7558603715438544488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=khuYRU97s7QQ7kNvwE3YSni&_nc_oc=Ado8-7tx2qlLorr67xMZv3Co2Iri-_RhY50z53pjFwlymoyMNkDmwUPHXXAA_ACqTQg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&oh=00_AQIfPgGeBxzU1D5ZFVUfnLsWHj2ucjIJpFS0kiS_nlBfCQ&oe=6ABE8A5E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQPgOTXoMs4qEk8JDDbfGtanuuNmI0ccuE9ACk-wF3vP2d3ObP1k0vAjg0w323pQD2LmHABFcwyfIhDKa8V_pcqztXtuF7lXDAXy1Qs.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=dALxc7xIvhIQ7kNvwEGc4uW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgxMDcyMDM3ODY5MjA4NjEsImFzc2V0X2FnZV9kYXlzIjoxNTMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c5619afea5233caa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BMTQ0NTMyM0NGMEI0NjJFRTMyRjlBODk1Qzk0NEI4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBFNEY3OEM2RDFGRDlCMjI3OTA1NzYxN0Q4NTY1MUJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6zsKZ_ZmqQBUCKAJDMywXQDe7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&_nc_zt=28&oh=00_AQK2iAjyJMsoKZ8PjgQzqR9MELF4It5ps31NxSa7vdexqg&oe=6ABAC433"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2061573274777550"
+      },
+      {
+        "id": "1568300634719608",
+        "page_id": "136323573063513",
+        "page_name": "די-קארד",
+        "page_url": "https://www.facebook.com/DCARDstudio/",
+        "page_like_count": 2258,
+        "page_categories": [
+          "הדפסה"
+        ],
+        "ad_creative_link_title": "",
+        "body": "They print my message in the Saturday sun\nI had to tell 'em, I ain't second to none.... It don't matter if you're black or white⬜️⬛️ 😍\n\n#מדבקתקריסטללרכב\n#מדבקהלרכב\n#מיתוג",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712327094_2185859008816817_3085406029530774697_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cOoyQFD5Q4sQ7kNvwFMJaKZ&_nc_oc=AdrMUMW8hd5xTOmpCNNhPq28eOyG2ys56KFmHhtVM8YhLeL7dtgDbi9MAvUqsMAH4qU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&oh=00_AQKas08TFwCDCQZAbGgESxqNCOKOns1I3TfazELyKa9cxA&oe=6ABEBCA0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m86/AQPewnIKlR1JALd_FUPU0Gs8A8emCBcNqqH9lK43WuND1N0VVt348FghqoNqF6v0xNUzWgXYpeYemtWbyOyjJ-j77mpXqLDrpufA2Q8.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ylbYz79hP4MQ7kNvwFYGNnc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjI1NjA4MDgzODI2MzU5NiwiYXNzZXRfYWdlX2RheXMiOjEyNSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f05f25afcefbaa1a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EODRFOTc1QzNFMjI0Njk1NkY5N0Q2NjE0RTczQTk5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZFNDQ5M0VBQTFCNjQxRkZDNDdBNzAxRjRDQ0QxRkFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYjJiPmPmBCBUCKAJDMywXQEPqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=Y_6g29eJ6lI8zFW77ducNw&_nc_ss=70289&_nc_zt=28&oh=00_AQKHEifANWnv5GcNKxlEXEFfJpvdfRR7XL_sVOrAQdh_xg&oe=6ABAA7E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1568300634719608"
+      },
+      {
+        "id": "1617951215859110",
+        "body": "מתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1617951215859110",
+        "text": "מתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1430419599096079",
+        "text": "אפילו לנו אין מילה טובה יותר ממושלם! \nלהזמנות שלחו לנו הודעה👈",
+        "links": []
+      },
+      {
+        "ad_id": "2061573274777550",
+        "text": "הדפסה איכותית על כל סוגי הביגוד👕👖🧦🧢\nמשלוחים מהירים🛵 \nמקבלים גם הזמנות בכמויות קטנות🫰 \nצרו איתנו קשר בוואטסאפ או בפרטי לכל שאלה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1568300634719608",
+        "text": "They print my message in the Saturday sun\nI had to tell 'em, I ain't second to none.... It don't matter if you're black or white⬜️⬛️ 😍\n\n#מדבקתקריסטללרכב\n#מדבקהלרכב\n#מיתוג",
+        "links": []
+      },
+      {
+        "ad_id": "1617951215859110",
+        "text": "מתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1617951215859110",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nדי-קארד\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1617951215859110\nהתחילה לפעול ב-30 בדצמ' 2025\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nדי-קארד\nממומן\nמתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת\nWHATSAPP\nלפרטים ולהזמנות בוואטסאפ\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -85,6 +280,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:01",
+    "unqualified": "2026-09-27T08:22:47"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

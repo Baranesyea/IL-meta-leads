@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-197",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://baby-star.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "web@baby-star.co.il"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/babystarisrael/",
+      "source": "https://www.baby-star.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "109916539090743",
     "page_name": "Baby Star בייבי סטאר",
-    "active_ads_count": 1,
+    "active_ads_count": 27,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -61,8 +61,27 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2350672228795049"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב"
+      ],
+      "product_hits": [
+        "סט",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 27,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 135059,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2350672228795049"
     ],
@@ -74,7 +93,975 @@
     "page_categories": [
       "Baby goods/kids goods"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1758989748579910",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "יום המכירות של בייבי סטאר מתקרב - היכנסי לרשימת ה-VIP כדי לדעת על התאריך והמבצעים לפני כולם",
+        "body": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "link_description": "",
+        "landing_url": "https://babystar-newsletetter.base44.app/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710204445_1347644367266750_1999188247029760550_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TXRzP0DIYr4Q7kNvwEOpkU_&_nc_oc=Ado8hNmkz8ilNS82lOwuU3ehx0gu2cO7jN4VKKEza0GQppmy_LS6CjB9u39I_gC9TLI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQK_Xk78BV0_wuy8jqexeTUcNQNJWF6XHC2iTnCOG8XYqg&oe=6ABE9B8B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOborDBQ0J-S7KGHzum_2b0Z9qXhGxFEePcuWrcw_mBRXOOWuvV8ecBWXRk7YUHVaRYInBOoIIMYRbfsRy7HNqxoNl14Qh5usLEFJ_65I364Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=QZOxPvgssZsQ7kNvwE55Nug&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5ODEyNTU1MDk0OTU2ODYsImFzc2V0X2FnZV9kYXlzIjoyMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=de7c29d29b721294&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDQzRjQxRjM2NzUxRDJFQjMzN0Y1MEIzQjgyMTU5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDNDEwRkZDNEE0M0Y3OUNFMDZCRjUxRDRGNzFFREIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMvtLtn_yEBxUCKAJDMywXQDCKfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQIxWegmEoZksJLbGLMdtfgl3JOWRmHYbPHb715jTro90w&oe=6ABEB4D4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1758989748579910"
+      },
+      {
+        "id": "1740181163863603",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "SALE חגים באתר | ⭐Babystar",
+        "body": "מבצעי חגים בבייביסטאר! עד 40% במחלקת הטקסטיל😱 ביגוד ראשוני, מצעים, מגבות ועוד מגוון ענק במחירים מיוחדים לחג. לרכישה עם משלוח מהיר עד הבית",
+        "link_description": "ביגוד וטקסטיל לתינוקות - בגדים, מצעים, שמיכות, סדינים, טטרות, מגבות וסטים מבד רך ונושם, לכל חדר התינוק. היכנסו למגוון מוצרי הטקסטיל לתלינוק של בייביסטאר.",
+        "landing_url": "https://www.baby-star.co.il/collections/%D7%98%D7%A7%D7%A1%D7%98%D7%99%D7%9C",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791335179_1074636212207466_4181798539963069561_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=luKe5oZMrnkQ7kNvwE0gd7_&_nc_oc=Ado_To9O3qZivZNBQsGuAvIKqH4NDZcLoKgK-_PYwWQIRZi7Ilh9BUpkGukRcov2O0U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQL22-1HDzPWorfTYAqck8ngXz50O0StRsS3HtqZRyRgBA&oe=6ABEAB10"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1740181163863603"
+      },
+      {
+        "id": "2350672228795049",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748134349_3018898471805467_2984504288719102623_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PX6ch0TQYXQQ7kNvwGXbJFr&_nc_oc=Adr5t7WGRIwdIoh5-RbPgQA2w8C5U8ergN0QE8Rf3y9huXtgruoj0leeTtHo_tTMmds&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQLrJD_uQ84N9nHi-Q3mH_3Lz2Sm7UkUmAbYMX3q_yTKFQ&oe=6ABEA32D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZtAjJmRArswmpx1GA_bfB0II0qQjY_mzOrdnCZfJYlJ9kTl0RkRT0qivCmgtg4RmNoJ9F4YxvUjEwUJQ-UumHoP3ad2ExiOdUoyf62ZXycQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8kruOsVHInUQ7kNvwFPJ2HX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNTAxNTQ4ODM5MTk4NTMsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d5a277b1a572c4a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTQ5MjMwNjM3REVBQ0QwMTcyNTBDMTEyOEJDOTM4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDY0OEZDMDQxRDZDRUJBMTlEQkQ0MzU3OENBNUJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbav_vjrf3lBBUCKAJDMywXQDrmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQLP_vul1ilO8h1HifSrPtN41RtgieVGaBEjAOLhdEzQdA&oe=6ABE9455"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2350672228795049"
+      },
+      {
+        "id": "1454348136743276",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "יום המכירות של בייבי סטאר מתקרב - היכנסי לרשימת ה-VIP כדי לדעת על התאריך והמבצעים לפני כולם",
+        "body": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "link_description": "",
+        "landing_url": "https://babystar-newsletetter.base44.app/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710432878_1523987599219260_1300265196798993991_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J3-sxB1qcwIQ7kNvwHcCdWj&_nc_oc=Adr4n1olN2w5gUd33u528nWPimTOsiNU7b9Cjm1w0s2IMyW97Ar0-6wvtFDW6X0yfxY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJr9bbtGzIe84YGK17VyBXll8GEo-RhRJhgQXEn8_mjqg&oe=6ABEA5E6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOqzWz1EdAplYEr2QvDX0ta8kwNtLZSpAgeBShhQA-NKCQS7niPmzix5eExiq7hJnr2HbJlvdWO1F8kM-y16h5v3EfIeYr4nGJOhR-yU4gMCQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=F94qLuwVCvUQ7kNvwGbH0Ki&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNDIzNzM5MDgwMDcyNTksImFzc2V0X2FnZV9kYXlzIjoyMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=924e36f6205f0c48&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTQ3NUI2REY0NjFGMTZCNjNFRjJGRUFDREMzN0JBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVDNDYxRkYwMTMzMzk5Qzc1M0UwNDRFRTk0MTI3QjlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2pbj31vu0BBUCKAJDMywXQCgAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQJtkbh9s5jRVcAzHH3MLDV6vtiHalkfDtId0q2gAi-NXQ&oe=6ABEA7DB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1454348136743276"
+      },
+      {
+        "id": "1310843440967243",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "יום המכירות של בייבי סטאר מתקרב - היכנסי לרשימת ה-VIP כדי לדעת על התאריך והמבצעים לפני כולם",
+        "body": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "link_description": "",
+        "landing_url": "https://babystar-newsletetter.base44.app/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712159963_1946709492655277_5965041157010797928_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nppd1BY1r-8Q7kNvwGw5gEr&_nc_oc=Adr-PD5WlOHJwVKjPEDQ7xMOvRzFm5qrcmr0kb-10ijaKc2ClTLcHIWJQAtV9r3kW20&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQLcgnAEGbaSWvlrp_ii2F1uoMC7eJHV1mt1rdHU5AV-SA&oe=6ABEB34F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNJKP143yQk_d7AIVLelAo3APhsBQMHB2RVc9v5uGNpbfW6W21OK-0Ng0TrlDvu7LhSvJPAHGuTiO_vYBytnmER5AmKeVaWJmZ8BSqegn3lXw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=M4YbSKpP47AQ7kNvwFtISFR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc2NzUxMzcyOTQxMjI4MCwiYXNzZXRfYWdlX2RheXMiOjIwNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a10ec78886840b9f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QzQxRDMzRURBNEIyMEZDOTdCOEFENUY5MUZFRUM5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkwNDE1RTYyNEFBNDVBRjY5RThDOUIzMTkxMzZFMzk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwsp3zloPdAhUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQIH0YS-ksIYu4pvysTXyen_5arW325AV3pNdVfdfdGC5g&oe=6ABEA9E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1310843440967243"
+      },
+      {
+        "id": "2319295025541080",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "SALE חגים באתר | ⭐Babystar",
+        "body": "מגוון כיסאות אוכל החל מ-99 ש\"ח בלבד. חוזרים לשגרה ומתכוננים לחגים ⭐️ המלאי מוגבל, להזמנות עם משלוח מהיר >",
+        "link_description": "כסאות אוכל לתינוקות - כיסאות אוכל מתכווננים בגובה, מתקפלים ורב תכליתיים עם מגש נשלף וקל לניקוי, לישיבה נוחה ובטוחה בארוחה מגיל חצי שנה. מבית Stokke, Anex ועוד. בבייביסטאר.",
+        "landing_url": "https://www.baby-star.co.il/collections/%D7%9B%D7%99%D7%A1%D7%90%D7%95%D7%AA-%D7%90%D7%95%D7%9B%D7%9C?page=2",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790283640_2107778206757367_6457978192755061851_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RNT_M0ZXWXAQ7kNvwEya7dc&_nc_oc=AdoAufw8JlV8HrCXlwwDNvfAuEVEG5u2EqT_8DDKrtbKhpB4IyrrvjCHD8FBA_oDOhM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQI3FLNTue6dXDrm5UM3IMcYQsF1bGzfBpi8zXllyAsWTg&oe=6ABEB28A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2319295025541080"
+      },
+      {
+        "id": "1612609467054046",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752833122_1808689206961702_4495877855564226977_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XvQtg-akqecQ7kNvwEXg8Nv&_nc_oc=Adpe0JYH3jT3O1I8R9WcUeK-kYD7X42jn1mep1r2jpfLz-YBjiAi53q3aXFDUFDmNsI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJJsksuCHPxMRrKL6RJUooDmGRaxW9BkptBsLDad30AHg&oe=6ABE9A24",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPxpVJE992msQJJA_WRz3jVZMbL-hXZoW1YE3ko41DY3CRtsITiPpqa7giiu7UGU8Ze_itAcMxOdZ_OfXe8Ixp0p65weR2EGKeC1E1aCpS1_g.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TS1stkBXqZwQ7kNvwEDfIuR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5MTE3MzExMDQ3Mjg5MiwiYXNzZXRfYWdlX2RheXMiOjIyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7ad126f7b370b2ee&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQTQzNjMxOTU1Mjk1RTRDNzQ5RjY0RTVGMUFFN0M4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNDg4RUE3ODNBNTQ4QjJERTA4NDUzMjc2MEE5QTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4gveKjaGVAxUCKAJDMywXQDVdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQJuKE_0O-4Z-l0_3j99pA2GmsyNCHwqg5Jqcdz5nhaqzQ&oe=6ABE9B4F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1612609467054046"
+      },
+      {
+        "id": "1062441616441776",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/750585963_2060864647837230_6019640816523811959_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oo0I3owlqqIQ7kNvwFemFdO&_nc_oc=AdrkqlAdu_IGrcn5Vsk3jnaR_DGM4rNsrWqlBhopValqmiybf1oGAhLgkOLlZNJA-Hk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQL_VNNNrRPFZ-qDUrM80hvP8sRw7TNO1bkRyWszo-Ravw&oe=6ABE893A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNqJiTjWQbibt_5Vs3Je7Z3JNpNAmElwYUjVNendY7NKzbaKIym3tbyxBhk9M0RXuDaKKyUDw7ejDmUxeA9kKh_mOMBV6-PVVNizcGShwYnSg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yD78BNb4J2EQ7kNvwGFhqXL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyMjc5NTI0MDg0MzQwMCwiYXNzZXRfYWdlX2RheXMiOjY5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d4b4827cb2c49e51&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMDQwQjY4Q0FGMEI2NTM3N0QwQTQ4MTI5NjNBNEJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M4NEQ1MURCMkJEOTU1NTgzNDEyOEY0RjcwNDI2MkFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQor-o4NGjAxUCKAJDMywXQDQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6241qJ4oSMExym_MR-v0Cn8OmaZ6mSk2P8A-WpiymSA&oe=6ABEBDD9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1062441616441776"
+      },
+      {
+        "id": "1043165661402571",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749330020_1710559740265968_207724128847792944_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mUKJaACWNWYQ7kNvwF-y8Fa&_nc_oc=Ado6S5SeVf85QFXjLYuIVXeDpQC7P5cmUHmvqV1244h1hOVAnttdz4Gv1FC7BcXY6m0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQI6mzCafMpH2bf1QD15PJc6huBOHhIQ2MFmSwAVKOquZQ&oe=6ABEB3A3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOUGdGteXiYh3tWP_mE-sWht3GPtIIx-7dEfBfd_OT0zdcT-D3bYK6gWFAZ531hRIYlh53dyXkfoZmfOVZF5Wc_wum6YoGJ5Y2vCSiyL5KiUQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=PbZnuX8qevEQ7kNvwHA3taI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMzA0MjY0NzkxOTA4NzEsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=86af6c72f864a165&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OTRFN0E3MjlERkM3ODlFMDVEQjc0Q0E4OUVENDM4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUxNDZEQkQ2QkREMkFEQjY2Mjg5QUU1QTJGRENFQkExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaujbfTn8SvBBUCKAJDMywXQDNu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQK9iz00qT1BE2vKUnyAkFpRWCnVN2VDJJk5eXS5Oldohg&oe=6ABE9C6B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1043165661402571"
+      },
+      {
+        "id": "1092244916866090",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "השאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "body": "בייבי סטאר רמות אילת ונתניה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808971527_4059322601044116_744632696302802554_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CSE1bLtOSG4Q7kNvwG17Uk-&_nc_oc=AdoWi04ZhnQGQhzpeHWDLX8t-VnZrx7aSzVxEvx8g2zurnQc28C6qPmmgmTjZ-dIOy4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJnmLlqT8W8hHN-IPah-toX1ul32q4gSLDxfapJeBxisw&oe=6ABEA79E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1092244916866090"
+      },
+      {
+        "id": "936221199527961",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "www.baby-star.co.il",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://www.baby-star.co.il/collections/%D7%A2%D7%A8%D7%99%D7%A1%D7%95%D7%AA?filter.p.vendor=Sport+line",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788679611_1756018845610101_5258089335962827231_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8YGqwIq4ZwUQ7kNvwGYowyK&_nc_oc=AdpgnYBZISGKUR4GKpYK4gwTRfbiUsFjLllkWOSGrC_Zei5MbkLDs7B962tWX-kjQC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJZw_nWx0gcI4q4WDhBLcSLlpfNHDoP7B0vHcTJFmfZrQ&oe=6ABE8EE0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788679611_1756018845610101_5258089335962827231_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8YGqwIq4ZwUQ7kNvwGYowyK&_nc_oc=AdpgnYBZISGKUR4GKpYK4gwTRfbiUsFjLllkWOSGrC_Zei5MbkLDs7B962tWX-kjQC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJZw_nWx0gcI4q4WDhBLcSLlpfNHDoP7B0vHcTJFmfZrQ&oe=6ABE8EE0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=936221199527961"
+      },
+      {
+        "id": "811575708701065",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "שנה חדשה עם הנחות ענק בכל המחלקות! עגלות, כיסאות בטיחות, ריהוט לבייבי, טקסטיל, האכלה וצעצועים. זה הזמן לקנות את המותגים המובילים במחירים שלא יחזרו. המלאי מוגבל. לרכישה עם משלוח מהיר לינק",
+        "link_description": "מותגים גדולים במחירים קטנים — מגוון מוצרי תינוקות בסניפי הרשת ובאתר של בייבי סטאר! מחירים שוברי שוק ואספקה מיידית. בין המוצרים: עגלות, טיולונים, ריהוט חדרי תינוקות ו...",
+        "landing_url": "http://www.baby-star.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785362650_4536546883327045_365040500932212751_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZE98Np4PYiMQ7kNvwGOwz58&_nc_oc=AdrBh_TdIOe_D8yOhxCzQWMI6-0InHiWtJDXSrXKiSluAYTcWMAbC_Pj_qkJ4IMmCMA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQLPQIrR3WdBa_bqZO_I9Zb2y3WYTv6Gt7H5fBqTL3dsMw&oe=6ABEB3ED",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786382760_1603029308074897_4449808192593396262_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=asaVXzEtTpcQ7kNvwEpu4tZ&_nc_oc=AdrvjNpoepG_bvVWClcVzXwBOO4j04U79XoKS9pKJB5A0IsH8K58kNxjCB-Xjygu9HE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQK0fhjDdRhUuuABhklEha26IBk6k2ZQ6lIEDxvFWAD2dQ&oe=6ABE9E03",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785146454_925658923422863_5961774517722594370_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jFFd9JvoFkIQ7kNvwEnFeL4&_nc_oc=Adq1KIvuUXWETyWM6YJJzwE1CMa8N-EqptEgWkFNCCKqb1QQPjRP_duO_NdbN2z1YXE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQI37Qet0YAd6IKXTOgrJvgBbmdJTQ7TiqXqaXe-VaJ1kA&oe=6ABEB35C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/782582359_1041175928924324_5776002415116655874_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ElPzeu02MWsQ7kNvwGxGOOJ&_nc_oc=Adop2Hy0SS8ckD5H6K9DBXWrwJVg6-AWZ1ivFJNy67Xe_ltupDjQu-E2xiivtYK8dLs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJ8_F51d-KzkTOG_dbyJwRit-iG50nNs8OXM3ZacI5Sfw&oe=6ABE8F5A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785836775_1045144068421156_5580529454763213877_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=REgdRht7x-MQ7kNvwGyOCyp&_nc_oc=AdogAruEWUTBVzAHI9OncsyhmcQhc6TAwCJ8sMDh4aXSi-lE0fykbMlVoi67ncquhMQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQLmrMNJmrO7_LM4NrLUZTQXviiVPcDid-FonwTb1Cu8sA&oe=6ABEAB2A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/789444257_1081844024433177_7409245750542688673_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-d0001LdA0oQ7kNvwEB7dNv&_nc_oc=Adqb3T4GpYJq_vKmaJkew4grat3hUjiHI3W0IDlVENn9rRfQLgNuU4RyrIs_0ULTLrE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQK9Rr2oCtPvn7pZ-pNGbxBoAuOzOgV142dRGY2Q6fY8rg&oe=6ABEA1CD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=811575708701065"
+      },
+      {
+        "id": "1562698161594623",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "השאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "body": "בייבי סטאר רמות אילת ופתח תקווה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807385226_986252704498458_1742113327281578751_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cQQ8HKBdJ_AQ7kNvwGywkpK&_nc_oc=AdoEsHhJOerkKjtV82SMLeHYKYWHoOMv-0nVfYUDGXrdsLLfMhovgUMw8Fdr1nQcW-w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJJQ35TrDC4L9qG3us40Obj_P4YN4X7YKzugibPNDtKag&oe=6ABEBC93"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1562698161594623"
+      },
+      {
+        "id": "1544012537035131",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "SALE חגים באתר | ⭐Babystar",
+        "body": "בוסטרים החל מ-112 ש״ח בלבד! CYBEX,HARMONY ,BRITAX ועוד. מבצעי חג מטורפים בסניפים ובאתר. לרכישה מהירה>",
+        "link_description": "",
+        "landing_url": "https://www.baby-star.co.il/collections/%D7%91%D7%98%D7%99%D7%97%D7%95%D7%AA-%D7%91%D7%A8%D7%9B%D7%91?filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%92%D7%91&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%99%D7%A9%D7%99%D7%91%D7%94&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%A8%D7%A6%D7%95%D7%A2%D7%95%D7%AA",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792029661_1573427411081783_5911486995519329610_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iqSlm6NwNvMQ7kNvwGLbSyT&_nc_oc=AdqMVgBvkBztoEvp2FU0b3F56ivbNBVPNiTAQ6M0Hd_O66r2cncMMBmzldIr6o2s-c8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJqqGve64Q46RiLmtlqq9RzABcE82fPiRyEHMPBmdH1Eg&oe=6ABEB6EF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1544012537035131"
+      },
+      {
+        "id": "1975387306484041",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "יום המכירות של בייבי סטאר מתקרב - היכנסי לרשימת ה-VIP כדי לדעת על התאריך והמבצעים לפני כולם",
+        "body": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "link_description": "",
+        "landing_url": "https://babystar-newsletetter.base44.app/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710746337_1360652722789197_6910661456346156318_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rRSOC4GzuE4Q7kNvwHTTlcn&_nc_oc=AdrEGxNTBMkP1wG1OQ-l9InX0CHsm32xjORiFDD9cK9nGv49F61wPvupbAvTd6X2AqY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQIVYOajYb2LFsI1d_umJp-a19nTf6wbrqjDURudz7Shug&oe=6ABE9AA6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPL-JdNxllfb0KMcYKO-zgqQxnI-qEe4dxFnEzQMuCCS5ELoalTVEysmLVMRRyO1Bte2EhfZeV96_THGCbYWOQg6MOrnFEhpiP4wqwf7Y4aqQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ci1vUkaYCuYQ7kNvwHM8IIL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExOTUzNTU3MzI0MDI0MTYsImFzc2V0X2FnZV9kYXlzIjoyMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1b062af435286045&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOTRBNkNDRkM3OUY1QjJBNzBEOEU0MUQ0QzQ5NzA5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I4NEQyNEQ4RTFEQjg5MDNDQTlCOUEwN0Y4OUM5NkE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgg_uc7sqfBBUCKAJDMywXQCzqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQKH9k-bp09li9Qgw9COQYuCprdNJMwehnRP7zavpieUNw&oe=6ABEB93A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1975387306484041"
+      },
+      {
+        "id": "1850883096280905",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "השאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "body": "בייבי סטאר רמות אילת ונתניה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811501632_1443956530885903_6336991854982662743_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBfFk8LH8D0Q7kNvwGcrMD7&_nc_oc=Adq5LvJ8ZUgW3yAXtvPwJRYWWoNyc_sYbsUzRiczCNZPR6-G_btJXKfu4yIETSLzF6I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQKP91NWoV-iQMlppE78pZM-kOOmQZ1YGjO2EyTxjko6Xw&oe=6ABE917F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1850883096280905"
+      },
+      {
+        "id": "1730037841588733",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "יום המכירות של בייבי סטאר מתקרב - היכנסי לרשימת ה-VIP כדי לדעת על התאריך והמבצעים לפני כולם",
+        "body": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "link_description": "",
+        "landing_url": "https://babystar-newsletetter.base44.app/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711787085_989751123440884_1895807150274214101_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bszQBJAyZ7sQ7kNvwEmWO5r&_nc_oc=AdqR65BL_5l2IA7bEAAIGSKgViZ7YRuq46LljS4UKMZVrPOR0q4M4sYFIrmjglx5Fbo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQIFyb2TI59DnbmSSoKm8CTfuXjAAxQnblZ7OQto9fv9Hw&oe=6ABE934F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPx1GJ1I0zi9j8ErmL131AspiofJNgItzAThxCHt0Q3kYWCy0qXv0WCAAlQMz8Th2jsJ30PE6nN1vk1Ok4s5hT0z_aKMPJI-MkAYLri87A36w.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Tgb5qJ6PZakQ7kNvwFgBgB0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NDk3ODExNTkwMTA1MDYsImFzc2V0X2FnZV9kYXlzIjoyMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7967b3073f6c3039&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FODRBMzk3NDM4NjM0NzhEOEVDNTg2OTc2MTM0Qzk4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNEE3NDE4QTA2QjNCNDAwQ0JEMjk3MEYzNTA3NzkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUg6nOt5fJBhUCKAJDMywXQCxqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQK6yet9vdpvgBuUbOnn58D79mU7qs-uyoO7rSd8P6UjYA&oe=6ABEA1AA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1730037841588733"
+      },
+      {
+        "id": "4614534342124499",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/750312116_1559092825604422_7969535432422380911_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mxiUf2sFft8Q7kNvwGj8FxS&_nc_oc=Adp5A-VTDnOIXk33vBR1JMGBai9jS1u4ze47_MTQ52zJ9_yCWTYmvf-ovvXEXB9X8fE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQIf2LCJDNJILmK5yZW6GXcodM61N4xhGrI8Oj-hKZmNGw&oe=6ABEA16C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMbxm0KA-WHdY3XLlFNfkvr7WJEAoRUfBQbB4G5FUTfvpc2J01Vh1c2suEYSRSAZOM5YrblMKHuyQjzlOJMgbu7om4FkajhZ-MuBfzABWemrg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=n2xsOPjJCysQ7kNvwFQ-Xvh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM1NDg5MDAxNTE5Mzk3OTIsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fabf6cd49ac07f8f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjRDRDRFRThCNDU5MzY3QkYzRDYyNEZDQjk2NEVCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VFNEVCRDNBQkNCNDJFODc3QTE2N0E4REM5QjE1QkE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACagy7LOlu3NDBUCKAJDMywXQDSiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQLZepRWbr95VCAlc7saNv8WCa2dgbNr_k0XseJd32X5jw&oe=6ABEB9A2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4614534342124499"
+      },
+      {
+        "id": "1393728342815344",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749354761_814193828447971_1620523960228296903_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ViZp5oSUs1cQ7kNvwE5HzuJ&_nc_oc=AdoJ0aINU_0_R0xdHAtebe-ybwymEHrHVgeD_LevwhsTLp_FR2JyxYezE9p14st88mU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJJCciQ-PtNKH8Pgj0pEQ44UBtHCcLlVT4RQpLHAnUJRA&oe=6ABE91E9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMFV9xogo6SL1esGtob96E_tAqq3zejXNKVbVc-8tCyDul0myLr5numvY9s0Ecay477C-BqbERcYINz5CHckpN9OFBHvwa9UGHEiYxQKbkNsQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1HOzxrh25p8Q7kNvwFQ_Qji&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQwNzQ5OTk2NjU5NjY4NzAsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=63119e1a06d72382&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDRBMjBBRDNGMERBQjdFOTc2QzA3Q0NDRkJDMTFCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDI0NTRBNTI5QzIxMDc5NkNFREUxNEQ2NEUzMTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas_OW4mYy9DhUCKAJDMywXQDPEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQLo3P8CgVGIBZFCfcHdZh4JrYJ8QXcBuNVk63usNTZFww&oe=6ABEAEB1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1393728342815344"
+      },
+      {
+        "id": "1354401792785470",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749567145_1938120770141291_4158136829956640271_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kKbUt-YUIrQQ7kNvwHPZkTR&_nc_oc=Adq235os2hvYQhMVcEAa5xjfM2QMfUNDvqbrlj049_DUos3-MIP8NJPZS4IbSuEPh2M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJaewODe9WTTp6Lzx-5SOaF0s0eLJ0X6KzXVOrmyg18kQ&oe=6ABEA515",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOtWGW6nRyM0uWg1HsIZbAlAVDxyh7rEThrc0ozNUM0_LF4p7lrIwMSx0l3DwsUf419Y9FW3_6rBCZH60ujWLJhCGve4TkFzyWsNJftdZfPVg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=cOFuHEeMNi8Q7kNvwFCRxG_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk0MDYzNzE5NTA2NjE1MywiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=495daa1963679ef9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTRDNjhFNTM3NjgyQTQ5OTcwMjg2NDBCN0U5REE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NEQ4RkQ4NTNCMzY4MjAwNjZBMjU1NzM1ODU1NTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS7P6dpeCrAxUCKAJDMywXQDBVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQIBmKO4fjMvmMb01TUCRX8YeHvSrEmEstJXAicEytbhcg&oe=6ABEA129"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1354401792785470"
+      },
+      {
+        "id": "1103072648718489",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "SALE חגים באתר | ⭐Babystar",
+        "body": "מנשא Ergobaby Embrace במבצע מטורף לזמן מוגבל!מתלבש בשניות, מתאים מגיל לידה, וכולל רצועות מוצלבות עם תמיכה מלאה ששומרת לכם על הגב! לרכישה עם משלוח מהיר",
+        "link_description": "",
+        "landing_url": "https://www.baby-star.co.il/products/40165947?_pos=7&_sid=a3b11d641&_ss=r",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791849028_1579674513617678_8971208629606744779_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1xe4pTPbXIsQ7kNvwGajlwi&_nc_oc=AdpXyEo5wff1ebap6fG-pziDPNVTYR15BS3yYcCtTBkuBnJJJK8UpiXJ6nraG2AHaFc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJSUsq3tbEGPDFZ_BiRop6HNnMxvs_P2UZhPqwb6S4bzw&oe=6ABEC02D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1103072648718489"
+      },
+      {
+        "id": "1558106329091666",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/750355462_1653842143019876_6123352898209801993_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvkUOochR9YQ7kNvwH9L4yP&_nc_oc=AdqnzvDXJV2DvyY2pOJpZ3nS2iZqhMS-XY1nh53nyHbmXx1kHijI09c8_3aEkmBCA2c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQJduuabSaMwXMmMHvIP33znDuuHZxLu2Q9ZYNGKhmprBQ&oe=6ABE9979",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOYeYFXJeoTmKcr-I_LrMmH_BJnsSWKHOgRpU2RGiR23dfsRjO3YjmU63YB52KgRxAGnbiP5BBVoESH3FQ_dLJSCgSFd1wAwB_JSFh1l05Bug.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=FMA6YxMdxBsQ7kNvwHBCU_K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDA0ODMzNjgxOTgxMjEsImFzc2V0X2FnZV9kYXlzIjoyMjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a28eeeb077bfb250&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjRFQjBDNEI3NUIzQkMyRUE1MjNFMzZGRjBBNEU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZBNDI4RTkxQTFFOTc1MzAwMDk3NDg3RDE3RUM3RUEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbS_-aa7u78BBUCKAJDMywXQDiZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQL86CCdk_fpH623AExbtab9mLHj_nfy7FGrD5DDzof70A&oe=6ABE8B12"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1558106329091666"
+      },
+      {
+        "id": "1512261770164856",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/743699393_1574550730967433_2509497790280469281_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=auXQ-ALfJewQ7kNvwFLTsO6&_nc_oc=AdrNG9UQrX7AmRotv-Gq0Vtz14NdtFDCDOwGZINxBG4bIvXZyE0Vtqf8lZhHlUHCbQ8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQInnBH42Rd-ImeZ1bZtOV4KZHILlwPmPbHLTMN3QwcX4w&oe=6ABE8C17",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOUhP9BGD6uoAeK_kp6HmE8lv7D4TjG6sp7JZX5E2eV3EHyhYxAJtlQ8Ihvg8Si4_cJfKiO5BskyScYm_LgnOC-_45uutYWskb-hoftjph8-g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lpUZv2oAU_AQ7kNvwG728Xh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwNzY5NDc1NTQwMzc1NywiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2020065c03f15864&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMDQwNDQyOTFDQjQyNEIyM0RERjQ3MjE1QkI4MzNCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U5NEYxNzY2REJCQjg1QTVBRkYyOTVBMTNFREZBQjlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACba36735OKcAxUCKAJDMywXQEAd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQIjQp6achb56-Dzq9f2F2WFFNDpiO9u4g_Lr3VMqLVjjQ&oe=6ABE97E1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1512261770164856"
+      },
+      {
+        "id": "1668481687568680",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/742800117_1786396455862281_5580209769069548584_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=27wWkcV5LWMQ7kNvwH6rI86&_nc_oc=AdrfQoixBmdXmPnAk-RgMzLrIXB_VsexSJ7nusC-wP1ukPme7z91IULbJrNKG-3W3Bg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQL5mfV4qCJ6Rc-95oYKNWcPF_pbGlbtzrj4anrwDxiXXw&oe=6ABE9543",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNFIH7kvG_yVxM3smVqwBvCA9CfgehEhdWAIB5-fQEW95myTIcEqqI0dTs9aChvu9u9HMXj_vIjLw9tDgsKkldTpmw-MWZNJQFwTYLYCCv63w.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=3V8DkNf5MJcQ7kNvwG64rfd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDU2Mzg4NzY1MDA2NzgsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=baa76ece062b57a0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRjQwMzM3RjAyQzU5OTJCRjY2MDhEMDA1NTE2NkJCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNDhCOTIxRkJDODlBNTc4NzA5NEQ2QUY1RkFCNzg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMy8yK5azsBRUCKAJDMywXQDIzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQLkxjmA6c8xyCHgKWWpaNNo9wQuKz6qORmTnyiWPbAIIA&oe=6ABE8FF3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1668481687568680"
+      },
+      {
+        "id": "1285389063476585",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "נוסעת לאילת במיוחד בשביל קניות לבייבי? אל תחכי שהדגם והצבע שאהבת יאזל מהמלאי. שלחי לנו הודעה עכשיו בוואטסאפ והצוות שלנו יעזור לך לבדוק ולשריין את המלאי מראש. את בוחרת את הדגמים שאת רוצה מהספה בבית, ולנו נשאר רק להכין הכל כדי שיחכה לך ארוז ומוכן בסניף אילת. לשיחת וואסטאפ עם נציג >",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752150886_1040761424988717_5166332980792014701_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZfGU7JeEXr0Q7kNvwEyIt8C&_nc_oc=AdoN5gFxQnH3-hUdswRBFk9XMuq_Tc7qdj59eRMPKMhHfYrTPqyrFdUVDLNLDXYb09M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQLEc68HbldgTqY7tC5EirS3StMXHza7oYXqw2n7xOD31A&oe=6ABEBC5F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNA2-1Aipx5JMU4JrMDKBaHNzN7dCdb4FCYrtdy2r7A_LJaOC3Az4cigr58u3bSMQoWrJ61VpR7M7tk4HMnpVTEEa80IISvp05hBVTzQ6tFWg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Huwwq3RNWGUQ7kNvwHE3s9N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg4NzQyMDQ4NzM5MDYxOSwiYXNzZXRfYWdlX2RheXMiOjIyMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=46d4554716bcf2bf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMDRDQUI4ODA2QTVBN0M0OUI4ODU4ODY0NjYwODdBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QxNEY5Q0VBQjBCNzQ0MjAwRTM4MUY4QkY5Qzc0NEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa21tbu1caTAxUCKAJDMywXQC4zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQKDdYhtfoyXsNoocAIhTdwOddA1hjfrzGQI2F6Ylms5YQ&oe=6ABEA6B5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1285389063476585"
+      },
+      {
+        "id": "1729171878252282",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563077_1037393238787624_8059228228144226248_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RErgvLIvcvcQ7kNvwFaauFd&_nc_oc=AdpBm5q_03RWskAt6Kl44Vswe9HZq1BTmGWiy_bWP8KG0mSJqkCOmQ4orjG6oYbocEA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQKmwC0dRf1nv1r9OmXGPUeAjRLU_AQe0tsKnzWoseo-cw&oe=6ABEA987",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMB-G_Jtfo7msIprg_IS5fkbhHq-A48MNIYpuGZiceg1VUoAx8Exyv9nkqiK7CnGvya5-7pPb-5GKCEDZZIA_OzoJVF6qwYVaSpy-H-cYj-yw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=kU7V584kh8QQ7kNvwGads4W&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MTQ2NjY1MDMwMDE5MzgsImFzc2V0X2FnZV9kYXlzIjoyMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8ec6dcddc5dd2af7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOTRFNzIxNTIwQzAxN0M3RDQ0NTg2NjZGQUYyRDY4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4NDQ2NTFDNkEzMEE5Njg1RTQzNTRDNjc2RjdDRDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACak3bz1-qHeBRUCKAJDMywXQDdmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQLbqZoBTt8i4fTeKswBQuexV9mrtUocDvC_8JKNqueRig&oe=6ABE8D4F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1729171878252282"
+      },
+      {
+        "id": "1393408355986961",
+        "page_id": "109916539090743",
+        "page_name": "Baby Star בייבי סטאר",
+        "page_url": "https://www.facebook.com/BabyStarIL/",
+        "page_like_count": 135059,
+        "page_categories": [
+          "מוצרים לתינוקות/ מוצרים לילדים"
+        ],
+        "ad_creative_link_title": "חבילות לידה ללא מע״מ בהזמנה מראש בבייבי סטאר אילת",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749330121_969330472805423_4880369872773128488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PGtp3N_s4gYQ7kNvwFoBmzG&_nc_oc=AdpV4iRLUrXjwnJLAD7MX8w82UGBWOpjWT9wVnFY9sZiuCT8i4gsPLaUvG1nS88txwY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&oh=00_AQL6BLH70XtTQnNs7zvy2SVjt4tkeoph3pVGeInvBt2XXw&oe=6ABE8BD8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-LK1yDHzqZmv1L4cTZ3bip6YYsgCY3H2BgSpNpmEIZv38-k-ZpFwtfuUxv3woJp9uwO3-tX9F1H06glc5quXulMA96h3gGAEFbhuFHXNsGQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=NdbHfSDDPtEQ7kNvwFDV2k3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTE5NDgyOTI1NDM4NTgsImFzc2V0X2FnZV9kYXlzIjo2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7c373a8757211437&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMTRENzU1Q0FGQjhCMDQ0MzAwMzkyMDA2ODgxMEFCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I1NDNFNTc3RDQ1QkJBRUQ0MDY1QTAyMDFDRUEyQjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk1dDyhZzvBRUCKAJDMywXQDcQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=tiTnykL-tANVPzdalC3osw&_nc_ss=70289&_nc_zt=28&oh=00_AQIGsRtlnRVmYE92K1D4THSVOUR_F8HgSxwQt30-3Otd-Q&oe=6ABE999A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1393408355986961"
+      },
+      {
+        "id": "2350672228795049",
+        "body": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1758989748579910",
+        "text": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "links": [
+          "https://babystar-newsletetter.base44.app/"
+        ]
+      },
+      {
+        "ad_id": "1740181163863603",
+        "text": "מבצעי חגים בבייביסטאר! עד 40% במחלקת הטקסטיל😱 ביגוד ראשוני, מצעים, מגבות ועוד מגוון ענק במחירים מיוחדים לחג. לרכישה עם משלוח מהיר עד הבית",
+        "links": [
+          "https://www.baby-star.co.il/collections/%D7%98%D7%A7%D7%A1%D7%98%D7%99%D7%9C"
+        ]
+      },
+      {
+        "ad_id": "2350672228795049",
+        "text": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1454348136743276",
+        "text": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "links": [
+          "https://babystar-newsletetter.base44.app/"
+        ]
+      },
+      {
+        "ad_id": "1310843440967243",
+        "text": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "links": [
+          "https://babystar-newsletetter.base44.app/"
+        ]
+      },
+      {
+        "ad_id": "2319295025541080",
+        "text": "מגוון כיסאות אוכל החל מ-99 ש\"ח בלבד. חוזרים לשגרה ומתכוננים לחגים ⭐️ המלאי מוגבל, להזמנות עם משלוח מהיר >",
+        "links": [
+          "https://www.baby-star.co.il/collections/%D7%9B%D7%99%D7%A1%D7%90%D7%95%D7%AA-%D7%90%D7%95%D7%9B%D7%9C?page=2"
+        ]
+      },
+      {
+        "ad_id": "1612609467054046",
+        "text": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1062441616441776",
+        "text": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1043165661402571",
+        "text": "מתכננים את הקנייה הגדולה לבייבי באילת ? אל תבזבזו זמן יקר. שלחו לנו הודעה בווואטסאפ, נבדוק יחד את המלאי, נשריין לכם את הפריטים ונכין את ההזמנה מראש. מגיעים, אוספים את החבילה ללא מע\"מ ואפילו מתקינים את הכיסא בטיחות ברכב עם יועץ בטיחות מוסמך להזמנה מהירה בוואטסאפ >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1092244916866090",
+        "text": "בייבי סטאר רמות אילת ונתניה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "811575708701065",
+        "text": "שנה חדשה עם הנחות ענק בכל המחלקות! עגלות, כיסאות בטיחות, ריהוט לבייבי, טקסטיל, האכלה וצעצועים. זה הזמן לקנות את המותגים המובילים במחירים שלא יחזרו. המלאי מוגבל. לרכישה עם משלוח מהיר לינק",
+        "links": [
+          "http://www.baby-star.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1562698161594623",
+        "text": "בייבי סטאר רמות אילת ופתח תקווה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1544012537035131",
+        "text": "בוסטרים החל מ-112 ש״ח בלבד! CYBEX,HARMONY ,BRITAX ועוד. מבצעי חג מטורפים בסניפים ובאתר. לרכישה מהירה>",
+        "links": [
+          "https://www.baby-star.co.il/collections/%D7%91%D7%98%D7%99%D7%97%D7%95%D7%AA-%D7%91%D7%A8%D7%9B%D7%91?filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%92%D7%91&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%99%D7%A9%D7%99%D7%91%D7%94&filter.p.product_type=%D7%91%D7%95%D7%A1%D7%98%D7%A8+%D7%A8%D7%A6%D7%95%D7%A2%D7%95%D7%AA"
+        ]
+      },
+      {
+        "ad_id": "1975387306484041",
+        "text": "אנחנו מכינים יום מכירות מטורף בבייבי סטאר, עם מחירים שעדיין אסור לנו לפרסם.\nרוצה להבטיח שלא תפספסי? השאירי פרטים עכשיו בלינק, והיכנסו לרשימת ה-VIP שלנו. תקבלי מאיתנו את התאריך המדויק ואת רשימת המבצעים לפני כולן, כדי שתוכלי לתכנן את הקנייה ולתפוס את מה שאתם צריכה. להשארת פרטים",
+        "links": [
+          "https://babystar-newsletetter.base44.app/"
+        ]
+      },
+      {
+        "ad_id": "1850883096280905",
+        "text": "בייבי סטאר רמות אילת ונתניה מחפשת אתכם⭐\nאנחנו מגייסים מחסנאי ואיש תפעול.\n💥סביבת עבודה נעימה ומשפחתית \n💥תנאים מעולים \n💥צוות מנצח\nהשאירו פרטים והצטרפו למותג התינוקות המוביל בארץ.",
+        "links": [
+          "http://fb.me/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://babystar-newsletetter.base44.app/",
+      "https://www.baby-star.co.il/collections/%D7%98%D7%A7%D7%A1%D7%98%D7%99%D7%9C",
+      "https://www.baby-star.co.il/collections/%D7%9B%D7%99%D7%A1%D7%90%D7%95%D7%AA-%D7%90%D7%95%D7%9B%D7%9C?page=2",
+      "https://www.baby-star.co.il/collections/%D7%A2%D7%A8%D7%99%D7%A1%D7%95%D7%AA?filter.p.vendor=Sport+line"
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +1074,29 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:21:58",
+    "unqualified": "2026-09-27T08:23:42"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.baby-star.co.il/",
+      "https://www.baby-star.co.il/collections/%D7%98%D7%A7%D7%A1%D7%98%D7%99%D7%9C",
+      "https://www.baby-star.co.il/pages/contact",
+      "https://www.baby-star.co.il/pages/about"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
   }
 }

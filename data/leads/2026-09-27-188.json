@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-188",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "212488038620428",
     "page_name": "WePrint - אמנות קיר מנצחת",
-    "active_ads_count": 2,
+    "active_ads_count": 10,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -84,8 +84,28 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=4309328912664885"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "משלוח",
+        "סט",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 10,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1197,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1905444773477192",
       "4309328912664885"
@@ -100,7 +120,470 @@
       "‎Visual Arts‎",
       "‎Brand‎"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1905444773477192",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "להטבה מיוחדת על זכוכית בעיצוב אישי להנצחה>>",
+        "body": "💔 יש רגעים שלא נעלמים, אנחנו הופכים אותם לאור.\nב-WePrint אנחנו יוצרים זכוכיות הנצחה בעיצוב מרהיב ואיכות Ultra HD, עם תמונה, הקדשה וטאץ’ אמנותי שנשאר לנצח.\n\n🎨 עיצוב אישי עלינו\n🚚 משלוח עלינו\n\n🌿 לזכר יקירים, לבתים, למוסדות ולבתי כנסת.\n\n📲 שלחו הודעה בוואטסאפ להזמנה או ייעוץ אישי >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719109637_1380851410614891_7278720538870949400_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ik1Wv09Z0HwQ7kNvwEnzDR1&_nc_oc=Ado2vUx-BodNTDVIkBK9Q4aKVSeeCvPa-w2BWsv7yoXk9m1aiC56cqQt-qNykjb9zT8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQKOcYb6cfdP6fMIMozhsL0tWcDc1wLVxRLwanMXcfj9uQ&oe=6ABE8A00",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNR3nsCxIF2-nzUG4s7ZxnqUZE5S4sLVOsKFgFhijco33bcKx-vH2zXq69qV_Svg9ukE2OI0CwCDW6QK7_jSQfMjoFm415HgXdnKy3WwniOrQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=B-HDTZYzzjMQ7kNvwFBWa_4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyNzc2OTg2MzY0MTI4NywiYXNzZXRfYWdlX2RheXMiOjEyNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1a92e8daf07c68b0&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC80NDREQzJEQzgwOUVCOEZBNTZBOEJDMzE0MUQ0QUY4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO476SqPOlAxUCKAJDMywXQBQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQL-bWyn1HKosngKh5SQY9FQ2-5YLMBppXsrw4-pBtTG2A&oe=6ABE9BA1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1905444773477192"
+      },
+      {
+        "id": "4309328912664885",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "לא תמצאו מחירים כאלו של הדפסה על זכוכית >>",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718102364_1541492994072590_1049948592580497781_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rl9XBmk46tMQ7kNvwFo2s2I&_nc_oc=Adr9Z4SUeepfdeqSFAHWFfimZy-wl5p1TYuMYGPO8kg1sQs7lX4VpAXAqbk-xr6VaYU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQI5CWokouBu2owjsf3JpR6zKEdjuW0aF56asGD-IB9P8w&oe=6ABEB4EB",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM4Qg75bNeYu0QMBmvoug35CUwR_hvv-TAZnPeXa2MotOJlejL9COPJd33FAswfbevfiYLjRqmnJiMdO2MbSP3IIaNsXtRMrowK4SlGOo-hfw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=TwPxgrkdNfkQ7kNvwE-0bqc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTgyNjA4MDc4MTQ0OTYsImFzc2V0X2FnZV9kYXlzIjoxMTEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1a51455beaac3ac7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MDQ1QjJGREI3QkMyMjA2MjA2RkJENTQxMzg1QjVCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFFNDU5NzYxODJENUVEQ0ZCQzhDM0M3MDlBOTQ5QjkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbAteibyobPAxUCKAJDMywXQCmqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLSe4QB9Q78_0Wpk6bw0XPl6XLzovB4ltkrlNsL4gRNmw&oe=6ABEA752"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4309328912664885"
+      },
+      {
+        "id": "1304348821684290",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "לפרטים והזמנות>>",
+        "body": "משפצים בית כנסת? אשריכם 🙏\nזה הזמן להוסיף קדושה, יופי ונוכחות לקירות.\nלרגל חידוש ושיפוץ בתי כנסת: 20% הנחה על הדפסות זכוכית מעוצבות במיוחד לבתי כנסת.\n\nפסוקים, ברכות, עשרת הדיברות, מזמור לתודה, שמע ישראל,\nאו כל עיצוב מותאם לפי אופי המקום והקהילה.\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 עיצוב מכובד ומותאם לבית כנסת\n🏛️ הדמיה על קיר בית הכנסת ללא עלות\n🚚 ליווי מלא משלב העיצוב ועד ההתקנה\n\n✨ מחזקים את המקום שבו מתכנסים\n📲 פנו אלינו בוואטסאפ לפרטים והזמנה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733505652_1344909091118125_1903034921778800246_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lve2Csc7ltgQ7kNvwFSOgK6&_nc_oc=AdqJYI1jwN02FRuqxiXP9vG1FgMwdTB-Q48Vwn92JkEd3g71IJdu6M_OYP54i1EixSY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQIu1DnKNN03ddJ8Mnm8wRbFZiJoGzZqH3kYQj5ynF5CAQ&oe=6ABE8D1D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN6Rdv85fQNbP7EiLxwabjVUfqPNqmPh7Bl7ETZmubyuOrzyYLC-zpEUPYs39KuM5LJfcu21W_ZEiEGUQnWEsdFQPz6hkB9HobVWTpzWqXd6A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=cjlJ1HAiv3EQ7kNvwFsP-J7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwOTQwNTI4Mjc4MTQ3NzIsImFzc2V0X2FnZV9kYXlzIjo4OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a126cd931fb34685&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMTRCRTQzNUY0RkY0NjE1N0I3MjQzNERDRERCOEY5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EyNERENzZENTM4ODNEMzdBRkVGMjVBOUE5MkZCMzk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo7Yqv9aG4BxUCKAJDMywXQDPMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLSeLzXwjPMIqpKnS4e_hY5g0skEXeyix0N-bbs4pMkgg&oe=6ABE9995"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1304348821684290"
+      },
+      {
+        "id": "1521296159379751",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "לא תמצאו מחירים כאלו של הדפסה על זכוכית >>",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710315171_1171238078477043_3512032010876886679_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-QKv4ATgdP4Q7kNvwHn071m&_nc_oc=Ado6k6a70om-F7AW3ZSNJWJmnZpFolvgF44NZcVgwV0YdmpgB55Anbv5X4R0I9yrhGU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQKLAFq64FdZL30_d9AUUEnta78b0eXTL_DXqT1GQusR2A&oe=6ABEAEEF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOy28vAoTOIOQLFxYwZefo_OK31XUASKO63PI4zF1ixRwTGrdwRx2LAlxDGeobev8YQP9aAthZ7Cdq4UxT08gW9XAs5vZl2sMXpy7cluxOg-w.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2K6h3Uk7-HMQ7kNvwGD-805&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NDIwMzUzNzI3NjY2MTYsImFzc2V0X2FnZV9kYXlzIjoxMjYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=109d28c2fe6b91e4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjRGMUE4OEQyOUVFOTYwNTI1QTQ3NzAzQ0JFRjA4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE1NEEzRjc2RTgyQTQ0NUUzMjUwRTJBMzQ0N0RGOEJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw1q-h1NCADhUCKAJDMywXQDv3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLLpxH5AtnSjiBox5sQ2DpJvfuS9vsBlQ5OTNRpUU_Kzg&oe=6ABEB970"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1521296159379751"
+      },
+      {
+        "id": "907174705741328",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "לפרטים והזמנות>>",
+        "body": "משפצים בית כנסת? אשריכם 🙏\nזה הזמן להוסיף קדושה, יופי ונוכחות לקירות.\nלרגל חידוש ושיפוץ בתי כנסת: 20% הנחה על הדפסות זכוכית מעוצבות במיוחד לבתי כנסת.\n\nפסוקים, ברכות, עשרת הדיברות, מזמור לתודה, שמע ישראל,\nאו כל עיצוב מותאם לפי אופי המקום והקהילה.\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 עיצוב מכובד ומותאם לבית כנסת\n🏛️ הדמיה על קיר בית הכנסת ללא עלות\n🚚 ליווי מלא משלב העיצוב ועד ההתקנה\n\n✨ מחזקים את המקום שבו מתכנסים\n📲 פנו אלינו בוואטסאפ לפרטים והזמנה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782716400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732680502_1745414536469817_6689681132181990787_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s7vFDwE3424Q7kNvwHnv6fm&_nc_oc=AdoTR4cwFWARzNbEfqYV5I7iVGaholS39quye84vNKYjh-OSMdXqfVGOnuWo68DvvFU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQIopwiEWk5dhbSPQO9mokjfU6CiTFur9nWc4FJ1kXzwEA&oe=6ABE8AA0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPRDk8IuxBpis6NXCrF69fkPo8BfuNKqhfObVn-r0fmPAAS-YZEF4DgaXZvQ8fkcg0z4mtYVwWXqRYOjPfNIrFbWKBWGQevP91fBNFYWaIAZA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Z8PeGGpE4i8Q7kNvwGC8uIr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDMwNjUwNzkxMTM4NjMsImFzc2V0X2FnZV9kYXlzIjo4OSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cec25269a362a7e7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTRFMzc1MTZCQjJCNDgxRkQ3Q0YzOUI1ODk5RTlCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZENDU0MTUwNjJCRENFQTA2RjA2QjhCMUVCRjBCRUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOotGbiZLIAxUCKAJDMywXQC5U_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ1mvAqtQ3aGoLD4GOJw2uHi-MeWCu-XLVKiSyRIs_vVw&oe=6ABEB397"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=907174705741328"
+      },
+      {
+        "id": "1581545847087246",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "Business",
+          "Visual Arts",
+          "Brand"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מכבדים את בית הכנסת בהדר הראוי לו.🕍\n\n“זה אלי ואנוהו” - חז”ל למדו מכאן את מצוות הידור המצווה.\n\nהדפסות יוקרתיות בהתאמה אישית לבתי כנסת, בתי מדרש ומוסדות תורה, באיכות גבוהה ובגימור מושלם.🤍\n\nלפרטים והזמנות - צרו קשר.📞",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785567600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/761641041_1587529779383444_6614138030600910598_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7KlXmPmb5M0Q7kNvwHbFJRl&_nc_oc=AdqRsCvprT2gvfyEfYjHebsTi9-x5Pl9gsM8EUMZXX05T0bB9Dja8FZfPQTt_PeuTd4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQLBdsnzewLWqH-H01oGxMDAA-_JyACMgo5-WLKR_HoWjA&oe=6ABEA85B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOuihJethFmsiaoO-ZjENONI5QUBPCi6u-TbjRD9Ngk_E3f21-KieDxHJ6oOEk5Z6kwQrQfOnqiqkr8WLH6lFK27emtOl8OOhX7yGQTbw.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VE24z6zQSisQ7kNvwGykuqW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDA1MDE1MTM4OTE4OTgyLCJhc3NldF9hZ2VfZGF5cyI6ODEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLX_AmrzWHW8mI12RrhqCLUpf8OKxTE0FC6wFLvTTNrzg&oe=6ABE905C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1581545847087246"
+      },
+      {
+        "id": "5254932074731827",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "Business",
+          "Visual Arts",
+          "Brand"
+        ],
+        "ad_creative_link_title": "להטבה מיוחדת על זכוכית בעיצוב אישי להנצחה>>",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731788080_1204299095132019_8292404159602051878_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8efYlpCItOcQ7kNvwFcVomD&_nc_oc=Adpj_CCh6DqD9eFGo2FR06n-nRGT0clpFAwR2k7o8L0BBtiKCg2q_sw91v4PdUuBcM4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQKXRgXZa84buWk94h-A_HLLLJab2_bKDso0mvEDpGI5og&oe=6ABE9E42",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOI3PLCYAUotY0FNMwnL_-zMJaA1HC-hr1Kq1Z9Vg5ItMmivC6OHIrM3zVaipEcDNoxk6Ntu9oxTZ4Fht5EWVr789NmeDRT7cpjwIm9kIE3bw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6j7-InXUYJgQ7kNvwGJPWip&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTc2MDUwNTgyNjE0ODMsImFzc2V0X2FnZV9kYXlzIjoxMjYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1f121a806386e1d7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNzREM0I5NEJENUJBRDcyQzM4MDM1QzY0QUU2NTlBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk3NDU5RjBFQTlGQTg1NERDQTkzQjg0OEM4RDhBRkIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWx7unz_2DBhUCKAJDMywXQEMd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLnvKkOd3JbI46B85EI5uEbpSajAfVVg9KUR77jJRc-EQ&oe=6ABE9999"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=5254932074731827"
+      },
+      {
+        "id": "1077583561272665",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "Business",
+          "Visual Arts",
+          "Brand"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לעטר את בית הכנסת אינו רק עניין של יופי – זו דרך להוסיף כבוד ל”מקדש מעט” ולהדר את מקום התפילה. 🤍\n\nאנחנו כאן כדי לקחת חלק במצווה שלכם, ולהפוך כל פינה בבית הכנסת למכובדת, מרשימה ומעוררת השראה.\n\nהשאירו פרטים ונשמח ללוות אתכם בדרך. ⬇",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785567600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/761106831_1039420162135154_3570731387618536563_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iqoo8xJ3xf4Q7kNvwG2IWRV&_nc_oc=Adrup2-wtG8kQyLvMpsr8eQ6PB-xgyTr9MT-dE_vBvgSxkq_EvN6k6veZzegWKKXihw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQLWRJ4m2R1CYG0jUH0CmDSFIy2lYHpf34Tx-6G2ikGRlg&oe=6ABEABE7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOPLktsj0XF8vcz5BBAzenB2RjyvGKJQ_ZIaYyIj6kz5QyHtt7imUZIyPVN_XTdRe3UJ3meBJXQPLc0k6vsbJX6zVebRxkE2uX2v3Gz3w.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=kxgjjn-JsRkQ7kNvwH9tXyx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDQwNzQzNzM2NTQwMzQ2LCJhc3NldF9hZ2VfZGF5cyI6ODksInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQJVrbpPtBGUYZq6a0bs--QigodYkcne968kDz6i0P3JrQ&oe=6ABEB4E8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1077583561272665"
+      },
+      {
+        "id": "1554077573008617",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "Business",
+          "Visual Arts",
+          "Brand"
+        ],
+        "ad_creative_link_title": "לא תמצאו מחירים כאלו של הדפסה על זכוכית >>",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713329545_1545360280574681_7592535671604513253_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x7WCjqN-mpEQ7kNvwFQFsWD&_nc_oc=AdqiquFWrCMHJ9oVoGg2vOOVSC6Dd7wEbUAdX1lyI8lNEM0zbR63zpEmha92K5U_Lao&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQJzS3OkyZy7AHHu7iDWPUfU4BZU64ovETKnBOC_Du9VZw&oe=6ABE8DC0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOOLBLK-TXeKNnuZCYM9NIdFtVNpQ6OBvYxFW2pZkxbMmum4WJCo4QuGu-codgJD-hBGce8m4Li1BcBfwckXLxdYptAq60VI8ZveGdszf2Qmg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=h1vEZR5OytQQ7kNvwGDAx51&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzkyMTQzOTMxNjQ0NjUsImFzc2V0X2FnZV9kYXlzIjoxMjYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c4fa41ff867c42c6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDRFQUQ4NTRBOEQ1QzUwMzI1RDlDQTQ1RkI3RkFCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE1NEQwRTk3QTJFMUY5OTE1MTc5N0I2QjkzOEU1QUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbiisCWks_7BRUCKAJDMywXQDQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQIdryMan4RNXVlo86ldx9Rp_BDCQXJ5jyG-fjlZnF5MYw&oe=6ABEA4F2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1554077573008617"
+      },
+      {
+        "id": "4456583144588784",
+        "page_id": "212488038620428",
+        "page_name": "WePrint - אמנות קיר מנצחת",
+        "page_url": "https://www.facebook.com/We.Print1/",
+        "page_like_count": 1197,
+        "page_categories": [
+          "עסק",
+          "‎Visual Arts‎",
+          "‎Brand‎"
+        ],
+        "ad_creative_link_title": "לא תמצאו מחירים כאלו של הדפסה על זכוכית >>",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/708813358_1747193939993826_5603681566773921415_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nkP6loxmVoEQ7kNvwFrTcvi&_nc_oc=Adqfy-3RTnBrTSwMTGpP-c2tJtftcK9Xw3VmKrkgOmMrkkXQzp8JE-G7C45_xiDSdPI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&oh=00_AQK5Dbx7SG3QrSJi6HNRE3xZXf178_0bfHe3GKqN2F-bCQ&oe=6ABEB1FF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOc_EXDi2wxilaZbm9NdVNzUtmqmApf-8Xza6x34hk7OPKcTApojg4rJG2oso2h6FZeu39SJtOn0yFEs-mJRzhsXzziO5zUJbD6nZvhFIL_tg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pzPpLad2LLEQ7kNvwHGDNeA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MzM2Nzk3NzQzODMzOSwiYXNzZXRfYWdlX2RheXMiOjEyNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dd18ce80abe67f2a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NjRGNTUwMEREOTJBNjkyOENERTQwQUFCMUJBRjQ5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhGNDFDMjcwNUNCOUNENDkwNDVEOTQxNDZCRDQ0RThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGstSvxpe_AxUCKAJDMywXQDizMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=mrBex2tNsabpCMXJY57Eiw&_nc_ss=70289&_nc_zt=28&oh=00_AQLq2qsfs_QQYLHlJBCTrfx9PiNDyZJq8i8ZUR3JqnQBDQ&oe=6ABEA6AF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4456583144588784"
+      },
+      {
+        "id": "1905444773477192",
+        "body": "💔 יש רגעים שלא נעלמים, אנחנו הופכים אותם לאור.\nב-WePrint אנחנו יוצרים זכוכיות הנצחה בעיצוב מרהיב ואיכות Ultra HD, עם תמונה, הקדשה וטאץ’ אמנותי שנשאר לנצח.\n\n🎨 עיצוב אישי עלינו\n🚚 משלוח עלינו\n\n🌿 לזכר יקירים, לבתים, למוסדות ולבתי כנסת.\n\n📲 שלחו הודעה בוואטסאפ להזמנה או ייעוץ אישי >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "4309328912664885",
+        "body": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1905444773477192",
+        "text": "💔 יש רגעים שלא נעלמים, אנחנו הופכים אותם לאור.\nב-WePrint אנחנו יוצרים זכוכיות הנצחה בעיצוב מרהיב ואיכות Ultra HD, עם תמונה, הקדשה וטאץ’ אמנותי שנשאר לנצח.\n\n🎨 עיצוב אישי עלינו\n🚚 משלוח עלינו\n\n🌿 לזכר יקירים, לבתים, למוסדות ולבתי כנסת.\n\n📲 שלחו הודעה בוואטסאפ להזמנה או ייעוץ אישי >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4309328912664885",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1304348821684290",
+        "text": "משפצים בית כנסת? אשריכם 🙏\nזה הזמן להוסיף קדושה, יופי ונוכחות לקירות.\nלרגל חידוש ושיפוץ בתי כנסת: 20% הנחה על הדפסות זכוכית מעוצבות במיוחד לבתי כנסת.\n\nפסוקים, ברכות, עשרת הדיברות, מזמור לתודה, שמע ישראל,\nאו כל עיצוב מותאם לפי אופי המקום והקהילה.\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 עיצוב מכובד ומותאם לבית כנסת\n🏛️ הדמיה על קיר בית הכנסת ללא עלות\n🚚 ליווי מלא משלב העיצוב ועד ההתקנה\n\n✨ מחזקים את המקום שבו מתכנסים\n📲 פנו אלינו בוואטסאפ לפרטים והזמנה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1521296159379751",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "907174705741328",
+        "text": "משפצים בית כנסת? אשריכם 🙏\nזה הזמן להוסיף קדושה, יופי ונוכחות לקירות.\nלרגל חידוש ושיפוץ בתי כנסת: 20% הנחה על הדפסות זכוכית מעוצבות במיוחד לבתי כנסת.\n\nפסוקים, ברכות, עשרת הדיברות, מזמור לתודה, שמע ישראל,\nאו כל עיצוב מותאם לפי אופי המקום והקהילה.\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 עיצוב מכובד ומותאם לבית כנסת\n🏛️ הדמיה על קיר בית הכנסת ללא עלות\n🚚 ליווי מלא משלב העיצוב ועד ההתקנה\n\n✨ מחזקים את המקום שבו מתכנסים\n📲 פנו אלינו בוואטסאפ לפרטים והזמנה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1581545847087246",
+        "text": "מכבדים את בית הכנסת בהדר הראוי לו.🕍\n\n“זה אלי ואנוהו” - חז”ל למדו מכאן את מצוות הידור המצווה.\n\nהדפסות יוקרתיות בהתאמה אישית לבתי כנסת, בתי מדרש ומוסדות תורה, באיכות גבוהה ובגימור מושלם.🤍\n\nלפרטים והזמנות - צרו קשר.📞",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "5254932074731827",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1077583561272665",
+        "text": "לעטר את בית הכנסת אינו רק עניין של יופי – זו דרך להוסיף כבוד ל”מקדש מעט” ולהדר את מקום התפילה. 🤍\n\nאנחנו כאן כדי לקחת חלק במצווה שלכם, ולהפוך כל פינה בבית הכנסת למכובדת, מרשימה ומעוררת השראה.\n\nהשאירו פרטים ונשמח ללוות אתכם בדרך. ⬇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1554077573008617",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4456583144588784",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1905444773477192",
+        "text": "💔 יש רגעים שלא נעלמים, אנחנו הופכים אותם לאור.\nב-WePrint אנחנו יוצרים זכוכיות הנצחה בעיצוב מרהיב ואיכות Ultra HD, עם תמונה, הקדשה וטאץ’ אמנותי שנשאר לנצח.\n\n🎨 עיצוב אישי עלינו\n🚚 משלוח עלינו\n\n🌿 לזכר יקירים, לבתים, למוסדות ולבתי כנסת.\n\n📲 שלחו הודעה בוואטסאפ להזמנה או ייעוץ אישי >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4309328912664885",
+        "text": "הופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1905444773477192",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nWePrint - אמנות קיר מנצחת\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1905444773477192\nהתחילה לפעול ב-8 ביוני 2026\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWePrint - אמנות קיר מנצחת\nממומן\n💔 יש רגעים שלא נעלמים, אנחנו הופכים אותם לאור.\nב-WePrint אנחנו יוצרים זכוכיות הנצחה בעיצוב מרהיב ואיכות Ultra HD, עם תמונה, הקדשה וטאץ’ אמנותי שנשאר לנצח.\n\n🎨 עיצוב אישי עלינו\n🚚 משלוח עלינו\n\n🌿 לזכר יקירים, לבתים, למוסדות ולבתי כנסת.\n\n📲 שלחו הודעה בוואטסאפ להזמנה או ייעוץ אישי >>\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלהטבה מיוחדת על זכוכית בעיצוב אישי להנצחה>>\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "4309328912664885",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nWePrint - אמנות קיר מנצחת\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 4309328912664885\nהתחילה לפעול ב-8 ביוני 2026\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWePrint - אמנות קיר מנצחת\nממומן\nהופכים את האמונה לאומנות על הקיר, עם הדפסה ישירה על זכוכית יוקרתית. והבשורה האמיתית?\n🎨 עיצוב אישי עלינו + 🚚 משלוח עלינו על המידות: 60/90 | 70/100 | 80/120 | 100/150\n\nמזמור לתודה, ברכת הבית, שמע ישראל או כל פסוק שמרגש אתכם\nהאמונה שלכם הופכת לחלק בלתי נפרד מהעיצוב 🕊\n\n🖨️ הדפסה באיכות 4K על זכוכית מחוסמת\n🎨 התאמה מלאה לכל טקסט ולכל סגנון\n🏡 הדמיה בחלל הבית – ללא עלות\n\n💎 לא עוד תמונה על הקיר. יצירה עם משמעות.\n📲 שלחו הודעה בוואטסאפ להזמנה עכשיו >>\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלא תמצאו מחירים כאלו של הדפסה על זכוכית >>\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -113,6 +596,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:20:40",
+    "unqualified": "2026-09-27T08:22:37"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

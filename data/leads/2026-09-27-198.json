@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-198",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "421640817962896",
     "page_name": "תומיק - חפצים. רהיטים מיוחדים",
-    "active_ads_count": 1,
+    "active_ads_count": 10,
     "search_keyword": "להזמנה בוואטסאפ",
     "sample_ads": [
       {
@@ -61,8 +61,25 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1026427813132919"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 10,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 57742,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1026427813132919"
     ],
@@ -74,7 +91,335 @@
     "page_categories": [
       "Interest"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1728586681825170",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "TOMIK x CARHARTT",
+        "body": "TOMIK x CARHARTT",
+        "link_description": "",
+        "landing_url": "https://tomik.co.il/?utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&utm_id={{campaign.id}}",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731397891_1025312966661095_3830627141515622456_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZTPYrBwKmCoQ7kNvwHNqtpz&_nc_oc=Adp4sF1Hm59L5Yy8XOGfBXamJo66kEf0cFn2eupjJ1jvk463jeVw2EBo78rC74MqqnM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQIsB5zDlpUH7q2H6YTKfByhyy6phczriRYNzIR6v8i21w&oe=6ABE9E47",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCWZ_mNrVeWH-Ys4m1i2ZwZdV6fn0NK6V61CSgjWHJ2_Ih-FDI_iK3basI4iHERsi5g557-1VNgOjgfNWbHRYyarEuZUR-DAitvNJhuBYV8Q.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=bOvMsLZ4AsAQ7kNvwE0NR-z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MjU0ODczODkzNzMxOTYsImFzc2V0X2FnZV9kYXlzIjo5NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f1cae63f0b898dd3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQzQwMjk1MEVDMUIyRThCQTY4MkJDMEMzQzBFOEJBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5NEI5MzNGNjQ4QUY4Q0QwNDAyRTJFMEU0NzgxM0E3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYzJ_fhtu1BRUCKAJDMywXQEBqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLQk-0EKKM1WjaD4ejlLSy8P7YWClLrEJ-3MPlKIyyEow&oe=6ABE99A9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1728586681825170"
+      },
+      {
+        "id": "1914202115929530",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "המיטה הצרפתית - תומיק",
+        "body": "המיטה הצרפתית של תומיק - המלכה של חדר השינה.\nעם נוכחות מרשימה ומדויקת, אפשר לקבל אותה בשלל מידות וגוונים בהתאמה אישית. רוצים להכיר את המיטה הצרפתית? בואו לבקר אותה באולם התצוגה שלנו. לתיאום ולכל שאלה, שלחו לנו הודעה >>",
+        "link_description": "תומיק רהיטים - רהיטי עץ מלא בעבודת יד",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784185200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748306780_1364110608979259_3180234877461315192_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pdkPYqyl6joQ7kNvwFw19gU&_nc_oc=AdoZVN9UOSZFdbWh9q41yFhbHEK6T_8SVJsRi96XQ8RN7qBX27xkRokH0yN-M7Be9VM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLvDH6ic2bfn_v3bn9fo_xZ8cufAzuz51Rf2PDNERmLjA&oe=6ABE8901"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1914202115929530"
+      },
+      {
+        "id": "1026427813132919",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "הספה היפנית",
+        "body": "מינימליזם זה לא אומר שצריך לוותר על הנוחות ☁️הכירו את הספה היפנית: קווים נקיים, עומק מפנק, וסטייל שמשדרג כל חלל ברגע.\nזמינה להזמנה בכל בד, צבע ומידה שמתאימה לכם.\nרוצים לבוא לראות אותה באולם התצוגה? יש לכם עוד שאלות?\nשלחו לנו הודעה בוואטסאפ ונחזור אליכם צ'יק צ'ק >>",
+        "link_description": "תומיק רהיטים - רהיטי עץ מלא בעבודת יד",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747744081_2318400045570651_4682305240891683594_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1-ytUCRzvokQ7kNvwGnpRdK&_nc_oc=AdotzsZIJsP5amGrAg5IvVh6_kNjI_Bugg8kRzMInMdn3rLLqZ9Xuheye57BtsUBoi0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQJFqzXcUiSjFyTQ6VcVxCMWq3Q8esFh2s_vfReU0suyIg&oe=6ABEB5B3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1026427813132919"
+      },
+      {
+        "id": "1734619727489368",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783666800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723685807_1733387007679265_8235634209699790715_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MIb0edpUXNkQ7kNvwFMP6ja&_nc_oc=AdrMB_klJmnn81H5NQgUbeayM8RMTmENswNCwCfQbIFQx4wT6Vyq-8WOkfe2b7sNXaI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKdntfnrgKSuhqqbMkriQjbxwkhPiGN41oPTAk7FAe7jw&oe=6ABEAA9E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723838425_1474455081390957_5298286212216347570_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l8Y0xeFoePMQ7kNvwGfXDYw&_nc_oc=AdoZAeyyMb-qcFdukU2xvhaJvQZhamJfdR9v_2YWJAj4rCWV4lUt1GmDT0FFMXF8dik&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLlKZqQAGEIBgRNAcp8oA1VLhq4LU2TVdjmmGOS5Pj0AA&oe=6ABEBD96"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1734619727489368"
+      },
+      {
+        "id": "1637023001373080",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "המיטה הסקנדינבית - תומיק",
+        "body": "יש רהיטים שמכניסים לחדר שינה עיצוב, יש כאלו שמכניסים אליו תחושה. המיטה הסקנדינבית שלנו משלבת את שניהם. היא מיוצרת לפי הזמנה, בכל מידה, בעבודת יד מעץ מלא אלון מבוקע. היא משלבת קווים נקיים, מראה מרחף ונוכחות שקטה שמייצרת חלל רגוע ומדויק.\nמוזמנים להגיע לחלל התצוגה שלנו להתרשם, או לרכוש טלפונית >>",
+        "link_description": "תומיק רהיטים - רהיטי עץ מלא בעבודת יד",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784185200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748150509_1923235731550704_4634244009509498281_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gxy4y35rSyAQ7kNvwEyS_EE&_nc_oc=AdovYaWh4DI5AfH6kdaXh-JHOA5Fta2yKGen8VNFcQj3GhujQFFePXNHe74bGn_siL8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKM016zCdkNBnesDab5msuZ2sIl7juGKfV0xLK1LN8cTQ&oe=6ABE95BA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1637023001373080"
+      },
+      {
+        "id": "1574114544426049",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "The Japanese Sofa",
+        "body": "כשעיצבנו את הספה היפנית שלנו, רצינו ליצור פריט שמיד גורם לכם לחשוב - זו הספה.\nקווים נקיים ומדויקים, עומק ישיבה מפנק, ושפה מינימליסטית שמכניסה שקט ואלגנטיות לחלל.\nהספה עשויה בד איכותי, נוחה במיוחד, וניתנת להזמנה בכל מידה ובכל בד שתבחרו - כך שהיא מתאימה בדיוק לכם ולביתכם.\nמוזמנים להגיע ולהתרשם מקרוב מהתחושה, מהגימור ומהנוכחות שהיא מביאה לסלון.\nלתיאום ביקור ולפרטים נוספים - נשמח לעמוד לרשותכם ב-WhatsApp. כי בסופו של דבר, בדיוק את זה אתם רוצים",
+        "link_description": "תומיק רהיטים - רהיטי עץ מלא בעבודת יד",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746947315_1046313877785655_4176793971460171907_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P2g4PGK1oR0Q7kNvwF_tKj0&_nc_oc=AdobdWnglWqSHvdxZSKjSXLCiWCtT1I2pN_P8JyDt-3CuM5SdKONGXoYFN7EunDO3xA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLKUww6H9CsKiUFv32hFYWEUbIc4CB7mpJbKj7HqPCpvg&oe=6ABE9D14"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1574114544426049"
+      },
+      {
+        "id": "1502513980704674",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לפעמים כל מה שצריך זה פריט אחד.\nרהיט מדויק, כזה שעשוי באהבה, שיודע לתפוס את העין ותורם לאווירה.\n\nרוצים למצוא את הפריט המיוחד הזה?\nבעקבות המצב הביטחוני וכדי שנוכל לשמור על הבטיחות שלכם ושל הצוות שלנו - ההגעה לגלריה תהיה בתיאום מראש בלבד..\nתומיק – רהיטים מיוחדים בעבודת יד\n054-598-2317\nwww.tomik.co.il\nרחוב השקד 5, אבן יהודה (בwaze -  תומיק רהיטים אבן יהודה)",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711473776_1382096810394771_7871261734255691547_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EFfqrpG64jAQ7kNvwGqs2x6&_nc_oc=AdqZrW7gArnW8AASkOrnunnis9U-Vz2qiJB8-_ZV1dr-zYK6qu-zZNodEOZ6jditJTI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKscgMyfeAXEOcMb1Udth0mwN4B-FjqK4KzT1UvqNa8jg&oe=6ABE9E63",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708813356_1621774402218304_9002764994289393284_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cjy7EHoymKUQ7kNvwG9WaB-&_nc_oc=AdqoQfTDNjKIg-ANJK2dlJyzp29WUjWtF3swrYGX3lk0ZVxBlMK9lbl_NjZiVD-fXvI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLKGmQnGgloD9tHE6ybjQb-CV8PVQVd81y_B-OMrvuI9w&oe=6ABEBC3D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711466164_4372048763124389_5963094961488428361_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nfL21hWRE5AQ7kNvwEOjq1i&_nc_oc=AdquQK2KBfmok1wWcqgUCHE2ImA3Q_BHWULWIaPmg7RGcmt9Yvu06jBvxkOT42EqHkc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLwJmvfCu_esxtG5h6o_8WNjbt_DifOrVA6LQsu84y7Ew&oe=6ABEBCAC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709121445_1092239497312658_7613787808745148151_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kv8sZnuqTJMQ7kNvwE5MyxG&_nc_oc=AdoflkaWH79dy1Mx9WqFu-yFVhb3lNLOaq5850cT6mlvfzDh-gNsgnaLwfs4JSMpuE8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLCXhFLTXKLTVY3E30jZyE7w-5PvxawRvBAnXHOJRAfrA&oe=6ABEAF32",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711543439_1711439280047693_6623969551907854494_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ze9UNO3SbFYQ7kNvwF78DRz&_nc_oc=AdpEpDE4Yr7nsMQKOPBCi-uvAL2VjmlW6FQsiW0jarw5qrGbT85oBQJNI0EazJw_i8k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQL-i75VOsGyj6W_-T7SQ1-urxlEPsQ4eOo0ukIqoIhzBA&oe=6ABE9EAE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710478469_2473418066412618_3334939951952091414_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=REuV3njKlQIQ7kNvwGi1ERV&_nc_oc=AdqpOhqosxp5xfbJeO7y27vWVkk2064lG09-GZd-r98_OD77h00rvi10do3bU319_ZI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKZ_Xta7AR0bFqY5xffIUdf6tvYUnd1ZFj9Fbe3s3b5Gg&oe=6ABEA1DB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711533309_988362770785972_8841098514553494673_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RswGkFBZPqkQ7kNvwFFkUT3&_nc_oc=AdpKOtopvmfYP1O04QUGhFJ8oT6WdlU0lxNHHNOJD2cHdiBCcSwyGAjq4KhvsdM4QrQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLvnUGO7u9iVbZ9Iy2BNn9eKhYHSlOXyDtet9SCE8z2JQ&oe=6ABEB853",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711474760_4319671768348869_5859440115598456038_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EromDsQrNAcQ7kNvwEtGpyG&_nc_oc=Ado9c6TqIWPa5wzTLmsfi3BUny9CJcow-H8m1ZqzBsTdZspo1QQBcLbqjJMvX8FPWMg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQJ2gWyklvhxCikCIIC9VY-K4nrxAM65hrb9oRKxa_m9Fw&oe=6ABEB3B0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1502513980704674"
+      },
+      {
+        "id": "2849104685430152",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "",
+        "body": "Our Swedish table, but made in Israel. Scandinavian style with a local vibe.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780815600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717238176_917753551276361_2713641034720697210_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NxhsPoKBissQ7kNvwE6WgV6&_nc_oc=Adrg-tGDG3X6476OMZS3rRpSuuoGVkt_7Z2QG0-R-S-SIb2Gy04qn1Oy5s7QwzS57nw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKt5IJHSQ_rScv8CmIJhxEWgdlAE4nwbHBiV3haznSpew&oe=6ABE9BE5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2849104685430152"
+      },
+      {
+        "id": "2001721273793360",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "תומיק - חפצים. רהיטים מיוחדים",
+        "body": "Not all homes are designed equally and this one is by far outstanding. \n\nInterior Designer: @veredbon \nPhotographer: @itaybenitphotographer",
+        "link_description": " ",
+        "landing_url": "https://www.tomik.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780729200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714469723_2283931599014613_3522796965602272759_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pFQwiGg2ECAQ7kNvwHtoCP-&_nc_oc=AdqhgygdsnKVgTPAew3NUNBvmQ2iex6BU3rRPS2rspM2htQGHy7xyij7x5tIz3EH4bQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQJQvNZWOVR9lnkx0_ZUeXJijhdd543hJZgnzIxPh21Sbw&oe=6ABEAF3A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710756321_969274622410672_94845350546410377_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ngxKs2LjorIQ7kNvwFTkGoU&_nc_oc=AdqFVOhSFoMZxX3sOx4sJYPAzMDNgArsUsPga_owCcjrSaCP1PhZmAfI1PTVdWSX8jU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLp4cnzvWXnkXu6I5wUyTTpnXMYNT7wB8de9G3x5vEN5A&oe=6ABE9872",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709821501_4562182100684874_6613258905142409735_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QiMkndGZN_oQ7kNvwFbprn0&_nc_oc=Adp8DypD7VBRmEt4vZ-WnDB-cnIii1LcNOdT02LywIQ-fuA9GrFA0x2NV_pK5sN1t_A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQIk-R7Drlfo0k_6WRs6C3-il4b-Lk54islwNNoIjTtveg&oe=6ABE8FDD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710432244_1545519946928376_4700109092823195878_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HnsC8J9Fl1kQ7kNvwFomK93&_nc_oc=AdqxSAdc7vmohSrf7gjYOxGCKXZPALvs_1jE7WgSQCwciVfmA-g7FGYHXje1IEgVbpA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQI_DP_S-Rj7lVNnlrZyS4r_cAZxAMb07k-pr09D8xENnw&oe=6ABE89A0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710746111_1760070935358936_2315960864559692139_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7AHwCpOjp-IQ7kNvwHgfclA&_nc_oc=AdpmYJpg5QJNt6BRKX33dLLojpsT_1fFUUP6BOqKRXujZzxtzlCShxy9kHk1FwkjYwE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQKB85SWLJg_nojN2lwyyrQ8YEiW_Q-MBHTxKI-RoeV9nA&oe=6ABE8F01",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710745760_1014208971164840_9182943923375542767_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iVUaDoPgOHsQ7kNvwEB9kqY&_nc_oc=Ado1MW4Iu-Gz4ODI4mcwjbo-mnZPIUHo3Z8onsKli89FGWuMNnwkVs_L42bjuT2fFp4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQLNMZH3cSUW839sqRvdM8Mutkoifr42h_SNUVMWopkrHQ&oe=6ABEA287"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2001721273793360"
+      },
+      {
+        "id": "984593004465145",
+        "page_id": "421640817962896",
+        "page_name": "תומיק - חפצים. רהיטים מיוחדים",
+        "page_url": "https://www.facebook.com/Tomik1piece/",
+        "page_like_count": 57742,
+        "page_categories": [
+          "Interest"
+        ],
+        "ad_creative_link_title": "",
+        "body": "Where style meets comfort.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711802841_843186985082489_3228750307029562574_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7-68Xz8QJYEQ7kNvwGFzL3Z&_nc_oc=AdodeSmmoTgcg0qounOkGC1wY_yi06HW7LXpZ09ApIQb3HHtLNLxlaXIEOznyKS0U8o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rsDp8Ic-EETo35zE5yRkUQ&_nc_ss=70289&oh=00_AQIv9ijBoMiFf2E5592NJ4dQQuzOVxv5BlWM0sOu2Rko_g&oe=6ABEBB09"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=984593004465145"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +432,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T08:20:18"
+    "discovered": "2026-09-27T08:20:18",
+    "filtered": "2026-09-27T08:22:10"
   }
 }
