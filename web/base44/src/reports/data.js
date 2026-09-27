@@ -8987,5 +8987,1691 @@ export const REPORTS = {
    "button": "בואו נדבר בוואטסאפ"
   },
   "contact_url": "https://wa.me/972545471522"
+ },
+ "billy-264ffd4c": {
+  "slug": "billy-264ffd4c",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/billy/raw_01.webp",
+    "headline": "4 תכשיטים ב-199",
+    "primary": "זה מה שמקבלים ב-199 ש״ח: שרשרת, צמיד, עגילים וטבעת.\n\nבוחרים כל ארבעה תכשיטים מהאתר, ומשלמים 199 במקום 356.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(234,227,221)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "ארבעה תכשיטים.<br>199 ש״ח.",
+     "sub": "כל תכשיט 89 · ארבעה ב-199",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/billy/raw_02.webp",
+    "headline": "4 תכשיטים ב-199",
+    "primary": "למה לבחור תכשיט אחד כשאפשר סט שלם?\n\nכל תכשיט באתר 89 ש״ח, וארבעה ביחד 199 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(243,241,240)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "סט שלם.<br>במחיר של אחד.",
+     "sub": "4 ב-199 · 8 ב-349",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/billy/raw_03.webp",
+    "headline": "4 ב-199",
+    "primary": "שתי שרשראות, צמיד וטבעת. ככה נראים ארבעה תכשיטים ב-199 ש״ח.\n\nמזמינים היום, מקבלים מחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,235,229)",
+     "scrim": "rgba(250,246,238,0.62)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הלוק הזה?<br>199 ש״ח.",
+     "sub": "שתי שרשראות · צמיד · טבעת",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "9:16",
+    "img": "/reports/billy/raw_04.webp",
+    "headline": "8 תכשיטים ב-349",
+    "primary": "שמונה תכשיטים ב-349 ש״ח. זה פחות מ-44 ש״ח לתכשיט.\n\nשרשראות, צמידים, עגילים וטבעות, בגוון זהב או כסף.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      672
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(237,229,223)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "שמונה תכשיטים.<br>349 ש״ח.",
+     "sub": "תכשיט לכל יום בשבוע",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/billy/raw_05.webp",
+    "headline": "שרשרת מגן דוד",
+    "primary": "מגן דוד עדין ומשובץ, שנשאר על הצוואר כל יום.\n\n89 ש״ח, או חלק מ-4 תכשיטים ב-199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(230,208,193)",
+     "scrim": "rgba(250,246,238,0.52)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "קטן על הצוואר.<br>גדול בלב.",
+     "sub": "מגן דוד משובץ · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/billy/raw_06.webp",
+    "headline": "שרשרת מגן דוד מעוצב",
+    "primary": "מגן דוד בעיצוב בולט ונקי, שהולך גם עם טישרט וגם עם שמלה.\n\n89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(245,238,232)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מגן דוד.<br>בסטייל שלכם.",
+     "sub": "מגן דוד מעוצב · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/billy/raw_07.webp",
+    "headline": "מגן דוד למתנה",
+    "primary": "לאמא, לבת, לחברה הכי טובה. מגן דוד שאומר יותר ממילים.\n\n89 ש״ח לתכשיט, ומשלוח מהיום למחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,230,229)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתנה עם<br>משמעות.",
+     "sub": "מגן דוד · מתנה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/billy/raw_08.webp",
+    "headline": "שרשרת מגן דוד",
+    "primary": "תכשיט שלא מורידים. לא לים, לא לעבודה, לא לערב.\n\nמגן דוד מעוצב, 89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(210,205,200)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יום יום.<br>כל יום.",
+     "sub": "מגן דוד · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/billy/raw_09.webp",
+    "headline": "מתנה מהיום למחר",
+    "primary": "יום הולדת מחר ואין מתנה? קורה לטובים ביותר.\n\nמזמינים היום עד הערב, ומקבלים מחר. כל תכשיט 89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(217,211,206)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שכחתם מתנה?<br>מחר היא אצלכם.",
+     "sub": "מזמינים היום · מקבלים מחר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/billy/raw_10.webp",
+    "headline": "שרשרת לב",
+    "primary": "שרשרת עם לב ומטבע, שנראית הרבה יותר ממה שהיא עלתה.\n\n89 ש״ח, ומגיעה מחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(234,233,231)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "מתנה שנראית<br>יקרה.",
+     "sub": "89 ש״ח · משלוח למחר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/billy/raw_11.webp",
+    "headline": "מתנות ב-4 ב-199",
+    "primary": "קונים מתנה לה, ומתנה לעצמכם. ארבעה תכשיטים ב-199 ש״ח.\n\nמזמינים היום, מקבלים מחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(218,201,189)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שתי מתנות.<br>אותו מחיר.",
+     "sub": "4 ב-199 · מתנות",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/billy/raw_12.webp",
+    "headline": "משלוח מהיר",
+    "primary": "מתנה שמגיעה בזמן, בלי לרוץ לקניון.\n\nכל תכשיט 89 ש״ח, ומשלוח מהיום למחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "box": [
+      64,
+      250,
+      648,
+      518
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(212,202,197)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הזמנתם היום.<br>היא פותחת מחר.",
+     "sub": "משלוח מהיום למחר",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/billy/raw_13.webp",
+    "headline": "לוק שכבות",
+    "primary": "הסוד של לוק שכבות: שלוש שרשראות עדינות באורכים שונים.\n\nשלוש שרשראות וצמיד? 4 ב-199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(227,200,183)",
+     "scrim": "rgba(250,246,238,0.48)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שרשרת אחת זה נחמד.<br>שלוש זה לוק.",
+     "sub": "שכבות · 89 ש״ח לשרשרת",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/billy/raw_14.webp",
+    "headline": "שרשרת טיפות",
+    "primary": "שרשרת עדינה עם חמש טיפות זירקון, שתופסת את האור בכל תנועה.\n\n89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(223,199,183)",
+     "scrim": "rgba(250,246,238,0.4)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "חמש טיפות<br>של אור.",
+     "sub": "שרשרת טיפות · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/billy/raw_15.webp",
+    "headline": "מדריך שכבות",
+    "primary": "קצרה צמודה, בינונית עם תליון, וארוכה עם טיפות. זה כל הסוד.\n\n89 ש״ח לשרשרת, 4 ב-199.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(233,227,221)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "ככה בונים<br>שכבות.",
+     "sub": "קצרה · בינונית · ארוכה",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/billy/raw_16.webp",
+    "headline": "שרשרת ועגילים",
+    "primary": "לפעמים שרשרת אחת ועגילים עדינים זה כל מה שצריך.\n\nכל תכשיט 89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,213,211)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "פחות זה<br>יותר.",
+     "sub": "שרשרת וי · עגילי עיגול",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/billy/raw_17.webp",
+    "headline": "4 ב-199",
+    "primary": "שלושה צמידים וטבעת אחת. יד שלמה ב-199 ש״ח.\n\nמזמינים היום, מקבלים מחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      432,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(75,68,62)",
+     "scrim": "rgba(250,246,238,0.24)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יד אחת.<br>ארבעה תכשיטים.",
+     "sub": "199 ש״ח לכל הסט",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/billy/raw_18.webp",
+    "headline": "צמיד תלתן",
+    "primary": "צמיד התלתן השחור, שהולך עם הכול.\n\n89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(244,239,235)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "התלתן<br>שכולן שואלות עליו.",
+     "sub": "צמיד תלתן שחור · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/billy/raw_19.webp",
+    "headline": "טבעת זירקונים",
+    "primary": "טבעת בולטת עם שש שורות זירקונים, שהופכת כל יד ללוק.\n\n89 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(241,240,240)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "headline": "טבעת אחת<br>שעושה את הלוק.",
+     "sub": "טבעת גבעה · 89 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/billy/raw_20.webp",
+    "headline": "צמידים 4 ב-199",
+    "primary": "טניס, תלתן לבן, תלתן שחור ולב. ארבעה צמידים ב-199 ש״ח.\n\nמזמינים היום, מקבלים מחר.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(230,217,203)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הערימה שלכם<br>מתחילה כאן.",
+     "sub": "צמידים · 4 ב-199",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/billy/hero.webp",
+  "business": {
+   "name": "בילי",
+   "wordmark": "בילי",
+   "site": "https://www.billy-online.com/"
+  },
+  "address": "pl",
+  "hero_theme": "light",
+  "hero_eyebrow": "תכשיטי אופנה · מזמינים היום, מקבלים מחר",
+  "hero_title": [
+   "ארבעה תכשיטים.",
+   "199 ש״ח."
+  ],
+  "hero_cta": "מה היינו משנים בקמפיין שלכם",
+  "hero_bg_m": "/reports/billy/hero_m.webp",
+  "hero_pos_m": "center bottom",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם עובד.",
+    "והוא יכול למכור הרבה יותר."
+   ],
+   "text": "רוב המודעות שלכם רצות כבר שמונה חודשים, וזה סימן שהמבצע מוכר. עברנו על המודעות, על האתר ועל המוצרים, ולחצנו על כל מודעה כדי לראות לאן היא מובילה. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו משנים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו משנים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "12 מודעות, מודעה אחת",
+    "d": "אותו טקסט, אותו מבצע בצהוב ניאון, ודוגמנית אחרת בכל פעם. מי שראתה אחת ראתה את כולן, ואחרי שמונה חודשים הקהל כבר מכיר אותה בעל פה."
+   },
+   {
+    "t": "התכשיט לא בפוקוס",
+    "d": "הדוגמניות תופסות את כל התמונה, והתכשיט קטן בפינה. מה שמוכרים זה התכשיט, והוא צריך להיות הדבר הראשון שרואים."
+   },
+   {
+    "t": "מה זה 4 ב-199?",
+    "d": "המבצע מעולה, אבל אף מודעה לא מראה איך נראים ארבעה תכשיטים יחד. כשרואים את הסט, מבינים את המחיר בשנייה."
+   },
+   {
+    "t": "מה שחזק אצלכם, חסר",
+    "d": "מגן דוד, מתנות ומשלוח מהיום למחר. אלה שלוש סיבות לקנות עכשיו, ואין עליהן אף מודעה."
+   }
+  ],
+  "landing": {
+   "eyebrow": "בדקנו לאן כל מודעה מובילה",
+   "title": [
+    "12 מודעות.",
+    "דף בית עם 1,282 מוצרים."
+   ],
+   "text": "לחצנו על כל אחת מ-12 המודעות הפעילות שלכם, וכולן מובילות לדף הבית. מי שלוחצת על מודעה מגיעה לחנות עם יותר מאלף תכשיטים, ומתחילה לחפש לבד.",
+   "flows": [
+    {
+     "count": 12,
+     "count_label": "מודעות, מבצע אחד",
+     "to": "דף הבית",
+     "title": "בילי תכשיטים · 1,282 מוצרים",
+     "url": "billy-online.com",
+     "note": "כשכל מודעה מדברת על משהו אחר, כל אחת צריכה לעמוד משלה: מודעת מגן דוד לקטגוריית מגן דוד, מודעת מתנה לעמוד מתנות, מודעת 4 ב-199 לעמוד שמסביר איך בונים סט. ככה פחות לחיצות הולכות לאיבוד בדרך.",
+     "items": [
+      {
+       "img": "/reports/billy/lp_00.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": false
+      },
+      {
+       "img": "/reports/billy/lp_03.webp",
+       "w": 1125,
+       "h": 1125,
+       "video": false
+      },
+      {
+       "img": "/reports/billy/lp_05.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": false
+      },
+      {
+       "img": "/reports/billy/lp_10.webp",
+       "w": 1920,
+       "h": 1080,
+       "video": true
+      },
+      {
+       "img": "/reports/billy/lp_11.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      }
+     ]
+    }
+   ]
+  },
+  "angles": [
+   {
+    "id": "A1",
+    "name": "4 ב-199: בונים סט",
+    "hook": "ארבעה תכשיטים. 199 ש״ח.",
+    "idea": "מראים בדיוק מה מקבלים: ארבעה תכשיטים אמיתיים יחד, סט שלם במחיר של אחד."
+   },
+   {
+    "id": "A2",
+    "name": "מגן דוד",
+    "hook": "קטן על הצוואר. גדול בלב.",
+    "idea": "תליוני מגן דוד עדינים ובולטים, ליום יום ולמתנה עם משמעות."
+   },
+   {
+    "id": "A3",
+    "name": "מתנה למחר",
+    "hook": "שכחתם מתנה? מחר היא אצלכם.",
+    "idea": "מזמינים היום, מקבלים מחר: מתנה של הרגע האחרון שלא נראית כמו רגע אחרון."
+   },
+   {
+    "id": "A4",
+    "name": "שכבות",
+    "hook": "שרשרת אחת זה נחמד. שלוש זה לוק.",
+    "idea": "שרשראות עדינות שנענדות יחד: וי טניס, טיפות ומטבע."
+   },
+   {
+    "id": "A5",
+    "name": "יד מלאה",
+    "hook": "יד אחת. ארבעה תכשיטים.",
+    "idea": "צמידי טניס, תלתן ולב, וטבעת אחת בולטת: יד שלמה ב-199."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/billy/cur_01.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": false
+     },
+     {
+      "img": "/reports/billy/cur_02.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": false
+     },
+     {
+      "img": "/reports/billy/cur_03.webp",
+      "w": 1920,
+      "h": 1080,
+      "video": true
+     },
+     {
+      "img": "/reports/billy/cur_04.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     9,
+     17
+    ]
+   }
+  },
+  "strip": [
+   3,
+   6,
+   10,
+   14,
+   18,
+   20,
+   2,
+   12
+  ],
+  "split": {
+   "ad": 8,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "89",
+    "ש״ח.",
+    "עד מחר."
+   ],
+   "text": "יותר מ-1,280 תכשיטים בגוון זהב וכסף: מגן דוד, צמידי טניס ותלתן, טבעות ועגילים. כל תכשיט 89 ש״ח, 4 ב-199, 8 ב-349, ומזמינים היום מקבלים מחר.",
+   "price": "4 ב-199 · 8 ב-349"
+  },
+  "band": {
+   "ad": 15,
+   "theme": "light",
+   "quote": "ככה בונים שכבות.",
+   "by": "בילי · תכשיטי אופנה"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם החנות שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נחבר כל מודעה לעמוד הנכון, נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
+ },
+ "kalahari-7c3e91d5": {
+  "slug": "kalahari-7c3e91d5",
+  "ads": [
+   {
+    "no": 1,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_01.webp",
+    "headline": "קרמי פנים לפי סוג עור",
+    "primary": "עור שומני ומעורב, יבש ורגיש, או בוגר? לכל אחד יש קרם משלו.\n\nקרמי פנים עם 100% רכיבים טבעיים, 119 ש״ח לקרם.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      94,
+      1015,
+      472
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(237,217,199)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלושה סוגי עור.<br>שלושה קרמים.",
+     "sub": "קרמי פנים טבעיים · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 2,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_02.webp",
+    "headline": "קרם Hydrate",
+    "primary": "קרם עשיר ועוטף לעור יבש ורגיש, מרכיבים טבעיים בלבד.\n\nנספג בנעימות ומשאיר תחושה רכה. 119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,211,201)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "עור יבש ורגיש?<br>זה הקרם שלך.",
+     "sub": "הידרייט · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 3,
+    "angle": "A1",
+    "format": "1:1",
+    "img": "/reports/kalahari/raw_03.webp",
+    "headline": "קרם Revitalise",
+    "primary": "קרם קליל לעור שומני ומעורב, שנספג מהר.\n\n100% רכיבים טבעיים, 119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(231,203,186)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "קליל. טבעי.<br>לעור שומני.",
+     "sub": "ריווייטלייז · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 4,
+    "angle": "A1",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_04.webp",
+    "headline": "קרם Luxury",
+    "primary": "קרם עשיר במיוחד לעור בוגר, מרכיבים טבעיים שהעור מכיר.\n\nחלק מהשגרה של הבוקר והערב. 119 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(93,53,35)",
+     "scrim": "rgba(250,246,238,0.38)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "העור שלך השתנה.<br>גם הקרם צריך.",
+     "sub": "לאקשרי לעור בוגר · 119 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 5,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_05.webp",
+    "headline": "סרום Whisper",
+    "primary": "שלוש טיפות בבוקר, שלוש בערב. שמן טבעי קליל שנספג מהר.\n\nסרום Whisper, 127 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(228,206,187)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שלוש טיפות.<br>זה כל הטקס.",
+     "sub": "סרום ויספר · 127 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 6,
+    "angle": "A2",
+    "format": "1:1",
+    "img": "/reports/kalahari/raw_06.webp",
+    "headline": "סרום Royal",
+    "primary": "סרום Royal עשיר ומזין, לעור שצריך עוד קצת.\n\n127 ש״ח, 100% רכיבים טבעיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      291
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(246,235,224)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "זהב נוזלי.<br>לעור שלך.",
+     "sub": "סרום רויאל · 127 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 7,
+    "angle": "A2",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_07.webp",
+    "headline": "סרומים טבעיים",
+    "primary": "שמן טבעי, קליל ונספג, שהעור מרגיש מהרגע הראשון.\n\nסרום Whisper או Royal, 127 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(239,219,203)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טבעי שמרגישים<br>מהטיפה הראשונה.",
+     "sub": "סרומים · 127 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 8,
+    "angle": "A2",
+    "format": "9:16",
+    "img": "/reports/kalahari/raw_08.webp",
+    "headline": "סרומים טבעיים",
+    "primary": "Whisper הקליל ליום, Royal העשיר ללילה.\n\nכל סרום 127 ש״ח, משלוח חינם מעל 300.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(242,230,220)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "שני סרומים.<br>שני עולמות.",
+     "sub": "ויספר · רויאל",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 9,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_09.webp",
+    "headline": "קרם עיניים Renewal",
+    "primary": "העור סביב העיניים הוא הכי דק בפנים. מגיע לו קרם עדין וטבעי.\n\nקרם עיניים Renewal, 79 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(243,226,207)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "המקום הכי עדין.<br>מגיע לו הכי טבעי.",
+     "sub": "רניואל · 79 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 10,
+    "angle": "A3",
+    "format": "1:1",
+    "img": "/reports/kalahari/raw_10.webp",
+    "headline": "קרם עיניים",
+    "primary": "טופחים בעדינות באצבע הקמיצה, בבוקר ובערב.\n\nRenewal, קרם עיניים טבעי, 79 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(74,42,26)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טפיחה אחת<br>בבוקר.",
+     "sub": "קרם עיניים · 79 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 11,
+    "angle": "A3",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_11.webp",
+    "headline": "להתחיל מקרם העיניים",
+    "primary": "רוצה להכיר את המותג? קרם העיניים הוא ההתחלה הכי קלה.\n\n79 ש״ח, ומשלוח חינם בהזמנה מעל 300.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(237,209,185)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "הכרות עם<br>קלהרי רוז.",
+     "sub": "מתחילות מ-79 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 12,
+    "angle": "A3",
+    "format": "9:16",
+    "img": "/reports/kalahari/raw_12.webp",
+    "headline": "קרם עיניים",
+    "primary": "צנצנת קטנה של קרם עיניים טבעי, לבוקר ולערב.\n\n79 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "box": [
+      86,
+      288,
+      993,
+      614
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(61,33,19)",
+     "scrim": "rgba(250,246,238,0.6)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "קטן בגודל.<br>גדול בטיפוח.",
+     "sub": "רניואל · 79 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 13,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_13.webp",
+    "headline": "קרם גוף Luscious",
+    "primary": "קרם גוף עשיר לעור יבש מאוד, מרכיבים טבעיים בלבד.\n\nמורחים אחרי המקלחת, והעור מרגיש רך ועטוף. 280 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(220,193,181)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "העור שלך צמא?<br>הנה המים.",
+     "sub": "לושס · 280 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 14,
+    "angle": "A4",
+    "format": "1:1",
+    "img": "/reports/kalahari/raw_14.webp",
+    "headline": "קרם גוף",
+    "primary": "הגוף מגיע לאותו טיפוח כמו הפנים.\n\nLuscious, קרם גוף טיפולי טבעי, 280 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,217,199)",
+     "scrim": "rgba(250,246,238,0.3)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טיפוח פנים.<br>לכל הגוף.",
+     "sub": "קרם גוף · 280 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 15,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_15.webp",
+    "headline": "פנים וגוף",
+    "primary": "קרם פנים לעור יבש וקרם גוף עשיר. כל מה שעור יבש צריך.\n\nמשלוח חינם מעל 300 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(229,207,190)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מהפנים<br>ועד הרגליים.",
+     "sub": "הידרייט · לושס",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 16,
+    "angle": "A4",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_16.webp",
+    "headline": "קרם גוף Luscious",
+    "primary": "קרם גוף עשיר, לעור שצמא לחות.\n\n280 ש״ח, 100% רכיבים טבעיים.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(248,240,231)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "יובש של מדבר?<br>יש לזה תשובה.",
+     "sub": "לושס · 280 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 17,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_17.webp",
+    "headline": "קלהרי רוז",
+    "primary": "מותג טיפוח אמריקאי עם 100% רכיבים טבעיים, ברישיון משרד הבריאות, עכשיו גם בישראל.\n\nמשלוח חינם מעל 300 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(71,43,28)",
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "טבעי. אמיתי.<br>סוף סוף בישראל.",
+     "sub": "קלהרי רוז",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 18,
+    "angle": "A5",
+    "format": "1:1",
+    "img": "/reports/kalahari/raw_18.webp",
+    "headline": "קוסמטיקה טבעית",
+    "primary": "בלי רכיבים שאי אפשר לבטא. רק רכיבים מהטבע.\n\nקלהרי רוז, מ-79 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "contrast",
+     "box": [
+      64,
+      54,
+      496,
+      356
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,201,188)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "רק מה<br>שהטבע נותן.",
+     "sub": "100% רכיבים טבעיים",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 19,
+    "angle": "A5",
+    "format": "4:5",
+    "img": "/reports/kalahari/raw_19.webp",
+    "headline": "ערכות מתנה",
+    "primary": "ערכות טיפוח טבעיות באריזה שחור-זהב, מוכנות למתנה.\n\nמ-192 ש״ח, משלוח חינם מעל 300.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(234,210,190)",
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "מתנה שמרגישה<br>יוקרה.",
+     "sub": "ערכות מתנה · מ-192 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   },
+   {
+    "no": 20,
+    "angle": "A5",
+    "format": "9:16",
+    "img": "/reports/kalahari/raw_20.webp",
+    "headline": "קלהרי רוז",
+    "primary": "פנים, עיניים וגוף. שגרה שלמה מרכיבים טבעיים בלבד.\n\nמשלוח חינם מעל 300 ש״ח.",
+    "cta": "Shop Now",
+    "spec": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "stack",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(232,210,190)",
+     "scrim": "rgba(250,246,238,0.2)",
+     "plate": false,
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "headline": "השגרה שלך.<br>מהטבע.",
+     "sub": "משלוח חינם מעל 300 ש״ח",
+     "note": null,
+     "signature": null
+    }
+   }
+  ],
+  "hero_bg": "/reports/kalahari/hero.webp",
+  "business": {
+   "name": "קלהרי רוז",
+   "wordmark": "קלהרי רוז",
+   "site": "https://www.kalaharirose.co.il/"
+  },
+  "address": "pl",
+  "hero_bg_color": "#b98256",
+  "hero_eyebrow": "קוסמטיקה טבעית לפנים ולגוף · משלוח חינם מעל 300 ש״ח",
+  "hero_title": [
+   "טיפוח מהמדבר.",
+   "לסוג העור שלכן."
+  ],
+  "hero_cta": "מה היינו עושים בקמפיין שלכם",
+  "hero_bg_m": "/reports/kalahari/hero_m.webp",
+  "hero_pos_m": "center bottom",
+  "review": {
+   "eyebrow": "עברנו על הקמפיין שלכם",
+   "title": [
+    "הקמפיין שלכם רק התחיל.",
+    "זה בדיוק הזמן לבנות אותו נכון."
+   ],
+   "text": "מבצע הסוכות שלכם עלה לפני כמה ימים, עם שלוש מודעות. עברנו על המודעות, על האתר ועל המוצרים, ולחצנו על כל מודעה כדי לראות לאן היא מובילה. ככה זה נראה היום, וככה אנחנו היינו עושים את זה.",
+   "issues_eyebrow": "מה היינו עושים",
+   "issues": [
+    "ארבעה דברים",
+    "שהיינו עושים כבר מחר."
+   ],
+   "next": "לקמפיין שבנינו בשבילכם"
+  },
+  "insights": [
+   {
+    "t": "המותג עוד לא מוכר",
+    "d": "קלהרי רוז חדש בישראל, ומי שרואה 20% הנחה עוד לא יודעת על מה. קודם צריך להכיר את המותג, ורק אחר כך ההנחה עובדת."
+   },
+   {
+    "t": "סוג העור לא מופיע",
+    "d": "יש לכם קרם לעור שומני, קרם לעור יבש וקרם לעור בוגר. זה היתרון הכי ברור שלכם, ואף מודעה לא מדברת עליו."
+   },
+   {
+    "t": "האריזות שלכם יפות",
+    "d": "צנצנות שחורות עם אותיות זהב נראות יוקרה, והן כמעט לא מופיעות במודעות. תמונת מוצר אחת טובה עושה פה המון."
+   },
+   {
+    "t": "הסיפור לא מסופר",
+    "d": "מדבר קלהרי, רכיבים טבעיים ורישיון משרד הבריאות. זו הסיבה לבחור בכם ולא במותג מהסופר, והיא לא נמצאת במודעות."
+   }
+  ],
+  "landing": {
+   "eyebrow": "בדקנו לאן כל מודעה מובילה",
+   "title": [
+    "שלוש מודעות. מסר אחד.",
+    "דף הבית."
+   ],
+   "text": "לחצנו על שלוש המודעות הפעילות שלכם. כולן מדברות על 20% הנחה, וכולן מובילות לדף הבית. במבצע על כל האתר זה הגיוני. אבל ברגע שתעלו מודעות לפי סוג עור, כל אחת צריכה להוביל לקרם שלה.",
+   "flows": [
+    {
+     "count": 3,
+     "count_label": "מודעות, מסר אחד",
+     "to": "דף הבית",
+     "title": "קוסמטיקה טבעית לפנים ולגוף",
+     "url": "kalaharirose.co.il",
+     "note": "מי שרואה מודעה על עור יבש ומגיעה לדף הבית צריכה לחפש לבד איזה קרם מתאים לה. מי שמגיעה ישר לקרם לעור יבש כבר נמצאת צעד אחד מהקנייה.",
+     "items": [
+      {
+       "img": "/reports/kalahari/lp_00.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      },
+      {
+       "img": "/reports/kalahari/lp_01.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      },
+      {
+       "img": "/reports/kalahari/lp_02.webp",
+       "w": 1080,
+       "h": 1920,
+       "video": true
+      }
+     ]
+    }
+   ]
+  },
+  "angles": [
+   {
+    "id": "A1",
+    "name": "הקרם לסוג העור",
+    "hook": "שלושה סוגי עור. שלושה קרמים.",
+    "idea": "שומני ומעורב, יבש ורגיש, בוגר. כל אחת בוחרת את שלה."
+   },
+   {
+    "id": "A2",
+    "name": "טיפות של זהב",
+    "hook": "שלוש טיפות. זה כל הטקס.",
+    "idea": "הסרומים ויספר ורויאל: כמה טיפות בבוקר ובערב."
+   },
+   {
+    "id": "A3",
+    "name": "העיניים",
+    "hook": "המקום הכי עדין. מגיע לו הכי טבעי.",
+    "idea": "רניואל, קרם עיניים ב-79 ש״ח. הדרך הכי קלה להכיר את המותג."
+   },
+   {
+    "id": "A4",
+    "name": "הגוף",
+    "hook": "יובש של מדבר? יש לזה תשובה.",
+    "idea": "לושס, קרם גוף עשיר: טיפוח של פנים, לכל הגוף."
+   },
+   {
+    "id": "A5",
+    "name": "מהמדבר, בטבעיות",
+    "hook": "טבעי. אמיתי. סוף סוף בישראל.",
+    "idea": "100% רכיבים טבעיים, ברישיון משרד הבריאות. ערכות ומתנות."
+   }
+  ],
+  "compare": {
+   "before": {
+    "label": "ככה זה נראה היום",
+    "items": [
+     {
+      "img": "/reports/kalahari/cur_01.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/kalahari/cur_02.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     },
+     {
+      "img": "/reports/kalahari/cur_03.webp",
+      "w": 1080,
+      "h": 1920,
+      "video": true
+     }
+    ]
+   },
+   "after": {
+    "label": "וככה אנחנו היינו עושים את זה",
+    "ads": [
+     1,
+     5,
+     9,
+     17
+    ]
+   }
+  },
+  "strip": [
+   2,
+   6,
+   10,
+   13,
+   16,
+   19,
+   4,
+   14
+  ],
+  "split": {
+   "ad": 20,
+   "eyebrow": "מה שמבדל אתכם",
+   "title": [
+    "רק",
+    "מה שהטבע",
+    "נותן."
+   ],
+   "text": "קרמי פנים לפי סוג עור, סרומים, קרם עיניים וקרם גוף. 100% רכיבים טבעיים, ברישיון משרד הבריאות, ומשלוח חינם מעל 300 ש״ח.",
+   "price": "20% הנחה על כל האתר עד 4.10"
+  },
+  "band": {
+   "ad": 12,
+   "theme": "light",
+   "quote": "קטן בגודל. גדול בטיפוח.",
+   "by": "קלהרי רוז · קוסמטיקה טבעית"
+  },
+  "cta": {
+   "eyebrow": "מאיתנו, בשבילכם",
+   "title": [
+    "את כל זה הכנו בשבילכם.",
+    "בחינם, בלי התחייבות."
+   ],
+   "text": "רצינו להראות לכם מה אפשר לעשות עם המותג שלכם, לפני שמדברים על כסף. אם נעבוד יחד, זו רק נקודת ההתחלה: נחבר כל מודעה לעמוד הנכון, נעלה את המודעות, נבדוק מה מוכר הכי טוב, ונגדיל את מה שעובד.",
+   "button": "בואו נדבר בוואטסאפ"
+  },
+  "contact_url": "https://wa.me/972545471522"
  }
 };

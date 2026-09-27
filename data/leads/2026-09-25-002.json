@@ -1,13 +1,13 @@
 {
   "lead_id": "2026-09-25-002",
-  "status": "qualified",
+  "status": "published",
   "reject_reason": null,
   "business": {
-    "name_he": "",
-    "name_en": "",
+    "name_he": "קלהרי רוז",
+    "name_en": "Kalahari Rose Israel",
     "website": "https://kalaharirose.co.il/",
     "city": "",
-    "category": "",
+    "category": "קוסמטיקה טבעית",
     "owner_name": "",
     "email": ""
   },
@@ -222,7 +222,7 @@
     {
       "ad_id": "4718898048396528",
       "start_date": "2026-09-25",
-      "days_running": 0,
+      "days_running": 2,
       "platforms": [
         "FACEBOOK",
         "INSTAGRAM"
@@ -230,6 +230,7 @@
       "variations": 1,
       "primary_text": "20% הנחה על כל האתר לזמן מוגבל (בתוקף עד 4.10.26)\n\nזה הזמן להכיר את Kalahari Rose.\nקוסמטיקה טבעית המבוססת על רכיבים טבעיים ופעילים שנבחרו בקפידה, ובאישור משרד הבריאות הישראלי.\nטיפוח יומיומי שמחבר בין איכות, רכיבים שנבחרו בקפידה ותחושה נעימה על העור.\n\nהיכנסי לאתר, הכירי את המוצרים ותיהני מ-20% הנחה.",
       "headline": "20% הנחה על כל האתר",
+      "multiple_versions": false,
       "description": "",
       "cta": "לקנייה",
       "landing_url": "https://www.kalaharirose.co.il/",
@@ -246,7 +247,7 @@
     {
       "ad_id": "1118502324199985",
       "start_date": "2026-09-25",
-      "days_running": 0,
+      "days_running": 2,
       "platforms": [
         "FACEBOOK",
         "INSTAGRAM"
@@ -254,6 +255,7 @@
       "variations": 1,
       "primary_text": "20% הנחה על כל האתר לזמן מוגבל (בתוקף עד 4.10.26)\n\nזה הזמן להכיר את Kalahari Rose.\nקוסמטיקה טבעית המבוססת על רכיבים טבעיים ופעילים שנבחרו בקפידה, ובאישור משרד הבריאות הישראלי.\nטיפוח יומיומי שמחבר בין איכות, רכיבים שנבחרו בקפידה ותחושה נעימה על העור.\n\nהיכנסי לאתר, הכירי את המוצרים ותיהני מ-20% הנחה.",
       "headline": "20% הנחה על כל האתר",
+      "multiple_versions": false,
       "description": "",
       "cta": "לקנייה",
       "landing_url": "https://www.kalaharirose.co.il/",
@@ -270,7 +272,7 @@
     {
       "ad_id": "1578521020439802",
       "start_date": "2026-09-25",
-      "days_running": 0,
+      "days_running": 2,
       "platforms": [
         "FACEBOOK",
         "INSTAGRAM"
@@ -278,6 +280,7 @@
       "variations": 1,
       "primary_text": "20% הנחה על כל האתר לזמן מוגבל (בתוקף עד 4.10.26)\n\nזה הזמן להכיר את Kalahari Rose.\nקוסמטיקה טבעית המבוססת על רכיבים טבעיים ופעילים שנבחרו בקפידה, ובאישור משרד הבריאות הישראלי.\nטיפוח יומיומי שמחבר בין איכות, רכיבים שנבחרו בקפידה ותחושה נעימה על העור.\n\nהיכנסי לאתר, הכירי את המוצרים ותיהני מ-20% הנחה.",
       "headline": "20% הנחה על כל האתר",
+      "multiple_versions": false,
       "description": "",
       "cta": "לקנייה",
       "landing_url": "https://www.kalaharirose.co.il/",
@@ -381,8 +384,1349 @@
       "images": []
     }
   ],
-  "research": {},
-  "new_ads": [],
+  "research": {
+    "one_liner": "הזרוע הישראלית של מותג טיפוח טבעי אמריקאי: קרמי פנים לפי סוג עור, סרומים, קרם עיניים וקרם גוף, 100% רכיבים טבעיים וברישיון משרד הבריאות. ₪79–743, משלוח חינם מעל ₪300. מיצוב: טיפוח טבעי-יוקרתי שמותאם לסוג העור.",
+    "hero_products": [
+      "קרמי פנים Revitalise / Hydrate / Luxury — ₪119",
+      "סרומים Whisper ו-Royal — ₪127",
+      "קרם עיניים Renewal — ₪79",
+      "קרם גוף Luscious — ₪280",
+      "ערכות — ₪192–743"
+    ],
+    "audience": [
+      {
+        "persona": "הטבעית",
+        "who": "נשים 28–50",
+        "cares": "טיפוח בלי רכיבים שהיא לא מכירה"
+      },
+      {
+        "persona": "העור הבוגר",
+        "who": "נשים 40–60",
+        "cares": "עור רך ומלא, שגרה פשוטה שעובדת"
+      },
+      {
+        "persona": "מחפשת המתנה",
+        "who": "25–55",
+        "cares": "מתנת טיפוח יפה שנראית יוקרתית"
+      }
+    ],
+    "pains": [
+      "\"אני לא יודעת איזה קרם מתאים לעור שלי\"",
+      "\"הקרמים בפארם מלאים ברכיבים שאני לא מבינה\"",
+      "\"העור שלי יבש ורגיש\"",
+      "\"טבעי זה בדרך כלל לא מרגיש יוקרתי\""
+    ],
+    "desires": [
+      "עור רך וזוהר",
+      "שגרה פשוטה",
+      "טבעי שמרגיש יוקרתי",
+      "מתנה שעושה רושם"
+    ],
+    "objections": [
+      "\"לא מכירה את המותג\"",
+      "\"זה באמת טבעי?\"",
+      "מחיר",
+      "\"איזה מוצר לבחור\""
+    ],
+    "current_ads_audit": "שלוש מודעות, כולן גרסאות של קמפיין סוכות חדש (20% הנחה עד 4.10) שעלה לפני יומיים: שני סרטוני UGC של נשים שמדברות למצלמה ומודעת מוצר אחת. לפני זה לא רצו מודעות בכלל, אז אין עדיין נתונים על מה עובד. כל השלוש מובילות לדף הבית, והמבחן הכי חשוב של המותג, קרם לפי סוג עור, לא מופיע באף אחת.",
+    "gaps": [
+      "המותג לא מוכר, ואין מודעה שמציגה אותו",
+      "ההתאמה לסוג העור, היתרון הכי ברור, לא מופיעה",
+      "אין ויזואל פרימיום אחד, למרות אריזות שחור-זהב יפות",
+      "הסיפור של קלהרי, המדבר והרכיבים הטבעיים, לא מסופר",
+      "כל המודעות מובילות לדף הבית"
+    ],
+    "angles": [
+      {
+        "id": "A1",
+        "name": "הקרם של העור שלך",
+        "idea": "שלושה קרמים לשלושה סוגי עור: שומני ומעורב, יבש ורגיש, בוגר. בוחרים את שלך.",
+        "persona": "הטבעית",
+        "hook": "יש לך עור יבש? זה הקרם שלך.",
+        "why": "עונה ישירות על ההתלבטות הכי גדולה, ומוביל לעמוד מוצר."
+      },
+      {
+        "id": "A2",
+        "name": "טיפות של זהב",
+        "idea": "הסרומים Whisper ו-Royal: כמה טיפות בבוקר ובערב, שמן טבעי שנספג מהר.",
+        "persona": "העור הבוגר",
+        "hook": "שלוש טיפות. זה כל הטקס.",
+        "why": "מוצר ויזואלי מאוד וקל להבנה."
+      },
+      {
+        "id": "A3",
+        "name": "העיניים",
+        "idea": "Renewal, קרם עיניים טבעי ב-79 ש״ח: הכניסה הכי קלה למותג.",
+        "persona": "הטבעית",
+        "hook": "המקום הכי עדין בפנים. מגיע לו הכי טבעי.",
+        "why": "מחיר כניסה נמוך למותג לא מוכר."
+      },
+      {
+        "id": "A4",
+        "name": "הגוף",
+        "idea": "Luscious, קרם גוף עשיר ליובש חריף: טיפוח פנים, לכל הגוף.",
+        "persona": "העור הבוגר",
+        "hook": "העור שלך צמא? הנה המים.",
+        "why": "סל גבוה ומוצר עם כאב ברור."
+      },
+      {
+        "id": "A5",
+        "name": "מהמדבר, בטבעיות",
+        "idea": "המותג עצמו: מותג אמריקאי עם 100% רכיבים טבעיים, ברישיון משרד הבריאות, עכשיו בישראל. ערכות ומתנות.",
+        "persona": "מחפשת המתנה",
+        "hook": "טבעי. אמיתי. סוף סוף בישראל.",
+        "why": "בונה אמון במותג לא מוכר."
+      }
+    ]
+  },
+  "new_ads": [
+    {
+      "ad_no": 1,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "שלושה סוגי עור.<br>שלושה קרמים.",
+      "overlay_sub": "קרמי פנים טבעיים · 119 ש״ח",
+      "note": null,
+      "primary_text": "עור שומני ומעורב, יבש ורגיש, או בוגר? לכל אחד יש קרם משלו.\n\nקרמי פנים עם 100% רכיבים טבעיים, 119 ש״ח לקרם.",
+      "alt_texts": [
+        "שלושה סוגי עור. שלושה קרמים."
+      ],
+      "headline": "קרמי פנים לפי סוג עור",
+      "description": "119 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "שלושה סוגי עור.<br>שלושה קרמים.",
+          "sub": "קרמי פנים טבעיים · 119 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            583,
+            94,
+            1015,
+            472
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(237,217,199)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_01.png",
+      "image_raw": "ads_raw/ad_01.png",
+      "protect": [
+        [
+          0.0,
+          0.42,
+          1.0,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005425_d24114a9-f78a-461c-9f65-2cc12412fe8b.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The three black face-cream jars from the references (Revitalise, Hydrate, Luxury) standing in a row on a warm sandstone ledge at golden hour, soft sand around them, a few dried desert flowers, long warm shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 2,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "עור יבש ורגיש?<br>זה הקרם שלך.",
+      "overlay_sub": "הידרייט · 119 ש״ח",
+      "note": null,
+      "primary_text": "קרם עשיר ועוטף לעור יבש ורגיש, מרכיבים טבעיים בלבד.\n\nנספג בנעימות ומשאיר תחושה רכה. 119 ש״ח.",
+      "alt_texts": [
+        "עור יבש ורגיש? זה הקרם שלך."
+      ],
+      "headline": "קרם Hydrate",
+      "description": "119 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "עור יבש ורגיש?<br>זה הקרם שלך.",
+          "sub": "הידרייט · 119 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            364
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(231,211,201)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_02.png",
+      "image_raw": "ads_raw/ad_02.png",
+      "protect": [
+        [
+          0.1,
+          0.3,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_703221d5-6748-45e1-94e5-652286fee80d.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The black Hydrate face-cream jar from the reference, lid off, on soft pale sand at golden hour, a generous swirl of rich cream on a smooth stone beside it, pale rose petals, warm light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 3,
+      "angle_id": "A1",
+      "format": "1:1",
+      "overlay": "קליל. טבעי.<br>לעור שומני.",
+      "overlay_sub": "ריווייטלייז · 119 ש״ח",
+      "note": null,
+      "primary_text": "קרם קליל לעור שומני ומעורב, שנספג מהר.\n\n100% רכיבים טבעיים, 119 ש״ח.",
+      "alt_texts": [
+        "קליל וטבעי, לעור שומני."
+      ],
+      "headline": "קרם Revitalise",
+      "description": "119 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "stack",
+          "headline": "קליל. טבעי.<br>לעור שומני.",
+          "sub": "ריווייטלייז · 119 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            54,
+            993,
+            237
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(231,203,186)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.2)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_03.png",
+      "image_raw": "ads_raw/ad_03.png",
+      "protect": [
+        [
+          0.2,
+          0.25,
+          0.95,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_d15e40e5-f70b-47ab-b453-1abfe5bc8d94.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The black Revitalise face-cream jar from the reference on a pale sandstone slab in crisp golden light, a light whipped swirl of cream beside it, a sprig of dried desert grass. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 4,
+      "angle_id": "A1",
+      "format": "4:5",
+      "overlay": "העור שלך השתנה.<br>גם הקרם צריך.",
+      "overlay_sub": "לאקשרי לעור בוגר · 119 ש״ח",
+      "note": null,
+      "primary_text": "קרם עשיר במיוחד לעור בוגר, מרכיבים טבעיים שהעור מכיר.\n\nחלק מהשגרה של הבוקר והערב. 119 ש״ח.",
+      "alt_texts": [
+        "העור שלך השתנה. גם הקרם צריך."
+      ],
+      "headline": "קרם Luxury",
+      "description": "119 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "direction": "contrast",
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "העור שלך השתנה.<br>גם הקרם צריך.",
+          "sub": "לאקשרי לעור בוגר · 119 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(93,53,35)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.38)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_04.png",
+      "image_raw": "ads_raw/ad_04.png",
+      "protect": [
+        [
+          0.45,
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.2,
+          0.72,
+          0.55,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005425_58267691-bf1e-4f71-9096-037cbecb6eee.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman in her fifties with natural glowing skin and soft silver-streaked hair, seen in profile in warm golden light, gently touching her cheek; the black Luxury face-cream jar from the reference on a sandstone ledge in the foreground. She fills the right half; the left half is warm plain wall. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 5,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "שלוש טיפות.<br>זה כל הטקס.",
+      "overlay_sub": "סרום ויספר · 127 ש״ח",
+      "note": null,
+      "primary_text": "שלוש טיפות בבוקר, שלוש בערב. שמן טבעי קליל שנספג מהר.\n\nסרום Whisper, 127 ש״ח.",
+      "alt_texts": [
+        "שלוש טיפות. זה כל הטקס."
+      ],
+      "headline": "סרום Whisper",
+      "description": "127 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "direction": "contrast",
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "שלוש טיפות.<br>זה כל הטקס.",
+          "sub": "סרום ויספר · 127 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            64,
+            67,
+            496,
+            364
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(228,206,187)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_05.png",
+      "image_raw": "ads_raw/ad_05.png",
+      "protect": [
+        [
+          0.35,
+          0.28,
+          0.85,
+          0.85
+        ],
+        [
+          0.55,
+          0.0,
+          1.0,
+          0.3
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_dc2c2db3-57ab-4003-8d4d-d1d810f87217.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The black Whisper serum dropper bottle from the reference standing on warm sandstone at golden hour, a single golden drop falling from its glass dropper held just above, warm backlight glowing through the oil. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 6,
+      "angle_id": "A2",
+      "format": "1:1",
+      "overlay": "זהב נוזלי.<br>לעור שלך.",
+      "overlay_sub": "סרום רויאל · 127 ש״ח",
+      "note": null,
+      "primary_text": "סרום Royal עשיר ומזין, לעור שצריך עוד קצת.\n\n127 ש״ח, 100% רכיבים טבעיים.",
+      "alt_texts": [
+        "זהב נוזלי, לעור שלך."
+      ],
+      "headline": "סרום Royal",
+      "description": "127 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "זהב נוזלי.<br>לעור שלך.",
+          "sub": "סרום רויאל · 127 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            64,
+            54,
+            496,
+            291
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(246,235,224)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_06.png",
+      "image_raw": "ads_raw/ad_06.png",
+      "protect": [
+        [
+          0.0,
+          0.3,
+          1.0,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_45321837-2b2d-4eb5-9e90-283a1b8b8e59.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The black Royal serum dropper bottle from the reference lying on its side on pale sand, a small pool of golden serum glowing beside the dropper, dried rose petals, warm golden light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 7,
+      "angle_id": "A2",
+      "format": "4:5",
+      "overlay": "טבעי שמרגישים<br>מהטיפה הראשונה.",
+      "overlay_sub": "סרומים · 127 ש״ח",
+      "note": null,
+      "primary_text": "שמן טבעי, קליל ונספג, שהעור מרגיש מהרגע הראשון.\n\nסרום Whisper או Royal, 127 ש״ח.",
+      "alt_texts": [
+        "טבעי שמרגישים מהטיפה הראשונה."
+      ],
+      "headline": "סרומים טבעיים",
+      "description": "127 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "טבעי שמרגישים<br>מהטיפה הראשונה.",
+          "sub": "סרומים · 127 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(239,219,203)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_07.png",
+      "image_raw": "ads_raw/ad_07.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_90f52b3f-9a2f-40c7-a542-15fa7bd6c425.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Close-up of a woman's open palm with three golden serum drops on it, soft natural skin, golden-hour light; the black Whisper serum bottle from the reference stands on a sandstone ledge beside her hand. Only the hand visible. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 8,
+      "angle_id": "A2",
+      "format": "9:16",
+      "overlay": "שני סרומים.<br>שני עולמות.",
+      "overlay_sub": "ויספר · רויאל",
+      "note": null,
+      "primary_text": "Whisper הקליל ליום, Royal העשיר ללילה.\n\nכל סרום 127 ש״ח, משלוח חינם מעל 300.",
+      "alt_texts": [
+        "שני סרומים, שני עולמות."
+      ],
+      "headline": "סרומים טבעיים",
+      "description": "127 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "cover",
+          "headline": "שני סרומים.<br>שני עולמות.",
+          "sub": "ויספר · רויאל",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            250,
+            993,
+            576
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(242,230,220)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_08.png",
+      "image_raw": "ads_raw/ad_08.png",
+      "protect": [
+        [
+          0.25,
+          0.35,
+          0.85,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_ff009ef4-d0ff-4ea5-b761-1b3631dd23e3.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The two black serum dropper bottles from the references (Whisper and Royal) standing on a sculpted sand dune ridge at golden hour, long soft shadows, warm glowing sky behind, a few dried desert flowers. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 9,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "המקום הכי עדין.<br>מגיע לו הכי טבעי.",
+      "overlay_sub": "רניואל · 79 ש״ח",
+      "note": null,
+      "primary_text": "העור סביב העיניים הוא הכי דק בפנים. מגיע לו קרם עדין וטבעי.\n\nקרם עיניים Renewal, 79 ש״ח.",
+      "alt_texts": [
+        "המקום הכי עדין. מגיע לו הכי טבעי."
+      ],
+      "headline": "קרם עיניים Renewal",
+      "description": "79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "המקום הכי עדין.<br>מגיע לו הכי טבעי.",
+          "sub": "רניואל · 79 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(243,226,207)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_09.png",
+      "image_raw": "ads_raw/ad_09.png",
+      "protect": [
+        [
+          0.1,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_7139a6ad-4a8a-4ae4-a22a-380a5ff39fa2.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The small black Renewal eye-cream jar from the reference, lid off, on a smooth pale stone in soft golden light, a tiny dab of cream on the stone beside it, dried rose petals. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 10,
+      "angle_id": "A3",
+      "format": "1:1",
+      "overlay": "טפיחה אחת<br>בבוקר.",
+      "overlay_sub": "קרם עיניים · 79 ש״ח",
+      "note": null,
+      "primary_text": "טופחים בעדינות באצבע הקמיצה, בבוקר ובערב.\n\nRenewal, קרם עיניים טבעי, 79 ש״ח.",
+      "alt_texts": [
+        "טפיחה אחת בבוקר."
+      ],
+      "headline": "קרם עיניים",
+      "description": "79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "טפיחה אחת<br>בבוקר.",
+          "sub": "קרם עיניים · 79 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            64,
+            54,
+            496,
+            356
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(74,42,26)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_10.png",
+      "image_raw": "ads_raw/ad_10.png",
+      "protect": [
+        [
+          0.5,
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          0.55,
+          0.6,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005426_ad0859de-1804-44e1-a53b-77a40e40cb12.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman's ring finger gently dabbing a tiny amount of cream under her eye, soft natural skin with real texture, eyes closed, warm golden light; the small black Renewal jar from the reference in the lower foreground. Close crop of one eye and cheek. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 11,
+      "angle_id": "A3",
+      "format": "4:5",
+      "overlay": "הכרות עם<br>קלהרי רוז.",
+      "overlay_sub": "מתחילות מ-79 ש״ח",
+      "note": null,
+      "primary_text": "רוצה להכיר את המותג? קרם העיניים הוא ההתחלה הכי קלה.\n\n79 ש״ח, ומשלוח חינם בהזמנה מעל 300.",
+      "alt_texts": [
+        "הכרות עם קלהרי רוז."
+      ],
+      "headline": "להתחיל מקרם העיניים",
+      "description": "79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "הכרות עם<br>קלהרי רוז.",
+          "sub": "מתחילות מ-79 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(237,209,185)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_11.png",
+      "image_raw": "ads_raw/ad_11.png",
+      "protect": [
+        [
+          0.1,
+          0.35,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005425_941083f9-1799-4560-b13f-4e15bd0fafc9.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The small black Renewal eye-cream jar and the black Whisper serum bottle from the references side by side on a warm sandstone ledge at golden hour, soft sand, a dried desert flower. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 12,
+      "angle_id": "A3",
+      "format": "9:16",
+      "overlay": "קטן בגודל.<br>גדול בטיפוח.",
+      "overlay_sub": "רניואל · 79 ש״ח",
+      "note": null,
+      "primary_text": "צנצנת קטנה של קרם עיניים טבעי, לבוקר ולערב.\n\n79 ש״ח.",
+      "alt_texts": [
+        "קטן בגודל, גדול בטיפוח."
+      ],
+      "headline": "קרם עיניים",
+      "description": "79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "quiet",
+          "headline": "קטן בגודל.<br>גדול בטיפוח.",
+          "sub": "רניואל · 79 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            288,
+            993,
+            614
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(61,33,19)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.6)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_12.png",
+      "image_raw": "ads_raw/ad_12.png",
+      "protect": [
+        [
+          0.1,
+          0.35,
+          1.0,
+          0.8
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_09eb7ed4-04d7-4bb7-8adf-945b4df5a2e7.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The small black Renewal eye-cream jar from the reference resting on a sculpted sand ripple at golden hour, long shadow, warm glowing sky above, pale rose petals scattered on the sand. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 13,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "העור שלך צמא?<br>הנה המים.",
+      "overlay_sub": "לושס · 280 ש״ח",
+      "note": null,
+      "primary_text": "קרם גוף עשיר לעור יבש מאוד, מרכיבים טבעיים בלבד.\n\nמורחים אחרי המקלחת, והעור מרגיש רך ועטוף. 280 ש״ח.",
+      "alt_texts": [
+        "העור שלך צמא? הנה המים."
+      ],
+      "headline": "קרם גוף Luscious",
+      "description": "280 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "stack",
+          "headline": "העור שלך צמא?<br>הנה המים.",
+          "sub": "לושס · 280 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(220,193,181)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.2)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_13.png",
+      "image_raw": "ads_raw/ad_13.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_87530ca0-00a1-4e45-be84-cdb42c210a50.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The large black Luscious body-cream jar from the reference, lid off, on warm sandstone at golden hour, a thick luxurious swirl of body cream beside it, dried desert flowers, warm light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 14,
+      "angle_id": "A4",
+      "format": "1:1",
+      "overlay": "טיפוח פנים.<br>לכל הגוף.",
+      "overlay_sub": "קרם גוף · 280 ש״ח",
+      "note": null,
+      "primary_text": "הגוף מגיע לאותו טיפוח כמו הפנים.\n\nLuscious, קרם גוף טיפולי טבעי, 280 ש״ח.",
+      "alt_texts": [
+        "טיפוח פנים, לכל הגוף."
+      ],
+      "headline": "קרם גוף",
+      "description": "280 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "טיפוח פנים.<br>לכל הגוף.",
+          "sub": "קרם גוף · 280 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            64,
+            54,
+            496,
+            356
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(238,217,199)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.3)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_14.png",
+      "image_raw": "ads_raw/ad_14.png",
+      "protect": [
+        [
+          0.5,
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          0.35,
+          0.6,
+          0.9
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005514_dbbd16c9-759f-41cf-a2d1-0532fe61f029.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. A woman's sun-kissed shoulder and arm in soft golden light, a smooth sheen of body cream on her skin, wrapped in a blush linen towel; the large black Luscious jar from the reference on a stone ledge beside her. Face out of frame. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 15,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "מהפנים<br>ועד הרגליים.",
+      "overlay_sub": "הידרייט · לושס",
+      "note": null,
+      "primary_text": "קרם פנים לעור יבש וקרם גוף עשיר. כל מה שעור יבש צריך.\n\nמשלוח חינם מעל 300 ש״ח.",
+      "alt_texts": [
+        "מהפנים ועד הרגליים."
+      ],
+      "headline": "פנים וגוף",
+      "description": "משלוח חינם מעל 300",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "מהפנים<br>ועד הרגליים.",
+          "sub": "הידרייט · לושס",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(229,207,190)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_15.png",
+      "image_raw": "ads_raw/ad_15.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_6cbc820e-4a08-4400-80fc-48fb88d6d00a.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The large black Luscious body-cream jar and the black Hydrate face-cream jar from the references on a blush linen towel over warm sandstone, golden-hour light, dried rose petals. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 16,
+      "angle_id": "A4",
+      "format": "4:5",
+      "overlay": "יובש של מדבר?<br>יש לזה תשובה.",
+      "overlay_sub": "לושס · 280 ש״ח",
+      "note": null,
+      "primary_text": "קרם גוף עשיר, לעור שצמא לחות.\n\n280 ש״ח, 100% רכיבים טבעיים.",
+      "alt_texts": [
+        "יובש של מדבר? יש לזה תשובה."
+      ],
+      "headline": "קרם גוף Luscious",
+      "description": "280 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_right",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "contrast",
+          "headline": "יובש של מדבר?<br>יש לזה תשובה.",
+          "sub": "לושס · 280 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            583,
+            67,
+            1015,
+            445
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(248,240,231)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_16.png",
+      "image_raw": "ads_raw/ad_16.png",
+      "protect": [
+        [
+          0.1,
+          0.4,
+          0.95,
+          0.85
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_1403e903-de33-46c4-8591-09e4aee2fa66.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The large black Luscious body-cream jar from the reference standing on a sand dune crest at golden hour, soft wind ripples in the sand, warm glowing sky, the jar catching the last light. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 17,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "טבעי. אמיתי.<br>סוף סוף בישראל.",
+      "overlay_sub": "קלהרי רוז",
+      "note": null,
+      "primary_text": "מותג טיפוח אמריקאי עם 100% רכיבים טבעיים, ברישיון משרד הבריאות, עכשיו גם בישראל.\n\nמשלוח חינם מעל 300 ש״ח.",
+      "alt_texts": [
+        "טבעי. אמיתי. סוף סוף בישראל."
+      ],
+      "headline": "קלהרי רוז",
+      "description": "משלוח חינם מעל 300",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "cover",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "cover",
+          "headline": "טבעי. אמיתי.<br>סוף סוף בישראל.",
+          "sub": "קלהרי רוז",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#f4ecdf",
+          "paper": "rgb(71,43,28)",
+          "accent": "#f4ecdf",
+          "scrim_on": true,
+          "scrim": "rgba(0,0,0,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_17.png",
+      "image_raw": "ads_raw/ad_17.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_09e8e808-0a22-43eb-8b8d-79ca22df684d.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The Glow Essentials set from the reference (black face-cream jar and serum bottle) arranged on a warm sandstone plinth at golden hour, soft sand, dried desert flowers and pale rose petals, long warm shadows. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 18,
+      "angle_id": "A5",
+      "format": "1:1",
+      "overlay": "רק מה<br>שהטבע נותן.",
+      "overlay_sub": "100% רכיבים טבעיים",
+      "note": null,
+      "primary_text": "בלי רכיבים שאי אפשר לבטא. רק רכיבים מהטבע.\n\nקלהרי רוז, מ-79 ש״ח.",
+      "alt_texts": [
+        "רק מה שהטבע נותן."
+      ],
+      "headline": "קוסמטיקה טבעית",
+      "description": "מ-79 ש״ח",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "contrast",
+        "rendered_zone": "mid_left",
+        "render": {
+          "w": 1080,
+          "h": 1080,
+          "direction": "contrast",
+          "headline": "רק מה<br>שהטבע נותן.",
+          "sub": "100% רכיבים טבעיים",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            64,
+            54,
+            496,
+            356
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(219,201,188)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_18.png",
+      "image_raw": "ads_raw/ad_18.png",
+      "protect": [
+        [
+          0.0,
+          0.45,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_8c8157ee-7d8b-4fff-8f79-02ea6b94de9b.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Four black-and-gold products from the references (a face-cream jar, a serum dropper bottle, the small eye-cream jar and the large body-cream jar) arranged on a warm sandstone slab at golden hour, soft sand, dried flowers. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 19,
+      "angle_id": "A5",
+      "format": "4:5",
+      "overlay": "מתנה שמרגישה<br>יוקרה.",
+      "overlay_sub": "ערכות מתנה · מ-192 ש״ח",
+      "note": null,
+      "primary_text": "ערכות טיפוח טבעיות באריזה שחור-זהב, מוכנות למתנה.\n\nמ-192 ש״ח, משלוח חינם מעל 300.",
+      "alt_texts": [
+        "מתנה שמרגישה יוקרה."
+      ],
+      "headline": "ערכות מתנה",
+      "description": "מ-192 ש״ח",
+      "cta": "Shop Now",
+      "has_people": true,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "quiet",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1350,
+          "direction": "quiet",
+          "headline": "מתנה שמרגישה<br>יוקרה.",
+          "sub": "ערכות מתנה · מ-192 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            67,
+            993,
+            418
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(234,210,190)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.14)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_19.png",
+      "image_raw": "ads_raw/ad_19.png",
+      "protect": [
+        [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_a155315f-8b35-4fab-bb28-980611fc1038.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. Hands tying a blush silk ribbon around a sand-coloured gift box on a sunlit linen table, the black face-cream jar and serum bottle of the Glow Essentials set from the reference inside, dried rose petals. Only hands visible. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    },
+    {
+      "ad_no": 20,
+      "angle_id": "A5",
+      "format": "9:16",
+      "overlay": "השגרה שלך.<br>מהטבע.",
+      "overlay_sub": "משלוח חינם מעל 300 ש״ח",
+      "note": null,
+      "primary_text": "פנים, עיניים וגוף. שגרה שלמה מרכיבים טבעיים בלבד.\n\nמשלוח חינם מעל 300 ש״ח.",
+      "alt_texts": [
+        "השגרה שלך, מהטבע."
+      ],
+      "headline": "קלהרי רוז",
+      "description": "משלוח חינם מעל 300",
+      "cta": "Shop Now",
+      "has_people": false,
+      "to_verify": [],
+      "layout": {
+        "rendered_direction": "stack",
+        "rendered_zone": "top",
+        "render": {
+          "w": 1080,
+          "h": 1920,
+          "direction": "stack",
+          "headline": "השגרה שלך.<br>מהטבע.",
+          "sub": "משלוח חינם מעל 300 ש״ח",
+          "note": null,
+          "signature": "",
+          "brand": "קלהרי רוז",
+          "box": [
+            86,
+            250,
+            993,
+            749
+          ],
+          "top": true,
+          "ink": "#1f1812",
+          "paper": "rgb(232,210,190)",
+          "accent": "#1f1812",
+          "scrim_on": true,
+          "scrim": "rgba(250,246,238,0.2)",
+          "plate_bg": null,
+          "brand_color": null,
+          "obj_pos": "center",
+          "panel_side": "right",
+          "plate": false
+        }
+      },
+      "image": "ads/ad_20.png",
+      "image_raw": "ads_raw/ad_20.png",
+      "protect": [
+        [
+          0.0,
+          0.45,
+          1.0,
+          0.95
+        ]
+      ],
+      "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260927_005513_6146a3ec-9c43-4716-8bbb-14f99d24840e.png",
+      "model": "higgsfield/nano_banana_pro 2k",
+      "prompt": "Premium natural-skincare advertising photograph, warm desert botanical: golden-hour sunlight over soft sand and sandstone, dried desert flowers, pale rose petals, blush and terracotta tones, the black glass jars and bottles glowing against warm sand, creamy product textures, shallow depth of field, shot on medium format, photorealistic, magazine quality. The Glow Essentials set and the large Luscious body-cream jar from the references standing on sculpted sandstone in a warm desert canyon at golden hour, soft light glowing on the black-and-gold labels, dried desert flowers. COMPOSITION: the subject sits in the lower 60% of the frame; above it the same soft background simply continues, calm and empty — no objects, edges or lines. One continuous photograph — no borders, bands, panels or split frames. Products must be exact matches of the reference photos: black glass jars and dropper bottles with the same gold label layout and star mark — do not redesign them and do not add or change any text on them. No other text, signage, watermarks or logos anywhere. People look natural, real skin texture, anatomically correct hands. "
+    }
+  ],
   "outreach": {
     "suggested_whatsapp_message": ""
   },
@@ -394,7 +1738,9 @@
     "filtered": "2026-09-25T11:03:05",
     "unqualified": "2026-09-25T11:31:45",
     "qualified": "2026-09-27T00:43:53",
-    "collected": "2026-09-25T13:27:30"
+    "collected": "2026-09-27T00:45:43",
+    "researched": "2026-09-27T01:01:48",
+    "published": "2026-09-27T01:13:26"
   },
   "qualify": {
     "pages_checked": [
@@ -435,5 +1781,6 @@
     ],
     "findings": []
   },
-  "missing": []
+  "missing": [],
+  "client_page": "https://il-meta.base44.app/p/kalahari-7c3e91d5"
 }
