@@ -1,0 +1,93 @@
+{
+  "lead_id": "2026-09-27-264",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/haimfrank.adv/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "181364582423394",
+    "page_name": "חיים פרנק ושות' - משרד עורכי דין",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "1400648655360117",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/760898706_1952820362095442_1794740501793933620_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nCKi0calIkwQ7kNvwHO7Rkf&_nc_oc=AdqjzLrMgevX7trKyz2okW0BnCB_p6623uSscXih5ZX9bASU_1aZ_lq9pKhBUkyYAl0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQKrxjZlshxzO1PolItIaLZPPAAnY07Sy5ItWu_6KsujVw&oe=6ABF07C6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMWJ1P1pTG4PP2pDyn1cT1Y1MBp--vslLXK-GjY3zxnUIWBuCuwr2_M3T9FymmdN3yOFSoc4VDqsAoYGXVjls0dqG2v1zj2b3lkCDxnxpBP7w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=53y27vfmQo0Q7kNvwEkYQtf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwNTA3NzM1MTUxMjEwMjcsImFzc2V0X2FnZV9kYXlzIjoxNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ab7466e2ac30da4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTQwRDZFQzk3MjE0MjQyQjlEREU0ODg4QjQ5RjVBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNDNCN0VBMDNBNTZGMTRCQkQxQ0YzMzNEOEQ2OUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGxsX6sarrChUCKAJDMywXQEE4UeuFHrgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&_nc_zt=28&oh=00_AQIMkOpiyQ_OFoCxM1QPNJv7-HaDCjQFCzbo3LIlbIFKkA&oe=6ABF23DE"
+          }
+        ],
+        "collation_count": 3,
+        "start_time": 1788418800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1400648655360117"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1400648655360117"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 8499,
+    "page_categories": [
+      "Lawyer"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}

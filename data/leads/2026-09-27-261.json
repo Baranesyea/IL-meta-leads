@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-261",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61561907519867/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "393777957144289",
+    "page_name": "הילינג פוינט Healing point",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "969609822789932",
+        "link_title": "פריצת דיסק או כאבי גב? חלופה רפואית לפני שמחליטים על ניתוח",
+        "body": "\"שני מומחים פסקו שאני חייב ניתוח. לא הסכמתי שאף אחד ישים עליי סכין.\" 🛑\nכאבי גב ופריצות דיסק יכולים לעצור את החיים ולפגוע בדברים שהכי חשובים לנו. זה בדיוק מה שקרה לאהוד, שהגיע למצב שהוא בקושי מסוגל ללכת.\nעד שהוא גילה את טכנולוגיית MBST דור 4 של מרפאת Healing Point.\nמדובר בגישה חדשנית שפועלת כ\"אנטי-אייג'ינג\" לדיסק עצמו, מעודדת אותו להשתקם ולהוריד את הלחץ מהעצבים.\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא אשפוז\nרוצים לדעת אם הטיפול יכול לעזור גם לכם?\nאנו מזמינים אתכם לפגישת ייעוץ ואבחון ללא עלות וללא התחייבות עם ד\"ר שמוליק יצחק, מומחה בכירורגיה אורתופדית במרפאת Healing Point.\nבואו לבדוק את התאמתכם לטיפול ולשמוע איך אפשר לחזור לשגרה, בדיוק כמו אהוד.\nהשאירו פרטים עכשיו לתיאום פגישה ללא עלות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/743975657_2271815860308769_4265684059496575024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L0Jf37CNH7MQ7kNvwEtjmwM&_nc_oc=AdqEX-yJtHRJJihHaebOsCRk-GGv1upoZUcWjA5F9WVl9fxIIoL2psMHAszp4hOi54I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQJHCd_qyXS4BzvL2TlvL5SPw31uN5R3My5j50kdUa8gnw&oe=6ABF087F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNUWJENcuCkHoFSgyS-Ix_8l6sL7hrPap6I3njKt7--eLMFBQNGEb_lJksMNforZlhGAj0zOr9WMGH8lN2w1nafBY3rtFmF92zi7hgvNo9P7g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=j_iKOV3QaawQ7kNvwF01F3S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozOTEyNTA3MDQ1NzI0MDIyLCJhc3NldF9hZ2VfZGF5cyI6ODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=adcf7d66b9b84121&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNjQ2RDU1NjdEQTYyMjA5M0M2QjQ0ODY5ODUwQzM4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdGNDUyQkJDRUEyQUY1QjREQTQ3N0U2MjE5RUNCMDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs_aGK8ZnzDRUCKAJDMywXQGTAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&_nc_zt=28&oh=00_AQIvAxq7t3XFGA7Isql8F7731mu7S-ZdFRab2zgI1ZraNA&oe=6ABF0224"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1783580400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=969609822789932"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "969609822789932"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1204,
+    "page_categories": [
+      "Occupational Therapist"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}

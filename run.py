@@ -84,7 +84,7 @@ def cmd_find(args):
     from src.web import AdLibraryBrowser
 
     cfg = load_config()
-    target, max_kw = cfg["daily_target"], args.max_keywords
+    target, max_kw = args.target or cfg["daily_target"], args.max_keywords
 
     def owner(l):  # Eran works alone: only a WhatsApp that reaches the owner counts toward the target
         return (l["contact"].get("whatsapp") or {}).get("kind") == "owner"
@@ -152,8 +152,10 @@ def main():
     ip.set_defaults(func=cmd_internal)
     fd = sub.add_parser("find")
     fd.add_argument("--max-keywords", type=int, default=8)
-    fd.add_argument("--track", choices=["product", "wa"], default="product",
-                    help="wa = only advertisers whose ads open a WhatsApp chat (services allowed, urgent ones not)")
+    fd.add_argument("--target", type=int, default=0, help="override config daily_target for this run")
+    fd.add_argument("--track", choices=["product", "wa", "clinic"], default="product",
+                    help="wa = only advertisers whose ads open a WhatsApp chat (services allowed, urgent ones not); "
+                         "clinic = private pain clinics (back pain, physio, chiropractic), any ad button")
     fd.set_defaults(func=cmd_find)
     s = sub.add_parser("status")
     s.add_argument("date", nargs="?")

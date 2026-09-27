@@ -259,6 +259,17 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         q["phones_in_ads"] = [{"number_e164": n, "source": src, "labelled_whatsapp": w}
                               for n, src, w in x["phones"]] + \
                              [{"number_e164": n, "source": src, "labelled_whatsapp": True} for n, src in x["wa"]]
+        mobiles = [(n, src) for n, src in x["wa"]] + [(n, src) for n, src, _ in x["phones"]]
+        if lead["meta"].get("track") == "clinic" and mobiles:
+            # clinic track: lead-form ads often have no website; a mobile number printed in the ad is how
+            # the clinic wants to be reached. Medium confidence: nobody said it is on WhatsApp.
+            n, src = mobiles[0]
+            lead["contact"]["whatsapp"] = {"number_e164": n, "source": src, "confidence": "medium", "kind": "unclear",
+                                           "kind_signals": ["no website; mobile number printed in the ad"]}
+            q["missing"] = []
+            db.set_status(lead, "qualified")
+            log.info("QUALIFIED %s (mobile in ad text, no website) %s", lead["lead_id"], n)
+            return
         q["missing"] = ["website", "instagram_page", "owner_instagram", "whatsapp"]
         db.set_status(lead, "unqualified")
         log.info("UNQUAL %s — no landing URL found in ads", lead["lead_id"])
@@ -278,7 +289,7 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
 
     site_pages = [u for u, _ in pages if db.normalize_domain(u) == domain]
     q["site_blocked"] = not site_pages
-    if site_pages and not x["store_hits"] and lead["meta"].get("track") != "wa":
+    if site_pages and not x["store_hits"] and lead["meta"].get("track") not in ("wa", "clinic"):
         db.set_status(lead, "rejected", "website is not a store (no cart / store platform)")
         log.info("REJECT %s %s — not a store", lead["lead_id"], domain)
         return

@@ -1,0 +1,97 @@
+{
+  "lead_id": "2026-09-27-258",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61565449058003/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "439308742593359",
+    "page_name": "עדי טאצ - מעסה בכירה רפואית מומחית בעיסוי טיפולי משולב.",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "2415626885541803",
+        "link_title": "עיסוי רפואי לגוף ולנפש",
+        "body": "עיסוי רפואי שיקומי מקצועי בגבעתיים בהובלת עדי טאצ' 🌿 עדי בסן, מעסה רפואית שיקומית בכירה, מומחית בטיפול מגע רפואי ממוקד לשחרור עומסים, הפחתת כאב ושיפור תפקוד.\nמוכרת כמטפלת במשרד הביטחון (נכי צה״ל).\n\nהטיפול מתבצע תוך התאמה מדויקת למצב הרקמות, סף הכאב וצרכי הגוף שלך.\nהעיסוי עוצמתי, יעיל ומבוסס על ניסיון קליני - לא עיסוי “ספא” כללי.\n\nמתאים במיוחד ל:\n👈 כאבי גב עליון/תחתון\n👈 הקרנות מפריצות דיסק ובלטים\n👈 מיגרנות, סטרס, בעיות שינה\n👈 עומסים מישיבה ממושכת או עבודה פיזית\n\nהכרה מקצועית והחזרים:  \nמשרד הביטחון - מוכרת כמטפלת נכי צה״ל.\nביטוח בריאות פרטי הכולל עיסוי רפואי/רפלקסולוגיה - ייתכן שתוכלו לקבל החזר.\n\nהקליניקה בגבעתיים, רחוב ההגנה - עם חניה זמינה.  \nלקביעת תור - לחצו על כפתור הוואטסאפ.\n\n🛑 הטיפול רפואי בלבד - ללא הרפיות וללא מין.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/614049535_1562697501541851_9113811427385603701_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GpVpXnn0CQ4Q7kNvwG2NXNX&_nc_oc=Adrw8qM6MEb8DQBBMnJV5_w9J4-x1HpLLUKx9jc7YI5_zNq5wL2glY_tPSeUCzOdmNE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQLWHZ5uxuZXWx1oSHgo8iuqnB2VOzwttyVfCekMlrp1VA&oe=6ABF16E2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjkI45LTda3opSoojLrVNpuqxVrLGmyi7NaPObiu0Qhdh1KBkUyvBMgpjYeFBwbqG53ALKTP0NDU8hbsev2-KbF4riZvoMbIRNeYSz6HyrWw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TzTCRHX8F4MQ7kNvwE4tolq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MDk5NzY1ODU2MzYzMDMxLCJhc3NldF9hZ2VfZGF5cyI6MzQzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6ODgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2a4d19ee8f8262c0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTQ2NUVDOTQxM0FDQzY5QzE3NzA4RUNFNzUyNUVCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA2NEIwMzU4RkIyQUQ5ODIzQTBENUVFQkI0QzM0RDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauiM_w_6bPVRUCKAJDMywXQFYzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&_nc_zt=28&oh=00_AQJAE_4TupZ9aCbJRgv3tKjXG4nRAiHokrzjI_li9ZgWXg&oe=6ABF06DC"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1769414400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2415626885541803"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2415626885541803"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 331,
+    "page_categories": [
+      "Spa",
+      "Massage",
+      "Spa"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}

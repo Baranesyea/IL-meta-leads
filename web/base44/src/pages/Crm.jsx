@@ -21,6 +21,8 @@ const STATUSES = [
   { id: 'not_relevant', label: 'לא רלוונטי', color: '#5d5750' },
 ];
 const ST = Object.fromEntries(STATUSES.map((s) => [s.id, s]));
+// the clinic track works like "WhatsApp first" (research, message, page only after a yes)
+const flowOf = (t) => ((t || 'page') === 'page' ? 'page' : 'wa');
 const today = () => new Date().toISOString().slice(0, 10);
 const waLink = (num, text) => `https://wa.me/${(num || '').replace(/\D/g, '')}${text ? `?text=${encodeURIComponent(text)}` : ''}`;
 const fmtDate = (d) => (d ? d.split('-').reverse().join('.') : '');
@@ -46,7 +48,7 @@ const CSS = `
 .crm .tab{padding:9px 16px;border:1px solid #cdbfa9;background:transparent;font:inherit;font-size:15px;cursor:pointer;color:#17120d}
 .crm .tab.on{background:#17120d;color:#f4eee4;border-color:#17120d}
 .crm .tab b{font-weight:700;margin-inline-start:6px}
-.crm .tracks{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:22px}
+.crm .tracks{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-bottom:22px}
 .crm .track{text-align:right;padding:16px 18px;border:1px solid #cdbfa9;background:transparent;font:inherit;cursor:pointer;color:#17120d}
 .crm .track{font-size:21px;font-weight:900}.crm .track b{font-weight:700;font-size:17px;margin-inline-start:8px;color:#b08a4a}
 .crm .track i{font-style:normal;font-size:13px;background:#3f6fb0;color:#fff;padding:2px 8px;margin-inline-start:8px;vertical-align:middle}
@@ -268,7 +270,7 @@ function LeadCard({ lead, onSave }) {
           <button className={`mtab ${tab === 1 ? 'on' : ''}`} onClick={() => setTab(1)}>הודעה 1 {lead.msg1_sent_at ? '✓' : ''}</button>
           <button className={`mtab ${tab === 2 ? 'on' : ''}`} onClick={() => setTab(2)}>הודעה 2 עם הקישור {lead.msg2_sent_at ? '✓' : ''}</button>
         </div>
-        {tab === 2 && lead.track === 'wa' && !lead.message2
+        {tab === 2 && flowOf(lead.track) === 'wa' && !lead.message2
           ? <div className="empty" style={{ border: '1px solid #cdbfa9', background: '#fff' }}>ההודעה עם הקישור תופיע כאן כשהעמוד יהיה מוכן. כשהם עונים "כן", העבירו את הסטטוס ל"להכין עמוד".</div>
           : <MessageBox key={tab} lead={lead} which={tab} onSave={onSave} flash={flash} />}
         <div className="row">
@@ -334,7 +336,7 @@ function Scheduler({ leads, onSave, track }) {
         </select>
         <button className="btn wa" disabled={busy || !todo.length} onClick={run}>תזמון {todo.length} לידים</button>
         {queue.length > 0 && <button className="btn small" disabled={busy} onClick={clear}>ביטול כל התזמונים</button>}
-        {track === 'wa' && research.length > 0 && <button className="btn small" disabled={busy} onClick={approveAll}>אישור כל {research.length} המחקרים לשליחה</button>}
+        {flowOf(track) === 'wa' && research.length > 0 && <button className="btn small" disabled={busy} onClick={approveAll}>אישור כל {research.length} המחקרים לשליחה</button>}
         {msg && <span className="saved">{msg}</span>}
       </div>
       {queue.length > 0 && (
@@ -379,7 +381,7 @@ export default function Crm() {
 
   const inTrack = useMemo(() => (leads || []).filter((l) => (l.track || 'page') === track), [leads, track]);
   const trackCounts = useMemo(() => {
-    const c = { page: 0, wa: 0, page_unread: 0, wa_unread: 0 };
+    const c = { page: 0, wa: 0, clinic: 0, page_unread: 0, wa_unread: 0, clinic_unread: 0 };
     (leads || []).forEach((l) => { const t = l.track || 'page'; c[t] += 1; if (l.unread) c[`${t}_unread`] += 1; });
     return c;
   }, [leads]);
@@ -402,12 +404,16 @@ export default function Crm() {
       <div className="wrap">
         <div className="eyebrow">IL META · CRM</div>
         <h1>לידים</h1>
-        <p className="sub">שני מסלולים: וואטסאפ קודם (מחקר והודעה אישית, עמוד רק אחרי "כן") ועמודים מוכנים. שליחה, תזמון והשיחה עצמה. העמוד הזה גלוי רק לך.</p>
+        <p className="sub">שלושה מסלולים: וואטסאפ קודם (מחקר והודעה אישית, עמוד רק אחרי "כן"), מרפאות (אותו תהליך, מרפאות כאב פרטיות) ועמודים מוכנים. שליחה, תזמון והשיחה עצמה. העמוד הזה גלוי רק לך.</p>
         <div className="conn">וואטסאפ: {conn === null ? 'בודק...' : conn === 'authorized' ? <b style={{ color: '#1f7a4a' }}>מחובר</b> : <b style={{ color: '#b04a3f' }}>לא מחובר ({conn})</b>}</div>
         <div className="tracks">
           <button className={`track ${track === 'wa' ? 'on' : ''}`} onClick={() => pickTrack('wa')}>
             וואטסאפ קודם<b>{trackCounts.wa}</b>{trackCounts.wa_unread > 0 && <i>{trackCounts.wa_unread} תשובות</i>}
             <small>מחקר והודעה אישית. העמוד נבנה רק אחרי "כן".</small>
+          </button>
+          <button className={`track ${track === 'clinic' ? 'on' : ''}`} onClick={() => pickTrack('clinic')}>
+            מרפאות<b>{trackCounts.clinic}</b>{trackCounts.clinic_unread > 0 && <i>{trackCounts.clinic_unread} תשובות</i>}
+            <small>מרפאות כאב פרטיות: גב, פיזיותרפיה, כירופרקטיקה. אותו תהליך כמו וואטסאפ קודם.</small>
           </button>
           <button className={`track ${track === 'page' ? 'on' : ''}`} onClick={() => pickTrack('page')}>
             עמודים מוכנים<b>{trackCounts.page}</b>{trackCounts.page_unread > 0 && <i>{trackCounts.page_unread} תשובות</i>}
@@ -418,7 +424,7 @@ export default function Crm() {
         <div className="tabs">
           <button className={`tab ${filter === 'all' ? 'on' : ''}`} onClick={() => setFilter('all')}>הכול<b>{counts.all}</b></button>
           {counts.unread > 0 && <button className={`tab ${filter === 'unread' ? 'on' : ''}`} onClick={() => setFilter('unread')}>תשובות חדשות<b>{counts.unread}</b></button>}
-          {STATUSES.filter((s) => !s.track || s.track === track).map((s) => (
+          {STATUSES.filter((s) => !s.track || s.track === flowOf(track)).map((s) => (
             <button key={s.id} className={`tab ${filter === s.id ? 'on' : ''}`} onClick={() => setFilter(s.id)}>
               {s.label}<b>{counts[s.id] || 0}</b>
             </button>

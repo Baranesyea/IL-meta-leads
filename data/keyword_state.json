@@ -240,10 +240,19 @@
       "track": "wa",
       "advertisers": 6,
       "at": "2026-09-27T09:54:05"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "כאבי גב",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 27,
+      "at": "2026-09-27T15:27:45"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
-  "wa_next_index": 16
+  "wa_next_index": 16,
+  "clinic_next_index": 1
 }

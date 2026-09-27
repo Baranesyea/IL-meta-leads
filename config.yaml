@@ -100,6 +100,39 @@ discovery:
     - דבש
     - טחינה
     - יין
+  # Clinic track (Eran, 2026-09-27): private clinics for pain people have right now and want solved
+  # (back pain, physio, chiropractic). Not dental, not cosmetic/injections, not HMOs or hospitals.
+  clinic_keywords:
+    - כאבי גב
+    - פיזיותרפיה
+    - כירופרקט
+    - כירופרקטיקה
+    - פריצת דיסק
+    - כאבי צוואר
+    - סיאטיקה
+    - כאבי ברכיים
+    - דורבן
+    - כאבי כתף
+    - טיפול בכאב
+    - גלי הלם
+    - אוסטאופתיה
+    - שיקום אורתופדי
+    - כאבי מפרקים
+    - פיזיותרפיה פרטית
+    - טיפול בכאבי גב
+    - בלט דיסק
+    - כאבי גב תחתון
+    - רצפת אגן
+    - עיסוי רפואי
+    - דיקור סיני
+    - כאבי ראש
+    - מיגרנה
+    - טנטון
+    - כאב כרוני
+    - פסיכוסומטי
+    - מדרסים
+    - יציבה
+    - פריצת דיסק בלי ניתוח
 
 filter:
   min_active_ads: 2
@@ -184,6 +217,32 @@ filter:
     - טלאביב
     - cellcom
     - סלקום
+  clinic_exclude_keywords:
+    - שיניים
+    - שתלים
+    - אורתודנט
+    - יישור שיניים
+    - הזרקות
+    - בוטוקס
+    - חומצה היאלורונית
+    - פילינג
+    - הסרת שיער
+    - אסתטי
+    - אסתטיקה
+    - קוסמטיקה
+    - מכבי
+    - כללית
+    - מאוחדת
+    - לאומית
+    - אסותא
+    - הדסה
+    - שיבא
+    - איכילוב
+    - בית חולים
+    - קורס
+    - הכשרה
+    - לימודי
+    - השתלמות
   # WhatsApp track (Eran, 2026-09-27): services are welcome, except urgent ones people google when they need them now
   urgent_service_keywords:
     - אינסטלטור

@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-267",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/SHEBA.MEDICAL/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "167772133235769",
+    "page_name": "המרכז הרפואי שיבא תל השומר",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "1096994432888311",
+        "link_title": "לפרטים נוספים>>",
+        "body": "סובלים מכאב ומנסים להתמודד איתו לבד או להתרגל אליו?\nאתם לא צריכים להמשיך לסבול.\n\nהמכון הגדול והמתקדם בישראל לכאב בשיבא פה בשבילכם עם זמינות תורים גבוהה (תוך שבוע למקרים דחופים) ונבחרת של 30 רופאים עם התמחות על בכאב.\n\nיעוץ וטיפול תחת קורת גג אחת, בלי להתרוצץ בין מרפאות ורופאים שונים ואפשרות לטשטוש לפני פעולה רפואית.\n\nאז כשזה מגיע לטיפול בכאבים – אל תחכו\n\nצרו קשר לתיאום תור>>",
+        "landing_url": "https://www.sheba.co.il/internal-medicine/clinics/pain-management-institute?utm_source=facebook&utm_medium=cpc&utm_campaign=pain-treatment",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795623372_3479539142205612_2612412388342263007_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2ji8r-AqdT4Q7kNvwHgejDZ&_nc_oc=Ado76f__XTzLXI130vHEouWMekpCK0hSNsyLDDQkZWnQ7AJJUX8P3BiLI8slALqlTbg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQKhdgq74a3z1lr0GaulSkk3J_R4fIhjk0nL-meGFiGjEw&oe=6ABF0312",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/795395784_892729043771243_141649807882034120_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vdypa5aPunQQ7kNvwFj2fE9&_nc_oc=Adq-W3O6dNM45lkbOQANza3KhGGgdiaMGnsMEtpnfraCzO_OYSpmML0Ta1vh85gvUAY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQI_irFGvECyfzCh-cyNyHjDgy_TzS39xzsfrSRU4GOQDw&oe=6ABEFB36",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795395775_1600099564893445_1467751188586251971_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mvszy6mLpZYQ7kNvwGS_8a2&_nc_oc=AdqL0xS9GOau5uBT5yKxJGzAFQEiRNCHS_K7nIbhcjOABSQAm_5uv88NuLQIhbSOQJY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQKuz64XbwOj7UiTnk-28_u4Tk28_sD0-XNXM_otCtittw&oe=6ABF18F4"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1790060400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1096994432888311"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1096994432888311"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 65591,
+    "page_categories": [
+      "Hospital"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}

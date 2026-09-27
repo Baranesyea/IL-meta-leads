@@ -3,7 +3,8 @@
 Hard rejects (logged with reject_reason, never re-checked):
   - big chain / known brand (config.filter.brand_blocklist)
   - service / course / clinic / lead-gen signals (config.filter.service_keywords)
-    WhatsApp track (meta.track == "wa"): services are allowed; only urgent ones are rejected
+    WhatsApp / clinic tracks (meta.track "wa" / "clinic"): services are allowed; only urgent ones are rejected;
+    the clinic track also rejects dental, cosmetic, HMOs/hospitals and courses (config.filter.clinic_exclude_keywords)
     (config.filter.urgent_service_keywords)
   - not Israeli (no ILS currency and no Hebrew anywhere)
   - fewer than min_active_ads active ads, or more than max_active_ads (big advertiser)
@@ -66,9 +67,14 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
     signals["product_score"] = (len(signals["product_hits"]) - 2 * len(signals["service_hits"])
                                 + 2 * len(ctas & set(f.get("shop_ctas", []))))
 
-    wa_track = meta.get("track") == "wa"
+    wa_track = meta.get("track") in ("wa", "clinic")   # service tracks: no store required
     if signals["brand_hits"]:
         return False, f"big brand/chain: {', '.join(signals['brand_hits'])}", signals
+    if meta.get("track") == "clinic":
+        # clinic track: pain clinics only; no dental, no cosmetic, no HMOs/hospitals, no courses
+        signals["clinic_excluded"] = _hits(text, f.get("clinic_exclude_keywords", []))
+        if signals["clinic_excluded"]:
+            return False, f"not a pain clinic: {', '.join(signals['clinic_excluded'])}", signals
     if wa_track:
         # WhatsApp track: services are fine, except urgent ones (people google a plumber, they don't scroll to one)
         signals["urgent_hits"] = _hits(text, f.get("urgent_service_keywords", []))

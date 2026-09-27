@@ -1,0 +1,95 @@
+{
+  "lead_id": "2026-09-27-269",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61571270394331/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "537025162822950",
+    "page_name": "עו\"ד אמיר שושני",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "1650160719434980",
+        "link_title": "הכסף הזה מגיע לכם",
+        "body": "רוב האנשים בטוחים שביטוח לאומי רלוונטי רק במקרים של פציעות פיזיות קשות באתר בנייה. אבל האמת היא שתאונת עבודה יכולה לקרות לכל אחד מאיתנו, גם במקומות הכי פחות צפויים.\n\nבסרטון החדש אני חושף מקרה שמוכיח שלא חייבים \"דם ודמעות\" כדי לקבל הכרה: לקוחה שלי שעברה אירוע נפשי ופיזי קשה בעקבות פיטורין מפתיעים, הצליחה לקבל הכרה מלאה כתאונת עבודה - למרות שהבדיקות הרפואיות בבית החולים היו תקינות!\n\nזה לא רק סיפור על פיצוי, זה סיפור על צדק. בין אם זו החלקה במשרד, כאבי גב מהרמת קרטון או אפילו תאונה בדרך לעבודה - הכסף הזה מגיע לכם.\n\nנפגעתם? אל תגידו \"זה יעבור\". אל תשאירו את הכסף שלכם בקופת המדינה. תתעדו, תבדקו ותדרשו את מה שמגיע לכם.\n\nלייעוץ ראשוני שלחו לי הודעה בוואטסאפ>>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/694662850_2213517686076982_3905460641069920848_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bniZdXYEYl4Q7kNvwEosXTC&_nc_oc=AdqkmaRGi2b401_VWkW1kJQvXvNrwlngHqif3VYUZUTVskYxB_B_ww9K2oWgq7URXHQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQIaF9pkt0dT9dyLmK9Zrw2nMHdLzJIhzRKpmbpUAMl7HA&oe=6ABF1222",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMKyB1Aml9sKDQDeXpNEddel57qfeWWJiKFC9l1WYRqeFowYopyph59lAQIfp_76uxVQP6b6KyAaDU5YIEIZF9cAvf6eU7SjyWOx8y78sOwjA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=XS5TDsOfBKwQ7kNvwGZ-AYQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5ODkxOTg1MzIzNjg0MywiYXNzZXRfYWdlX2RheXMiOjIyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjk1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dd7d06bb814b5e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNzQ0QjI1MjREQjVBRUQwQkZENUI3NjdBRjgxODE4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYwNDI3NjUyODZCNzBGNDY5OEMzMzYyNjEyQzMyMUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWifPgoKfrAhUCKAJDMywXQFfZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&_nc_zt=28&_nc_enc=QduMlEcgp1_NZG4sGCu2CgvhAE9KpaBGrAlrw3cpUrajhD1EDrSB0lTXLkA8yWoDNlWw0NOGAh-6hP2rK6t5xBVGhhNlLVPpqDwKSL2hL2dw0vCUJJWI_flcqGc&oh=00_AQJ1OANAmLl080eIqwHm5NVxxdjCqNE1z1dzbD5m9gXX1g&oe=6ABEF751"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1778569200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1650160719434980"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1650160719434980"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 146,
+    "page_categories": [
+      "עורך דין"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}

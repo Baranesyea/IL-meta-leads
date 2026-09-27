@@ -43,15 +43,19 @@ def save_state(state: dict) -> None:
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+KW_LIST = {"product": "keywords", "wa": "wa_keywords", "clinic": "clinic_keywords"}
+KW_STATE = {"product": "next_index", "wa": "wa_next_index", "clinic": "clinic_next_index"}
+
+
 def next_keyword(cfg: dict, state: dict, track: str = "product") -> str:
-    kws = cfg["discovery"]["wa_keywords" if track == "wa" else "keywords"]
-    return kws[state.get("wa_next_index" if track == "wa" else "next_index", 0) % len(kws)]
+    kws = cfg["discovery"][KW_LIST[track]]
+    return kws[state.get(KW_STATE[track], 0) % len(kws)]
 
 
 def advance_keyword(state: dict, keyword: str, source: str, advertisers: int,
                     keywords: list[str], track: str = "product") -> None:
     # Continue from the keyword after the one just used.
-    key = "wa_next_index" if track == "wa" else "next_index"
+    key = KW_STATE[track]
     if keyword in keywords:
         state[key] = (keywords.index(keyword) + 1) % len(keywords)
     else:
@@ -181,7 +185,7 @@ def from_playwright(keyword: str, cfg: dict, browser, track: str = "product") ->
     if track == "wa":
         ads = [a for a in ads if is_wa_ad(a)]
     RAW_DISCOVER.mkdir(parents=True, exist_ok=True)
-    (RAW_DISCOVER / f"{today()}_{'wa_' if track == 'wa' else ''}{keyword.replace(' ', '_')}.pw.json").write_text(
+    (RAW_DISCOVER / f"{today()}_{'' if track == 'product' else track + '_'}{keyword.replace(' ', '_')}.pw.json").write_text(
         json.dumps({"source": "ad_library_playwright", "track": track, "keyword": keyword, "fetched_at": now_iso(),
                     "estimated_total_count": total, "ads": ads}, ensure_ascii=False, indent=1),
         encoding="utf-8")
@@ -247,6 +251,6 @@ def run(browser=None, keyword: str | None = None, track: str = "product") -> lis
         if fname:
             state["ingested_files"].append(fname)
         advance_keyword(state, kw, backend, added,
-                        cfg["discovery"]["wa_keywords" if track == "wa" else "keywords"], track)
+                        cfg["discovery"][KW_LIST[track]], track)
     save_state(state)
     return new

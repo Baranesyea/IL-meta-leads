@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-255",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100071237886882/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "103233748692584",
+    "page_name": "Advil Israel - אדויל ישראל",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי גב",
+    "sample_ads": [
+      {
+        "ad_id": "1704854597453861",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://ad.doubleclick.net/ddm/trackclk/N1037212.3328280FACEBOOK.COMINST/B36159751.451487845;dc_trk_aid=645649222;dc_trk_cid=259590758;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752325891_1757792805675719_1115735545450901531_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m8Eb__gngYcQ7kNvwEnQprw&_nc_oc=AdpUfQUOczavHQ3cxhpwmtMqUzIYDS3G71DmxJ0NEDSTABoV1iYIQQGa402CTWRqNs4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQLx-r5lWlT6Fs7tPiKwM5IWXUeEtozl7M54wPgiGl4v3A&oe=6ABF1F79",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752325891_1757792805675719_1115735545450901531_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m8Eb__gngYcQ7kNvwEnQprw&_nc_oc=AdpUfQUOczavHQ3cxhpwmtMqUzIYDS3G71DmxJ0NEDSTABoV1iYIQQGa402CTWRqNs4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQLx-r5lWlT6Fs7tPiKwM5IWXUeEtozl7M54wPgiGl4v3A&oe=6ABF1F79",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752325891_1757792805675719_1115735545450901531_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m8Eb__gngYcQ7kNvwEnQprw&_nc_oc=AdpUfQUOczavHQ3cxhpwmtMqUzIYDS3G71DmxJ0NEDSTABoV1iYIQQGa402CTWRqNs4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QVV4n2Ubqkhh_VPXJIdnbA&_nc_ss=70289&oh=00_AQLx-r5lWlT6Fs7tPiKwM5IWXUeEtozl7M54wPgiGl4v3A&oe=6ABF1F79"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788246000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1704854597453861"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1704854597453861"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 189,
+    "page_categories": [
+      "Organization"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:27:45"
+  }
+}
