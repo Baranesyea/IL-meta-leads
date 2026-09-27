@@ -759,7 +759,101 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 16,
+      "seen": 16,
+      "newest_start": "2026-09-18",
+      "oldest_start": "2026-09-10",
+      "days_since_newest": 9,
+      "longest_running_days": 17,
+      "distinct_texts": 11,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          11
+        ],
+        [
+          "GET_OFFER",
+          5
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          11
+        ],
+        [
+          "medics-care.co.il/sukkot",
+          5
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp",
+        "medics-care.co.il/sukkot": "ok"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2026-09-10",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "כורסאות עיסוי יוקרה מ-10,000 ₪ — XZ9, XZ8, XZ7, Royal Z9, Casada TITAN ו-Russo Sana Vivo.\n\nשלחו הודעה בוואטסאפ 055-959-8591 לקבלת מפרט מלא, ליווי אישי בבחירה ותיאום הדגמה באולם התצוגה בפתח תקווה.\n\nאולם תצוגה: תוצרת הארץ 1, פתח תקווה (מגדל T, קומה 6) · א׳–ה׳ 9:00–18:00, ו׳ 9:00–13:00",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        },
+        {
+          "start": "2026-09-10",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "🔥 Уже скоро: новое поколение массажных кресел Medics Care.\n\nG7 · F6 · GX6 · G6 · P5 · G5 — для дома, RX9 — для клиник и бизнеса.\n\nЦены пока не публикуем. Напишите нам в WhatsApp: 055-959-8591 — и вы первыми узнаете цену, характеристики и когда модели поступят в продажу.\n\nШоурум: Тоцерет ха-Арец 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F"
+        },
+        {
+          "start": "2026-09-10",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "Массажные кресла премиум-класса от 14 990 ₪ — XZ9, XZ8, XZ7, Royal Z9, Z6 Diamond, Comfy CZ7, Casada TITAN и Russo Sana Vivo.\n\nНапишите нам в WhatsApp: 055-959-8591 — пришлём полные характеристики, поможем выбрать подходящую модель и пригласим в шоурум в Петах-Тикве попробовать кресло вживую.\n\nШоурум: ул. Тоцерет ха-Арец, 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F"
+        },
+        {
+          "start": "2026-09-17",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "הדור החדש של Medics Care — עכשיו עם מחירים.\n\nשבעה דגמים חדשים, מ-125 ₪ לחודש. כבידה אפסית, חימום וכריות אוויר — בכל אחד מהם.\n\n24 תשלומים בהוראת קבע ללא ריבית, או עד 36 תשלומים באשראי.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T) — בואו להתנסות לפני שמחליטים.",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%D7%99%20%D7%94%D7%93%D7%92%D7%9E%D7%99%D7%9D%20%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%93%D7%92%D7%9D."
+        },
+        {
+          "start": "2026-09-11",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        },
+        {
+          "start": "2026-09-18",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "G6 · 208 ₪ לחודש בהוראת קבע",
+          "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G6 — 208 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G6%20%D7%91-208%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+        },
+        {
+          "start": "2026-09-18",
+          "cta": "GET_OFFER",
+          "title": "G5 · 125 ₪ לחודש בהוראת קבע",
+          "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G5 — 125 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nשריינו עכשיו הובלה והתקנה חינם — חיסכון של 350 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+          "landing": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G5"
+        },
+        {
+          "start": "2026-09-11",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כורסאות עיסוי Medics Care",
+          "body": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+          "landing": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

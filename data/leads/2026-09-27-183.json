@@ -418,7 +418,78 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 6,
+      "seen": 6,
+      "newest_start": "2026-08-09",
+      "oldest_start": "2025-07-14",
+      "days_since_newest": 49,
+      "longest_running_days": 440,
+      "distinct_texts": 4,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          6
+        ]
+      ],
+      "videos": 2,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          6
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2025-12-06",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "נמאס לכם מכפפות שנקרעות באמצע העבודה? תכירו את Pro Max 🧤\nהידיים שלכם הן הכלי הכי חשוב שלכם, והגיע הזמן לשמור עליהן כמו שצריך.\n\nכפפות הניטריל של Pro Max הן לא “עוד כפפות חד פעמיות”. הן נוצרו לעבודה קשה, בדיוק כמו שאתם עובדים.\n\nלמה דווקא Pro Max?\n✅ עובי Heavy Duty: עבות במיוחד ועמידות בפני קריעה.\n✅ הגנה מקסימלית: עמידות בפני כימיקלים, שמנים, סולבנטים ופגיעות מכניות.\n✅ בריאות לפני הכל: ללא אבקה וללא ",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2025-07-29",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "MOR Pharma - מור פארמה",
+          "body": "יש לך עסק בתחום הביוטי והטיפוח?\nיש לנו את כל הציוד שהעסק שלך צריך!\nבמחירים הכי זולים בישראל\nלמכירה בסיטונאות בלבד. אספקה מהירה לכל הארץ.\nכפפות, אלכוג׳ל, סדין רופא, מוצרי הגיינה, חד״פ ועוד.\nלפרטים וקבלת הצעת מחיר הקליקי ושלחי לנו הודעה בוואטסאפ 👇",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2025-07-14",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כפפות נטריל ורודות",
+          "body": "כפפות ניטריל ורודות – מקצועיות, בטוחות, ועם נגיעת סטייל\nלמכירה בסיטונאות לעסקים. מינימום הזמנה 2 קרטונים.\nבמחיר הזול בישראל\n\n✔️ *איכות ללא פשרות*: כפפות ניטריל ברמה הגבוהה ביותר, ללא אבקה, עמידות במיוחד ומתאימות לעבודה ממושכת.  \n✔️ *בטיחות והתאמה*: מתאימות לעור רגיש ולמגוון שימושים – מתחום הרפואה והקוסמטיקה ועד תעשייה וניקיון.  \n✔️ *נראות מקצועית עם ייחודיות*: בצבע ורוד אלגנטי שמוסיף גוון ייחודי ת",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-06-01",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-07-18",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-08-09",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
