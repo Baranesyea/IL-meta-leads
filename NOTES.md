@@ -332,3 +332,21 @@
   "אני ערן, איש מוצר, חוויית לקוח ומומחה בקריאייטיב מדוייק. אני עושה את זה כבר 17 שנים."
 - The page link goes in the second message, after a yes (the CRM row still has the page link).
 - `data/crm/seed.py` holds the template; all 13 LeadCRM rows were updated.
+
+## 2026-09-27 — WhatsApp in the CRM (Green API)
+- Backend functions (Base44, deployed with `POST /api/apps/{id}/coding/write`; source in `web/base44/base44/functions/`):
+  - `waApi` (admin only, called from /crm): `state`, `history` (getChatHistory), `send` (which = 1 / 2 / "text").
+  - `waTick` (workflow "WhatsApp tick", every 10 minutes 08:00-21:50 Israel time): sends due scheduled messages,
+    ONE per run, never more than 6 hours late; reads `lastIncomingMessages?minutes=720` and marks replies
+    (`unread`, `last_reply_*`, status sent → replied). Guarded by the TICK_KEY secret, passed in `with.args`.
+    `{"key": ..., "dry": true}` is a health check that sends nothing.
+- Secrets in Base44 (never in the repo): GREEN_API_URL, GREEN_API_INSTANCE, GREEN_API_TOKEN, TICK_KEY.
+- The instance's webhook belongs to Eran's webinar system (bldr.co.il); we never change settings or read the
+  notification queue, only chat history / last incoming messages.
+- LeadCRM got: message2, msg1_at / msg2_at (scheduled), msg1_sent_at / msg2_sent_at, last_reply_at / _text,
+  unread, send_error; new status "ready" (מוכן לשליחה).
+- /crm: two message tabs per lead (send now / schedule), chat window (polls every 15s, reply box), "new reply"
+  badge and tab, sequence scheduler (all "ready" leads, start time, every 30/45/60/90 minutes, ±5 minutes random).
+- Cost: each workflow run is ~0.2 Base44 credits (~17 a day on the current schedule).
+- Workflow payload lesson: `invoke_backend_function` passes `with.args` as the request body.
+- Verified: a real scheduled send to Eran's own number (test row "בדיקת מערכת" in the CRM); UI with a mocked backend.
