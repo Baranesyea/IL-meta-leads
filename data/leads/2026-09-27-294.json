@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-294",
-  "status": "filtered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://drtawil.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "dratawil.clinic@gmail.com"
   },
   "contact": {
     "facebook_page": {
@@ -28,9 +28,14 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972526432312",
+      "source": "https://drtawil.co.il/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "2 landline(s)",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {
@@ -159,7 +164,42 @@
         "videos": [],
         "currency": "",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=938161632609978"
+      },
+      {
+        "id": "938161632609978",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/"
       }
+    ],
+    "social_landings": [
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "4380622478846559",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94/"
+        ]
+      },
+      {
+        "ad_id": "938161632609978",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "938161632609978",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94/"
     ]
   },
   "current_ads": [],
@@ -175,6 +215,23 @@
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
     "rejected": "2026-09-27T15:32:50",
-    "filtered": "2026-09-27T15:39:25"
+    "filtered": "2026-09-27T15:39:25",
+    "qualified": "2026-09-27T15:47:12"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://drtawil.co.il/",
+      "https://drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94/",
+      "https://drtawil.co.il/%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8/",
+      "https://drtawil.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/",
+      "https://drtawil.co.il/%D7%A6%D7%A8%D7%95-%D7%A7%D7%A9%D7%A8/"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }
