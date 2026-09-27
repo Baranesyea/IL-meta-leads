@@ -1,0 +1,141 @@
+{
+  "lead_id": "2026-09-27-304",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ronenmendi/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "151110038319502",
+    "page_name": "המרכז הישראלי לכירופרקטיקה  - ד\"ר רונן מנדי",
+    "active_ads_count": 1,
+    "search_keyword": "כירופרקט",
+    "sample_ads": [
+      {
+        "ad_id": "2514967648978556",
+        "link_title": "המרכז הישראלי לכירופרקטיקה  - ד\"ר רונן מנדי",
+        "body": "ד\"ר מנדי, כירופרקט מוח 28 שנים\nבחדרה וברמת אביב\n058-53-63-880 ווטסאפ",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810962612_1414703310856768_5273962159636277444_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TBk4C67fLpUQ7kNvwEwl_2r&_nc_oc=Adr5YGSHGHowDGjYoTi8-kghbL68FA1vOI3h8-eB0FGs4pmq4we1vpaw6Yn0-bu9mb4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-klVIDx1DlZVWzEE48bHQA&_nc_ss=70289&oh=00_AQL1acEE3Eesk-WiJVu4YusZpONtJKHvWyn65ZyrI2DKpw&oe=6ABF2438"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789455600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2514967648978556"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "MESSAGE_PAGE"
+      ],
+      "page_like_count": 1948,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "כירופרקט",
+        "ד\"ר"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2514967648978556"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "MESSAGE_PAGE"
+    ],
+    "page_like_count": 1948,
+    "page_categories": [
+      "Chiropractor"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "2514967648978556",
+        "page_id": "151110038319502",
+        "page_name": "המרכז הישראלי לכירופרקטיקה  - ד\"ר רונן מנדי",
+        "page_url": "https://www.facebook.com/ronenmendi/",
+        "page_like_count": 1948,
+        "page_categories": [
+          "Chiropractor"
+        ],
+        "ad_creative_link_title": "המרכז הישראלי לכירופרקטיקה  - ד\"ר רונן מנדי",
+        "body": "ד\"ר מנדי, כירופרקט מוח 28 שנים\nבחדרה וברמת אביב\n058-53-63-880 ווטסאפ",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/810962612_1414703310856768_5273962159636277444_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TBk4C67fLpUQ7kNvwFzhjjA&_nc_oc=AdpTaV0fiC-D8qqb5p9Co42_YMVALu1jbnjpxvfut_7tpr9iB2y0HkpAnBr5WyyyZJo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=20w9pvzDeSb-utxwxC4ugQ&_nc_ss=70289&oh=00_AQL-Ycb2pJMW0hTsP0ByEFthKgAlbUnUOUT4vo5Qr82gGQ&oe=6ABF2438"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2514967648978556"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:36:31",
+    "rejected": "2026-09-27T15:41:14"
+  }
+}

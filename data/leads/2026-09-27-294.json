@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-294",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "1761251854112452",
     "page_name": "ד”ר אריה טויל - טויל מדיקל סנטר - המרכז לכירופרקטיקה וטיפול בכאב ללא ניתוח",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "פיזיותרפיה",
     "sample_ads": [
       {
@@ -68,8 +68,8 @@
       "product_hits": [],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
       "cta_types": [
         "BOOK_TRAVEL"
       ],
@@ -81,7 +81,7 @@
         "טיפול"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "938161632609978"
     ],
@@ -93,7 +93,74 @@
     "page_categories": [
       "Doctor"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "4380622478846559",
+        "page_id": "1761251854112452",
+        "page_name": "ד”ר אריה טויל - טויל מדיקל סנטר - המרכז לכירופרקטיקה וטיפול בכאב ללא ניתוח",
+        "page_url": "https://www.facebook.com/arietawil/",
+        "page_like_count": 546,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777878000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658747373_1701227414576541_2210690075602141077_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WN0Qk72qjxoQ7kNvwFORFsJ&_nc_oc=Adpq95RlJn8xzV7GTxPeczF8kWt-k6BFTRkZhHHPXt9uzq9S0jIwvvOCxxdJA1tRfCo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQJ1ygpc0Ons_n1KQlS4ubWwvJc8AqhbtyABipnTAJXbzg&oe=6ABF20C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/656747266_1527113688973247_4733834510168400007_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=POPMqD8QWhwQ7kNvwExSwT1&_nc_oc=AdrTk8nok2NOTOQeSCjvrYRhvywqDRZ56LY8_Lhe35ccyCdfgn1Xthy_1wUlp3fP4uE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQIt97aPC-umFsQVqPFREJmprS4kBlTmziTbZguTb1oGuw&oe=6ABEFCC8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657276593_1373804007846834_6792197316329286043_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xmhXT-OsUd4Q7kNvwEMl_A8&_nc_oc=Adppqpn29Jt49KAzdpTS0p-QZz0qIDb3NJABuFu6BFpHKvPH2BlfLJfTJnm-5MYsmfY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQI7c7JjL8QweoKEO_8uleEGrxDxDytitmIkQHG5q3edAg&oe=6ABF16C4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657360143_770357245954375_9164542675937151245_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6v-lKckkEZoQ7kNvwFuTPSA&_nc_oc=AdpCcA-ilPfgpYaw7AVNtvNxyDuKjZ0uR3878Ss9l0TJVxSrXGJll_zYjvKEK6nmPes&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQJyw3lV2V3G5LwvIZYRd_qK7VzukqiWfvKYfkREDMPq4Q&oe=6ABF1172"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4380622478846559"
+      },
+      {
+        "id": "938161632609978",
+        "page_id": "1761251854112452",
+        "page_name": "ד”ר אריה טויל - טויל מדיקל סנטר - המרכז לכירופרקטיקה וטיפול בכאב ללא ניתוח",
+        "page_url": "https://www.facebook.com/arietawil/",
+        "page_like_count": 546,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732138386_2543541936104035_5958483249284024919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wEtD__b7xQAQ7kNvwEeveDe&_nc_oc=AdofKkQHwAw-MiBB4LvWrmwF3OMH6Qf0JcAZZeBi4XD3N7EdYyV2QazY_hcpIIYvhJ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQIshtluzPPT6xqweFbVhWmaPbK0gQy9cqnorr7X_srMpg&oe=6ABF2179",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734218650_1004443572470458_7605290169434985594_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKqW4w1yy_wQ7kNvwG6eHhL&_nc_oc=AdoNxG7nu07wYpHxjVMy1Aqe86gSXEgWPbJgMj72lye9LtCiFDGf3TYARhoDrrZiOSQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQLV2P7Q17XvoqFppO4abKczXr0b22YSjjd0pMP5C2lNEQ&oe=6ABEFA7A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/733280433_1542630847264357_1599853979138737731_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wyfksov6gWkQ7kNvwFLRgQ-&_nc_oc=Adof4AK_jSBVAGDm0ZrxrIy-RbYjsV47BkBw7GEAlYyzJqOxPFPkjQziYjvJSCvOcZ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQIMxLbR65nEYHx4DO2juSOidCGevy2X-kWPZexvFAZsUQ&oe=6ABF0A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734330217_28565920406341044_5362365470581482581_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h1GxSzSQ7ncQ7kNvwE8KQ2a&_nc_oc=AdomubJ2jR36D9U2QDplMgkqrrMSnOebtacve7fQ3JE9yydMDOiL0TDOZbx_hFQ1uNs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQJdCsM50cAY5j-J09CTM4fopdmeLkZaKR2yr-qOQ11XyA&oe=6ABF168D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732116820_1532149331650664_1794906654615382058_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOI8Ase_5hUQ7kNvwHHETxr&_nc_oc=AdoyFaQfM8w8QsHckQRJwp9Oz4PY74uBcA2reSeFvJLuGIhDY5L539CviF9K2MUYbPU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PSyyDHuNE6pBs53ie38QWQ&_nc_ss=70289&oh=00_AQI-rnxUiM-SSVslI7iMqq574FepKGcMBIVzCxvqKUXBvg&oe=6ABF05BC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=938161632609978"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -107,6 +174,7 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:50"
+    "rejected": "2026-09-27T15:32:50",
+    "filtered": "2026-09-27T15:39:25"
   }
 }

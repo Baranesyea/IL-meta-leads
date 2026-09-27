@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-266",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -76,7 +76,7 @@
       "hebrew": true,
       "currencies": [],
       "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count_exact": true,
       "cta_types": [
         "WHATSAPP_MESSAGE"
       ],
@@ -87,7 +87,7 @@
         "טיפול"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1478160460342218"
     ],
@@ -99,7 +99,44 @@
     "page_categories": [
       "Medical Center"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1478160460342218",
+        "page_id": "239722692820142",
+        "page_name": "Ofra Stein Holistic Pulsing- עופרה שטיין עוצמת הרכות",
+        "page_url": "https://www.facebook.com/ofrasteinholisticpulsing/",
+        "page_like_count": 798,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "טיפול הוליסטי בתל אביב או בהגעה עד בית הלקוחה >>>",
+        "body": "טיפול הוליסטי יעניק לך ריסטארט לגוף ולנפש!🧘🏼‍♀️🌿\nבמחיר מיוחד 🌸 299 ש\"ח בלבד \nפנקי את עצמך לשעה שלמה של תחושות שלא חווית מעולם! \nליד חוף הצוק תל אביב | חניה בשפע\nאו הגעה עד בית הלקוחה\nלמי הטיפול מתאים?\n🌿בעיות גב\n🌿סטרס וחרדות\n🌿בעיות שינה\n🌿כאבי ראש ומיגרנות\n🌿כאבים כרוניים\n🌿פציעות גוף\n🌿בעיות פוריות\nועוד\n\nמה תחוו לאחר הטיפול?\nרגיעה של מערכת העצבים, הקלה בכאבים, תחושה נעימה ונקייה, ריסטארט מוחלט של הגוף והאנרגיות שלכם ✨\n\nלחצו על המודעה לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1772352000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/530321879_1456891962130143_8488558996085399207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DdKivvzIGPwQ7kNvwEfgv-d&_nc_oc=AdrkkjOExZtBRUATbXeYqMhldukYVQHjqHSuUNwS6WFFE4PLEHnp7jBLIowgq0iMbpM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=YRm5oS9QmFfUjZTSdknhSA&_nc_ss=70289&oh=00_AQLR6kIblzL3e33gFKl_DtSjpklr-8Qc2RCqv79y4X92XA&oe=6ABEF730",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7m3cPPFdwc7RRbA4_Lbxw1C7jVAMeqza7SBL-k_g5C2c0w06dsfwHTVi-n9hhvvY9vJIC1cD4iJGEABwcSdMCY6HUsYzFB_lpmp_2DSxfsw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=K7mFAxfC-GoQ7kNvwG1Ga0v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODU0MzI2NTI5MTQwNTMsImFzc2V0X2FnZV9kYXlzIjo2MDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6a83418d484fa741&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjRCRjlFREYyQTVFMDM0NjNGNjY5QUU3RDVCQTA4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKVUtZUnlDUFlUSVdXb0RBUFBPYWZlSllvWkVidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaK9vTCoYmbBBUCKAJDMywXQEqAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=YRm5oS9QmFfUjZTSdknhSA&_nc_ss=70289&_nc_zt=28&oh=00_AQKFMDvZush56_xRrUVNKuMRztG6x3WbnXcr1xDLxVSx5w&oe=6ABF24E6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1478160460342218"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -113,6 +150,6 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:31:33"
+    "rejected": "2026-09-27T15:37:16"
   }
 }

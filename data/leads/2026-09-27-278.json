@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-278",
-  "status": "discovered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://astrixpt.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "astrixphysio@gmail.com"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/astrixpt/",
+      "source": "https://www.astrixpt.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,9 +28,14 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972535411967",
+      "source": "https://www.astrixpt.co.il/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {
@@ -101,7 +106,7 @@
       "hebrew": true,
       "currencies": [],
       "active_ads_count": 2,
-      "active_ads_count_exact": false,
+      "active_ads_count_exact": true,
       "cta_types": [
         "LEARN_MORE",
         "SHOP_NOW"
@@ -117,7 +122,7 @@
         "שיקום"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "642755114259057",
       "1090320489369614"
@@ -132,7 +137,127 @@
       "Physical Therapist",
       "Sports"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "642755114259057",
+        "page_id": "232644864318995",
+        "page_name": "אסטריקס פיזיותרפיה לספורטאים ולקהילה",
+        "page_url": "https://www.facebook.com/astrixphysio/",
+        "page_like_count": 1344,
+        "page_categories": [
+          "Physical Therapist",
+          "Sports"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://www.astrixpt.co.il/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1670832000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/318176468_827486418509108_6674527321958844217_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qSIf-JLVp4wQ7kNvwGmjDiX&_nc_oc=AdpjUdf5peykZ-bwIEoSOOPlQ3qGHxD2qtSeVOz0ml7j56HKElW8S3m4Iwh2hF_ooMM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&oh=00_AQKLXfk6dtMY2810WUVcPOdllMC4PNptU2EkPfQFKEcD3Q&oe=6ABEF4D5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPrS1DaBaMRHzZBv-aCGUZx8MxvYAbkwIzzJbkG_MzKLz5B_xfqxTjBToNMMp4aaoMeyzbcLnvQfCboYF0ZMQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=fazhNinJCPcQ7kNvwFSkyjL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5hc2ljX2hxMl9oZF9wcm9ncmVzc2l2ZSIsInhwdl9hc3NldF9pZCI6MTI0NDQ2MTIyNzYzODQyOSwiYXNzZXRfYWdlX2RheXMiOjIyMSwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjEwMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&_nc_zt=28&oh=00_AQKG1A4aUAK0w2Y66hCm9F6KLbfRllE8yabN52nnY2q2uw&oe=6ABF2413"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/318176468_827486418509108_6674527321958844217_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qSIf-JLVp4wQ7kNvwGmjDiX&_nc_oc=AdpjUdf5peykZ-bwIEoSOOPlQ3qGHxD2qtSeVOz0ml7j56HKElW8S3m4Iwh2hF_ooMM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&oh=00_AQKLXfk6dtMY2810WUVcPOdllMC4PNptU2EkPfQFKEcD3Q&oe=6ABEF4D5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPe6n7YiEsFFZM9sv88xK6-EUPVd-9jEY4kbbhvB_f95_b6rBGmLOYdra-qLlp3weqTTU6rFhLWt4673Er7yvE.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Uj5CraQcFY8Q7kNvwF2e7IK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5hc2ljX2hxMl9oZF9wcm9ncmVzc2l2ZSIsInhwdl9hc3NldF9pZCI6MTIyODMzMjkwNTU3ODI0NywiYXNzZXRfYWdlX2RheXMiOjIyMSwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjEwMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&_nc_zt=28&oh=00_AQI9nlBx1EwToapXoCrOxnarFn6Zr9W7WI-QHmA1L1vOaw&oe=6ABF23F9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=642755114259057"
+      },
+      {
+        "id": "1090320489369614",
+        "page_id": "232644864318995",
+        "page_name": "אסטריקס פיזיותרפיה לספורטאים ולקהילה",
+        "page_url": "https://www.facebook.com/astrixphysio/",
+        "page_like_count": 1344,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "אסטריקס פיזיותרפיה לספורטאים ולקהילה",
+        "body": "תושבי רעננה או כפר סבא - המודעה הזאת בשבילכם:\n\n\"הכאבים שהיו לי נעלמו לחלוטין, אני\nמרגיש כמו בן אדם חדש וסוף סוף יכול\nלחזור לעשות ספורט!\"\n\n\"הרגשתי שניסיתי כבר הכל ולא\nהאמנתי שאי פעם אצליח להתעורר בבוקר\nבלי כאבים ותחושה\nשפשוט אין פתרון…\"\n\n\"הטיפול שלך הציל אותי, אני מרגיש\nצעיר ובריא מאי פעם!\nוהכאבים? נעלמו לגמרי…\"\n\nמשפטים 'רגילים' שאני שומע מדי\nיום בקליניקה…\n\nנעים מאוד, אנחנו אלי ודימה, פיזיותרפיסטים\nהמתמחים בשיקום פציעות שריר-שלד אצל ספורטאים ובקהילה,\nוהעלמת כאבים אקוטיים וכרוניים אחת ולתמיד.\n\nאתם כנראה כבר סקפטים,\n בטח כבר ניסיתם כמה\nסוגי טיפולים או תרופות, ואף אחד\nמהם לא באמת הביא תוצאות ארוכות טווח…\n\nהפיד שלכם בפייסבוק מוצף בהבטחות\nענק לטיפול מהיר וחד פעמי\nש\"יעשה קסמים\" וירפא אתכם לתמיד…\n\nאבל אתם?\n\nאתם פשוט רוצים פתרון אמיתי שבאמת\nעובד, שיעזור לכם לחזור לחיים הנורמליים, הבריאים\nוהרגילים שיאפשרו לכם להתעורר כל בוקר\nבריאים ואנרגטים כמו ספורטאי בן 20…\n\nב\"אסטריקס\" - הקליניקה שלנו ברעננה,\nעזרנו כבר למאות גברים ונשים שחשבו שאין\nפתרון לכאבים ולמה שהם חווים\nותוך תקופה יחסית קצרה הצלחנו\nלרפא את הכאבים שלהם ולהחזיר אותם\nלתפקוד מלא ובריא שנשאר שנים קדימה.\nזה לא סתם שאצלנו אחוזי ההצלחה הם\nכל כך גבוהים, לצוות אצלנו יש ניסיון רב של\nשנים ארוכות ולמידה בלתי פוסקת\nשעוזרת לנו להביא\nתוצאות ללקוחות שלנו פעם אחר פעם!\n\nאני רוצה להזמין אותכם לשיחת ייעוץ\nטלפונית עם מומחה מהצוות שלנו\nשבה נבין מה הבעיה ואם אנחנו יכולים\nלעזור גם לך לחזור לחיים\nבריאים, לחזור לתחביבים הישנים, לשפר\nאת איכות החיים וכמה שיותר מהר.\n\nבזמן הקרוב אנחנו נותנים שיחות\nייעוץ ללא עלות.\nאז אם אתם רוצים להגיד\n\"ביי ביי\" לכאבים ואתם רוצים חיים\nבריאים ונטולי כאב, תלחצו על המודעה\nכאן למטה ותשאירו את הפרטים שלכם\n\nאנחנו נחזור אליכם בהקדם לשיחת הייעוץ החינמית.\n\nתזכורו: אתם במרחק לחיצה\nאחת מגוף בריא ואיכות חיים של\nספורטאי תוסס בן 20!\n\nמחיר מיוחד לפגישה הראשונה למגיעים ממודעה זו. אמרו זאת בשיחת הייעוץ.\nאנחנו מחכים לכם.\nצוות אסטריקס פיזיותרפיה - דימה, אלי, שני, עמית, אביאל אביטל וליטל",
+        "link_description": " ",
+        "landing_url": "http://www.astrixpt.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1754982000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/466382403_1618892272056024_3030311858693175720_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tkd0t-E98qkQ7kNvwEtFTcS&_nc_oc=Ado6UzQZz8cBdo1RnKIs3U1V871If-lmlrNDvzBr-UE8EoJPbXySY0q_-8OOVz0nB7E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&oh=00_AQJeHw6Zqu44b033P4TulipAMkuKMQENK6myHkGcjn2gYg&oe=6ABEEEE7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465999172_2321865098165562_872036438243836170_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OOR0wwSb1I8Q7kNvwFm74tL&_nc_oc=AdoHAhBfzgOuNtksADCuSTyqhYuBqDNJGOT8JnCqlXaF8T-Z1hYZIKxkEh8HhHzQ-T8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&oh=00_AQKU9KKc7OULyU4nsPIBvNbcSDFu_a6Wnvq2ZhTPEhHMsg&oe=6ABF1299",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/466112458_535010989456097_7416272360769976718_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qbsSBdcNBQ0Q7kNvwFeKEaJ&_nc_oc=AdpEhclil25FP4HifIY47l5ikW7m14xZsfMT_qGUPB44SOaMeR7F9ZU9J-MmbdyIORQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Y_dEhP3SGLaz4OxGNPR87w&_nc_ss=70289&oh=00_AQKEKHz8iGgs2ky07514ePspOWXtJGqkwA4QdPmBlaH2gw&oe=6ABEEF18"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1090320489369614"
+      },
+      {
+        "id": "642755114259057",
+        "body": "{{product.brand}}",
+        "landing_url": "http://www.astrixpt.co.il/"
+      },
+      {
+        "id": "1090320489369614",
+        "body": "תושבי רעננה או כפר סבא - המודעה הזאת בשבילכם:\n\n\"הכאבים שהיו לי נעלמו לחלוטין, אני\nמרגיש כמו בן אדם חדש וסוף סוף יכול\nלחזור לעשות ספורט!\"\n\n\"הרגשתי שניסיתי כבר הכל ולא\nהאמנתי שאי פעם אצליח להתעורר בבוקר\nבלי כאבים ותחושה\nשפשוט אין פתרון…\"\n\n\"הטיפול שלך הציל אותי, אני מרגיש\nצעיר ובריא מאי פעם!\nוהכאבים? נעלמו לגמרי…\"\n\nמשפטים 'רגילים' שאני שומע מדי\nיום בקליניקה…\n\nנעים מאוד, אנחנו אלי ודימה, פיזיותרפיסטים\nהמתמחים בשיקום פציעות שריר-שלד אצל ספורטאים ובקהילה,\nוהעלמת כאבים אקוטיים וכרוניים אחת ולתמיד.\n\nאתם כנראה כבר סקפטים,\n בטח כבר ניסיתם כמה\nסוגי טיפולים או תרופות, ואף אחד\nמהם לא באמת הביא תוצאות ארוכות טווח…\n\nהפיד שלכם בפייסבוק מוצף בהבטחות\nענק לטיפול מהיר וחד פעמי\nש\"יעשה קסמים\" וירפא אתכם לתמיד…\n\nאבל אתם?\n\nאתם פשוט רוצים פתרון אמיתי שבאמת\nעובד, שיעזור לכם לחזור לחיים הנורמליים, הבריאים\nוהרגילים שיאפשרו לכם להתעורר כל בוקר\nבריאים ואנרגטים כמו ספורטאי בן 20…\n\nב\"אסטריקס\" - הקליניקה שלנו ברעננה,\nעזרנו כבר למאות גברים ונשים שחשבו שאין\nפתרון לכאבים ולמה שהם חווים\nותוך תקופה יחסית קצרה הצלחנו\nלרפא את הכאבים שלהם ולהחזיר אותם\nלתפקוד מלא ובריא שנשאר שנים קדימה.\nזה לא סתם שאצלנו אחוזי ההצלחה הם\nכל כך גבוהים, לצוות אצלנו יש ניסיון רב של\nשנים ארוכות ולמידה בלתי פוסקת\nשעוזרת לנו להביא\nתוצאות ללקוחות שלנו פעם אחר פעם!\n\nאני רוצה להזמין אותכם לשיחת ייעוץ\nטלפונית עם מומחה מהצוות שלנו\nשבה נבין מה הבעיה ואם אנחנו יכולים\nלעזור גם לך לחזור לחיים\nבריאים, לחזור לתחביבים הישנים, לשפר\nאת איכות החיים וכמה שיותר מהר.\n\nבזמן הקרוב אנחנו נותנים שיחות\nייעוץ ללא עלות.\nאז אם אתם רוצים להגיד\n\"ביי ביי\" לכאבים ואתם רוצים חיים\nבריאים ונטולי כאב, תלחצו על המודעה\nכאן למטה ותשאירו את הפרטים שלכם\n\nאנחנו נחזור אליכם בהקדם לשיחת הייעוץ החינמית.\n\nתזכורו: אתם במרחק לחיצה\nאחת מגוף בריא ואיכות חיים של\nספורטאי תוסס בן 20!\n\nמחיר מיוחד לפגישה הראשונה למגיעים ממודעה זו. אמרו זאת בשיחת הייעוץ.\nאנחנו מחכים לכם.\nצוות אסטריקס פיזיותרפיה - דימה, אלי, שני, עמית, אביאל אביטל וליטל",
+        "landing_url": "http://www.astrixpt.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "642755114259057",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://www.astrixpt.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1090320489369614",
+        "text": "תושבי רעננה או כפר סבא - המודעה הזאת בשבילכם:\n\n\"הכאבים שהיו לי נעלמו לחלוטין, אני\nמרגיש כמו בן אדם חדש וסוף סוף יכול\nלחזור לעשות ספורט!\"\n\n\"הרגשתי שניסיתי כבר הכל ולא\nהאמנתי שאי פעם אצליח להתעורר בבוקר\nבלי כאבים ותחושה\nשפשוט אין פתרון…\"\n\n\"הטיפול שלך הציל אותי, אני מרגיש\nצעיר ובריא מאי פעם!\nוהכאבים? נעלמו לגמרי…\"\n\nמשפטים 'רגילים' שאני שומע מדי\nיום בקליניקה…\n\nנעים מאוד, אנחנו אלי ודימה, פיזיותרפיסטים\nהמתמחים בשיקום פציעות שריר-שלד אצל ספורטאים ובקהילה,\nוהעלמת כאבים אקוטיים וכרוניים אחת ולתמיד.\n\nאתם כנראה כבר סקפטים,\n בטח כבר ניסיתם כמה\nסוגי טיפולים או תרופות, ואף אחד\nמהם לא באמת הביא תוצאות ארוכות טווח…\n\nהפיד שלכם בפייסבוק מוצף בהבטחות\nענק לטיפול מהיר וחד פעמי\nש\"יעשה קסמים\" וירפא אתכם לתמיד…\n\nאבל אתם?\n\nאתם פשוט רוצים פתרון אמיתי שבאמת\nעובד, שיעזור לכם לחזור לחיים הנורמליים, הבריאים\nוהרגילים שיאפשרו לכם להתעורר כל בוקר\nבריאים ואנרגטים כמו ספורטאי בן 20…\n\nב\"אסטריקס\" - הקליניקה שלנו ברעננה,\nעזרנו כבר למאות גברים ונשים שחשבו שאין\nפתרון לכאבים ולמה שהם חווים\nותוך תקופה יחסית קצרה הצלחנו\nלרפא את הכאבים שלהם ולהחזיר אותם\nלתפקוד מלא ובריא שנשאר שנים קדימה.\nזה לא סתם שאצלנו אחוזי ההצלחה הם\nכל כך גבוהים, לצוות אצלנו יש ניסיון רב של\nשנים ארוכות ולמידה בלתי פוסקת\nשעוזרת לנו להביא\nתוצאות ללקוחות שלנו פעם אחר פעם!\n\nאני רוצה להזמין אותכם לשיחת ייעוץ\nטלפונית עם מומחה מהצוות שלנו\nשבה נבין מה הבעיה ואם אנחנו יכולים\nלעזור גם לך לחזור לחיים\nבריאים, לחזור לתחביבים הישנים, לשפר\nאת איכות החיים וכמה שיותר מהר.\n\nבזמן הקרוב אנחנו נותנים שיחות\nייעוץ ללא עלות.\nאז אם אתם רוצים להגיד\n\"ביי ביי\" לכאבים ואתם רוצים חיים\nבריאים ונטולי כאב, תלחצו על המודעה\nכאן למטה ותשאירו את הפרטים שלכם\n\nאנחנו נחזור אליכם בהקדם לשיחת הייעוץ החינמית.\n\nתזכורו: אתם במרחק לחיצה\nאחת מגוף בריא ואיכות חיים של\nספורטאי תוסס בן 20!\n\nמחיר מיוחד לפגישה הראשונה למגיעים ממודעה זו. אמרו זאת בשיחת הייעוץ.\nאנחנו מחכים לכם.\nצוות אסטריקס פיזיותרפיה - דימה, אלי, שני, עמית, אביאל אביטל וליטל",
+        "links": [
+          "http://www.astrixpt.co.il/"
+        ]
+      },
+      {
+        "ad_id": "642755114259057",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://www.astrixpt.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1090320489369614",
+        "text": "תושבי רעננה או כפר סבא - המודעה הזאת בשבילכם:\n\n\"הכאבים שהיו לי נעלמו לחלוטין, אני\nמרגיש כמו בן אדם חדש וסוף סוף יכול\nלחזור לעשות ספורט!\"\n\n\"הרגשתי שניסיתי כבר הכל ולא\nהאמנתי שאי פעם אצליח להתעורר בבוקר\nבלי כאבים ותחושה\nשפשוט אין פתרון…\"\n\n\"הטיפול שלך הציל אותי, אני מרגיש\nצעיר ובריא מאי פעם!\nוהכאבים? נעלמו לגמרי…\"\n\nמשפטים 'רגילים' שאני שומע מדי\nיום בקליניקה…\n\nנעים מאוד, אנחנו אלי ודימה, פיזיותרפיסטים\nהמתמחים בשיקום פציעות שריר-שלד אצל ספורטאים ובקהילה,\nוהעלמת כאבים אקוטיים וכרוניים אחת ולתמיד.\n\nאתם כנראה כבר סקפטים,\n בטח כבר ניסיתם כמה\nסוגי טיפולים או תרופות, ואף אחד\nמהם לא באמת הביא תוצאות ארוכות טווח…\n\nהפיד שלכם בפייסבוק מוצף בהבטחות\nענק לטיפול מהיר וחד פעמי\nש\"יעשה קסמים\" וירפא אתכם לתמיד…\n\nאבל אתם?\n\nאתם פשוט רוצים פתרון אמיתי שבאמת\nעובד, שיעזור לכם לחזור לחיים הנורמליים, הבריאים\nוהרגילים שיאפשרו לכם להתעורר כל בוקר\nבריאים ואנרגטים כמו ספורטאי בן 20…\n\nב\"אסטריקס\" - הקליניקה שלנו ברעננה,\nעזרנו כבר למאות גברים ונשים שחשבו שאין\nפתרון לכאבים ולמה שהם חווים\nותוך תקופה יחסית קצרה הצלחנו\nלרפא את הכאבים שלהם ולהחזיר אותם\nלתפקוד מלא ובריא שנשאר שנים קדימה.\nזה לא סתם שאצלנו אחוזי ההצלחה הם\nכל כך גבוהים, לצוות אצלנו יש ניסיון רב של\nשנים ארוכות ולמידה בלתי פוסקת\nשעוזרת לנו להביא\nתוצאות ללקוחות שלנו פעם אחר פעם!\n\nאני רוצה להזמין אותכם לשיחת ייעוץ\nטלפונית עם מומחה מהצוות שלנו\nשבה נבין מה הבעיה ואם אנחנו יכולים\nלעזור גם לך לחזור לחיים\nבריאים, לחזור לתחביבים הישנים, לשפר\nאת איכות החיים וכמה שיותר מהר.\n\nבזמן הקרוב אנחנו נותנים שיחות\nייעוץ ללא עלות.\nאז אם אתם רוצים להגיד\n\"ביי ביי\" לכאבים ואתם רוצים חיים\nבריאים ונטולי כאב, תלחצו על המודעה\nכאן למטה ותשאירו את הפרטים שלכם\n\nאנחנו נחזור אליכם בהקדם לשיחת הייעוץ החינמית.\n\nתזכורו: אתם במרחק לחיצה\nאחת מגוף בריא ואיכות חיים של\nספורטאי תוסס בן 20!\n\nמחיר מיוחד לפגישה הראשונה למגיעים ממודעה זו. אמרו זאת בשיחת הייעוץ.\nאנחנו מחכים לכם.\nצוות אסטריקס פיזיותרפיה - דימה, אלי, שני, עמית, אביאל אביטל וליטל",
+        "links": [
+          "http://www.astrixpt.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.astrixpt.co.il/"
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -146,6 +271,26 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:31:55"
+    "rejected": "2026-09-27T15:31:55",
+    "filtered": "2026-09-27T15:37:47",
+    "qualified": "2026-09-27T15:44:40"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.astrixpt.co.il/",
+      "https://www.astrixpt.co.il/",
+      "https://www.astrixpt.co.il/%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8/",
+      "https://www.astrixpt.co.il/%d7%94%d7%a6%d7%95%d7%95%d7%aa-%d7%a9%d7%9c%d7%a0%d7%95/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }

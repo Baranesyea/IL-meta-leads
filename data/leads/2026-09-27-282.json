@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-282",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "109972831866240",
     "page_name": "Mega Care מכון פיזיותרפיה",
-    "active_ads_count": 1,
+    "active_ads_count": 3,
     "search_keyword": "פיזיותרפיה",
     "sample_ads": [
       {
@@ -72,18 +72,22 @@
       "product_hits": [],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
       "cta_types": [
         "WHATSAPP_MESSAGE"
       ],
       "page_like_count": 638,
       "product_score": -4,
-      "clinic_excluded": [
-        "כללית"
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "פיזיותרפ",
+        "מטפל",
+        "טיפול",
+        "מכון"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1903071830302073"
     ],
@@ -95,7 +99,109 @@
     "page_categories": [
       "Physical Therapist"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1903071830302073",
+        "page_id": "109972831866240",
+        "page_name": "Mega Care מכון פיזיותרפיה",
+        "page_url": "https://www.facebook.com/100085671712214/",
+        "page_like_count": 638,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "לחצו לפרטים נוספים >>",
+        "body": "נמאס לכם מכאבים שמשתקים אתכם?\nטיפול אישי במחיר משתלם במיוחד! \n\nאצלנו תקבלו:\n✔ טיפול פיזיותרפיה אישי ומנואלי 1 על 1  \n✔ החזרים עד 80% מכללית מושלם/ ביטוח פרטי*  \n✔ אנחנו מטפלים בהחזר מקופת החולים עבורכם – בלי בירוקרטיה בכלל!\n\nמספר התורים מוגבל – מהרו לקבוע טיפול עכשיו ולחזור לשגרה נטולת כאבים!\n*בהתאם להחזר מבוטחי כללית מושלם/פלטינום בלבד\nכי הכאב לא חייב ללוות אתכם יותר >> לחצו לפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1765872000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/600980856_1450480776696691_1053765913915888000_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=80TRkkHoUOEQ7kNvwEGih3v&_nc_oc=Adp1FbCghpAT_e6ZnQC2zoCE8W1szdnA4RZuoP_dzLUi7TUcfaIBRR0H-24x-yBfzks&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&oh=00_AQKDZ4Vcf3SpOnc66MJRpaq7QhLPpfcy4z07xaKe5R2zWg&oe=6ABEFFE3",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOiIs1sdiE1VYEci1KNxEu_K60z2nR9lWXMQ3sTA0dqLvKvSAUj8n3glc86gwMVQEdO72VE6jCxKxWR81vRSDsYROraku88fr9gQLcbuQHYLA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_pwXTFJXMN4Q7kNvwG-2JSV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzA1NzQxMzU4NDg1MjksImFzc2V0X2FnZV9kYXlzIjozNzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=75880ae45334557f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RjRBNDA3QzJCMzYzMkZDMjc4NTNFQjVFNDdGOTdBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4NDY2RkUzMTQwRTY4OEQ3RTgwODAyNTBGNTA0RkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaiuZPciZCCBBUCKAJDMywXQFBUan752yMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK4iqGGMZ6pBQLV01iTjZDaNYlC-U_PNdbr9f6erlsLsw&oe=6ABF08D5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1903071830302073"
+      },
+      {
+        "id": "2179699696192844",
+        "page_id": "109972831866240",
+        "page_name": "Mega Care מכון פיזיותרפיה",
+        "page_url": "https://www.facebook.com/100085671712214/",
+        "page_like_count": 638,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "חוזרים לזוז בלי כאב – השאירו פרטים ותתחילו טיפול כבר השבוע!",
+        "body": "עייפים מהכאב? הגיע הזמן להחזיר שליטה לחיים שלכם\nנמאס לכם להתעורר עם כאבים בעקב?\nלא מצליחים ללכת כמו פעם בגלל דלקת בגיד או הסתיידות?\n\n📣 טיפול גלי הלם של מגה קייר מחליף ניתוחים, זריקות ותרופות\n✔ עוזר להפחית כאב ודלקת\n✔ מחזיר תפקוד מהיר\n✔ טיפול קצר עם תוצאות מהירות\n\nתורים מהיום למחר ואתם אפילו לא צריכים להתעסק עם הקופה\n💸 עד 100% החזר! - אנחנו מטפלים בכל נושא ההחזר ישירות מול קופת החולים\n\nהשאירו פרטים עכשיו לתיאום שיחת ייעוץ חינם\nכי הכאב לא חייב ללוות אתכם יותר >> לחצו לפרטים",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/581376875_1400413978179294_1557741412147373830_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U1hyaD0Kt4kQ7kNvwFdIxgM&_nc_oc=AdrDLpdii_On5psoJv4SCfdEMzshi3QrDrHhWz0ZeBqDNP3C8x9pe_jiNfKPGKKXoAQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&oh=00_AQLlXU42CdzWl8XKEECMxjo5cUz7xoVBlfhNaB5zVHmZ5Q&oe=6ABEFD2A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNoKAFHRAYrdeRQlNPCBLLtVg3sJfKsDjT5ztWhNIdy4fCtpTtUiM9s7Cv8ZJxMehALnsY3MZw6ultWQd5xUuTI548qjWS_SpOHjmcMavQbhQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hBO5I_KUunoQ7kNvwGH0A8c&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgxNzQwMDM5NDA3NzI5NSwiYXNzZXRfYWdlX2RheXMiOjM3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cefd8dfe1ce68259&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTRGQjI2NTIyQzhFNzIzQjI2RTk2MThBMDYzMDdBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyNDZDRTg2RDhBRTlBRjQ4NDU1MTlGRTJGOEE3REE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbe0YbC-9rzAhUCKAJDMywXQEbMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLQDXUmHy4K25txRwbHT26guhmCTl2P7RSf3IRHLbKDJw&oe=6ABEF803"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2179699696192844"
+      },
+      {
+        "id": "1523349035427453",
+        "page_id": "109972831866240",
+        "page_name": "Mega Care מכון פיזיותרפיה",
+        "page_url": "https://www.facebook.com/100085671712214/",
+        "page_like_count": 638,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "חוזרים לזוז בלי כאב – השאירו פרטים ותתחילו טיפול כבר השבוע!",
+        "body": "עייפים מהכאב? הגיע הזמן להחזיר שליטה לחיים שלכם\nנמאס לכם להתעורר עם כאבים בעקב?\nלא מצליחים ללכת כמו פעם בגלל דלקת בגיד או הסתיידות?\n\n📣 טיפול גלי הלם של מגה קייר מחליף ניתוחים, זריקות ותרופות\n✔ עוזר להפחית כאב ודלקת\n✔ מחזיר תפקוד מהיר\n✔ טיפול קצר עם תוצאות מהירות\n\nתורים מהיום למחר ואתם אפילו לא צריכים להתעסק עם הקופה\n💸 עד 100% החזר! - אנחנו מטפלים בכל נושא ההחזר ישירות מול קופת החולים\n\nהשאירו פרטים עכשיו לתיאום שיחת ייעוץ חינם\nכי הכאב לא חייב ללוות אתכם יותר >> לחצו לפרטים",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770278400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/581396607_1880414369566226_4842353101793227960_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UIlQdV6YZRwQ7kNvwGmDdDE&_nc_oc=AdpmaXPFVvvXUu2fYuuZ87YzPrtM4GFMQCfQ2OXFkgY2dFaSOBfBGDXo_qQuVsrY3aM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&oh=00_AQIniD4H9t3HXH1nYVhpjiRBdOtJYLN-Sk_o1Al4aorFaw&oe=6ABEEF64",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMUL1IdSVULETP5ud7xKAEM21R7GcRKft52vDggl0QUpR9KBL0VxxdrebJfrA2eLld7Gv7LU-IbcwhVOk-L5RO8ldtHszl5ybP0lpk72sIUcA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=McdOxt6xYzcQ7kNvwFnHymX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODMxNDIwNjA1OTg4MTcsImFzc2V0X2FnZV9kYXlzIjo0NTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5398a432bd5ef3b0&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9FMzRDREY4QURGMzNCOTgxOTc0Rjk0QjE2Rjg3RDQ5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbCmJuclcfsAxUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=42cs_QTYiVxAcn6UECY3xQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJdAidGhDXX1KpvYgDxTGdN3rDVPKdk5XW6aIty5jMTFA&oe=6ABEF245"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1523349035427453"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -109,6 +215,7 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:18"
+    "rejected": "2026-09-27T15:32:18",
+    "filtered": "2026-09-27T15:38:11"
   }
 }

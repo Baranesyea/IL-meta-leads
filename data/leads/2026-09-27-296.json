@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-296",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -77,9 +77,14 @@
       ],
       "page_like_count": 6014,
       "product_score": -6,
-      "clinic_excluded": [
-        "הזרקות",
-        "חומצה היאלורונית"
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "מרפאה",
+        "פיזיותרפ",
+        "טיפול",
+        "טיפולי",
+        "ד\"ר",
+        "רופא"
       ]
     },
     "active_ads_count_exact": false,
@@ -108,6 +113,6 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:50"
+    "rejected": "2026-09-27T15:39:46"
   }
 }

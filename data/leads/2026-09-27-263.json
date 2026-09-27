@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-263",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -75,7 +75,7 @@
       "hebrew": true,
       "currencies": [],
       "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count_exact": true,
       "cta_types": [
         "WHATSAPP_MESSAGE"
       ],
@@ -92,7 +92,7 @@
         "רפלקסולוג"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1166918915640850"
     ],
@@ -104,7 +104,44 @@
     "page_categories": [
       "Spa"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1166918915640850",
+        "page_id": "238557508108042",
+        "page_name": "יוליה טיפולי גוף ונפש , מטפלת ברפלקסולוגיה ועיסוי רפואי",
+        "page_url": "https://www.facebook.com/100076205493519/",
+        "page_like_count": 291,
+        "page_categories": [
+          "Spa"
+        ],
+        "ad_creative_link_title": "צ'אט איתנו",
+        "body": "נשים בבאר שבע – הגיע הזמן להפסיק לסבול מכאבים שפשוט לא עוזבים.\nאם את מתמודדת עם כאבי גב, מיגרנות, כאבי מפרקים או חוסר שינה – יש פתרון אמיתי.\n קוראים לי יוליה, מעסה רפואית עם ניסיון של חמש שנים, עזרה כבר לעשרות נשים להשתחרר מכאבים כרוניים ולחזור להרגיש טוב.\nבקליניקה שלה היא משלבת רפלקסולוגיה, עיסוי רפואי, דיקור ושיטות נוספות שמתאימות בדיוק למה שהגוף שלך צריך.\nאם את רוצה לחיות בלי כאב ולפתור סוף־סוף את הבעיה שמטרידה אותך – שלחי הודעה עכשיו ונקבע טיפול.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/596892556_1794990864516274_7318805541319162009_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kwdZY4Sl4fUQ7kNvwEbnAQT&_nc_oc=Ado4GYN3JmSO_1lyXQtt7phg6bIpYFNLlXecKmGARHMlwDgfiW52F-NVXP2WrA5pUUs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Tgonvz6m9lMBXPTW_ckTnQ&_nc_ss=70289&oh=00_AQI75LpWNyu7i7inmu7CIS0TwZpINBAvTV0dTHtMfoicLw&oe=6ABF0B11",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZnqO_U_DjAHYae7_N2mIjV9Ui85FuB6MblcpGDb5G6Jk9RLzjGHfP6U0sThP9CUJRizID4GK_B-tGMfRlMXtDdWjO6jwAXkRWyIR8Qkwv1Q.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=P245O5pmEkcQ7kNvwFu4yhD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzIxOTAwNTIwNjkzMDEsImFzc2V0X2FnZV9kYXlzIjoyOTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ac55bf4d12bc95b6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80OTRFM0EzNUQ1OEVCRUY5NEFCMzYxNzk2M0ZFRDI4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBBNDNDMTU2MURCOEY2RTc2Q0IyMERBM0NENUI5MzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbqvvmdke6CBBUCKAJDMywXQEDMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Tgonvz6m9lMBXPTW_ckTnQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLqgHCwoGiRWGBIvW31mTMIuXgWF0W8IQSVxysCcF5AqA&oe=6ABEF2EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1166918915640850"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -118,6 +155,6 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:31:33"
+    "rejected": "2026-09-27T15:36:54"
   }
 }

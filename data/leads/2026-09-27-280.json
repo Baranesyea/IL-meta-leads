@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-280",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "831849276684294",
     "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
-    "active_ads_count": 1,
+    "active_ads_count": 6,
     "search_keyword": "פיזיותרפיה",
     "sample_ads": [
       {
@@ -72,16 +72,24 @@
       "product_hits": [],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
       "cta_types": [],
       "page_like_count": 137,
       "product_score": -6,
-      "clinic_excluded": [
-        "חדר כושר"
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "מרפאה",
+        "פיזיותרפ",
+        "מטפל",
+        "טיפול",
+        "ד״ר",
+        "רופא",
+        "שיקום",
+        "physio"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "909768745504236"
     ],
@@ -91,7 +99,257 @@
     "page_categories": [
       "Physical Therapist"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "909768745504236",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "לא כל מקום שמטפל — באמת יודע לאבחן.\n\nב־AB PHYSIO הטיפול מתחיל באבחון מדויק,\nוממשיך בגישה שמחברת בין פיזיותרפיה, רפואה וטכנולוגיה מתקדמת.\n\nהמרפאה פועלת כיום במתחם חדש לגמרי בקריית אונו —\nעם חדרי טיפול מרווחים, ציוד מהמתקדמים בתחום\nוחדר כושר שיקומי חדש, שנבנה כדי לאפשר תהליך מלא ומדויק.\n\nהתמחות בפציעות ספורט, פציעות צבא ושיקום אורתופדי מורכב,\nבשיתוף פעולה עם רופאים מובילים באורתופדיה וברפואת הספורט.\n\nבהובלת ד״ר נועם איבשיץ,\nובהמשך ישיר למרפאה ותיקה שפועלת כבר עשרות שנים —\nעם מטופלים שחוזרים, ממליצים, וסומכים לאורך זמן.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/756139190_969570036133059_1280334522634674367_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4RVY9SdvRUEQ7kNvwG0r06M&_nc_oc=Adqr7AlaKcKepGG9IAOKGv2xNsglSAb_IxDEzc1_o6I8zrTlHl0_ls9EhJpSZjwuwuk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQLp8AiKzhcshy6qZIrVNR-b5bUp-PF103-sq024IQBing&oe=6ABF0AB8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMeniY4Osr1farY8YIvu2_YXkC_iFQqNISs5XcKymQIsDseyk-e5qurFXLoVTiF9zlR2JOYNm-tekAp0A4gwCO02W6O1z-bTRApr48B-MHQpw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ZkTBQKqdB8kQ7kNvwHogm_-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTAxMTcwMTY5ODUwMTgsImFzc2V0X2FnZV9kYXlzIjo2MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1922f722ceee51d6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NjRDM0RCNDA1ODczRDlEQjQzNjI2RTdERjlCNjJCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNDIyM0QyRTZBQUM5MDZEREVGODYyRjc4MzYxRkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb09pLV9NWJBhUCKAJDMywXQEAEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJwOwLIdaAG_9vdPJe4RdpXRBcZTmPvM3QAc8RuHcHpMw&oe=6ABF26C8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=909768745504236"
+      },
+      {
+        "id": "2542441786232704",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "נפצעתם?\n\n ב־AB PHYSIO בונים תהליך שיקום שמותאם אליכם, לפציעה ולמטרות שלכם.\n 🏀 בואו לראות איך זה נראה מבפנים.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813407325_1099784219131939_8837403380249087915_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VdVeuEozey0Q7kNvwG58UMt&_nc_oc=AdoEk7m3UhgbMKXYs-3vLWtGL4NvNKxPubDzcYPp6WxXSytiMloW0r_TH5Z44YeKzaA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQLUrU7cRsbhlxFqeVxJzcM974zBOKF-CtfRL9fHoyiegw&oe=6ABEF1FC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN5DDOvrfsgYvhVuAeE-zLmRwOBL-uFXjrk3nV0X_rEoqSeSJgdq74tpoFEvRX4ig1QUK1AWeDF0QkvoEb0BeTWyWWKVvRbYETrAcVT_G59sg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=cNkTyvHP21cQ7kNvwH4kQDv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MzMyMDcwOTIwMTc2NjcsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3578dfc4c8a3f489&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNzRGNjI5QkQyN0RBNUQwNjJFRDA4MzJFMTQ5RjNCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUxNDE4RTdCMTJBNDlGMzJFQTQwNjU4RTI5QkY2OUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG6N_50N-LBRUCKAJDMywXQEHiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJavOv9k2E3M1ScjxKQaTLIx05qHCLaPb00UoL2XQpjPA&oe=6ABF15DC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2542441786232704"
+      },
+      {
+        "id": "1009948728725998",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "דנה הגיעה אלינו בעקבות כאב חד בשכמה הימנית, שהקשה עליה לבצע בפעולות יומיומיות פשוטות.\nלאחר 4 טיפולים ב־AB PHYSIO, היא כבר התחילה להרגיש שינוי משמעותי ולחזור בהדרגה לשגרה, לאימונים ולדברים שהיא כל כך אוהבת. ✨\nכי המטרה היא לא רק לטפל בכאב אלא לעזור לכם לחזור לחיים בתנועה. 🏃🏼‍♀️",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799282189_1612228493929320_8247023507186556730_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=84KmLXphlloQ7kNvwGGu6Xu&_nc_oc=AdrEBA8CBL4vSgy-X90Oz32qOKbT9nvcwmk48PiOZdrXVgskpGKTr6bTKaRr4D2EYnk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQJ14-wSsBZDaTWGP61fOTi5wjoh2qdUbfv0R8j1qMdV-w&oe=6ABF09E4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQP6Xjg4kocTsLcWiPBakWwRYygMo53Vtwr17a6Do3YKEMb3rPvj44N-zA2qxVOwInWuqvosgU00vOMTffW8fQxpmDTU9eZ0QVryusVOvQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5oaxKLoBZugQ7kNvwHYjKpW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyNDQwNTExNTE5Nzc3Mjc2LCJhc3NldF9hZ2VfZGF5cyI6MjEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQKuTLkZ27L55CWaRqSCadCSY5hHA4tUPgwChcbiHsjr-A&oe=6ABF0020"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1009948728725998"
+      },
+      {
+        "id": "1512334650932196",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "⁨\tרצינו לעצור לרגע ולהגיד תודה 🥰\n\nתודה לכל המטופלים שלנו על האמון, המילים החמות וההמלצות.\nאנחנו מעריכים כל אחד ואחת מכם, ומחכים להמשיך ללוות עוד רבים בדרך לחיים בריאים בתנועה ללא כאב. 🙏⁩",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/792520632_1625644665594651_7533275022547017283_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=COtS7QgrGR0Q7kNvwGr7caC&_nc_oc=AdoqS2SD8_JZyU63az2rItfZF1J9CcR4166xL4ePeSc88K9TJIzDixQ2_f0IgrSlZ_s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQLUbjB08lhoVBl2rCikNsHzTgzlJQDAAcvpInIHtq4bzw&oe=6ABEF7B0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQPfkOlqPLE-VAiMmq_HrZXH5sy341mfImwxylqnGxDTu6yNMKNKebgfNB1u-oAL9HewKSDMT5kHjWOOgbpwJPoYlhI2ufTpr7dhGzDjrg.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=113eNqpBMUwQ7kNvwF-GjU6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDQwNDE0NzAxOTQwMzQwLCJhc3NldF9hZ2VfZGF5cyI6NDcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJX5r7qZaNd6vaID725DpH650f6BL1PuVSn-TcKaN-iXQ&oe=6ABEF0D6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1512334650932196"
+      },
+      {
+        "id": "909003645284609",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "ב־AB PHYSIO אנחנו מאמינים שאף פעם לא מאוחר להרגיש טוב, לחזור לעשות את מה שאוהבים ולהמשיך לחיות בלי לתת לכאבים של הגוף לנהל את היום. 💪🏼\nבגיל 70, 80 ואפילו 90 אפשר להתחזק, לנוע וליהנות מאיכות חיים טובה.\nאנחנו כאן בשבילכם, בכל צעד בדרך. דברו איתנו לפרטים נוספים 📲",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799143032_2112946599353310_4411343383851522614_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iEtbB1YTZWMQ7kNvwFnFEaD&_nc_oc=Adozs86-QBL03dZsAojuv-cfmosyGCXcmgrJ70kyWtYc5JH2552NJIZjCAQl-HCYV0U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQJ3xN_rm5gS4CMkzdqRW7SlDg-4GNtbwALdo_BV5hp_xg&oe=6ABEFC40",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQPLOS3JSXzsMRc1EeATYb3l8b12yY1SamgsZ08wuLA0nToSAeJ_nCHUlc-0OcO7f-Atw8eZoJJa5EP6IpWqzH4SMZIgOzmkhFs6gOdePg.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tYvaa3ofbXgQ7kNvwHeXwb0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTA4NTA5OTc0NjU0NzA2LCJhc3NldF9hZ2VfZGF5cyI6NTQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQKNYo1SD4p_lCzJKbmPiH463o3cOWg3zaIKiO6G_NfW-Q&oe=6ABF11B9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=909003645284609"
+      },
+      {
+        "id": "1107070465170162",
+        "page_id": "831849276684294",
+        "page_name": "Ab Physio ד״ר נעם איבשיץ פיזיותרפיה",
+        "page_url": "https://www.facebook.com/61583162704118/",
+        "page_like_count": 137,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "כשמומחיות פוגשת עבודת צוות 🤝",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814575109_1416304683935988_8264777139351475090_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SE10kmMKfEAQ7kNvwH-GVMy&_nc_oc=AdqJeYj9hik4_d-pHkHkpTi5czXx0aFKqJ2jCuxGT_PZ1ydA3mzBMThVBOxoRzVDx_E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&oh=00_AQKuB0W8cZ8VnybvjkLFFm_KzhPgFaPBTu8fWRP4s0v9gA&oe=6ABF1C22",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNmb069f3fnepArCa9axVYcypPG4hOUzbhSvy5Nlxp1b7-osZy3t7B1Z5zsCL0zvl0SiMXUZDY5khZiHYqSguaKZyMgwSuvX_Ma9V-eU1HK6w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=HaI4eqvL7MkQ7kNvwE00Z81&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjEzNjEzNTk5Mjk5MjEsImFzc2V0X2FnZV9kYXlzIjoxMCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=44dd4d6bb5d245a5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOTQ1MkUyRDU0Mjc4MUUwN0M0RDk1MDgxQTA3QzVBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q5NEYxQzFFREFBRjZGRDUwOEQ0OTZGNjg4RDNDNkJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCiaavj66GBRUCKAJDMywXQETmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=GNTYZ5yfNJUHdqXx9tDAUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJbMKDrioSK2J_IBCQQhWr_EVZKMC-x29htYUdo3Hpjow&oe=6ABEF732"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1107070465170162"
+      },
+      {
+        "id": "909768745504236",
+        "body": "לא כל מקום שמטפל — באמת יודע לאבחן.\n\nב־AB PHYSIO הטיפול מתחיל באבחון מדויק,\nוממשיך בגישה שמחברת בין פיזיותרפיה, רפואה וטכנולוגיה מתקדמת.\n\nהמרפאה פועלת כיום במתחם חדש לגמרי בקריית אונו —\nעם חדרי טיפול מרווחים, ציוד מהמתקדמים בתחום\nוחדר כושר שיקומי חדש, שנבנה כדי לאפשר תהליך מלא ומדויק.\n\nהתמחות בפציעות ספורט, פציעות צבא ושיקום אורתופדי מורכב,\nבשיתוף פעולה עם רופאים מובילים באורתופדיה וברפואת הספורט.\n\nבהובלת ד״ר נועם איבשיץ,\nובהמשך ישיר למרפאה ותיקה שפועלת כבר עשרות שנים —\nעם מטופלים שחוזרים, ממליצים, וסומכים לאורך זמן.",
+        "landing_url": ""
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "909768745504236",
+        "text": "לא כל מקום שמטפל — באמת יודע לאבחן.\n\nב־AB PHYSIO הטיפול מתחיל באבחון מדויק,\nוממשיך בגישה שמחברת בין פיזיותרפיה, רפואה וטכנולוגיה מתקדמת.\n\nהמרפאה פועלת כיום במתחם חדש לגמרי בקריית אונו —\nעם חדרי טיפול מרווחים, ציוד מהמתקדמים בתחום\nוחדר כושר שיקומי חדש, שנבנה כדי לאפשר תהליך מלא ומדויק.\n\nהתמחות בפציעות ספורט, פציעות צבא ושיקום אורתופדי מורכב,\nבשיתוף פעולה עם רופאים מובילים באורתופדיה וברפואת הספורט.\n\nבהובלת ד״ר נועם איבשיץ,\nובהמשך ישיר למרפאה ותיקה שפועלת כבר עשרות שנים —\nעם מטופלים שחוזרים, ממליצים, וסומכים לאורך זמן.",
+        "links": []
+      },
+      {
+        "ad_id": "2542441786232704",
+        "text": "נפצעתם?\n\n ב־AB PHYSIO בונים תהליך שיקום שמותאם אליכם, לפציעה ולמטרות שלכם.\n 🏀 בואו לראות איך זה נראה מבפנים.",
+        "links": []
+      },
+      {
+        "ad_id": "1009948728725998",
+        "text": "דנה הגיעה אלינו בעקבות כאב חד בשכמה הימנית, שהקשה עליה לבצע בפעולות יומיומיות פשוטות.\nלאחר 4 טיפולים ב־AB PHYSIO, היא כבר התחילה להרגיש שינוי משמעותי ולחזור בהדרגה לשגרה, לאימונים ולדברים שהיא כל כך אוהבת. ✨\nכי המטרה היא לא רק לטפל בכאב אלא לעזור לכם לחזור לחיים בתנועה. 🏃🏼‍♀️",
+        "links": []
+      },
+      {
+        "ad_id": "1512334650932196",
+        "text": "⁨\tרצינו לעצור לרגע ולהגיד תודה 🥰\n\nתודה לכל המטופלים שלנו על האמון, המילים החמות וההמלצות.\nאנחנו מעריכים כל אחד ואחת מכם, ומחכים להמשיך ללוות עוד רבים בדרך לחיים בריאים בתנועה ללא כאב. 🙏⁩",
+        "links": []
+      },
+      {
+        "ad_id": "909003645284609",
+        "text": "ב־AB PHYSIO אנחנו מאמינים שאף פעם לא מאוחר להרגיש טוב, לחזור לעשות את מה שאוהבים ולהמשיך לחיות בלי לתת לכאבים של הגוף לנהל את היום. 💪🏼\nבגיל 70, 80 ואפילו 90 אפשר להתחזק, לנוע וליהנות מאיכות חיים טובה.\nאנחנו כאן בשבילכם, בכל צעד בדרך. דברו איתנו לפרטים נוספים 📲",
+        "links": []
+      },
+      {
+        "ad_id": "1107070465170162",
+        "text": "כשמומחיות פוגשת עבודת צוות 🤝",
+        "links": []
+      },
+      {
+        "ad_id": "909768745504236",
+        "text": "לא כל מקום שמטפל — באמת יודע לאבחן.\n\nב־AB PHYSIO הטיפול מתחיל באבחון מדויק,\nוממשיך בגישה שמחברת בין פיזיותרפיה, רפואה וטכנולוגיה מתקדמת.\n\nהמרפאה פועלת כיום במתחם חדש לגמרי בקריית אונו —\nעם חדרי טיפול מרווחים, ציוד מהמתקדמים בתחום\nוחדר כושר שיקומי חדש, שנבנה כדי לאפשר תהליך מלא ומדויק.\n\nהתמחות בפציעות ספורט, פציעות צבא ושיקום אורתופדי מורכב,\nבשיתוף פעולה עם רופאים מובילים באורתופדיה וברפואת הספורט.\n\nבהובלת ד״ר נועם איבשיץ,\nובהמשך ישיר למרפאה ותיקה שפועלת כבר עשרות שנים —\nעם מטופלים שחוזרים, ממליצים, וסומכים לאורך זמן.",
+        "links": []
+      },
+      {
+        "ad_id": "909768745504236",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nAb Physio ד״ר נעם איבשיץ פיזיותרפיה\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 909768745504236\nהתחילה לפעול ב-26 ביולי 2026\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nAb Physio ד״ר נעם איבשיץ פיזיותרפיה\nממומן\nלא כל מקום שמטפל — באמת יודע לאבחן.\n\nב־AB PHYSIO הטיפול מתחיל באבחון מדויק,\nוממשיך בגישה שמחברת בין פיזיותרפיה, רפואה וטכנולוגיה מתקדמת.\n\nהמרפאה פועלת כיום במתחם חדש לגמרי בקריית אונו —\nעם חדרי טיפול מרווחים, ציוד מהמתקדמים בתחום\nוחדר כושר שיקומי חדש, שנבנה כדי לאפשר תהליך מלא ומדויק.\n\nהתמחות בפציעות ספורט, פציעות צבא ושיקום אורתופדי מורכב,\nבשיתוף פעולה עם רופאים מובילים באורתופדיה וברפואת הספורט.\n\nבהובלת ד״ר נועם איבשיץ,\nובהמשך ישיר למרפאה ותיקה שפועלת כבר עשרות שנים —\nעם מטופלים שחוזרים, ממליצים, וסומכים לאורך זמן.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nChat with us\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -105,6 +363,17 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:06"
+    "rejected": "2026-09-27T15:32:06",
+    "filtered": "2026-09-27T15:38:00",
+    "unqualified": "2026-09-27T15:44:48"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

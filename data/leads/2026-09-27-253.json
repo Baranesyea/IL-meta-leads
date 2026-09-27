@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-253",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "106042091281980",
     "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
-    "active_ads_count": 1,
+    "active_ads_count": 14,
     "search_keyword": "כאבי גב",
     "sample_ads": [
       {
@@ -67,8 +67,8 @@
       ],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 14,
+      "active_ads_count_exact": true,
       "cta_types": [
         "MESSAGE_PAGE"
       ],
@@ -80,7 +80,7 @@
         "ד״ר"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "440155385812519"
     ],
@@ -92,7 +92,526 @@
     "page_categories": [
       "Orthopedist"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "440155385812519",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כאב גב מקרין לרגל, או \"סכיאטיקה\", הוא כאב שמקורו בגב התחתון, אך גם מורגש בנקודות מסוימות לאורך העצב הסכיאטי. זהו העצב הגדול ביותר בגוף, המתחיל בעמוד השדרה המותני, ממשיך לישבן ומסתיים ברגל. \n\nברוב המקרים, הכאב יעבור את הברך אל תוך השוק או כף הרגל. מצב זה הינו שם נרדף ל\"פריצת דיסק סימפטומטית\", שכן ברוב המכריע של המקרים זהו הגורם להופעת התלונות. יש לזכור כי מדובר במצב שפיר העובר לרוב עד כ-3 חודשים.\n\nהקרנת כאבי הגב לרגליים נחווית כדקירות או כנימולים/תחושת זרם ברגליים בפרקים קצרים, היכולים להימשך בין מספר ימים למספר חודשים.\n\nלרוב, ההקרנה תיחווה רק באחת הרגלי,  בהתאם לצד בעמוד השדרה בו נוצר הלחץ על העצב הסכיאטי (לרוב הצד אליו פרץ הדיסק). \n\nלמרות שכיחותו של המצב והאופי השפיר שלו, ישנם מצבים בהם ניתנת הוראה לבירור מידי או ניתוח דחוף, והם הדגלים האדומים עליהם דנו רבות. \n\nמעוניינים בפרטים נוספים? לקביעת פגישת ייעוץ עם ד\"ר מוטי קרמר, כתבו לנו בצ'אט האישי או בתגובות ונחזור אליכם בהקדם >>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1733731200,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/469777954_959452626041352_2223323577830386205_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wnH0nj0OcmsQ7kNvwEtmXih&_nc_oc=AdrckizyoTV8jrw6xTWlXeqKRxqcT7scOlXR_tY8WzHkVcAgHgqb8a-H52kWzoYMsIg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQIaa6W9sBYquEmliLvDcNMuLasBicZ91o1zzxka-FVccQ&oe=6ABF1CF7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=440155385812519"
+      },
+      {
+        "id": "399702059370177",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "חווים קושי ביציבה, דלדול של שרירי גב כף היד או הפרעה בתפקוד הידיים? ייתכן שאתם סובלים ממחלה \"סודית\" שמקורה בכלל בצוואר",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1710918000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/382980019_187755780940788_1518614731248342691_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RVeO7XNzH_MQ7kNvwHqQaot&_nc_oc=Adpxmg_JfphkS4UxJ7e5jfh_QscbPPPHUjCS1taulvWTKMsx9XsxvZ8FtQ9tdDwrWJc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQIVy2NGEN-zkrgC_E5G-UWobnsB-ZhKJlT1sSkskK8N0g&oe=6ABEEF0D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMhHjHnjpcoLMgGEDFtjPWEHdDOOOvDcAbCcUOXbPxq6oeXUfSIQt0Ba1T6d3ZuZqumkdc9TCrrG7u-laStXim1.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=TZYFYGGmRFYQ7kNvwE2VQQQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5hc2ljX2hxMl9oZF9wcm9ncmVzc2l2ZSIsInhwdl9hc3NldF9pZCI6MTA5MzIzMjczNjAyNjY0NSwiYXNzZXRfYWdlX2RheXMiOjMzNCwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQLExATnw5c0To1jBvb0SF0KzlRUQc45NbprkzyNyQRwig&oe=6ABF2644"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=399702059370177"
+      },
+      {
+        "id": "1814979125991859",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כל מה שצריך לדעת על ניתוח למינקטומיה.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1741075200,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/481466284_3041378702677587_1914906118396293874_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cYxdh--vaMAQ7kNvwG5meri&_nc_oc=AdoQRXHsHS55O7ZffMTWfGiGhFpYdqtldmGKxlg81aq8ynzgO0pCXRI90djKhSFABaQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQI171kbyxD2WN9wfteQnRONeHA0MAO8tv2jdke5s3Bc3g&oe=6ABF10D6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP54uK4cHxkeyTScUmhwKCGBMChW-qMuF4Z48nvs-PUHOrsfUSPKUHOH-ZlPPTnXyYT6kV0zkLTPfA33h2wKoer.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=KzBUa3v1s4EQ7kNvwHqSYHg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzg4ODU1MDgyODgxMjkyLCJhc3NldF9hZ2VfZGF5cyI6MzAyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQLyZJKJRUSxEe7QOPYEk_zeBvAs4EA5GCce9UEdY-EWeQ&oe=6ABF00B4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1814979125991859"
+      },
+      {
+        "id": "786126689599262",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כאבי גב - מהם הדגלים האדומים שמצריכים פנייה מיידית לרופא?",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1710918000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/354447947_226486856902329_357011283643858687_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ygBm1s80vTcQ7kNvwEjJ8x3&_nc_oc=Adoimr8zTX83Krwr1MO6hQ959CJzRyTW1i8hDOl4ZPuA6tJfpYYNKsKklRUC1KJV_lY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQIxtJV0dayrhOzQptxE3A-CDJAQYh40It-BnzLvW5Dxng&oe=6ABF2092",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM6SosiEB-9kzfZzVSA7h7Gh8PG6CIs0QRjACJBX157md3AqvPmoCARE2STEIbJGLLL_EDIBTLU_HQJnLKdeL1X.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=scKzL6EiRe0Q7kNvwHZQd71&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5hc2ljX2hxMl9oZF9wcm9ncmVzc2l2ZSIsInhwdl9hc3NldF9pZCI6MTU2NjgxNzIxNzc5MTI3NSwiYXNzZXRfYWdlX2RheXMiOjI1MSwidmlfdXNlY2FzZV9pZCI6MTA2ODAsImR1cmF0aW9uX3MiOjg0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQLoIcdCIAT7Lo5-gtYIeADxl5tt023V8kpOIpxdbKBjBg&oe=6ABEF3D9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=786126689599262"
+      },
+      {
+        "id": "959064430349656",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopaedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הצוואר והגב התחתון: אלה הם האזורים שבהם הופעת פריצת דיסק היא השכיחה ביותר. כאשר פריצת הדיסק הצווארית לוחצת על חוט השדרה, אמנם לא נרגיש כאב - אך תסמינים אחרים כמו הפרעה ביציבה וחולשה בידיים - לא יאחרו להגיע.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779951600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710226759_1026777973369863_4999495954812489665_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ok8T7JYprWoQ7kNvwHAD1p7&_nc_oc=Adp9MI63EQsdOp3jmO1exQS8r6RtJaamhUCcwNYm2Zx2xYuCDsXwvSMBgTrDvZ3LeDo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQJZTEod8Te605Guo5C-Wvulv8VouqZhNtFMqlwrWy4vWg&oe=6ABF154E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGm-0Ib-VQ2cy8p3rAGHyV1xVqqVToFzHsnN8gwKDu8mMR6IZgWGTC3OXa3_I_AqpW4TzxKACpUKhxkmB7TOwamWZKTD7HhL96fbGnHYvNcw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=r_FnZoRXwGAQ7kNvwGLIgdS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NzE0NTk5Njk4MDA0NDEsImFzc2V0X2FnZV9kYXlzIjo3NTQsInZpX3VzZWNhc2VfaWQiOjEwMTIwLCJkdXJhdGlvbl9zIjo2MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=30862ba307627c4e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzQ2MjhCRjE3NTM4N0ZBRTcxNUJDOEJCRDZCNkI4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzQyMzgxNjA0NDA0NjA0MV8zMjY5NjY4OTI0Mzg2NjE1NjQ5Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby45zZ8_HjCBUCKAJDMywXQE7EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQIpKYYpEODIbZCMoQC-7RXvDj99ZpBTI6_YpEwOGDt-DA&oe=6ABF04A1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=959064430349656"
+      },
+      {
+        "id": "1020574396915773",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "רפואה שלמה, דליה! לעוד הרבה שנים של הליכות ושל בריאות איתנה 🙏🏼",
+        "body": "רפואה שלמה, דליה! לעוד הרבה שנים של הליכות ושל בריאות איתנה 🙏🏼",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1749711600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/506238490_1721235028760351_7458432078133406625_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zLhCIT_-7JIQ7kNvwHjbSBj&_nc_oc=Adom_CKnPooG-YskuQ4xFiql17qFheJy7snkTIY8a9eKJS-9ZFx57r9-Ha3MMVdA8ME&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQI0JaIYXX8vAy2EY2UMTltkr7Vt1lXhKpst-sVBCTYBSA&oe=6ABEF5FA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/v/t42.1790-2/506365026_1020574436915769_7776399151064683432_n.?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FMIyVJRcW7gQ7kNvwHp-nWN&_nc_oc=Ado71D-3wK94g1mjPCN99NhvlEoWKz5unHew8tmaZvw_uom0pvhFK_JBFH5yeNY9qds&_nc_zt=28&_nc_ht=video-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQJOZ5W8p5JhVkpRnGpR2QZOb4_AkDL0SiYr7xb4QCixqg&oe=6ABF2402"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1020574396915773"
+      },
+      {
+        "id": "1416076040459100",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "פריצת דיסק לא תמיד מרגישה כמו “כאב בגב”. לפעמים היא בכלל מורגשת ביד או ברגל.\n\nפריצות דיסק שכיחות במיוחד בשני אזורים בעמוד השדרה: הגב התחתון והצוואר.\n\nכאשר הפריצה נמצאת בגב התחתון ולוחצת על שורש עצב, הכאב יכול להתחיל בגב או בישבן ולהקרין לאורך הרגל. לעיתים יופיעו גם נימול, תחושת שריפה, ירידה בתחושה או חולשה. פריצות מותניות רבות מערבות את שורשי העצבים L5, L4 או S1.\n\nבצוואר התמונה יכולה להיות שונה: כאב בצוואר או בשכמה שמקרין לכתף, לזרוע ועד לאצבעות, ולעיתים מלווה בנימול או בחולשה ביד. האזור המדויק שבו מרגישים את התסמינים יכול אפילו לרמוז לנו איזה שורש עצב מעורב.\n\nאבל בפריצות ובשינויים ניווניים בצוואר יש מצב נוסף שחשוב להכיר: מיאלופתיה צווארית.\n\nכאן הלחץ אינו רק על שורש עצב בודד, אלא על חוט השדרה עצמו. ולכן התסמינים יכולים להיראות אחרת לגמרי: קושי בפעולות עדינות של הידיים, נפילת חפצים, שינוי בכתב היד, חוסר יציבות בהליכה, תחושה שהרגליים “כבדות” או חולשה בגפיים. לחץ משמעותי על חוט השדרה הוא מצב שדורש הערכה רפואית.\n\nלכן כשאנחנו בודקים פריצת דיסק, השאלה היא לא רק “מה רואים ב-MRI?” אלא בעיקר — איפה היא נמצאת, על מה היא לוחצת ואיך זה מתבטא אצל המטופל.\n\nלייעוץ ואבחון מקצועי אצל ד״ר מוטי קרמר, מומחה לכירורגיה אורתופדית ומנתח עמוד שדרה - השאירו לנו מספר טלפון בצ'אט ונחזור אליכם בהקדם >>>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141573_1418300270195251_8191647606205164335_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h5IL3hAWiCAQ7kNvwH3KP4N&_nc_oc=AdoAL7vhHsHu3vJhqEfxEs-6UICbckrsB3yRTLuI2cvnUG9AU3rbe496kOPcOFvNxCM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQIucYRwx3N86jx2xNPgHFAWFjQnPSMJyZq3IZ1f84JC_w&oe=6ABF06BB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1416076040459100"
+      },
+      {
+        "id": "2192474121293869",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מה משותף לכל הניתוחים שעשינו היום?",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732421610_1372361544795044_7286458551490145278_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KXoZYIGCfvAQ7kNvwGmHmF5&_nc_oc=AdoT01KTpxd6yljyXjyAf5W5hFvop6Zyhn6z0fzTrAg-EHI6w2_0OfpkNr8pDgqadHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQIa1QDveSNyghncLNjILiCfir1IH_OGjgrf3-z9RhYJ2g&oe=6ABEF73B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOcSsXQYx3_Y5XmwW04427XpMWN4eCdFpXkwfBb71yedEZo2DhuYweYcM871RVLd_BT3qWjZA8c57gEzTvCk_RjZepfl2oWCNS-rjJwb3p7Rw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aGadCN-MHp0Q7kNvwGE8-ck&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzMTExNzIxMzA4MTYwOSwiYXNzZXRfYWdlX2RheXMiOjgyOSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=516ca6cf8ac32f05&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNTQzQUI4ODI0OTRGNDRDM0RFRUIyOTUwNTQ3Q0Q5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzQ4NTA4Mzg2Mzk3MjQxMV80OTU1NzE0NjU1MDc4NjA0ODU5Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSgL3FqYbEARUCKAJDMywXQEHiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQI8i9kEejKreAIydLO1iSRbU8NXxFjOHtcy2D_JhqRwBg&oe=6ABEF839"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2192474121293869"
+      },
+      {
+        "id": "1403343708375985",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "השילוש הקדוש של עמוד השדרה 🩻 - ההדמיה  - ⁠האנמנזה  - ⁠הבדיקה הגופנית",
+        "body": "השילוש הקדוש של עמוד השדרה 🩻\n- ההדמיה \n- ⁠האנמנזה \n- ⁠הבדיקה הגופנית",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/768581621_1267455462086965_8716081794282784665_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=roP67woLu2oQ7kNvwHKFZOj&_nc_oc=AdrArAljlAIB6vunINBmPaFTzkKAXrKOnddsbR0AIpf1WtNmLkaHpmqByxbCHrTAeu8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQJT51NWFB5ak_yTtae2mzgu09F3CNgWeUbsRxZii_ED4g&oe=6ABF0938",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNt0PzYBz-rLdcFbOOOu9iPcGcl9Ku22a0K-zIwhaDMVZnY7qYCnB2qn10PaoOLp2KCoZh5w1rn1ohYWJ58wJ5V2SWV0e_nuQBXAUhmxopubQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UrXNyOoJmtcQ7kNvwFce6ge&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDkzNDM2NzY3MzU0MTUsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjgwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b181a4d15506eb46&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CODQwMzVFMjBEMDMwMDA4RUIyMUZGMTkzNDFCQkNBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UxNEJGOUMwMTc2NDc1Qzg3MjFERTQ1NEVBRjNFMTk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu_uT31cfABRUCKAJDMywXQFQKn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQJa4MZL9HnGDPsEZ9Eu8s2sBB8zpm6ndjb2mykrOMU10g&oe=6ABEF28B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1403343708375985"
+      },
+      {
+        "id": "26712935978378588",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopaedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "באילו מקרים נחליט על ניתוח במצב של פריצת דיסק?",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779951600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709001214_962301019741928_6174734455393291181_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3PFMxhwFSCEQ7kNvwEnT3sc&_nc_oc=Adp_juPGQwjgbkYtMtX23jNtrTV6ic4YbpBBEwPCME_zq04Erj0ppAzDDXcPiMlxt3M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQLAs93kKDyiep10G85j4ZHmHcL8xvcWsDFxmdoW_tN0Ww&oe=6ABF17A8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP1VxeIjgZyksiI-vih2YG1C7pdSuwf1GQOQkXbhwAfhrhGiILDXHSHVgckNCxz9MssZqgq4lHbPO2CfTh5PA2OnHA0tKlkRTkVhnr96GJ1zA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=sskKiuW2OKoQ7kNvwEeBNJB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcxMTU4MjI4NDM2OTc1NSwiYXNzZXRfYWdlX2RheXMiOjgzMiwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b5c0defe4cdf547b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQzQ3ODdCMUY4Rjg1RThEREFDMjAwNTNGMkJDRjA4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhgzZmJfcGVybWFuZW50LzM4MTM5ODg4ODI1NDYyNl8zOTM0MjA0OTM4OTE3MTE5ODQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJra9zpTFy8MCFQIoAkMzLBdAS1mZmZmZmhgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQBlkJ4BAA&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQJx-kZGYBbueXcG-Dj3ilBk9k-AXYssQQvBhZcmXEs6kQ&oe=6ABF0D5A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26712935978378588"
+      },
+      {
+        "id": "2541878302915762",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קיבוע חוליות בעמוד השדרה נשמע לאנשים רבים כמו דבר מגביל, כשלמעשה ההפך הוא הנכון",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731754414_1284110023798579_1394936910336309240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qq5j1q_9itgQ7kNvwGUTqL7&_nc_oc=AdpsO0thX0gcU7WEtuHIyDcvowg-gWxBuzW04aVKeZOa_OInS6IgcZGXDlKNAVCgl6o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQISRwng1wfxliF3yJz30_B9bOXz65llGjuCIe8KP_BCBg&oe=6ABF21D0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQONP3Qe-H9DQ035UpPiHFPnEslMCnVVY8zkw1Cxc9dZcm_sTrW1b9ZnIOu77PrxfUGYwEpWZUhPpDL2DzcbfpzEHfjH4Wc-VGdb6NFgx1EW2w.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=iw8jULyKYNIQ7kNvwG5h9ue&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ5NzA0NjUzOTcwOTgwMiwiYXNzZXRfYWdlX2RheXMiOjc2OSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3d7d3deefaef3c2c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNjRDRkRCNTQ4MDNERUVERkU2MTUzNTZFNkZGRTQ5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhgzZmJfcGVybWFuZW50LzM4NTE2MDcxMTI3MDQ3N181MDUzMjM2NjYxMzI2ODkxMzQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJtS1_ab1g-IBFQIoAkMzLBdARXMzMzMzMxgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQBlkJ4BAA&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&_nc_zt=28&oh=00_AQJJi0FPmUsxQsuoj8WSdffET-LLPidVBmYigXZgT4rE0Q&oe=6ABF08F4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2541878302915762"
+      },
+      {
+        "id": "1576866197316560",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כאבי גב, הקרנה לרגליים, תחושת נימול או חולשה עלולים במקרים מסוימים להיגרם מלחץ על העצבים בעמוד השדרה. כאשר טיפול שמרני אינו מביא לשיפור מספק, אחת האפשרויות שעשויות להישקל היא למינקטומיה.\n\nלמינקטומיה היא ניתוח שמטרתו להקל את הלחץ על תעלת השדרה ועל שורשי העצבים. במהלך הניתוח מסירים חלק מהלמינה – החלק האחורי של החוליה – ובכך יוצרים יותר מקום לעצבים ומפחיתים את הלחץ עליהם.\n\nבאילו מצבים עשויים לשקול למינקטומיה?\n• היצרות של תעלת השדרה\n• לחץ משמעותי על שורשי עצבים\n• כאבים המקרינים לגפיים\n• נימול, חולשה או הגבלה בתפקוד\n• כאשר טיפולים שמרניים לא הביאו להקלה מספקת\n\nחשוב לדעת שלא כל כאב גב מצריך ניתוח, וגם כאשר קיימת היצרות בעמוד השדרה – ההחלטה על למינקטומיה מתקבלת רק לאחר בדיקה מקיפה, מעבר על בדיקות ההדמיה והתאמה למצבו הרפואי והתפקודי של המטופל.\n\nד״ר מוטי קרמר הוא מנתח עמוד שדרה בעל ניסיון עשיר בביצוע למינקטומיה. לקביעת פגישת ייעוץ השאירו פרטים בצאט הפרטי או בתגובות ונחזור אליכם בהקדם >>>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787197012_2566040917180196_7663083633634237838_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u0yrafVjijcQ7kNvwEmAfru&_nc_oc=AdoErmb-kNipR8AM624nqlVmf12VBjqVUp1bUwhyiFU0Yniv-zFNAYtzGcrOjBPs9mo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQJXKX7HkW15MbhleaTSKYzRJNN-upkVINrp438z09pcLw&oe=6ABF002F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1576866197316560"
+      },
+      {
+        "id": "2973952149647501",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אוסטאוארתריטיס, המכונה גם שחיקת מפרקים, יכולה להתפתח גם במפרקים הקטנים המחברים בין חוליות עמוד השדרה.\n\nככל שהשחיקה מתקדמת, הגוף עשוי להגיב ביצירת זיזי עצם, התעבות של הרצועות ושינויים נוספים במבנים הסמוכים. תהליכים אלו עלולים לצמצם בהדרגה את תעלת השדרה ואת המעברים שדרכם יוצאים שורשי העצבים — וליצור עליהם לחץ.\n\nהלחץ עשוי להתבטא בכאבי גב או צוואר, כאב שמקרין לגפיים, נימול, חולשה ולעיתים קושי בהליכה. עם זאת, לא כל שינוי ניווני שמופיע בבדיקת הדמיה גורם לתסמינים או מצריך טיפול.\n\nהאבחון מתבסס על שילוב בין התלונות, הבדיקה הגופנית וממצאי ההדמיה. בהתאם לכך ניתן לקבוע אם מקור התסמינים אכן בהיצרות ומהו הטיפול המתאים.\n\nסובלים מתסמינים שעשויים להתאים להיצרות תעלת השדרה? לקבלת פרטים נוספים וייעוץ אצל ד״ר מוטי קרמר, מנתח עמוד שדרה, השאירו מספר טלפון כאן או בהודעה פרטית ונחזור אליכם בהקדם >>>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813949461_1760435411844146_4807169451488942975_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YPXZlHcz2HYQ7kNvwG7OZez&_nc_oc=AdpurQtoqdbtYVfW0wSnppoaQJfwyPkvogqfQAJ51VWNmRX8iHNQc6Gr-Qk4dd6CHC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQKOgO7dtUN2TIpkZM3IObk4wR-4TSuuDRu7C4VYgWHIAw&oe=6ABF0457"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2973952149647501"
+      },
+      {
+        "id": "4188044688153780",
+        "page_id": "106042091281980",
+        "page_name": "ד״ר מוטי קרמר - מנתח עמוד שדרה",
+        "page_url": "https://www.facebook.com/drmotikramer/",
+        "page_like_count": 2641,
+        "page_categories": [
+          "Orthopedist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כאב גב לא אומר בהכרח שצריך להגיע מיד למנתח עמוד שדרה.\n\nברוב המקרים, הצעד הראשון הנכון הוא לפנות לאורתופד, לעבור בדיקה מסודרת ולהבין מה מקור הכאב. בהתאם לממצאים, ניתן להתחיל טיפול שמרני כמו פיזיותרפיה, התאמת פעילות או טיפול תרופתי במידת הצורך.\n\nאם אין סימנים שמצריכים התייחסות דחופה, לרוב כדאי לתת לטיפול הזה זמן, לעיתים כ־3 חודשים, לפני שפונים לייעוץ אצל מנתח עמוד שדרה.\n\nהסיבה פשוטה: חלק גדול מכאבי הגב, וגם מקרים מסוימים של פריצות דיסק, יכולים להשתפר בתקופה הזו ללא צורך בניתוח.\n\nלעומת זאת, אם הכאב לא משתפר, ממשיך להגביל את התפקוד או שמופיעים סימנים נוירולוגיים כמו חולשה, ירידה בתחושה או הפרעה בשליטה על סוגרים, חשוב לפנות להערכה מתאימה בהקדם.\n\nהמטרה היא לא לדחות טיפול, אלא להגיע למנתח עמוד שדרה בזמן שבו הייעוץ שלו באמת יכול להיות משמעותי בקבלת ההחלטה על המשך הדרך.\n\nלייעוץ, אבחון ובניית תוכנית טיפול מותאמת אישית אצל ד״ר מוטי קרמר, מומחה לכירורגיה אורתופדית ומנתח עמוד שדרה – השאירו מספר טלפון כאן או בצ'אט, ונחזור אליכם בהקדם>>>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793060641_2890511561305391_5992725469375960883_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iv3PYEphQdcQ7kNvwFWRKW6&_nc_oc=AdpV8DE1-gAT1WiChX8xyj0m53kdcq0JQnj3r5Y-JU-di0yDYdV6H26TyFEs9qQZmfw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=BXvLAGFH1MHdubSGXK-Bpw&_nc_ss=70289&oh=00_AQJbhrhiwQFNyv9RJGogQkHKY2Sd455p1XtM-eJEFoboNA&oe=6ABF0E0F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4188044688153780"
+      },
+      {
+        "id": "440155385812519",
+        "body": "כאב גב מקרין לרגל, או \"סכיאטיקה\", הוא כאב שמקורו בגב התחתון, אך גם מורגש בנקודות מסוימות לאורך העצב הסכיאטי. זהו העצב הגדול ביותר בגוף, המתחיל בעמוד השדרה המותני, ממשיך לישבן ומסתיים ברגל. \n\nברוב המקרים, הכאב יעבור את הברך אל תוך השוק או כף הרגל. מצב זה הינו שם נרדף ל\"פריצת דיסק סימפטומטית\", שכן ברוב המכריע של המקרים זהו הגורם להופעת התלונות. יש לזכור כי מדובר במצב שפיר העובר לרוב עד כ-3 חודשים.\n\nהקרנת כאבי הגב לרגליים נחווית כדקירות או כנימולים/תחושת זרם ברגליים בפרקים קצרים, היכולים להימשך בין מספר ימים למספר חודשים.\n\nלרוב, ההקרנה תיחווה רק באחת הרגלי,  בהתאם לצד בעמוד השדרה בו נוצר הלחץ על העצב הסכיאטי (לרוב הצד אליו פרץ הדיסק). \n\nלמרות שכיחותו של המצב והאופי השפיר שלו, ישנם מצבים בהם ניתנת הוראה לבירור מידי או ניתוח דחוף, והם הדגלים האדומים עליהם דנו רבות. \n\nמעוניינים בפרטים נוספים? לקביעת פגישת ייעוץ עם ד\"ר מוטי קרמר, כתבו לנו בצ'אט האישי או בתגובות ונחזור אליכם בהקדם >>",
+        "landing_url": ""
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "440155385812519",
+        "text": "כאב גב מקרין לרגל, או \"סכיאטיקה\", הוא כאב שמקורו בגב התחתון, אך גם מורגש בנקודות מסוימות לאורך העצב הסכיאטי. זהו העצב הגדול ביותר בגוף, המתחיל בעמוד השדרה המותני, ממשיך לישבן ומסתיים ברגל. \n\nברוב המקרים, הכאב יעבור את הברך אל תוך השוק או כף הרגל. מצב זה הינו שם נרדף ל\"פריצת דיסק סימפטומטית\", שכן ברוב המכריע של המקרים זהו הגורם להופעת התלונות. יש לזכור כי מדובר במצב שפיר העובר לרוב עד כ-3 חודשים.\n\nהקרנת כאבי הגב לרגליים נחווית כדקירות או כנימולים/תחושת זרם ברגליים בפרקים קצרים, היכולים להימשך בין מספר ימים למספר חודשים.\n\nלרוב, ההקרנה תיחווה רק באחת הרגלי,  בהתאם לצד בעמוד השדרה בו נוצר הלחץ על העצב הסכיאטי (לרוב הצד אליו פרץ הדיסק). \n\nלמרות שכיחותו של המצב והאופי השפיר שלו, ישנם מצבים בהם ניתנת הוראה לבירור מידי או ניתוח דחוף, והם הדגלים האדומים עליהם דנו רבות. \n\nמעוניינים בפרטים נוספים? לקביעת פגישת ייעוץ עם ד\"ר מוטי קרמר, כתבו לנו בצ'אט האישי או בתגובות ונחזור אליכם בהקדם >>",
+        "links": []
+      },
+      {
+        "ad_id": "399702059370177",
+        "text": "חווים קושי ביציבה, דלדול של שרירי גב כף היד או הפרעה בתפקוד הידיים? ייתכן שאתם סובלים ממחלה \"סודית\" שמקורה בכלל בצוואר",
+        "links": []
+      },
+      {
+        "ad_id": "1814979125991859",
+        "text": "כל מה שצריך לדעת על ניתוח למינקטומיה.",
+        "links": []
+      },
+      {
+        "ad_id": "786126689599262",
+        "text": "כאבי גב - מהם הדגלים האדומים שמצריכים פנייה מיידית לרופא?",
+        "links": []
+      },
+      {
+        "ad_id": "959064430349656",
+        "text": "הצוואר והגב התחתון: אלה הם האזורים שבהם הופעת פריצת דיסק היא השכיחה ביותר. כאשר פריצת הדיסק הצווארית לוחצת על חוט השדרה, אמנם לא נרגיש כאב - אך תסמינים אחרים כמו הפרעה ביציבה וחולשה בידיים - לא יאחרו להגיע.",
+        "links": []
+      },
+      {
+        "ad_id": "1020574396915773",
+        "text": "רפואה שלמה, דליה! לעוד הרבה שנים של הליכות ושל בריאות איתנה 🙏🏼",
+        "links": []
+      },
+      {
+        "ad_id": "1416076040459100",
+        "text": "פריצת דיסק לא תמיד מרגישה כמו “כאב בגב”. לפעמים היא בכלל מורגשת ביד או ברגל.\n\nפריצות דיסק שכיחות במיוחד בשני אזורים בעמוד השדרה: הגב התחתון והצוואר.\n\nכאשר הפריצה נמצאת בגב התחתון ולוחצת על שורש עצב, הכאב יכול להתחיל בגב או בישבן ולהקרין לאורך הרגל. לעיתים יופיעו גם נימול, תחושת שריפה, ירידה בתחושה או חולשה. פריצות מותניות רבות מערבות את שורשי העצבים L5, L4 או S1.\n\nבצוואר התמונה יכולה להיות שונה: כאב בצוואר או בשכמה שמקרין לכתף, לזרוע ועד לאצבעות, ולעיתים מלווה בנימול או בחולשה ביד. האזור המדויק שבו מרגישים את התסמינים יכול אפילו לרמוז לנו איזה שורש עצב מעורב.\n\nאבל בפריצות ובשינויים ניווניים בצוואר יש מצב נוסף שחשוב להכיר: מיאלופתיה צווארית.\n\nכאן הלחץ אינו רק על שורש עצב בודד, אלא על חוט השדרה עצמו. ולכן התסמינים יכולים להיראות אחרת לגמרי: קושי בפעולות עדינות של הידיים, נפילת חפצים, שינוי בכתב היד, חוסר יציבות בהליכה, תחושה שהרגליים “כבדות” או חולשה בגפיים. לחץ משמעותי על חוט השדרה הוא מצב שדורש הערכה רפואית.\n\nלכן כשאנחנו בודקים פריצת דיסק, השאלה היא לא רק “מה רואים ב-MRI?” אלא בעיקר — איפה היא נמצאת, על מה היא לוחצת ואיך זה מתבטא אצל המטופל.\n\nלייעוץ ואבחון מקצועי אצל ד״ר מוטי קרמר, מומחה לכירורגיה אורתופדית ומנתח עמוד שדרה - השאירו לנו מספר טלפון בצ'אט ונחזור אליכם בהקדם >>>",
+        "links": []
+      },
+      {
+        "ad_id": "2192474121293869",
+        "text": "מה משותף לכל הניתוחים שעשינו היום?",
+        "links": []
+      },
+      {
+        "ad_id": "1403343708375985",
+        "text": "השילוש הקדוש של עמוד השדרה 🩻\n- ההדמיה \n- ⁠האנמנזה \n- ⁠הבדיקה הגופנית",
+        "links": []
+      },
+      {
+        "ad_id": "26712935978378588",
+        "text": "באילו מקרים נחליט על ניתוח במצב של פריצת דיסק?",
+        "links": []
+      },
+      {
+        "ad_id": "2541878302915762",
+        "text": "קיבוע חוליות בעמוד השדרה נשמע לאנשים רבים כמו דבר מגביל, כשלמעשה ההפך הוא הנכון",
+        "links": []
+      },
+      {
+        "ad_id": "1576866197316560",
+        "text": "כאבי גב, הקרנה לרגליים, תחושת נימול או חולשה עלולים במקרים מסוימים להיגרם מלחץ על העצבים בעמוד השדרה. כאשר טיפול שמרני אינו מביא לשיפור מספק, אחת האפשרויות שעשויות להישקל היא למינקטומיה.\n\nלמינקטומיה היא ניתוח שמטרתו להקל את הלחץ על תעלת השדרה ועל שורשי העצבים. במהלך הניתוח מסירים חלק מהלמינה – החלק האחורי של החוליה – ובכך יוצרים יותר מקום לעצבים ומפחיתים את הלחץ עליהם.\n\nבאילו מצבים עשויים לשקול למינקטומיה?\n• היצרות של תעלת השדרה\n• לחץ משמעותי על שורשי עצבים\n• כאבים המקרינים לגפיים\n• נימול, חולשה או הגבלה בתפקוד\n• כאשר טיפולים שמרניים לא הביאו להקלה מספקת\n\nחשוב לדעת שלא כל כאב גב מצריך ניתוח, וגם כאשר קיימת היצרות בעמוד השדרה – ההחלטה על למינקטומיה מתקבלת רק לאחר בדיקה מקיפה, מעבר על בדיקות ההדמיה והתאמה למצבו הרפואי והתפקודי של המטופל.\n\nד״ר מוטי קרמר הוא מנתח עמוד שדרה בעל ניסיון עשיר בביצוע למינקטומיה. לקביעת פגישת ייעוץ השאירו פרטים בצאט הפרטי או בתגובות ונחזור אליכם בהקדם >>>",
+        "links": []
+      },
+      {
+        "ad_id": "2973952149647501",
+        "text": "אוסטאוארתריטיס, המכונה גם שחיקת מפרקים, יכולה להתפתח גם במפרקים הקטנים המחברים בין חוליות עמוד השדרה.\n\nככל שהשחיקה מתקדמת, הגוף עשוי להגיב ביצירת זיזי עצם, התעבות של הרצועות ושינויים נוספים במבנים הסמוכים. תהליכים אלו עלולים לצמצם בהדרגה את תעלת השדרה ואת המעברים שדרכם יוצאים שורשי העצבים — וליצור עליהם לחץ.\n\nהלחץ עשוי להתבטא בכאבי גב או צוואר, כאב שמקרין לגפיים, נימול, חולשה ולעיתים קושי בהליכה. עם זאת, לא כל שינוי ניווני שמופיע בבדיקת הדמיה גורם לתסמינים או מצריך טיפול.\n\nהאבחון מתבסס על שילוב בין התלונות, הבדיקה הגופנית וממצאי ההדמיה. בהתאם לכך ניתן לקבוע אם מקור התסמינים אכן בהיצרות ומהו הטיפול המתאים.\n\nסובלים מתסמינים שעשויים להתאים להיצרות תעלת השדרה? לקבלת פרטים נוספים וייעוץ אצל ד״ר מוטי קרמר, מנתח עמוד שדרה, השאירו מספר טלפון כאן או בהודעה פרטית ונחזור אליכם בהקדם >>>",
+        "links": []
+      },
+      {
+        "ad_id": "4188044688153780",
+        "text": "כאב גב לא אומר בהכרח שצריך להגיע מיד למנתח עמוד שדרה.\n\nברוב המקרים, הצעד הראשון הנכון הוא לפנות לאורתופד, לעבור בדיקה מסודרת ולהבין מה מקור הכאב. בהתאם לממצאים, ניתן להתחיל טיפול שמרני כמו פיזיותרפיה, התאמת פעילות או טיפול תרופתי במידת הצורך.\n\nאם אין סימנים שמצריכים התייחסות דחופה, לרוב כדאי לתת לטיפול הזה זמן, לעיתים כ־3 חודשים, לפני שפונים לייעוץ אצל מנתח עמוד שדרה.\n\nהסיבה פשוטה: חלק גדול מכאבי הגב, וגם מקרים מסוימים של פריצות דיסק, יכולים להשתפר בתקופה הזו ללא צורך בניתוח.\n\nלעומת זאת, אם הכאב לא משתפר, ממשיך להגביל את התפקוד או שמופיעים סימנים נוירולוגיים כמו חולשה, ירידה בתחושה או הפרעה בשליטה על סוגרים, חשוב לפנות להערכה מתאימה בהקדם.\n\nהמטרה היא לא לדחות טיפול, אלא להגיע למנתח עמוד שדרה בזמן שבו הייעוץ שלו באמת יכול להיות משמעותי בקבלת ההחלטה על המשך הדרך.\n\nלייעוץ, אבחון ובניית תוכנית טיפול מותאמת אישית אצל ד״ר מוטי קרמר, מומחה לכירורגיה אורתופדית ומנתח עמוד שדרה – השאירו מספר טלפון כאן או בצ'אט, ונחזור אליכם בהקדם>>>",
+        "links": []
+      },
+      {
+        "ad_id": "440155385812519",
+        "text": "כאב גב מקרין לרגל, או \"סכיאטיקה\", הוא כאב שמקורו בגב התחתון, אך גם מורגש בנקודות מסוימות לאורך העצב הסכיאטי. זהו העצב הגדול ביותר בגוף, המתחיל בעמוד השדרה המותני, ממשיך לישבן ומסתיים ברגל. \n\nברוב המקרים, הכאב יעבור את הברך אל תוך השוק או כף הרגל. מצב זה הינו שם נרדף ל\"פריצת דיסק סימפטומטית\", שכן ברוב המכריע של המקרים זהו הגורם להופעת התלונות. יש לזכור כי מדובר במצב שפיר העובר לרוב עד כ-3 חודשים.\n\nהקרנת כאבי הגב לרגליים נחווית כדקירות או כנימולים/תחושת זרם ברגליים בפרקים קצרים, היכולים להימשך בין מספר ימים למספר חודשים.\n\nלרוב, ההקרנה תיחווה רק באחת הרגלי,  בהתאם לצד בעמוד השדרה בו נוצר הלחץ על העצב הסכיאטי (לרוב הצד אליו פרץ הדיסק). \n\nלמרות שכיחותו של המצב והאופי השפיר שלו, ישנם מצבים בהם ניתנת הוראה לבירור מידי או ניתוח דחוף, והם הדגלים האדומים עליהם דנו רבות. \n\nמעוניינים בפרטים נוספים? לקביעת פגישת ייעוץ עם ד\"ר מוטי קרמר, כתבו לנו בצ'אט האישי או בתגובות ונחזור אליכם בהקדם >>",
+        "links": []
+      },
+      {
+        "ad_id": "440155385812519",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nד״ר מוטי קרמר - מנתח עמוד שדרה\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 440155385812519\nהתחילה לפעול ב-9 בדצמ' 2024\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nד״ר מוטי קרמר - מנתח עמוד שדרה\nממומן\nכאב גב מקרין לרגל, או \"סכיאטיקה\", הוא כאב שמקורו בגב התחתון, אך גם מורגש בנקודות מסוימות לאורך העצב הסכיאטי. זהו העצב הגדול ביותר בגוף, המתחיל בעמוד השדרה המותני, ממשיך לישבן ומסתיים ברגל. \n\nברוב המקרים, הכאב יעבור את הברך אל תוך השוק או כף הרגל. מצב זה הינו שם נרדף ל\"פריצת דיסק סימפטומטית\", שכן ברוב המכריע של המקרים זהו הגורם להופעת התלונות. יש לזכור כי מדובר במצב שפיר העובר לרוב עד כ-3 חודשים.\n\nהקרנת כאבי הגב לרגליים נחווית כדקירות או כנימולים/תחושת זרם ברגליים בפרקים קצרים, היכולים להימשך בין מספר ימים למספר חודשים.\n\nלרוב, ההקרנה תיחווה רק באחת הרגלי,  בהתאם לצד בעמוד השדרה בו נוצר הלחץ על העצב הסכיאטי (לרוב הצד אליו פרץ הדיסק). \n\nלמרות שכיחותו של המצב והאופי השפיר שלו, ישנם מצבים בהם ניתנת הוראה לבירור מידי או ניתוח דחוף, והם הדגלים האדומים עליהם דנו רבות. \n\nמעוניינים בפרטים נוספים? לקביעת פגישת ייעוץ עם ד\"ר מוטי קרמר, כתבו לנו בצ'אט האישי או בתגובות ונחזור אליכם בהקדם >>\nד״ר מוטי קרמר - מנתח עמוד שדרה\nOrthopedist\nשליחת הודעה\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -106,6 +625,17 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:31:33"
+    "rejected": "2026-09-27T15:31:33",
+    "filtered": "2026-09-27T15:36:42",
+    "unqualified": "2026-09-27T15:43:27"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

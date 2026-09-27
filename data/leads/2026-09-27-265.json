@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-265",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "268742646562059",
     "page_name": "מכון ציון אורטופדיה בצפון",
-    "active_ads_count": 1,
+    "active_ads_count": 3,
     "search_keyword": "כאבי גב",
     "sample_ads": [
       {
@@ -70,8 +70,8 @@
       "product_hits": [],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
       "cta_types": [
         "LEARN_MORE"
       ],
@@ -82,7 +82,7 @@
         "מכון"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1479272217009654"
     ],
@@ -94,7 +94,153 @@
     "page_categories": [
       "Local business"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1479272217009654",
+        "page_id": "268742646562059",
+        "page_name": "מכון ציון אורטופדיה בצפון",
+        "page_url": "https://www.facebook.com/tzionshoes/",
+        "page_like_count": 1350,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "לתיאום אבחון כף רגל ללא עלות >>",
+        "body": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "link_description": "זה הזמן לתת שקט לכפות הרגליים ולהגיד שלום לכאבים!",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777446000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615822657_1583374342976958_1560067476028081138_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nouxtMCzUKMQ7kNvwEtFY7u&_nc_oc=Adp9Q_53SdCS9AzBGSubaRq0vyzU5MJp-EyJoxW1_ihAgjzsFTt8pLxZDZ84zQHDyqE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&oh=00_AQL8C7LLlGzsNrvOj34t6zPOUTEGOYYsMuoK8meTca8JqA&oe=6ABEF301",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNWM5RszPT845zPzRE5U5-9Cvvy48G_MyDp-cxIlpTBTNV6_H0IOKuFhXhfTPy_ycLvVU2IVY_N7_AYUTZhBDSz.mp4?strext=1&_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=x6ciDiXyOfYQ7kNvwF0Lxt4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODkxMDM1OTE5MjMzMzEsImFzc2V0X2FnZV9kYXlzIjoyNDksInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9636130bcc9defe&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTmFjdHlSNFJtZllHU3dEQUhvWGJrblBRUUVsYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg2NDFGOTIwMjRCMjY5NzY2RDA0MzRBOTlBQkU3NEI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG-uSW0r_0PxUCKAJDMywXQEPMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdQBlrMEBAA&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL-kvq87kOfXKlaOFleCa6XiIDVI03zCmjtGWZod3qMeA&oe=6ABEFB98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1479272217009654"
+      },
+      {
+        "id": "919197553814963",
+        "page_id": "268742646562059",
+        "page_name": "מכון ציון אורטופדיה בצפון",
+        "page_url": "https://www.facebook.com/tzionshoes/",
+        "page_like_count": 1350,
+        "page_categories": [
+          "עסק מקומי"
+        ],
+        "ad_creative_link_title": "לתיאום אבחון כף רגל ללא עלות >>",
+        "body": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "link_description": "זה הזמן לתת שקט לכפות הרגליים ולהגיד שלום לכאבים!",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784790000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/754620329_1988574932531333_609210937871437260_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=byRBLCsuSDEQ7kNvwGzkXu6&_nc_oc=AdoVvvifsZQZdb7a2_pEi_5TSMYhqxtP4t462z584U1cBCv9vo1fpA6HKPvGYfLrRLo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&oh=00_AQIiTRrRvu7NScLwV-n4EaFV2O2sheF2wZhJcOzjyCVCMg&oe=6ABF0886",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNWM5RszPT845zPzRE5U5-9Cvvy48G_MyDp-cxIlpTBTNV6_H0IOKuFhXhfTPy_ycLvVU2IVY_N7_AYUTZhBDSz.mp4?strext=1&_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=x6ciDiXyOfYQ7kNvwF0Lxt4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODkxMDM1OTE5MjMzMzEsImFzc2V0X2FnZV9kYXlzIjoyNDksInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9636130bcc9defe&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTmFjdHlSNFJtZllHU3dEQUhvWGJrblBRUUVsYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg2NDFGOTIwMjRCMjY5NzY2RDA0MzRBOTlBQkU3NEI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG-uSW0r_0PxUCKAJDMywXQEPMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdQBlrMEBAA&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL-kvq87kOfXKlaOFleCa6XiIDVI03zCmjtGWZod3qMeA&oe=6ABEFB98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=919197553814963"
+      },
+      {
+        "id": "1653108992287120",
+        "page_id": "268742646562059",
+        "page_name": "מכון ציון אורטופדיה בצפון",
+        "page_url": "https://www.facebook.com/tzionshoes/",
+        "page_like_count": 1350,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "לתיאום אבחון כף רגל למדרסים ללא עלות >>",
+        "body": "אם אתם מרגישים כאב – יש לזה סיבה. \nוכמו כל בעיה רפואית, גם פה צריך קודם כל להבין מה גורם לה.\nאנחנו לא כאן כדי \"למכור מדרסים\" - אנחנו כאן כדי לעזור לכם להרגיש יותר טוב.\n\nסובלים מכאבי גב, ברכיים או כאבים בכפות הרגליים?\nהמדרסים שאנו מייצרים מותאמים אישית – לא רק לרגל, אלא גם לבעיה שאתם סוחבים איתכם.\n\nזה הזמן לתת שקט לכפות הרגליים\nלתיאום אבחון כף רגל מקצועי ללא עלות הקליקו כאן >>",
+        "link_description": "אם אתם מרגישים כאב – יש לזה סיבה. \nוכמו כל בעיה רפואית, גם פה צריך קודם כל להבין מה גורם לה.\nאנחנו לא כאן כדי \"למכור מדרסים\" - אנחנו כאן כדי לעזור לכם להרגיש יותר טוב.\n\nסובלים מכאבי גב, ברכיים או כאבים בכפות הרגליים?\nהמדרסים שאנו מייצרים מותאמים אישית – לא רק לרגל, אלא גם לבעיה שאתם סוחבים איתכם.",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777446000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/529278269_769722705839397_5192844144157642286_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ksjp4YZFmQ8Q7kNvwFIU0Q5&_nc_oc=AdqOTJ7J2VrTl-Olmjp39x3809NZW7uFOmRPSWURnwxll4kh_aHxSYJLtWeDvc_zJWY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&oh=00_AQIa9bH4cE9e_GgwIQWTaTb0LQMvzNKkQ_8-8Zeua7Xj8w&oe=6ABF1EE4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMyMMS-edtiJgRpwJCe79OM4I_wzLwWu1CtfuFtATV0I33F1niAevl7PFklaLaIcrBNYzjSEsUIIVjqqDOIU7S8d7ACIScI14oE8ryWJqE04g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mpg3inyyfbIQ7kNvwHJM5Gd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc0Mjc3ODY5MTk4Nzc4OSwiYXNzZXRfYWdlX2RheXMiOjQxNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2fc785d9e042d466&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRjQyQTU1Mjg2M0VGNEMxRDg1Mzc4M0YyNEUwNDQ5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBCNDk5MTIxNjFDN0VBRjU4OUFFQ0E3RTdCNzdFMjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaapanBtOPRAhUCKAJDMywXQEE7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=GYveXux130V5el8Xa2wUyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL51gmYKKAxVtjnDBAGdf6HSAjs87SsZxbUklk3qCz9ZA&oe=6ABEFA5D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1653108992287120"
+      },
+      {
+        "id": "1479272217009654",
+        "body": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "landing_url": "http://fb.me/"
+      }
+    ],
+    "social_landings": [
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1479272217009654",
+        "text": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "919197553814963",
+        "text": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1653108992287120",
+        "text": "אם אתם מרגישים כאב – יש לזה סיבה. \nוכמו כל בעיה רפואית, גם פה צריך קודם כל להבין מה גורם לה.\nאנחנו לא כאן כדי \"למכור מדרסים\" - אנחנו כאן כדי לעזור לכם להרגיש יותר טוב.\n\nסובלים מכאבי גב, ברכיים או כאבים בכפות הרגליים?\nהמדרסים שאנו מייצרים מותאמים אישית – לא רק לרגל, אלא גם לבעיה שאתם סוחבים איתכם.\n\nזה הזמן לתת שקט לכפות הרגליים\nלתיאום אבחון כף רגל מקצועי ללא עלות הקליקו כאן >>",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1479272217009654",
+        "text": "גרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1479272217009654",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nמכון ציון אורטופדיה בצפון\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1479272217009654\nהתחילה לפעול ב-29 באפר' 2026\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nמכון ציון אורטופדיה בצפון\nממומן\nגרים בראש פינה והסביבה? הסרטון הזה בשבילכם!📢\nאם אתם סובלים מכאבי גב, כאבי ברכיים או כאבים בכפות הרגליים,\nזה הזמן להכיר את מכון ציון אורטופדיה - עם ותק וניסיון מ-1971 ועד היום \nאנחנו נבצע עבורכם אבחון כף רגל מקיף ללא עלות הכולל בדיקה במעבדת הליכה מתקדמת\nונייצר לכם מדרס בהתאמה אישית מלאה שישים סוף לכאבים ויחזיר לכם את איכות החיים!\n\nלתיאום אבחון כף רגל ללא עלות השאירו פרטים >>\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nFB.ME\nלתיאום אבחון כף רגל ללא עלות >>\nזה הזמן לתת שקט לכפות הרגליים ולהגיד שלום לכאבים!\nמידע נוסף\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -108,6 +254,17 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:31:33"
+    "rejected": "2026-09-27T15:31:33",
+    "filtered": "2026-09-27T15:37:05",
+    "unqualified": "2026-09-27T15:43:47"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-289",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "347158648646781",
     "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
-    "active_ads_count": 1,
+    "active_ads_count": 18,
     "search_keyword": "פיזיותרפיה",
     "sample_ads": [
       {
@@ -70,8 +70,8 @@
       ],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 18,
+      "active_ads_count_exact": true,
       "cta_types": [
         "LEARN_MORE"
       ],
@@ -84,7 +84,7 @@
         "שיקום"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "855924297243123"
     ],
@@ -96,7 +96,575 @@
     "page_categories": [
       "Medical Center"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1002986248753793",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://healthyaging.co.il/%D7%92%D7%A8%D7%99%D7%90%D7%98%D7%A8%D7%99%D7%94-%D7%95%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%92%D7%A8%D7%99%D7%90%D7%98%D7%A8%D7%99%D7%94/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780383600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710710212_1364083838951292_5187294066239220128_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xOD5UfW1-rgQ7kNvwE-GBqK&_nc_oc=AdqBrAv910M1Q8Sed0g7c-mjbQJ-gPi1IeOnQYNoCFUKrgQGitypMk95IgA0iYrN8IU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQKz2tnkn-mL-HSg4yGLq15VCyLvtS0Wo1gx_AmgqLiymg&oe=6ABF0D10",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711602015_1620723403024779_4793549138876633013_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SUlldVMwcVoQ7kNvwHC0dBa&_nc_oc=AdraHjRHRRkJsfnAy9I_xVzMQhnvCkLqyW1lZau7kPwMu3HgdORb_F6QaUzSHK5XGBY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQL1try8FyeWclLv3UI_ETbSubK9yO_5lhzIF2PnLSt2mw&oe=6ABF1B52"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002986248753793"
+      },
+      {
+        "id": "855924297243123",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "פיזיותרפיה לגיל השלישי",
+        "body": "במרכז בשיבה בריאה אנחנו מנהלים את הטיפול עבורכם, ומתאימים לכם את הפיזיותרפיסטים המומחים בגיל השלישי שיגיעו אליכם עד הבית. טיפול בסרקופניה, בעיות שיווי משקל, מניעת נפילות, בעיות צפיפות עצם ושיקום בבית - בואו לראות איך אנחנו יכולים לעזור.",
+        "link_description": "",
+        "landing_url": "https://services.healthyaging.co.il/%D7%A9%D7%99%D7%9E%D7%95%D7%A8-%D7%99%D7%9B%D7%95%D7%9C%D7%95%D7%AA/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1768464000,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/616819036_1699540594756221_5149083272994077741_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FJ6KfkDOgrkQ7kNvwGmV6Io&_nc_oc=AdpGt7_dQyk_txD5ctQtWybfUvInNtteLC7Q56UZqjc7d-uYIcdOiC16vAN3s0jJvOM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQKubd3q4G-ZyPOabo2BB9vYyeJ7zZZ20UuY0_XrIMkiEA&oe=6ABF257F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO0PsvHgRXEoeTBXk-Fdb1S4H3RYh--qB74WuuyLw2aJV4OOD_b5cbHSKE-vGrHKt-JN6rEp1jr22nnhZhlB2MJFkTm2xhJl0mmFOujagBUSg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=vUcha9C_ikYQ7kNvwG-CYKX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNjUwODUzMDM5ODExMzAsImFzc2V0X2FnZV9kYXlzIjoyNTUsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6be2f353d791b65e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ0OTNGMUQwNTBDQUI5QzdGMzdEQTZGMzVBODg5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDVDQTk4NTg5OUJCMjc5N0IwNUMwRURCMEM1NTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUkfDOqIWGCBUCKAJDMywXQESzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQKY0DAQqI-Z1aeo0HG3m3fDlCqCbkSL_tKSeBiwBUvqmg&oe=6ABEF11D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=855924297243123"
+      },
+      {
+        "id": "1589898322361538",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "פעילות כושר בשיבה בריאה",
+        "body": "במכרז ״בשיבה בריאה״ אנחנו מאמינים שלכל אחד בכל גיל מגיע אורח חיים פעיל, ושמירה על הכושר והיכולות הם המפתח. אנחנו מציעים אימוני כושר וטיפולים מותאמים במיוחד לגיל השלישי בחדר טיפולים בוטיקי, עם פיזיותרפיסטים וספורטתרפיסטים מומחים. הפעילות מתאימה לכולם - מי שרוצה לשמור על כושר, להימנע מנפילות או מי שיש לו צורך בשיקום.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1768377600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615989670_2079958286091574_8283620192171093104_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xc1Rnc2oItoQ7kNvwFpeBWT&_nc_oc=Adqz-lJbCUdoA_DxM1xBnY1s_1RjKuvBqkTmTXWWcd-Quy7ZU9tn8sRs3wf_P8sNhC8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJQnJxypSGAQRUGhTSCwqYO7XGLBUSfOARhlToDJjhf9g&oe=6ABF053D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOqL8d4I6py082Aln5xj1MoHxwbc9VI09gnXkXXpJosa4SvD4LsQF1Jeh9w_x2K3n8tLYm6LXgSctfHjpFcr-pInQh3ZLFLfRiOnH3jWpv8uQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3Vu6oD0NB7QQ7kNvwF6PoRc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNDQ1NjU4ODYzMzI2NTQsImFzc2V0X2FnZV9kYXlzIjoyNjIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=abb5cefccc8bf456&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERTRFQUI4NTA4RjdFMjczQjFCQTNCMDkxMjU0QkVCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIwNDAwOTQ5N0QwRjM1MjNCMkZENTI4ODIzQzI4RkIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcu__1suGhBxUCKAJDMywXQEczMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQLKWWpPzqAfbG4T7cw98X3EETtMN5RrO6gIWPkiR52oEw&oe=6ABF013E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1589898322361538"
+      },
+      {
+        "id": "2914739002054990",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "",
+        "body": "במכרז ״בשיבה בריאה״ אנחנו מאמינים שלכל אחד בכל גיל מגיע אורח חיים פעיל, ושמירה על הכושר והיכולות הם המפתח. אנחנו מציעים אימוני כושר וטיפולים מותאמים במיוחד לגיל השלישי בחדר טיפולים בוטיקי, עם פיזיותרפיסטים וספורטתרפיסטים מומחים. הפעילות מתאימה לכולם - מי שרוצה לשמור על כושר, להימנע מנפילות או מי שיש לו צורך בשיקום.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1768377600,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615845670_898669669195932_6808991017431856676_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qtxOX8qpDTQQ7kNvwHdLbIE&_nc_oc=AdraW9X_TG_Rxl23euQ9rZOMZomjbitXuC21pUhHXdETX1OJe4gaLNwfOikEZVrAqEY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQL0fX03dtDp-hP-amFyJFeODZDVUW6fUQrGdQvklXcc7Q&oe=6ABEF35A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOlCKa0SudXlla86QivX8SuDuhSnEpD-gVxbSRj5_ktkuq7yLH4nQaQFEVNILcX95y7_uHQyYfW7VeZ0gCXg14wREDYSMmZu2Zzapg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=X6DuZ1tWeGQQ7kNvwHP-Ldo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODU4MjIxNzM3MTk0NzkwLCJhc3NldF9hZ2VfZGF5cyI6MjYyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=296e8190734caa9c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMzRFN0Y0QUY0MEY2NTE3NjZBRTVCMTNEN0JDNTc5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDIwMDUyMTYxNzgxMThfMjUwNzQzMjUzMDI0NjY1MzEyOS5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmzNTFnIqjhgMVAigCQzMsF0BHMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHUAZeadAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQIYtcsovmt52w-Aywg_7WFmmIAwipkF5RtGMGpRqgNQGQ&oe=6ABB0942"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2914739002054990"
+      },
+      {
+        "id": "2879867122355520",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724390968_2434838390347162_8235099359256905430_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pLukzX1E2CkQ7kNvwFaUiRs&_nc_oc=Adrh_-SGnntxekOy37NFeyIERY8jK7Ywx-h89JAvX7jotWEZRIytuMJj8rotqRLd7ao&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJq_uWewwl3TMaj7gUoj3jG2maTf-tGZBBaUp2aFaFfqw&oe=6ABEFB68"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2879867122355520"
+      },
+      {
+        "id": "834826592710445",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו >>>",
+        "body": "אימוני שיווי משקל לגיל השלישי בקבוצות קטנות, בסטודיו ייעודי במרכז תל אביב.\nחיזוק היציבה, השרירים והביטחון בתנועהאימוני שיווי משקל לגיל השלישי בקבוצות קטנות, בסטודיו ייעודי במרכז תל אביב.\nחיזוק היציבה, השרירים והביטחון בתנועה",
+        "link_description": "כי הבריאות שלכם חשובה לנו",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1767168000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/600379586_2081953022580795_7433240068040986979_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwh5F3YJK_8Q7kNvwFHVA-x&_nc_oc=AdosOZWs4kGyWZnMBhvNobRjpyEyLb4I7ezXlcnhvF3KTb1FID_OAbFwKamyDQ2yg6U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJaBEaiJwfZk4E-YnclW0ENZyXeHtUi4VSQQoVGdXSTYQ&oe=6ABF00A9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=834826592710445"
+      },
+      {
+        "id": "1102552316283244",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/719822552_2787565334958218_2193948215800054921_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lZni7AxRc7QQ7kNvwHQzR3a&_nc_oc=AdpU3Ge9FKCSOoopA8YnN4JKpcFSu22IATfqywR6UPHPzfShxW5XGZHgk93bF1REQHU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQIhas_DR5fm_Py7LR2uw85drbdVvn7cCVu2I0auC_3tSw&oe=6ABF218C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOlelsA7sbbof996qsNhHotfhaCzipiU0GqBBLzq8l7enEAzlFFQtyv0JlBQbRVWbG8GJjQSIpFsVdl1kx-_ATw2lwgZ3fZfLt762FRhCM_HQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EHu-ww3hMKIQ7kNvwHQxO1M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzQ4OTM1OTc3MDIwMzgsImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0bb425cd1dfb35b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MzQ2RDE1NEFCQTUyRDk0N0YxNDgyMzc1NkM0NjU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM0NDdGRTVBRTU1RDdBN0ZCMkRFM0ExOUMzMTlEOTgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas3sfPjdqeBRUCKAJDMywXQFFcan752yMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQJut4HWObGbHzjTIcuNqYgPDV6Z3TxZoS9WdM-xEwcnTQ&oe=6ABEF29C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1102552316283244"
+      },
+      {
+        "id": "1524110429349008",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723456513_2492364167873944_3986286060492520210_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kVFAxl5FhP8Q7kNvwHNzcAv&_nc_oc=AdrJ-fJQiMx6GAQBBiS1ZpID9OfQeKLyTgf74es0e04jYt6kWhxTD6K0obOPo6Jf-kY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQLujeU1LsdBUs_1Oj5qFQ_KfBtMtpgZzW7DnKEX2wOVvA&oe=6ABEFDAD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOlelsA7sbbof996qsNhHotfhaCzipiU0GqBBLzq8l7enEAzlFFQtyv0JlBQbRVWbG8GJjQSIpFsVdl1kx-_ATw2lwgZ3fZfLt762FRhCM_HQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EHu-ww3hMKIQ7kNvwHQxO1M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzQ4OTM1OTc3MDIwMzgsImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f0bb425cd1dfb35b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MzQ2RDE1NEFCQTUyRDk0N0YxNDgyMzc1NkM0NjU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM0NDdGRTVBRTU1RDdBN0ZCMkRFM0ExOUMzMTlEOTgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas3sfPjdqeBRUCKAJDMywXQFFcan752yMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQJut4HWObGbHzjTIcuNqYgPDV6Z3TxZoS9WdM-xEwcnTQ&oe=6ABEF29C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1524110429349008"
+      },
+      {
+        "id": "2044907060240589",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/723216027_1024654476672793_6212966874902891907_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wnkcvsvn_0EQ7kNvwEAxG8C&_nc_oc=Ado6Xn7Ad2HRhHwdASzgUUGgpygRRZ9ALUu_0fFIGUMNFoxQ5mFp1dJZHVjjbIuWRZk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQItR86Mj6ThraDA8Y-0bpAy3N_QKPEGzzcFMOinIUyVvw&oe=6ABF1246",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP7nqwIL9XEcVB3e8n3Wrae006nzaAJY5M9v5rHDf6DKek49UWESNRwa0CuS42Y94sjAxDpmVFeExhbqaz2tjBlYPDkJATz3mCv6L0A2dl2ow.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=QkjAEME29YYQ7kNvwGI413M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjY4NDc2NzUzOTMxMDgsImFzc2V0X2FnZV9kYXlzIjoyODcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2e3e154f405a116c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FODRFNEMxRkNFNzVCMjcyRjE0NDMwNkI0QkU3QzQ4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4NEYwRjgzQjcxMjcyMzY4NkJFMjREQ0ZGQTQ4Q0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaokd3c_-bjBRUCKAJDMywXQDoKPXCj1woYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQIK6U0ol5vwkc37TBJI2m_uUHrz39j5oRYv3gLdd4uzOQ&oe=6ABF05E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2044907060240589"
+      },
+      {
+        "id": "2092008421722622",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/723406462_1005943181922400_8462940371074986906_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8tugyIrucwAQ7kNvwH9WcF1&_nc_oc=Adq1EIZ1kJCL-FXEeKeyXUpHJyhdpKAVpgC1whnqDveDCqYldT46w1Dxxdi3kgdutl4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJHi90D0W1lUi3Q66kM7NqN-aWUC9bcEaqFHAgnfGEudw&oe=6ABEF01A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP7nqwIL9XEcVB3e8n3Wrae006nzaAJY5M9v5rHDf6DKek49UWESNRwa0CuS42Y94sjAxDpmVFeExhbqaz2tjBlYPDkJATz3mCv6L0A2dl2ow.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=QkjAEME29YYQ7kNvwGI413M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjY4NDc2NzUzOTMxMDgsImFzc2V0X2FnZV9kYXlzIjoyODcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2e3e154f405a116c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FODRFNEMxRkNFNzVCMjcyRjE0NDMwNkI0QkU3QzQ4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4NEYwRjgzQjcxMjcyMzY4NkJFMjREQ0ZGQTQ4Q0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaokd3c_-bjBRUCKAJDMywXQDoKPXCj1woYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQIK6U0ol5vwkc37TBJI2m_uUHrz39j5oRYv3gLdd4uzOQ&oe=6ABF05E5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2092008421722622"
+      },
+      {
+        "id": "1004679222274611",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/723884102_4460171504253410_2524115792575607966_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mEAj3hk4YboQ7kNvwHf46Q8&_nc_oc=AdoJUE14Y5802wBA_nkv6YS8jfQU1vCTMSCUGH286wfKNnNephJB6G9OOHSAtJLI5ys&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJZemOB2i3uqk20duWiCg1YiYARVvX_AjQhc1JgsgAj-g&oe=6ABF0E0D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOI9Eme_l8Szoe6qp3qy4fJ_EibzM5NvSwHC74zSmiakev_odMkYQqPYs0Jk1C8mLwNuTV4NQEXtjUBB6OCnZueL-RwKhfEjzExaVIaZH7RSg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8FvAt4kTyw4Q7kNvwHBfl7U&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNjYyODY5NzQ5NDg4NjAsImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=df47d8f352678c3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODQwNkFFMTQ2RDk3ODJFODY1QkI5QjBGNzQ1MTRBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY0NEEwN0NGQjE4M0RGNUMxMjFFOEU2RjgyNTEyMUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb415qVzeu_BBUCKAJDMywXQE1szMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQLD8wKFl-v3Di_ENArUF27e9BCplzIVm7Q7UJNLjLu88g&oe=6ABEFAAD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1004679222274611"
+      },
+      {
+        "id": "1342224394670378",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721099278_1028226512878052_4265224965445818556_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m16XVvLUxz8Q7kNvwGshiW5&_nc_oc=Adp91aNU_rvlAj5LSIbC4beljAD3oBX_4uindU11FOEUfer-fPn_zuDhUkJGvS7SuOI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQLZ5ElFbVpSojtN4uWSgYIUGiXSi88GHmG1VlAi_pdnjg&oe=6ABF1715",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMLdtguaGW4xHGe_jGBWumnKS8s-thK7TtAxwTWqTdadCBVFp43e7KbSAfn574NUggGeoBSL4_FAQr-oZa7CFUMY-LcxdTYnKjQbbE4UYdT-g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=97_0Qsuost0Q7kNvwHzj_TV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNjMxNzEyMjA4MzMwNjksImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d3ea35ec460ff852&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTQzRkFBOTA1NjNBOTU4N0ZBNDk0OTI3NUZBQjdBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4NEMwRUJDNUYzQTkyMUU5MkI2QkY5N0U5QjcxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbajMrS1dKyCBUCKAJDMywXQE4XrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_Lip2Xmx8wUtIj2B45d9gVbW06IA-9a9p4kyDRc2t6w&oe=6ABF25E4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1342224394670378"
+      },
+      {
+        "id": "980948754738054",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721821077_980880521240631_8929635708832562618_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W2TPpxmslHYQ7kNvwE97DAc&_nc_oc=Ado5tDEvsxXSU9xG0PGzK11HxL_awNqAVP8s_3-Hk1LAxJzo2Sm0lS8ROnPZQJp_xHA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQK5peipqLqCPXHr5C-sfQcv7W2GsXHxC2TXfYTbAnPGNg&oe=6ABF15A5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMLdtguaGW4xHGe_jGBWumnKS8s-thK7TtAxwTWqTdadCBVFp43e7KbSAfn574NUggGeoBSL4_FAQr-oZa7CFUMY-LcxdTYnKjQbbE4UYdT-g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=97_0Qsuost0Q7kNvwHzj_TV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNjMxNzEyMjA4MzMwNjksImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d3ea35ec460ff852&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTQzRkFBOTA1NjNBOTU4N0ZBNDk0OTI3NUZBQjdBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4NEMwRUJDNUYzQTkyMUU5MkI2QkY5N0U5QjcxRDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbajMrS1dKyCBUCKAJDMywXQE4XrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_Lip2Xmx8wUtIj2B45d9gVbW06IA-9a9p4kyDRc2t6w&oe=6ABF25E4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=980948754738054"
+      },
+      {
+        "id": "2150065702235023",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "שיפור ההליכה ומניעת נפילות, לאימון ניסיון לחצו >>",
+        "body": "רוצה לשפר את שיווי המשקל בגיל השלישי אבל נמנעת כי חדר הכושר הרגיל מרגיש לך לא בטוח מספיק? יש לנו פתרון! GaitBetter – מערכת מתקדמת לאימון בטוח, רגוע ומותאם אישית לגיל השלישי. האימון נעשה על הליכון עם רתמת בטיחות (בלי סיכון לנפילה), בליווי צוות ספורטתרפיסטים, ובאמצעות מציאות מדומה שמגרה את המוח ומשפרת את היציבה וההליכה. כל תרגול נעשה בקצב אישי, בלי לחץ, ועם תחושת ביטחון מלאה.\nוהתוצאות? כבר אחרי מספר שבועות תרגישי יותר יציבות, יותר ביטחון – ויותר רצון לזוז.\nמתאים במיוחד למי שלא התאמנה הרבה זמן – ורוצה להתחיל במקום שמבין אותה. \n\nהקליקי עכשיו לפרטים >>\n\n  האימונים מתקיימים ב\"מרכז בשיבה בריאה\", תל אביב",
+        "link_description": "ככה תשמרו על היקרים שלכם - GAIT BETTER",
+        "landing_url": "http://fb.me/",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747190921_1500538948485450_6585250683723639755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Llc2WKcj38AQ7kNvwGAOUyw&_nc_oc=Adpf6Eve1MsKp2IpfIVHb6PfyvS0IrjccZUpcD6d46i5xss8qAMsD_qwuDyhHJq1oBE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJ7hDWRJQemhGX4mT7OFQrWLikX51j9Vw7Z5BuOmbFJow&oe=6ABF029D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7QIDxJjdlFPOQFKi64xolgKAR56NNtx5n7gADHPYciu3jjcmIYGo_jvoGDb232rLD5WK60mWGDckWe4SBS_wwhapA38DJnJMri86Py7D_bg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6j1FDlRlZeQQ7kNvwH5V-QA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk5NTIyMDEwMDU3NTAsImFzc2V0X2FnZV9kYXlzIjoyODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1e61268c4f7b8d77&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTQ4Q0MzM0U2MjIwRUEwQTE1NkE4RTVGMkExQjRBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNEI2N0U3QjU3RjNERTRDM0Y1MEExQzY1MEQ5MUEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs6snpvMnXBRUCKAJDMywXQD9VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQID3w-0SaKnr9aj21aNr0O3KvJgfUzeiSnJu_2HFMSTvA&oe=6ABEF305"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2150065702235023"
+      },
+      {
+        "id": "2956926881366118",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "שיפור ההליכה ומניעת נפילות, לאימון ניסיון לחצו >>",
+        "body": "רוצה לשפר את שיווי המשקל בגיל השלישי אבל נמנעת כי חדר הכושר הרגיל מרגיש לך לא בטוח מספיק? יש לנו פתרון! GaitBetter – מערכת מתקדמת לאימון בטוח, רגוע ומותאם אישית לגיל השלישי. האימון נעשה על הליכון עם רתמת בטיחות (בלי סיכון לנפילה), בליווי צוות ספורטתרפיסטים, ובאמצעות מציאות מדומה שמגרה את המוח ומשפרת את היציבה וההליכה. כל תרגול נעשה בקצב אישי, בלי לחץ, ועם תחושת ביטחון מלאה.\nוהתוצאות? כבר אחרי מספר שבועות תרגישי יותר יציבות, יותר ביטחון – ויותר רצון לזוז.\nמתאים במיוחד למי שלא התאמנה הרבה זמן – ורוצה להתחיל במקום שמבין אותה. \n\nהקליקי עכשיו לפרטים >>\n\n  האימונים מתקיימים ב\"מרכז בשיבה בריאה\", תל אביב",
+        "link_description": "ככה תשמרו על היקרים שלכם - GAIT BETTER",
+        "landing_url": "http://fb.me/",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747190921_1500538948485450_6585250683723639755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Llc2WKcj38AQ7kNvwGAOUyw&_nc_oc=Adpf6Eve1MsKp2IpfIVHb6PfyvS0IrjccZUpcD6d46i5xss8qAMsD_qwuDyhHJq1oBE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQJ7hDWRJQemhGX4mT7OFQrWLikX51j9Vw7Z5BuOmbFJow&oe=6ABF029D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7QIDxJjdlFPOQFKi64xolgKAR56NNtx5n7gADHPYciu3jjcmIYGo_jvoGDb232rLD5WK60mWGDckWe4SBS_wwhapA38DJnJMri86Py7D_bg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6j1FDlRlZeQQ7kNvwH5V-QA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk5NTIyMDEwMDU3NTAsImFzc2V0X2FnZV9kYXlzIjoyODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1e61268c4f7b8d77&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTQ4Q0MzM0U2MjIwRUEwQTE1NkE4RTVGMkExQjRBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNEI2N0U3QjU3RjNERTRDM0Y1MEExQzY1MEQ5MUEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs6snpvMnXBRUCKAJDMywXQD9VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQID3w-0SaKnr9aj21aNr0O3KvJgfUzeiSnJu_2HFMSTvA&oe=6ABEF305"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2956926881366118"
+      },
+      {
+        "id": "1672499510639411",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724010755_1437571804793349_6599831825143549259_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0AU9BnTHopoQ7kNvwGYMhv4&_nc_oc=Adrh58uY7YNR9N8rXO9OOW1_D6M8s11mz47u1Qir4eUeGadcDVv5VnK5XBGDfEnW_-M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQK6L9laue4i1z_8F5zdZ_wDmhrrKP38WVPf3-icWLRC0g&oe=6ABEF924"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1672499510639411"
+      },
+      {
+        "id": "1434348265412968",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723883728_1716004059585749_1906678812597495426_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zt2APzOBTSYQ7kNvwG9YRqz&_nc_oc=AdpjjcfUeE-99wTiOEm4aFEvhwtDinilYunMRGNlcnGjIrR_-On31OsW7XQuFHaeksg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQIoYIEg0Ilr1b3ok6IYE12SdEmpYe5taF9DhxuRI1CVUA&oe=6ABF0734",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMabfbYgoic1WahHGDZF0zaFwD-T5gQYs8B-6Dc6AWUXJYhGmEntaRqR-H0QMk05fa99w1Jsk87ehdiINKtLM1KQeSVvdUP560y2aYXuJFLYg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=iXi4DMwWE1MQ7kNvwGIh2EI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MjY3NzM4MzgyNTgzMzIsImFzc2V0X2FnZV9kYXlzIjoyODYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b66998a2b3c54563&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MTRFREJDQkQ3MkQ4OTVFODNENTM3RkNCQUM2MUQ4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNDZFRDg3NjNCQTBCNDQzREUxNjI2MTEyNTFCMkE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4gonj_5jsBhUCKAJDMywXQEAFHrhR64UYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQLdSbShjDo0saE3s3jIA3SgND_lMauVLblLClJ5trh8bA&oe=6ABEF50B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1434348265412968"
+      },
+      {
+        "id": "847679018033528",
+        "page_id": "347158648646781",
+        "page_name": "בשיבה בריאה - שירותי בריאות פרטיים בניהול אישי",
+        "page_url": "https://www.facebook.com/healthyagingIL/",
+        "page_like_count": 10642,
+        "page_categories": [
+          "Medical Center"
+        ],
+        "ad_creative_link_title": "להשארת פרטים לחצו בכפתור>>>",
+        "body": "העשרה לגוף, לנפש ולמוח זה מועדון מפגשים מהגיל השלישי. לוח שידורים מלא של פעילויות מרתקות מותאמות לגיל השלישי - פעילות גופנית, יוגה, פלדנקרייז, מדיטציה, שיעורי היסטוריה, יצירה, האזנה למוזיקה, וגם בינה מלאכותית ואוריינות דיגיטלית.\n\nאבל זה לא הכל - במועדון תקבלו גם קהילה חמה ומקבלת, תכירו חברים עם תחומי עניין משותפים ואם תרצו - תוכלו להיפגש גם מחוץ למסך.\nועכשיו משרד הרווחה מציע חודשיים בחינם ואחרי זה מחיר מסובסד של 25 ש״ח בלבד לחודש למי שממעט לצאת מהבית מסיבות שונות. רוצים לראות אם גם אתם זכאים? מלאו את הטופס ובדקו את זכאותכם עכשיו >>>\n\n**ניצולי שואה זכאים לשירות ללא עלות",
+        "link_description": "השאירו פרטים ונציג יחזור אליכם בהקדם",
+        "landing_url": "https://mifgashimclub.co.il/%D7%A0%D7%97%D7%99%D7%AA%D7%94-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D/?fbclid=fbclid",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781420400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/721468375_1326407462256842_7735558067584281528_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=95lh0ircCeUQ7kNvwEckkSz&_nc_oc=AdoVyjS9ExfDfBu4bvNSAfdLc8cbqVHpcvH0KL0YVByO2FlYf3T08d-J6-hPndqAUzY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&oh=00_AQIDsL0mbDXRqrGT_Xwwn7ZGY_oDk0IAZdl35Weun8x4ZA&oe=6ABEF41B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMabfbYgoic1WahHGDZF0zaFwD-T5gQYs8B-6Dc6AWUXJYhGmEntaRqR-H0QMk05fa99w1Jsk87ehdiINKtLM1KQeSVvdUP560y2aYXuJFLYg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=iXi4DMwWE1MQ7kNvwGIh2EI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MjY3NzM4MzgyNTgzMzIsImFzc2V0X2FnZV9kYXlzIjoyODYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b66998a2b3c54563&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MTRFREJDQkQ3MkQ4OTVFODNENTM3RkNCQUM2MUQ4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNDZFRDg3NjNCQTBCNDQzREUxNjI2MTEyNTFCMkE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4gonj_5jsBhUCKAJDMywXQEAFHrhR64UYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ydXX-iI1RJ94b-ZcMWn8QA&_nc_ss=70289&_nc_zt=28&oh=00_AQLdSbShjDo0saE3s3jIA3SgND_lMauVLblLClJ5trh8bA&oe=6ABEF50B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=847679018033528"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -110,6 +678,7 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:39"
+    "rejected": "2026-09-27T15:32:39",
+    "filtered": "2026-09-27T15:38:54"
   }
 }

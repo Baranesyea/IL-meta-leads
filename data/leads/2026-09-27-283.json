@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-283",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "1595421764073430",
     "page_name": "Physyoutlv Physiotherapy Clinic",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "פיזיותרפיה",
     "sample_ads": [
       {
@@ -77,8 +77,8 @@
       ],
       "hebrew": true,
       "currencies": [],
-      "active_ads_count": 1,
-      "active_ads_count_exact": false,
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
       "cta_types": [
         "CONTACT_US"
       ],
@@ -96,7 +96,7 @@
         "clinic"
       ]
     },
-    "active_ads_count_exact": false,
+    "active_ads_count_exact": true,
     "ad_ids": [
       "9602346953213552"
     ],
@@ -108,7 +108,94 @@
     "page_categories": [
       "Physical Therapist"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "9602346953213552",
+        "page_id": "1595421764073430",
+        "page_name": "Physyoutlv Physiotherapy Clinic",
+        "page_url": "https://www.facebook.com/PHYSYOUTLV/",
+        "page_like_count": 1447,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "Physyoutlv Physiotherapy Clinic",
+        "body": "סובלים מפציעה או כאב שמטרידים ומגבילים אתכם? עברתם ניתוח ומרגישים שלא חזרתם לעצמכם?\nניסיתם כל מיני טיפולים שלא עזרו? \n\nאנחנו PHYSYOUTLV, קליניקה לטיפולי פיזיותרפיה ואימונים אישיים בתל אביב. אלפי מטופלים שסבלו מכאבים, פציעות, מגבלה לאחר ניתוח ועוד, כבר טופלו על ידנו וחזרו לשגרת חיים בריאה ללא כאב או מגבלה.  \n\nאצלנו בקליניקה (לנוחיותכן/ם שני סניפים בת\"א – דרום ומרכז העיר) תקבלו טיפול אישי ומסור תוך התייחסות לבעיה, לאורח החיים שלכם/ן, רמת הפעילות ועוד. בצוות שלנו מטפלים ומטפלות בעלי התמחויות בתחומים שונים של שיקום פיזיותרפיה:\n\nפציעות ספורט\nשיקום אחרי ניתוחים\nטיפולי רצפת אגן\nדיקור יבש\nשיקום וסטיבולרי (סחרחורות ושווי משקל)\nפיזיותרפיה לטיפול במפרק הלסת.\n\nבקליניקה אנחנו משתמשים בציוד טיפולי מתקדם: גלי הלם, אלקטרותרפיה (חשמל) ואולטרסאונד טיפולי ובנוסף ציוד שיקום אינטראקטיבי: סימולטור שיווי משקלBOBOARD , מערכת BLAZEPOD ועוד, שמאפשרים לנו להעניק למטופלים טיפול היקפי ומסייע למנוע פציעות עתידיות.\n\nמוזמנים ליצור איתנו קשר, לייעוץ (ללא עלות) ולתיאום טיפול.",
+        "link_description": "דברו אתנו",
+        "landing_url": "https://physyoutlv.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=traffic",
+        "cta_type": "CONTACT_US",
+        "cta_text": "יצירת קשר",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1743577200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487510023_1245081550450930_5879597283761208847_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GXgQbQzZhbcQ7kNvwHKZm5t&_nc_oc=AdrGmzyttAUS2Oe-5ClLYSeOp9ldbPL6Kt1ckPOS6DnJv1yGL631S_x1R7t-FarvNLc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQKKFsJWO6I9M2uInWzaI5AlDgcL90RfKgATl2B8PXsHCg&oe=6ABF1EF2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487485583_2129621290833555_8099520836716191618_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1PkhvgXBR0oQ7kNvwFbgEUY&_nc_oc=AdrHIbeaMEVgr7ny0SrjsxRkehy475WiJLpQsx7BihAoYyKYX37DeFjSEMfBgvOAjY8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQJFl4-LDwAX0xy3X8hSFtput6DBzm2adfTDlDn-_e74tg&oe=6ABF16ED",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487480564_1678792682843006_193843097181880511_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ypOjlJt75P8Q7kNvwFl9M2z&_nc_oc=AdqRKcMaAb5gfcZWcU9SaemXHGFUBfdvycVZbhjisjRt6U2gt_zpj9s-3bDQTVeKm0g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQKKpZZD9GG7s4AorwzengKz-xMGmFEp33hF-meUgoIcmQ&oe=6ABF269C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487480116_529395849900570_6684614331632502714_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zESTPn7yc0YQ7kNvwFB9ItY&_nc_oc=AdrEBk9sbpts99mhZCg8wCdISPDUegr0wsMCPL5oV1nncdfj2UUPJvop-QRtmk_aeTY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQIidmzphtqVmRcxf1UP0Q17ymTggSGlgvakY_0_LUC__Q&oe=6ABF1453",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/488202867_1036249808392935_5430729838058367358_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wcu9FfQEFWYQ7kNvwG6lDQF&_nc_oc=AdrgeKRHopg5kn5kMoSR24Tz0ZfNVHriXT3r2T5Tnqv2fUKUObtpQ33-1VLtHQR5XfI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQLFp8fwpNoW9-sPHeQOmN0BQE8jwU-wVbM49GGSaNMJ-w&oe=6ABF1A9E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487484956_649447171574884_595200724840654784_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yQowxDjs0n8Q7kNvwHZBN7D&_nc_oc=AdqYY-5_YYSKiGA2OVEQ3v3YlBUhxy57qKC8NoRPtnZvqcKpof66zH3GvFCofqiHWJw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQKUBPGzM727mvqKj5k4FfYoZxSIg9FvWXnYyWEyWoy3bg&oe=6ABEF106",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487507819_2081912115615433_1572542701276758232_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6OKP6lv8a5IQ7kNvwFIiMeZ&_nc_oc=AdqOJy4HRmbYEjb8AoougACQ9dWMZwkWW0YoHXDCor-b85Ljp4uJ2xF__PqqA1Zm9RY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQJwQZaLbP59KDB4Xt9d-SPgqhKG1bYlSIzf2zNSuDCtBQ&oe=6ABF265D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487504547_568161202311085_351992568536642492_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jr1SGrRKptAQ7kNvwFfscif&_nc_oc=AdoUeiZkgHX-F2f3yRQGMeejxV6jNqwmbxHVjyOE3HqJRV7UY_X6Nq0s8gkK-54Mr2c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQJ_UQAVQBQLqghffsSAxuYinVVtmO9xABkEaJjdhDWXuw&oe=6ABEFB11",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487511841_1483673932593551_7891587826677790319_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T94op7G9eWoQ7kNvwFFlYMn&_nc_oc=Ado2nuVpx5TvOx0Qn678NpWt81L3WKrvm_WQXiFvxZQbaI2tXBmqTfhmlpi0iQuYPco&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQIAAQ9Y9F00CJcDWcNDE8gIUDwYbNzpjorYdr4TrBLaBA&oe=6ABF0681"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=9602346953213552"
+      },
+      {
+        "id": "915156434302003",
+        "page_id": "1595421764073430",
+        "page_name": "Physyoutlv Physiotherapy Clinic",
+        "page_url": "https://www.facebook.com/PHYSYOUTLV/",
+        "page_like_count": 1447,
+        "page_categories": [
+          "Physical Therapist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://physyoutlv.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=traffic",
+        "cta_type": "CONTACT_US",
+        "cta_text": "יצירת קשר",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634312078_3838616026440993_305510108660271298_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gl4jECLvyi4Q7kNvwFKjyv_&_nc_oc=AdqGSZtJB9jobYi1DyW4IuWtBub6zZ5Tzor2ac0XSWvhpN55G0e9KNn4stHvLJqkxoQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQL_0mkLsxGnQIlooL5TL76WOgUdZrGNSurd6gOgr0i4HQ&oe=6ABF079A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOry4DhxmtggedkFTGkj9g4P-2nH5EdGiaa7JazwTK1THdNMz-tWO7ES2ikCExvopy2-ibEABWm_X_xJMCogIVESqbX3ZnF5p4WEcKfntqohQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=snxkQgPR-cAQ7kNvwF3aJ6Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjI5ODQxMDIyMDA3ODksImFzc2V0X2FnZV9kYXlzIjo1MjUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d5c1b7d692197402&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQjQ1ODU2MUNEQkMwQjlBQzZFNTJGMUZBOUE4MzRBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJWDhVUjBRRzloLWYxSUtBTjlvdmVGX0oyczhidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaql_beyYyHBRUCKAJDMywXQE3iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&_nc_zt=28&oh=00_AQKweqXQ1lZvGITJFTO0EkWkdfqRzL66zelmMPkV3QYkeA&oe=6ABF0733"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/631514537_1274542021233198_2626554744111661136_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a4JWf9rX2EcQ7kNvwERwjyj&_nc_oc=AdqPDzmaoehsdParWTWJsI8snNSoT-sJu2FM6vCg-wzGjUjASmwkCLmfCCs22Zquzho&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQJiLakEW5Fwc312agDnYGjKuYft9EKZi-1X475CEtzXIw&oe=6ABF0F0D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMzOu7ZqFRReKpJzT5dI8pQmSRZJXSq02sZFelXb46Mdya6D9SHRZcj2neLacsqJz0B3nm4h2-McWd_X9xwmfQEHn14OrWTBJhrhpbuVDmL0Q.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ugij8DyYHw4Q7kNvwGtGWOv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo5MDAyNzQ5Njc3OTQxMzMsImFzc2V0X2FnZV9kYXlzIjoxMzU3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2dd84bd43db09354&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMTQzMjFDMDcwNDY4MkUzQjVCMTFFQTAyNkMwQUI4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzEzNTgxMDM5NjgxMzgzNDBfNTc4Njk4MTY0NDk4OTg5MDkyLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqx76a87KZAxUCKAJDMywXQE3hR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&_nc_zt=28&oh=00_AQKCRbEbCx9UPsqc5rRxVX0Rga61G1Ky2ey58xVmIcwMPg&oe=6ABEFCB0"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/632489630_2395067484253083_2617549092890090205_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=30whmVHsLE0Q7kNvwFRDp0q&_nc_oc=Ado068PIbXIQtNagFl2yd7ZZfJjccHR6zIX8SRu8e8RGCjx5VUXOLT-dy-iSRykC1Yk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQIWYH8H-tfBmf2AXOr0gWWxaGhkdYDWM6YesNAwx_Momw&oe=6ABF110F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP7mLahcRr9WK2vfYJT6WeavnS0h6X4xPPDJ3aP3Tsc3SV0_Wj_m9Kh8h_OZ34ZX85aY5x8JG-LMO0R4_3wO1AVmPymphioshV0bqTyODUSIg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ct_k4mXjaF8Q7kNvwHN6mCB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQwODcxODg1NTgyMjY2NzMsImFzc2V0X2FnZV9kYXlzIjo1MjUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=83a93d013651b4c8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTQyN0JGRDE0QzIwQjBDQUEyNkYzQTJGQzQ4RTc5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMNmlUQjFnZnJjallVd0NBTGdIY1hoUUV4eGtidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbik6Xi19HCDhUCKAJDMywXQE3iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&_nc_zt=28&oh=00_AQIUGKJhPWM-XTNhO90k2-QQ0wQgAiAU21vKRfAi_s4g2g&oe=6ABF1213"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634312078_3838616026440993_305510108660271298_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Gl4jECLvyi4Q7kNvwFKjyv_&_nc_oc=AdqGSZtJB9jobYi1DyW4IuWtBub6zZ5Tzor2ac0XSWvhpN55G0e9KNn4stHvLJqkxoQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&oh=00_AQL_0mkLsxGnQIlooL5TL76WOgUdZrGNSurd6gOgr0i4HQ&oe=6ABF079A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOry4DhxmtggedkFTGkj9g4P-2nH5EdGiaa7JazwTK1THdNMz-tWO7ES2ikCExvopy2-ibEABWm_X_xJMCogIVESqbX3ZnF5p4WEcKfntqohQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=snxkQgPR-cAQ7kNvwF3aJ6Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjI5ODQxMDIyMDA3ODksImFzc2V0X2FnZV9kYXlzIjo1MjUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d5c1b7d692197402&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQjQ1ODU2MUNEQkMwQjlBQzZFNTJGMUZBOUE4MzRBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJWDhVUjBRRzloLWYxSUtBTjlvdmVGX0oyczhidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaql_beyYyHBRUCKAJDMywXQE3iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=lRqlmdHFnTcSONxj2SOcog&_nc_ss=70289&_nc_zt=28&oh=00_AQKweqXQ1lZvGITJFTO0EkWkdfqRzL66zelmMPkV3QYkeA&oe=6ABF0733"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=915156434302003"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -122,6 +209,7 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:35:48",
-    "rejected": "2026-09-27T15:32:18"
+    "rejected": "2026-09-27T15:32:18",
+    "filtered": "2026-09-27T15:38:22"
   }
 }
