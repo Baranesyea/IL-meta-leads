@@ -1,0 +1,104 @@
+{
+  "lead_id": "2026-09-27-363",
+  "status": "rejected",
+  "reject_reason": "no clinic / therapist signal (product, gym or brand)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/einayim/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "294874660526337",
+    "page_name": "עיניים עיתון ילדים וילדות",
+    "active_ads_count": 1,
+    "search_keyword": "דורבן",
+    "sample_ads": [
+      {
+        "ad_id": "1873097233639640",
+        "link_title": "עיניים עיתון ילדים וילדות",
+        "body": "חידה: 🐷🐗🦓🐩🦍\nמי מבין החיות הבאות *איננה* מסתתרת באיור?\n🔸פיל🔸ג'ירפה🔸עכביש🔸חיפושית🔸נחש🔸סוסון ים🔸סַרְדין🔸פִּירַנְיָה🔸צב🔸טוּקָן🔸לֵמוּר🔸קוף🔸ינשוף🔸שועל🔸שַפִּירית🔸אריה🔸עכבר🔸שבלול🔸בּוֹאֵש🔸גמל🔸דוֹרְבָּן🔸צפרדע🔸זיקית🔸פרפר\nמתוך גיליון 258 של ׳עיניים׳ בנושא 'הסוואה'. איירה: מאיה קלינגר\n\nלחצו ועקבו אחרינו!",
+        "landing_url": "https://www.facebook.com/294874660526337",
+        "cta_type": "LIKE_PAGE",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/538617432_1464857441416723_4264965584163127748_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eNCXn_YZLaMQ7kNvwFTJa8V&_nc_oc=Ado903L4Ev-HY8v9Q5CTZ9h3RbzLvM7htMdj_--6Etp2oqPrcOPNROoTqvfPKK7jGK4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4glw30WVLu6toH6JXy5N9g&_nc_ss=70289&oh=00_AQIcYmboN8wKlMbi2jrmk-6k2lNwqWDurZBllDRJlZRvTw&oe=6ABF1BB3"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1756105200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1873097233639640"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LIKE_PAGE"
+      ],
+      "page_like_count": 37914,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1873097233639640"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LIKE_PAGE"
+    ],
+    "page_like_count": 37914,
+    "page_categories": [
+      "Magazine"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:24:13",
+    "rejected": "2026-09-27T16:24:21"
+  }
+}

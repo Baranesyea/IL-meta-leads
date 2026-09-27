@@ -1,0 +1,177 @@
+{
+  "lead_id": "2026-09-27-335",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/solioalfacure/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1609650392449567",
+    "page_name": "סוליו אלפא קיור פלוס - מכשיר ביתי לטיפול בכאבים",
+    "active_ads_count": 2,
+    "search_keyword": "סיאטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1697054241572357",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733565189_28264329869835784_4780400729512288860_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HccBMFPouW0Q7kNvwF-50No&_nc_oc=AdrHS3vwPAL-fa5u-NtXKRMvBVCRcojHeUwlUp-NP70i-lQK7DFROOHJ14K8UvCQVvE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQK6tQsUHo5gh0C_Mmj9GHOTt_Ixt0CcsboF26JsRLW0Ag&oe=6ABF07DF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733771273_1368116881867371_8445341355214211179_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gr5A4PDe2o8Q7kNvwE8_2K0&_nc_oc=AdrEuBUbYxY8APuvNGT3qva6RAMS1AY3OcZN2zYMPS-0-6ya_vRwy-Avg04KR1Bih9I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQJawy6HvK-Ec4U6gkyjGNBFF1DRkEDel1bHE77Ehg0o8w&oe=6ABEF838"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782802800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1697054241572357"
+      },
+      {
+        "ad_id": "27054687977563699",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/721951207_1014585507622680_7254482424024278365_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D4FX5XZwzVoQ7kNvwH9c8lw&_nc_oc=AdpDy9qen2bLtluHOBk0C-vVXly3vkeR29IVvCy-2TyeM45gbNf7dx4yiRbB0oNHZIQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQK6QOCLfwczBBvfcXcG-BC0CFhetH6NwUJ9-E_uui6kqA&oe=6ABF0B85",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNhdnk93NfWD1AoPx7HDWAOGyVb-GMQYRjakyJTgHAasTOsYArMLfJWznxlW56781OeoMZd428z0taO_8w9-gm0Y1nleCNqBKMDjmqw0PN5lw.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=YAO3WHmRW_8Q7kNvwFXy9MI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTIzNzU1NDY3OTc2NDAsImFzc2V0X2FnZV9kYXlzIjoyNTYsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1837b0616c9958f7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTRBODVBMTdDQjFCQ0RFMkM4MkRENURFRjJDMjI5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRBNDY2ODdERTI5RUJGRkNDQjAwQjcyRjQ5Mjg3NUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQ-bz57MG5BBUCKAJDMywXQCAAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLzWrmH8U9Ak3KArk6PYvPOnuqQPwi9bZB3eLKz6dTWDw&oe=6ABF177D"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1781161200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27054687977563699"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1947,
+      "product_score": -2,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "טיפול"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1697054241572357",
+      "27054687977563699"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1947,
+    "page_categories": [
+      "Health/beauty"
+    ],
+    "track": "clinic",
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1697054241572357",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27054687977563699",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1697054241572357",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nסוליו אלפא קיור פלוס - מכשיר ביתי לטיפול בכאבים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1697054241572357\nהתחילה לפעול ב-30 ביוני 2026\nפלטפורמות\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nסוליו אלפא קיור פלוס - מכשיר ביתי לטיפול בכאבים\nממומן\nסוליו אלפא קיור, המכשיר הישראלי פותח כדי לסייע בהפגת הכאב וטיפול במקור שלו, להאיץ את תהליך הריפוי העצמי של הגוף ולהקל על ההתמודדות עם הכאבים.\n\nאיזה כאבים נוכל לפתור לכם?\n✅  טיפול וריפוי כאבי ספורט \n✅  כאבי שלבקת חוגרת\n✅ כאבי ירכיים\n✅ כאבי ברכיים\n✅ כאבי כף רגל\nועוד כאבים כרוניים שונים \n\nשמרו על הבריאות עם סוליו והזמינו במשלוח עד הבית\nשלחו הודעה כדי להתייעץ איתנו בוואטסאפ 📲\nמחכים לכם בוואטסאפ >>\nעושים סוף לכאב אחת ולתמיד\nSend WhatsApp Message\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "27054687977563699",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nסוליו אלפא קיור פלוס - מכשיר ביתי לטיפול בכאבים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 27054687977563699\nהתחילה לפעול ב-11 ביוני 2026\nפלטפורמות\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nסוליו אלפא קיור פלוס - מכשיר ביתי לטיפול בכאבים\nממומן\nזה מרגיש כמו להיות כלוא בתוך הגוף שלך.\n\nכאב שלא מרפה - בכתף, בגב העליון, בצוואר. \nכאב שהופך כל תנועה לאתגר, כל יום לעוד מאבק.\n\nואתה לא לבד.\n\nאלפי אנשים מתמודדים עם אותם כאבים - כתף קפואה, כאבים בגב התחתון, פיברומיאלגיה, סיאטיקה, מרפק טניס.\n\nתרופות, פיזיותרפיה, טיפולים יקרים… \nלפעמים שום דבר לא באמת עוזר לאורך זמן.\n\nופה בדיוק נכנס סוליו אלפא קיור.\n\n✅ המכשיר היחיד שמשלב טכנולוגיית גלי רדיו עם חימום לעומק הרקמות\n✅ טיפול ביתי, נוח, לא פולשני - וללא תרופות\n✅ משפיע כבר מהטיפול הראשון - ב-87% מהמקרים\n✅ מוכח קלינית, נמצא בשימוש מעל 70 מכוני פיזיותרפיה המובילים בארץ\n\nכי מגיע לך להרגיש אחרת. \nלנוע בלי לפחד. \nלקום בלי לחשוב על הכאב.\n\n🟢 רוצה לבדוק אם זה מתאים לך?\n\nלחץ כאן, השאר פרטים \nנציג מטעמנו יחזור אליך לשיחה רגועה ומקצועית >>\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nמחכים לכם בוואטסאפ >>\nסוף לכאב אחת ולתמיד🛑\nSend WhatsApp Message\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:16:24",
+    "filtered": "2026-09-27T16:17:00",
+    "unqualified": "2026-09-27T16:18:06"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

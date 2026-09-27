@@ -288,11 +288,83 @@
       "track": "clinic",
       "advertisers": 8,
       "at": "2026-09-27T16:04:27"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "פריצת דיסק",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 13,
+      "at": "2026-09-27T16:10:58"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "כאבי צוואר",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T16:15:48"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "סיאטיקה",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 9,
+      "at": "2026-09-27T16:16:24"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "כאבי ברכיים",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 19,
+      "at": "2026-09-27T16:19:15"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "דורבן",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 5,
+      "at": "2026-09-27T16:24:13"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "כאבי כתף",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T16:27:20"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "טיפול בכאב",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T16:27:56"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "גלי הלם",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T16:28:31"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "אוסטאופתיה",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T16:29:06"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
   "wa_next_index": 16,
-  "clinic_next_index": 4
+  "clinic_next_index": 13
 }

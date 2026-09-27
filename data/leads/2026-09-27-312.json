@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-312",
-  "status": "filtered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "domain zitmaxx.nl already in DB",
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://zitmaxx.nl/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -363,7 +363,210 @@
         ],
         "currency": "",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=755882360736892"
+      },
+      {
+        "id": "1562020507811722",
+        "body": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1159200809156426",
+        "body": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1526216125410325",
+        "body": "סובלים מהצוואר?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "611831288130404",
+        "body": "איך מזהים סימנים ראשוניים לחרדה?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "755882360736892",
+        "body": "סובלים מכאבי ראש?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "landing_url": "https://api.whatsapp.com/send"
       }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+      "https://www.tiktok.com/",
+      "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729413112138994104",
+      "http://play.google.com/store/apps/details?id=com.yandex.yango",
+      "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729414478086443174",
+      "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729408990098199230"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1562020507811722",
+        "text": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1159200809156426",
+        "text": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1526216125410325",
+        "text": "סובלים מהצוואר?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "611831288130404",
+        "text": "איך מזהים סימנים ראשוניים לחרדה?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "755882360736892",
+        "text": "סובלים מכאבי ראש?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1562020507811722",
+        "text": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1159200809156426",
+        "text": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1526216125410325",
+        "text": "סובלים מהצוואר?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "611831288130404",
+        "text": "איך מזהים סימנים ראשוניים לחרדה?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "755882360736892",
+        "text": "סובלים מכאבי ראש?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1562020507811722",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nכ-50,000 תוצאות\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\n​\nפעילה\nמזהה ספרייה: 287460443573474\nהתחילה לפעול ב-20 באפר' 2022\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDompet Dhuafa\nממומן\n5 Hikmah Turunnya Al-Qur’an Secara Berangsur-angsur\n\nSebagai umat muslim pasti kita bertanya-tanya kenapa Al-Qur’an tidak diturunkan secara sekaligus saja, namun secara bertahap. Tentunya Allah adalah sang pemilik rencana yang baik dan penuh kejelasan akan segala sesuatu.\n\nYuk, lebih dekat dengan Al Quran di bulan mulia. Inilah 5 hikmah Al Quran turun secara perlahan-lahan di pranala: https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/\nZAKAT.OR.ID\nApa Hikmah dari Diturunkannya Al Quran Secara Berangsur-Angsur?\nProses turunnya Al-Qur’an dilakukan secara bertahap sesuai kebutuhan kehidupan manusia\n​\nפעילה\nמזהה ספרייה: 866901976311836\nהתחילה לפעול ב-27 בינו' 2026\nפלטפורמות\n​\n​\n​\n​\nקטגוריות\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nKikoff\nממומן\nNeed a loan? Good credit makes it easy. Kikoff can help you build credit and secure your financial future.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nKIKOFF.COM\nNo Credit Pull. No Hidden Fees. No Interest.\nKikoff is the #1 credit builder that reports to all three major credit bureaus.\nLearn More\n​\nפעילה\nמזהה ספרייה: 597185401313937\nהתחילה לפעול ב-16 בספט' 2021\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nكلنا العراق وللعراق\nממומן\nصفحة تمثل الشعب العراقي بكل طوائفه وأديانه وقومياته - تابعنا الآن وشارك الجميع\nكلنا العراق وللعراق\nSociety & Culture Website\n1,808,513 אנשים סימנו את זה בלייק\nלייק לדף\n​\nפעילה\nמזהה ספרייה: 1681365852414198\nהתחילה לפעול ב-13 בינו' 2025\nפלטפורמות\n​\n​\n​\n​\nהשקיפות באיחוד האירופי\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nZitmaxx Wonen\nממומן\nLOUNGEBANK MORGANA - Dit is onze loungebank Morgana! Hier te zien in de kleur en stof: Sino 102. Verkrijgbaar in alle kleuren en in verschillende materialen, afmetingen en opstellingen. De Morgana bank past zich moeiteloos aan elke ruimte aan. Welke kleur zou jij kiezen? \n•\n•\n•\nhttps://www.zitmaxx.nl/inmeubels/morgana\nZITMAXX.NL\nZitmaxx Wonen | 15000 m2 Woonwinkel\nLoungebank Morgana online bestellen of bekijken in onze 15.000 m² woonwinkel ✓ | Laagste prijsgarantie ✓ | Specialist in maatwerk meubelen\nמידע נוסף\n​\nפעילה\nמזהה ספרייה: 1555263375851429\nהתחילה לפעול ב-11 בספט' 2025\nפלטפורמות\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWhatnot\nממומן\nVintage and new Pokémon cards starting at $1 ⚡️Live on Whatnot!\nITUNES.APPLE.COM\nSlab: Topps: Lickitung (2000) Chrome Series 2 - 108 Chrome. CGC GEM MINT 10. POP 3!\n‎Whatnot is the largest live shopping platform in the US, UK, and Europe - we’re a marketplace bringing millions together to shop, sell, and connect around the things they love. From bags to beauty, comics to coins, sneakers to streetwear, and vintage to vinyl—we’ve got it all. Explore 250+ ...\nInstall Now\n​\nפעילה\nמזהה ספרייה: 2641934662848548\nהתחילה לפעול ב-17 במרץ 2026\nפלטפורמות\n​\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nThumbtack\nממומן\nThumbtack makes it easy to care for your home. Know what to do, when to do it, and even who to hire.\nTHUMBTACK.COM\nCreative Wall Designs\nWallpaper Specialist\nBook Now\n​\nפעילה\nמזהה ספרייה: 358530033879022\nהתחילה לפעול ב-2 במאי 2024\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nTire Agent\nממומן\nGet new tires with NO MONEY DOWN! Pay weekly or monthly. Over 80 tire brands available. Free shipping on all orders.\nTIREAGENT.COM\nBuy tires now, pay over time\nGreat Pricing on New Tires plus FREE SHIPPING. Choose f",
+        "links": [
+          "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+          "http://plus.kikoff.com/fb",
+          "https://www.zitmaxx.nl/inmeubels/morgana",
+          "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2Nzc1NjUz",
+          "https://www.thumbtack.com/ct/stratford/interior-painting/creative-wall-designs/service/112099384733476001?category_pk=135477684177740097",
+          "https://tireagent.com/",
+          "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+          "https://www.tiktok.com/",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729413112138994104",
+          "https://shop.pipitea.com/hbt/kd/sp",
+          "https://beautycare-iq.com/",
+          "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=10000011480475&pcate=100003323&field=GGS",
+          "https://www.expedia.com/Flights-Search?leg1=from%3AABE%2Cto%3APHX%2Cdeparture%3A08%2F25%2F2026TANYT&leg2=from%3APHX%2Cto%3AABE%2Cdeparture%3A08%2F31%2F2026TANYT&trip=roundtrip&passengers=adults%3A1%2Cchildren%3A0%2Cinfantinlap%3A0&mode=search&pageId=0&airOfferToken=v5-sos-f709eb8dc9a14e978126a088d76bad93-3802-1~9.S.1~AQoCCAESBwjUBBABGAEoAlgCcAB6A2Jmc4gB7YDfYaoBBwoDQUJFEACyAQcKA1BIWBAA~AQpuCjUIxJgBEgQ0OTY1GKAgIOBcKMiAlgMwzYGWAzhFQABYAWoJTUFJTkJBU0lDcghWRlZOQTBCUQo1CMSYARIDNzk2GOBcIO-5ASjzgpYDMNyElgM4RUABWAFqCU1BSU5CQVNJQ3IIVkZWTkEwQlEKbgo1CMSYARIDOTI5GO-5ASDgXCjAwpYDMJvElgM4RUAAWAFqCU1BSU5CQVNJQ3IIVkZWTkEwQlEKNQjEmAESBDQ5MTcY4FwgoCAo-cWWAzD8xpYDOEVAAVgBaglNQUlOQkFTSUNyCFZGVk5BMEJREgoIARABGAEqAkRMGAEiBAgBEAEoAigDKAQwAQ&medianPrice=957.0&displayPrice=368.4&src=dfsmf",
+          "http://play.google.com/store/apps/details?id=com.yandex.yango",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2ODAxNjM2",
+          "https://offer.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=dpa&out_tag_id=10000003788605&keyword=living%20room%20furniture&product_id=10000003788605&cid=37034007&pcate=37034007&kpi=abrate&field=UG",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729414478086443174",
+          "https://app.alibaba.com/dynamiclink?medium_source=facebook&traffic_type=install&field=UG&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_set_id=%7B%7Badset.id%7D%7D&ad_id=%7B%7Bad.id%7D%7D&schema=enalibaba%3A%2F%2FoneSight%3Fbiz%3Ddpa%26keyword%3Dglass%20bottles%26product_id%3D10000001401368%26pcate%3D201154507%26from%3Dcpm_fb%26kpi%3Dabrate%26tagId%3D10000001401368%26categoryId%3D201154507%26categoryName%3Dglass%20bottles%26traffic_type%3Dinstall%26field%3DUG&campaign=%7B%7Bcampaign.name%7D%7D&ad_set=%7B%7Badset.name%7D%7D&ad=%7B%7Bad.name%7D%7D&placement=%7B%7Bplacement%7D%7D&source=%7B%7Bsite_source_name%7D%7D",
+          "https://hb.afl.rakuten.co.jp/hgc/42b02558.c3aaba27.42b02558.c3aaba27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F000-triple-o%2Fsps002%2F%3FvariantId%3Dsps002",
+          "https://www.naturemade.com/collections/digestion-and-gut-health-supplements?utm_source=fbig&utm_medium=staticsocial&utm_campaign=Q3Gut26&utm_content=portfoliostaticsocialv2",
+          "https://kalshi.com/sign-up?utm_source=meta_int&utm_medium=paid_social&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_campaign_id=%7B%7Bcampaign.id%7D%7D&utm_content=%7B%7Bad.name%7D%7D&utm_ad_id=%7B%7Bad.id%7D%7D&utm_term=%7B%7Badset.name%7D%7D&utm_adset_id=%7B%7Badset.id%7D%7D&utm_placement=%7B%7Bplacement%7D%7D&site_source=%7B%7Bsite_source_name%7D%7D&ad_event_ticker=%7B%7Bcustom_label_0%7D%7D",
+          "https://www.meesho.com/Beautiful%20Solid%20Dial%20Designer%20Metal%20Analog%20Women%20Watches%20for%20Girls/p/60GLR",
+          "https://www.expedia.com/Hotel-Search?selected=10036568&startDate=2026-02-21&endDate=2026-02-22"
+        ]
+      },
+      {
+        "ad_id": "1159200809156426",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nכ-50,000 תוצאות\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\n​\nפעילה\nמזהה ספרייה: 287460443573474\nהתחילה לפעול ב-20 באפר' 2022\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDompet Dhuafa\nממומן\n5 Hikmah Turunnya Al-Qur’an Secara Berangsur-angsur\n\nSebagai umat muslim pasti kita bertanya-tanya kenapa Al-Qur’an tidak diturunkan secara sekaligus saja, namun secara bertahap. Tentunya Allah adalah sang pemilik rencana yang baik dan penuh kejelasan akan segala sesuatu.\n\nYuk, lebih dekat dengan Al Quran di bulan mulia. Inilah 5 hikmah Al Quran turun secara perlahan-lahan di pranala: https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/\nZAKAT.OR.ID\nApa Hikmah dari Diturunkannya Al Quran Secara Berangsur-Angsur?\nProses turunnya Al-Qur’an dilakukan secara bertahap sesuai kebutuhan kehidupan manusia\n​\nפעילה\nמזהה ספרייה: 866901976311836\nהתחילה לפעול ב-27 בינו' 2026\nפלטפורמות\n​\n​\n​\n​\nקטגוריות\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nKikoff\nממומן\nNeed a loan? Good credit makes it easy. Kikoff can help you build credit and secure your financial future.\n0:00 / 0:00\nKIKOFF.COM\nNo Credit Pull. No Hidden Fees. No Interest.\nKikoff is the #1 credit builder that reports to all three major credit bureaus.\nLearn More\n​\nפעילה\nמזהה ספרייה: 597185401313937\nהתחילה לפעול ב-16 בספט' 2021\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nكلنا العراق وللعراق\nממומן\nصفحة تمثل الشعب العراقي بكل طوائفه وأديانه وقومياته - تابعنا الآن وشارك الجميع\nكلنا العراق وللعراق\nSociety & Culture Website\n1,808,513 אנשים סימנו את זה בלייק\nלייק לדף\n​\nפעילה\nמזהה ספרייה: 1681365852414198\nהתחילה לפעול ב-13 בינו' 2025\nפלטפורמות\n​\n​\n​\n​\nהשקיפות באיחוד האירופי\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nZitmaxx Wonen\nממומן\nLOUNGEBANK MORGANA - Dit is onze loungebank Morgana! Hier te zien in de kleur en stof: Sino 102. Verkrijgbaar in alle kleuren en in verschillende materialen, afmetingen en opstellingen. De Morgana bank past zich moeiteloos aan elke ruimte aan. Welke kleur zou jij kiezen? \n•\n•\n•\nhttps://www.zitmaxx.nl/inmeubels/morgana\nZITMAXX.NL\nZitmaxx Wonen | 15000 m2 Woonwinkel\nLoungebank Morgana online bestellen of bekijken in onze 15.000 m² woonwinkel ✓ | Laagste prijsgarantie ✓ | Specialist in maatwerk meubelen\nמידע נוסף\n​\nפעילה\nמזהה ספרייה: 1555263375851429\nהתחילה לפעול ב-11 בספט' 2025\nפלטפורמות\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWhatnot\nממומן\nVintage and new Pokémon cards starting at $1 ⚡️Live on Whatnot!\nITUNES.APPLE.COM\nFighting energy\n‎Whatnot is the largest live shopping platform in the US, UK, and Europe - we’re a marketplace bringing millions together to shop, sell, and connect around the things they love. From bags to beauty, comics to coins, sneakers to streetwear, and vintage to vinyl—we’ve got it all. Explore 250+ ...\nInstall Now\n​\nפעילה\nמזהה ספרייה: 2641934662848548\nהתחילה לפעול ב-17 במרץ 2026\nפלטפורמות\n​\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nThumbtack\nממומן\nThumbtack makes it easy to care for your home. Know what to do, when to do it, and even who to hire.\nTHUMBTACK.COM\nTex Painting\nInterior Painter\nBook Now\n​\nפעילה\nמזהה ספרייה: 358530033879022\nהתחילה לפעול ב-2 במאי 2024\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nTire Agent\nממומן\nGet new tires with NO MONEY DOWN! Pay weekly or monthly. Over 80 tire brands available. Free shipping on all orders.\nTIREAGENT.COM\nBuy tires now, pay over time\nGreat Pricing on New Tires plus FREE SHIPPING. Choose from over 60 tire brands & receive fast delivery. The easiest way to buy tires online!\nלקנייה\n​\nפעילה\nמזהה ספרייה: 126",
+        "links": [
+          "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+          "http://plus.kikoff.com/fb",
+          "https://www.zitmaxx.nl/inmeubels/morgana",
+          "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2NDA5NDgx",
+          "https://www.thumbtack.com/tx/austin/interior-painting/tex-painting/service/111200760823350280?category_pk=122681972262289742",
+          "https://tireagent.com/",
+          "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+          "https://www.tiktok.com/",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729414478086443174",
+          "https://shop.pipitea.com/hbt/kd/sp",
+          "https://beautycare-iq.com/",
+          "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=10000005886576&pcate=201268096&field=GGS",
+          "https://www.expedia.com/Flights-Search?leg1=from%3AABE%2Cto%3ACLT%2Cdeparture%3A08%2F28%2F2026TANYT&leg2=from%3ACLT%2Cto%3AABE%2Cdeparture%3A08%2F30%2F2026TANYT&trip=roundtrip&passengers=adults%3A1%2Cchildren%3A0%2Cinfantinlap%3A0&mode=search&pageId=0&airOfferToken=v5-sos-0f785e25bf7c445f878fad8ec49b2dfe-145-1~9.S.1~AQoCCAESBwjUBBABGAEoAlgCcAB6A2Jmc4gBhtTeYZABAaoBBwoDQUJFEACyAQcKA0NMVBAB~AQpnCjEIwYIBEgQ2NTY1GKAgIO9ZKLyllgMwoKaWAzhCQABYAWoFQkFTSUNyCFFXRldaTkJaCjIIwYIBEgQyMDc0GO9ZIOKaASiop5YDMJ-olgM4QkABWAFqBUJBU0lDcghRV0ZXWk5CWgpnCjIIwYIBEgQzMzI1GOKaASDvWSjNuZYDMLm6lgM4QkAAWAFqBUJBU0lDcghRV0ZXWk5CWgoxCMGCARIENjU2NRjvWSCgICjtupYDMNG7lgM4QkABWAFqBUJBU0lDcghRV0ZXWk5CWhIKCAEQARgBKgJBQRgBIgQIARABKAIoAygEMAs&medianPrice=704.0&displayPrice=427.75&src=dfsmf",
+          "http://play.google.com/store/apps/details?id=com.yandex.yango",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2ODAxNjM2",
+          "https://offer.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=dpa&out_tag_id=10000002487649&keyword=soft%20drinks&product_id=10000002487649&cid=29104&pcate=29104&kpi=abrate&field=UG",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729408990098199230",
+          "https://app.alibaba.com/dynamiclink?medium_source=facebook&traffic_type=install&field=UG&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_set_id=%7B%7Badset.id%7D%7D&ad_id=%7B%7Bad.id%7D%7D&schema=enalibaba%3A%2F%2FoneSight%3Fbiz%3Ddpa%26keyword%3Ddoor%20%26%20window%20accessories%26product_id%3D10000003923445%26pcate%3D15380306%26from%3Dcpm_fb%26kpi%3Dabrate%26tagId%3D10000003923445%26categoryId%3D15380306%26categoryName%3Ddoor%20%26%20window%20accessories%26traffic_type%3Dinstall%26field%3DUG&campaign=%7B%7Bcampaign.name%7D%7D&ad_set=%7B%7Badset.name%7D%7D&ad=%7B%7Bad.name%7D%7D&placement=%7B%7Bplacement%7D%7D&source=%7B%7Bsite_source_name%7D%7D",
+          "https://hb.afl.rakuten.co.jp/hgc/15432275.93f7d735.15432275.93f7d735/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0001ppp%2Fstain1851%2F%3FvariantId%3D44735",
+          "https://www.naturemade.com/collections/digestion-and-gut-health-supplements?utm_source=fbig&utm_medium=staticsocial&utm_campaign=Q3Gut26&utm_content=portfoliostaticsocialv2",
+          "https://kalshi.com/sign-up?utm_source=meta_int&utm_medium=paid_social&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_campaign_id=%7B%7Bcampaign.id%7D%7D&utm_content=%7B%7Bad.name%7D%7D&utm_ad_id=%7B%7Bad.id%7D%7D&utm_term=%7B%7Badset.name%7D%7D&utm_adset_id=%7B%7Badset.id%7D%7D&utm_placement=%7B%7Bplacement%7D%7D&site_source=%7B%7Bsite_source_name%7D%7D&ad_event_ticker=%7B%7Bcustom_label_0%7D%7D",
+          "https://www.meesho.com/Beautiful%20Solid%20Dial%20Designer%20Metal%20Analog%20Women%20Watches%20for%20Girls/p/60GLR",
+          "https://www.expedia.com/Hotel-Search?selected=10051684&startDate=2026-03-01&endDate=2026-03-02"
+        ]
+      },
+      {
+        "ad_id": "1526216125410325",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nכ-50,000 תוצאות\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\n​\nפעילה\nמזהה ספרייה: 287460443573474\nהתחילה לפעול ב-20 באפר' 2022\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDompet Dhuafa\nממומן\n5 Hikmah Turunnya Al-Qur’an Secara Berangsur-angsur\n\nSebagai umat muslim pasti kita bertanya-tanya kenapa Al-Qur’an tidak diturunkan secara sekaligus saja, namun secara bertahap. Tentunya Allah adalah sang pemilik rencana yang baik dan penuh kejelasan akan segala sesuatu.\n\nYuk, lebih dekat dengan Al Quran di bulan mulia. Inilah 5 hikmah Al Quran turun secara perlahan-lahan di pranala: https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/\nZAKAT.OR.ID\nApa Hikmah dari Diturunkannya Al Quran Secara Berangsur-Angsur?\nProses turunnya Al-Qur’an dilakukan secara bertahap sesuai kebutuhan kehidupan manusia\n​\nפעילה\nמזהה ספרייה: 866901976311836\nהתחילה לפעול ב-27 בינו' 2026\nפלטפורמות\n​\n​\n​\n​\nקטגוריות\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nKikoff\nממומן\nNeed a loan? Good credit makes it easy. Kikoff can help you build credit and secure your financial future.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nKIKOFF.COM\nNo Credit Pull. No Hidden Fees. No Interest.\nKikoff is the #1 credit builder that reports to all three major credit bureaus.\nLearn More\n​\nפעילה\nמזהה ספרייה: 597185401313937\nהתחילה לפעול ב-16 בספט' 2021\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nكلنا العراق وللعراق\nממומן\nصفحة تمثل الشعب العراقي بكل طوائفه وأديانه وقومياته - تابعنا الآن وشارك الجميع\nكلنا العراق وللعراق\nSociety & Culture Website\n1,808,513 אנשים סימנו את זה בלייק\nלייק לדף\n​\nפעילה\nמזהה ספרייה: 1681365852414198\nהתחילה לפעול ב-13 בינו' 2025\nפלטפורמות\n​\n​\n​\n​\nהשקיפות באיחוד האירופי\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nZitmaxx Wonen\nממומן\nLOUNGEBANK MORGANA - Dit is onze loungebank Morgana! Hier te zien in de kleur en stof: Sino 102. Verkrijgbaar in alle kleuren en in verschillende materialen, afmetingen en opstellingen. De Morgana bank past zich moeiteloos aan elke ruimte aan. Welke kleur zou jij kiezen? \n•\n•\n•\nhttps://www.zitmaxx.nl/inmeubels/morgana\nZITMAXX.NL\nZitmaxx Wonen | 15000 m2 Woonwinkel\nLoungebank Morgana online bestellen of bekijken in onze 15.000 m² woonwinkel ✓ | Laagste prijsgarantie ✓ | Specialist in maatwerk meubelen\nמידע נוסף\n​\nפעילה\nמזהה ספרייה: 1555263375851429\nהתחילה לפעול ב-11 בספט' 2025\nפלטפורמות\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWhatnot\nממומן\nVintage and new Pokémon cards starting at $1 ⚡️Live on Whatnot!\nITUNES.APPLE.COM\nFighting energy\n‎Whatnot is the largest live shopping platform in the US, UK, and Europe - we’re a marketplace bringing millions together to shop, sell, and connect around the things they love. From bags to beauty, comics to coins, sneakers to streetwear, and vintage to vinyl—we’ve got it all. Explore 250+ ...\nInstall Now\n​\nפעילה\nמזהה ספרייה: 2641934662848548\nהתחילה לפעול ב-17 במרץ 2026\nפלטפורמות\n​\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nThumbtack\nממומן\nThumbtack makes it easy to care for your home. Know what to do, when to do it, and even who to hire.\nTHUMBTACK.COM\nTex Painting\nInterior Painter\nBook Now\n​\nפעילה\nמזהה ספרייה: 358530033879022\nהתחילה לפעול ב-2 במאי 2024\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nTire Agent\nממומן\nGet new tires with NO MONEY DOWN! Pay weekly or monthly. Over 80 tire brands available. Free shipping on all orders.\nTIREAGENT.COM\nBuy tires now, pay over time\nGreat Pricing on New Tires plus FREE SHIPPING. Choose from over 60 tire brands & receive fast delivery. The easiest way to buy tires onl",
+        "links": [
+          "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+          "http://plus.kikoff.com/fb",
+          "https://www.zitmaxx.nl/inmeubels/morgana",
+          "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2NDA5NDgx",
+          "https://www.thumbtack.com/tx/austin/interior-painting/tex-painting/service/111200760823350280?category_pk=122681972262289742",
+          "https://tireagent.com/",
+          "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+          "https://www.tiktok.com/",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729413112138994104",
+          "https://shop.pipitea.com/hbt/kd/sp",
+          "https://beautycare-iq.com/",
+          "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=10000006445479&pcate=202123001&field=GGS",
+          "https://www.expedia.com/Flights-Search?leg1=from%3AABE%2Cto%3APHX%2Cdeparture%3A08%2F25%2F2026TANYT&leg2=from%3APHX%2Cto%3AABE%2Cdeparture%3A08%2F31%2F2026TANYT&trip=roundtrip&passengers=adults%3A1%2Cchildren%3A0%2Cinfantinlap%3A0&mode=search&pageId=0&airOfferToken=v5-sos-f709eb8dc9a14e978126a088d76bad93-3802-1~9.S.1~AQoCCAESBwjUBBABGAEoAlgCcAB6A2Jmc4gB7YDfYaoBBwoDQUJFEACyAQcKA1BIWBAA~AQpuCjUIxJgBEgQ0OTY1GKAgIOBcKMiAlgMwzYGWAzhFQABYAWoJTUFJTkJBU0lDcghWRlZOQTBCUQo1CMSYARIDNzk2GOBcIO-5ASjzgpYDMNyElgM4RUABWAFqCU1BSU5CQVNJQ3IIVkZWTkEwQlEKbgo1CMSYARIDOTI5GO-5ASDgXCjAwpYDMJvElgM4RUAAWAFqCU1BSU5CQVNJQ3IIVkZWTkEwQlEKNQjEmAESBDQ5MTcY4FwgoCAo-cWWAzD8xpYDOEVAAVgBaglNQUlOQkFTSUNyCFZGVk5BMEJREgoIARABGAEqAkRMGAEiBAgBEAEoAigDKAQwAQ&medianPrice=957.0&displayPrice=368.4&src=dfsmf",
+          "http://play.google.com/store/apps/details?id=com.yandex.yango",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2ODAxNjM2",
+          "https://offer.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=dpa&out_tag_id=10000007011039&keyword=bathroom%20accessories&product_id=10000007011039&cid=100007128&pcate=100007128&kpi=abrate&field=UG",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729414478086443174",
+          "https://app.alibaba.com/dynamiclink?medium_source=facebook&traffic_type=install&field=UG&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_set_id=%7B%7Badset.id%7D%7D&ad_id=%7B%7Bad.id%7D%7D&schema=enalibaba%3A%2F%2FoneSight%3Fbiz%3Ddpa%26keyword%3Dgarden%20pots%20%26%20planters%26product_id%3D10000006451336%26pcate%3D100005865%26from%3Dcpm_fb%26kpi%3Dabrate%26tagId%3D10000006451336%26categoryId%3D100005865%26categoryName%3Dgarden%20pots%20%26%20planters%26traffic_type%3Dinstall%26field%3DUG&campaign=%7B%7Bcampaign.name%7D%7D&ad_set=%7B%7Badset.name%7D%7D&ad=%7B%7Bad.name%7D%7D&placement=%7B%7Bplacement%7D%7D&source=%7B%7Bsite_source_name%7D%7D",
+          "https://hb.afl.rakuten.co.jp/hgc/15432275.93f7d735.15432275.93f7d735/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0001ppp%2Fstain1098%2F%3FvariantId%3D39172",
+          "https://www.naturemade.com/collections/digestion-and-gut-health-supplements?utm_source=fbig&utm_medium=staticsocial&utm_campaign=Q3Gut26&utm_content=portfoliostaticsocialv2",
+          "https://kalshi.com/sign-up?utm_source=meta_int&utm_medium=paid_social&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_campaign_id=%7B%7Bcampaign.id%7D%7D&utm_content=%7B%7Bad.name%7D%7D&utm_ad_id=%7B%7Bad.id%7D%7D&utm_term=%7B%7Badset.name%7D%7D&utm_adset_id=%7B%7Badset.id%7D%7D&utm_placement=%7B%7Bplacement%7D%7D&site_source=%7B%7Bsite_source_name%7D%7D&ad_event_ticker=%7B%7Bcustom_label_0%7D%7D",
+          "https://www.meesho.com/StyFun%20Women",
+          "https://www.expedia.com/Hotel-Search?selected=10036568&startDate=2026-02-21&endDate=2026-02-22"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+      "http://plus.kikoff.com/fb",
+      "https://www.zitmaxx.nl/inmeubels/morgana",
+      "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481"
     ]
   },
   "current_ads": [],
@@ -378,6 +581,8 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T16:04:27",
-    "filtered": "2026-09-27T16:04:39"
-  }
+    "filtered": "2026-09-27T16:04:39",
+    "rejected": "2026-09-27T16:06:16"
+  },
+  "qualify": {}
 }

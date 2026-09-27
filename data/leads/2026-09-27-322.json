@@ -1,0 +1,232 @@
+{
+  "lead_id": "2026-09-27-322",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/spada.maor/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "196387551258461",
+    "page_name": "מאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט",
+    "active_ads_count": 2,
+    "search_keyword": "פריצת דיסק",
+    "sample_ads": [
+      {
+        "ad_id": "27055439197386608",
+        "link_title": "",
+        "body": "פריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548511303_2161128994377335_5758544805557755904_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KpE2ca_z-McQ7kNvwF7dRii&_nc_oc=AdpiVTDUP7Vokj7GnercTXoIkjRQ7szY2M5ODK0IvHEJ2vJHzNrR0qfjlPHDGON18a8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LrlY6eb72RmlgmHihjrwgQ&_nc_ss=70289&oh=00_AQKOSdUY3cCRsM8yHdVchq1wuZRfAZiVXKgxuyDisu1dkg&oe=6ABF10BE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMGNALQRWlRNMv-DkOZeOnQzQtRA79VuhiI35IHc2x7i4FVyY3F79ePudNSFKqOykcDhCkSovwmd3W3pYPim6dSQEMphvGEIccU_nLGKTZEjg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pMb52oGEiasQ7kNvwGMSlbp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjI1NTg0Mzg0MDQzOTksImFzc2V0X2FnZV9kYXlzIjozNzIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c0b0d8d5c111d01b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTRGNzI1OThDNDM0NjVEMjE1REY0RDRBMkFCQTQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNDIwMzRCRkU0MTM5MTU0Q0M3QTZCNEYzQzgzQThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbexPnCjYyZBRUCKAJDMywXQDD3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=LrlY6eb72RmlgmHihjrwgQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJLYroUA-Khm7fY1a0xulq_3t93lIO4A6GZkts2UFiuig&oe=6ABF0590"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1774940400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27055439197386608"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1105,
+      "product_score": -2,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "טיפול"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "27055439197386608"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1105,
+    "page_categories": [
+      "Spa",
+      "Health Service",
+      "Medical Service"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "27055439197386608",
+        "page_id": "196387551258461",
+        "page_name": "מאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט",
+        "page_url": "https://www.facebook.com/spada.maor/",
+        "page_like_count": 1105,
+        "page_categories": [
+          "Spa",
+          "Health Service",
+          "Medical Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "פריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1774940400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548511303_2161128994377335_5758544805557755904_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KpE2ca_z-McQ7kNvwGWl6SZ&_nc_oc=AdrkQuO3x74O2bSC2K5Xn-Da3J03mdWURLHt7HVjJHY5Ud0DGb7ew88rV8r2Tk5ey14&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ybGZzqN1fQfrwEZeuAQq3Q&_nc_ss=70289&oh=00_AQKf1h7lG2lJk3ovqGuSKK_lqku_tQJB2lijhLKImwtSYQ&oe=6ABF10BE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMGNALQRWlRNMv-DkOZeOnQzQtRA79VuhiI35IHc2x7i4FVyY3F79ePudNSFKqOykcDhCkSovwmd3W3pYPim6dSQEMphvGEIccU_nLGKTZEjg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pMb52oGEiasQ7kNvwHn8iP4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjI1NTg0Mzg0MDQzOTksImFzc2V0X2FnZV9kYXlzIjozNzIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c0b0d8d5c111d01b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRTRGNzI1OThDNDM0NjVEMjE1REY0RDRBMkFCQTQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNDIwMzRCRkU0MTM5MTU0Q0M3QTZCNEYzQzgzQThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbexPnCjYyZBRUCKAJDMywXQDD3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=ybGZzqN1fQfrwEZeuAQq3Q&_nc_ss=70289&_nc_zt=28&oh=00_AQJwHdc22c2BQs-tGa2SqE6hS7DrJQTp--pkSznE4pEjuw&oe=6ABF0590"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27055439197386608"
+      },
+      {
+        "id": "966537012475703",
+        "page_id": "196387551258461",
+        "page_name": "מאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט",
+        "page_url": "https://www.facebook.com/spada.maor/",
+        "page_like_count": 1105,
+        "page_categories": [
+          "Spa",
+          "Health Service",
+          "Medical Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כמה חודשים שהוא לא יכל להתכופף!\nבעזרת אבחון מדויק אפשר להשיג תוצאות מעולות!\nלפרטים נוספים - שלחו הודעה.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1774940400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/549644883_792581393366902_7517071618934688694_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HMAQnn7vBmIQ7kNvwHGFr_e&_nc_oc=AdpPza-V9xVPmA0QgoRYwZUd3AMhtMtIqy0cyf_7815AAu2cmJc_9roModgWwCnSs4Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ybGZzqN1fQfrwEZeuAQq3Q&_nc_ss=70289&oh=00_AQKJEcYs_7RtD4FELnMZczOQ4irx_UH1r5MmcvITUK3slA&oe=6ABF02F9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNGBfMeTyFPpjeTVL6_kkYjSQHPTGdY6GtzsMlQlPB1P7x5sDk1y5LyJv7mbCICU3Yc1FQH6d_ub1LDH8GVbzic5ACAG8Z7KEB8IlnQe0sdbg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Zr0uyeSJjSwQ7kNvwFaoOIu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTQwOTI3MTQ4MDI0OTAsImFzc2V0X2FnZV9kYXlzIjozNzIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=695f239c0577bd6e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRTRGNDlBM0IwNkYyMzIwNjJFREUzNUFCMEZEMDBCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E5NDNCM0QxODM3RTU2NTA4NEIxMUY3QTk1RTU2QkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb09K2v-O2vBhUCKAJDMywXQDgzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=ybGZzqN1fQfrwEZeuAQq3Q&_nc_ss=70289&_nc_zt=28&oh=00_AQKo9dPtYX0HCmwYfUHRezfjw49CbtwZZXjMXwDnR4_11A&oe=6ABEF984"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=966537012475703"
+      },
+      {
+        "id": "27055439197386608",
+        "body": "פריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "27055439197386608",
+        "text": "פריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "966537012475703",
+        "text": "כמה חודשים שהוא לא יכל להתכופף!\nבעזרת אבחון מדויק אפשר להשיג תוצאות מעולות!\nלפרטים נוספים - שלחו הודעה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27055439197386608",
+        "text": "פריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27055439197386608",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nמאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 27055439197386608\nהתחילה לפעול ב-31 במרץ 2026\nפלטפורמות\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nמאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט\nממומן\nפריצת דיסק? לא סוף העולם. יש פתרונות טבעיים, והם עובדים. רוצים לבדוק אם זה מתאים לכם? תכתבו לי!\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nמאור ספדה - עיסוי רפואי, טיפול תנועתי ופציעות ספורט\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:10:58",
+    "filtered": "2026-09-27T16:11:22",
+    "unqualified": "2026-09-27T16:13:02"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

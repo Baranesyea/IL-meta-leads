@@ -1,0 +1,113 @@
+{
+  "lead_id": "2026-09-27-324",
+  "status": "rejected",
+  "reject_reason": "not a pain clinic: אסתטי, אסתטיקה",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/medicalplace.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "101692519255949",
+    "page_name": "Medical Place - מדיקל פלייס - מרפאת מומחים לטיפולי כאב ואסתטיקה",
+    "active_ads_count": 1,
+    "search_keyword": "פריצת דיסק",
+    "sample_ads": [
+      {
+        "ad_id": "1011575351493202",
+        "link_title": "👇 לתיאום פגישת ייעוץ והתאמה לטיפול, הקליקו.",
+        "body": "לנצח את פריצת הדיסק עם מדע, לא עם סכין מנתחים. בעזרת טכנולוגיית פולסים אלקטרומגנטיים שפותחה במקור כדי לשמור על בריאות האסטרונאוטים בחלל, אנחנו מצליחים לחדור לעומק הרקמה, להפחית דלקות סביב הדיסק הפרוץ ולספק הקלה משמעותית בכאב. הגיע הזמן להעניק לגב שלכם את הטיפול המתקדם ביותר בעולם.",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746780041_27898408263126369_6575156238241525163_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ahyfoLOJ4YwQ7kNvwE-QzUD&_nc_oc=AdrQ2Mdhmp1Ne11M-ggtkAMcQI1RAMpYWTGsm1TszZ6c-o50fpRlxnR9vFOuSyhBA4k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=LrlY6eb72RmlgmHihjrwgQ&_nc_ss=70289&oh=00_AQJouNkrfjJu5pbC1al9qGJX9VAOoeXNdp5PMCgOUMCd1A&oe=6ABF015B"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1783926000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1011575351493202"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "טיפולי",
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SIGN_UP"
+      ],
+      "page_like_count": 3367,
+      "product_score": -5,
+      "clinic_excluded": [
+        "אסתטי",
+        "אסתטיקה"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1011575351493202"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SIGN_UP"
+    ],
+    "page_like_count": 3367,
+    "page_categories": [
+      "Medical Service"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:10:58",
+    "rejected": "2026-09-27T16:11:22"
+  }
+}

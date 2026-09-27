@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-27-336",
+  "status": "rejected",
+  "reject_reason": "no clinic / therapist signal (product, gym or brand)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.instagram.com/_u/galshor1",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "100426386232828",
+    "page_name": "galshor1",
+    "active_ads_count": 1,
+    "search_keyword": "סיאטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1013234371600835",
+        "link_title": "",
+        "body": "איך לטפל בסיאטיקה? רמז: לא דרך כדורים\nסובלים מסיאטיקה? דברו איתי.\n#סיאטיקה #פתרוןבעיות #כאבים #ספורטתרפיסט",
+        "landing_url": "http://instagram.com/galshor1",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/753738908_1010670308625912_6592786696077466938_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IP8vB0xIIHkQ7kNvwG5X4dp&_nc_oc=AdqENTeGna7_rd56RLadA-t85WN9VDgzce6Q-h-7UVgd1P0l80rMw2OTMtbt0nwu1Ck&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQJbF8Sx6KWhqeqiUNvz88cYd_3ExpAGBq9Eh4_t0gyUhA&oe=6ABEFD04",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQPwgPAcaWx9ajsxfI7VV2Tg1xO2NdWPhf8dkUuiQdSfOt3TytE4ZkpWl_y5rGtyrPQbT7NawyxAmnXLLABvEYVrYM_FwrY0Er9cFe9ivg.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pfAgjKmy3s8Q7kNvwFUU4Um&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyNTQ2MjU1NDc1ODI0MDQ2LCJhc3NldF9hZ2VfZGF5cyI6MTEyLCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQKi-pqU0Pf8HcO6ETcdPHfqpRTfk1buk0QaugpUjIjEAQ&oe=6ABF0208"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1784962800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1013234371600835"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "VIEW_INSTAGRAM_PROFILE"
+      ],
+      "page_like_count": 0,
+      "product_score": 1,
+      "clinic_excluded": [],
+      "clinic_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1013234371600835"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "VIEW_INSTAGRAM_PROFILE"
+    ],
+    "page_like_count": 0,
+    "page_categories": [
+      "Profile"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:16:24",
+    "rejected": "2026-09-27T16:17:00"
+  }
+}

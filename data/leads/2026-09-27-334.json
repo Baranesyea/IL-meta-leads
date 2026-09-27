@@ -1,0 +1,843 @@
+{
+  "lead_id": "2026-09-27-334",
+  "status": "rejected",
+  "reject_reason": "domain jepeta.com already in DB",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://jepeta.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61580886505076/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "792205097306011",
+    "page_name": "עולם הבריאות",
+    "active_ads_count": 14,
+    "search_keyword": "סיאטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "2010705929699300",
+        "link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548049501_752435150998261_1775086734367808495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9LrZiWbcbf0Q7kNvwE6VCtK&_nc_oc=AdqwTUm2lHzM5tAj_sm3YdbixQkLA4eZWUytgYrNv8Z_EAoIm3xwADgoyM2T2kOO4jQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQIYcGBgndgTo7yWAH4pSqwMJ0M5ojldEst70rNZEgH8xQ&oe=6ABF14BA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwE6EKJ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLipXBEdqZtoKfoWlBjCQXVUW-LHItD5JuprbiyBksUwA&oe=6ABF0E6D"
+          }
+        ],
+        "collation_count": 3,
+        "start_time": 1758783600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2010705929699300"
+      },
+      {
+        "ad_id": "778798825128347",
+        "link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/546561891_1485390675988887_2464365274172026797_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0cXwOs5KfVUQ7kNvwFQiuWr&_nc_oc=AdrH0nettOkTK3qYcYJEygpQ-PR4qtaLGiJ0xS7o2PhlF9rgbVUk0TdBtr1CnwiYi-s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQLyq4GMh0t4PYempPVLVQDpychqMrql_fZOPT1hNkaF-Q&oe=6ABF2769",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwE6EKJ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLipXBEdqZtoKfoWlBjCQXVUW-LHItD5JuprbiyBksUwA&oe=6ABF0E6D"
+          }
+        ],
+        "collation_count": null,
+        "start_time": 1758783600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=778798825128347"
+      },
+      {
+        "ad_id": "2241889966284392",
+        "link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/546653786_1483530412676779_3353211521451729726_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F6ZDJs3R4qgQ7kNvwH4En17&_nc_oc=Ado1lcjD9oVBaWlW-kejOPYVAa2gaUmHtXpHgqt-DrPWYzmdiLbk9pzhoXjTv7h4V8o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQINm5MxYeLsF_3hKxTajSYi1sTp8WQxMzl4eCb2JkU8hQ&oe=6ABF2C4E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwE6EKJ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLipXBEdqZtoKfoWlBjCQXVUW-LHItD5JuprbiyBksUwA&oe=6ABF0E6D"
+          }
+        ],
+        "collation_count": null,
+        "start_time": 1758783600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2241889966284392"
+      },
+      {
+        "ad_id": "1321198772940818",
+        "link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548310136_1313178073607111_6484828399024282324_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6KnRtluzu84Q7kNvwGnmf0d&_nc_oc=AdpNW26lrQJ0L5Xrc9HlXRYfq06wwRWXzD_2XhVQ6tcpubWIPYX3d_zMbg-lVyri9Nw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQLr_Y9G9i0frpiw2bgLOGHB--MsETPEbC7LsKAqtIw8wA&oe=6ABF2266",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOySZFGJU7Rll-ntEvSa52FoOqb-ABwopmoxhWeGf7SyyOBPWqNyt0_SaAqvOC9vPiNFI9s22uQTqiPK3PNuHmD75-rKlWSLHWw6stFDI4Wdw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=b_dxdnGingAQ7kNvwHvfuPO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDE0MjM1NzM0MDUzNDc5LCJhc3NldF9hZ2VfZGF5cyI6MzgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=51aede6e1fdb6370&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQTRERDA0MkJBMTZEQkYzQUQxODI2QTIxRDVGMzBBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAyNEVCNzEzQzEwRkQyMERDQTcyMEU0RDYzMDk3M0I0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOyayKpZzNAxUCKAJDMywXQCKvGp--dskYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLIWGva0nBpdzJfE5IzoXRCNe7SJg9PW1E7U_PcIXL2Zg&oe=6ABF141B"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1758870000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1321198772940818"
+      },
+      {
+        "ad_id": "578148965320791",
+        "link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547242640_789681960122019_889787301595652475_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wQ3kw7vS4EgQ7kNvwHpyYXw&_nc_oc=AdoyQNmx-pxOnqy_fUyyJuNDAat8OFVOunoTtSFrnHM1nXxp09wDL4AhwFPH-AP7PGg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQLPmrCuA8-PGFOxwNuMZ-npxciHNZiZSp3iFrkIx9WBEA&oe=6ABF0736",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNmKofboDRtjcDCFhe0MPLnBqMjgXdTWO-H4P5IJM9IzeV5tfz5n1mfg4aZ_jISEL8njWZc8hkZ6z3ygjP6XUBEmtraB95_bYSqOPshkA.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Sds0gc7_1p0Q7kNvwGGJ1NT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI4OTY3NDQwMjM3MTQzMSwiYXNzZXRfYWdlX2RheXMiOjM4MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQK7093OdB0CtWuv98EzgaGTixDcyrj3TSmokC8qQIEjHg&oe=6ABF19C2"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1759129200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=578148965320791"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "טיפולי"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 14,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 323,
+      "product_score": -4,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "טיפול",
+        "טיפולי"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2010705929699300",
+      "778798825128347",
+      "2241889966284392",
+      "1321198772940818",
+      "578148965320791",
+      "2241505429646657"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 323,
+    "page_categories": [
+      "Health/beauty"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "2010705929699300",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548049501_752435150998261_1775086734367808495_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9LrZiWbcbf0Q7kNvwHURxHV&_nc_oc=AdrK-ALCEz1SWT6oo2n7XzMZvLTUjIKByyjU74K2Q9xNjFOOf-BvAJzP89WIdr6lBVo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLvTdzLgsjbZmPw-2KN0001_LNKFQ0eSkEXvIrQw_jlqQ&oe=6ABF14BA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwEkYft8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLmIJQbaorGKxREUJzXxTJ6cLHxXjYOgOGqyUTw3RMtkg&oe=6ABF0E6D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2010705929699300"
+      },
+      {
+        "id": "778798825128347",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/546561891_1485390675988887_2464365274172026797_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0cXwOs5KfVUQ7kNvwGytEHk&_nc_oc=AdrrgDISJnoeMxxFkt7yyrqcw5lYL6T_Du4pqPnpwyEcROBGKxCEE1m8WccGzurKGG0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLncJb3PFgwI3IP-w8DoU7EJ1ohaxqkhnscxrO5IodVsg&oe=6ABF2769",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwEkYft8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLmIJQbaorGKxREUJzXxTJ6cLHxXjYOgOGqyUTw3RMtkg&oe=6ABF0E6D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=778798825128347"
+      },
+      {
+        "id": "2241889966284392",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "בריאות/יופי"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/546653786_1483530412676779_3353211521451729726_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F6ZDJs3R4qgQ7kNvwE6RqF7&_nc_oc=Adrmj4OichKuiEINHn_BSxuxfQGIcb9b7YJP09mR8OIDrHBOFObwDj4BDs2wu1wzHA0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQI0yoIrPH5M1SdlnX6B1--Qd5Nb-dai4sckciSxMK3BLQ&oe=6ABF2C4E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMV1Q31FGAXIscc-l-ZxQXVNhRgfjkfps2BCCVG2EbmOAQ6S0uscHn3YJ7ZgmEphg4JFu79ASxMsoekI574mvUJElBsHEnKtGVysv71UObi-A.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Lp4pFRlZZ_cQ7kNvwEkYft8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODE1MzQ2NTAxMjIxMjksImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3218c2b8463511fa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRFNUFBM0NFQzNERDVBODQxNDg2QzNCMDM0MkE5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEyNDlGNUE2MDdFOTc1MDJBRkYyREIzMDdBNDAxRUFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_rOZkePGBBUCKAJDMywXQCchysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLmIJQbaorGKxREUJzXxTJ6cLHxXjYOgOGqyUTw3RMtkg&oe=6ABF0E6D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2241889966284392"
+      },
+      {
+        "id": "1321198772940818",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758870000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548310136_1313178073607111_6484828399024282324_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6KnRtluzu84Q7kNvwEGRVzA&_nc_oc=AdoGqbQebQAT-0C6AZedpiergFbHXeRvRW_12aNVyigdxgAwWGQwMnSpMpBSrFS4arQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQKFN-QsGX2nEh3Z5vaTQmD8Biz9LB41VmG7mHW6oY5D9w&oe=6ABF2266",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOySZFGJU7Rll-ntEvSa52FoOqb-ABwopmoxhWeGf7SyyOBPWqNyt0_SaAqvOC9vPiNFI9s22uQTqiPK3PNuHmD75-rKlWSLHWw6stFDI4Wdw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=b_dxdnGingAQ7kNvwEg6mmH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDE0MjM1NzM0MDUzNDc5LCJhc3NldF9hZ2VfZGF5cyI6MzgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=51aede6e1fdb6370&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQTRERDA0MkJBMTZEQkYzQUQxODI2QTIxRDVGMzBBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAyNEVCNzEzQzEwRkQyMERDQTcyMEU0RDYzMDk3M0I0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOyayKpZzNAxUCKAJDMywXQCKvGp--dskYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJctcNieDbVsGSwUe4PZQgpUUlIevIMzqNent2jhOolkw&oe=6ABF141B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1321198772940818"
+      },
+      {
+        "id": "578148965320791",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1759129200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/547242640_789681960122019_889787301595652475_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wQ3kw7vS4EgQ7kNvwFwqZx1&_nc_oc=AdpEOq1BGYr7lojwuEc1jJyxFG-oPX1xJuD9Kn5Jk9IYrkVCwSPOere7ehhc6vJgZgk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQI0YXCtEvfDkvXPUB2HhoxpYt1I8lnqnMtTmheOWEPk3w&oe=6ABF0736",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNmKofboDRtjcDCFhe0MPLnBqMjgXdTWO-H4P5IJM9IzeV5tfz5n1mfg4aZ_jISEL8njWZc8hkZ6z3ygjP6XUBEmtraB95_bYSqOPshkA.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Sds0gc7_1p0Q7kNvwF-EplC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTI4OTY3NDQwMjM3MTQzMSwiYXNzZXRfYWdlX2RheXMiOjM4MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLzb9ZLee_3gFT-pRxvUQg4e45liFUhF4uKYDVrrk8d5A&oe=6ABF19C2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=578148965320791"
+      },
+      {
+        "id": "2241505429646657",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/546638103_1864286954509933_877568302308139102_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yR6JoGT6CAoQ7kNvwF7f2QD&_nc_oc=AdqnFoK1BFGX9pJfeW3_000e-c8FI0EyjqtKETqljUwn1kirf2FneJr0mTRIZM5ORlQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLD9_8YJTkbAPdt-pxTJE0pHXrVPPvZ16A0Lb0czS-tuw&oe=6ABEFC25",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMg3wDLdPRaL0PU_Go7ks3l3QRiPfb2A2Yw71yRuYcDXi_gKdM1exccVtMquSXNtp1zoanbr3Bs2x0gHLTOrmwxI00lc4Mp3gny4OgEjKr80g.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=JQZHxrcgdA8Q7kNvwEufUA7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNzEyMDk0MDA5OTM5NjIsImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=10fb07697d88c2a5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NDQ1QjREODhBRjI5MTU5NEQ3NEZBODhDOTYzQjVCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EwNEVDMERDQzc4QjEyNEM2MTE0NjQzNDZBMDY3RDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUosCMkIrCBBUCKAJDMywXQDP3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL8nOZeLcofGT5S9T6ErrYhzFUOmzI_fIeZaWn-Um85RQ&oe=6ABEFC44"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2241505429646657"
+      },
+      {
+        "id": "810990481415058",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547444514_1302361104622327_1080371411185809317_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yxk3HxEtL60Q7kNvwFtljTL&_nc_oc=AdoPMTJGFIs2DMntT6m4ieGEru6z4DkVDwh50wWDhtU4Mh0x4G0JK66JGOvIWDI2cC8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQJXtqdPZm_HIGPa2dzinfWbu7TvnlpZm57NLthLHWAxPA&oe=6ABEFADD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMg3wDLdPRaL0PU_Go7ks3l3QRiPfb2A2Yw71yRuYcDXi_gKdM1exccVtMquSXNtp1zoanbr3Bs2x0gHLTOrmwxI00lc4Mp3gny4OgEjKr80g.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=JQZHxrcgdA8Q7kNvwEufUA7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNzEyMDk0MDA5OTM5NjIsImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=10fb07697d88c2a5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NDQ1QjREODhBRjI5MTU5NEQ3NEZBODhDOTYzQjVCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EwNEVDMERDQzc4QjEyNEM2MTE0NjQzNDZBMDY3RDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUosCMkIrCBBUCKAJDMywXQDP3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL8nOZeLcofGT5S9T6ErrYhzFUOmzI_fIeZaWn-Um85RQ&oe=6ABEFC44"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=810990481415058"
+      },
+      {
+        "id": "4238598506410344",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב מהבית",
+        "body": "בלי תרופות וניתוחים: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "בג'פטה אנו מבינים היטב את התסכול העצום שחווים לקוחותינו מול אתגרים יומיומיים. לכן פיתחנו לאורך השנים מגוון פתרונות חדשניים ומשמעותיים ואנחנו בטוחים שנוכל להמשיך עו...",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1769414400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619330477_1515803963044942_5561564216770139873_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBslKLWVjEwQ7kNvwGgmE9L&_nc_oc=AdoPNegqQ2P17H8IwheD-XPTVdcv-J-xHSwPDveQzUecYZJyav4Y3uIG6aH13cXmj7k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQK-VBj0Ie6u3SJ5o8vtiyveUYTvv8hYPHO1C3mYDDoHTA&oe=6ABF14E6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4238598506410344"
+      },
+      {
+        "id": "897554612763178",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770537600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618810556_1385349736894651_6312350151797531779_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9LK_lr0QeGMQ7kNvwGVYr3R&_nc_oc=Ado4IZ26B9maYSiy_gIYvznnPkYc_U-pPVxjg_j6PxUrZYLYWztroVYYljD8WGHaUeU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLl6deM2fBXkVNY_d_s7m-SA-voL_ZRi4O4XHyCs7SLCA&oe=6ABF00E1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOAA6KvbxOKqjY89XDeSx4CJnjP3b8G1OKl4RMLi0k4xwxfGyi4ayp3Gvg-qmZWXg4hn3K7qkNnG-HxofSqt1Vv3NG0gvJp9N7LpErYmlYgtg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=NTNSajIlMhIQ7kNvwHgcF7d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTY1ODk5MTgxMDYwMjg2LCJhc3NldF9hZ2VfZGF5cyI6MzgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a79e7f44ea7df33&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMzQ3MUY1ODE4RjZCQzlDMjY2MDI2MzJCMUUwNzRCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA2NDJGN0MxODkyODA0QTY4MjQyNjdGOTAwOEU2Q0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8woeHqovIBRUCKAJDMywXQBMEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQICmCuSGQhz18EstMJkkq2ehfHP3lQo04nNNHj1bPYbNQ&oe=6ABF033E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=897554612763178"
+      },
+      {
+        "id": "1219900333208489",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הMRI שגרם לי כמעט להתייאש",
+        "body": "“אמרו לי שהכאבים בגב התחתון הם ‘סתם עומס זמני’…\nאבל אז הגיעו התוצאות של הMRI - ושם היה כתוב את מה שחששתי ממנו: הדיסקים בגב התחתון כבר לא נראים כמו פעם.\n\nבמשך חודשים ניסיתי הכל - משככי כאבים, משחות, פיזיותרפיה, אפילו מנוחה ממושכת - וכלום לא באמת עזר. הכאב רק התפשט, התחיל להקרין לרגליים, וכל פעולה יומיומית - לקום מהמיטה, לשבת בעבודה, או אפילו סתם לקשור נעליים - הפכה לסיוט מתמשך.\n\nרק כשהגעתי לכתבה הזו, נפל לי האסימון.\nהבנתי סוף סוף מה באמת עומד מאחורי הכאב הכרוני - ולמה רוב הטיפולים עוצרים רק את הסימפטומים, אבל לא פותרים את הבעיה מהשורש.\n\nבכתבה נחשפתי לשיטה חדשנית שמצליחה לעזור לאנשים עם בעיות גב ודיסק לשחרר את הלחץ, לשפר את היציבה ולהחזיר את היכולת לחיות בלי כאב.\n\nהיום אחרי שניסיתי בעצמי אני יכול להגיד בלב שלם: החיים שלי חזרו למסלול. הגב מרגיש חזק ויציב יותר, ואני סוף סוף חזרתי לעשות את מה שוויתרתי עליו בגלל הכאב.״\n\nקראו כאן את הכתבה:\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "בג'פטה אנו מבינים היטב את התסכול העצום שחווים לקוחותינו מול אתגרים יומיומיים. לכן פיתחנו לאורך השנים מגוון פתרונות חדשניים ומשמעותיים ואנחנו בטוחים שנוכל להמשיך עו...",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1759388400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/557658715_1467935724462096_7803384545763393905_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lDeSq93ISfIQ7kNvwGps5wu&_nc_oc=AdoOQf7PPKkXYI3zS_DVzx3R3tM20JxGYdQ24C1InQL74Xvi1yjS9snZ8h4cNNFkSNg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLTG7UDlqvZhprtV5GxuwGdpRyh2OvbLEaVCcALImGniw&oe=6ABF2B35"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1219900333208489"
+      },
+      {
+        "id": "787079923960165",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758783600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547281477_1101775322061888_5811794679534202539_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2_hBL2rfCv0Q7kNvwGEtH5F&_nc_oc=AdoylIZZ12NeiWmOUWrqu3qchJv2_E6WK0xa-6sIQqiYMwO8zuQyPkLxHrDKCbbTFlw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQJtmW5GXSaOMcV_Ctj7lHwdm2PGoS6ydfcFoKWsD_LTrw&oe=6ABF2A78",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMkaGigv8E6tPRNPwZYxRctS6ATpoE_SfngRbf0B75qKEvkTZHI9RJ8q1KM9rQBuiqwWt6fBF8VPHYMh_s7PdH_mJ7RclAczaWKnzXW-vP0tQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lEXovrjy2EIQ7kNvwGrdxg1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgwNTU3MjUyMjE0MDY5MywiYXNzZXRfYWdlX2RheXMiOjM4MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=522ef9f135fdff76&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82QjRCRjMzMTVFRjg0QzdGMDlBQzg1ODQ3Qjg0NjlBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg4NEE4N0YxNkFDN0U2QkQ4MEMzOEU5Q0REMjc1REJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqkK-Av6ruAhUCKAJDMywXQCgQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLHhRMXUsrXPddp0g2ojbw25Mlo4E_SlECjr5VfZGWI0Q&oe=6ABEFC99"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=787079923960165"
+      },
+      {
+        "id": "1498679517994403",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758870000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/545397924_1312029193955554_1462631895556220193_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rmqKdT-LhdMQ7kNvwETsBbf&_nc_oc=AdrJPwNSwbkUFmoO8ew4jr1i0O_sio9pAGek-mc5KCVN9Mzb-ZtrJwHJTPNmjS0269s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQLI280BypwzNMiFH1OTBE-V9k7BeLzTA9R5b7FrAC3GfQ&oe=6ABF0EDD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQONLLCwrr08zSK3CBWv6F1vtx_fGaYIndts7TWOxvL_gBIIShFMCE3bK9Wh-SmPzIkLbv1HoWzjKzlpx4I65GF8PI8JvyWARg5p4uhRZNWb3A.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CDVYykbQrKQQ7kNvwHL8dwy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzMTMzNDIyMjY0OTk3NiwiYXNzZXRfYWdlX2RheXMiOjM4MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f42182f10dfaee79&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTQ2RUIyNTE5NzJFNEVEMDM5RDYxNzA1RDBFODNBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZENDhERkVERUIxNTEwMjJCQTgzODYwNzExNzg3OTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw6b7Qgob6AhUCKAJDMywXQCJEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKiMuiLZZppDqMNLSvsyasFzpS3mIzczU-pMcXShtCpEA&oe=6ABF1C56"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1498679517994403"
+      },
+      {
+        "id": "1558711765121159",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763020800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/583050184_25121247280869188_6153992937143677222_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QfkoOCyl1_sQ7kNvwFyA0Y9&_nc_oc=AdpfqLNghTD8-WnxAJzRhhZWW8uibY9HbbvpKSg7jSczOuREhvpv6v7KnjzBOZVt6NI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQIU3QY_OjJw6FpLcenJ6fTSLWqG5G3T2dwcXhn0OYUB6A&oe=6ABEF845",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNTc6je6yhLZbwNUT3pN3kpFkTRl9lVa11PekEnnlTib4xfazPMg_EmT5dI2_Jdql5cG1meLicpJtdhu8VPM0YKelmcL5T9Tw4fwIwCqfGZkw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=e8wl26i5H4gQ7kNvwE6_Or9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDU3NDkwMjAyMTY5MzQ4LCJhc3NldF9hZ2VfZGF5cyI6MzgwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7a70585473388742&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENzQ3QUMwREUxRTQ0MUY3QzVEQ0M3NTEzMTEyNDQ4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDA2RUIyODlFOTk4MDQxOTVBNThBNzlCQjcwOUI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIwJycjOWWBRUCKAJDMywXQCJEm6XjU_gYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIMOXj-T199SPiMOcpBu5kepHDoTPDTGETtwagzLz9vjw&oe=6ABF28C3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1558711765121159"
+      },
+      {
+        "id": "1331360935271120",
+        "page_id": "792205097306011",
+        "page_name": "עולם הבריאות",
+        "page_url": "https://www.facebook.com/61580886505076/",
+        "page_like_count": 323,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "שיטה מפתיעה לטיפול בכאבי הגב | מעבר לקריאת הכתבה >>",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1759215600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548138140_1343343707452543_8770150757562719792_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L-rFld7N30YQ7kNvwEEbAV3&_nc_oc=AdqBxrLS0zmSYQXnTS8enoKqabMpXF884EuACZrrXlxxBcDwFbV661YKycdLiJEDrFg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&oh=00_AQKWlEsVaXk2f-l-Hkfz2XAdeE3ekl0U3BNwY0V7p7TKeQ&oe=6ABF1E4D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNuKNbycJzzMyNap4wn-5FwODNlm8vqpLzYnRCUif3mruVI9GgKmh2RphfS-LToX7MNbHhYrPBrA7eUUvyPGanbm0EDrbNq9bEYPLFev52ulg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Ai0egmb25XIQ7kNvwGr14Tq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo3NTY1ODI1NzcxNTM2OTEsImFzc2V0X2FnZV9kYXlzIjozODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=aff4c476a721de74&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NzRBNUIzOEUxNzZGM0ZBRjFBREQxMjk3MjA1QUNBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EyNEYwOTAyNUNEMTU0MUYwNDdGRUIzRThDMjVEQjg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2mom884bYAhUCKAJDMywXQBmGJN0vGqAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Hzwg4UZElG0UokuqKeRokQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_OvExaOeu_EYEKnlPxgAIJ_8cFYiO6mhgtBrYf6ZEjg&oe=6ABF09FB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1331360935271120"
+      },
+      {
+        "id": "2010705929699300",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+      },
+      {
+        "id": "778798825128347",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+      },
+      {
+        "id": "2241889966284392",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+      },
+      {
+        "id": "1321198772940818",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+      },
+      {
+        "id": "578148965320791",
+        "body": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "landing_url": "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2010705929699300",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "778798825128347",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "2241889966284392",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "1321198772940818",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "578148965320791",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "2241505429646657",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "810990481415058",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "4238598506410344",
+        "text": "בלי תרופות וניתוחים: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "897554612763178",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "1219900333208489",
+        "text": "“אמרו לי שהכאבים בגב התחתון הם ‘סתם עומס זמני’…\nאבל אז הגיעו התוצאות של הMRI - ושם היה כתוב את מה שחששתי ממנו: הדיסקים בגב התחתון כבר לא נראים כמו פעם.\n\nבמשך חודשים ניסיתי הכל - משככי כאבים, משחות, פיזיותרפיה, אפילו מנוחה ממושכת - וכלום לא באמת עזר. הכאב רק התפשט, התחיל להקרין לרגליים, וכל פעולה יומיומית - לקום מהמיטה, לשבת בעבודה, או אפילו סתם לקשור נעליים - הפכה לסיוט מתמשך.\n\nרק כשהגעתי לכתבה הזו, נפל לי האסימון.\nהבנתי סוף סוף מה באמת עומד מאחורי הכאב הכרוני - ולמה רוב הטיפולים עוצרים רק את הסימפטומים, אבל לא פותרים את הבעיה מהשורש.\n\nבכתבה נחשפתי לשיטה חדשנית שמצליחה לעזור לאנשים עם בעיות גב ודיסק לשחרר את הלחץ, לשפר את היציבה ולהחזיר את היכולת לחיות בלי כאב.\n\nהיום אחרי שניסיתי בעצמי אני יכול להגיד בלב שלם: החיים שלי חזרו למסלול. הגב מרגיש חזק ויציב יותר, ואני סוף סוף חזרתי לעשות את מה שוויתרתי עליו בגלל הכאב.״\n\nקראו כאן את הכתבה:\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "787079923960165",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "1498679517994403",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "1558711765121159",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "1331360935271120",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      },
+      {
+        "ad_id": "2010705929699300",
+        "text": "בלי תרופות: טיפול חדשני ומיוחד לטיפול בכאבי גב תחתון וסיאטיקה מהבית\n\nבמשך שנים ניסו להתמודד עם כאבי גב תחתון והקרנות של סיאטיקה באמצעות תרופות, עיסויים וטיפולים יקרים - אבל התוצאות כמעט תמיד היו זמניות, והכאב חזר מהר יותר ממה שציפו.\n\n⬅️ בכתבה החדשה בעולם הבריאות נחשפת שיטה מפתיעה שגורמת לאנשים בכל גיל לגלות שהקלה אמיתית יכולה להגיע ממקום אחר לגמרי.\n\nהכתבה סוקרת:\n• מה באמת מסתתר מאחורי כאבי גב תחתון וסיאטיקה.\n• למה רוב הפתרונות המוכרים נכשלים פעם אחר פעם.\n• הגילוי החדש שמאפשר לגוף להחלים בצורה טבעית - בלי תורים, בלי זריקות ובלי כדורים.\n\n📌 לחצו כאן לקריאת הכתבה המלאה >>\nhttps://jepeta.com/blogs/health-world/back-plus-advertorial",
+        "links": [
+          "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://jepeta.com/blogs/health-world/back-plus-advertorial"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:16:24",
+    "filtered": "2026-09-27T16:16:47",
+    "rejected": "2026-09-27T16:17:54"
+  },
+  "qualify": {}
+}

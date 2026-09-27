@@ -1,0 +1,397 @@
+{
+  "lead_id": "2026-09-27-342",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972534623129",
+      "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+      "confidence": "medium",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; mobile number printed in the ad"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "185894955292063",
+    "page_name": "איתי אלבז - צילום אנרגטי, רפואה סינית משולבת",
+    "active_ads_count": 5,
+    "search_keyword": "כאבי ברכיים",
+    "sample_ads": [
+      {
+        "ad_id": "1511015147207008",
+        "link_title": "לחצו לפרטים",
+        "body": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/467204950_1325098531854349_1038941933648974874_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HDWGf8lQSH8Q7kNvwHxBbnq&_nc_oc=AdqzEns-BmrDu_moJvGbNK_u3HlimQfvBiGkufn95rVvSsMmSYwnoItq2JarlPe_RyA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQIhtz2UQy-d_GHmVMW9TKdhWHo4OF0cG1oprH6j36Hjjw&oe=6ABF0D82"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1777186800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1511015147207008"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "צילום",
+        "קליניקה",
+        "טיפול",
+        "טיפולי"
+      ],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 5,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 426,
+      "product_score": -7,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "קליניקה",
+        "טיפול",
+        "טיפולי",
+        "דיקור"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1511015147207008"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 426,
+    "page_categories": [
+      "Health/beauty"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1511015147207008",
+        "page_id": "185894955292063",
+        "page_name": "איתי אלבז - צילום אנרגטי, רפואה סינית משולבת",
+        "page_url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+        "page_like_count": 426,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "לחצו לפרטים",
+        "body": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1777186800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/467204950_1325098531854349_1038941933648974874_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HDWGf8lQSH8Q7kNvwESEoxp&_nc_oc=Adoaz_6bJwBXJDKE_xMy-n0tEL1xe_25KuEa76oZ_zkPm7fc1tzvBJBNOJbYXTW4pAc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&oh=00_AQLPv5DvqP_U8OhJ9oQQ0nU4qmwSXVI_m_ZEft8-5JTaTQ&oe=6ABF0D82"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1511015147207008"
+      },
+      {
+        "id": "951058854513803",
+        "page_id": "185894955292063",
+        "page_name": "איתי אלבז - צילום אנרגטי, רפואה סינית משולבת",
+        "page_url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+        "page_like_count": 426,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "לחצו לפרטים",
+        "body": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \n\nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\n\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\n\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\n\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\n\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1777186800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/679915063_1282598437340023_2908969901026607840_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjvPjyx8DfcQ7kNvwF-Chwc&_nc_oc=AdoIYQHbJWNEBiY7jSMUvHDLEWSl1X-N3R68GIyJn1q-HAzagA_t-Y_HPU_FihtnwjE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&oh=00_AQL7m2lhRbt3NErUrVRkzXF4kYyZHmUYE0tAVDQxW44o4g&oe=6ABF0C54"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=951058854513803"
+      },
+      {
+        "id": "1616567709617233",
+        "page_id": "185894955292063",
+        "page_name": "איתי אלבז - צילום אנרגטי, רפואה סינית משולבת",
+        "page_url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+        "page_like_count": 426,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה משלימה ורפואה סינית. \n053-462-3129📱\n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ מאות מטופלים מרוצים.  \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777186800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/467429790_1692842838240850_5799386530655292325_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k00GasFKT5cQ7kNvwF-9E93&_nc_oc=AdqKrnnLWf0IJf9c_aHRCnCYK64JV9kiUGl_sud8bjGjFmhU41lqTyXQk8apQtxcj38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&oh=00_AQIBjGuwZu0TWBsHbXdvQhvn3umONNkK02_ID2kX115xhw&oe=6ABEFC5B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNvVRkC8VS0YyPfpkunKjCAZNcLXiU3izO1np083YcUGUfhE8PtJW50amGQ9RwUMIz-dK9JDUUZ2yiJA6aVMDj-.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=eS4LzkWUOEAQ7kNvwGMut5i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMjA1MTEyNzcxMjk2NjY4LCJhc3NldF9hZ2VfZGF5cyI6NDY1LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&_nc_zt=28&oh=00_AQLrBnQq2GxTWhnFXnEOj8Y65mhfAOE22yaXfvT0LlBLDg&oe=6ABF248B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1616567709617233"
+      },
+      {
+        "id": "971104348663665",
+        "page_id": "185894955292063",
+        "page_name": "איתי אלבז - צילום אנרגטי, רפואה סינית משולבת",
+        "page_url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+        "page_like_count": 426,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "לחצו לפרטים",
+        "body": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777186800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/681252405_973215639005732_9104292315294041017_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WgT9PecahTgQ7kNvwG7qrN1&_nc_oc=AdrHKW1qTIOfR6SnGJ6XA-Z5uB8tirZYjWNB6XWQu005RSGjxzu-QJ7km--8cH1xiQw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&oh=00_AQKbjpF-FdOYkQYLXxvC5iEh_LC5JeX5nUtbRhPT-54PvQ&oe=6ABF2DC7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMAGQ2_ASHHHzFjbO-57o3MVTfXmQurDU8pNKuipohjZPDR4_Fe_LKq8CqyTkd1Ni4GvpfwiNIOEKsQJEiH2EcIM_V6CVsOtl3Z1aVaMqKKvw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=gnTksgyO9MsQ7kNvwEyzckS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MzU0NzA0MDcyNjYzNiwiYXNzZXRfYWdlX2RheXMiOjE1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5f036d3953b6c610&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTQ4M0I2NjkyMzdENTU3RUUyMkUzNEQ3RURCN0U4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJBNDA3QzQxQUNGMEU3Q0YyNDNCOTlGQTlGNUVDRUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY-ZyK38-xAxUCKAJDMywXQEad0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&_nc_zt=28&oh=00_AQICBLFXX-qU1gU5WZPlinfvnUPBZ4GNR3kBmzEKtnAm_g&oe=6ABF0668"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=971104348663665"
+      },
+      {
+        "id": "2330259721052318",
+        "page_id": "185894955292063",
+        "page_name": "איתי אלבז - רפואה סינית מתקדמת.",
+        "page_url": "https://www.facebook.com/ItayElbaz.VisualEnergy/",
+        "page_like_count": 426,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "לחצו לפטים",
+        "body": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/681178917_2071538543577149_1204048008398667371_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NFVHSd1cXP4Q7kNvwFRbjZ7&_nc_oc=Adp6aoNRnDP5rCbDkHSSgcHlIpfrQ_pdlAYKp-bmLiVgR_SATpuNzBSEHNmH7dexsb8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RKlntWjQqNEIG0o2AFRSeA&_nc_ss=70289&oh=00_AQJu0-rWFlV341qPRUu7AGkpbdU8X4FH4OTamd53BhgM0Q&oe=6ABF0E05"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2330259721052318"
+      },
+      {
+        "id": "1511015147207008",
+        "body": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1511015147207008",
+        "text": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "951058854513803",
+        "text": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \n\nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\n\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\n\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\n\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\n\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1616567709617233",
+        "text": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה משלימה ורפואה סינית. \n053-462-3129📱\n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ מאות מטופלים מרוצים.  \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "971104348663665",
+        "text": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2330259721052318",
+        "text": "כולם אמרו לה שמיגרנה זה משהו שאי אפשר לרפא. שפשוט לומדים לחיות עם זה. \nחנה הגיעה אליי עם תיק קטן מלא בכדורים. ממש תיק, עם מחיצות. לכל סוג כאב כדור אחר.\nהיא סיפרה שהמיגרנות מלוות אותה כבר 10 שנים. שהיא כבר לא מתכננת כלום ביום שאחרי, כי אף פעם לא יודעת מתי זה יתקוף. שפעם, באמצע ארוחת שישי, נאלצה פשוט לקום ולהיכנס לחדר חשוך בלי להגיד מילה.\nהיא לא חיפשה פתרון כשהגיעה אליי. היא חיפשה מישהו שאולי יקל קצת.\nעבדנו ביחד כמה שבועות. דיקור פועל על נקודות שמרגיעות את מערכת העצבים ומשחררות את המתח שמצטבר בצוואר ובבסיס הגולגולת, בלי תרופות ובלי תופעות לוואי. זה ממש לא קסם, פשוט משהו שעובד אחרת על הגוף.\nאחרי 5 טיפולים חנה אמרה שכבר בקושי יש התקפים והם מאוד חלשים. לא מפריעים לחיות בכלל. נכון להיום חנה באה אלי פעם בחודש לטיפול מניעה וכבר שנה המיגרנות לא מטרידות אותה. \n\nלחצו על הכפתור למטה אם אתם סובלים ממגרנות ורוצים להיפטר מזה",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1511015147207008",
+        "text": "תושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1511015147207008",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nאיתי אלבז - רפואה סינית מתקדמת.\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1511015147207008\nהתחילה לפעול ב-26 באפר' 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nאיתי אלבז - צילום אנרגטי, רפואה סינית משולבת\nממומן\nתושבי כרמיאל והסביבה👋 אהלן! שמי איתי, ואני עוזר להקל על כאבי כרוניים בגב, כתפיים, ברכיים, כאבי ראש ומפרקים. בלי זריקות, כדורים או ניתוחים. איך? באמצעות מגוון שיטות של רפואה כמו כוסות רוח ודיקור סיני. \n053-462-3129📱\n\nעוד כמה סיבות לבוא אליי לטיפול: \n\n✅ תוצאות כבר מהטיפול הראשון! \n\n✅ בשנים האחרונות עזרתי למאות מטופלים. \n\n✅כתוצאה מהטיפולים, המטופלים שלי משפרים משמעותית את איכות החיים ומרגישים בעלי אנרגיה הרבה יותר גבוהה.\n\n✅ישנים הרבה יותר טוב.\n\n✅מוצאים את הכוח להגשים את עצמם וללכת אחרי החלומות שלהם! \n\nמקבל בקליניקה שלי בכרמיאל. \n\nאשמח לעזור גם לכם להתחיל לחיות חיים חדשים בלי כאב! תלחצו על הכפתור מתחת לפוסט ליותר פרטים, או שפשוט תכתבו\\תתקשרו 053-462-3129📱\nWHATSAPP\nלחצו לפרטים\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:19:15",
+    "filtered": "2026-09-27T16:19:25",
+    "qualified": "2026-09-27T16:21:19"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1616567709617233",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1616567709617233",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972534623129",
+        "source": "https://www.facebook.com/ads/library/?id=1511015147207008",
+        "labelled_whatsapp": true
+      }
+    ],
+    "missing": []
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "lead_id": "2026-09-27-347",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61590672166764/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1209213082270383",
+    "page_name": "ד\"ר מקבל שלח - כירורגיה אורטופדית",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי ברכיים",
+    "sample_ads": [
+      {
+        "ad_id": "1062134222884031",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://lp.drshalah.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766194667_1740020203854306_1756531108995090980_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PyTGmoDA1-4Q7kNvwEt7wJo&_nc_oc=AdoyfX3CZ-9NJTos0g6AZdI4KXCMI_h_TJsTaONDtSzD21EaZFzCMfZoJsFnGM-XS6w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQK4vxiWS4Pvse4yv21FWTtXaEv7JzOkAJZJ0TrnmEGD8w&oe=6ABF1E6E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764845038_1586649819757707_6407640896574937545_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zWXCFCxrIuwQ7kNvwHzN-vv&_nc_oc=Adq3Mv_va1k-cDJiT19a_uyB1B5W47I6YwlDMlWXkNl1GFe1FeSDcJ_nwYaqOPwHdMw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQLSGHEooWKZgxyUuW1wAo0hrL7aT_wegFnlbEPRVzfImg&oe=6ABF0AF1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763722848_1744479263360944_2268105629661404986_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d0V1UIQBbDsQ7kNvwFSg2Vx&_nc_oc=AdrHK_RtqPptYjamiJC-LtXCtfQhZaLH_zadLeEu-uSZthuMRbH4SKnlaAdJC6Ts6b0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQKNFex8MFjctDBfY6p6U36h8tJFBnwpv1Cfz9cQ2tUeKw&oe=6ABF12AC"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1785913200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1062134222884031"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 185,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "ד\"ר"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1062134222884031"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 185,
+    "page_categories": [
+      "Surgeon"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1062134222884031",
+        "page_id": "1209213082270383",
+        "page_name": "ד\"ר מקבל שלח - כירורגיה אורטופדית",
+        "page_url": "https://www.facebook.com/61590672166764/",
+        "page_like_count": 185,
+        "page_categories": [
+          "Surgeon"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://lp.drshalah.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766194667_1740020203854306_1756531108995090980_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PyTGmoDA1-4Q7kNvwFaWMBS&_nc_oc=AdrJklk7sqB0Br7vEeJeziDawexQNM1ljPciMpINoxM158jIe8a-NQ7TxdxU9OE0ewg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQLuWLKo5k9Jz0xHbwGZSNphAfPGLnP9lgp1tAFXiosvGQ&oe=6ABF1E6E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764845038_1586649819757707_6407640896574937545_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zWXCFCxrIuwQ7kNvwFlwcSD&_nc_oc=Adpu5unWQwb6xqKwkT8Yh2dWB5u9rdF-51wkDnqChdimcnf2wZJYROCaV356B8bjuHw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQIgIh-M-9nZyyMbRqn54yPgEhxwgrowz_Fk9fVY-Pe1cg&oe=6ABF0AF1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763722848_1744479263360944_2268105629661404986_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d0V1UIQBbDsQ7kNvwEzu0NM&_nc_oc=AdoglhUp7VD16SF2bOingAFFQTLqFOWkGb80qPzXLTWEn7NM0KpHh54IGSwsUu4RzvI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQJAVv7T2KtgHAvYyMsMoSycWxNNl6b0BM6hUc_RxMSAVA&oe=6ABF12AC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/765970391_4542962959363896_1959845292039421432_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FK6z6XH_gPMQ7kNvwEcQeE2&_nc_oc=Adq9kJJnY76zhLm9sX3W5-3-gu97TX9R-FCn9vCMcnDiAOAjnY84k_Db8VYUyrfik4w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQJWQ--ecI3tK_fKXht1sNnN_4L1w9LPok1hlnRYKKMDYA&oe=6ABEF902",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766221575_2312014596205284_9036182725146535293_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ksb8LIdF0gQQ7kNvwFmZSVh&_nc_oc=AdrdXDKgTENwakMMiF_g1hD5OdNAozswhQ3UdJPo-RakJRoKsWisUhXcwrY6928g4UM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQISeTdQOBnmQlPCFK4dihsQG1Osd96o6U8Tb4SJxhZqNw&oe=6ABF01A0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/762974705_1066426929174363_7777711639645909089_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lKFvKia0zjQQ7kNvwFx8q_T&_nc_oc=Ado4zpNah7OdF3VO-_Kv0cCRthLyZrsLZ_uVOMPDIkeeTXftMsS83kfDo-Epx8bZWoc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Fpjubu9hZxTK1CMvSFP8BQ&_nc_ss=70289&oh=00_AQKt_0ShTLfITc58pHJaRB341pnvzBAPd6FI1pA2F47ZBQ&oe=6ABF060E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1062134222884031"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:19:15",
+    "rejected": "2026-09-27T16:19:57"
+  }
+}

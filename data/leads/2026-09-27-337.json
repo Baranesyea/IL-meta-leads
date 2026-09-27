@@ -1,0 +1,279 @@
+{
+  "lead_id": "2026-09-27-337",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61570459254823/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "543539435498809",
+    "page_name": "ד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית",
+    "active_ads_count": 3,
+    "search_keyword": "סיאטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "27974730912215787",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/755870703_1750651565966359_2114557937563833794_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VYcVL4rv4Q4Q7kNvwFePRE8&_nc_oc=Adq87wsDIV3dsxfqBe69JpddqHHdfyR1GEIZwEXYTRaFhmW8tBXPB1RkNvnHTX9TVEE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&oh=00_AQI59njSaFYeRlOdeN646CokX72gfm_PmXEfNTc2LMFaKw&oe=6ABEFE8D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOPpjvIIn5ZOabtbmbejkt-PKwfTJ2aX7UJpkeFPETYS_dTCGtY6Q3oTci5LAnAED39lmHXPV6yhnV881s7zaJuRHOG9Vg1tcpeoF3BVdZ35A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=coIjsiPNPrMQ7kNvwFPi0G-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzEyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjI0NTc3NzQ5NDAyMDQsImFzc2V0X2FnZV9kYXlzIjozMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=120737d7e6087d76&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBQ0REODYwNjY1QTBGRjk4RDc5MUQ4QjVDNTZBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg1NDFDMDFBNUJCMjI4RUI2NUFEMzEzN0ZBQUY2Q0I3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYgLfKgcPGBRUCKAJDMywXQES9cKPXCj0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=noI0XrcxW_CwT9HqTwrYEw&_nc_ss=70289&_nc_zt=28&oh=00_AQLQBmvnIR0BHZHXg9Q_t6_nrX6S9LyoLr7Z737gAnPrXQ&oe=6ABF07EC"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1785049200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27974730912215787"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 360,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "ד\"ר"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "27974730912215787"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 360,
+    "page_categories": [
+      "Medical Service"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "27974730912215787",
+        "page_id": "543539435498809",
+        "page_name": "ד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית",
+        "page_url": "https://www.facebook.com/61570459254823/",
+        "page_like_count": 360,
+        "page_categories": [
+          "Medical Service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/755870703_1750651565966359_2114557937563833794_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VYcVL4rv4Q4Q7kNvwH6S43u&_nc_oc=AdpoiQXDsZnqzk-Esbx3p8h4CAsJd-NHaGycNQxUsX6rwG1NLkOjXDMTDSzLtRYVJu4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQJzbo3yeegL_dIJV-CSx1Qh4mXmjLpMXHs7F4fJ4uejvg&oe=6ABEFE8D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOPpjvIIn5ZOabtbmbejkt-PKwfTJ2aX7UJpkeFPETYS_dTCGtY6Q3oTci5LAnAED39lmHXPV6yhnV881s7zaJuRHOG9Vg1tcpeoF3BVdZ35A.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=coIjsiPNPrMQ7kNvwGne7Ji&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzEyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjI0NTc3NzQ5NDAyMDQsImFzc2V0X2FnZV9kYXlzIjozMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=120737d7e6087d76&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNDRBQ0REODYwNjY1QTBGRjk4RDc5MUQ4QjVDNTZBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg1NDFDMDFBNUJCMjI4RUI2NUFEMzEzN0ZBQUY2Q0I3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYgLfKgcPGBRUCKAJDMywXQES9cKPXCj0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQKLK_Em4PUt2519iCRRbm_Jmev21RL08m4fj6GdzXUC9Q&oe=6ABF07EC"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740821670_1064482329569528_613098823085571073_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gA2139Prdz8Q7kNvwFjnlfy&_nc_oc=Adqu1e93Ez-bOYzDQo-OtrB3sUYG7R9JuzXCY7LWkyC4QXFWula-iA8wsVJxwRM3Wfs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQLnlFPivF9eFRCxR_020WGWQVV2GjHOMAsabHK7L-pGUg&oe=6ABF1F72",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMD12Wdg5zi0gfGgzWiDvkhZF_25Gb7orssZGEixNbHaKemyLR4aNjpceN7XsziKUqQi8gZfNvMC878IJd3z5l9pjW98EN6w-8KBaufFhOb0A.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=T8AZ7FR7ougQ7kNvwGnKZkJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNzU1MzkwNjA3NDU2MzksImFzc2V0X2FnZV9kYXlzIjozMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a80d350b082c1aad&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNjRFRTExODA2MUQ4QkVDRjkxOEVDMjk0NjFCQUVBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNDMyNTk0NzJFMUQxQzhCQUMwM0VEQzM4NDUxQUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOlpXCsMmWBBUCKAJDMywXQETAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQInk116uK0hrqSMqNsYnIEi8a5n5-m_yexFdFPyCSBz4A&oe=6ABF1DC1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27974730912215787"
+      },
+      {
+        "id": "2572252383206772",
+        "page_id": "543539435498809",
+        "page_name": "ד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית",
+        "page_url": "https://www.facebook.com/61570459254823/",
+        "page_like_count": 360,
+        "page_categories": [
+          "Medical Service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/757267381_2547055265734430_1242657811014347196_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CuUlQ7kMG1cQ7kNvwGRX0kN&_nc_oc=AdpE3TcaC8jH8D7G_GEHmJICZc0BPmrU6nsyrMSc4QrtQu3HuXq3QJqAsl0Tu20hqIk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQKH12YCyg_4sQFx3ZllLPK4wSmFYpxR77Ipflwm1cYXEg&oe=6ABEF99A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNAkurPwT7qEjafW4gRC866jOPfeWx01vSejQ45uQzrU6wQ278KcAlrCR7b0XBdgUCJJrX7uJUxuu_ZnoyT4W8aI9LpyyE7RqjQyG_H_k-OGA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=amwP4ukeQssQ7kNvwHRlo4Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzEyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzMzMyODA2OTY3MTU0MSwiYXNzZXRfYWdlX2RheXMiOjMxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d0115e6349b4f965&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTQzNTBDMDg5ODRGMzI3MUE4RDczQjlGQjA5RDJBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNENFMTkzMTg1NzAyNTk2M0NDRDI4MTE3RUYzMDhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq6Zf5ifr6AhUCKAJDMywXQEN1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQIeqZFvA5pyhPTASJ9ZWoJIu8EXb8byTvKx1_4O8amZ3g&oe=6ABF15C2"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/757979482_1065155096069663_9159585533153013048_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0LWSHTQ1yNMQ7kNvwFUrh2M&_nc_oc=AdqPd8-H6zLspjxjKO1BHSIEM3CiyJ82yu0CPgxvOeJ4TcIqzeBPdgvdoB9BIdzMiP0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQIWeGpMys6XcIW9QlOe48fnRUzN_4qAaER0iDY-XmN9YQ&oe=6ABEFF05",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN32OiC6sUDDlGzXJtXrB9u5iwiQww8yP9XCx6kXoffw2uKMpecloJnsl_aNCsksd7F6ZhMyKZZfAXH-y8fA5PayQYo-AmJK9zyD85hve-CWg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Yks9-pyINUIQ7kNvwFu8Ofh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDk3MTY4NTMzMjA0MTMsImFzc2V0X2FnZV9kYXlzIjozMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=82a4f813d5701d96&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDQ3NDM0NDFERTI0MzNBMkJEODQ3RENEN0I3OEFBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM1NDkyRjE5QjE5N0FBRTk4NjVFNDU4NUJGQTI4Mjk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6q7eZ7uPlBBUCKAJDMywXQENzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQLQNv_pvTq63Q7wQgz6--u8X0J8HjGla9u1uyqIofFrHw&oe=6ABF1D15"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2572252383206772"
+      },
+      {
+        "id": "1084548010576889",
+        "page_id": "543539435498809",
+        "page_name": "ד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית",
+        "page_url": "https://www.facebook.com/61570459254823/",
+        "page_like_count": 360,
+        "page_categories": [
+          "Medical Service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/758518259_1047425391017927_5422020263601469590_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TxwA6Czs_vgQ7kNvwGLdJHn&_nc_oc=AdrzBPNCxt94AUlw4JYZuqwYWRNJ9hgGyKHJg-Dl91bFmX_M53p6hkN43A5ZQv65ZZY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQIqA5vZVPHARKAtyJwhm2vazKd8vJ2I1DykGUjpiIv41w&oe=6ABF1848",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM4U1O1QW6D71Ab2gBIHQOJHimlpPqQTKYY06bs3Kf8B0EvQn4RdSEZebqpWRZayCRXpJbdPbnZUq8sdQtnkTFLQ0G0wEYWp88Ck5WblEEzPw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=iqklrj49bjUQ7kNvwHYCzdo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzEyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgxMDc1MjE1NDkyMTQyNywiYXNzZXRfYWdlX2RheXMiOjMxMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d2ad798421b5caae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDQ1QjEyOEZCQzZGREI3NEVGRjRGNjY4MDFCNTJBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNDM1NjQ4NjY5OTYyQUNGRTAyNkUyOUYwRDIwN0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamp4-j_tfwAhUCKAJDMywXQD964UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQLWppJkQmj9m9tbrLElqpl4ROod9rbS9Tr61-ayfpnfMg&oe=6ABEFF25"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/754849913_2020770825270426_6546187317297827447_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZ9zb18qdOwQ7kNvwH70aYc&_nc_oc=AdqjfsVPq_lbn5ggSopguvbzqDAoyDlH0xz6Vr8NSie1fXOa7OoIttvUHuGqGFAhc1s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&oh=00_AQLT8-7vscD5gk8Kqv1u9ynQLM44dRCXlc3eVi_tNn_XcA&oe=6ABF2649",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP5SEgoX0xFCfDwTXBlVnbCQqRKTC90tovWL89mP3Oqeu2EyX8f38Z2HWMzlPKYQe7Bi-qDv8OO-HtZ9NutCZ-qBB0mgJAdaJbG5lh01SA2_g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1-1CiGDdcfwQ7kNvwHHTeQU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDU1NzUzMTAxNjQwOTQsImFzc2V0X2FnZV9kYXlzIjozMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7ac1349a4e190152&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzQ1NTgwMUZDQzlERjczOEY1M0UyMTgxRTRFRjdCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NGNDE1NUE5ODY1Q0RGNzczNzQ1QTg5NDE2OTcxQkE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8gdTE7eWZBhUCKAJDMywXQD93S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=wy_5gx_F3oexQFn_6o5drA&_nc_ss=70289&_nc_zt=28&oh=00_AQL2p8aONMAKPSF10DNQEYd_meeOHgizR3DA4mAIKkH2NQ&oe=6ABF2438"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1084548010576889"
+      },
+      {
+        "id": "27974730912215787",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/"
+      }
+    ],
+    "social_landings": [
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "27974730912215787",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "2572252383206772",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1084548010576889",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "27974730912215787",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "27974730912215787",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 27974730912215787\nהתחילה לפעול ב-26 ביולי 2026\nפלטפורמות\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nד\"ר גלעד מנשה - מומחה לרפואת כאב אלטרנטיבית\nממומן\nבמודיעין. קליניקה לטיפול בכאב.\nאפשר להפסיק לסבול בלי ניתוח, בלי תרופות!\n\nדורבן ברגל? כאב גב? סיאטיקה או הסתיידות?\nאפשר לטפל בזה מהר, בצורה יעילה ובטוחה בלי ניתוחים ובלי תרופות.\n\nבקליניקת 4LIFE של ד\"ר גלעד מנשה, מטפלים בגלי הלם ובטכנולוגיות רפואיות מתקדמות שמחזירות לגוף את היכולת לרפא את עצמו.\nהטיפול לא פולשני, מאושר רפואית, והתוצאות מורגשות כבר אחרי מספר טיפולים.\n\nאין החזרי קופ\"ח | אין מרשמי קנאביס רפואי.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nמרפאת כאב פרטית במודיעין\nLearn More\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:16:24",
+    "filtered": "2026-09-27T16:17:11",
+    "unqualified": "2026-09-27T16:18:14"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

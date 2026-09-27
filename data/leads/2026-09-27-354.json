@@ -1,0 +1,113 @@
+{
+  "lead_id": "2026-09-27-354",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/back.into.shape.clinic/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "447855502066852",
+    "page_name": "Back into Shape Clinic",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי ברכיים",
+    "sample_ads": [
+      {
+        "ad_id": "1346330750701222",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711563286_975547645182139_10728884319105104_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y7Gnac241_QQ7kNvwGGuQt6&_nc_oc=AdrXyT1WD-aQfzgCAfaVOKNoCZDpgQhFduzSTRoaoWFwcp79Y1s4Nm1MPosCBHsp-vM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQIMq7pCwRs0oBTLYd3HxtuleXtebhfVT9RRZgLEAORvYg&oe=6ABF0BF5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN_gPSh9dIQ0QvALz8ZWUL5JZ8OziJjrQ9O64hgJA_SxHqowefTKVY3kVAQ5mhJ1gfdgn5u2a3RlaQEIRhz8nq-RXKPQUM0lCzI_XMFCjSR0Q.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ekymEKjt-b8Q7kNvwHRvpE4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzIxNzAyMzg0NDUzMzcsImFzc2V0X2FnZV9kYXlzIjoxMTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=72d11481a7131be4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjRBMTU4NjExNEU3RTg4NjJDRDRBMEJBM0M3Q0I4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNEY3Q0FGQzc1ODc2QTBEODhGMUYzREZDNUFCOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaynOLsheC4BRUCKAJDMywXQFFrhR64UewYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLYWddAiAHqXGGIXNd58c3xImcXUallM4stHXA7Kst40w&oe=6ABF1C65"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1780470000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1346330750701222"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "clinic"
+      ],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 1441,
+      "product_score": -2,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "clinic"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1346330750701222"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 1441,
+    "page_categories": [
+      "פיזיותרפיסט"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:19:15",
+    "rejected": "2026-09-27T16:20:38"
+  }
+}

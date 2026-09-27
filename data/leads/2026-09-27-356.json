@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-27-356",
+  "status": "rejected",
+  "reject_reason": "no clinic / therapist signal (product, gym or brand)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61584435416602/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "804018612804782",
+    "page_name": "Innocare",
+    "active_ads_count": 1,
+    "search_keyword": "כאבי ברכיים",
+    "sample_ads": [
+      {
+        "ad_id": "1039035618809868",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://lp.innocare.co.il/pain-free/?utm_source=facebook&utm_medium={{adset.name}}&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{placement}}",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701056283_1317724983830998_2008076769999146191_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VWd73O6UTnMQ7kNvwGkl8fX&_nc_oc=AdqikufNVSW-KNdQWG6F1NJ_ISan2p_CKYg4neW0EV7IZZ9Hek0W9OhkFcxOW1Kas88&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQLd5fxXmOqWLvEd03bL5sO61TfoDbTO2_QyUyR-BsBfcg&oe=6ABF25FE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPa3ytCy6Fh_Glubj2hsMpB237RYdv5ZKQ7GrWtfu5cixxkPu62sMiY0bpBz_GLkipw07rvT6OKiQzFOsOjHy5uHbVrdLcv4MMin2FAeNBSnQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=s8OdmFYZ-YkQ7kNvwGwsXY1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg4NjYyMzQ1NzE5NTgzMiwiYXNzZXRfYWdlX2RheXMiOjI1NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6e71d27a55297f61&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTRGNTVEOEFCMDgzQ0FCQjA5RjI2RDVDMjZEQUNCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc1NERDNDgwMEJENTY2Mjk4MDJDNEY1QUZCQjlCOTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw3LnDo5iTAxUCKAJDMywXQFGbtkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIppcE1cIVw4Tz5f-fESwae-DCqH8rlCZ0O8ExJPUC16Q&oe=6ABF2302"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1782889200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1039035618809868"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 184,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1039035618809868"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 184,
+    "page_categories": [
+      "Medical Service"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:19:15",
+    "rejected": "2026-09-27T16:20:50"
+  }
+}
