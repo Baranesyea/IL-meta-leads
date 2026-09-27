@@ -746,7 +746,110 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 16,
+      "seen": 16,
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-06-08",
+      "days_since_newest": 5,
+      "longest_running_days": 111,
+      "distinct_texts": 9,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          9
+        ],
+        [
+          "WHATSAPP_MESSAGE",
+          6
+        ],
+        [
+          "VIEW_INSTAGRAM_PROFILE",
+          1
+        ]
+      ],
+      "videos": 9,
+      "landings": [
+        [
+          "kingdomofhalva.co.il",
+          9
+        ],
+        [
+          "api.whatsapp.com/send",
+          6
+        ],
+        [
+          "instagram.com/halvakingdom",
+          1
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp",
+        "kingdomofhalva.co.il": "ok",
+        "instagram.com/halvakingdom": "fail"
+      },
+      "home_share": 9,
+      "samples": [
+        {
+          "start": "2026-07-16",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-06-08",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-08-06",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-08-05",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "לפתיחת כרטיס לקוח עסקי >>",
+          "body": "יש לכם חצי מטר פנוי בעסק? \nבמקום להשאיר אותו ריק, הפכו אותו למנוע רווח שעובד על אוטומט.\n\nהסטנד הממותג של \"ממלכת החלבה\" מנצל בצורה חכמה כל פינה פנויה בחנות ומגיע אליכם עמוס במוצרי פרימיום שהלקוחות כבר מחפשים (חלבה, טחינה ועוד).\n\nאפס התעסקות בתפעול, מקסימום רווח לכל מטר מרובע.\nפשוט מציבים - והמותג מוכר את עצמו.\n\nלחצו כאן והשאירו פרטים לקבלת הצעה משתלמת.",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-08-31",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "מחירון סיטונאי למלונות ומטבחים מקצועיים >>",
+          "body": "שפים ומנהלי רכש?\nהגיע הזמן להכניס למטבח שלכם\nאת החלבה והטחינה הטובות בישראל 👨‍🍳🔥\n\nממלכת החלבה מביאה למטבח המקצועי שלכם מוצרים באיכות הגבוהה ביותר: טחינה זכה שנטחנת באבני ריחיים עתיקות\nוחלבות גורמה מרהיבות לשולחנות האירוח, הבופה והקינוחים.\n\n• מענה מהיר ופתרונות אספקה למוסדות ומסעדות\n• מחירון סיטונאי תחרותי בהתאמה אישית\n\nלחצו עכשיו לשליחת הודעה ולקבלת המחירון הסיטונאי 👇",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-16",
+          "cta": "SHOP_NOW",
+          "title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+          "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+          "landing": "https://kingdomofhalva.co.il/"
+        },
+        {
+          "start": "2026-09-16",
+          "cta": "SHOP_NOW",
+          "title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+          "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+          "landing": "https://kingdomofhalva.co.il/"
+        },
+        {
+          "start": "2026-09-16",
+          "cta": "SHOP_NOW",
+          "title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+          "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+          "landing": "https://kingdomofhalva.co.il/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
