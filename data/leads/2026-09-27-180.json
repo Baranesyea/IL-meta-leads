@@ -1,0 +1,794 @@
+{
+  "lead_id": "2026-09-27-180",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://medics-care.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Medics.Care.IL/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972559598591",
+      "source": "https://www.facebook.com/ads/library/?id=1858692898621420",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": []
+    }
+  },
+  "meta": {
+    "page_id": "107420003972672",
+    "page_name": "כורסאות עיסוי Medics Care",
+    "active_ads_count": 16,
+    "search_keyword": "לפרטים בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1858692898621420",
+        "link_title": "כורסאות עיסוי Medics Care",
+        "body": "כורסאות עיסוי יוקרה מ-10,000 ₪ — XZ9, XZ8, XZ7, Royal Z9, Casada TITAN ו-Russo Sana Vivo.\n\nשלחו הודעה בוואטסאפ 055-959-8591 לקבלת מפרט מלא, ליווי אישי בבחירה ותיאום הדגמה באולם התצוגה בפתח תקווה.\n\nאולם תצוגה: תוצרת הארץ 1, פתח תקווה (מגדל T, קומה 6) · א׳–ה׳ 9:00–18:00, ו׳ 9:00–13:00",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802717764_28826458880279998_5339841565282088558_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZWe9AQclR0Q7kNvwEQSXV6&_nc_oc=AdrR2dKRfLJWQaNF2mhg_CyLKRo0UduufNmrQaburS9XGrEL4fQbACI2sZMOdsr_S0o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQJ7QWwFbz7ODJfeuaOrMz-akRL1iFj-vCC2xUQ8yFE3Nw&oe=6ABE9913",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799759970_1099415722524322_3050837875644095582_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XI1c53qjae8Q7kNvwHaHMRX&_nc_oc=AdoyNecPU4n7BhGWxiM96cJgUkIn70cFYRouXcStYREdge3hJzLfsJmuHhCYIt2RUGA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQLQ8gABLoyca28IndqFYc_uCE0MLt7Tf2ZIUYuxJKmIYQ&oe=6ABE887D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798021582_1593483472476705_2525339033662062560_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8g3Krg4ihwQQ7kNvwEEWk45&_nc_oc=AdpuCar1mdMX2REIf7XJRE-6q5E-JhfpzEv9sCupJvNyVar9G3i1ihqFgNCKbrAi5yE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQLWq1chlb3vyIFpapeR74Iijs7o2zxvAdldxYZiOycBAg&oe=6ABEAD65"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789023600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1858692898621420"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 16,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 4233,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1858692898621420"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 4233,
+    "page_categories": [
+      "Website"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1858692898621420",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "כורסאות עיסוי יוקרה מ-10,000 ₪ — XZ9, XZ8, XZ7, Royal Z9, Casada TITAN ו-Russo Sana Vivo.\n\nשלחו הודעה בוואטסאפ 055-959-8591 לקבלת מפרט מלא, ליווי אישי בבחירה ותיאום הדגמה באולם התצוגה בפתח תקווה.\n\nאולם תצוגה: תוצרת הארץ 1, פתח תקווה (מגדל T, קומה 6) · א׳–ה׳ 9:00–18:00, ו׳ 9:00–13:00",
+        "link_description": "29,990 ₪ · לפרטים בוואטסאפ",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802717764_28826458880279998_5339841565282088558_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZWe9AQclR0Q7kNvwFXrAWU&_nc_oc=Adp0Qc_zG8NyAW7-8LfE4uhZAsH2EyeSfoKXNpC70fdZki9V2su6tOExh5zqMT0A0h0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLDPH7dOdrDW0fC3WXuJAgG7pVDK8ufWbpPLcsvh_uyeg&oe=6ABE9913",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799759970_1099415722524322_3050837875644095582_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XI1c53qjae8Q7kNvwE_lliA&_nc_oc=AdoinjRaZoSJ3TDMD3sqKYm6V6_gpKkYIbzqqtPHW28-VKNZfns3DXo0pjAqoGCbRZI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQK3TWa8mLr4xfSaA_U9y3DGfnOb12TcgxHYzGY0OxMdMg&oe=6ABE887D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798021582_1593483472476705_2525339033662062560_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8g3Krg4ihwQQ7kNvwF27-Dn&_nc_oc=AdrIgrZ5bKLCnmTNxU2relPfSZ5jAzQ-EGYpmlcIQmRPmf4YouhkSXw8xLCdLGJoR0Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIrNAQ9JpwKsJWUlYc9uuX1o2YTqf5InXcQ9UE-Y75dLQ&oe=6ABEAD65",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798047080_906734652247793_5829112519771139981_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YNxQfDThhtgQ7kNvwGEWVWa&_nc_oc=AdrN_OiXPxgKyyaT_4LkuNHlHPhyu9tck6vkWsDtLwkKA-UbjRE4iMpK5h_ivSkOMwI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQK6jEPrjL8kFmk-alb3TWEoQAxXUydar5Vnnx2_Q2nF3g&oe=6ABE8AC7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799783552_4534425600134543_6914512419660280567_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HOEz1TocEwYQ7kNvwFMqXHG&_nc_oc=AdpowBZhT9CfOvXjWEe-CFpZ5b92gtrYcki0jX2YSPPy-W1M8CHERST69guUbe7HyC8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJLXblW0S8_dYIvSNZii5Yx3_qz-4oEoMzzix2VCteyVg&oe=6ABEB4B5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799849882_1989616395071315_3286859187826407287_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0CqkI1snK_EQ7kNvwEbCA5C&_nc_oc=AdqEGikUq_97HkYNi3vm2SwzQP9HV_izuVq1aXjqd8M1PoCGVTaoGWrVSPh5bPiYiRg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKtBViawvyJEBByzPOMI6a7QKtHcA3DbTYWukqit5Haeg&oe=6ABE98DA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798084740_1766503321207976_362521209182107859_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fPuk5Q1SkwQQ7kNvwGAujPq&_nc_oc=Adq9nSIY73vK8btlcACThSWGtPNhvMJALgfT-tzOB42exCne4phuJ9mPuiO3awW_8KE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLidrbEqUZZAT9OIXezwIDu3HrfHk6SvrAcZyHSSG1vcA&oe=6ABEB867",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798094680_3381744632007887_3808401279249370980_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ws8ndFONIG4Q7kNvwEIiu4V&_nc_oc=AdqefKg7c6V1mmLSj20nGDfD_ooqLl9m_ho_W2O90O13oqatPMIWWY7SX4ult0FQjQE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKTqeclFhfBzSgatNmQpF4462yCUF0ypDXV-ddUrd79zg&oe=6ABEA9DC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1858692898621420"
+      },
+      {
+        "id": "1101005189534365",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "🔥 Уже скоро: новое поколение массажных кресел Medics Care.\n\nG7 · F6 · GX6 · G6 · P5 · G5 — для дома, RX9 — для клиник и бизнеса.\n\nЦены пока не публикуем. Напишите нам в WhatsApp: 055-959-8591 — и вы первыми узнаете цену, характеристики и когда модели поступят в продажу.\n\nШоурум: Тоцерет ха-Арец 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+        "link_description": "Скоро · цену пришлём в WhatsApp",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799142885_1061310356887557_1460513212263493974_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YApGu-bqi1QQ7kNvwFwHE3u&_nc_oc=Ado7fKkgZ-lVvmOqStwdsbnuAEGkPT1qIDGaZ5sXM3I4K10U8bJ8PzGXbnYBSuB9Uy0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJki0uzKNUDCQimfIOlLG9yTaEHYoqnklXj8k8B-UpDng&oe=6ABEA921",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802459188_1403528527979243_2308063970262555906_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=98-afNCLBMgQ7kNvwEg-hT4&_nc_oc=AdoBhWPpBjZAA9va3xYm0Nn7Oz4ef07FH6BhlgpY02TmrTdNVBHz7MYs-GboU98OnGo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKwxDfQtVm9RhmRhJ1TgEt83DqAQ4E4DhRA-CHYUaiJYQ&oe=6ABE973E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799958512_1579639630315003_4653103217662546914_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t4tzSDJkxjoQ7kNvwGb5XVg&_nc_oc=Adoc98HC-_zKIHN_-F3NYO9HhKpH6EjAbN-fEXAFWnsY1DNCKaB9XvqWtA-YTX-dIu0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIM2uA_08_XajaXQDgTg0g-5wtsThjYDynRRJM-_0LDfw&oe=6ABEA2EC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797841451_1853720626039341_7144737927296155433_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p0JsFcK48t0Q7kNvwFVkfod&_nc_oc=AdrplcTEOktDS9l8adXlXKsU6rql4Z9Ll4fLYt9IXazmdF_cTnmMZsQRQSGD_3nCu6k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJJqe5Z18wiRxC4SJqq4J5ilqXdsQnaBXecAyN0rDaK4g&oe=6ABE896A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798884315_2439272829814865_4744778174517360141_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PmSx59puw6oQ7kNvwHvGq2q&_nc_oc=AdoiWofMT2bsmvHZh6wbv73i9lTiElH-rkJPN9ytXSOaHuN0p0IALpiP26YYhaDuvNw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJDceeo8dNbtF_opd-j23U7HHchTcEVvWYodFE1bI6FVA&oe=6ABEAF31",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798035389_1780426686317410_6992219702891777082_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NK0rLQX-GjsQ7kNvwG8BcfX&_nc_oc=AdohXb9-yHCun-uO54exwSRSkrZemQzfjpOk0UgFLUwObAVWRvIuVDBrnkTRi5FrOUA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQICeqhLNkb_0L7exvSb6UHvRcfyZQePVWHmUv_-F5tD5A&oe=6ABEB25E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799142885_1718961586067789_7933077312696755965_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ibGfbx0qAHkQ7kNvwEdQSn2&_nc_oc=AdryfNI79yONvsnAfpTWguhY1EV_l7GkeahjzRPqYo09AFf0UGPwta3Dk2lkjI1KSVY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJhXjVDgrC0FlXLlMXDCj_KyBYphDD5QkiwbW0UG11UlA&oe=6ABE8F33"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1101005189534365"
+      },
+      {
+        "id": "1401230532074512",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "Массажные кресла премиум-класса от 14 990 ₪ — XZ9, XZ8, XZ7, Royal Z9, Z6 Diamond, Comfy CZ7, Casada TITAN и Russo Sana Vivo.\n\nНапишите нам в WhatsApp: 055-959-8591 — пришлём полные характеристики, поможем выбрать подходящую модель и пригласим в шоурум в Петах-Тикве попробовать кресло вживую.\n\nШоурум: ул. Тоцерет ха-Арец, 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+        "link_description": "29 990 ₪ · напишите в WhatsApp",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802783991_1419075193480746_245332936852075981_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eZkhDXbIUFsQ7kNvwEQf1zj&_nc_oc=AdrYyJoE-WKnQkVhrxj5L6vqdZQusMYeGqWIiHlgjp6gt9mMYHD0ZjYjIOJrClEhx7w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLOmI6IuIgJ01lEVN21EUh4D7CBV0_RT175JQWRFgB7pw&oe=6ABE9EDE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802906652_1583365816854598_8966932349370563352_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7_1lJX7coGAQ7kNvwG7o28B&_nc_oc=AdpGnVB413jgYe82Da9OVUh1Leg2MDWniCfnrmTy7xv0UIC87NPpUO7spsVgTGk2e7A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQI8_mIu46oN9sKJQu1X22Dxx2z3KYV9yW87Y0fQ-ASPXQ&oe=6ABE9BC7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802863684_1074486544940953_6664199930555305045_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-XmNs22Fl5QQ7kNvwEIxpv9&_nc_oc=Ado0o2HNTOZe3AATiMAyIKEN-NwhPCpzutjyLtwhnS_7Pg6BLb1_Ht2nRyjz4x9D_u0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIu8O_P9j7eDSh8AGfLlyygNQDfwQIoVwKguIaN6GKj5Q&oe=6ABE9246",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/803005324_2123814875686387_815143077731239722_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zl0CQz1loqoQ7kNvwHHvqIl&_nc_oc=AdosxUY9c74K7C8GC15ZLZDVnu7R7zBLW6-FjNLIzL8wwy5vkBeo6b_nG9SEqSTXcQM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQL7MqGN7ZyWP_0RlIc1c5KQAiLAhMRPvGokglCvCyLVrQ&oe=6ABEA003",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801885718_1658567905783096_1596565793482825049_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HKeMhEJslrQQ7kNvwH6k1M-&_nc_oc=AdpzLdS7CfsxgjKHP1ue0qOYgqVLWzpmI2yk5cyQovVTrcErggekDKC3C4Vh7menDk8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQK8PeYOQIvbnUBh0dOsoBdHKEftwK1BJwwSCIMqVoWAuw&oe=6ABEB0C8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801808305_1764494514801499_5468119039387430742_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t4oD7bec2eYQ7kNvwHdavMy&_nc_oc=AdrLVqaK2Y7Y-rF7ZPtC602Xjytp18a8KdA39snpY2CdKhqGDzUoQhyW4r4W1J_FJk4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIoxS09VAcF2UDm-c7iaoDwnjsFkjfsUpS_UhFjmy-OQA&oe=6ABE8730",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802821242_907525062438993_8931026245402822085_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FCJn20zUxksQ7kNvwGM59WR&_nc_oc=AdowJNFTWy_9PGyAht0YTIte-8tsYTWNZgfxoTdy_ZiwpC72Ek3GN-o-cdLaVMkezHs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIFUXEou3OJk71rR6lrsmTc3NDHKghp_ex3MxRorRJSsA&oe=6ABEB100",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802074487_1074632878382188_2083557869250109388_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0VUuL4M6V0Q7kNvwEiAwwV&_nc_oc=AdogXvc8lvkXsM1m1gjSwmp0qtSL-yeuvsxeyaKZbax6NqpHBUUB3-xEg6tb-Fyk0IE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLb1WN3f7ZD48n9ts0w4KVPA-0azWL2RoYmO0H-b8RiOA&oe=6ABE9AF7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1401230532074512"
+      },
+      {
+        "id": "1820235115798934",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "הדור החדש של Medics Care — עכשיו עם מחירים.\n\nשבעה דגמים חדשים, מ-125 ₪ לחודש. כבידה אפסית, חימום וכריות אוויר — בכל אחד מהם.\n\n24 תשלומים בהוראת קבע ללא ריבית, או עד 36 תשלומים באשראי.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T) — בואו להתנסות לפני שמחליטים.",
+        "link_description": "833 ₪ לחודש · 24 תשלומים",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%D7%99%20%D7%94%D7%93%D7%92%D7%9E%D7%99%D7%9D%20%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%93%D7%92%D7%9D.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813966186_1750907059495233_2194845533523106428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sYSkVn-cCPcQ7kNvwHNaRgh&_nc_oc=AdoK1gwAzDHVuM7rIKfExUPtpF8NITwKFzH5K7Bw3X2C41ifGK3ilnnrNTadrenUz38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKS5Apj_bpM0IXEGpRkf7mQ3qoCZnCux557QNEp8oTkNQ&oe=6ABE8F6E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814926069_2322434841843537_7473066651031368541_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fjcp4PiPftIQ7kNvwEo-IRX&_nc_oc=AdrDxpBmGY6FccOpJZ3xHq3Tr3OmOPHz2TwyOTfhpBE0dWcEfL6gQUgBIHdYoFWPtCM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJ-jySSpnAMN-YW0pFycmh8vwUTTGkWiVENDHNILYzG1A&oe=6ABEA9BD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814800433_1065424199599246_8801071349426794306_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XZDXktEaQDoQ7kNvwHX2tuk&_nc_oc=AdqJ4sJYXK2ts02bFZ8aFfgdVtubEc3V51uWjlsncm_qNdKAwbmbWmJC_d8ZZB8c-IY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIn24rUsx-fY4lZrPMc26q8kvGFgWdyCysu_70Vo_FzGQ&oe=6ABE87EF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814818127_2364512053955031_6288762741206208057_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tKX4-1fL6OIQ7kNvwGwNTOC&_nc_oc=AdrSlqDoDK5-rvUZirQjZPmdsUXlMcSi083r0cGjcbF_8_0mvpqEdWdJeCqGd7l4oK0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKFss7xTDnKVJYDs0LEKjjxj3fB3LNhFYULXNb3nN3CVw&oe=6ABEB1BE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814908017_1789066072142585_7457301959594704395_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WlJCEfzNlh8Q7kNvwFD0g8j&_nc_oc=Adp8DUo1s-eEgXO8B0GmJRgOCh7_SC09sIOhmtn96liPI6zVqSUhmhkPnDDQqmc16yM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLAzC0zOr7BY8quSLzb3t_p4ndU7hIvB85xQ1zhlO39CA&oe=6ABEAE45",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814873515_1549830956471477_8855929185135247044_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zi6UUwCVStsQ7kNvwHO2gTB&_nc_oc=AdonCUH98oU99XLTfdFvFe-xSSd3Cwpk94G318e6CjQN4BVH0Z5PHapriCzrVXS-VaU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJBnNw04JsBs508SKgBBGsZA0UW-uUVBcEhPrw9D1zBdA&oe=6ABEAEC9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814427431_940522728578132_5752722744727162086_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TamV6yeVww4Q7kNvwEkLVb3&_nc_oc=Adrc8jYtpi253QQVQn9_BbD_94xn4bCoVjPhXGGJwDN9hOI-Ha3ggq2Q_fr5p3USy8E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLxT90QgsXdwmICfTISTMslqi47ahE1T4yRm4FOqMeYkg&oe=6ABEB7AE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1820235115798934"
+      },
+      {
+        "id": "1080593297693857",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+        "link_description": "319 ₪ במקום 599 ₪",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789110000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800826266_1815602649429195_7000699423992487216_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ra6IjSHj4DUQ7kNvwFKVpP0&_nc_oc=Adrx2GWxgcfbfD4n87XxLyzStZzb-UosEO4r8F8eCZ7WoXSYppPpTga53LDs4j--o4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIIcdw0d8a0-1cQef-Pm3C4VIae3XvPGA0wbhjZGGlB2w&oe=6ABE99BA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800826266_2229732267944187_8140537294850106190_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fHXOKv02MnoQ7kNvwFRq5jh&_nc_oc=AdqJCRQcZf9A0p1RYm6wnHu8nXjrQjHT3VE41Wr-6B6p3X6w21PqLya8_EEiK51m7rY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLzhWlBIwIFXNDH3qggK3x4sSji_vxyDkT4Br7i4gpGQg&oe=6ABE8CFE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/803101718_1033319683085406_2632489317953678328_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XuzYKbLE8p4Q7kNvwEQQM6h&_nc_oc=AdpTpVlaWtaTLke2reMrbRO0R3263JH2IGAG29sJTEUhqjjv02wsbcJqX8I-Rchbyjc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQI8Uvl163Mc1FON1K-mYGKAk17JkcNKaS7vVvGY-ncJQw&oe=6ABE8CA3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803323197_1619352389803970_6274544470362363031_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjjJDfcTYIoQ7kNvwGqJ5Du&_nc_oc=AdoRzbb3gumCKQdqMmrrpLhNREZo1uXIMPj8W35Zt-JuCvP_w0Sy_Zp_MYYhXGAjMCc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJbHgIt-ZicC7k6ylKcEBEBO2xZ61fniWT7HtF5nG0YWw&oe=6ABE9C42",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802243707_1088963410490032_2196095274113947885_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a8V6dh-uB4kQ7kNvwFs67m1&_nc_oc=Adpyjxf5s9ijCWjfqegxjzF0jV3UbBU5F0Q3lURDM9YYxy-4MNUTTiEPyzCnaBLFoTc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJzEXTC76vBU5fhWIkbmp98O46VZQpRieajKVF23XmCIA&oe=6ABEB60F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802699497_1073882415455897_6106356736847633244_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0qkLF2zFVDIQ7kNvwG00GjY&_nc_oc=AdpUQkVcXKVuJU1M74OKVgTySFeW7uhapQlC-12bxkLe21aGms1ZSIqkOQoIUOVxXWo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJz49r9kCQNwU4l-SD9pG4SiAb4RA2KjE6V3id0VwT5uA&oe=6ABE8B17",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802457215_1874129813966551_4999048339058850426_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_W01VHjLOV0Q7kNvwEB6omX&_nc_oc=AdotASI9TsTnz8FvVYs5DT2KizydBx-vbQiaxp_xNXapyiwcuAq2StlyDYnd-aSk8dc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQL2_MtahmY2ndk46Cu-VK30TDcGzm1jkNXMX8vOFugTFA&oe=6ABE8CF5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1080593297693857"
+      },
+      {
+        "id": "2207422246484047",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "G6 · 208 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G6 — 208 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G6%20%D7%91-208%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814560807_3159589950898344_3916210244570071614_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kUjGlZ9fx9oQ7kNvwF52j4W&_nc_oc=AdoScVY_4QMMCKk25F5qq1m4WmPrqWRTs_A21c6e4JdY8hNXWTongR9l9Cd7M1303cA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLVwp-90Urj5LkJEUKoiCIhQUcORIP-05AqdZF05FlBEg&oe=6ABE9336"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2207422246484047"
+      },
+      {
+        "id": "1741279270311704",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "G5 · 125 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G5 — 125 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nשריינו עכשיו הובלה והתקנה חינם — חיסכון של 350 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "כל קו כורסאות העיסוי עד 10,000 ₪ במבצע סוכות. 24 תשלומים בהוראת קבע ללא ריבית, או עד 36 תשלומים באשראי. שריינו הובלה והתקנה חינם.",
+        "landing_url": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G5",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814800442_1789892972456466_4825453226294676623_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9PlESVfpIjMQ7kNvwETFvYO&_nc_oc=AdpcH2jzIcyFfPV78JOXCLziwaDu9CRUCz5BiKTExPnVk8o6ea2RGzuTWqmOU-P6Ml8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIvjAoc3IuFxJqvlHrwE95RSAnAdw_8QQ6sumkC4WNv8Q&oe=6ABE8DA6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1741279270311704"
+      },
+      {
+        "id": "3679068718910371",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+        "link_description": "199 ₪ במקום 499 ₪",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789110000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802561602_1746088873348283_5013779797575169420_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BBbSNN8LpHQQ7kNvwHoi4n7&_nc_oc=AdoRJUa4_AXwgyYYGuSWVoNKeRcfd0f392JypG27uPMaOGW4vBVxU6-nUTvFXj1Aaik&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLa1W9DfylQ3JBhEbobwEwGzk4LuHlwqot_BxRWtARt9Q&oe=6ABEACD9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803226525_1605843181239641_5041985532318483617_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SG4zX90JxFQQ7kNvwEgbAGU&_nc_oc=AdqYdsz9EZL7ns9zj1x5NnsWBy3PZ3-5mmmT28gqTiF5Sh31yJhl9DWDkoGmiU0WtJI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKGn_zSK0rzbVxSuEVrsyVMs0Y3FHPO3Swm0oMF08ItbA&oe=6ABE92EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802505142_2597026544128461_4612406844527219604_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZycWBrDVrIkQ7kNvwE4gLjB&_nc_oc=Adox-jPWC1G3So4GvqxtwD-fkgTpddSf_8vilC-9Dxe5vjPzWegVI-U0THMIxTJSrE8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKAjexBwNtDyd08jpEUq_P1Czql_LIdGzUlNKP4iEXKaA&oe=6ABEAA55",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802988643_2208562773208461_1553699360441033891_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VAngzRQr5QQQ7kNvwEL7ARE&_nc_oc=Ado5A3CSCXyHuijWNAlPVVPvCxKpj76bKHIgParwvUXuRaf5SPnWMnay21mTZCb0xxg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLc7BkS6bd7L0XIj-8qIoWYtjH6rzBsUv8aqcQUYMiShQ&oe=6ABE8F4F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802356279_4512759645615513_3713356770936585762_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kPHjyej5qjwQ7kNvwGs4Box&_nc_oc=AdqixCTw9Wq1DvAU1rXN3ixPcVvl_HrsCqV4NoHKVmLLYFYcbAHvLPaUCSQUPhL3gxg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIu6lYuyb2yvDIOCYVllpw85Koto5b7UiiBiBU6I1paVw&oe=6ABE9E58",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802418166_1062067756639018_4912218113238615480_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WgQL4WZ0utIQ7kNvwFxw87W&_nc_oc=AdpBs0I3lhcK2aBelCK7z89JhvKC-RoBauH11D2sm9DLmD0Q4t3jD3g0Iayy9INyeXE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJFds0Q0IJLtzke8ua_mWRSVeFEmoS-SKcZ1uPYdPr9oQ&oe=6ABEAB4E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802505091_1762068128448838_3158538396821043987_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xUljUcWySiYQ7kNvwG7reEa&_nc_oc=AdorJLvCskxch--EXixAjfgiXG4uNlB61cY75HJW4W4aGLSZvfX0syJFZLciiPc-Izc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJRC06HJejAEM6R1MdqDIXdKn4pdCNOz2DPvYEt6m-sZQ&oe=6ABE965A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802505119_1440580221252216_2088590012325885569_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zRUsOLf_MuEQ7kNvwFLPgj2&_nc_oc=AdoYNtuT6M40gBkVujnfHr1_Q3C-jWrl_qADrhOA4xDZNQueHe62dVgX7e-8WKa1CK0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKl1a1DATqWcUGYA1qWEnW4lsHERtNUF1r2bMVDh9se6Q&oe=6ABE908F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3679068718910371"
+      },
+      {
+        "id": "1019646417755904",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "מבצע סוכות — הדור החדש של Medics Care, בהוראת קבע.\n\nמ-125 ₪ לחודש, 24 תשלומים ללא ריבית. כל הקו עד 10,000 ₪ בדף אחד — ומי שמשריין עכשיו מקבל הובלה והתקנה חינם בדגמים עד 4,990 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "125 ₪ לחודש · הוראת קבע",
+        "landing_url": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=car",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814691996_3889538517863969_2906313972748444630_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wepnInyVFtoQ7kNvwHYgLDB&_nc_oc=AdppsPYp85EYYCBm97WJyaCLNFgQo7fLK6qcB387LKvecMrO9PyeOk56JhPfssHd9-U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLGjeLGTqmi1jtQi07gXMir_MYB6kZnz9JP8K2-DVaJEA&oe=6ABEB045",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796668592_1440793274927186_7221618804412883175_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bvEQTmrDtdQQ7kNvwG7mvd_&_nc_oc=AdpHcelyvGuecGLUrJUiwdMfLNiTsraj0TWrZx-Eo_HeLEHNJc179HV4efs-aY2rhsg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIvSl3UmF7Cxq4aAOauBCvUSlACgXmfXQKUoPh7aXdBhQ&oe=6ABEA31F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814429278_2303387080407139_9049669556140319936_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yvHUVoilZpwQ7kNvwEh7Whr&_nc_oc=AdpR9gIt3ixoaHdKArEbMmkTigJvY-GISFAhrRSQl2x6CofHZjwKTRAIgd_s2d1Mz0g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQK-5pJuw4p039gBpjT80Mr4JoehL8jx7eKie47d8mE8PA&oe=6ABEB0EB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814325259_1760388311951567_3787377703881235257_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_sBrqLckkvwQ7kNvwFMCEqq&_nc_oc=AdpcX1p2V3mcqsHK7-kROAJOIq8lAGMyh9yys7ThMO04JAW6yMsHEb3xkNJu_KtQUQs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJw9_kShyHNptaXQfEyrvncs62ETjRkhcqfzJyy6eLDTg&oe=6ABE9FA9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814535960_1413688253421836_8145575357547537789_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j2fDPWCbcFwQ7kNvwE8m9zE&_nc_oc=AdpIAkUriz-EQJ0LmNEbkta0PJZIG_WOnj4YpSC2X_QsoYPjqMAO8sgGmQtiuHE267g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKiH6-cJV2-Kag4Q3mIQdjQTUB2Adjw2RJP3QUUUMaFyA&oe=6ABEB96F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814471858_1938808943464541_9194534461871756294_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2WgDGLAPp1QQ7kNvwGZT2dg&_nc_oc=Adr1T4pgieh1eC95OQsP29p19UXDu896Seee9qjabG_RJno_aQI7ZviBcF0WRYIesnQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJ_4zs8Z7RQe1X02uM8nxFItWQHJNB-BHbgpZ7VMDDqRg&oe=6ABEB9AB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814696200_1661131152101952_669221824288246762_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kzw9IyuGadwQ7kNvwE9QS6r&_nc_oc=Adqnf4u9wy0DRGeeC4rfEbTS9sbrRLPf6ivEdk005UcFrlKXFp12ZUfdZ-7NQN_DO9o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJTOdHDbZXBNzBImUaGTxx2npwBydisOIqzc7NoGFl_4A&oe=6ABE8A90",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814507698_1740859301096557_6390651341468076537_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1iCiRu9FRoUQ7kNvwEcJEsj&_nc_oc=AdrjOo6qAslHIIH4tgiatwEtYtUo9KlhmoE31qOfxMwhxbaKpufxMrFyc8b7VfTaPxk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIVNQMUoXbC5isFaGMkgstyGGaLAB10paAP57EbtRV1iA&oe=6ABE99D6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813977647_4443300765986723_4025705643647148880_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WdwYDNWixHwQ7kNvwFehWDO&_nc_oc=AdpC-bX2u56NZ9Uz1FkRZ-294d1N0oFaFfBt1XXrciJkJ8u5PsX0IE93qXx1NZidY1Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJ8zQzIPeYu7w_ID457daG4Rts9fG19QZR_rQT3avhMlg&oe=6ABEB4BE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814429273_5125859587640676_350678512089703952_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IvBM9kmMma8Q7kNvwFyM-YP&_nc_oc=Adqwesa8RiV7lfg5IkwKugnf1cStf1tUxfna2Vo6mNHd-fCzZju-YYldW9OnjWYZMpk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJXF6TuXKQtqHVtFaUWarxzOAHRf-WdE4jJ5o1eLiPsKg&oe=6ABEB57B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1019646417755904"
+      },
+      {
+        "id": "2305797747039108",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "F6 · 375 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care F6 — 375 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_F6",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814341964_2272754496857726_8908097110859578679_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f658hewY60gQ7kNvwGSC0M6&_nc_oc=AdqS0xh74Q6XcdkNgzsJjz1rgq07bMfxHcPpzQ2TSJqVqGJxSka_oy2NoeKPYJGdw_M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJxIi-_mXFE85htiEOWH2MeR1f0wciUhf987sXf6xjB6Q&oe=6ABEBDD7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2305797747039108"
+      },
+      {
+        "id": "1076602898350961",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "F6 · 375 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care F6 — 375 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20F6%20%D7%91-375%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814429277_1402526918015058_1310147586385854700_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0hGOqxQYNzEQ7kNvwGw-yu5&_nc_oc=AdpGzd4Bsb2Xufos1CMeeUN39Ljnhk_T4yHt3sLyb0OuoZh1NTZD6GAgEkc1Ej0qOi0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKpi8ilrrXUPwpEzKBbJzpiSkSrmsfBGsm1yy8qQ6KOEw&oe=6ABE89B3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1076602898350961"
+      },
+      {
+        "id": "1072180152201019",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "G5 · 125 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G5 — 125 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G5%20%D7%91-125%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814534999_4377290455735962_7241431957182248328_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8G0q5vJQWMUQ7kNvwFAfmqN&_nc_oc=AdryiWn4kyv__y7ScOlxHQxz1zgD2afBGNuCo5cXrO9uL9TaWl2hiFJ7XORDHLBfVag&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIJNYHETvdKEp7IBs6zUnDa3gP7YM3WPZH8QGyG_7l46A&oe=6ABE8B2A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1072180152201019"
+      },
+      {
+        "id": "1087370993651089",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "כורסאות עיסוי Medics Care",
+        "body": "מבצע סוכות — הדור החדש של Medics Care, בהוראת קבע.\n\nמ-125 ₪ לחודש, 24 תשלומים ללא ריבית. בחרו דגם וכתבו לנו בוואטסאפ.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "125 ₪ לחודש · הוראת קבע",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%95%D7%93%D7%A2%D7%AA%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A2%D7%96%D7%A8%D7%94%20%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%94%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814637290_1107914194965345_7587961479871576328_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PADes3bNbuUQ7kNvwHk1K4M&_nc_oc=AdrToJcm5Lyarj-nHPcNCZO128kBu5Xx-mU-jr2LqULBjAIivKGX-ijKLuVW7RZIDUE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQL7fTMKASh3eESz6pKjwagWjCnPtW5ACTtCkpNb7BDfRA&oe=6ABEAE4D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799868367_28487203784252600_4103092249087305947_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-pRjQSR5dcAQ7kNvwH_9m33&_nc_oc=Adpzt1BjIvBZj8vN7zoP_aUtL43ow5421M2Rk9VIOebXwmDQdNXYkjIHU2Xbcetkzn0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJU7_xJG5XjywGVoQhWTOAHwU7-_kzsiMRCwM5T_vkxow&oe=6ABEB401",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814607055_1371478524968868_2949176319559292214_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-vaiQ1Tywg8Q7kNvwHIRWbH&_nc_oc=AdqESxRutN_Tuk5vpaUaV-Xnwt7VNzOidrfRbC8agDpXQhP_pC5_dZzFNkm3pRDxI4U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKB0OEEak9vikglvxevv4nuNWVM91FAU-Gcw_tBHpVSzw&oe=6ABE8C93",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814560809_1089896024003500_1028255043070099122_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BOldyVWDleoQ7kNvwE7vSi0&_nc_oc=AdphLLfbQu92UUeK6dnCzZv1rfSdxs6xVqZzaMt4yEXGa6jJTmE69XbM8_LyuVPG8ks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJfMEdo1Y1pTHUa2rZ0RiOQ3L43KTVu7HpuntJ2oAGp7Q&oe=6ABEBE2F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813467167_4566317406925605_7432905708747615793_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SUa3qkfIoUAQ7kNvwEGV524&_nc_oc=Adq2Dxsbm8csqhT6qWVC02Imh_4Bc8dJB3RYyltt7RIqvb20mEowEOPUmujiipYKPko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKu52KZi_lQaEh3MdylQ22qICq7Sq-cWeXq3FhO0TAcZQ&oe=6ABE8E3A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814310020_1617027649792979_1310159644817157554_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lRL0vkCEQDQQ7kNvwFK-AOc&_nc_oc=Adpin1V6aB_BltYSMI7uPr6QkxwIK6Pl_MAlslNNsn7TP7b5m2d7XBAMaltNW588w_0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQI3b9WAPhx9qkriqLqDDH3ZdZjajCWdxwoeJLo1n08XVw&oe=6ABEAC8D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814750033_1023266987395644_8426851055221143135_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IFhs5AHmjUUQ7kNvwHICdKU&_nc_oc=Adre4cN118CGmpBiBoRPXdUfzpxZo4SlbX4E4BSNFdbAXf3FXN8WZoSv1QHE_2sL1tM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJt7C1fqufXu-iKQ8qmYYQvCfKG9BvHGOrUFGJiMhqmeQ&oe=6ABEA043",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813645673_2326390648154308_8191186338291955871_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-vGiK8safmAQ7kNvwE77enK&_nc_oc=AdpfErAW9vffsNlClzWswrvCb2Xhds9cs0w7Bde2gLsPHKtqiki0YvBh4boQOpG8e6g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQIyThr2Gs_fZOx2fX0L4RxFDmduVemYvCu_4GReGZAcGw&oe=6ABEB323",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814800598_2128018198137430_6648246269068371327_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dSlCJTOJ6VMQ7kNvwEvAQpP&_nc_oc=Adr1U12PaFDAwFK2sB7MhH7TEdMaEyLKdo-xLgg2H8nSj8iTB6BOvBtIAwlTJFXQY0I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQJuBlp68RXvFsXEPAzVCxSadB34_b91ealGLOAUIyqKgA&oe=6ABEBB6A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814670509_2134495513946487_1056157101749737290_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3okwp4ruXwQQ7kNvwEOdgv-&_nc_oc=Adopxw1kFMMjThHJLRA2IgOtlme493Eta5DaUZbtHWizOG4jt3cP97vnM3hODyYp350&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQKhXZa8vpk3ED6xnm17_x8b_Y0Wtp2UlhSVjh19ULWDeg&oe=6ABEA969"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1087370993651089"
+      },
+      {
+        "id": "1080828358244213",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "GX6 · 291 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care GX6 — 291 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_GX6",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814088577_913749861570305_1482559432506700130_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KpPgcvP98qQQ7kNvwGFqb8W&_nc_oc=Adp2KM1wS0Xjlzya8IOv0_MXEOIZuGulyPI7lOh0lmKbmeS8HDqEVX5IWa3ekbfG7-Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLWFCckDlEVPLIvfz4zCL1Y6DihqOGssfmiFBXp5i0Utg&oe=6ABE9CE8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1080828358244213"
+      },
+      {
+        "id": "1395420839374410",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "GX6 · 291 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care GX6 — 291 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20GX6%20%D7%91-291%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/794415888_1051834667690493_5314488588702324720_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x9LNmbn0PsgQ7kNvwEN6m3C&_nc_oc=Ado2B_MzSnDS6FXyInSMCQz7z3bc7HRtUqBAMAl0sr8Ad3AVFpOwq_lb9z0yWoXLBy8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLpB-OlxsoZClDkIr5G8FlwLe_7iym7tOOxr-9wEN2Ylg&oe=6ABEBD1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1395420839374410"
+      },
+      {
+        "id": "1235821468721115",
+        "page_id": "107420003972672",
+        "page_name": "כורסאות עיסוי Medics Care",
+        "page_url": "https://www.facebook.com/Medics.Care.IL/",
+        "page_like_count": 4233,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "G6 · 208 ₪ לחודש בהוראת קבע",
+        "body": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G6 — 208 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nשריינו עכשיו הובלה והתקנה חינם — חיסכון של 350 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "link_description": "כל קו כורסאות העיסוי עד 10,000 ₪ במבצע סוכות. 24 תשלומים בהוראת קבע ללא ריבית, או עד 36 תשלומים באשראי. שריינו הובלה והתקנה חינם.",
+        "landing_url": "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G6",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789714800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815210380_28815648068020101_7734745713648208641_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kHpDnAx7Gw0Q7kNvwH_HaFd&_nc_oc=AdqXbnULpa3Vmnc6xBBv18xp-t3udR3TUeSkXj_BX_NPoshgvsM6wt2jh6BeEJ4xAoE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dBh58MIleFp0pcuGymnabg&_nc_ss=70289&oh=00_AQLMqZMN1r2M4FEgnyHG0inRSeE-Ik9tHB4W1hHROqa7mw&oe=6ABEB26E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1235821468721115"
+      },
+      {
+        "id": "1858692898621420",
+        "body": "כורסאות עיסוי יוקרה מ-10,000 ₪ — XZ9, XZ8, XZ7, Royal Z9, Casada TITAN ו-Russo Sana Vivo.\n\nשלחו הודעה בוואטסאפ 055-959-8591 לקבלת מפרט מלא, ליווי אישי בבחירה ותיאום הדגמה באולם התצוגה בפתח תקווה.\n\nאולם תצוגה: תוצרת הארץ 1, פתח תקווה (מגדל T, קומה 6) · א׳–ה׳ 9:00–18:00, ו׳ 9:00–13:00",
+        "landing_url": "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%D7%99%20%D7%94%D7%93%D7%92%D7%9E%D7%99%D7%9D%20%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%93%D7%92%D7%9D.",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D.",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G6%20%D7%91-208%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20F6%20%D7%91-375%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G5%20%D7%91-125%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%95%D7%93%D7%A2%D7%AA%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A2%D7%96%D7%A8%D7%94%20%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%94%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.",
+      "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20GX6%20%D7%91-291%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1858692898621420",
+        "text": "כורסאות עיסוי יוקרה מ-10,000 ₪ — XZ9, XZ8, XZ7, Royal Z9, Casada TITAN ו-Russo Sana Vivo.\n\nשלחו הודעה בוואטסאפ 055-959-8591 לקבלת מפרט מלא, ליווי אישי בבחירה ותיאום הדגמה באולם התצוגה בפתח תקווה.\n\nאולם תצוגה: תוצרת הארץ 1, פתח תקווה (מגדל T, קומה 6) · א׳–ה׳ 9:00–18:00, ו׳ 9:00–13:00",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%20%D7%9E%D7%93%D7%99%D7%A7%D7%A1%20%D7%A7%D7%99%D7%99%D7%A8%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%94%20%D7%A2%D7%9C%20%D7%9B%D7%95%D7%A8%D7%A1%D7%90%D7%95%D7%AA%20%D7%94%D7%99%D7%95%D7%A7%D7%A8%D7%94%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        ]
+      },
+      {
+        "ad_id": "1101005189534365",
+        "text": "🔥 Уже скоро: новое поколение массажных кресел Medics Care.\n\nG7 · F6 · GX6 · G6 · P5 · G5 — для дома, RX9 — для клиник и бизнеса.\n\nЦены пока не публикуем. Напишите нам в WhatsApp: 055-959-8591 — и вы первыми узнаете цену, характеристики и когда модели поступят в продажу.\n\nШоурум: Тоцерет ха-Арец 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F"
+        ]
+      },
+      {
+        "ad_id": "1401230532074512",
+        "text": "Массажные кресла премиум-класса от 14 990 ₪ — XZ9, XZ8, XZ7, Royal Z9, Z6 Diamond, Comfy CZ7, Casada TITAN и Russo Sana Vivo.\n\nНапишите нам в WhatsApp: 055-959-8591 — пришлём полные характеристики, поможем выбрать подходящую модель и пригласим в шоурум в Петах-Тикве попробовать кресло вживую.\n\nШоурум: ул. Тоцерет ха-Арец, 1, Петах-Тиква (башня T, 6-й этаж) · вс–чт 9:00–18:00, пт 9:00–13:00",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D0%BE%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B9%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%20%E2%80%94%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B5%D0%B5%3F"
+        ]
+      },
+      {
+        "ad_id": "1820235115798934",
+        "text": "הדור החדש של Medics Care — עכשיו עם מחירים.\n\nשבעה דגמים חדשים, מ-125 ₪ לחודש. כבידה אפסית, חימום וכריות אוויר — בכל אחד מהם.\n\n24 תשלומים בהוראת קבע ללא ריבית, או עד 36 תשלומים באשראי.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T) — בואו להתנסות לפני שמחליטים.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%D7%99%20%D7%94%D7%93%D7%92%D7%9E%D7%99%D7%9D%20%D7%94%D7%97%D7%93%D7%A9%D7%99%D7%9D%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%99%D7%99%D7%A2%D7%95%D7%A5%20%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%93%D7%92%D7%9D."
+        ]
+      },
+      {
+        "ad_id": "1080593297693857",
+        "text": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        ]
+      },
+      {
+        "ad_id": "2207422246484047",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G6 — 208 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G6%20%D7%91-208%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+        ]
+      },
+      {
+        "ad_id": "1741279270311704",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G5 — 125 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nשריינו עכשיו הובלה והתקנה חינם — חיסכון של 350 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G5"
+        ]
+      },
+      {
+        "ad_id": "3679068718910371",
+        "text": "מבצעי ספטמבר של Medics Care — עד 30.9 בלבד.\nמוצרי עיסוי מקצועיים במחירים שלא יחזרו. שלחו הודעה ונסגור לכם את ההזמנה תוך דקות.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%91%D7%A6%D7%A2%D7%99%20%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D."
+        ]
+      },
+      {
+        "ad_id": "1019646417755904",
+        "text": "מבצע סוכות — הדור החדש של Medics Care, בהוראת קבע.\n\nמ-125 ₪ לחודש, 24 תשלומים ללא ריבית. כל הקו עד 10,000 ₪ בדף אחד — ומי שמשריין עכשיו מקבל הובלה והתקנה חינם בדגמים עד 4,990 ₪.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=car"
+        ]
+      },
+      {
+        "ad_id": "2305797747039108",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care F6 — 375 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_F6"
+        ]
+      },
+      {
+        "ad_id": "1076602898350961",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care F6 — 375 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20F6%20%D7%91-375%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+        ]
+      },
+      {
+        "ad_id": "1072180152201019",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care G5 — 125 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20G5%20%D7%91-125%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+        ]
+      },
+      {
+        "ad_id": "1087370993651089",
+        "text": "מבצע סוכות — הדור החדש של Medics Care, בהוראת קבע.\n\nמ-125 ₪ לחודש, 24 תשלומים ללא ריבית. בחרו דגם וכתבו לנו בוואטסאפ.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9E%D7%95%D7%93%D7%A2%D7%AA%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A2%D7%96%D7%A8%D7%94%20%D7%91%D7%91%D7%97%D7%99%D7%A8%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%94%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2."
+        ]
+      },
+      {
+        "ad_id": "1080828358244213",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care GX6 — 291 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_GX6"
+        ]
+      },
+      {
+        "ad_id": "1395420839374410",
+        "text": "החג הזה, תנו לגוף לרחף.\n\nכורסת עיסוי Medics Care GX6 — 291 ₪ לחודש בהוראת קבע, 24 תשלומים ללא ריבית.\nכבידה אפסית, חימום וכריות אוויר.\n\nהובלה והתקנה עד הבית כלולות במחיר.\n\nיבואן רשמי · אחריות מלאה · אולם תצוגה בפתח תקווה (תוצרת הארץ 1, מגדל T).",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972559598591&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%9B%D7%95%D7%A8%D7%A1%D7%AA%20%D7%A2%D7%99%D7%A1%D7%95%D7%99%20Medics%20Care%20GX6%20%D7%91-291%20%E2%82%AA%20%D7%9C%D7%97%D7%95%D7%93%D7%A9%20%D7%91%D7%94%D7%95%D7%A8%D7%90%D7%AA%20%D7%A7%D7%91%D7%A2.%20%D7%90%D7%A4%D7%A9%D7%A8%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%A4%D7%A8%D7%98%D7%99%D7%9D%3F"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G5",
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=car",
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_F6",
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_GX6"
+    ],
+    "freshness": {
+      "active_count": 16,
+      "active_seen": 16,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-18",
+      "oldest_start": "2026-09-10",
+      "days_since_newest": 9,
+      "stale": false,
+      "complete": true
+    }
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:11:51",
+    "filtered": "2026-09-27T08:13:01",
+    "qualified": "2026-09-27T08:16:24"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972559598591",
+      "source": "https://www.facebook.com/ads/library/?id=1858692898621420"
+    },
+    "pages_checked": [
+      "https://medics-care.co.il/",
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=so_G5",
+      "https://medics-care.co.il/sukkot/?utm_source=meta&utm_medium=paid&utm_campaign=sukkot&utm_content=car",
+      "https://medics-care.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

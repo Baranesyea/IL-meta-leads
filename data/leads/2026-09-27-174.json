@@ -1,0 +1,706 @@
+{
+  "lead_id": "2026-09-27-174",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063706293422/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "137829526289097",
+    "page_name": "גתוס gatos",
+    "active_ads_count": 13,
+    "search_keyword": "דברו איתנו",
+    "sample_ads": [
+      {
+        "ad_id": "1564901914793735",
+        "link_title": "להשיג בגתוס",
+        "body": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627683456_4324989984442106_962386371366959968_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yVzOIiOoXUYQ7kNvwGvCn0P&_nc_oc=Ado3uqWx6p76VOOvhCLNz7m8A6SYVCHrbaUm79xt0pLaqQyiDWo0SdrzfhAkCsmreWI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQJJO_ES0wKVIssUibo_o9kOUQXptw5PMMbPiwJKmFdBiA&oe=6ABEA178",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOKnEOBJSlGn1DE78-Z4Y9mZTrWf_bN2XAdJwyyQrETnqeuwFo7j6UcoCAXWQ1cG07kAFQAVwcZOJ3SnGaOsKnSOjEDjaV5Hx-bXklc98eAfQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=JTQAuIalocYQ7kNvwHW27Bq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1OTI0MjM2OTk3MTg4MzY0LCJhc3NldF9hZ2VfZGF5cyI6MjM1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8f50d39ed7289b96&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ5MzcyNzkyOUVBRjVCNjk3NTBDQTM2QjVGQjhBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyNDgxRDUxRjBCOEVDODkzM0NFNUZBMDVDNjgzMTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY7NKUmf2MXBUCKAJDMywXQEJqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&_nc_zt=28&oh=00_AQI9jPfQE8xPknQUB5d4OogIc70-vnRULFiE-ck_w3-QJw&oe=6ABEB25E"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1770192000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1564901914793735"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 13,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 5331,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1564901914793735"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 5331,
+    "page_categories": [
+      "Local business"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1399787404757697",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - השילוב המושלם בין הטנדר הכוחני שלך לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1725174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458104877_1024600179166701_3676083840058019430_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CPlO7rIUubMQ7kNvwFAfiTT&_nc_oc=AdqSLeI4lwRAsuGRV83NPO9SnC6Y66h6cTHG85MtcXBS896W2yu8AE1z-hqZ4fO34h4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ-lJvCYH4cq9Hzw3dfyUPa-EEHEBYBRXb3GIhw_nJ9Kg&oe=6ABE9F0B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457880967_544520454814883_7313576641484951987_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xaiae_bEi-oQ7kNvwHhiu9V&_nc_oc=Adp5KhMtpn8FZdugIBNr2Pp6Fcj5NIGWc8iq3AQ4dQJpb8dY1zHEBIHJxXL6Ob3kSqI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJgee3jLPk6Oopt8Ql0A2m3PayPoyAb4QAmC24qJ9Ix2w&oe=6ABEBDA6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457508390_1447807589209839_1093276827162489384_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iR46eas5fZgQ7kNvwFrjBeW&_nc_oc=AdpAxl-vf18nMoWThnmKKdmxo1iGOPxbiza9xHDNAXClxTTKDRl6rT4-cgBp7BqvcBE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKuMea6zUAYVaeJKJW2QD7f6ylnjqyaMS5JgevIVGPI_g&oe=6ABEBADC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457881553_872677040974105_7288789270649240678_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eI_CkAFtP8kQ7kNvwFuDtqF&_nc_oc=AdqjxFb_0WlkPGrfvlrV4YVhhyUvkcn3LjpUTI26ajklTT00I760jASRTPZCAve7yXI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJll6BIXQ3ZvaiN9uWaGzML346M0eqN-Zyouvzdc-YY-Q&oe=6ABE89DD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457389822_1055465492615062_5803760871110798433_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2wb78KckzhYQ7kNvwFmwdKn&_nc_oc=Ado7BmJwNHG8MEA95F2Fy5le4zpKUWbJlHY1CyuZ0lq-v4T6MRsR0QeSL_64jmSWHWc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKilKlY1-cu4B8_zN615Na3laxNor8F9N3sy1_P8ZA0Jg&oe=6ABE86DB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457615459_361472830364320_8618241174372785896_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L2nIC4kOK6kQ7kNvwG8f5UF&_nc_oc=AdpER5iixzF-d_iCwbAOW8PDdWicvei-nlikcTLv6Jyii23NKmBPz-2NEwtIl9QP2-c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKXYmMvH7Z-bUSrITinZllclequ5mUavXEBbhj4Rif5vw&oe=6ABE85A4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457558893_836630825329565_7889030903160170088_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8tQM-WiCsbwQ7kNvwF6FHGk&_nc_oc=AdozAMTC1ILIQ4P0WgFAWVcRf-IrHEnfead1TC2m25zrEsxM0Wytl-D7zfIcCP3RH8s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKwLSKoKtlO8Kyhm2onQmqduC3BxuE3Qb76z5vcaDfaBw&oe=6ABE9251",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458188239_1275889240060513_8574092017124712439_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tb5CuTA9VBUQ7kNvwGRi_M7&_nc_oc=AdqqFnVdpd_JEFshjLja583bS4pw-i0tJx0bctv34sMuur1sINOYddcOOXa7RGYDPKI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQI9VY4LdkFD8DL1TeCWKg0B5CMC9j2pKtLjPGzP40fbmQ&oe=6ABEA513",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457506557_482870971235135_7489125491113327295_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pjNjNpSDH-0Q7kNvwFJGCxt&_nc_oc=AdoG-aUx3LVHIxqvCUUkRBWbH3st0SQFs8YkziS6Lf-2trDzUXk-_AwvtqMfNWje3ww&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKOfWawOMs6gVHKDPKGGP0vAuqX9f9FS6Q7d9QAh6YU7A&oe=6ABEA96F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458105257_1859926114417817_984521585228292595_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zcr8h_dn2VAQ7kNvwGBFZEb&_nc_oc=AdqUkp-fOPRmzMAlw4SUuK_wCKjZjt3wFBrwhXvhiigmYukx7vG0QnbqALzIHkPvHkw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKtOIAgvHsawRcjYAW7GWqsouu5XXCAMVcwKl7ohw4vag&oe=6ABEB537"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1399787404757697"
+      },
+      {
+        "id": "1564901914793735",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "להשיג בגתוס",
+        "body": "",
+        "link_description": "ערכות ההגבהה של 4X4 IRONMAN האוסטרליות עכשיו בישראל! \nלבדיקת התאמה לרכב שלך – דברו איתנו בוואטסאפ!\n✅ נוחות ועבירות משופרות\n✅ יציבות ושליטה בעומס ובתנאי שטח\n✅ התאמה לסגנון שימוש – יומיומי, טיולים, או תוספות משקל קבועות\n✅ מערכות שתוכננו ונבחנו בתנאים קשוחים\nרוצים לדעת מה הכי מתאים לרכב שלכם?\nכתבו לנו בוואטסאפ: דגם + שנתון + מה מותקן על הרכב (פגוש/כננת/אוהל/מגירות) – ונבדוק מה הסט-אפ האידיאלי עבורך.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770192000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627683456_4324989984442106_962386371366959968_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yVzOIiOoXUYQ7kNvwFiXlp0&_nc_oc=AdruozVsaC1RDs_ygAI_NOjA2Ew3DB4UUkcG91P9nf-fu3P4CZHIMvJ1yBROrMKcOqE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJfdFCU7kZfNRYSPuJxTgYUQ0NMBZqJA4mpQcK-jao7Gw&oe=6ABEA178",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOKnEOBJSlGn1DE78-Z4Y9mZTrWf_bN2XAdJwyyQrETnqeuwFo7j6UcoCAXWQ1cG07kAFQAVwcZOJ3SnGaOsKnSOjEDjaV5Hx-bXklc98eAfQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=JTQAuIalocYQ7kNvwHNSaXk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1OTI0MjM2OTk3MTg4MzY0LCJhc3NldF9hZ2VfZGF5cyI6MjM1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8f50d39ed7289b96&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjQ5MzcyNzkyOUVBRjVCNjk3NTBDQTM2QjVGQjhBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyNDgxRDUxRjBCOEVDODkzM0NFNUZBMDVDNjgzMTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY7NKUmf2MXBUCKAJDMywXQEJqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQK39UGwiaj4hRJ0SpP-l9RFUU2UIx6ImkW_2Gg7o1RZcw&oe=6ABEB25E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1564901914793735"
+      },
+      {
+        "id": "804072605269294",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1725174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457873659_823527066434812_2749825480114475947_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CXnoBgP_SA4Q7kNvwH6vV6w&_nc_oc=AdoZpha6l4zkvUM00dtJgT0SwgOyUQBma_Z85Yix9HLFA3qq0FXtS88zUhiA00Jy0VM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIW14m3SgQWAocY2t0X2SRj6zX_nxOuJu9i9SfmbRxGcA&oe=6ABE9208",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNgifz3ImpRcvGVmDMi4okNASqaXdwZAAlqM0et40TKN9o_O1EhY1OoNvX3fLyXGJYniRpUvKMldDADKnDBDrwL.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=RK3-SZZHVtwQ7kNvwErp69X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyMzMyNjc3OTAwNTE0MTY1LCJhc3NldF9hZ2VfZGF5cyI6MjkzLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQKpKENWIAEw8HlpDNzT8HFPVM5LBBOrdqN1UNwBwUTakg&oe=6ABEAF86"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457872043_364827879894687_5438231566320996539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5hu78yMOjZMQ7kNvwGoTleG&_nc_oc=Adouhw7cM3n4r8meYA_2mPc8g1P-JRD17GnmkUAl-GXReUM3HR4Tsjf0f1JV0kVKpPQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLnnHTGd-pc5aTYGYUO3Yd6QyP--AJw14owWyXY29USuw&oe=6ABE87BA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/v/t42.1790-2/458054950_804072638602624_2861884075680788655_n.?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3G0rrQLw6e4Q7kNvwFSGoeA&_nc_oc=AdqWzPOnWlzpGXv5dgqdjZN7zgaM1CrXCSoJ6mVM8oKyDfQodtjzpvPEtsSpUyQGFM4&_nc_zt=28&_nc_ht=video-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKuUVlWHgml8Dszur-vP0FmTOCSjuPvyAeoQPBiCdz-MQ&oe=6ABE9FED"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=804072605269294"
+      },
+      {
+        "id": "1595864884973030",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "להשיג בגתוס",
+        "body": "",
+        "link_description": "ערכות ההגבהה של 4X4 IRONMAN האוסטרליות עכשיו בישראל! \nלבדיקת התאמה לרכב שלך – דברו איתנו בוואטסאפ!\n✅ נוחות ועבירות משופרות\n✅ יציבות ושליטה בעומס ובתנאי שטח\n✅ התאמה לסגנון שימוש – יומיומי, טיולים, או תוספות משקל קבועות\n✅ מערכות שתוכננו ונבחנו בתנאים קשוחים\nרוצים לדעת מה הכי מתאים לרכב שלכם?\nכתבו לנו בוואטסאפ: דגם + שנתון + מה מותקן על הרכב (פגוש/כננת/אוהל/מגירות) – ונבדוק מה הסט-אפ האידיאלי עבורך.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770192000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625829090_26167327786194653_5370437284843917296_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sLJqvQzh-0QQ7kNvwFwYe1r&_nc_oc=AdrNtNMD71ul3qBiqy9RYVHgc8_5ITurp7PPrhm3Za3tGTPI0m1zAaC2dLrWpA4dxb4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKdeu9FvpSwgm0grxS3kZHM_QcvKulc00UMZT7yIzP7QA&oe=6ABE930C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpbzdwB0Fd6OO63NvvgMKmcvj-jdLsi6oRs5EJ1pKi_wGckPfQnUpV2CaMrHiruxEX8PVZf74xydulFqu48AmSpnfB1RnPAc-vntSyuqMlmQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=yZW_C2629v8Q7kNvwF9ogu-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDkxOTkzNTEwNDAxMzYsImFzc2V0X2FnZV9kYXlzIjoyMzUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=236b92e5a71d7030&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRDQ1QUZEQTc0RTk5ODhCRkEyMzI4N0UwNEVCNkI5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhDNEVFNjZBMDdDODA5NTA2NkFCRTkwQTlCMjVFRUEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQopKkt63TBBUCKAJDMywXQDCIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4OnNw3hfdEZaCrpK72xgWhDiqf7Qg4bmG1y6y_zbYuA&oe=6ABEBABB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1595864884973030"
+      },
+      {
+        "id": "1401563647768998",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - שילוב מושלם בין הטנדר הכוחני שלך לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי  לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1752994800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/520520571_1965375847543582_5352413032772341255_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=stBnUAO1u_QQ7kNvwHzuo9u&_nc_oc=AdrxJ2chN8HCiAD27PVy2HaPD96Oc3GB2unLzNqICLF4-D6w9H3sS015mjjnF22e1p4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLOxydiFehsLKc97e7-XDjBju2xcuEPyDrvEyURAdKxDw&oe=6ABEA631",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/520244815_1810490072894365_843309187006930151_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jQUA53NY3swQ7kNvwGISvlu&_nc_oc=AdpQKR_BWDhpBhgbjd4hWKHOow4zOD7wuGPneSKw0Pb0utpqrOV623ZiIY_6PHFVFnM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK-q49Mog8XQ1efiyROx8qM0IEqSU5cQco2ehAnELAzsA&oe=6ABE8F98",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/522528364_1423160958959312_2296757168816416828_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0h6LxHP5E0Q7kNvwFs1AMX&_nc_oc=AdqATQWUFl_sn-w3qalA5IgGjvzXLK4cDPbhDVkbprbY1TAKRQ7T5gdwYYlywWjiWj0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIsuf-90ITLhPeB-LgvjQ-PSc3aiDsZ05PVM9Hxquciug&oe=6ABEA92F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/518729183_1270484597859527_1554894475702701855_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O9C3hUrSACQQ7kNvwFYvln5&_nc_oc=AdqIGGS0FFFArg1bx3QHfLi58v6LiO7C22USdPuxyU5qZu9DYdmUdNwwe9zNoyLbJcw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJCZuY-K3rl-5pD2DSUt0LRNbNmeTVd8Mj55naqu7JASw&oe=6ABEA426",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/521215192_711999618502551_892000210951320646_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z0emd-2bxmAQ7kNvwE9V3S-&_nc_oc=AdrpS147VdjkbyXHePPPo9himl_lIMhTrkcxAVyOY_WNBfTp1lt-YvmYFX-Wdj_h7Ko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL4_5v2iWOC6sSWo5tV_s3Uom9IjZOTvuY7wKrPF4LIrg&oe=6ABEB3E4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/519791542_1318343886352170_1267215218184686740_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KteLqe_mnwsQ7kNvwGOt02W&_nc_oc=AdopJdU0cczm_qpLnk3Km0t4g8h-x3rgtjxPGwu6Jxh3p28A87qIPVnHhedi4_GvyJ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJplSktyHwZzj1RhSv6rfd1FhsnHss8vG_eQgsqDyeSrQ&oe=6ABEB246",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/519424182_1443694853336495_6407074252019675608_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9G_glJge4OQQ7kNvwG_k6A1&_nc_oc=AdrcX9m1JjgrQ1nwfCjbGmRBGlvr6gmsSGzr-sYIwQ1EjCQdp1cEbIWqu6c2iQjHenI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLwuTOXqyaO_Ve65sKXLUeUh8W2oDfHm-2JTcIxmawRSg&oe=6ABEA423",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/519893312_1405698157336211_7675891923271845420_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o5nsoTX0nC0Q7kNvwHgHoev&_nc_oc=Ado68ZhmEK6X-9TECsJ81HOKe8JRlkBtFNJTb65f9Rq3jaA2l224_LifVyyt8L3pBzQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLItkuuuCgUhylKsAaDzhbJIApzeVT6i6DyAaVw1xklrg&oe=6ABE8B9D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/522647945_1489986168663514_2710908206950572553_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jAt1TVtm3x8Q7kNvwFNTzjQ&_nc_oc=Ado_McADGBoxyDeGqS0fSb6bVzIkYSsMhjkrE7laeQmBFUBkxPLaKkNyAYeVW2wng14&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKPIMSFvhmA-PFyGAVJF77lvygd_zAwGeTAmVRDT4b-3g&oe=6ABE89E9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/519969863_2272172823203272_3576777614983558729_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tl0rnz8JUSYQ7kNvwEnvQXA&_nc_oc=AdpI1GCCgqCIDCNSiMY6118Jn9ubB67Ndgf_W1TanprWyvA2XygXLDZn9__IbQaqMHY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJUz52dFl2ks99MTk1lictx-02gvT6tYdFADlLP5QC-Og&oe=6ABEA33E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1401563647768998"
+      },
+      {
+        "id": "943637004348366",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - השילוב המושלם בין הפורד ריינג'ר לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n***לפי דרישת היצרן FORD, בהתקנת ארגז יש להתקין תושבות לחיזוק דפנות הארגז למניעת סדקים וקריסה. המוצר הינו מוצר של FORD. המוצר כלול במחיר המבצע.***\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1731312000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465704013_8619993474774895_447649723427893650_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBNb1BI85fsQ7kNvwHv1_rj&_nc_oc=AdrL5iuBSYHftNTzw-N1-cyM8qODniqBlNE_IUy2qvQnkZ5vY0MBMYCuTXVY6zTHdms&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIDmJsa-VV2niq-dugbkLGpFkv8ESevnteLPsrHHwqikw&oe=6ABEBD9A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465661552_903921125033340_3743684936919574678_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hIlIp9mxqTMQ7kNvwF8VrkW&_nc_oc=AdpyUJRRC6fsp2X5Nb66YikiwdT3PKQVgqlgCfYhJV7hFaVpvQYEO5_YWDuVVdT5xZ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL1PvS6d3Pyfi_0IPJY3t1YHX1qbTy_mQZtf6ncI8obew&oe=6ABEA919",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465586039_914855700087614_4301064028432805200_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jtXrctXbIV8Q7kNvwE02VHS&_nc_oc=Ado50PKeI5sJneAzF-D2IarISmXTE09-EBmTAgRuqSGBCD5RRiWhxHtcphVvSwKFUpg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK8aKZEmldGM2vAcyRTusJ_zlOkRp-FLigHXMG-ekYrCQ&oe=6ABEB7A7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465644562_582243964224882_7663716534325305787_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BgkWuVxDQ9AQ7kNvwFmi-9m&_nc_oc=AdrEaiCsfmcYIDrLE4B7RcLVsFCgZFljkMDjAPDQRZ9vwLgpuATjaIoEp0PNt-Qwk50&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJORFJGSsZyIUg65WglJjJJD8iVLlf_aCjHGZpF-x90Lg&oe=6ABE9105",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465800576_572202565363814_1872131408032823092_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IMIifkuFZpIQ7kNvwGgSiJV&_nc_oc=Adrhw-6SyO4mtxRHswl2y0Po8wSa4rND1HDGoYXNinPpInh1JJUfkBQ96-Q1oN9HXXE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ4be6ludLUAPvQ6gcIU9pASIOYwiT68Br3vLsrmrw4fg&oe=6ABE9F58",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465699493_1463639684326794_4620474470484445539_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LWELK2Gsw3MQ7kNvwHXM_S7&_nc_oc=AdrPcNCWJ2EMbT9IQP7OhLb6HjjhZzWh7qrOnyE3apGyuFIc6qXwCGqi_jVGhpY77Fw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLidRHRv4beB4_OApu3P44M-asnZfutjTag4FCCR9XxMw&oe=6ABEA0CB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465715200_1775968866474197_4311039362571039727_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAIGBO0lsdAQ7kNvwFSq5Zx&_nc_oc=Adp1XpKZUeBCUilhavTTSACnqPH6zV4-ZZsvoWvLSPC8bXdkIZbu57-CSi4WPeN1deA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLClPHJCiPRHY7jO6nCYHxBSz6IAeB39vcieSP67qYPbg&oe=6ABEBB06",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465645683_1910858576059416_3179854113395588245_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=66-9isUVUhkQ7kNvwGntPhi&_nc_oc=AdoQHn89vUhWc1E3FlxN--JD5Aldl6lvvbXZyqALcIPhA3YvZ3ZReSDdsmYrkXOMPPg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIcXNIio_dAyuXzwbwxOIcm7rgjP7zJfHYgLKxUf0vFEg&oe=6ABEB0F3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465758910_1200467737717377_4177811861255117313_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gfFyt_-fAxAQ7kNvwFGNFMH&_nc_oc=Adr1NOOZNJatfX8zp-M0ajXSSUeDxeMh5GPa5jKEdFreTaE_96B0_eJ0Wkjjy1xANXI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK_H4oh_m8sUoaGH6AZN6mD0ATKAKRKG-67R9LT_tpT-g&oe=6ABE9053",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465581242_1113026497003526_4923072552051983200_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zgf5EeZueCAQ7kNvwHU9tp-&_nc_oc=AdqH2XNdDTFjJbr7nrKlbTY_tS3NCcPCnpo3sb0d9_oLyobtY8R-47gustnrY-mOrFg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKnN48hHmNSjWTU63KBPOViOUvpplCXTevR7pLctw1c8w&oe=6ABEA2A6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=943637004348366"
+      },
+      {
+        "id": "584385917290068",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - השילוב המושלם בין הפורד ריינג'ר לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n***לפי דרישת היצרן FORD, בהתקנת ארגז יש להתקין תושבות לחיזוק דפנות הארגז למניעת סדקים וקריסה. המוצר הינו מוצר של FORD. המוצר כלול במחיר המבצע.***\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1731312000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465704013_8619993474774895_447649723427893650_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nBNb1BI85fsQ7kNvwHv1_rj&_nc_oc=AdrL5iuBSYHftNTzw-N1-cyM8qODniqBlNE_IUy2qvQnkZ5vY0MBMYCuTXVY6zTHdms&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIDmJsa-VV2niq-dugbkLGpFkv8ESevnteLPsrHHwqikw&oe=6ABEBD9A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465661552_903921125033340_3743684936919574678_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hIlIp9mxqTMQ7kNvwF8VrkW&_nc_oc=AdpyUJRRC6fsp2X5Nb66YikiwdT3PKQVgqlgCfYhJV7hFaVpvQYEO5_YWDuVVdT5xZ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL1PvS6d3Pyfi_0IPJY3t1YHX1qbTy_mQZtf6ncI8obew&oe=6ABEA919",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465586039_914855700087614_4301064028432805200_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jtXrctXbIV8Q7kNvwE02VHS&_nc_oc=Ado50PKeI5sJneAzF-D2IarISmXTE09-EBmTAgRuqSGBCD5RRiWhxHtcphVvSwKFUpg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK8aKZEmldGM2vAcyRTusJ_zlOkRp-FLigHXMG-ekYrCQ&oe=6ABEB7A7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465644562_582243964224882_7663716534325305787_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BgkWuVxDQ9AQ7kNvwFmi-9m&_nc_oc=AdrEaiCsfmcYIDrLE4B7RcLVsFCgZFljkMDjAPDQRZ9vwLgpuATjaIoEp0PNt-Qwk50&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJORFJGSsZyIUg65WglJjJJD8iVLlf_aCjHGZpF-x90Lg&oe=6ABE9105",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465800576_572202565363814_1872131408032823092_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IMIifkuFZpIQ7kNvwGgSiJV&_nc_oc=Adrhw-6SyO4mtxRHswl2y0Po8wSa4rND1HDGoYXNinPpInh1JJUfkBQ96-Q1oN9HXXE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ4be6ludLUAPvQ6gcIU9pASIOYwiT68Br3vLsrmrw4fg&oe=6ABE9F58",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465699493_1463639684326794_4620474470484445539_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LWELK2Gsw3MQ7kNvwHXM_S7&_nc_oc=AdrPcNCWJ2EMbT9IQP7OhLb6HjjhZzWh7qrOnyE3apGyuFIc6qXwCGqi_jVGhpY77Fw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLidRHRv4beB4_OApu3P44M-asnZfutjTag4FCCR9XxMw&oe=6ABEA0CB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465715200_1775968866474197_4311039362571039727_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAIGBO0lsdAQ7kNvwFSq5Zx&_nc_oc=Adp1XpKZUeBCUilhavTTSACnqPH6zV4-ZZsvoWvLSPC8bXdkIZbu57-CSi4WPeN1deA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLClPHJCiPRHY7jO6nCYHxBSz6IAeB39vcieSP67qYPbg&oe=6ABEBB06",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465645683_1910858576059416_3179854113395588245_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=66-9isUVUhkQ7kNvwGntPhi&_nc_oc=AdoQHn89vUhWc1E3FlxN--JD5Aldl6lvvbXZyqALcIPhA3YvZ3ZReSDdsmYrkXOMPPg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIcXNIio_dAyuXzwbwxOIcm7rgjP7zJfHYgLKxUf0vFEg&oe=6ABEB0F3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465758910_1200467737717377_4177811861255117313_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gfFyt_-fAxAQ7kNvwFGNFMH&_nc_oc=Adr1NOOZNJatfX8zp-M0ajXSSUeDxeMh5GPa5jKEdFreTaE_96B0_eJ0Wkjjy1xANXI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK_H4oh_m8sUoaGH6AZN6mD0ATKAKRKG-67R9LT_tpT-g&oe=6ABE9053",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465581242_1113026497003526_4923072552051983200_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zgf5EeZueCAQ7kNvwHU9tp-&_nc_oc=AdqH2XNdDTFjJbr7nrKlbTY_tS3NCcPCnpo3sb0d9_oLyobtY8R-47gustnrY-mOrFg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKnN48hHmNSjWTU63KBPOViOUvpplCXTevR7pLctw1c8w&oe=6ABEA2A6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=584385917290068"
+      },
+      {
+        "id": "835885782294557",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - השילוב המושלם בין הסילברדו הכוחני לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1761548400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457448672_865294025532085_2953769879894293574_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kojy_4nzJb4Q7kNvwGPiu4h&_nc_oc=AdqatxvMmv8tC7dfupUAs76lxxOeTwtpy9lz8R9hmS6NH_MlZs_TncqSqC2F-INCEJE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ9vZvxcITwxnZ4I0MShAUeCEWnzf22I8IkINyI5K5rJw&oe=6ABE8EE0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457465923_535259399157159_3682758133667600795_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I6MJfIQv2u4Q7kNvwFHntK1&_nc_oc=AdoNc4kaXAsDAbYjbC5wYgvc6B2mPWRk2uALcA3pXj9HjAA3OXFlg-eyDefWPlN5soQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKkY6fnFxtK7DRTRWw4oeJ9qrfZSbHW_cAoqm7dG7rHEw&oe=6ABE8DF9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457354262_1093862888830714_5647216187967579802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6acNg1CLNdIQ7kNvwHjHwV5&_nc_oc=AdqU2K_HZkoAvMTpse97q_rr92Jox2zPrcMV8xhpLvpZbc8j_VkflmHUenoMDaRwjvk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLNg26kMvhN4QkasSMKSzFqFR8wh26sWpp8suNnA2pvjQ&oe=6ABE95B9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457182741_1666199637509947_6943575532143820838_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NOlV7qG-UxIQ7kNvwGDqCRF&_nc_oc=AdpGyT6dw9byIKztt_7AujQeTO6faODCqijoH-eNX4n-qx6QJ1YAsnBaITBtnkcr5g0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKyT-3urYGsaKx-NaoLF4-t0HyvSIPnG9ZtBx-AAhTM4Q&oe=6ABE93AA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457254640_464645759904614_7172371360444495817_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-4uUNv2VcX8Q7kNvwEoHuYk&_nc_oc=AdoGQC-46BfI46B6vf2kwrFV0EaScglTVIGgp2WbphPNoxRK78oSjw0SAepkGXCc3y4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ6dGnvm85OejfgKrEvMKqQvn5HldQN7eio1brOVFLVPw&oe=6ABE9717",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457181488_2619435744931643_4824874192697414012_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W7I__vBsAvMQ7kNvwEp39H2&_nc_oc=AdpYsNmujtFj6r9PR9tiMtxHDY96t291XTqOy0GMYsOQSi6mq-WAxt18T70lP-RWxno&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQI-vKiksBeXE1R2UNpTjt_IQ5ywbZPk01JNcU2cl2YMMw&oe=6ABEA4F0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457253331_3059996224143262_731372427466261638_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yXqTCJPCt1EQ7kNvwF4ZKzI&_nc_oc=AdoFw5aYW5TN4VQ7Te3cmouT_KKp5JaubnXUx6B5aROUoSlbKcHd2Qk7kPT1Pm7gEvI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIdW3eSJgiySY_oItU-bG47SgWF_gHoCiejsK6GCkNnGQ&oe=6ABEAFEB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457466377_1767103933821190_209340612838188674_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OzcK6q8Pn8EQ7kNvwGZiXUw&_nc_oc=Adoou3_dtscmi3ZA8AF6eZM-d0Ds57F9XyC6q0pywFxY4UfQKFpY5aABDxSyKh_rD8k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJD81MawsqRgKXuzKiIpMDQJIDfAWNXMRKFMuPzQtqfSg&oe=6ABE9F55",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457273953_452354781174384_309859241623418787_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a4N6H-e80Q4Q7kNvwGs1WTl&_nc_oc=AdoOHuPCcwfQQsFLKmKOp_1wfi8C9T0uOMiA7f5xq5ljGZYmC-qgd1-uaIGU97CH1RI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL19oV2RNM2eKjY_odZn_7kddeubAY_58OBhqJ95vryzg&oe=6ABE88A4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457262916_515258767762003_346160746587844342_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mRjkAYJEmQwQ7kNvwFwJs07&_nc_oc=AdpEr70nNn5e8NhErcOkUaoTnRTDRFcrsAYNEhv5lmASYDIV9KeGoujUwgl92Pp_XQw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKgTCkdAn0TnGOkI7sYQtWMfadjTZP4HATFZgXLlILyiQ&oe=6ABE9162"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=835885782294557"
+      },
+      {
+        "id": "2015498602581715",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "גתוס gatos",
+        "body": "חדש בישראל - השילוב המושלם בין הסילברדו הכוחני לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "link_description": "בלעדי לגתוס 4X4",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1761548400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457448672_865294025532085_2953769879894293574_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kojy_4nzJb4Q7kNvwGPiu4h&_nc_oc=AdqatxvMmv8tC7dfupUAs76lxxOeTwtpy9lz8R9hmS6NH_MlZs_TncqSqC2F-INCEJE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ9vZvxcITwxnZ4I0MShAUeCEWnzf22I8IkINyI5K5rJw&oe=6ABE8EE0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457465923_535259399157159_3682758133667600795_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I6MJfIQv2u4Q7kNvwFHntK1&_nc_oc=AdoNc4kaXAsDAbYjbC5wYgvc6B2mPWRk2uALcA3pXj9HjAA3OXFlg-eyDefWPlN5soQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKkY6fnFxtK7DRTRWw4oeJ9qrfZSbHW_cAoqm7dG7rHEw&oe=6ABE8DF9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457354262_1093862888830714_5647216187967579802_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6acNg1CLNdIQ7kNvwHjHwV5&_nc_oc=AdqU2K_HZkoAvMTpse97q_rr92Jox2zPrcMV8xhpLvpZbc8j_VkflmHUenoMDaRwjvk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQLNg26kMvhN4QkasSMKSzFqFR8wh26sWpp8suNnA2pvjQ&oe=6ABE95B9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457182741_1666199637509947_6943575532143820838_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NOlV7qG-UxIQ7kNvwGDqCRF&_nc_oc=AdpGyT6dw9byIKztt_7AujQeTO6faODCqijoH-eNX4n-qx6QJ1YAsnBaITBtnkcr5g0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKyT-3urYGsaKx-NaoLF4-t0HyvSIPnG9ZtBx-AAhTM4Q&oe=6ABE93AA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457254640_464645759904614_7172371360444495817_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-4uUNv2VcX8Q7kNvwEoHuYk&_nc_oc=AdoGQC-46BfI46B6vf2kwrFV0EaScglTVIGgp2WbphPNoxRK78oSjw0SAepkGXCc3y4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJ6dGnvm85OejfgKrEvMKqQvn5HldQN7eio1brOVFLVPw&oe=6ABE9717",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457181488_2619435744931643_4824874192697414012_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W7I__vBsAvMQ7kNvwEp39H2&_nc_oc=AdpYsNmujtFj6r9PR9tiMtxHDY96t291XTqOy0GMYsOQSi6mq-WAxt18T70lP-RWxno&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQI-vKiksBeXE1R2UNpTjt_IQ5ywbZPk01JNcU2cl2YMMw&oe=6ABEA4F0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457253331_3059996224143262_731372427466261638_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yXqTCJPCt1EQ7kNvwF4ZKzI&_nc_oc=AdoFw5aYW5TN4VQ7Te3cmouT_KKp5JaubnXUx6B5aROUoSlbKcHd2Qk7kPT1Pm7gEvI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQIdW3eSJgiySY_oItU-bG47SgWF_gHoCiejsK6GCkNnGQ&oe=6ABEAFEB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457466377_1767103933821190_209340612838188674_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OzcK6q8Pn8EQ7kNvwGZiXUw&_nc_oc=Adoou3_dtscmi3ZA8AF6eZM-d0Ds57F9XyC6q0pywFxY4UfQKFpY5aABDxSyKh_rD8k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQJD81MawsqRgKXuzKiIpMDQJIDfAWNXMRKFMuPzQtqfSg&oe=6ABE9F55",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457273953_452354781174384_309859241623418787_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a4N6H-e80Q4Q7kNvwGs1WTl&_nc_oc=AdoOHuPCcwfQQsFLKmKOp_1wfi8C9T0uOMiA7f5xq5ljGZYmC-qgd1-uaIGU97CH1RI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL19oV2RNM2eKjY_odZn_7kddeubAY_58OBhqJ95vryzg&oe=6ABE88A4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457262916_515258767762003_346160746587844342_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mRjkAYJEmQwQ7kNvwFwJs07&_nc_oc=AdpEr70nNn5e8NhErcOkUaoTnRTDRFcrsAYNEhv5lmASYDIV9KeGoujUwgl92Pp_XQw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKgTCkdAn0TnGOkI7sYQtWMfadjTZP4HATFZgXLlILyiQ&oe=6ABE9162"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2015498602581715"
+      },
+      {
+        "id": "804451158996699",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1761548400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457279853_1224422668591091_8438662486530855169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W9FsovLVIikQ7kNvwFE0xpp&_nc_oc=AdrwsdK06VrtF7fAAktgdy7gXKP9nN7tUqXkU986erYABQBkMEHBSxBGq9z07-YLWIw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL3lBuAyZ_LBCjHbeodJ7TwlDvxP6zZUcOaVlTqfOM1kg&oe=6ABE9AD8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMwv2Py2eM26Rdzx0CM-VIL32eQJJI4yqh5OFBakjji930WkT9uhua_yHvyk7hb59CMj83aN4yX8jz6GtX97Orq.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=H7QGUFKr7MwQ7kNvwETZOtH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NTQwNTg3NzA2OTUyNTMsImFzc2V0X2FnZV9kYXlzIjoyMzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpFtRBV4woss7-unODwmHzUfMgyQZ8yU-ToxLpP59N8Q&oe=6ABE8C84"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457223798_2189126364789707_2736543772823484894_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V730QqIxTcEQ7kNvwFeuQps&_nc_oc=Adq56PmzZdgSfKds1LTKRLWWlYvCbY6_extE9XWtK5gfKBwPibAQm_fYzZ31t_B9mZg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK9A4JWU8cn5gfBQGbjwq7Br7MSvMfdBIJ5oUdH2rHwTA&oe=6ABE904A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQORcipBKCujTbqdwW9pziTYOdGTHeWXdTW6eySAmVd_muOptV9Kda8INmDXucSo3sfXNC7-8dLaGHfeY7WXNZk7.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Yimzp7ykEr8Q7kNvwER-9eE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4ODI4MjM2NDEzOTQ4ODcsImFzc2V0X2FnZV9kYXlzIjoyMzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQLfZjOUcHo7026YFxQVQ-og_4mPZ0GsoI4YZ3G63ZZ5xQ&oe=6ABEACB6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=804451158996699"
+      },
+      {
+        "id": "1397580295045327",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1761548400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457279853_1224422668591091_8438662486530855169_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W9FsovLVIikQ7kNvwFE0xpp&_nc_oc=AdrwsdK06VrtF7fAAktgdy7gXKP9nN7tUqXkU986erYABQBkMEHBSxBGq9z07-YLWIw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQL3lBuAyZ_LBCjHbeodJ7TwlDvxP6zZUcOaVlTqfOM1kg&oe=6ABE9AD8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMwv2Py2eM26Rdzx0CM-VIL32eQJJI4yqh5OFBakjji930WkT9uhua_yHvyk7hb59CMj83aN4yX8jz6GtX97Orq.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=H7QGUFKr7MwQ7kNvwETZOtH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3NTQwNTg3NzA2OTUyNTMsImFzc2V0X2FnZV9kYXlzIjoyMzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpFtRBV4woss7-unODwmHzUfMgyQZ8yU-ToxLpP59N8Q&oe=6ABE8C84"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457223798_2189126364789707_2736543772823484894_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V730QqIxTcEQ7kNvwFeuQps&_nc_oc=Adq56PmzZdgSfKds1LTKRLWWlYvCbY6_extE9XWtK5gfKBwPibAQm_fYzZ31t_B9mZg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQK9A4JWU8cn5gfBQGbjwq7Br7MSvMfdBIJ5oUdH2rHwTA&oe=6ABE904A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQORcipBKCujTbqdwW9pziTYOdGTHeWXdTW6eySAmVd_muOptV9Kda8INmDXucSo3sfXNC7-8dLaGHfeY7WXNZk7.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Yimzp7ykEr8Q7kNvwER-9eE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4ODI4MjM2NDEzOTQ4ODcsImFzc2V0X2FnZV9kYXlzIjoyMzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQLfZjOUcHo7026YFxQVQ-og_4mPZ0GsoI4YZ3G63ZZ5xQ&oe=6ABEACB6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1397580295045327"
+      },
+      {
+        "id": "901658221643502",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1731312000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465704658_1075325663797595_3080462808003566945_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2JiH_J6FlyAQ7kNvwEVYr6z&_nc_oc=AdpNOmj1D2xgOxePRJoJ_H5hWAfrSUnUD2TgFjATc0Sc4BxBZCrcaLSADAVO7xDzSQ0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKoYVU13O4BGWZcvpTgP4Wp1aOpHnRuH8ehdIQjo3edww&oe=6ABE927C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN0JvNRKQ38s6MxUwth3O2IpkGAUn_7zhGyFGbDo130KkR9Qwj8bBLGbXerhU-5tiRiNt5ui1U9LsylyoDGbpA.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=adQ0UIwr0HEQ7kNvwHTLvJV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMTU0NDcyNjEwMDk1NzY0LCJhc3NldF9hZ2VfZGF5cyI6Mjk0LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQI8-T9UUpPNHHKK2b-sKwnKyUgjLGlKpiB_WLzT87Ix-g&oe=6ABE987F"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465606179_582973224065646_8158457362445231001_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1QI5b2Wf-SsQ7kNvwH288Wl&_nc_oc=AdpEuerxGIO2lrwgpC43R7YLECZA6k74C4IJPdT-g8uv3t0IwYhDolwLCtYiTqLWdTc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKetuQFWw6IGe-xmJ2fRAQLNbVFyvpdU3OAVA64CVQjTQ&oe=6ABEAB3B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPM0pbu0TkWThfG8L54TYGLs68xB6HoWyLtw88Wi38sJqByOQAXQ4ZtGPuVoM6Eiy2SqIwT0zknOztTzSAPWDcC.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EmklQ-kq_jMQ7kNvwG8ANTP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4NDg1MzQ0NDA4ODMxOTYsImFzc2V0X2FnZV9kYXlzIjoyOTQsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQKy8wHIJPE2J8AAyzV54RkHZbR-h929kuhSpSsBjru8JQ&oe=6ABE8633"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=901658221643502"
+      },
+      {
+        "id": "8570615966391132",
+        "page_id": "137829526289097",
+        "page_name": "גתוס gatos",
+        "page_url": "https://www.facebook.com/100063706293422/",
+        "page_like_count": 5331,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "cta_text": "הרשמה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1731312000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/465704658_1075325663797595_3080462808003566945_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2JiH_J6FlyAQ7kNvwEVYr6z&_nc_oc=AdpNOmj1D2xgOxePRJoJ_H5hWAfrSUnUD2TgFjATc0Sc4BxBZCrcaLSADAVO7xDzSQ0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKoYVU13O4BGWZcvpTgP4Wp1aOpHnRuH8ehdIQjo3edww&oe=6ABE927C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQN0JvNRKQ38s6MxUwth3O2IpkGAUn_7zhGyFGbDo130KkR9Qwj8bBLGbXerhU-5tiRiNt5ui1U9LsylyoDGbpA.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=adQ0UIwr0HEQ7kNvwHTLvJV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMTU0NDcyNjEwMDk1NzY0LCJhc3NldF9hZ2VfZGF5cyI6Mjk0LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQI8-T9UUpPNHHKK2b-sKwnKyUgjLGlKpiB_WLzT87Ix-g&oe=6ABE987F"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465606179_582973224065646_8158457362445231001_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1QI5b2Wf-SsQ7kNvwH288Wl&_nc_oc=AdpEuerxGIO2lrwgpC43R7YLECZA6k74C4IJPdT-g8uv3t0IwYhDolwLCtYiTqLWdTc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&oh=00_AQKetuQFWw6IGe-xmJ2fRAQLNbVFyvpdU3OAVA64CVQjTQ&oe=6ABEAB3B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPM0pbu0TkWThfG8L54TYGLs68xB6HoWyLtw88Wi38sJqByOQAXQ4ZtGPuVoM6Eiy2SqIwT0zknOztTzSAPWDcC.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=EmklQ-kq_jMQ7kNvwG8ANTP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo4NDg1MzQ0NDA4ODMxOTYsImFzc2V0X2FnZV9kYXlzIjoyOTQsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=_KxW2EkoOOwpLosL7_UQVA&_nc_ss=70289&_nc_zt=28&oh=00_AQKy8wHIJPE2J8AAyzV54RkHZbR-h929kuhSpSsBjru8JQ&oe=6ABE8633"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=8570615966391132"
+      },
+      {
+        "id": "1564901914793735",
+        "body": "",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "http://fb.me/",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1399787404757697",
+        "text": "חדש בישראל - השילוב המושלם בין הטנדר הכוחני שלך לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "804072605269294",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1401563647768998",
+        "text": "חדש בישראל - שילוב מושלם בין הטנדר הכוחני שלך לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "943637004348366",
+        "text": "חדש בישראל - השילוב המושלם בין הפורד ריינג'ר לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n***לפי דרישת היצרן FORD, בהתקנת ארגז יש להתקין תושבות לחיזוק דפנות הארגז למניעת סדקים וקריסה. המוצר הינו מוצר של FORD. המוצר כלול במחיר המבצע.***\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "584385917290068",
+        "text": "חדש בישראל - השילוב המושלם בין הפורד ריינג'ר לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n***לפי דרישת היצרן FORD, בהתקנת ארגז יש להתקין תושבות לחיזוק דפנות הארגז למניעת סדקים וקריסה. המוצר הינו מוצר של FORD. המוצר כלול במחיר המבצע.***\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "835885782294557",
+        "text": "חדש בישראל - השילוב המושלם בין הסילברדו הכוחני לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "2015498602581715",
+        "text": "חדש בישראל - השילוב המושלם בין הסילברדו הכוחני לסגירת הפרימיום של SMARTCAP.\n\nמערכת סגירת ארגז מודולרית מפלדת אל חלד ייעודית לענף הרכב, שמאפשרת לכם להתאים פתרונות אחסון מתקדמים לסגנון החיים שלכם והצרכים המדויקים לכם.\n\nהמערכת תוכננה  ונבנתה לתת מענה אפקטיבי לטנדרים היוקרתיים עם מגוון התאמות כולל דלתות צד מתרוממות, מסילות גג אוניברסליות לציוד או אוהל והתאמות פנימיות לכל צורך – החל ממטבח וכירה נשלפת ועד מגירות צד לכלי עבודה.\n\nאם אתם מחפשים פתרון אמין, איכותי ובעיצוב מרהיב, מצאתם את הבחירה המושלמת.\n\n✨ סגירת פרימיום לארגז עם דגש על איכות ועמידות לצד עיצוב ופרקטיות.\n\n✅ הגנה מקסימלית - שמרו על הציוד שלכם בטוח ומוגן בכל תנאי שטח, בין אם זה בטיול שטח אתגרי או בנסיעות עירוניות יומיומיות.\n\n✅ רמת גימור בלתי מתפשרת - כל פרט קטן נבדק בקפידה כדי להעניק לכם מוצר יוקרתי, עמיד ומדויק.\n\n✅ עיצוב מרשים - תוספת מושלמת למראה של הגלדיאטור שלכם, עם דגש על קווים נקיים והתאמה מושלמת.\n\n✅ פתרון מתקדם למטיילים - מוכן לדרך בכל רגע, עם גישה נוחה ומהירה לכל מה שתצטרכו בטיול הבא שלכם.\n\n בלעדי לגתוס 4X4",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "804451158996699",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1397580295045327",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "901658221643502",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "8570615966391132",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1564901914793735",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nגתוס gatos\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1564901914793735\nהתחילה לפעול ב-4 בפבר' 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nגתוס gatos\nממומן\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלהשיג בגתוס\nערכות ההגבהה של 4X4 IRONMAN האוסטרליות עכשיו בישראל! לבדיקת התאמה לרכב שלך – דברו איתנו בוואטסאפ! ✅ נוחות ועבירות משופרות ✅ יציבות ושליטה בעומס ובתנאי שטח ✅ התאמה לסגנון שימוש – יומיומי, טיולים, או תוספות משקל קבועות ✅ מערכות שתוכננו ונבחנו בתנאים קשוחים רוצים לדעת מה הכי מתאים לרכב שלכם? כתבו לנו בוואטסאפ: דגם + שנתון + מה מותקן על הרכב (פגוש/כננת/אוהל/מגירות) – ונבדוק מה הסט-אפ האידיאלי עבורך.\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:07:54",
+    "filtered": "2026-09-27T08:09:10",
+    "unqualified": "2026-09-27T08:11:13"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

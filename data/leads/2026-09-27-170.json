@@ -1,0 +1,404 @@
+{
+  "lead_id": "2026-09-27-170",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://organicbed.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "andrey@code-cat.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063368731655/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/organicbed_co_il/",
+      "source": "https://organicbed.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972548687598",
+      "source": "https://organicbed.co.il/contact-us/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "2 landline(s)",
+        "gmail / hello@ inbox"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "392078501556862",
+    "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+    "active_ads_count": 6,
+    "search_keyword": "דברו איתנו",
+    "sample_ads": [
+      {
+        "ad_id": "3403241759826269",
+        "link_title": "דברו איתנו 🌳",
+        "body": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/593870818_857217357270638_4590470392885597331_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h_1cJ5vyQ_EQ7kNvwEHihDa&_nc_oc=Adoh_6po19THmPYxOHEk1GY70xCNR3bpZX10bae79Ub4NQLrpg_CjA4RRng0LkcfFcs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQLwQl6tLaowDWLRwUp6m8H-znTSVDiFzpBGmwfpHHIBGw&oe=6ABEAC23"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1764835200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3403241759826269"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2320,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "3403241759826269"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 2320,
+    "page_categories": [
+      "Furniture"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "3403241759826269",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "דברו איתנו 🌳",
+        "body": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1764835200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/593870818_857217357270638_4590470392885597331_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h_1cJ5vyQ_EQ7kNvwHSxSqC&_nc_oc=AdpAWQ_thVYFWWPLncIbx6bE3J3sD0BKDsByI_Zr9jcaye6UEu3xNHdjW17M3D_3WqQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQIGXhVRVlq8kxRk_AriSFuNIzKMmp7z1ueUA_AES9Xp9Q&oe=6ABEAC23"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3403241759826269"
+      },
+      {
+        "id": "1980259589512087",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "דברו איתנו 🌳",
+        "body": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689525652_1625298385356625_3033027884473205857_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=viAFCp0FBKIQ7kNvwFHNh4q&_nc_oc=Adrdl_UktRPt3AOYsGEG5AmDuW7HY-KzMRRS8abnJebBBPtN6Y5JwS4dUkg5fTsXaJs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQIMJIlYWg1ax5W1BduNaDKMkvOZZcsOu-Oti4Jo17-ZiA&oe=6ABE877C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOc2ncLsQudmg_XTENxhVBJmUn6umgXgI2dke4W-QB27K7NldBy55MSi6wLynICOORlzTOPQHTlbcsdvF2TH4S1s8OkW97Q5jVvIMe4x9x1ag.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VeSZO_md6MkQ7kNvwHnNsV0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwOTE3NzkwMDgwNjYyNjgsImFzc2V0X2FnZV9kYXlzIjoxNDMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d6e69925c2e49d94&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDREMTIzRDA2OUFDREMyRTEwOTE5MEM3RTQwNzZBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA3NEMyRUZCMjhEOEU1RDVGNTI3QjJDRDU2RDNGM0FCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4y8uLyJ23BxUCKAJDMywXQCAAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIysGPf8nQN873lkkU_SbFeIRwZQ-spv6f4h23LxW2vKA&oe=6ABE9859"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1980259589512087"
+      },
+      {
+        "id": "3563454217145925",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "דברו איתנו 🌳",
+        "body": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/690651354_1668839367795760_4792453927084344727_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=baXfsd8nLKIQ7kNvwEgPf-s&_nc_oc=AdoEFd9Iax0qzF690lLPLfuiJEAB8gPPosbcySEFm2EqCt6ZNAlpGygNcaBN0bVoMr4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQLVDdpPSQki4B8zrISwLHaTIgJII3BtzHTEc39d7joBSw&oe=6ABEB661",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNYYabQgeP5qOB8Qn_65v_HqM0mcbiH-yVAMgrQFI7nVXTBMdIZ-hOL7GCDL33tnS3gr0gMIK-2YmM2rbi3mvT_GJIUZ8e6yVneNWmmUXdW6g.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2_rN_kHQME4Q7kNvwFT8yd1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNTM0NDg2MDYzMjg0OCwiYXNzZXRfYWdlX2RheXMiOjE0NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=34bd17f68539c677&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRTQyODg3MDhGMzI3RDhFREI4MTY5OTEzRDlCMEU4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UwNDMyNUMxMjdDQTVDOEEzNzk5Q0EzODA1QkRCOEEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag3OGzsqn3AhUCKAJDMywXQCAAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&_nc_zt=28&_nc_enc=QaF6u6q9TFQ1plHeeOyiaykUEtAoB3sSzWpwMmVxvhsptGW56KN4aMTxkAQpeItNHhMn2TOf-x2Nat9l4H1s3wYfINHpwTsZ0gCvCmjvrVBct1UTcs78sYF-z5c&oh=00_AQKM2SshidGklNoahcTh4wgK_YCTScTzkY9tl_tSZ_9sVw&oe=6ABEB5C8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3563454217145925"
+      },
+      {
+        "id": "1494040909412714",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "ממשו את הקופון >>",
+        "body": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "link_description": "",
+        "landing_url": "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802507956_1397754482494793_1581734696813323293_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0aA0ufRlLdEQ7kNvwH4qV4-&_nc_oc=Adonh50knb256k5T77R0Tj2sYC0W2v0OnOGNQ8S0blo5fvbpsZzqBJNsqiEn0lGx9BQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQJQigyelrx8XHi1MG8rcEhBYcymf7LCuHcmAKxOu4LbRQ&oe=6ABEAF2B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNvsC_ZgNzfr25lBuYIglz8pf-BqW-SgVmxSIdtyUb3FWx-kp7BKtU5ECkiBo55MC0OlLQmtVmWxaGKtb-0aT3wcyI2Bpp-f8vqqovQ3z96XQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=QFgv3M8DfR4Q7kNvwFKWQDk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODY4NjY1OTcyNTI5MTQsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6b0c75ecad3ff268&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjQ1QjhFMjg3QkZCMUM4NEIyNzU5RDIyREQwNUJCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg0NDAwQ0IxNTQzNzg0MzM3RDE2RTEzNzcyQzA3OEE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkvJSX-5_uAxUCKAJDMywXQCkhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIWR0nuTBYb90-0Ltrf6tfNHZMoaNLHRr_jr0pSqZn2Ww&oe=6ABE9A63"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1494040909412714"
+      },
+      {
+        "id": "1419483590063210",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "ריהוט"
+        ],
+        "ad_creative_link_title": "ממשו את הקופון >>",
+        "body": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "link_description": "",
+        "landing_url": "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%98%d7%95%d7%a7%d7%99%d7%95/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798018696_2021885508526543_7161525741380314058_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tcesXv-ItWQQ7kNvwFRt6uE&_nc_oc=AdoLti3POFwINzJ0tLxedX1i8DCETWIKQW_6yyY1Silot2xU3dv0uWknr_qvSmofvaQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQLhIXr50AbWMVdzTrS_2GwUY2NGknfrvXdKAousfx4laA&oe=6ABEA5B3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPegzhML7Sd3a27QZXMpq_zb8ZRVJ6VD-_ZxW0KJZDoie6KAWX9AkBZ-OABJgTgvLSPmG99ZxSyEZ1zrS589iLCMf34NUjOvfhO6aXrJTLRaw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4cD-lB5DwDoQ7kNvwFJdzSC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzQ2MzY2NDUyOTQ5ODMsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8a0894b704870148&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTREQTk5NDVDQUJFNDYxRDMwOTc4RUNGQzVGNzJBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDQzQzhFNTU1MDZCMjQwRTlGODA4QzVGMTM0QkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOjov4itjoAxUCKAJDMywXQCkhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJKXx5kYDAsSyvEtRaEfnfcfpv2kCFUbbnWjYwskoOskA&oe=6ABEA19C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1419483590063210"
+      },
+      {
+        "id": "1407741971306547",
+        "page_id": "392078501556862",
+        "page_name": "Organicbed - מיטה אורגנית, המרכז לשינה טבעית",
+        "page_url": "https://www.facebook.com/100063368731655/",
+        "page_like_count": 2320,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "ממשו את הקופון >>",
+        "body": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "link_description": "",
+        "landing_url": "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789023600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799160247_2370890540476205_6441276270995751520_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B7bCXpuaKKYQ7kNvwGAgw6H&_nc_oc=AdrF3ARS-zqr7dPgFbv1rQDLFPCup84ijRJ3sl83RgzcO8cjuPhbOYEe1WjyRBsYBYQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&oh=00_AQLiyNm3ND3Ndt4Jx3IOy1wRC5Rqk3uEwyOjTMHqEZa5AA&oe=6ABEA7A0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZzOz0gy5ogmpAlLvj-1mUQKYFbI4Gh4gOFdCf3IjfwvWK-yfKOymkvn2H_gW_KimgwUK3zp2hFMjGsgIh1YIi9dTo5YC0hjGo_l2GumSpFA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1Su14bJjv1AQ7kNvwHTJJ-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Mzc4NDgyODc3NDE5NTMsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4abb7034235257e0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTRBMkFGM0U4QTVFN0Y4RjZCRjlCNUZCOUYwMTZBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEE0MUQ1RjUwMTZDNDFBNjREQUE1RTQwNDQxQjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCoJjWqOfoBRUCKAJDMywXQCkhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=EYujULounhAewRIVI2nuXQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKGOKr6laaxdWAKeHTKbxxnRu4AnboboQhzMSM8tYqq1w&oe=6ABE8684"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1407741971306547"
+      },
+      {
+        "id": "3403241759826269",
+        "body": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "3403241759826269",
+        "text": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1980259589512087",
+        "text": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "3563454217145925",
+        "text": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1494040909412714",
+        "text": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "links": [
+          "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/"
+        ]
+      },
+      {
+        "ad_id": "1419483590063210",
+        "text": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "links": [
+          "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%98%d7%95%d7%a7%d7%99%d7%95/"
+        ]
+      },
+      {
+        "ad_id": "1407741971306547",
+        "text": "מבצעים לזמן מוגבל על כל מיטות היער שלנו 🌿 \nבחרו את המיטה שלכם, ממשו את הקופון ורכשו באתר.\nלזמן מוגבל ועד גמר המלאי 🍃",
+        "links": [
+          "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/"
+        ]
+      },
+      {
+        "ad_id": "3403241759826269",
+        "text": "מיטה + מזרן + ראש + זוג שידות + מסגרת + התקנה= רק  1699 ש\"ח ✨\n\n- משלח עד 7 ימי עסקים 🌳\n- עד גמר המלאי 🍃\n- כל המוצרים שלנו מעץ פני מלא 🎄\n- מתיחס לגדול זוגי סטנדרטי 140/190 🍃\n- זוג שידות - דגם “פראנה”\n\nומי אנחנו :)\nאורגניק בד :) , חברה שמקדמת טבע, פשטות, יוגה, ומוצרים בניחוח טבעי עם מעל ל 150 אלף לקוחות שישנים על המיטות שלנו 🌷",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/",
+      "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%98%d7%95%d7%a7%d7%99%d7%95/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:07:54",
+    "filtered": "2026-09-27T08:08:28",
+    "qualified": "2026-09-27T08:09:52"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://organicbed.co.il/",
+      "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%93%d7%95/",
+      "https://organicbed.co.il/product/%d7%9e%d7%99%d7%98%d7%aa-%d7%a2%d7%a5-%d7%98%d7%91%d7%a2%d7%99-%d7%93%d7%92%d7%9d-%d7%98%d7%95%d7%a7%d7%99%d7%95/",
+      "https://organicbed.co.il/contact-us/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

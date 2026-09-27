@@ -1,0 +1,520 @@
+{
+  "lead_id": "2026-09-27-153",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ritzufim/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972503320052",
+      "source": "https://www.facebook.com/ads/library/?id=815534717922113",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "121039931243197",
+    "page_name": "ריצופים - עולם של חידושים",
+    "active_ads_count": 9,
+    "search_keyword": "שלחו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "815534717922113",
+        "link_title": "ריצופים - עולם של חידושים",
+        "body": "ארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524313392_1061485089500460_4874744190571295594_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=idNGtJ2uzTwQ7kNvwFjsnQ3&_nc_oc=Adpgl8ezwUG84gSEE0iTdTaz-vebLItCkbWPE6lQWJyOV1jC_QJjDQoZCGnL9FFGUB0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQLJdF9NRGOMRhRecJuiZWFLEnbdgdgbzz9MnuP79iAZew&oe=6ABEB971",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/524991651_4066568683626180_7251902964723527880_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SmN12O9Izl0Q7kNvwH_sUmA&_nc_oc=AdpPdH7p-bZcEb_jiNHpaih2jmh_TVNYttuC9rpl8pP3szpb9flcdExYqG1XvrWZDN4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQIL4UpDl8_wsGiOFMFWjdJOxd8rw_QryH2XYj2htFCn9w&oe=6ABEB0B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524288421_1002845855128785_6248258368686058264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kb64gpkn9lsQ7kNvwFcxdUV&_nc_oc=AdpyzLNyBCU9vjVgg4OMBIpmfwBJudsTA0rK0PQ_VnOBza6z3NlM1cibm5grClxj1ZY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQIfdunXT1DsIIdEPsS_XQxd4HOeCZMlamsPBml_Ti1yxA&oe=6ABEA65F"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1763452800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=815534717922113"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 9,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 6397,
+      "product_score": -1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "815534717922113"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 6397,
+    "page_categories": [
+      "Brand"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "815534717922113",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "ריצופים - עולם של חידושים",
+        "body": "ארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇",
+        "link_description": "צ'אט איתנו",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524313392_1061485089500460_4874744190571295594_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=idNGtJ2uzTwQ7kNvwH9BPc5&_nc_oc=Adpny8Wj8Xp_tFydUhPFeOuzOGvS3KQ1HZhBYEOexB-gaoYFFzxON5fNL_ucHksVYH8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQI_QMvXu6vtXarrz7qUdykeRIDxjM8QXU26NXMQesiSrw&oe=6ABEB971",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/524991651_4066568683626180_7251902964723527880_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SmN12O9Izl0Q7kNvwGvJ86O&_nc_oc=Adoga4iuTug_xt5SztxVk19Ml2Ns0n3r1A9XDys4NS7_0kto2oo4yo8HJ39aeCJJYv8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIcBK4SQD-ve9C_Xi0tXmEQ6YtatKFHcNr4qq8RNuyKaQ&oe=6ABEB0B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524288421_1002845855128785_6248258368686058264_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kb64gpkn9lsQ7kNvwG_Ks4q&_nc_oc=AdoNtuOM8kfK_9PkRu--WK08ohDVi4iGwl-IPiFaMdzzUz4nWRrzxMcPWH3ozH5G5Xg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQL3fnWiJXSrrTdUTKa5x7B2a7kFbkrik8pp2FceuHJRlA&oe=6ABEA65F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524291988_1255326932932022_965767160686524177_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AH0L7A4Y7K8Q7kNvwEJj5nA&_nc_oc=Ado6WrYTFZoKhQM4u8cNH5MRKfT_hsN_gqu6PJGVMvyupl24SDsQ1UXdEkqSMiJfjqc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQKx20Y1AOX4necBkTjwNi1WfrpfKmq9XDimVjyaJQdM7w&oe=6ABEA456",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524327554_4036555766586102_2937347245518425152_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rdg_YoS_iCAQ7kNvwF5eJ54&_nc_oc=AdpMfaljpnQ2GP_30BVT11jHMn_kbfJ8Hr5aloQuUPIsYgcnV-qoXmslrfbsiIMpu6M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQI3VKHaWUqxlztLZYjGKANct1wHJTmbl17lyzCg7ZwzeA&oe=6ABE8A48",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/524118481_1042200091422240_7287619317121566411_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z_pyp1lMAxwQ7kNvwEbP5uk&_nc_oc=AdqNyINL1rMnNDHM9TppCbhf7NiEhhEjg5lRqLDhYwzl6lG3vEZk6AMPUQy25Ot6F-E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQKjPCWFUc2A1hQGkJH-ghbePXjRE-ExKFPfW98QBaot0Q&oe=6ABE85FC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=815534717922113"
+      },
+      {
+        "id": "4397591080525316",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "ריצופים - עולם של חידושים",
+        "body": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1771488000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/596288864_1984443709073305_2241653545774491353_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uSRAZUbAikgQ7kNvwFjRo4S&_nc_oc=AdpM46Z3kKCx2gRT69ahVI7B5tSf3WP1i6tvtKf8VyiZWxD3mrPQMlWRbMMC0sG03Bo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQJ0NtUjdIcs47XN-dWTpRzkD75nyvSd7ntZEUYctu2oJg&oe=6ABE8BBB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597341910_1514566096276536_552533384515820_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s79Vp6E0e0UQ7kNvwFBLwi-&_nc_oc=Adru45_3U3mtS_pV-qcoW-gHctM-hWjR-yGpo3Zpseie1KMdSY20HRAPvA2IYnDCI5A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIyDE56ynYxB7yZZ8lm-F9RU7mz5PdXKBsUa7_lN7AB-Q&oe=6ABEA54A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/595344337_1861432264738893_1545268026014041691_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2usOkrLD9ZkQ7kNvwHG2MnV&_nc_oc=AdrrlYOND0uocvku8r0pZEvpBaWNvjEvDa41QbTUVS-hENFMXxHB4iaUf1rV0btIv7U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQJEOPn6s8qfPkNxw6UXDzFUZJseMGy0i1xuZzBrQ-JZmg&oe=6ABEB0BF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/597108204_1368676031709681_5806742792495339545_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xd60dgVH-gEQ7kNvwGgFlbz&_nc_oc=Adr6kMa3VGLBjp7SHEugbEpshklWCY1VCHXtMqWSwWBIYwwoq_HF0F-qSeIDiyJljRs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQINVmskPfVFUXyxVVfuSAOR7OEA2Ymh_j_bHKfhOJ-YiQ&oe=6ABEBAB2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/596295961_1379751810474957_588567700229793489_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IEVxBba7PoYQ7kNvwEnPNNK&_nc_oc=AdpvHD-wQYLnMkxVxymyOlSSopugmqdczKvLTqjqnG2tkacPZrFAr-EPIGLrkIsk_80&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQK_qShyYvYzwfQNGLWRgZk4aRG0ThoJV1yCePCvjqne6w&oe=6ABEA33D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/595904733_1183840577051767_2407918240308825337_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oDCayY9dSEEQ7kNvwE9TNtQ&_nc_oc=AdrlzTTWb001q_gb2DtLQMZN_zoXywj5kuumAmXpBzKcJesERJMnfvUl9Ci1Hw26C6E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQK1k34KhQaRVyfVQC3vGypQXyaTHhkluatmjKBCUijUUQ&oe=6ABEA909"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4397591080525316"
+      },
+      {
+        "id": "931823875853758",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "api.whatsapp.com",
+        "body": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771488000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608321597_2661415087565549_231416358721588244_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u45oL-21R0UQ7kNvwEnmZZi&_nc_oc=AdqspiIlmsNXEIaJtiGQWm-x6FrXFn7SIW4NYLab-rgNXgw5jgLt9t9UUvEzqQ3xAuI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLyrtf2ynOdftTABUNSr4-_gG7Z48KYWPfGL5kJfjOUGA&oe=6ABEA062"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=931823875853758"
+      },
+      {
+        "id": "1603049957373533",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "ריצופים - עולם של חידושים",
+        "body": "מחפשים מקלחון חדש? זה הרגע להפוך את חדר הרחצה למקום שנעים להתחיל בו את היום.\n\nרוב הלקוחות שמגיעים אלינו מספרים אותו סיפור:\nנזילות שלא נגמרות, דלת שנתקעת, זכוכית רועדת וניקיון בלתי אפשרי.\n\nבדיוק בגלל זה החלטנו להביא לשוק מקלחונים שמייצרים שינוי אמיתי — לא “עוד מוצר”, אלא פתרון שמביא שקט אמיתי הביתה.\n\nמה מייחד את המקלחונים שלנו?\n\n✔ איטום מושלם שמונע זליגת מים לרצפה\n✔ מנגנוני פתיחה איכותיים שמרגישים חלקים בכל שימוש\n✔ זכוכית מחוסמת בעובי גבוה ליציבות ובטיחות\n✔ עיצוב נקי ויוקרתי שמתאים לכל סגנון\n✔ שירות מקצועי שמלווה אתכם עד שהמקלחון עומד מושלם במקום\n\nלפרטים נוספים ויעוץ ללא עלות 👇",
+        "link_description": "מקלחון 2 דלתות קוביות שחור , זכוכית 6 מ\"מ",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1763366400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/582502024_800013762868770_7960094399736442919_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYhTZRtYfO0Q7kNvwGY7dx3&_nc_oc=AdoWEns0bE8lHifuyboGqLTL_6-0oa4CVBNPRaoLqYOdtb7c12dKSWxF8WnJXCRY7NU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLrM1z_mYyta2ezoUk6SjO5_dS3xx9FGoU7KCKe-9POQA&oe=6ABE9412",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/582521898_1155734886228783_8149667543729294644_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BGQshNMKKS4Q7kNvwGrqGTD&_nc_oc=AdqRokaFuW7myQ-qW70jVfkMNAXgGVGvzAy6w0_pTIhQ3JgSoZm7iOrhebpNsOrnSGc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQI7w-s6HRT9YTisYzKDfBEiGpYtL5U_jDiEPzBayLA_Ig&oe=6ABEA787",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/583341719_788849267545944_8385224508567346682_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jliMFjtKnnAQ7kNvwEbxlMQ&_nc_oc=AdrbobdGggsGUTyJNTkggFK4lNoNCnM6X1SF1wrInsPC8ExtzAy7punROUce0fjQ0ME&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQJ-7lWTJ3y7BjVUD3HODIDvjtkCLY2-t4sBpJI7muarlw&oe=6ABE95EA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/583060444_1396677645495998_4239917718460674752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1pWyGnywsyoQ7kNvwG0mjHv&_nc_oc=Adr_CMjl3JFYS2m024hXcGf7qW49uE5JEburTj-el84uwq__xZnTQy7ZyrAMSItwink&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIod9Aweg1To8nOT5owlEQ3q03G1bVHcw3Zg_n-MvW6Nw&oe=6ABE918B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584900674_2098917907584198_2259142223214205919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vpz0NLad-lcQ7kNvwGBxsaf&_nc_oc=AdqUXGwFLpxN-mtW8LMb7G8PebM1EKaBg8jSDviCeg_RO2qwXQcBX2Xf6M8HaTj_9hY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLdXCkHTZxcRKyW0b5ZT8grWo9_lSV4b8KYLL3qm0hUTQ&oe=6ABE9E8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/582630088_823355940302015_121597909850007917_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=54XaqLm-RHAQ7kNvwE0SjqU&_nc_oc=AdqXta2sYekfKlsXMCTidE5KyLbl_ncnZ8wYEjfo9cSugHHR7xrSkXlZP6MrV5soFT8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLUqgWAeQ2scBB4zoMbrznG5n36o8xVcq5ZajjJ9E-1mw&oe=6ABEB04C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1603049957373533"
+      },
+      {
+        "id": "679300641542443",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "מבצע מטורף לזמן מוגבל, החל מ69 ש\"ח בלבד!",
+        "body": "מבצע מרצפים עם ריצופים! \n\nאריחי קרמיקה /  גרניט פורצלן  ברמה הגבוהה ביותר\nבמחירים  מטורפים של החל מ 69 ש\"ח בלבד!!!\n\nעם ליווי אישי אחד על אחד עד  להתאמת האריחים 👌\n\n✅ מגוון רחב של אריחים לבחירה\n✅ עיצובים לבחירה\n✅ אולם תצוגה מפואר \n✅ אספקה מהירה\n\nלניצול המבצע ויעוץ ללא עלות השאירו פרטים 👇",
+        "link_description": "מבצע  מרצפים עם ריצופים מעניק את האפשרות לרכוש אריחי קרמיקה / גרניט פורצלן במחירים מטורפים! החל מ 69 ש\"ח בלבד",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1761548400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/571142797_1897222087896278_188621368615421711_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q9G9Js70mN8Q7kNvwHQIQHo&_nc_oc=AdqHwS3qVbwc1xdoRIywqKKKDC6i-yitQ1jZaqOej1JWyAix-EaxAncJX4HMd9h5nR4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIFaGaapULaA34c_Zra_lbzkligLOJIXTyUiKgK0ovcOw&oe=6ABEB3DA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPGYGKoSep1Pe47jfTtS_3QJmWgV3QXqLPiyGTr3h3IoH4zoPrPMO6svUsxSjOrpFebfamFmkY2p8ypXPDGuLqKVkl50lehge8vzMLDVrNuAQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=k61rbouT0hEQ7kNvwGQFAT_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMjM2MjAzMzg3ODAxMzI3LCJhc3NldF9hZ2VfZGF5cyI6NzUxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=73af703a69861969&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMDRGMEMzMDRFRTAxMkU3MUY3Mzc5MEE5Q0IzMzM4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0UwNDc3OEZFMTdCNDM2MTZGRERDNzNDQTRFRDZFNjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbeu-b8wJSyBBUCKAJDMywXQD9dLxqfvncYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&_nc_zt=28&oh=00_AQJInhfWAwauraMmAkdVvvcd2G-hNan3-v_J6H5iTBjSYg&oe=6ABEABC8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=679300641542443"
+      },
+      {
+        "id": "973505468991810",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780383600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/712468853_1528631665444560_9033607075829432864_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ilifncc23GkQ7kNvwFDta3Q&_nc_oc=Adr6-3s1plRCTGWWASDZo_-_Nn_fBwpYzARVgYJS9TR1K0krHHKIn-tBUtc5XMKlZdI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQKPqzLAH3mGdbFnOV8-GbTRiyG5O4ajeRFU8DKSeYwBRw&oe=6ABE9CDD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714700170_4367983893420413_1703630071217724146_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r3wTw8hR5qAQ7kNvwEOlzf3&_nc_oc=Adr_UGKew7PD8NF87_ja-Ib5azNYdx30PNk5IzdsZHViG9DXsYivYWqlgAB6fc6Vt5M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIIC5Tq1D_vULW47i4eItL0b32rjU3hPdP79Dqm3XJYfQ&oe=6ABEB4EF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=973505468991810"
+      },
+      {
+        "id": "1329718625918607",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "אתם חייבים לבקר בריצופים",
+        "body": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780124400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706396956_3049336912123920_844482342227950757_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dxdUmX4RHVoQ7kNvwGDL7Jh&_nc_oc=AdqnvjCq33HjXLPEdnwVv_G5miBaWHadJLmTVyNFbS-FUhKKafyr1_2Np1drfMBm7N0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQJ7wcEO7UAWERfoJmMW-G2VoyZCwG953pTI21x99PIlJg&oe=6ABE897A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM7_cM8SffjCQjqyxk3PwYQdAnVLVOpyJHDGEPR1jby7PU23y2umycNiHGJIFPtJvnWPoGeBpacrn_KWN-ZXuFgyduZXpoouk6q7kfqI1sBPw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=INMxoJMEcgQQ7kNvwG6DV0x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDA3MTA4NzE0Mzk0ODA1LCJhc3NldF9hZ2VfZGF5cyI6MjkyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6944669d07efadda&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTRDNDBEMjk3OTNEMjMyMDMwQjI1OTdBQTZFNjc4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ2NENFNTE3MTEyNTUwODE1RjA3Q0Y1NkZBMjM3Njg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq0qfxwPD_BBUCKAJDMywXQFwYAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&_nc_zt=28&oh=00_AQLNjvKuyUfUqonwvKiZBPRFLNQOn1tNvoCDvs2nshvFjA&oe=6ABE93E6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1329718625918607"
+      },
+      {
+        "id": "1529307534933101",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "לשיחה איתנו",
+        "body": "אנחנו מגייסים איש/ת מכירות ל ריצופים עולם של חידושים \n\nאוהבים אנשים? מתחברים לעולם עיצוב הבית? יודעים להעניק שירות מצוין ולהוביל לקוחות לבחירה הנכונה עבורם?\nיכול להיות שהמקום שלכם איתנו.\n\nבמסגרת התפקיד:\n• ייעוץ וליווי לקוחות בבחירת ריצוף לבית\n• התאמת פתרונות עיצוביים לצרכים ולסגנון של כל לקוח\n• עבודה בסביבת תצוגה מעוצבת ומלאת השראה\n• מתן שירות מקצועי, אישי ואדיב\n\nלמה כדאי להצטרף אלינו?\n✅ תנאים מעולים למתאימים\n✅ סביבת עבודה צעירה, משפחתית ונעימה\n✅ צוות תומך ואווירה מצוינת\n✅ מקום יציב עם אפשרות להתפתח ולהתקדם\n✅ עבודה בעולם העיצוב, הבנייה והבית\n✅ הכשרה וליווי מקצועי לאורך הדרך\n\nאנחנו מחפשים אנשים עם אנרגיה טובה, יחסי אנוש מצוינים, גישה שירותית, יכולת מכירה ורצון להצליח.\n\nחושבים שאתם מתאימים?\nהשאירו פרטים דרך כפתור יצירת הקשר ונחזור אליכם בהקדם",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1785654000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764300793_1034684502491008_3986979135839166075_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfkmi9xnwewQ7kNvwHut0c4&_nc_oc=AdorU-2jBKuMjfUFjdGXS5yvo_UlnlY25glBxvXk9dT70i15tJQx9hrSLBlvT4X91Ok&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIIkMCjjKdmQPGZYpkqAn8MY1iMVQIDk6zO-ZmPUj42Hg&oe=6ABE864F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1529307534933101"
+      },
+      {
+        "id": "1316783390339945",
+        "page_id": "121039931243197",
+        "page_name": "ריצופים - עולם של חידושים",
+        "page_url": "https://www.facebook.com/ritzufim/",
+        "page_like_count": 6397,
+        "page_categories": [
+          "Brand"
+        ],
+        "ad_creative_link_title": "ריצופים - עולם של חידושים",
+        "body": "מבצע מרצפים עם ריצופים \n\nאריחי קרמיקה /  גרניט פורצלן  ברמה הגבוהה ביותר\nבמחיר מטורף של 69 ש\"ח בלבד!!!\n\nעם ליווי אישי אחד על אחד להתאמת האריחים!  \n\n✅ מגוון רחב של אריחים לבחירה\n✅ אולם תצוגה מפואר \n✅ אספקה מהירה\n\nלניצול המבצע ויעוץ ללא עלות השאירו פרטים 👇",
+        "link_description": "69 ש\"ח בלבד!",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1778137200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/692799964_1630226644865818_6308902946040937329_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RZycWsjr8ooQ7kNvwG3XTPc&_nc_oc=Adpuv9QMK5nyUbE3sqrm9kox6sX56ljVdHAlFSM9dsDh9XOyxttWHH1GjMWMUbi8QcU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQKqTDulXDwOnasEfNHYlGDEjo_O0rWA84YuuSKAadd9bw&oe=6ABE8948",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/690953803_954285797388866_5192341760477644186_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WId2wjKcgToQ7kNvwFO_DTu&_nc_oc=AdpGGyhxTXn4bEm6rjj4C9Rm5-mlfF45kv7dEGzdsN0OPGAxcIv3c-1h3CjjohmikjI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLijcARbqG93zzQ7G3nxXalbHtR41-oORQ5auZMIqiQFg&oe=6ABE83FE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/692143067_1616475936090331_5156949054404909821_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WtwvhrlmvRoQ7kNvwHSvJJ6&_nc_oc=Ado8nyqLYufSO-hdo9MpaWx4POEE7XSDRktt-CLu1VvPQcYNFh9KUEMlikEd2zSsuGA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQKxY26XUzwNLNJWbkDmo3OtnptMh3_HXODXh__4HM9z0g&oe=6ABE8EA7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689789186_26990783427228459_4623797056163078599_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JE91oVTCy0EQ7kNvwE9Jdau&_nc_oc=AdoKhLngMJCQAwGaG42yygU9pf1JbTFjdkpT9mSJugnXsqKdN-qp3A-mlth9ox8uSU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQISwlKrCgjEIpmfg_Z-1p_i3Kt7Kyy2ZCwxctnJJGrBag&oe=6ABE8781",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/690842991_1454873293053490_7178856999285723899_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z1kBjm7YLnkQ7kNvwG6MVZX&_nc_oc=AdoxuvGSa6-whz7uNDbF2jwHbXj3YQfzAwqvehEQKqLDkQ9REX3xH-3gej7CxJKyNP8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIunPYlTRCEJ_2pMenTbW4KTtd8iVNbpNoW-eFV8jBPEA&oe=6ABE9BE4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/690912573_2257223338142403_6618173613575489449_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_dWssVQnJ4EQ7kNvwEyNwCC&_nc_oc=AdpA9Jtk4WO_lWuNwOaFKNM6Dw7_4HoeBJxOoFE9BadqjdMwFh0bwecqC-FOu2j2-3M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQIUGx9HhkVuRsVB6K6kKzamoRB_NYgJoUOjBXuF7UWYnA&oe=6ABEB5B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/690816911_5375660392659949_6976477357758134958_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xNhDx0tNiFsQ7kNvwFPW1XU&_nc_oc=AdoSZpZcMT18XXyct8VXcxzfDxUfX8jKkA7_KMZO-f8x8ETi7JCsVUD46xPqJ7vKQnk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HIUyKbJNcUIniOu9VB3J8g&_nc_ss=70289&oh=00_AQLeKjMU1NlRXrMM1Ao7y8wcP3rM6pm-hVeRJTwMMBXkmA&oe=6ABEB127"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1316783390339945"
+      },
+      {
+        "id": "815534717922113",
+        "body": "ארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "815534717922113",
+        "text": "ארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4397591080525316",
+        "text": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "931823875853758",
+        "text": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1603049957373533",
+        "text": "מחפשים מקלחון חדש? זה הרגע להפוך את חדר הרחצה למקום שנעים להתחיל בו את היום.\n\nרוב הלקוחות שמגיעים אלינו מספרים אותו סיפור:\nנזילות שלא נגמרות, דלת שנתקעת, זכוכית רועדת וניקיון בלתי אפשרי.\n\nבדיוק בגלל זה החלטנו להביא לשוק מקלחונים שמייצרים שינוי אמיתי — לא “עוד מוצר”, אלא פתרון שמביא שקט אמיתי הביתה.\n\nמה מייחד את המקלחונים שלנו?\n\n✔ איטום מושלם שמונע זליגת מים לרצפה\n✔ מנגנוני פתיחה איכותיים שמרגישים חלקים בכל שימוש\n✔ זכוכית מחוסמת בעובי גבוה ליציבות ובטיחות\n✔ עיצוב נקי ויוקרתי שמתאים לכל סגנון\n✔ שירות מקצועי שמלווה אתכם עד שהמקלחון עומד מושלם במקום\n\nלפרטים נוספים ויעוץ ללא עלות 👇",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "679300641542443",
+        "text": "מבצע מרצפים עם ריצופים! \n\nאריחי קרמיקה /  גרניט פורצלן  ברמה הגבוהה ביותר\nבמחירים  מטורפים של החל מ 69 ש\"ח בלבד!!!\n\nעם ליווי אישי אחד על אחד עד  להתאמת האריחים 👌\n\n✅ מגוון רחב של אריחים לבחירה\n✅ עיצובים לבחירה\n✅ אולם תצוגה מפואר \n✅ אספקה מהירה\n\nלניצול המבצע ויעוץ ללא עלות השאירו פרטים 👇",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "973505468991810",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1329718625918607",
+        "text": "מתכננים שיפוץ או בנייה?\nאל תבחרו לפני שביקרתם בריצופים – עולם של חידושים!\n\nאצלנו מחכה לכם אולם תצוגה מרהיב וגדול בארץ, עם כל מה שצריך לעיצוב הבית המושלם – במקום אחד:\n\n- מחלקת חדרי רחצה – ארונות אמבטיה, כיורים, ברזים, מראות וכלים סניטריים\n- מחלקת ריצוף וחיפוי – מבחר ענק של גרניט פורצלן, קרמיקה, אריחים מדוקקים ודגמים מיוחדים שאין בשום מקום \n- מחלקת דלתות פנים – מגוון דגמים של דלתות פנים איכותיות\n- מחלקת אינסטלציה ואביזרים משלימים\n- פתרונות עיצוב משלימים – עד לקולב הקטן בחדר האמבטיה\n\n💥 למה דווקא ריצופים?\n✅ מחירים משתלמים במיוחד\n✅ שירות מקצועי, סבלני ומלווה\n✅ איכות בלתי מתפשרת\n✅ הכל במקום אחד – בלי להתרוצץ בין ספקים\n✅ חוויית קנייה שלא תמצאו במקום אחר\n\n📲 לחצו עכשיו על כפתור הוואטסאפ – נשמח לייעץ, לכוון ולהזמין אתכם לסיור אישי באולם!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1529307534933101",
+        "text": "אנחנו מגייסים איש/ת מכירות ל ריצופים עולם של חידושים \n\nאוהבים אנשים? מתחברים לעולם עיצוב הבית? יודעים להעניק שירות מצוין ולהוביל לקוחות לבחירה הנכונה עבורם?\nיכול להיות שהמקום שלכם איתנו.\n\nבמסגרת התפקיד:\n• ייעוץ וליווי לקוחות בבחירת ריצוף לבית\n• התאמת פתרונות עיצוביים לצרכים ולסגנון של כל לקוח\n• עבודה בסביבת תצוגה מעוצבת ומלאת השראה\n• מתן שירות מקצועי, אישי ואדיב\n\nלמה כדאי להצטרף אלינו?\n✅ תנאים מעולים למתאימים\n✅ סביבת עבודה צעירה, משפחתית ונעימה\n✅ צוות תומך ואווירה מצוינת\n✅ מקום יציב עם אפשרות להתפתח ולהתקדם\n✅ עבודה בעולם העיצוב, הבנייה והבית\n✅ הכשרה וליווי מקצועי לאורך הדרך\n\nאנחנו מחפשים אנשים עם אנרגיה טובה, יחסי אנוש מצוינים, גישה שירותית, יכולת מכירה ורצון להצליח.\n\nחושבים שאתם מתאימים?\nהשאירו פרטים דרך כפתור יצירת הקשר ונחזור אליכם בהקדם",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1316783390339945",
+        "text": "מבצע מרצפים עם ריצופים \n\nאריחי קרמיקה /  גרניט פורצלן  ברמה הגבוהה ביותר\nבמחיר מטורף של 69 ש\"ח בלבד!!!\n\nעם ליווי אישי אחד על אחד להתאמת האריחים!  \n\n✅ מגוון רחב של אריחים לבחירה\n✅ אולם תצוגה מפואר \n✅ אספקה מהירה\n\nלניצול המבצע ויעוץ ללא עלות השאירו פרטים 👇",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "815534717922113",
+        "text": "ארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "815534717922113",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nריצופים - עולם של חידושים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 815534717922113\nהתחילה לפעול ב-18 בנוב' 2025\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nריצופים - עולם של חידושים\nממומן\nארונות אמבטיה מעוצבים במבצעים\n\nמתכננים לרכוש ארון אמבטיה, אתם חייבים לעבור בריצופים\nלמעלה מ 20 שנה של מכירה ושיווק ארונות אמבטיה מהיצרן ללקוח\n\nארונות אמבטיה בייצור עצמי\nובתכנון עם מעצב לפי בקשת הלקוח\n\n👈 ארונות בכל מידה ובכל צורה\n👈 שלל צבעים וגוונים לבחירה\n👈 שילובים של עץ מלא או פורניר\n👈 מגוון משטחים לבחירה\n👈 כיורים מעוצבים \n⭐ החומרים הטובים ביותר!\n\nלייעוץ ללא עלות מהצוות שלנו\nשלחו לנו הודעה  👇\nAPI.WHATSAPP.COM\nארון אמבטיה סנדוויץ אפוקסי עם חריטה CNC\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nAPI.WHATSAPP.COM\nארון אמבטיה מעוצב משטח בוצ'ר טבעי\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nAPI.WHATSAPP.COM\nארון אמבטיה מעוצב אפוקסי שילוב עץ\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nAPI.WHATSAPP.COM\nארון אמבטיה מעוצב עץ מלא\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nAPI.WHATSAPP.COM\nארון אמבטיה תלוי משטח קוריאן\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nAPI.WHATSAPP.COM\nלמידע על כל ארונות אמבטיה במבצע!\nצ'אט איתנו\nSend WhatsApp Message\nצ'אט איתנו\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:00:00",
+    "filtered": "2026-09-27T08:00:22",
+    "qualified": "2026-09-27T08:03:19"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972503320052",
+      "source": "https://www.facebook.com/ads/library/?id=815534717922113"
+    },
+    "missing": []
+  }
+}

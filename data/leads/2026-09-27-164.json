@@ -1,0 +1,567 @@
+{
+  "lead_id": "2026-09-27-164",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61559724864209/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972506305028",
+      "source": "https://www.facebook.com/ads/library/?id=23880637548296990",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "285981034606385",
+    "page_name": "bobo ריהוטים",
+    "active_ads_count": 9,
+    "search_keyword": "שלחו לנו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "23880637548296990",
+        "link_title": "bobo ריהוטים",
+        "body": "📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504913463_2240711186757670_1929177870140682536_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zF5oDl_lIDkQ7kNvwEcJiz5&_nc_oc=AdpUSjPoF3hKF9PmXQ97jNGLcgxlvUpfGSt6mRKwqC3vNxNiBxH4Eo2yOMNmgaqMJYs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQIxc3USGQ6Y6urkujGT5Ivg9CswaqjuYTKGdMjQqz4uWA&oe=6ABE9847",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504935565_1316069506810397_3735522159077973205_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TEAv_y8XpAcQ7kNvwFypd_W&_nc_oc=AdpVVjfSYdNA0AmWbBXemR9sVGaW3TKf67hQ3Loi6scDepyLU73oPR-gvh2TT7JypG4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQIhB0PdEYAMSauGXOCM28JnJPHm9uXy6q9YhitcAaVItA&oe=6ABEBC7E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504717752_1130035035597380_456973086175177409_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oKsyFYMjqL4Q7kNvwHXpf1u&_nc_oc=Adp0I59zHPPPQo5UYodSmm4PSV90dlSzTNubP7-4YG_CrqLdiY7fTQbWWSZOmsIPHuk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQLeciqv5dMCHhGbQPp2dJKc2ZcD_Xz3Bu9TEoZsNXnd0A&oe=6ABEB0AC"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1749366000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=23880637548296990"
+      },
+      {
+        "ad_id": "1046489343716252",
+        "link_title": "bobo ריהוטים",
+        "body": "📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505312366_1045212557166899_5094780640261535294_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FbeMOiCJ7LgQ7kNvwGZe2D_&_nc_oc=Adq1dq1AQogaTl9uAwYPsHDEJGheeGdEldlv9ZxhtRCt4Tvyf3f_zmc_GXpOXie834M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQLCdvi6OhOt7Cmh24Wh2izP-1q6ca11a4JA2mv0FGwMlQ&oe=6ABE88A3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505314978_703667769494864_4625206725377660793_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QSu4vZVtsvoQ7kNvwE5Qsfi&_nc_oc=Adpkz5sAJ6p2uu0gg7dwXu66K28LaLjecmWRGUQ7HqrDeggxcRVOK-R_sPvTmJkJG9w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQJuq0SOdrlPoUSmnhWK1D55C5vpQtcgIs4b8kjsYjXNtg&oe=6ABEA37A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/504646198_709699958605104_150784910250648268_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DRkE04VWa04Q7kNvwHw2ya0&_nc_oc=AdpYLDvV6c74ljW7rnAbIBljfzFJTH4BuyHlYBd0TW9f2T1_rSXkhhuPfGWpRrDLlIw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQIsKIOffAZWepiGye46cNkHH9CTmbgSwrJoxdMqRDwmNg&oe=6ABE8BB1"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1749366000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1046489343716252"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "משרד",
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 9,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1800,
+      "product_score": -3,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "23880637548296990",
+      "1046489343716252"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1800,
+    "page_categories": [
+      "Furniture"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "971366001339690",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": " ",
+        "body": "כבר חשבתם איך לשדרג את חלל הבית או המשרד? הספרייה החדשה שלנו, עם כבלים ומדפים ממתכת שחורה, מביאה את השילוב המושלם בין עיצוב מודרני לנוחות שימוש. הלקוחות שלנו לא מפסיקים להחמיא! בואו לבקר בחנות שלנו באבולעפיה 15, תל אביב, ותראו בעצמכם את הקסם. 🌟 \n#עיצובפנים #רהיטיםבהתאמהאישית #תלאביב\n\n@boboconcept15 \n\nאבולעפיה 15 תל אביב \n\n050-6305028📞",
+        "link_description": " ",
+        "landing_url": "http://instagram.com/boboconcept15",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1723359600,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/451450865_447056588091626_3313519848162026989_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m7FrWMsB2u0Q7kNvwEDi_Mg&_nc_oc=AdpINqE0UQGQt9axo0XhZZnLxB8hwTsTRuIntgr3daXEVmsNTgyI5ZcHeUGZ-Qy8gKg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQKPkqgLrWZsAXoxbBed5O0JjIUuuIXYdO0jnqPGoFB53w&oe=6ABEADE1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/451426194_507902395038312_126102704722170887_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kW9vFblqJEYQ7kNvwF-vHAC&_nc_oc=AdrwFXLO9rXw2wpEHR1njSLve4IykxMVdVRBqDiboEtiY-LiF1Rj3K-srRCotmYmqf4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQI2NdrDgdu6T_Rzqfu_FL0yX0VcRTYblkybzDkQNCZrQg&oe=6ABE8D0A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/451278609_1016620053182437_6786792284294977388_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xdKobiOwaq4Q7kNvwFNCc_s&_nc_oc=Adq5pcYe1SI_S0Q0Gh5Tkfvjb277bKUJq5VIENfDkFV_komvxLQWjKg8devFSTqvws4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQJgJbE_-tS4zuMMh-On2nivgZBuHKiNh7pmXUvXOiYKQw&oe=6ABE9048",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/451092914_1206891587411010_7266204262295574388_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uyxp1YEYPo4Q7kNvwEFMVxd&_nc_oc=AdrE3idz0XNgtAixbsJ8kEcdEEjO0rjK_HA3VR9JaPLcspKjUSVEPelo5C3uWe5n0pE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQIoEOejq6hSccsaZKWPKt9YxqWp_fKcIuQFeymW7c-_Vw&oe=6ABEB424"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=971366001339690"
+      },
+      {
+        "id": "23880637548296990",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "bobo ריהוטים",
+        "body": "📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1749366000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504913463_2240711186757670_1929177870140682536_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zF5oDl_lIDkQ7kNvwEvpv2n&_nc_oc=AdqHb1lHbSQ09bNTAmAXULIaZNNMGkFu5o8oGz1ySJJ43Ij2o_xv9_ee80nGz3fMdL4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQIM02Q8eqxYESW4_6g-t4D4KduyQNYkZCmyt-CrD0vDRw&oe=6ABE9847",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504935565_1316069506810397_3735522159077973205_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TEAv_y8XpAcQ7kNvwF4VcsW&_nc_oc=AdrK7N1eciscLg25-e5jzXtXHCA2QXcRkTRgRyqOk2GY4E1T5HLC03zJvtTYvJVuocI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQKwaR_RupBP8XU8uXmJHc64xCoqNtXz29QPyr2gLgYLAw&oe=6ABEBC7E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504717752_1130035035597380_456973086175177409_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oKsyFYMjqL4Q7kNvwHtOQlL&_nc_oc=AdpVWEZfrQHX6O3L23FHz1ev8ayRE5h0snktCr8bqnteeDKuQhlRRRIFJecQD7Q6VbU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQIVGzEN4OzmMX0riqMKP9EDQcX7NohGIupIzKpDFk2pqw&oe=6ABEB0AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504719827_718704900651511_7433803542995153933_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jLeGSi4asEMQ7kNvwEQ1UY_&_nc_oc=AdpndrpA3tQbcA9iD-CeSm46Oue7ARPLVFxP6ff_QbeJwPMFeejor0x6oTnpsZNAGms&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQJt_eScc2VcqT0qH7YsA7xxQt4pEaYr7A6x5vWLKBr4ww&oe=6ABE8D3D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/504904321_740636491731377_7007075714219246788_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4zinlDCsSO0Q7kNvwHczIMk&_nc_oc=AdqQsya_nTKTzvA-4PBN4hNlIwRMmhnQNoNE8-dGXFXQnV7xXex86hkykZYie7MwzhI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQLu8quMbXJZ-ZK2Okai_2sJMa8wKqxYNjsNP265-r1oiQ&oe=6ABE8AA7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=23880637548296990"
+      },
+      {
+        "id": "1046489343716252",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "bobo ריהוטים",
+        "body": "📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1749366000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505312366_1045212557166899_5094780640261535294_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FbeMOiCJ7LgQ7kNvwEP_8Rt&_nc_oc=Adosons7aDKYHiSYWgHVclDJcw3K-hYY2DlKYpkK_YEf4rDXWbtPiYbeR5A4LGhzeQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQLrsAvItL41wNUFMeXx6BsyaYGrCUClGgM4LV2kqa1nuQ&oe=6ABE88A3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/505314978_703667769494864_4625206725377660793_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QSu4vZVtsvoQ7kNvwHtFnC2&_nc_oc=AdqzpO57lV_2_4jTsS-LTCjEmtkDZgoJk5Gfqpvc-y1iNEaWAzcVW184ek3E2t0vF5A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQLXK8Op3csQGcRCLpJ4adLKy3N9F7evYH-_0yPKbPkO0g&oe=6ABEA37A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/504646198_709699958605104_150784910250648268_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DRkE04VWa04Q7kNvwGo3fmn&_nc_oc=AdqFHtrSz96kcoRrx0PknmV5VkmV7Q3Kqg-wEVm5gb458xccLjlZsGFMiWNcRFssp2k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQIq7MDKDH6K3mmUpBk42PNSJpJ0Nw3jT14RjIS128Wl-Q&oe=6ABE8BB1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504294634_1672658113381441_7063874358340752637_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EMuUPEuCr5QQ7kNvwE6MVkj&_nc_oc=Ado3NLUr32R5pZ7-qO7uRiOXO6NAcNZEcPWf8w-S4kskZ6XRWI4M1GqlA_-ePU_JMs8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQI7vxD-iYHWvwahdK0wEzybWzrcDW4PpEJ6xj5Oxal6UA&oe=6ABE94DC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504226719_1019870906965938_7469486122447134940_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YW-Ti2GANZMQ7kNvwE-EPU3&_nc_oc=Adqlf_K-ATQgcoQLdqoFGTEGwU6NqNgoNjnnXnB5DqxH4mEf-vaakGkzhsZbzv8QPCg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQLQXILZgZRbc5iQN6oAKBW_3nAY_zQEOW0bmSdW7sEL4A&oe=6ABE8684",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/504623636_1232850891812518_6392604583616076932_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f-3Z6XuOFoQQ7kNvwEHChvl&_nc_oc=Ado-cC3EM_CWWb022HYFrkd7UkfljWoya7ngr5_M-haaawjR3emQJcBHIonNgchc5VA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQIs3N9aEqoACcb_q8jD2F78tE2qHBFnMVEs9gLhlMiDfw&oe=6ABEBBE9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1046489343716252"
+      },
+      {
+        "id": "976839831721160",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709769394_1388497000123885_2336290922712289006_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-qS-cQwDYHwQ7kNvwHcty2g&_nc_oc=AdqGHRSndb5hElyyFyGjewkcZggXBZTZtmpZAcyN--_aLagDmX4H1UchPfFRZ6PcWeo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQKJtccd6H3jv3n3QnMRWl_fjBYRuSfv-JGa5jqHZ0jYWg&oe=6ABE8DD6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNomrIYH_JJn2EFv5AZvtAE7MToHENuLVzrQDfvSY6e_VBt8_bqKDkxjz4bvC-vOnrkSFHxG6RKM78R8DV0aJBdASLBRAKbMnz8SacSgISfrg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=USfUbTVHsgkQ7kNvwF8lMpA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyNzMzMDMwMzY2MzQ1MywiYXNzZXRfYWdlX2RheXMiOjExOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6fb7d50b6e8862b7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNTQ1MkQzMTVCN0I5QkRDRTUzODEzQzRFNDJEM0Q4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NDA4RDVCNUFFMUFFQzdGNDZBNkI5RTY4MkJEQTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa69baV3dmlAxUCKAJDMywXQC0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLSRgGzi_4tzuOEMqy0Wq5q_JwEb8IChfqfjKRD6GwbVQ&oe=6ABE906A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=976839831721160"
+      },
+      {
+        "id": "1036894191994702",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712196580_2867276326971454_2945643778004487936_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bLoO6lCOSgAQ7kNvwEI_iDN&_nc_oc=AdoLBwYi8iI99VDiEl_RHwAT2v4w7c9KNo-WZKAlIgvWIKbzgHKzrxfT_8fzQVi6mPc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQJa6mWFCsYl6X9qv4-5IMDMISOOS6G0qyfmKVFUSCCbDQ&oe=6ABE8695",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNomrIYH_JJn2EFv5AZvtAE7MToHENuLVzrQDfvSY6e_VBt8_bqKDkxjz4bvC-vOnrkSFHxG6RKM78R8DV0aJBdASLBRAKbMnz8SacSgISfrg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=USfUbTVHsgkQ7kNvwF8lMpA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkyNzMzMDMwMzY2MzQ1MywiYXNzZXRfYWdlX2RheXMiOjExOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6fb7d50b6e8862b7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNTQ1MkQzMTVCN0I5QkRDRTUzODEzQzRFNDJEM0Q4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NDA4RDVCNUFFMUFFQzdGNDZBNkI5RTY4MkJEQTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa69baV3dmlAxUCKAJDMywXQC0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLSRgGzi_4tzuOEMqy0Wq5q_JwEb8IChfqfjKRD6GwbVQ&oe=6ABE906A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1036894191994702"
+      },
+      {
+        "id": "1313446640164748",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710280166_1501759858080257_8285266433313759175_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fcND8n2YNpYQ7kNvwEhCTvF&_nc_oc=AdqGOQHA51GF8bSR54N6X-bTi3rb8wgcQYos4LjQdoNmZoB98N-x8USE87m4EQUFtcs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQK2jgNd-qxtS_6NTtTYnu5-0PzVKy3ZZqlXlIfXy77W3g&oe=6ABE9FA5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-DxFba5uXm7cPcrUyGsNaq48_5H1C6qpN0IUI87bZIggYZYp0SDt8cHoi6-kjQKWV6rmNOSlg9dpJHzl2f05cLY3E8jHZtb0NoRA3ScTuhw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6BYt7xLIyMwQ7kNvwExv_Fm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MjIwMDA3NTI1ODI0NDksImFzc2V0X2FnZV9kYXlzIjoxMTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=87052a9ff5521fa0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOTQxREM0NjgyQkNDQzgyRjA1MTk5QkZGODAwRTc4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDNBQzE5NDI2RkUzNEM5RUYyOUFBOTNGQ0ZGREFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbi_Miy0YmPBhUCKAJDMywXQCkAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJdVbNVfyJpKg4iVs_1dNQiHjSJuw7KNc0atPpllUcLmQ&oe=6ABE8AE4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1313446640164748"
+      },
+      {
+        "id": "1507654321143096",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709845620_1585421216154866_6763985451547519890_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tuly79AhoVIQ7kNvwF9heAK&_nc_oc=AdrHbHuHoy6BXCZsrPHOVwpIpdoWCaZqu5_-WyU2KSFNWsmERXSHw9NyFYgzpqksETM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQKEVenIf6lmLfBa_nbd2zna1sl0tzjTyrdE4My35TJVBw&oe=6ABEAEE1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-DxFba5uXm7cPcrUyGsNaq48_5H1C6qpN0IUI87bZIggYZYp0SDt8cHoi6-kjQKWV6rmNOSlg9dpJHzl2f05cLY3E8jHZtb0NoRA3ScTuhw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6BYt7xLIyMwQ7kNvwExv_Fm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MjIwMDA3NTI1ODI0NDksImFzc2V0X2FnZV9kYXlzIjoxMTgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=87052a9ff5521fa0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wOTQxREM0NjgyQkNDQzgyRjA1MTk5QkZGODAwRTc4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDNBQzE5NDI2RkUzNEM5RUYyOUFBOTNGQ0ZGREFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbi_Miy0YmPBhUCKAJDMywXQCkAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJdVbNVfyJpKg4iVs_1dNQiHjSJuw7KNc0atPpllUcLmQ&oe=6ABE8AE4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1507654321143096"
+      },
+      {
+        "id": "761328967006906",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689484548_2241364600003705_8442874543602970890_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o-xkXuo5WEYQ7kNvwEhs_J9&_nc_oc=AdpdLzpsI2FCB2vuCA6WFJdvA_4e3oPlLqbh2j7OuRZwm_0FkUMzykrTI5B_Gw_SZUk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQJtO1hlZ7rYTpEW2nq0ER6w24L7mM1XtANFPHRlRWWjEA&oe=6ABE8B7D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNGMsZcLC5CaaP12d3tUMaUpxHTZ5yv624NvrzOP3-h3xkwqUH78oZakGo7VsllEPZ9js3mlsrb3Z-OyYTNQiF1m5s-wlC6tp3NLTgqGoBOCQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x-HhMWM3qSIQ7kNvwEtK4AX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NjcwOTI5MjkyNzA4MSwiYXNzZXRfYWdlX2RheXMiOjExOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c25af46c1509522&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QjRCOTg5Q0Q4MEZFNjM4MzM2QTcwNzJFNDRERTg4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDBDRTMyOTRCRkJCNUM2NEI3RTNERjU2Q0QyMjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSoYzA8c23AxUCKAJDMywXQC0hysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6UmrLVah-lEgJ4tfPkyiDRMn13qPRhwTt8ZFCgVY6fQ&oe=6ABE8A65"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=761328967006906"
+      },
+      {
+        "id": "2430001734166607",
+        "page_id": "285981034606385",
+        "page_name": "bobo ריהוטים",
+        "page_url": "https://www.facebook.com/61559724864209/",
+        "page_like_count": 1800,
+        "page_categories": [
+          "Furniture"
+        ],
+        "ad_creative_link_title": "בואו לפגישת ייעוץ חינם באולם התצוגה שלנו!",
+        "body": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711687102_1014927447653981_5001390387649469783_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=18ILgXSbBUkQ7kNvwGAJlyj&_nc_oc=AdpzOu9nSiaspUlWfIbEwCKtGeydebCy8OhZv-25aP8iPth2VHjNRcRqk8KHWNK6D_s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&oh=00_AQLaJ6Klg8xwlYUQrr2FWYwBR29MsXw-GSsxIjhsZbff2w&oe=6ABE86CC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNGMsZcLC5CaaP12d3tUMaUpxHTZ5yv624NvrzOP3-h3xkwqUH78oZakGo7VsllEPZ9js3mlsrb3Z-OyYTNQiF1m5s-wlC6tp3NLTgqGoBOCQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x-HhMWM3qSIQ7kNvwEtK4AX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NjcwOTI5MjkyNzA4MSwiYXNzZXRfYWdlX2RheXMiOjExOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c25af46c1509522&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QjRCOTg5Q0Q4MEZFNjM4MzM2QTcwNzJFNDRERTg4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDBDRTMyOTRCRkJCNUM2NEI3RTNERjU2Q0QyMjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSoYzA8c23AxUCKAJDMywXQC0hysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hv5JCnCBm_8OL8H-wHC_yQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6UmrLVah-lEgJ4tfPkyiDRMn13qPRhwTt8ZFCgVY6fQ&oe=6ABE8A65"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2430001734166607"
+      },
+      {
+        "id": "23880637548296990",
+        "body": "📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1046489343716252",
+        "body": "📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "http://instagram.com/boboconcept15",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "971366001339690",
+        "text": "כבר חשבתם איך לשדרג את חלל הבית או המשרד? הספרייה החדשה שלנו, עם כבלים ומדפים ממתכת שחורה, מביאה את השילוב המושלם בין עיצוב מודרני לנוחות שימוש. הלקוחות שלנו לא מפסיקים להחמיא! בואו לבקר בחנות שלנו באבולעפיה 15, תל אביב, ותראו בעצמכם את הקסם. 🌟 \n#עיצובפנים #רהיטיםבהתאמהאישית #תלאביב\n\n@boboconcept15 \n\nאבולעפיה 15 תל אביב \n\n050-6305028📞",
+        "links": [
+          "http://instagram.com/boboconcept15"
+        ]
+      },
+      {
+        "ad_id": "23880637548296990",
+        "text": "📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1046489343716252",
+        "text": "📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "976839831721160",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1036894191994702",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1313446640164748",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1507654321143096",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "761328967006906",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2430001734166607",
+        "text": "הגיע הזמן להפסיק להתפשר על רהיטים!\n\nנמאס לכם לחפש את הרהיט המושלם ולא למצוא בדיוק את מה שאתם רוצים?\nב-בובו ריהוטים כל רהיט מיוצר במיוחד עבורכם - בהתאמה אישית מלאה, בעיצוב ישראלי איכותי ועם ניסיון של מעל 35 שנה.\n\n✅ ליווי מלא מעיצוב ועד אספקה\n✅ זמני אספקה מהירים במיוחד\n✅ חניה שמורה ללקוחות בתיאום מראש\n✅ אולם תצוגה ענק - 500 מ\"ר של השראה!\n\n📍 אבולעפיה 15, תל אביב\n\n✨ פגישת ייעוץ חינם מחכה לכם עכשיו! לחצו כאן עכשיו קבלו את הרהיט שתמיד רציתם - בלי פשרות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "23880637548296990",
+        "text": "📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1046489343716252",
+        "text": "📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "23880637548296990",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nbobo ריהוטים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 23880637548296990\nהתחילה לפעול ב-8 ביוני 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nbobo ריהוטים\nממומן\n📚 ספריית הכבלים של bobo concept – עיצוב בהתאמה אישית שמשנה את החלל 📚\n\nפריט שלא רק מסדר – אלא מגדיר את האופי של החלל שלכם.\nספריית הכבלים מבית bobo concept היא רהיט בעבודת יד, המיוצר בישראל, עם התאמה אישית מלאה לכל מידה, גוון, חומר ושילוב שתבחרו.\n\nשילוב חכם בין עיצוב, פרקטיקה וסטייל ייחודי – שמתאים בול לבית, למשרד או לכל חלל עם אמירה:\n\n🔸 ברזל בגימור מדויק – עמיד, מינימליסטי ובעל נוכחות.\n🔸 עץ אלון מלא – בגוונים טבעיים, מעושנים או מודרניים.\n🔸 זכוכית קליר / אנטי סאן – בגווני אפור או חום, להשלמת המראה.\n🔸 גימורים בהתאמה אישית – מט, בטון או חלודה אומנותית – אתם בוחרים.\n\n📏 מיוצרת במיוחד עבורכם – לפי מידה, סגנון וחלום אישי.\n🎨 ספרייה שמכניסה שואו, סדר ואופי – בדיוק כמו שצריך.\n\n📍 רוצים לראות מקרוב? אנחנו מחכים לכם באולם התצוגה – אבולעפיה 15, תל אביב\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!\nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "1046489343716252",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nbobo ריהוטים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1046489343716252\nהתחילה לפעול ב-8 ביוני 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nbobo ריהוטים\nממומן\n📚 חדש בגלריה - ספריית מתכת יוקרתית בהתאמה אישית 📚\n\nרהיט שמשלב בין עוצמה לעיצוב ייחודי - ספריית מתכת מעוצבת שמכניסה צבע, עומק ואופי לכל חלל. שילוב מושלם בין מתכת חזקה, גימורים יוקרתיים והתאמה אישית מלאה שמבטיח לכם פריט עיצובי ייחודי שמתמזג בדיוק עם הסגנון שלכם.\n\n✨ יוקרה בהתאמה אישית - מיוצרת בדיוק למידות ולחזון שלכם\n✨ שילוב של מתכת איכותית וצבעים עשירים למראה אלגנטי ותחכום עיצובי\n✨ אחסון פרקטי עם עיצוב מרשים שמתאים לכל חלל - ביתי או עסקי\n\n🎨 כל ספרייה מותאמת אישית ללקוח - כל גודל, כל צבע, כל סגנון!\n📍 בואו לראות, להרגיש ולבחור את ההתאמה המושלמת עבורכם בגלריה שלנו - אבולעפיה 15, תל אביב.\n\n📞 לתיאום פגישת ייעוץ בהתאמה אישית – שלחו לנו הודעה עכשיו!\nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nלחצו כאן עכשיו>>\nSend WhatsApp Message\n \nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:04:33",
+    "filtered": "2026-09-27T08:05:16",
+    "qualified": "2026-09-27T08:06:41"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972506305028",
+      "source": "https://www.facebook.com/ads/library/?id=23880637548296990"
+    },
+    "missing": []
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "lead_id": "2026-09-27-165",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://or-shay.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "sales@or-shay.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/nissimorshay/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/orshay11/",
+      "source": "https://www.or-shay.com/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "106988289122438",
+    "page_name": "אור שי סיטונאות חשמל בע\"מ",
+    "active_ads_count": 7,
+    "search_keyword": "שלחו לנו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "4148440862075262",
+        "link_title": "Chat with us",
+        "body": "אל תסגרו שום הזמנת רכש לפני שקיבלתם את ההצעה של \"אור שי\"!\nקבלנים ומנהלי פרויקטים, בואו נדבר גלויות. הרווח שלכם בפרויקט נקבע ברכש. כל אחוז שחסכתם בקנייה נכנס ישירות לכיס שלכם בסוף העבודה.\n\nב\"אור שי\" אנחנו לא רק מוכרים ציוד חשמל, אנחנו עוזרים לכם למקסם את התקציב. עם ניסיון של 40 שנה וכוח קנייה עצום, אנחנו יודעים לתת לכם בדיוק את מה שהפרויקט צריך - במחיר שהמתחרים מתקשים לתת, וברמת שירות שתחסוך לכם הרבה כאב ראש בשטח.\n\nלמה שווה לכם לשלוח לנו הודעה עכשיו?  \n💰 חיסכון בכסף: התאמה מדויקת של פתרונות לתקציב שלכם.    ⚡ חיסכון בזמן: אתם שולחים רשימה, אנחנו שוברים את הראש וחוזרים עם פתרון מושלם. \n✅ אפס טעויות: הצוות המקצועי שלנו עובר על המפרט כדי למנוע הפתעות באתר.\n\nתנו לנו הזדמנות אחת להפתיע אתכם. \nהשאירו לנו פנייה או שלחו הודעה בווטסאפ עם כתבי הכמויות אור רשימת הציוד וקבלו הצעה שתשאיר לכם יותר רווח ביד.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621799310_3182659675454909_2590748575191472852_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0Dzb0FmaCsQ7kNvwEmjBN7&_nc_oc=Adq37t0QheqTBknaLAZd4Sz5s8Cr46nZ0QBHo_q7wQFHGAmjYs9agQR4xNMpARa2q3I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQLD03t77jHEm24HXv1azPDPPrw9R5o8ttG1gQcPgAmN5w&oe=6ABE856E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPii6MdyMLr0BRncymgGG2OwTi5Z2aZeAbh_eSpSvMXz-qel3TmKGwItjBrMrMF3aAjfax0VIjSMbu3wIZEdYH19dFDI_VIacKxb3Qb8wJkqQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XUPIASUHBscQ7kNvwF8Tczc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxNTU1NDc4ODA4ODg3NSwiYXNzZXRfYWdlX2RheXMiOjI0MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8fb1daf5baae62af&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NzQ4MDEwMkNFNkZEQjBGRTQxNjhFNTBBMTRBMUJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENDE3MDk2NTNDMUE2Q0IxM0Q3QTQ3QkRFOTY3Nzk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbW8NTepqygAxUCKAJDMywXQDaFHrhR64UYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&_nc_zt=28&oh=00_AQLTHMpP4gTlfnXhgPQ2j9WvvclCysHZgVxUq4cScd5IVw&oe=6ABE8EC7"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1772697600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4148440862075262"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 7,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 988,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "4148440862075262"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 988,
+    "page_categories": [
+      "Shopping"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "4148440862075262",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Chat with us",
+        "body": "אל תסגרו שום הזמנת רכש לפני שקיבלתם את ההצעה של \"אור שי\"!\nקבלנים ומנהלי פרויקטים, בואו נדבר גלויות. הרווח שלכם בפרויקט נקבע ברכש. כל אחוז שחסכתם בקנייה נכנס ישירות לכיס שלכם בסוף העבודה.\n\nב\"אור שי\" אנחנו לא רק מוכרים ציוד חשמל, אנחנו עוזרים לכם למקסם את התקציב. עם ניסיון של 40 שנה וכוח קנייה עצום, אנחנו יודעים לתת לכם בדיוק את מה שהפרויקט צריך - במחיר שהמתחרים מתקשים לתת, וברמת שירות שתחסוך לכם הרבה כאב ראש בשטח.\n\nלמה שווה לכם לשלוח לנו הודעה עכשיו?  \n💰 חיסכון בכסף: התאמה מדויקת של פתרונות לתקציב שלכם.    ⚡ חיסכון בזמן: אתם שולחים רשימה, אנחנו שוברים את הראש וחוזרים עם פתרון מושלם. \n✅ אפס טעויות: הצוות המקצועי שלנו עובר על המפרט כדי למנוע הפתעות באתר.\n\nתנו לנו הזדמנות אחת להפתיע אתכם. \nהשאירו לנו פנייה או שלחו הודעה בווטסאפ עם כתבי הכמויות אור רשימת הציוד וקבלו הצעה שתשאיר לכם יותר רווח ביד.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1772697600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/621799310_3182659675454909_2590748575191472852_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0Dzb0FmaCsQ7kNvwEoPf4d&_nc_oc=AdrC-U7evwykfJZAmHzcKQNEASqCm-eYg3ACEoe3P3H-psXpBLEkYpbk7uL-sYgKumI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQKNrd-oKfG-dNFwYODUwOlFGe571nvH_QtNyZ0J0n8ojA&oe=6ABE856E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPii6MdyMLr0BRncymgGG2OwTi5Z2aZeAbh_eSpSvMXz-qel3TmKGwItjBrMrMF3aAjfax0VIjSMbu3wIZEdYH19dFDI_VIacKxb3Qb8wJkqQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XUPIASUHBscQ7kNvwGN5W9F&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkxNTU1NDc4ODA4ODg3NSwiYXNzZXRfYWdlX2RheXMiOjI0MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8fb1daf5baae62af&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NzQ4MDEwMkNFNkZEQjBGRTQxNjhFNTBBMTRBMUJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENDE3MDk2NTNDMUE2Q0IxM0Q3QTQ3QkRFOTY3Nzk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbW8NTepqygAxUCKAJDMywXQDaFHrhR64UYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQIbsfs4De93QV86cbgi52RTJ6edjH-cX4jl7FWO7lx9YQ&oe=6ABE8EC7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4148440862075262"
+      },
+      {
+        "id": "937311848669058",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "עדיין בחושך? המוצר שחיפשתם מחכה לכם. 😉 כל פתרונות החשמל, התאורה והאוורור במקום אחד מקצועי. אל תתנו למלאי להיגמר - הקליקו לרכישה מהירה של הפריטים ששמרנו לכם בעגלה.",
+        "link_description": "אור שי סיטונאות חשמל בע״מ",
+        "landing_url": "http://www.or-shay.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773385200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625837574_2102055923861973_20768010538063460_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d4WkVgBq4TAQ7kNvwG1bri3&_nc_oc=AdofS5k9IiCuhhE4QUUV3YKDMzbbMunQ9IdS8IQTB-lrB6JXr_LxQoA5PkKxNX7VmW8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQKIZP-M_6Kw_6ySBjyCJdc871nnN76K37G7xRmkCJ0OmQ&oe=6ABEB5BE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625681834_906454305173718_6835762480928049600_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Afhjd02E9tMQ7kNvwFCm9RV&_nc_oc=AdqW3EXTeSANV_NWfLsgydiYrpYeOg7_SKipQ7pJnzCT6Fcmvmx-hiwjX-hrQPAidlM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQLkj4suXZ7tUgdjeIJBFKlbhNZVTH10y36giCyzyy9IXw&oe=6ABE9AA2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625355241_902510292734652_8213676460538925936_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CHOczlQiQAkQ7kNvwHWYBOc&_nc_oc=Adr-iCjNUBhi5DR71uhVl9UcgdtNZXLi1nICbxUxZcfNNMF4wZfGwvxTh6v--ResxMw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQL2ifww93Ri4MJECph6LmTPaRoeB00Fl62udiGQeVAdUQ&oe=6ABEA31E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625824723_1824482301597976_7473088250818863098_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bFl_IhcVtA4Q7kNvwGwZd0J&_nc_oc=AdqJwG_gVByNsxJJ_XIqiBHwGE5HEHVpNAD716UY_W_mC3YOybrpjX_GpbJEaaFyMok&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQL9O8is4vgu4AUB2-Lo6cIgtAa9cTzM-6Sg2GQL-wzgkA&oe=6ABE9949",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/627009747_777776958085712_8014897734946619826_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1feGDSyGXZYQ7kNvwGaikbx&_nc_oc=AdpjdMKrdrJLxzQvIvyIwNAT_OIGaUo_pQB1BW30evqlfNi4JIJrcbK3DJhD6C4C-o0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQKER-Hs2IjC8dgw95Ub4-7BlsNAui855zUMO06ywUb70A&oe=6ABE8C95",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/625336038_1214338110330843_7576988895254870339_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lA6g-AhupQAQ7kNvwEeJi6k&_nc_oc=AdqGMEz4bvpODIr3IoFy_sS4wwfolkFuYex6GdAQCIdOic6jgEaGu1qNSpW1qtOhe2I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQL3LMIwG8jLzjcVgag-dhy0Dr8z7wTLnm3mf9FLPUrqJQ&oe=6ABE9A33"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=937311848669058"
+      },
+      {
+        "id": "1073550278426860",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מחיר סיטונאי — גם ליחיד",
+        "body": "משפצים בית? מקימים משרד? אל תשלמו מחיר חנות. \n🏠 באור שי סיטונאות חשמל תמצאו הכל במחיר סיטונאי — גם ליחיד: גופי תאורה ונורות, מפסקים חכמים לבית חכם, מאווררי תקרה ותאורת גינה. \n· 40 שנה \n· 7,000+ מוצרים במלאי \n· משלוח עד הבית. \n📲 שלחו בוואטסאפ מה אתם צריכים ותקבלו הצעת מחיר תוך דקות.",
+        "link_description": "תאורה, בית חכם ומאווררים - סיטונאות חשמל",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786518000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774033640_2399089773954661_7701313259360224592_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j70sUGB9xXoQ7kNvwFHPUT6&_nc_oc=Adol9z6Ka5UKGa4WHS0hW_pSt7XkyyPpIHHS1jE4FYMwKPZRkOGXWawp5ah1Mv14wjQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQJPVh1_ssKAyKr9mpJGTRmX4kxfF6ShgiT-lFVy_2BG4w&oe=6ABEB63C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNV-slqmpdOXTGTsb-3o11JgyYvppdFn2Hj300MP2cLxn_ZrnY1S4hIAqLIFMNrHNY3CfZVCmB8JSreCIL-fYDtiLNF-vrGY6KNHB33YXuV2A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=UFlpnePuOaQQ7kNvwGVBuvw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDQ4Njk4OTU0OTQ1MzksImFzc2V0X2FnZV9kYXlzIjo3NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=322bdc8f7ed04a1c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzQ1RUEwMjgzMUY4OTBFNjZBMDk3N0MzMjlCOUY4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhGNDFENUU1M0JFMzYyM0RDNEU2QUVERDBGMzcwMjg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW7tSSkPvIAxUCKAJDMywXQDMAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQLT92R-52vOq61ow2nPO2GC4emnoKVTxTbj_lFSuVPzVw&oe=6ABE9A25"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1073550278426860"
+      },
+      {
+        "id": "28105254042413157",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://or-shay.com/collections/nisko-smart?sort_by=manual",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/741416301_1951316048861530_1288057525055855371_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jvSF05RuD_0Q7kNvwH3Vj2n&_nc_oc=AdqCqOIJJZK8SK_seGNHRJY8geFuMj9AL5yQzPnV-S-nEqBdIvFIw4GTZkoX8xL8v88&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQIJ7bpPbIYpjbiTq3b4aIeWl9VuC4y7Ps_Z1z6496FTJg&oe=6ABE99B1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPAQlnJmbA--FT4YQ_OOhkqHA4CTOLktqMGXX8oyNuVuARY8SfkwMKZK5Yywsx83zlc_s2CanqJ4eqe18w8t5mgzY6KcUw5SomHbXnUDZID-g.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=J4cBp-P9-kcQ7kNvwEZ-rRI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODg0NjI2MzI0NzM4NDYsImFzc2V0X2FnZV9kYXlzIjozNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a17e51406e953abd&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9CQzRBRTQ1NDY4MzlBMDI0NUJGOTFFMjA4RjNCM0FCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs057YsvbJBBUCKAJDMywXQBQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJVSIxudFsv8oZ-cM4eUZGZfXwlLDbTvy-1eyVdgauJHQ&oe=6ABEA392"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740902880_4570265116547180_4849215169984806555_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N-BdtJNOkNoQ7kNvwHvDchj&_nc_oc=AdprGcOHEpJ2MeUrvB3HHSIR7HguU95yA0p_Iz3q0Nfj5E1xGMpt4-NyzUYxSYnyIfw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQK8aJ480isbevLe503ZB60noiCAqVcFZ2geZXZ56wwB2w&oe=6ABE9727",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN0rcMaXoAG71XEA-DkAZxssmmdpECPOECS4DFvq6CWKp7lunkedSclZhRlNU7UHc5bimQ0rDQzz1ZH8IA_Jdq-bo8SLS_hlLcZ1Cv7uAi4Xg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wXdlO-EXPwcQ7kNvwF2ZkZV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzgzNzkxNzc2MjAyMDIsImFzc2V0X2FnZV9kYXlzIjozNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d21978ba1622d8a8&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9DMjQzODU3OTIzN0ZENTc3ODkwMjcyM0Y3REQ5NzJCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUy4PosdaFBBUCKAJDMywXQBQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQJx8lju6yaal714O9TLEBKsLUIRR8sMAY-IzC_QpZXqvw&oe=6ABEAC01"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28105254042413157"
+      },
+      {
+        "id": "1721201509306166",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://or-shay.com/collections/nisko-smart",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741735685_3340286452818215_6325810773914598998_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GGmqsFkboMQ7kNvwHChQQd&_nc_oc=Adp92FVxEASyQ3M4G4QbtMA2VPS8sbZlxCkJQQyEwzOMaqmYiN8kh9TFMznPJD5YIS8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQInGrErlhfMYzgjmYyi3KmjOu3P34jc6SCs4w7w9jycMA&oe=6ABE8D54",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/742001569_1890304698330515_7400751489573879575_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G6MhgqLhm2kQ7kNvwEiQZma&_nc_oc=AdpxbdH9xlJMDOhH__7y-DxBEZk-HQt1_6pEDXtX7YdZEoIm7TCf7Hd1BZRvHKatfSs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQJC3EuriTtlZKSlt3yHoVK7KboRP-mi6vOOyXm7-w32lA&oe=6ABEA426"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1721201509306166"
+      },
+      {
+        "id": "1981551459223566",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מחיר סיטונאי לקבלנים — בוואטסאפ",
+        "body": "קבלן? משפץ? אתה משלם על חשמל יותר מדי. \n🔧 באור שי תקבל מחיר סיטונאי אמיתי על כל מה שהפרויקט צריך: כבלים ומוליכים, לוחות ומאמ\"תים, שקעים ומפסקים, ספוטים וגופי תאורה — מלאי עמוק, הכל זמין. \n· 40 שנה \n· 7,000+ פריטים \n· אספקה מהירה לאתר. \n📲 שלח בוואטסאפ את רשימת הפרויקט ותקבל הצעת מחיר תוך דקות.",
+        "link_description": "כבלים, לוחות ותשתיות במלאי",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786518000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767101579_1267509148717445_2214791354014703744_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7SWyfslOtuwQ7kNvwGR08Is&_nc_oc=AdoOFoRyT1itAPKauHKrMLsN_lnaXsaa--bnNtG0AipHoMgZZn-ve4T4pvwIUlyTHi8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQLaNoOKTB1JrYS97tLFSa7GMvzqO2mDi3OLHsux9yWH7A&oe=6ABE9254",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPtQ7p49_ra8T2W04bbmRbUgFLFr_itOLgDnMjhSmzuPmawDZaq04QUaa88hNfB0AkjCBwniS2RKmmUyz51lVxzjgig1G4ZOlNieEdwcbksUA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2G87QihhuMwQ7kNvwG3qZKu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4MDIwNzA1NTA2NjU5MywiYXNzZXRfYWdlX2RheXMiOjc2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=32128a80395c7bc3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzREQkE3MENFNDcwQjg4MDhDQjZBODAxMjU5RjY5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENDQyNTRBNjNFMUYzN0IzN0YzRjUyNUEyOTM0M0FBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC15bVx9-9AxUCKAJDMywXQDMAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQLrpcV7SudiGgrCbYGDs5Y-GP95Yko2_hSfJG6eZIIyjw&oe=6ABEA5BB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1981551459223566"
+      },
+      {
+        "id": "1979703076042411",
+        "page_id": "106988289122438",
+        "page_name": "אור שי סיטונאות חשמל בע\"מ",
+        "page_url": "https://www.facebook.com/nissimorshay/",
+        "page_like_count": 988,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "פס צבירה — כל התאורה על מסילה אחת",
+        "body": "הבית שלך יכול להיראות כמו במגזין 🤩\nפסי צבירה שקועים וצמודים, מגנטיים ורגילים, במחירי סיטונאות.\n📲 שלחו לנו תמונה של החדר בוואטסאפ, ונמליץ לכם בדיוק מה מתאים.\n🏪 אור שי, סיטונאות חשמל מאז 1985",
+        "link_description": "פסי צבירה וספוטים · מחיר סיטונאי",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/821479223_2548389355636471_1418679922529802716_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2nOMhaQdU3MQ7kNvwFRV0Hs&_nc_oc=AdrEyi9pedidQzyUavAS4jk-G4dCat_BGtwT-1XaakIUhB3_rNLUaMr9EunnSxwXoy0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&oh=00_AQILEDB1rnlfH1ET6dVkA5YARhJ0-gR2BSh5Aeef3FpHnA&oe=6ABEBBED",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNMiQl4v8zUyFa6vjhLx3IvQg4j-6D7PSVGnhaaIsNK3vAdr7ZzuK2I6zAkx6L5FRwMkXrpZzhy_PDpJepd-raIKYGEJh_X8rYSRXGo9ayaRA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2CIiHONqkt4Q7kNvwFzvh3W&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNTc2NzM4NTYwODg1NDgsImFzc2V0X2FnZV9kYXlzIjoyNiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2a6013a47f141839&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNzQ0QUI2NEIzMDhFOUQ5REVEMTU5QTVGRUQ0NjFCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U3NDQ2M0RDRDI1NkM0QzBBREEzMzhCQzM2MzIwREFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI582-grPpBBUCKAJDMywXQC4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=97tHuC5z1jkHZzyaA-yhUw&_nc_ss=70289&_nc_zt=28&oh=00_AQIGoyO5LC-W7JHWCWfhQA2gUaQH6bv7ZoJ6Ek08RfyEsg&oe=6ABE9CAE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1979703076042411"
+      },
+      {
+        "id": "4148440862075262",
+        "body": "אל תסגרו שום הזמנת רכש לפני שקיבלתם את ההצעה של \"אור שי\"!\nקבלנים ומנהלי פרויקטים, בואו נדבר גלויות. הרווח שלכם בפרויקט נקבע ברכש. כל אחוז שחסכתם בקנייה נכנס ישירות לכיס שלכם בסוף העבודה.\n\nב\"אור שי\" אנחנו לא רק מוכרים ציוד חשמל, אנחנו עוזרים לכם למקסם את התקציב. עם ניסיון של 40 שנה וכוח קנייה עצום, אנחנו יודעים לתת לכם בדיוק את מה שהפרויקט צריך - במחיר שהמתחרים מתקשים לתת, וברמת שירות שתחסוך לכם הרבה כאב ראש בשטח.\n\nלמה שווה לכם לשלוח לנו הודעה עכשיו?  \n💰 חיסכון בכסף: התאמה מדויקת של פתרונות לתקציב שלכם.    ⚡ חיסכון בזמן: אתם שולחים רשימה, אנחנו שוברים את הראש וחוזרים עם פתרון מושלם. \n✅ אפס טעויות: הצוות המקצועי שלנו עובר על המפרט כדי למנוע הפתעות באתר.\n\nתנו לנו הזדמנות אחת להפתיע אתכם. \nהשאירו לנו פנייה או שלחו הודעה בווטסאפ עם כתבי הכמויות אור רשימת הציוד וקבלו הצעה שתשאיר לכם יותר רווח ביד.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "4148440862075262",
+        "text": "אל תסגרו שום הזמנת רכש לפני שקיבלתם את ההצעה של \"אור שי\"!\nקבלנים ומנהלי פרויקטים, בואו נדבר גלויות. הרווח שלכם בפרויקט נקבע ברכש. כל אחוז שחסכתם בקנייה נכנס ישירות לכיס שלכם בסוף העבודה.\n\nב\"אור שי\" אנחנו לא רק מוכרים ציוד חשמל, אנחנו עוזרים לכם למקסם את התקציב. עם ניסיון של 40 שנה וכוח קנייה עצום, אנחנו יודעים לתת לכם בדיוק את מה שהפרויקט צריך - במחיר שהמתחרים מתקשים לתת, וברמת שירות שתחסוך לכם הרבה כאב ראש בשטח.\n\nלמה שווה לכם לשלוח לנו הודעה עכשיו?  \n💰 חיסכון בכסף: התאמה מדויקת של פתרונות לתקציב שלכם.    ⚡ חיסכון בזמן: אתם שולחים רשימה, אנחנו שוברים את הראש וחוזרים עם פתרון מושלם. \n✅ אפס טעויות: הצוות המקצועי שלנו עובר על המפרט כדי למנוע הפתעות באתר.\n\nתנו לנו הזדמנות אחת להפתיע אתכם. \nהשאירו לנו פנייה או שלחו הודעה בווטסאפ עם כתבי הכמויות אור רשימת הציוד וקבלו הצעה שתשאיר לכם יותר רווח ביד.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "937311848669058",
+        "text": "עדיין בחושך? המוצר שחיפשתם מחכה לכם. 😉 כל פתרונות החשמל, התאורה והאוורור במקום אחד מקצועי. אל תתנו למלאי להיגמר - הקליקו לרכישה מהירה של הפריטים ששמרנו לכם בעגלה.",
+        "links": [
+          "http://www.or-shay.com/"
+        ]
+      },
+      {
+        "ad_id": "1073550278426860",
+        "text": "משפצים בית? מקימים משרד? אל תשלמו מחיר חנות. \n🏠 באור שי סיטונאות חשמל תמצאו הכל במחיר סיטונאי — גם ליחיד: גופי תאורה ונורות, מפסקים חכמים לבית חכם, מאווררי תקרה ותאורת גינה. \n· 40 שנה \n· 7,000+ מוצרים במלאי \n· משלוח עד הבית. \n📲 שלחו בוואטסאפ מה אתם צריכים ותקבלו הצעת מחיר תוך דקות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "28105254042413157",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://or-shay.com/collections/nisko-smart?sort_by=manual"
+        ]
+      },
+      {
+        "ad_id": "1721201509306166",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://or-shay.com/collections/nisko-smart"
+        ]
+      },
+      {
+        "ad_id": "1981551459223566",
+        "text": "קבלן? משפץ? אתה משלם על חשמל יותר מדי. \n🔧 באור שי תקבל מחיר סיטונאי אמיתי על כל מה שהפרויקט צריך: כבלים ומוליכים, לוחות ומאמ\"תים, שקעים ומפסקים, ספוטים וגופי תאורה — מלאי עמוק, הכל זמין. \n· 40 שנה \n· 7,000+ פריטים \n· אספקה מהירה לאתר. \n📲 שלח בוואטסאפ את רשימת הפרויקט ותקבל הצעת מחיר תוך דקות.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1979703076042411",
+        "text": "הבית שלך יכול להיראות כמו במגזין 🤩\nפסי צבירה שקועים וצמודים, מגנטיים ורגילים, במחירי סיטונאות.\n📲 שלחו לנו תמונה של החדר בוואטסאפ, ונמליץ לכם בדיוק מה מתאים.\n🏪 אור שי, סיטונאות חשמל מאז 1985",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4148440862075262",
+        "text": "אל תסגרו שום הזמנת רכש לפני שקיבלתם את ההצעה של \"אור שי\"!\nקבלנים ומנהלי פרויקטים, בואו נדבר גלויות. הרווח שלכם בפרויקט נקבע ברכש. כל אחוז שחסכתם בקנייה נכנס ישירות לכיס שלכם בסוף העבודה.\n\nב\"אור שי\" אנחנו לא רק מוכרים ציוד חשמל, אנחנו עוזרים לכם למקסם את התקציב. עם ניסיון של 40 שנה וכוח קנייה עצום, אנחנו יודעים לתת לכם בדיוק את מה שהפרויקט צריך - במחיר שהמתחרים מתקשים לתת, וברמת שירות שתחסוך לכם הרבה כאב ראש בשטח.\n\nלמה שווה לכם לשלוח לנו הודעה עכשיו?  \n💰 חיסכון בכסף: התאמה מדויקת של פתרונות לתקציב שלכם.    ⚡ חיסכון בזמן: אתם שולחים רשימה, אנחנו שוברים את הראש וחוזרים עם פתרון מושלם. \n✅ אפס טעויות: הצוות המקצועי שלנו עובר על המפרט כדי למנוע הפתעות באתר.\n\nתנו לנו הזדמנות אחת להפתיע אתכם. \nהשאירו לנו פנייה או שלחו הודעה בווטסאפ עם כתבי הכמויות אור רשימת הציוד וקבלו הצעה שתשאיר לכם יותר רווח ביד.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.or-shay.com/",
+      "https://www.or-shay.com/collections/nisko-smart?sort_by=manual",
+      "https://www.or-shay.com/collections/nisko-smart"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:04:33",
+    "filtered": "2026-09-27T08:05:28",
+    "unqualified": "2026-09-27T08:07:07"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.or-shay.com/",
+      "https://www.or-shay.com/",
+      "https://www.or-shay.com/collections/nisko-smart?sort_by=manual",
+      "https://www.or-shay.com/pages/contact",
+      "https://www.or-shay.com/pages/%D7%90%D7%95%D7%93%D7%95%D7%AA1"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

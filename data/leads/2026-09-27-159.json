@@ -1,0 +1,401 @@
+{
+  "lead_id": "2026-09-27-159",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ILPerfectSmile/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "109119907999959",
+    "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים",
+    "active_ads_count": 6,
+    "search_keyword": "שלחו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "1367416825001892",
+        "link_title": "לפגישה וצילום ללא עלות שלחו הודעה",
+        "body": "הוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541504638_1668571107153076_5018695295052617943_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tDRIDMrNGeAQ7kNvwFy--N2&_nc_oc=AdqiwK8uzFZp5z6Q5W7yyO4WVq4wMKhGqM6hOudYwMyQfPQr0cm0zcdTxqGHgIrqgOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQJp8EGFB3-ceuzZ4jkvGzAP8T360RXNYGZaN3l-qI3AwA&oe=6ABE86F1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgvCn5VhraH0hcSAGrAjFyCYyT5a_Ehn307_QFI0-GwWMBHJVPS8vgkKSrYf6yby5PgsfZa0PlgbtJ-2AkngJT4fAKHU1zcAqLuuZzs-RphQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IuXTO4r7c1kQ7kNvwHyZCD9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyOTI4OTMzNjY4NDk2OCwiYXNzZXRfYWdlX2RheXMiOjEwNTIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b7aecfa966084a7f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTRGQUNBQzk4MkEwOTEzM0JEN0RBMUVCNzcxRUU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0U4NEJENkI4Q0YzQjIzRTFDRjZBNUE3QjBFRTRGQTk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQhrbXsqJoFQIoAkMzLBdAMvdLxqfvnhgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQBltp4BAA&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&_nc_zt=28&oh=00_AQJNjh263kNp60XGsWEvUsocsiWty-nE7TlzS5rJA6ay6Q&oe=6ABE9BC9"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1756969200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1367416825001892"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "צילום"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 3193,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1367416825001892"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 3193,
+    "page_categories": [
+      "Dentist"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1367416825001892",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "Dentist"
+        ],
+        "ad_creative_link_title": "לפגישה וצילום ללא עלות שלחו הודעה",
+        "body": "הוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל",
+        "link_description": "הוליווד סמייל ב 2 פגישות בלבד במחיר הכי משתלם שיש",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1756969200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541504638_1668571107153076_5018695295052617943_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tDRIDMrNGeAQ7kNvwEGE4wk&_nc_oc=AdoiiMIPzeJED04CzUfQ35YLTkZHKFEiHCjPgMks8q-QPg5FiRw2aL7q_T77mjP9LuM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQLnDSm2ENkBOqqm3DC5N14poTwFfkvCwdQOA5p8bU4V0w&oe=6ABE86F1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgvCn5VhraH0hcSAGrAjFyCYyT5a_Ehn307_QFI0-GwWMBHJVPS8vgkKSrYf6yby5PgsfZa0PlgbtJ-2AkngJT4fAKHU1zcAqLuuZzs-RphQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IuXTO4r7c1kQ7kNvwGkHu4I&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyOTI4OTMzNjY4NDk2OCwiYXNzZXRfYWdlX2RheXMiOjEwNTIsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxOCwid2F0Y2hfdGltZV9zIjozNTQ0NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b7aecfa966084a7f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTRGQUNBQzk4MkEwOTEzM0JEN0RBMUVCNzcxRUU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0U4NEJENkI4Q0YzQjIzRTFDRjZBNUE3QjBFRTRGQTk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQhrbXsqJoFQIoAkMzLBdAMvdLxqfvnhgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQBltp4BAA&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQIZgFrs2yS0MsjvvUKCYXKY-CRq95-CQXmPfmHUN-7rsA&oe=6ABE9BC9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1367416825001892"
+      },
+      {
+        "id": "2037388467088593",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים ביום אחד",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "Dentist"
+        ],
+        "ad_creative_link_title": "גם הזמן שלך לחייך הגיע!",
+        "body": "משה היקר הגיע אלינו מדימונה והתחדש בחיוך מושלם שתמיד חלם עליו 😍🍾התוצאה – פשוט מושלמת ❤️גם אתם רוצים חיוך חדש ובטוח בעצמכם?חייגו עכשיו או שלחו הודעה 📲 052-869-5100",
+        "link_description": "מרפאת שיניים המובילה בטיפולי אסתטיקה דנטלית, השתלות שיניים ושיקום הפה.\n✔️ השתלות בזאליות ביום אחד\n✔️ טכנולוגיה מתקדמת ושיטות חדשניות\n✔️ צוות רופאים מומחים עם ניסיון רב שנים\n✔️ יחס אישי וליווי צמוד לאורך כל הדרך\nהחזרה לחיוך המושלם מתחילה כאן!\n052-869-5100",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1761721200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/574885979_715266631587726_5933112462652646116_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZaZYDob3VlEQ7kNvwHFDxfq&_nc_oc=Adp97lzpQKpcES10BgvHvVwAlAT1gZdH0Wk4KX1ICR_TFEZU60n_gntX0ej864ZKLpQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQLpHALvc1Bj7J1Y8bI4cUkzULRnUOS6mHUe2v-0YUF3Fg&oe=6ABEB722",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPq9_twz81KnxS_C8fKIB7522u-Vss8cgT-zSp3m2aq5FAQmrPbJICEyGxwEaO3vzwoGgb3nWJLnLWW9ZliWiM6O_QH8QwUmBbU755neo_Jmw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UglS6MrFnKIQ7kNvwFlfdcI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxMTU4MzY4MDUyNzMxNTIsImFzc2V0X2FnZV9kYXlzIjozODcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOSwid2F0Y2hfdGltZV9zIjo4OTI1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dc63e7276c912cfa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTQxMkNDQjc2NEIzMEJGREJEMEM0MUVEQUNFMzQ5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhFNDQyM0JEM0NCOENGN0VEODQwRTMyQTVBRDNEQkE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaA2aafyfWICxUCKAJDMywXQDN3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQJuabFa1NMYFrP1LEXSPrbx6wVnfuVgovYk9YfzlJjG9w&oe=6ABE8734"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2037388467088593"
+      },
+      {
+        "id": "1685244085920043",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים ביום אחד",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "Dentist"
+        ],
+        "ad_creative_link_title": "",
+        "body": "איזה כיף זה ביקורת בלייב ❤️ יחיאל היקר שהגיע עם חמתו אסתר מאשדוד לשתלים בכל הפה ויצאו עם החיוך הכי מושלם שיש 🌟🙏🏻 תתחדשו",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785654000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762585309_2176071723250069_6628901906039904492_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nz7qjNnOTj4Q7kNvwGO46N1&_nc_oc=Ado9sjc4YeOGBA_p8A4TQMNdUV3NoJVr6EiSMEsGIz0aTjdRZTl0kKTZQqM4OrvPmmg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQJoxaKdrcDgMvNp9KJHY28S2pZFmLtyIcydT93d3a2Wcw&oe=6ABEB441",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOaECryhVNdFlajF3fL4ZBxywvaU-kfV6GPUjSUP-ekQEtI-maKO-DuV9ZxKPbG0QJC_rsxxJRa6UAjhjrjDVumYKVHludOrX0Xw_cWgQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Yh_7dHzTsAgQ7kNvwFv4NtT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODA2NDUyNDQxOTY3ODI2MCwiYXNzZXRfYWdlX2RheXMiOjE3OSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjUyLCJ3YXRjaF90aW1lX3MiOjE4NTExNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQI7wGn56Aa014o8MUZUmzm-abuVU8Fdof2V_1altSCPgQ&oe=6ABE85CA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1685244085920043"
+      },
+      {
+        "id": "745198665011953",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "طبيب أسنان"
+        ],
+        "ad_creative_link_title": "תמר ואיציק היקרים שהגיעו אלינו מקריית שמונה והתחדשו בחיוך מושלם",
+        "body": "תמי ואיציק היקרים שהגיעו אלינו מקריית שמונה אחרי שנים של טיפולים לא מוצלחים, ותוך 3 פגישות קיבלו את החיוך שתמיד רצו 😍🥰😁\nתתחדשו 🤩",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1756882800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541470233_763283106597136_3321690077887316301_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JotV6-0rXhUQ7kNvwFx7y6r&_nc_oc=AdqerU06C0mxOqwl_xgz-G2ZN8ndUpTKIzcTBD88vmPndK6gLe1hPiLiGRkfMaViRyg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQIfVSgy2BTJ4J8RNGjUlXc_2zB07iuga3IAY_u8_oXdvQ&oe=6ABE95E5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwSA6bXYhMxXCdM2clEH5I2s_Yo0PSgH2wUpK4FSnyt-oo4V2WJcdulD3taaCnEcidKxLXFh0gAw9gwHLd8PL0-8bIe5eH6zYbdfu0d4pB3Q.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=vAxLKwslY0sQ7kNvwE2gu7S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDQwODE1NDU2NTgwNTgyLCJhc3NldF9hZ2VfZGF5cyI6NzgxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTIsIndhdGNoX3RpbWVfcyI6MTM5ODQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d5092e6d9486bf18&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQzNzZBOEMwOERFRDYzOUMyMzUyMzAwNkFFOTFCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0M3NDAzMzYxRjQ1OUVGRTBFMTNBNUY0QUM4RDc3NEEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMz8_Xv5qPBRUCKAJDMywXQEoFHrhR64UYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQJlxh-12WCqWZJE4DDNczChXFkvPOSRf0yCWyopRy5XqQ&oe=6ABE85E7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=745198665011953"
+      },
+      {
+        "id": "770007925794016",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "Dentist"
+        ],
+        "ad_creative_link_title": "לפגישה וצילום ללא עלות שלחו הודעה",
+        "body": "כמה כיף זה סוף סוף לחייך ולהרגיש שלם 😁😍\nמרפאת שיניים פרפקט סמייל הר גילה -מרכז של 500 מטרים לשיקום הפה -השתלות ביום אחד וציפויי שיניים ברמה הגבוהה ביותר ובמחירים הכי משתלמים שיש 🥰",
+        "link_description": "השתלות שיניים ושיקום הפה עם הטכנולוגיה הכי מתקדמת שיש במחירים הכי משתלמים ובזמן הקצר ביותר",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1756969200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/542693136_792995226428349_6123806350242024933_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0gdqIZanHbsQ7kNvwGZZjkT&_nc_oc=Adp16M6Ztxb-Z4XTpG6W3foxNUDABPDTe9-_qe2ZD__cXSHHXCTdWNozjzb_F1r8FGc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQK173nphrc-HsEZP3qtGv6agcvaD2OEAYiJNbl_LClnBA&oe=6ABEA380",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNaXvptZP1bV4RQ-ZThgJFMwpn5M9Jj8nm4jM9GvIAwG6iYlsXBpCpA3qK-rY2iLsxdX_11sFsvHi-dgkCrLNrACOMFb16tMMVz-uTjpwUo_g.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=qPjlX2h_WkEQ7kNvwEY3rTs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzcyNDYxMjE3NTE1NzkwLCJhc3NldF9hZ2VfZGF5cyI6NTY5LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NDIsIndhdGNoX3RpbWVfcyI6MTA4MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ee60bc4bb7a8e5c8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRjQ2M0UxRTYxOUE0OTlCMEQ3MkIzQjU1RTFDQzA4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzgxMjA4NzA4Nzc5OTEzM184NjEzMzEzMDE5Mjc4NTMxOTM1Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacpLT14I_wBBUCKAJDMywXQEUMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQLRJLAU8l2gR8dFqlvl4a7OHA49i5oq_nu_jmY9HFNc2g&oe=6ABE84A3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=770007925794016"
+      },
+      {
+        "id": "792957116739478",
+        "page_id": "109119907999959",
+        "page_name": "Perfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים",
+        "page_url": "https://www.facebook.com/ILPerfectSmile/",
+        "page_like_count": 3193,
+        "page_categories": [
+          "طبيب أسنان"
+        ],
+        "ad_creative_link_title": "לצילום ובדיקה ללא עלות שלחו הודעה",
+        "body": "מרפאת שיניים המובילה בטיפולי אסתטיקה דנטלית, השתלות שיניים ושיקום הפה.\n✔️ השתלות בזאליות ביום אחד\n✔️ טכנולוגיה מתקדמת ושיטות חדשניות\n✔️ צוות רופאים מומחים עם ניסיון רב שנים\n✔️ יחס אישי וליווי צמוד לאורך כל הדרך\nהחזרה לחיוך המושלם מתחילה כאן!\n052-869-5100",
+        "link_description": "החיוך שלכם מתחיל כאן",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1756969200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/541749183_765766192875853_2706738617673655472_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ohGYxFt1MIwQ7kNvwGFPDsl&_nc_oc=AdqmSHQCteGF7B20ozdMptjri53hmj-tSU0qOPPPtOM6bEO__awU0oNB2j9eW9yiySY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&oh=00_AQIDkCbrlaZRKcgngjUTuLVqYjXQsiIg6nN2LlETkPm92w&oe=6ABEB553",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMl1kI5TBP0teDOOCaYY8bU-uem87zFRPDn4ko0TFtfPa9kw5uqAyRWcyuoPcuo53MbQYChXMEjw0qhpUvtUcnCAuqWTfOAEJ2dW9-8sjkloQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=SVN6V733bFoQ7kNvwHcrGjq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo5MDc1MjYzOTQyMDAxMzIsImFzc2V0X2FnZV9kYXlzIjoxNzAwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTAxLCJ3YXRjaF90aW1lX3MiOjIwOTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c3d516015a5650d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRDRDQTUyREVDMENDNjAyNzBENTM4RTY5NDg5OUJBNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzg2NDYyQkM3RkIxQjQxM0UzMkQxNEQ4NzU4QzUwOUFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIgc7F_ticAxUCKAJDMywXQFlxBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=5Nl8AXAAKALk2e8Uuk3_9w&_nc_ss=70289&_nc_zt=28&oh=00_AQLjUF-MLGmbcz5bJMyh32JBVk42Gxk-EefB1j1kqtNRzw&oe=6ABEB2C4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=792957116739478"
+      },
+      {
+        "id": "1367416825001892",
+        "body": "הוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1367416825001892",
+        "text": "הוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2037388467088593",
+        "text": "משה היקר הגיע אלינו מדימונה והתחדש בחיוך מושלם שתמיד חלם עליו 😍🍾התוצאה – פשוט מושלמת ❤️גם אתם רוצים חיוך חדש ובטוח בעצמכם?חייגו עכשיו או שלחו הודעה 📲 052-869-5100",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1685244085920043",
+        "text": "איזה כיף זה ביקורת בלייב ❤️ יחיאל היקר שהגיע עם חמתו אסתר מאשדוד לשתלים בכל הפה ויצאו עם החיוך הכי מושלם שיש 🌟🙏🏻 תתחדשו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "745198665011953",
+        "text": "תמי ואיציק היקרים שהגיעו אלינו מקריית שמונה אחרי שנים של טיפולים לא מוצלחים, ותוך 3 פגישות קיבלו את החיוך שתמיד רצו 😍🥰😁\nתתחדשו 🤩",
+        "links": []
+      },
+      {
+        "ad_id": "770007925794016",
+        "text": "כמה כיף זה סוף סוף לחייך ולהרגיש שלם 😁😍\nמרפאת שיניים פרפקט סמייל הר גילה -מרכז של 500 מטרים לשיקום הפה -השתלות ביום אחד וציפויי שיניים ברמה הגבוהה ביותר ובמחירים הכי משתלמים שיש 🥰",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "792957116739478",
+        "text": "מרפאת שיניים המובילה בטיפולי אסתטיקה דנטלית, השתלות שיניים ושיקום הפה.\n✔️ השתלות בזאליות ביום אחד\n✔️ טכנולוגיה מתקדמת ושיטות חדשניות\n✔️ צוות רופאים מומחים עם ניסיון רב שנים\n✔️ יחס אישי וליווי צמוד לאורך כל הדרך\nהחזרה לחיוך המושלם מתחילה כאן!\n052-869-5100",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1367416825001892",
+        "text": "הוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1367416825001892",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nPerfect smile- חיוך מושלם שתלים בזאליים ביום אחד\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1367416825001892\nהתחילה לפעול ב-4 בספט' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nPerfect smile- חיוך מושלם שתלים בזאליים תוך 3 ימים\nממומן\nהוד התותח שהגיע אלינו מרחובות והתחדש בחיוך מושלם   ❤️😁🤩 #emax #הוליווד #הוליוודסמייל\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nלפגישה וצילום ללא עלות שלחו הודעה\nהוליווד סמייל ב 2 פגישות בלבד במחיר הכי משתלם שיש\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:00:00",
+    "filtered": "2026-09-27T08:01:26",
+    "unqualified": "2026-09-27T08:03:56"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972528695100",
+        "source": "https://www.facebook.com/ads/library/?id=2037388467088593",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972528695100",
+        "source": "https://www.facebook.com/ads/library/?id=792957116739478",
+        "labelled_whatsapp": false
+      }
+    ],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

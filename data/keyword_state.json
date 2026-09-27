@@ -112,9 +112,50 @@
       "source": "playwright",
       "advertisers": 21,
       "at": "2026-09-27T01:54:56"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "וואטסאפ",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 9,
+      "at": "2026-09-27T07:56:35"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "שלחו הודעה",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 9,
+      "at": "2026-09-27T08:00:00"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "שלחו לנו הודעה",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 7,
+      "at": "2026-09-27T08:04:33"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "דברו איתנו",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 7,
+      "at": "2026-09-27T08:07:54"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "לפרטים בוואטסאפ",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 12,
+      "at": "2026-09-27T08:11:51"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
-  ]
+  ],
+  "wa_next_index": 5
 }

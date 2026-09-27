@@ -1,0 +1,230 @@
+{
+  "lead_id": "2026-09-27-166",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/perfectfsb/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1637704959777650",
+    "page_name": "שי בוסי מטבחים ונגרות",
+    "active_ads_count": 2,
+    "search_keyword": "שלחו לנו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "980499227568133",
+        "link_title": "שלחו הודעה ונתכנן לכם את המטבח החדש",
+        "body": "תושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492194316_653176704199803_8600748532568657997_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u6SSeEp-_vEQ7kNvwFn41fd&_nc_oc=Adq8jSVuZiNx5Rl_DhhNnOpE_NSRFzgSXrPOzqb21Q9464LPfmRYX6rKqJ_qCEOrOOY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQL6d2MaMWaRQllq4nFJgHtEIosnFaYTjp4Skl9EE-BFvQ&oe=6ABEB0D1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMndRIQP13t3ObfVU9CXbSUqHU8iPesE2TJZqUEnBs4QuGSHwbsq5EnRpmoYqG5vsJmQM-6kX7ua1TwkvkGr38.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=I4LGcfCO3H4Q7kNvwEKzPLA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzM2MDA0ODcxMjcwMzI1LCJhc3NldF9hZ2VfZGF5cyI6MzIxLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&_nc_zt=28&_nc_enc=QRs29xn5tlnwXTgD4y6gxTCqJ_n29RLKfyij2difrEUehqdQ3ESbzsREtE85S0cSfjbf5NvxxEMx_VYc6UwsvA2RQLZsgtTTkk94Y-wzbGKXjEZMKP49rI7eDZo&oh=00_AQKGn_viwr738MX9PhgavJwKsPr_lY2Dwd63B_pFOZ-wZA&oe=6ABEA5C6"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1745391600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=980499227568133"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1956,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "980499227568133"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1956,
+    "page_categories": [
+      "נגר",
+      "מעצב"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "980499227568133",
+        "page_id": "1637704959777650",
+        "page_name": "שי בוסי מטבחים ונגרות",
+        "page_url": "https://www.facebook.com/perfectfsb/",
+        "page_like_count": 1956,
+        "page_categories": [
+          "נגר",
+          "מעצב"
+        ],
+        "ad_creative_link_title": "שלחו הודעה ונתכנן לכם את המטבח החדש",
+        "body": "תושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1745391600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492194316_653176704199803_8600748532568657997_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u6SSeEp-_vEQ7kNvwGlj0Tn&_nc_oc=Adq1g1J9cPJLcw8goGfha7DiLtXIZSZL10surlNRn6u0xxxvc86zIKs-RMZWvpKZn60&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eqaQCtizVDIBsmrCxVMNVw&_nc_ss=70289&oh=00_AQL4ExGNLzk9xHFoRVrrVB_xEjszl4QVbyYkNGOOvYgNPQ&oe=6ABEB0D1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMndRIQP13t3ObfVU9CXbSUqHU8iPesE2TJZqUEnBs4QuGSHwbsq5EnRpmoYqG5vsJmQM-6kX7ua1TwkvkGr38.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=I4LGcfCO3H4Q7kNvwGwUOME&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzM2MDA0ODcxMjcwMzI1LCJhc3NldF9hZ2VfZGF5cyI6MzIxLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=eqaQCtizVDIBsmrCxVMNVw&_nc_ss=70289&_nc_zt=28&_nc_enc=QftangmMZ6Y-xykyVQkqG8n1bNGBfrzgc9UtEspA_ABQhBe8IsuksHXxXPs_wl7EjsfyoHOnRZw4Bw-LMbll58JcCAoBa1g_KGnI_uPZMxVZUdZx9r8IAaUnKNw&oh=00_AQKiTz9M0avD5ba4Gx7HfQcyXCms9GE3KlqvO89v79GdOw&oe=6ABEA5C6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=980499227568133"
+      },
+      {
+        "id": "724979619863805",
+        "page_id": "1637704959777650",
+        "page_name": "שי בוסי מטבחים ונגרות",
+        "page_url": "https://www.facebook.com/perfectfsb/",
+        "page_like_count": 1956,
+        "page_categories": [
+          "Carpenter",
+          "Designer"
+        ],
+        "ad_creative_link_title": "שלחו הודעה ונתכנן לכם את המטבח החדש",
+        "body": "תושבי המרכז והשרון!!! שי בוסי מטבחי פרימיום מגיעים עד אליכם, המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם שנים של ניסיון, שימוש בחומרים המתקדמים ביותר ותשומת לב לפרטים הקטנים, אנו יוצרים מטבחים מותאמים אישית שמשלבים בין יוקרה לפונקציונליות.\nמעוניינים במטבח ייחודי ומרהיב? \nשלחו לנו הודעה ונתחיל לתכנן את המטבח שיתאים בדיוק לצרכים שלכם..",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1745391600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491288570_10026790330666502_784595542634214899_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IHD1DCW8Iu0Q7kNvwEE-LXG&_nc_oc=AdqnMAmVs1iYKV2wFQaPANyFVXtTcn-HBkk_VM2MqrxsLy8YVa5yFEag2bK7IGKeujw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eqaQCtizVDIBsmrCxVMNVw&_nc_ss=70289&oh=00_AQK-yeYrUe2JSuWN_U0gGsfS_5s7C79N8-kidjKNXOggJA&oe=6ABEA6B6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOXzx-WB9NQkfSsq65w973MbhjRGMjfhvZvAlzQQOoegFyPG65O1F6gko75svq9ghj1l17It-y2D5k8gAYM_0s.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-Gk6U41HbPgQ7kNvwG6CZ9A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNjM1MjczMDMwODIzOTM4LCJhc3NldF9hZ2VfZGF5cyI6MzIyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=eqaQCtizVDIBsmrCxVMNVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLuJ0h123CM8NDQ60gBSOyWxhDxlXdtqUW0vEbuWIlTGA&oe=6ABE8BE2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=724979619863805"
+      },
+      {
+        "id": "980499227568133",
+        "body": "תושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "980499227568133",
+        "text": "תושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "724979619863805",
+        "text": "תושבי המרכז והשרון!!! שי בוסי מטבחי פרימיום מגיעים עד אליכם, המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם שנים של ניסיון, שימוש בחומרים המתקדמים ביותר ותשומת לב לפרטים הקטנים, אנו יוצרים מטבחים מותאמים אישית שמשלבים בין יוקרה לפונקציונליות.\nמעוניינים במטבח ייחודי ומרהיב? \nשלחו לנו הודעה ונתחיל לתכנן את המטבח שיתאים בדיוק לצרכים שלכם..",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "980499227568133",
+        "text": "תושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "980499227568133",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nשי בוסי מטבחים ונגרות\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 980499227568133\nהתחילה לפעול ב-23 באפר' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nשי בוסי מטבחים ונגרות\nממומן\nתושבי המרכז והשרון, ידעתם שהעיצוב המושלם מתחיל במטבח?\nשי בוסי מטבחי פרימיום – המקום בו עיצוב ואיכות נפגשים בצורה המושלמת.\nעם מעל 25 שנות ניסיון, דיוק ללא פשרות ושימוש בחומרים המובחרים ביותר, אנו מתכננים מטבחים בהתאמה אישית שמשלבים אסתטיקה ופונקציונליות בצורה מושלמת.\nאם אתם מחפשים פתרונות חדשניים ועבודת יד מוקפדת שתעורר בכם השראה, שלחו לנו הודעה עוד היום, והתחילו לעצב את המטבח שתמיד חלמתם עליו.\n0:00 / 0:00\nAPI.WHATSAPP.COM\nשלחו הודעה ונתכנן לכם את המטבח החדש\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:04:33",
+    "filtered": "2026-09-27T08:05:40",
+    "unqualified": "2026-09-27T08:07:14"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

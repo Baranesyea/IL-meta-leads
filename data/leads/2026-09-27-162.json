@@ -1,0 +1,237 @@
+{
+  "lead_id": "2026-09-27-162",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://api.whatsapp.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Hadealerim/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/whatsapp/",
+      "source": "https://api.whatsapp.com/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972528608994",
+      "source": "https://api.whatsapp.com/send/?phone=972528608994&text&type=phone_number&app_absent=0",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "101118795670593",
+    "page_name": "הדילרים - דיטיילינג לרכב",
+    "active_ads_count": 2,
+    "search_keyword": "שלחו לנו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "754652567451929",
+        "link_title": "הדילרים - דיטיילינג לרכב",
+        "body": "מחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/445352329_337584042451265_1189131963957500207_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eYudIGTerR4Q7kNvwGjWvDO&_nc_oc=Adoya7NG3yBUNcQgftTcM8esVOKmDUriYCTOcUwqVud3H2TVuBU9HHWhoEarG1_xftU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&oh=00_AQKCUsHwSmOqx4sWf74e9MD3mfCIh3AwyMX-mCVKmaYgEw&oe=6ABE9057",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPRNZf6DgEHi7enGptI1PCJmQk7pVRWP2vjeWN6DsnI41TroQaZWvX2Z4skAZnniSJKfjAZwiqDJeTSUapA-FU.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zn4hnV6khQEQ7kNvwGaIgOv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3MzEzMzQ5Mjk5NzQ5NDUsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=enOvuJfaeMYFUmOdFXdI_g&_nc_ss=70289&_nc_zt=28&oh=00_AQJTD1f4MtawWza7D6e4PoGlspfsSS6pixt_QoDbxg9bxQ&oe=6ABEA470"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1757228400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=754652567451929"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב",
+        "טיפול",
+        "טיפולי"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1923,
+      "product_score": -6,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "754652567451929"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1923,
+    "page_categories": [
+      "Auto Service"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "754652567451929",
+        "page_id": "101118795670593",
+        "page_name": "הדילרים - דיטיילינג לרכב",
+        "page_url": "https://www.facebook.com/Hadealerim/",
+        "page_like_count": 1923,
+        "page_categories": [
+          "Auto Service"
+        ],
+        "ad_creative_link_title": "הדילרים - דיטיילינג לרכב",
+        "body": "מחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "link_description": "Auto Detailing Service",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1757228400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/445352329_337584042451265_1189131963957500207_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eYudIGTerR4Q7kNvwGOxhwt&_nc_oc=AdptEmcxWWSJs4qM8jXvGPDu-vUOsdEWPiee8SwF_z9Fghc5_jkAiIutJnjarbvk4ag&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQK4EM9HMfiAHgPAJ8nmam6S_0V89MtiHTzx727w60Q6mw&oe=6ABE9057",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPRNZf6DgEHi7enGptI1PCJmQk7pVRWP2vjeWN6DsnI41TroQaZWvX2Z4skAZnniSJKfjAZwiqDJeTSUapA-FU.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zn4hnV6khQEQ7kNvwGsiDgW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3MzEzMzQ5Mjk5NzQ5NDUsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&_nc_zt=28&oh=00_AQIciTOwCE6OLblXNvfEsCD6C205sESqrZte7oYrSVsY0Q&oe=6ABEA470"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=754652567451929"
+      },
+      {
+        "id": "1798676880795732",
+        "page_id": "101118795670593",
+        "page_name": "הדילרים - דיטיילינג לרכב",
+        "page_url": "https://www.facebook.com/Hadealerim/",
+        "page_like_count": 1923,
+        "page_categories": [
+          "Auto Service"
+        ],
+        "ad_creative_link_title": "הדילרים - דיטיילינג לרכב",
+        "body": "מעוניינים בטיפול ציפוי ננו לרכב ולקבל אחריות עם גב שאפשר לסמוך עליה? הדילרים פה בשבילכם. אנחנו מציעים כשלושה טיפולי ננו קרמי לרכב ברמות אחריות ועמידות שונות:\n\n🥇 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🥈 ציפוי INFINITE חד שכבתי עם אחריות ל-5 שנים!\n🥉 ציפוי MOHS/PURE חד שכבתי עם אחריות ל-3 שנים!\n\nמה האחריות מכסה?\n\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "link_description": "להצעת מחיר לחצו כאן",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1767859200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/613105992_2327330651050104_8409067483524405728_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wSnadMZtTNIQ7kNvwFynKKU&_nc_oc=AdpevzVS9KtQ_FUWj-dW_bxEJ8EDvwzhwfHcRQzHT3H26IgdP0gyyqKhu4LQW5mhbSU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQJC1TCnBjWYRrqg3NHwt9jDVCrQJFca0eFOuwgQjP_Y7w&oe=6ABE999F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/612894850_1990810348166818_7199863846870603638_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0W4uXutLiK4Q7kNvwGdzM8v&_nc_oc=AdqQMpLVmsc8vcHIVCZ5TXnWRDmroKsrW7cgOwRBa9peJAjD0ANsDCJWAcK5908VcX8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQI5pVt2DyW55kBeKrfKlItL-FWwpVFAf6O7VH5enDZ4qw&oe=6ABEAC18",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/613467331_1202011562120549_8623500258187568193_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZivDxBuLnFUQ7kNvwFRjsrC&_nc_oc=AdrA7taatqpqC2gaaDCFMXR8SuyozlbkIl_lSaDi3tZFlRdhe49pKFvx5kbAk-F5iZA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQKlFPD8zigzyOvEgcR3CYVcqCwkOdTI5GQfj2NB81A9kA&oe=6ABEA7A4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/611771966_869543225993724_6473274522406266932_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JK94AmpyLUUQ7kNvwFrijlV&_nc_oc=Adp_I4FE2sVxnaO2e3jgqscwvTYmxo3eCjll6sKPin4mJ840RbO80ks8pWgF-dTgh_U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQKXPTgpOwlhtR4slB_wHGpiuzKS-_Xl9XRtGdnX6yw7mA&oe=6ABEB727",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/612035948_884592394066708_7180262065301880642_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v7CdX6G1JroQ7kNvwFd1Y6x&_nc_oc=AdrDruDZ1mOw8sHzW9IVIqFghTeTLsu0cHyAySWkuyyUyIJjwIQCCDqKXhCi0IK0lXk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQJhMXRLpaf-EWX3idMhCCCkmPu1iXmJ8kRU4yPePgq8iA&oe=6ABE8C2A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/611621356_25795832196679555_7346536849041809177_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DSyW53QEbRMQ7kNvwGB7oyj&_nc_oc=AdqCSOylM4wR1pkyyUwthOynp7k--zKGruJyELziPHSAeGaNPgtx5hrX6KRsIP_tdb0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfZHO7pnBb5vC2puPGx-EA&_nc_ss=70289&oh=00_AQIZmBy9XoqR5ihl3oh5FpDvFuu7k_JyMkR4XPHOEyrEhg&oe=6ABE86A6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1798676880795732"
+      },
+      {
+        "id": "754652567451929",
+        "body": "מחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "landing_url": ""
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "754652567451929",
+        "text": "מחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "links": []
+      },
+      {
+        "ad_id": "1798676880795732",
+        "text": "מעוניינים בטיפול ציפוי ננו לרכב ולקבל אחריות עם גב שאפשר לסמוך עליה? הדילרים פה בשבילכם. אנחנו מציעים כשלושה טיפולי ננו קרמי לרכב ברמות אחריות ועמידות שונות:\n\n🥇 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🥈 ציפוי INFINITE חד שכבתי עם אחריות ל-5 שנים!\n🥉 ציפוי MOHS/PURE חד שכבתי עם אחריות ל-3 שנים!\n\nמה האחריות מכסה?\n\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "links": []
+      },
+      {
+        "ad_id": "754652567451929",
+        "text": "מחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim",
+        "links": []
+      },
+      {
+        "ad_id": "754652567451929",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nהדילרים - דיטיילינג לרכב\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 754652567451929\nהתחילה לפעול ב-7 בספט' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nהדילרים - דיטיילינג לרכב\nממומן\nמחפשים ציפוי ננו קרמי לרכב? הדילרים פה כדי להעניק לרכבכם את הציפוי הטוב ביותר עם אחריות לכל החיים!\n.\nתוכלו לבחור מבין החבילות הבאות ולהעניק לרכב שלכם את ההגנה האופטימלית עבורו ועבורכם למשך שנים קדימה!\n.\n🏅 ציפוי INFINITE דו שכבתי עם אחריות לכל החיים!\n🏅 ציפוי INFINITE עם אחריות ל-5 שנים!\n🏅 ציפוי MOHS/PURE עם אחריות ל-3 שנים!\n.\nמה האחריות מכסה?\n.\n✅ שמירה על ברק גבוה\n✅ הידרופוביה (דחיית מים)\n✅ הגנה מהאלמנטים (גשם, זיהומים סביבתיים וכיתומים למיניהם)\n✅ הגנה מפני נזקי ה-UV\n✅ יכולת ניקוי עצמי\n.\nרוצים לדעת עוד? אז למה אתם מחכים? תרימו לנו טלפון או שלחו לנו הודעה עוד היום לוואצאפ ונשמח להסביר לכם על הטיפולים ועל אחריות ה-INFINITE שלנו!\n.\n📞 טלפון: 050-3636-408\n📱 וואצאפ: https://tinyurl.com/hadealerim\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nהדילרים - דיטיילינג לרכב\nAuto Detailing Service\nשליחת הודעת WhatsApp\nסגירה",
+        "links": [
+          "https://tinyurl.com/hadealerim"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://api.whatsapp.com/send/?phone=972528608994&text&type=phone_number&app_absent=0"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:04:33",
+    "filtered": "2026-09-27T08:04:55",
+    "qualified": "2026-09-27T08:06:26"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://api.whatsapp.com/",
+      "https://api.whatsapp.com/send/?phone=972528608994&text&type=phone_number&app_absent=0"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

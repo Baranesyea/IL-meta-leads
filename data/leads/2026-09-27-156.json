@@ -1,0 +1,148 @@
+{
+  "lead_id": "2026-09-27-156",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61551257576493/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "125069987356188",
+    "page_name": "SEAPRO.co.il",
+    "active_ads_count": 1,
+    "search_keyword": "שלחו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "898747348747173",
+        "link_title": "SEAPRO.co.il",
+        "body": "גגונים בהתאמה אישית או אוניברסליים במחירי מבצע בלעדיים!\nלהתאמת הגגון המושלם שלחו הודעה >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/453433966_988585543008962_8810945295098488300_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RLYDbVILfAsQ7kNvwGWqJA9&_nc_oc=AdrjW9jDnNMCJdZuRcNPAE88oCb27hsDzZN3UAS0BfEnVBIgFtffp23T_1-B2GDVjIw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQKOj1yZwirD2XBbxzCcgF8PvqFDgm0_Caoh2J9ldIyPVQ&oe=6ABEAF2C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/453315033_1632525090639229_2391221393001072756_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6UmYDEvQspwQ7kNvwE0U4Pj&_nc_oc=Adovz31-nSbSVuGLPtGw5iUFm_BDo0haFNnFobELqiI7ukv9jaXF7YDBvxSX8iMBrM8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQJ4vzC7p8lZWcJ4AnovLkrav6dHR1QHq4n7740C7zHtkw&oe=6ABE8403",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/453744206_1054953372720879_2793260836364103517_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x75y8a1E7GEQ7kNvwG3q2JC&_nc_oc=AdrNBe8LvKa6Ge5-MfuRyuEG80OeDplz3Pa5Kcjqjfu5iGSWlFIxoOdOaBNDgmsFNw8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQLBIDaLeZ-oVDpkNHVodF6EjhBn_snAYWEedmB074bqHg&oe=6ABE9134"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1722495600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=898747348747173"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 100,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "898747348747173"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 100,
+    "page_categories": [
+      "Website"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "898747348747173",
+        "page_id": "125069987356188",
+        "page_name": "SEAPRO.co.il",
+        "page_url": "https://www.facebook.com/61551257576493/",
+        "page_like_count": 100,
+        "page_categories": [
+          "Website"
+        ],
+        "ad_creative_link_title": "SEAPRO.co.il",
+        "body": "גגונים בהתאמה אישית או אוניברסליים במחירי מבצע בלעדיים!\nלהתאמת הגגון המושלם שלחו הודעה >>",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1722495600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/453433966_988585543008962_8810945295098488300_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RLYDbVILfAsQ7kNvwG4pfqI&_nc_oc=AdqIxA6zTcqWbv4zqcfmSFYjOsAgKqxauthT1328a6K3f5g_ZWSB0lMNIxo33Zo13II&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQLaEx_i0JvOV2HTn37wYfZlOchxSBfVjfcwemtN5-Hvkg&oe=6ABEAF2C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/453315033_1632525090639229_2391221393001072756_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6UmYDEvQspwQ7kNvwHirCIi&_nc_oc=Adp9rnk1IPv8KE455YrWSGDHy5h-a1JRsKzx58g5iYDIcjiEvx38FYKo8Ju0UmRLtpE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQJce6p-0nBnZbj1RI1_fKdwpRyUUdC8EZPfxkLgV7RZjw&oe=6ABE8403",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/453744206_1054953372720879_2793260836364103517_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x75y8a1E7GEQ7kNvwEPxj0H&_nc_oc=AdpmBej1cy2u_mCEqeSv0V74KN4p0r2UAd3a0zggi8Oj5YH_iUC4JsH39oVvkc9ozQQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQKog71cderHHLsaKl_ot2w4EsuX-n2nRIczCTQ-U2I0xw&oe=6ABE9134",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/453540634_470525642436280_2887391089520567274_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q5z6SSCD3hgQ7kNvwHlfgPh&_nc_oc=AdoZ0agSFSuYrpAuROHgA7ttfxIEN2zi5gtdoz55geM2wAjCsKiuZSfP5M4YzTq8R1Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQISjY-Sk-qMgLe3s1bG-G5m-83rAwcKOaTMz3AwdJ2GBQ&oe=6ABEB3F7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/453239000_2496446103899537_782289771052817764_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6aDNPPcaXC0Q7kNvwHDxfr4&_nc_oc=AdoGCo0c_jiji5XL-Pim1qsTa-PzkJTg3W69lYE0fPFmqlQArSah67Wt25P68Vc6o-A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQLY7RSW8_SCpF371OcaiYqPP5kRhEbto7qYP1CnSVKCXg&oe=6ABE9122",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/453497199_1045312300489709_7341431864212490880_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3QFmlkZS6PYQ7kNvwEa50U6&_nc_oc=Adq_GfZi7R78sXUy1pIUBrLEg1fc5gHsr4cZGtDCXjJEA-btI2iB_hNNVGbYuQXBbfQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=CnxLgNr8IzJ93Pb1cMl__Q&_nc_ss=70289&oh=00_AQL2_k2101j5uigOYrD2lYIqpCgF7LGDqk7V0hyAQB_t2A&oe=6ABEB154"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=898747348747173"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:00:00",
+    "rejected": "2026-09-27T08:00:55"
+  }
+}

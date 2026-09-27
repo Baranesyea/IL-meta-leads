@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-27-147",
+  "status": "rejected",
+  "reject_reason": "urgent service: 24/7",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61581971265331/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "763757996831471",
+    "page_name": "טסים בראש שקט - ביטוח נסיעות לחו״ל אורי דוד",
+    "active_ads_count": 1,
+    "search_keyword": "וואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1119714090327906",
+        "link_title": "לקבלת הצעה מנציג בוואטסאפ >",
+        "body": "טסים לחו״ל?\nביטוח נסיעות עושים רק עם פספורטכארד -\nהביטוח שמשלם בזמן אמת.\n\nהיחידים בישראל שמטפלים בכל בעיה רפואית בלי טפסים ובלי הוצאות מהכיס. הכול ישירות לכרטיס - פשוט, מהיר, ומיידי.\n\n- תשלום מיידי לכרטיס - בלי להמתין להחזרים\n- רופאים מומחים 24/7 בעברית\n- פיצוי על עיכוב טיסה לכל המשפחה\n- כיסוי כבודה עד $2000 \n- שירות אישי וזמין מסביב לשעון\n\nלקבלת הצעה לביטוח נסיעות לחו״ל\nבאמצעות נציג וואטסאפ  👇",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/579606911_811255931701240_7431166926103097698_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qDhRLYTitfoQ7kNvwFHlD9q&_nc_oc=AdohXvEB3yZhFRW-Km4G_Ih83_kU6jA2kooCvSv2DjZQLZCf0du1CdQJEanur1fZ2W8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lCDLBiq6Sd8v9HAd0iaU6Q&_nc_ss=70289&oh=00_AQKVVCfPkF5ZTY5gLayesDi_XVhO20iNpUqEHpEqrjK1kQ&oe=6ABE85FE"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1762761600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1119714090327906"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ביטוח"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 84,
+      "product_score": -2,
+      "urgent_hits": [
+        "24/7"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1119714090327906"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 84,
+    "page_categories": [
+      "Insurance company"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T07:56:35",
+    "rejected": "2026-09-27T07:57:10"
+  }
+}

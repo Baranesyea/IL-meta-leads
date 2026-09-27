@@ -1,0 +1,455 @@
+{
+  "lead_id": "2026-09-27-171",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://ad-raanana.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/adraanana/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/adraanana_service/",
+      "source": "https://ad-raanana.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972533673355",
+      "source": "https://ad-raanana.co.il/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "2 landline(s)"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "128132540553914",
+    "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+    "active_ads_count": 7,
+    "search_keyword": "דברו איתנו",
+    "sample_ads": [
+      {
+        "ad_id": "2333188363804677",
+        "link_title": "לבדיקת התאמה - דברו איתנו עכשיו בווטסאפ",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/582546377_846520994901674_8299514832981088042_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AGjJqrf3wWoQ7kNvwEbm3Jk&_nc_oc=AdpfzUl038wAGZTq0ZPwwie0CwCXGStNZGgNAlwLN844r0f5tcovVmJP_LCWssp_b1I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQK5YIcCZHZ-BznDLODFC4vbGGzO4q_C-btCVWzYFgZQhQ&oe=6ABEAE88"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1762934400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2333188363804677"
+      },
+      {
+        "ad_id": "1504238810904440",
+        "link_title": "לבדיקת התאמה - דברו איתנו עכשיו בווטסאפ",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/580524515_1886133352278471_5517385842840363641_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yjJI1HviA90Q7kNvwGEBbAV&_nc_oc=AdqhO5pRx_qiEuJXQvVMSp3k60eTo1Z8hVQJaPksYXithbw-9JxUfvUiKjQFzqoVgaA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQL30NR7NYP6WPjsgpVbJYlniUePiyCln6uq-yZ7chGsSg&oe=6ABE90B4"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1762934400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1504238810904440"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 7,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 5084,
+      "product_score": -1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2333188363804677",
+      "1504238810904440"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 5084,
+    "page_categories": [
+      "Auto Service"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "2333188363804677",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Auto Service"
+        ],
+        "ad_creative_link_title": "לבדיקת התאמה - דברו איתנו עכשיו בווטסאפ",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1762934400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/582546377_846520994901674_8299514832981088042_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AGjJqrf3wWoQ7kNvwEbm3Jk&_nc_oc=AdpfzUl038wAGZTq0ZPwwie0CwCXGStNZGgNAlwLN844r0f5tcovVmJP_LCWssp_b1I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQIvBeH3FvtAL9vVlf4czIlWSn8OdtLzZ9SN82QLhdBEoQ&oe=6ABEAE88"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2333188363804677"
+      },
+      {
+        "id": "1504238810904440",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Auto Service"
+        ],
+        "ad_creative_link_title": "לבדיקת התאמה - דברו איתנו עכשיו בווטסאפ",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1762934400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/580524515_1886133352278471_5517385842840363641_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yjJI1HviA90Q7kNvwGEBbAV&_nc_oc=AdqhO5pRx_qiEuJXQvVMSp3k60eTo1Z8hVQJaPksYXithbw-9JxUfvUiKjQFzqoVgaA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQKJcsGcbVBzvyak67xBV9GlVu4Q0Jto_T0N_SgDHOdSKg&oe=6ABE90B4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1504238810904440"
+      },
+      {
+        "id": "2504137530083890",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "לפרטים ולבדיקת התאמה באתר",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "מחפשים טיפול לקיה ברעננה? מרכז שירות עד רעננה, מוסך מורשה משרד התחבורה, ברחוב השיזף 5. לפרטים על הטיפולים ולתיאום מועד, התקשרו או השאירו פרטים באתר.",
+        "landing_url": "https://ad-raanana.co.il/קיה/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/822499873_1619766043007874_8046079994217963071_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QxJrArDy2FwQ7kNvwFzkco6&_nc_oc=AdoEZg39h_KBvmlKc_-fh8MgBoAgHe1pidqqnXwrkbEV94gtNYbhVT8fn09-dp1btXU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQKUV1GvF5i35QScfun1hELi-uC2PVUcTdBG7gLho4PvPQ&oe=6ABEAD4B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2504137530083890"
+      },
+      {
+        "id": "1064238226412284",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "לפרטים ולבדיקת התאמה באתר",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "מחפשים טיפול ליונדאי ברעננה? מרכז שירות עד רעננה, מוסך מורשה משרד התחבורה, ברחוב השיזף 5. לפרטים על הטיפולים ולתיאום מועד, התקשרו או השאירו פרטים באתר.",
+        "landing_url": "https://ad-raanana.co.il/יונדאי/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/823229760_1101476059053798_5093502411913294072_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=30uWMxowW6UQ7kNvwHJjg4a&_nc_oc=Adoaoz5cOgNW6Q2RGRNGiVzG_QAet0XBOrbxP7sDhIgbC2fmduZka77J1UxeBkIhsTw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQLBhgOKQ5TtrZfS3rkTRXPr4Gtd4iSmk9cVQO4MWAeBdw&oe=6ABEAA1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1064238226412284"
+      },
+      {
+        "id": "1032542119829188",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "לפרטים ולבדיקת התאמה באתר",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "מרכז שרות ‘עד רעננה׳ מורשה מאזדה, פורד, וויה ודונגפנג הינו מהמוסכים הפרטיים הגדולים בארץ.",
+        "landing_url": "https://ad-raanana.co.il/מאזדה/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/823704049_1631070498726053_3790363643613511969_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aerPCBCJqvsQ7kNvwEUSbUk&_nc_oc=AdpgZyMtv45iLF7tUtnThle5viUwQvZy7FAznQ60pj3iuvwTdBi4pX4tS1kptJjYzJY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQIHD4utxrsVgDvneLQSlPX_g9VRAWsPVTSUnXW1kyt_Vw&oe=6ABEAE6E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1032542119829188"
+      },
+      {
+        "id": "954603877070592",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "לפרטי המבצע ולתיאום באתר",
+        "body": "מתי לאחרונה החלפתם בלמים? לא זוכרים? זה הזמן לגשת למרכז שירות עד רעננה לבדיקה והחלפת בלמים ודסקיות במבצע!",
+        "link_description": "מרכז שרות ‘עד רעננה׳ מורשה מאזדה, פורד, וויה ודונגפנג הינו מהמוסכים הפרטיים הגדולים בארץ.",
+        "landing_url": "https://ad-raanana.co.il/מבצעי-בלמים-יפני-קוריאני/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/822465965_1821310649009553_6692292823198638723_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cWXdfJb6tKMQ7kNvwFHJRVS&_nc_oc=AdoVuzD99ojqLfE8FaOt0hzx_cYYu9f8QfNXytnuobsFEBInktcCIBUecGoo5rsinFo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQLRT6Cldq0UWhXPZoA7rMIYL287HhyOqQLHlwqhJiABqw&oe=6ABEA7C6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=954603877070592"
+      },
+      {
+        "id": "2419821165493626",
+        "page_id": "128132540553914",
+        "page_name": "מרכז שרות 'עד' רעננה- עד שתצא מרוצה",
+        "page_url": "https://www.facebook.com/adraanana/",
+        "page_like_count": 5084,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "לפרטים ולבדיקת התאמה באתר",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "link_description": "מרכז שרות ‘עד רעננה׳ מורשה מאזדה, פורד, וויה ודונגפנג הינו מהמוסכים הפרטיים הגדולים בארץ.",
+        "landing_url": "https://ad-raanana.co.il/פורד/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821523518_3372030559670262_4735149218014868323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1bimpTa83foQ7kNvwHEPyK7&_nc_oc=AdpV9qIoYxdPOVhuMq1FJCI3ZJ9H0uUHHKcfmUab8Ln-CUg9OZz-2CmHdpgn7T4EaIs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=tiJlFJ6Tmhuf8tBFnM-HMA&_nc_ss=70289&oh=00_AQJuFu-nsxZZQDmvkLh4DURIvzMyml0l-vSDjmkNXaXDwQ&oe=6ABE96C9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2419821165493626"
+      },
+      {
+        "id": "2333188363804677",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1504238810904440",
+        "body": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2333188363804677",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1504238810904440",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2504137530083890",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://ad-raanana.co.il/קיה/"
+        ]
+      },
+      {
+        "ad_id": "1064238226412284",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://ad-raanana.co.il/יונדאי/"
+        ]
+      },
+      {
+        "ad_id": "1032542119829188",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://ad-raanana.co.il/מאזדה/"
+        ]
+      },
+      {
+        "ad_id": "954603877070592",
+        "text": "מתי לאחרונה החלפתם בלמים? לא זוכרים? זה הזמן לגשת למרכז שירות עד רעננה לבדיקה והחלפת בלמים ודסקיות במבצע!",
+        "links": [
+          "https://ad-raanana.co.il/מבצעי-בלמים-יפני-קוריאני/"
+        ]
+      },
+      {
+        "ad_id": "2419821165493626",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://ad-raanana.co.il/פורד/"
+        ]
+      },
+      {
+        "ad_id": "2333188363804677",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1504238810904440",
+        "text": "מבצע טיפול משתלם במיוחד! אל תפספסו! רק בעד רעננה אתם יודעים כמה אתם משלמים עוד לפני שנכנסתם לטיפול!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://ad-raanana.co.il/%D7%A7%D7%99%D7%94/",
+      "https://ad-raanana.co.il/%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/",
+      "https://ad-raanana.co.il/%D7%9E%D7%90%D7%96%D7%93%D7%94/",
+      "https://ad-raanana.co.il/%D7%9E%D7%91%D7%A6%D7%A2%D7%99-%D7%91%D7%9C%D7%9E%D7%99%D7%9D-%D7%99%D7%A4%D7%A0%D7%99-%D7%A7%D7%95%D7%A8%D7%99%D7%90%D7%A0%D7%99/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:07:54",
+    "filtered": "2026-09-27T08:08:39",
+    "qualified": "2026-09-27T08:10:46"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://ad-raanana.co.il/",
+      "https://ad-raanana.co.il/%D7%A7%D7%99%D7%94/",
+      "https://ad-raanana.co.il/%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/",
+      "https://ad-raanana.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/"
+    ],
+    "store_signals": [],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

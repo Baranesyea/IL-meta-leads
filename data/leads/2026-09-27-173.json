@@ -1,0 +1,1281 @@
+{
+  "lead_id": "2026-09-27-173",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://issta.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/issta/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "237246570717",
+    "page_name": "איסתא",
+    "active_ads_count": 60,
+    "search_keyword": "דברו איתנו",
+    "sample_ads": [
+      {
+        "ad_id": "996059266708999",
+        "link_title": "דברו איתנו היום",
+        "body": "כבר מרגישים את החופש באוויר? ✈️ חופשה זוגית חלומית בחו\"ל נמצאת במרחק כמה קליקים מכם! 🏝️🤩\n\nהכירו את דניאל, סוכנת ה-AI החכמה שלנו, שתתפור לכם את הטיול המושלם בדיוק לפי התקציב והטעם שלכם - ובאפס מאמץ.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671433458_1761651265243322_41953873776616827_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jOnqrNJ2gsgQ7kNvwGBJZM5&_nc_oc=AdosPrB0Dbo_R5kwO279egDs5Jr9aJo7PxtqQfQsWL8-wX5VRD7XWznIMsi54ujENi0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQI9FuW0MDJx01DPS71pJ4G8xt41TgjemQtX_ugBkNNJ4g&oe=6ABE8FBC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOCkAqVn30XYAKQpBUMrzWaD7fsjHy5aE9BFWq6Tto3LJDuVSYVqjUXEBGvk07xyt6s03P9K6VCI63wOuwo4sXmvKcYpQIksyYK58UPVwju7w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=6BrkuxdUlOYQ7kNvwHMW8vR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTQzMTA4Mzg3NDQxMTksImFzc2V0X2FnZV9kYXlzIjoyNzcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=36b338ec4c71e1c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTRCRjdEMDhBMzVCOEQxNzYzQURBRkNDRUExRUFBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZGNEMzNDdBMDRGQzUzQUVGQTA0ODY5NzZDRjg3RUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu0P-jyYf6BBUCKAJDMywXQDXu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&_nc_zt=28&oh=00_AQK_WPC6QVdxsWWWzuqb2XtSsv67MLxmLvlC52gNzJeU4w&oe=6ABE9563"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1784790000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=996059266708999"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "חופשה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 60,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 181669,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "996059266708999"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 181669,
+    "page_categories": [
+      "Travel Company"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "967947459241721",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "חופשה כשרה בחו\"ל? רק עם איסתא! 💙🕎 אספנו לכם את המלונות הכי שווים בפאפוס, גיאורגיה ופראג לחופשה ללא פשרות:\n\n✨ אוכל כשר ואיכותי (ללא צורך במזוודת אוכל!) ✨ בתי כנסת ומקוואות בחלק מהמלונות ✨ ריזורטים למשפחות עם בריכות וחוף ים ✨ מלונות ספא יוקרתיים לזוגות\n\nהחבילות אוזלות מהר, אל תחכו לרגע האחרון! דברו עם דניאל עוד היום>>",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/nofesh-kasher",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1775977200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633310946_1307489021154844_5444124368390890557_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OulATiokROcQ7kNvwEbDpik&_nc_oc=AdroWiYivRyHw4rghc30oYmeAMZwA9zbVp-y1XzPCi9eDqwRFF9Fsz80xypz1cICm1I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL_N3DguIRDEpMuOkb4Qp1qorwXNkuJ7b32R40ifrnGGg&oe=6ABE88D2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/629351313_678016295400206_8391093206965414316_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-uaqpf7OAlgQ7kNvwGP7nCE&_nc_oc=AdoqjgLaxVWcvoJT4dETuQ1Lk4fNPZVHp_fsoDVc_oL81s99sYF0ZTX_D8j-_NG4pVY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQItYSGugiY2LFqaatuj9l_bEmGooxhrFuYW9yqlv6KQzw&oe=6ABE859D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/629677903_897699702961687_1621714851549645384_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XWJGHl-lCeYQ7kNvwFRC0Tx&_nc_oc=AdrO552PPmkecP6X90p-G0Ba0wkCKyGdh0Q2VsT-nZKoDJb1jYco6i53UKjuNUbmLgE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKWcEheUUI_xw4cXOtsd6hABV9kARDiSh4QU8VIdpsU_g&oe=6ABEBDA2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/628395895_1644038410066345_4279651342137302266_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tdx2if_JNxcQ7kNvwEpkucn&_nc_oc=Adq3Hf6LDobuMpBwncbahJH09A-ScjtHxUJJ3j1_zNB9yHLAsL5WkI8F2A_LlWIT90U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJeLhLh8EzOzLQsRsIEGJ3uVXxnOE4PM9c5T-bk_N0CZA&oe=6ABEB1F0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/626731319_1421784825665779_5060056185651185256_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JiAkCL3DtPMQ7kNvwF0rVc3&_nc_oc=AdqDEpoTR5q8BO72bzvyYDT0U2ZpeKPQJCCz1NObseJS1fQurj8aWLQELnm0bijya_s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJmkuVQ_PbNJuIBMZEd7iYAiNwiZNjaPmPNO9zYVxHWhw&oe=6ABE88D2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633529507_895187563269563_9143644906567954769_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5vHBa8xO_o0Q7kNvwHxCOJg&_nc_oc=AdqTDXr8MbmwwMq2dpGoDw2TuRETAvqQdy4k4geMm61zkIs83nnxA4XFsNrPes6YyjA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKGS3H8ermTL-4hbamuMUPUUvLi6DUlrGZRbOnWrZ1kLQ&oe=6ABEA13B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=967947459241721"
+      },
+      {
+        "id": "997147769469178",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/704546737_2325120465005857_1277338975317914260_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JRzfMJ77qm0Q7kNvwFIz20i&_nc_oc=AdorMeUKJ4KsUW8Aj4lulx7iLXCpQFbhH4ubSXJwrPZ-2XXvHxqBQy8sZvGlLFzmn5A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJFlyONEQZCm80MixJY_U9HJ9sNyGMvSz44MSzxnYPWiQ&oe=6ABEA035",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/704592352_938923808965164_8541790494136808464_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VVEgbxBm6AYQ7kNvwGuZ_Hw&_nc_oc=AdqrXAZy_FG61OYwTQPGV7HDhsbi0HWsmlmqAsVBeVaKVv1b1G2PTPRzW0SYaAPvqH4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKcQAqu9vWlk2EmGhJpjl1w9NOB6ysB1wRWryKSeTD3ng&oe=6ABEB719",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/704592352_938923808965164_8541790494136808464_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VVEgbxBm6AYQ7kNvwGuZ_Hw&_nc_oc=AdqrXAZy_FG61OYwTQPGV7HDhsbi0HWsmlmqAsVBeVaKVv1b1G2PTPRzW0SYaAPvqH4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKcQAqu9vWlk2EmGhJpjl1w9NOB6ysB1wRWryKSeTD3ng&oe=6ABEB719"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=997147769469178"
+      },
+      {
+        "id": "1236884975251938",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/landing/hotels/wellclub",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772092800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640228742_2557838284648790_1157197153863643909_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UJt9M1_PeSQQ7kNvwHHFp2n&_nc_oc=AdroSn6VapaulnSDHt5TVuqlrWYBYQ2UZtc6s1QO2A5Ii0jqExtYvVmPiarlwPl8G8I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLpQVo1dj5sz8DJNIqJySVm0K3tKELHgyt3j2RIyUHQsw&oe=6ABEB9A6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641268030_694271220441173_7302044039579290392_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HuNKb2zGJKsQ7kNvwGThEoT&_nc_oc=Adpl_BSuX5nwR3qA0yo7Lv6UgIrxpsuiLfCbYl3cpCRS8bT8xTjPwzMESTLQLtT8XsE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLuYcUsmyKZUCXC2dv596Pouuf1yVZ0mFfCMsXfo0VeKA&oe=6ABE9FE9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1236884975251938"
+      },
+      {
+        "id": "1495931162285998",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מגוון רחב של יעדים באתר איסתא",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713804524_1349954083682540_1224164672688401437_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1a-WOn6X42sQ7kNvwGxAxl6&_nc_oc=AdqCYmS2ZgYlel3vh0jJ0f1p8PP4gxBjKsHvZ7YNYVu5R4e7NwPt_PYAcbFTHn5KCFI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKAd76G_gn1TWUaBHR7jKXG5ukfRA3M1YCcDlM2_VlNVA&oe=6ABE8F71",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMczmoBQtTMflQbfegbGQtNjrNtRH4CyT6dK2DvmRKbwHFpqx_qn_KbdBruH_6g-0Rs6DQLeIQ7AMPJyq5PwrL35s9Ok00YgeiIuOACtl3Pdg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=44JlICeuEw4Q7kNvwFsZqC2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzUyMzM1MTA0NDUyNjAsImFzc2V0X2FnZV9kYXlzIjoxMTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=54a158420832975f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQ3NDM5OTBEMTJGOTk3MjdEQjIwOTJFNTI0OUQ5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA5NDVBNzI3NzRFRjc0RDAyMDZEMjQ2NzBCRjhEOEE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYw86V8u2eBRUCKAJDMywXQELmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJBjDsw7hbanuxMQ30CcNwCLlHLEsjaLldWbZYqQf9L5Q&oe=6ABE9AD9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1495931162285998"
+      },
+      {
+        "id": "849634848190972",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מגוון רחב של יעדים באתר איסתא",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715376451_4695178497381081_2466391023456904331_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G11CrowEwfgQ7kNvwGaNM_n&_nc_oc=AdqJ_Dr_7eLxLgJy7W3ZkzRjl9h17nB3w72ZioWt1zFhspx03dGFmImDiML6DlrdI28&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJyzBMEjr_bBnhR5h4oSGs-TJ8pC_JLnCxXFEl0z8D5EQ&oe=6ABEA0F2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMczmoBQtTMflQbfegbGQtNjrNtRH4CyT6dK2DvmRKbwHFpqx_qn_KbdBruH_6g-0Rs6DQLeIQ7AMPJyq5PwrL35s9Ok00YgeiIuOACtl3Pdg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=44JlICeuEw4Q7kNvwFsZqC2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NzUyMzM1MTA0NDUyNjAsImFzc2V0X2FnZV9kYXlzIjoxMTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=54a158420832975f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQ3NDM5OTBEMTJGOTk3MjdEQjIwOTJFNTI0OUQ5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA5NDVBNzI3NzRFRjc0RDAyMDZEMjQ2NzBCRjhEOEE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYw86V8u2eBRUCKAJDMywXQELmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJBjDsw7hbanuxMQ30CcNwCLlHLEsjaLldWbZYqQf9L5Q&oe=6ABE9AD9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=849634848190972"
+      },
+      {
+        "id": "941118511736433",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\n📞 חייגו עכשיו: 03-7777068\n➡️ בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/landing/cyprus",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1775631600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/503376271_1523744872123830_4036558868156552431_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BGlavYPU4d4Q7kNvwHzdU9H&_nc_oc=AdrqnUjOo11kezp9agrNpr_y65lNUThjT-4rmDKJmSFEyI66rXb5uPBWab4794gqW-U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKyDqU8b5NVpPaqfo0qDYmZARPVbg0FLdCkaw6RGUxZng&oe=6ABEA6A7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/502629269_1426275032151601_7361441764252485830_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CP9UfVvTNOYQ7kNvwH09YaJ&_nc_oc=AdrWbv1Pvr00MEIU5-HgRZ5TdVjeB3A2AQgla4kpkWPyYxAOHrYIQpTwE13ppjL8VEQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIN25aPhf_ol8JHf5UWGZnx6k_VvonJM4JAYx1hZ8zz_w&oe=6ABEBC3C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/503364472_1121309493358739_2719399502440432666_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mc7XqeKFXK0Q7kNvwE-SXWH&_nc_oc=AdpVmwD3W_JFVgt79GKrjoh9zWVPiWW9gzEI39QGR027uWBXsJE_HTl6_Pc5i0r0rHY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIw8rNqm-Y4om9mbJzwbcYkAkkUxy6oGol93uRMcekkRw&oe=6ABEBBEE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/501200450_740160221805360_6068756672034080360_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8lS4vrrh_J4Q7kNvwHpum_p&_nc_oc=AdpRuDIGVrQ1psxx-Kjlh2AUkaErY9I0VWcrexSR0uPaqfc1AJrfRM9pnHOExXtMdfg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJa616ysntOvIM_UMlC3W5rqTmIKH8CYaX0o7TKbYgX-w&oe=6ABE8DE1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/500963812_1371128220637826_6523874418520691612_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NodJ93yK2YQQ7kNvwHyDy3w&_nc_oc=AdpY7mnXUUcor0p-qjtzrYagCPj6c0dZLfR4MLUhGt2WIpWVhGuiImYzfJqdhD2BQrM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIuX6MtexummPafPsk57Bu7lH9iy9ixjRqZGiCnDeEvag&oe=6ABE9870",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/501272884_1725395028079064_6024838782777100814_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GHg-Cc5fXeoQ7kNvwHLsWGI&_nc_oc=Adqg1hGjjRABqKjDavkPs5gylw83FnrUabnQxjFHOxiBz8L7DVlweMrjbgdEvc0pzr8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLHMnTw0Ow2QzAdg54sSc6g2aY5DB8QSxsffeKXjpaMhw&oe=6ABE899E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/503283284_9829309920519019_316804829130500180_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=D_TnoSEqvGkQ7kNvwHSRzYJ&_nc_oc=AdpTgK2DdqTpIV90YxNSfM5BcIRAZyp0Lp5joBFwa1fN0t-uFWCGOC0TCJr_6GohunQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIOh2lIHWb81qUaKhUsMpZaXLu7f0WNeEK8woQQOKIn8Q&oe=6ABEA112"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=941118511736433"
+      },
+      {
+        "id": "924157503562656",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "נופש כשר למשפחות בקפריסין 🏖️",
+        "body": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.issta.co.il/landing/hotels/greek_village",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776322800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671482459_1563531014736227_8828492541422494335_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N_LE9prgPYgQ7kNvwGs9-kh&_nc_oc=Adp71cdOB9sqKKDFdfhtpnjOc3ZuXwLrxSXHBybqmp5MuSkG-Zh7yDSiwGUdZs_mt3I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL3E5P5K0hdUvCWBhsYU4PZoF10by5VcKZrcADwhGJG4Q&oe=6ABE9847"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=924157503562656"
+      },
+      {
+        "id": "2352005445567769",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709900992_1025902900117984_2677438346500716272_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GtLnimEeJhYQ7kNvwEP1lmu&_nc_oc=AdoWoFotxP0iuIXRxIkEEXBJq4FmDzROluwYgXIXdjrW4qxVWrghSfI7w1Ovyxe5oRo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIjsHmnfvYnMwrsMVnZvniJhHzEp6EktRu1XLIitOjn7Q&oe=6ABE9809"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2352005445567769"
+      },
+      {
+        "id": "1432723408896558",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709900992_1025902900117984_2677438346500716272_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GtLnimEeJhYQ7kNvwEP1lmu&_nc_oc=AdoWoFotxP0iuIXRxIkEEXBJq4FmDzROluwYgXIXdjrW4qxVWrghSfI7w1Ovyxe5oRo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIjsHmnfvYnMwrsMVnZvniJhHzEp6EktRu1XLIitOjn7Q&oe=6ABE9809"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1432723408896558"
+      },
+      {
+        "id": "950806574615195",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778914800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699978114_1698185244653478_4154464240937452415_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1uqq7Eig1twQ7kNvwHzkD8e&_nc_oc=AdrYwvv-gWWByFqoZOHGaAvmvtgS2OwttPO-T8tFAsgjBcsTN812FuGeOrot2pChgPI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLV4402YoGircwkaWo_LRBHhlOPYCv18IllBgN5oWyfbw&oe=6ABEA204",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOil0RzA5DZcoMJAwYhcIx64Cmt-dmRb1HvmVU6OmQ3Emlj_la1im3go-jXQMmZFwsVLjZWYzQWhUU-HA3N_YiUhk0k98Wkvks81sz3QhejGw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=e78oT428nCAQ7kNvwEhh-eq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzI0ODE1NjA3MjkxMDgsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dbb21e108f664e6e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzRERDU1OENBOTE4MzA3NDZFMjI4MUMwOTQ0RDk5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNDk5QjdFN0Y2MDVCNEZDNUY2NTQwMjYzQkI2Mjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACao2JDVnsf4BRUCKAJDMywXQDKvXCj1wo8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpj_tIFwbBp_ba6clhC8Qc6mituWAiaF-YOBOqSYJGQw&oe=6ABEBB32"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701184020_1990763038196443_8335382285134956132_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_6zVi806vnAQ7kNvwFPI2-i&_nc_oc=AdoKP4SVt_bnbCfnPzdVev713Iasu4x4B9I3MphrwyQbkP8WUhCiSoF6rShYRVMFV_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIxXj1K1vFB1jFw6zDpsKdZRDfI-hpLGhzFpRTE5Wboyg&oe=6ABEA292",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMF_hE41LKa246K3cwtyvqDwc8kAFnC7yfe7j46F4vazDNMlaQunRhhP3RDhSCxSIEyVTqPvSE51QEX6z4h6S4qbeWnZqPsi0sxBLHszn_nFQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=007FHElpCHkQ7kNvwETm9sd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MjQxNDQ4MzkzMjkwNDksImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1703d14bda2a864f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTRFNDg0RjdGNTJBQjhCRDNDQTQ2REIxMjQ3Q0NCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg4NENGMUU1NTcyNkJFM0MyNkUxOTdCRTZFRTE2QjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaylOD784y1BRUCKAJDMywXQDK3ztkWhysYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQKg5xOuysrQZ--hymM4Z9C4aZ6n7BCVHETFZEyWh5nouw&oe=6ABE8A3E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700272424_1026910182993919_3306080224772338201_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tXzRfj6l5uIQ7kNvwFUcXa3&_nc_oc=AdpdMSanjHW2iL2-gr8jKUVCRWEvkkMMR2zjb5oHIgcw8kFmRHy8cz9VTVcQc9_FpGE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL1k51hEq_rLKf3vvbGL6e5r1-hvB2oKn1D6ccUu-cIsw&oe=6ABEB3E5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-ozScwWOsJocXWxAToiDrq9TV0JaNIW7E7zj1ZTa8fEfQ0u7DnPk2X3DDa9CuAC6IReF5i8pJnQJefmNPh58fXchpe0tq2xHJiImuvMcIiw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oTBFGro4X4oQ7kNvwF0-Mch&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNjQ0MzA5OTE2Nzc3MzMxLCJhc3NldF9hZ2VfZGF5cyI6MTM2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d76b07c8868b1c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjRCRTg0OUJCRDZCQUM3NUZDNjExOUEyNTUxMjZBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NEQyREUyNjRCMzY0MDFBNjEwMzEwQjlFNjUxOTkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm7evHt9_rBRUCKAJDMywXQDKNDlYEGJMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQKLBrSnDDlBZLTe6bxj8nFXGjE95JK7jvrNckMXDPqaGQ&oe=6ABE8CE8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=950806574615195"
+      },
+      {
+        "id": "1578419263761969",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699978114_1698185244653478_4154464240937452415_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1uqq7Eig1twQ7kNvwHzkD8e&_nc_oc=AdrYwvv-gWWByFqoZOHGaAvmvtgS2OwttPO-T8tFAsgjBcsTN812FuGeOrot2pChgPI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLV4402YoGircwkaWo_LRBHhlOPYCv18IllBgN5oWyfbw&oe=6ABEA204",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOil0RzA5DZcoMJAwYhcIx64Cmt-dmRb1HvmVU6OmQ3Emlj_la1im3go-jXQMmZFwsVLjZWYzQWhUU-HA3N_YiUhk0k98Wkvks81sz3QhejGw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=e78oT428nCAQ7kNvwEhh-eq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzI0ODE1NjA3MjkxMDgsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dbb21e108f664e6e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzRERDU1OENBOTE4MzA3NDZFMjI4MUMwOTQ0RDk5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNDk5QjdFN0Y2MDVCNEZDNUY2NTQwMjYzQkI2Mjg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACao2JDVnsf4BRUCKAJDMywXQDKvXCj1wo8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpj_tIFwbBp_ba6clhC8Qc6mituWAiaF-YOBOqSYJGQw&oe=6ABEBB32"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701184020_1990763038196443_8335382285134956132_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_6zVi806vnAQ7kNvwFPI2-i&_nc_oc=AdoKP4SVt_bnbCfnPzdVev713Iasu4x4B9I3MphrwyQbkP8WUhCiSoF6rShYRVMFV_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIxXj1K1vFB1jFw6zDpsKdZRDfI-hpLGhzFpRTE5Wboyg&oe=6ABEA292",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMF_hE41LKa246K3cwtyvqDwc8kAFnC7yfe7j46F4vazDNMlaQunRhhP3RDhSCxSIEyVTqPvSE51QEX6z4h6S4qbeWnZqPsi0sxBLHszn_nFQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=007FHElpCHkQ7kNvwETm9sd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MjQxNDQ4MzkzMjkwNDksImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1703d14bda2a864f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTRFNDg0RjdGNTJBQjhCRDNDQTQ2REIxMjQ3Q0NCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg4NENGMUU1NTcyNkJFM0MyNkUxOTdCRTZFRTE2QjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaylOD784y1BRUCKAJDMywXQDK3ztkWhysYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQKg5xOuysrQZ--hymM4Z9C4aZ6n7BCVHETFZEyWh5nouw&oe=6ABE8A3E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700272424_1026910182993919_3306080224772338201_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tXzRfj6l5uIQ7kNvwFUcXa3&_nc_oc=AdpdMSanjHW2iL2-gr8jKUVCRWEvkkMMR2zjb5oHIgcw8kFmRHy8cz9VTVcQc9_FpGE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL1k51hEq_rLKf3vvbGL6e5r1-hvB2oKn1D6ccUu-cIsw&oe=6ABEB3E5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-ozScwWOsJocXWxAToiDrq9TV0JaNIW7E7zj1ZTa8fEfQ0u7DnPk2X3DDa9CuAC6IReF5i8pJnQJefmNPh58fXchpe0tq2xHJiImuvMcIiw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oTBFGro4X4oQ7kNvwF0-Mch&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNjQ0MzA5OTE2Nzc3MzMxLCJhc3NldF9hZ2VfZGF5cyI6MTM2LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d76b07c8868b1c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjRCRTg0OUJCRDZCQUM3NUZDNjExOUEyNTUxMjZBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NEQyREUyNjRCMzY0MDFBNjEwMzEwQjlFNjUxOTkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm7evHt9_rBRUCKAJDMywXQDKNDlYEGJMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQKLBrSnDDlBZLTe6bxj8nFXGjE95JK7jvrNckMXDPqaGQ&oe=6ABE8CE8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1578419263761969"
+      },
+      {
+        "id": "975450932094076",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/landing/cyprus",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1775977200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/617603843_1567487497904353_5008939989482974594_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xHgpuYs6548Q7kNvwHuug7s&_nc_oc=AdpSkN16bWxktJ7ShZ5AcNP7Sym3N9Yc_5jlsfZ_6onmOzqDxZpuFdaYM-plCiWHuus&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLu5xbQNxWb9KmeoZS13TkKGkuT311MxazW_rzr1Pha_w&oe=6ABE963B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617669819_3152968574875762_3084958748142775320_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NNx9mAojqeUQ7kNvwG5ptOp&_nc_oc=AdqVxB4sZaTi19yu3g5oMOnh23BvqBP5A0pTI4oQacmWTQPn4O8ce2Au34DIinLtIvU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKdVsqzkKMR2InPOyPQ4XK6YANo3RMwFmd8mgslBD5Y-g&oe=6ABEACD7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/619223526_4297731787222870_6670833768505340842_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V1h6bqSggEAQ7kNvwGPKThg&_nc_oc=Adrv11PZI3VzKyvVjhfvww_PO89R0uWKDakB0X-pC6wny3GSqtU_sN069rVuVkfIq5c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQK12KyfBncAvxqkf5IDwmIHymIHzqE1W-8y_Ts9YagDGw&oe=6ABEB5F8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/617580638_925895540096811_7429023856961542997_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uYpa4C_aZbgQ7kNvwEnIRYS&_nc_oc=AdqEYshSIExG6CVXcuANpahUkIYkcLhQ1aaZslzA-5-LVdxtWuCBdcF7UjOde3RE8ck&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIcOxMhTatnzWW16GH4XU8eb8EFXIVXLFoBjFPsXZf6JA&oe=6ABE9F38",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617506217_1537978987261751_8960892964382346844_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WaPAOEmaaP4Q7kNvwG_bFDw&_nc_oc=Adq1AcKtSRpaD_lXCYd_0uhA6N3tA_rJP5siPS8J6Pv6KUL1bt0NxjotO5hCzrRXhvA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLMwSc87SJLXjRjaBirgtwWKy6ew5UHqwCCFoCtCVTn9Q&oe=6ABE9579",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618069227_1614863663003287_4562586861760872949_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fMPcSyct78kQ7kNvwHAOYcq&_nc_oc=AdpzTToDPBE4bGXv2i2lSVQ9hAID5U13t3WfOt3ruPASC-R4PAOtlqtJGwdTJk8cZTk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKE1E1DWlwH5o6MSU4N4lfFrz2Nk7eAG0RhtmjVzWIg5w&oe=6ABEBD9E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617567408_944972118209705_4223057376265866037_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dmxsDoNnvPcQ7kNvwFylQAl&_nc_oc=AdqK5L7qdgg1NPhd41nI-BQ0AKQjo-wLGFLncdrrTFYcWdA_XUtIkF1OZK9rxtBs3Y4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKN4fbL7XVoRRtjVnTz8dfhfJAVUN1xK2KNybP4gIsxFg&oe=6ABE999C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=975450932094076"
+      },
+      {
+        "id": "2049999525852001",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "חופשת קרוז עם הילדים",
+        "body": "חופשה חלומית? עם כל ההטבות? התשובה אחת. קרוז. 🛳️🤩\nכי אין עוד חופשה שבה אתם הולכים לישון מול הים ומתעוררים כל בוקר במקום אחר בעולם. 🌍\nכאן מחכים לכם מסעדות ברמה גבוהה, בריכות מפנקות, מופעים, ספא, ברים ואטרקציות בלי סוף. 😍\nובין לבין אתם פשוט נהנים מהים, מהרוגע, מהאווירה.\n\nזה הזמן לבחור חופשת פרימיום חמישה כוכבים על המים עם נופים שעוצרים נשימה.\nהקרוז שלכם מחכה לכם.",
+        "link_description": "",
+        "landing_url": "https://www.issta.co.il/cruise/cruise-family",
+        "cta_type": "GET_OFFER_VIEW",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1768723200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615444718_850100541363720_7427148307640120506_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2viSb4phmkkQ7kNvwG7bdM1&_nc_oc=AdrOZb24bBGAjVpKYYfhXoEp-_kHYAGgdpmqhrfennBSjBI63AhMb_H1t3vr8xfqv5k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIB0UlNif5HoFGk0xTnOUOumRJ9OXXnapIS8ewSTMSjrQ&oe=6ABEB913",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMsDgp88N13ASROmuj1Qo_RzsQ8WLGgpG124qFaBmEuspafWDDn_tJD_r1mQpFO2RpvUE_P3Ull00J_sIyPcDYiUcyTWgcYYzAB25b5aEnmYg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=sejifwDx7t0Q7kNvwGdzoLz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNDA5ODE5NjYzMzEzNjYsImFzc2V0X2FnZV9kYXlzIjoyOTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1cedc78343b36a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNTQ3OTNDNjA1OTdEOTBENUIzOTQ3NzA5NTBFMDdBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NEMyMDgwN0MzREI1RkYyOTAwN0QyRTU0NUY3NEEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM97roiseoCBUCKAJDMywXQEbzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJT803iW66Aw-9nERSPe3_Pfkuc-t-U58OjIiwB3OV3MQ&oe=6ABEAFC0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2049999525852001"
+      },
+      {
+        "id": "996059266708999",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "דברו איתנו היום",
+        "body": "כבר מרגישים את החופש באוויר? ✈️ חופשה זוגית חלומית בחו\"ל נמצאת במרחק כמה קליקים מכם! 🏝️🤩\n\nהכירו את דניאל, סוכנת ה-AI החכמה שלנו, שתתפור לכם את הטיול המושלם בדיוק לפי התקציב והטעם שלכם - ובאפס מאמץ.",
+        "link_description": "לחצו כאן >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784790000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671433458_1761651265243322_41953873776616827_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jOnqrNJ2gsgQ7kNvwG2TTgZ&_nc_oc=AdpP5dcbT_bpHvceRDZ9NVpIJts8sEqnx9xyeskAJlN3cRrG_BYhkjTJpPtuZKg4nfw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJIwQ1OxKtN52D7Fo_rDpmrjaefhfJynMP29-68C-i2dA&oe=6ABE8FBC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOCkAqVn30XYAKQpBUMrzWaD7fsjHy5aE9BFWq6Tto3LJDuVSYVqjUXEBGvk07xyt6s03P9K6VCI63wOuwo4sXmvKcYpQIksyYK58UPVwju7w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=6BrkuxdUlOYQ7kNvwFVrNPN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTQzMTA4Mzg3NDQxMTksImFzc2V0X2FnZV9kYXlzIjoyNzcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=36b338ec4c71e1c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTRCRjdEMDhBMzVCOEQxNzYzQURBRkNDRUExRUFBRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZGNEMzNDdBMDRGQzUzQUVGQTA0ODY5NzZDRjg3RUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu0P-jyYf6BBUCKAJDMywXQDXu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQJsEfY9zU1D1RdLgFrKsnvqbGIWafZ_vE9vkXH7q9EDqQ&oe=6ABE9563"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=996059266708999"
+      },
+      {
+        "id": "1248500727447429",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "נופש כשר למשפחות בקפריסין 🏖️",
+        "body": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.issta.co.il/landing/hotels/greek_village",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776322800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/673468128_1499685488169722_3968771296981547133_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TB_HX-GLk80Q7kNvwEoDOBv&_nc_oc=AdrgVNLsfBe8ONXl5f5RIKnldH1maWwh9f8_lj5wZZPTZiI3pD8-xz59peRX8lOAD9I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIEymH8pw0DkZta6_DF-9fS8aHzUTYrE7bDPELwzJnwnw&oe=6ABEB52B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1248500727447429"
+      },
+      {
+        "id": "1293695946018227",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "נופש כשר למשפחות בקפריסין 🏖️",
+        "body": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.issta.co.il/landing/hotels/greek_village",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776322800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671272923_813607431804987_1355388760460802710_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZNKElUo7gekQ7kNvwHv7qQb&_nc_oc=AdrGePY6U9NxD6YgTXwk2DZKRT-QxYzLwl7FJvkCPt7XJSFeQT3oQ71BRc75OPeGXpY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL00q6zpS0sudSxoAnAr03rjADKhfun7UTAjp5O14Tx_Q&oe=6ABEB999"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1293695946018227"
+      },
+      {
+        "id": "2087470765202548",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "🏖️ חופשה חלומית מחכה לך בלאורה ביץ' – פאפוס, קפריסין!​\n בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": "",
+        "landing_url": "https://www.issta.co.il/packages/details.aspx?hid=34433",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781593200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/493087898_1193772645624410_4902604237399761490_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pq7BF2wCwlYQ7kNvwHyKhgS&_nc_oc=AdoAEbj_utsVbknQ6bonPXC61TQd56aOTyWf6Xd4YVzt6T_6v-qDlIJRUjHO6xx1T-Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJ-Vvi9pQ9FPEToeO2yrCs5IKivkqaZVx1SvtacBAqqag&oe=6ABE9492",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNKQmBLhm-m261pPmunq4VIzj8475uMHW0gMehZG6pJpT_8X5sSb2l0404tNZgZfxg8G-gQIDszrniX-lP-yOUrqfARP0eGJKYr_bykNGrTkw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=YkMGLK3-aj8Q7kNvwHOBra0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzg5MTkyOTM1NTc0OTIsImFzc2V0X2FnZV9kYXlzIjo1MjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=750b19d20aed47f7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRGOTdFQUVEQ0Q2ODUyQUEzOUIwMjk2NEQzREQ4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLRGpUQjNuNW1TSndXUURBT3RGb0NlaVBGTS1idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo69Sq1YfzBBUCKAJDMywXQENmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQKcJgFAKRZ5UBhD-o3MBw7Mt2Y9vB6yhFOnrOCoXlhzIw&oe=6ABE9F50"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2087470765202548"
+      },
+      {
+        "id": "1891269522261240",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710481837_1006688102084814_5380712641000598570_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qzauU4O496EQ7kNvwEgAS1Y&_nc_oc=Adq7tuoOn6y3rwcIaXJrW7QMyMvFVn_qP5vliW_nHqLSCOluo-kYNaB0wKhgXe6tFuo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJP4Oh4fMfCIYm9LkDLxCYx-2Z0kRB3Na3ZGI6DyXT-9g&oe=6ABEAB1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1891269522261240"
+      },
+      {
+        "id": "27325076800465816",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710700679_902858459491136_2667319612545087951_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=stBUbDBGnqoQ7kNvwFRuH_4&_nc_oc=AdrRNJ1BkAdxmcqrN4IlOwWp0JkUMBoGJjdjAwKtGr4s2jdZsBdE1jgiT3DaluAWMFU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKmswzSk8qOG5WNOkTYmj4NfQcmb2xM8EotviS-gJ1SEQ&oe=6ABEA0F3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27325076800465816"
+      },
+      {
+        "id": "1068126705796254",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "אם אתם מחפשים חוויות נופש ייחודיות בחו\"ל - אנחנו כאן כדי לקחת אתכם למסע של חלומות עם הטיולים המאורגנים של איסתא! ✨\nמטיולי אוכל ותרבות בבטומי, דרך יפן ועד לאלבניה והחופים בתאילנד 🎡 \nזו בדיוק העונה לטוס ולטייל במקומות המרגשים ביותר בעולם!\nהצטרפו אלינו למסע בלתי נשכח בין אירועים תרבותיים, טעמים מופלאים ונופים מרהיבים. אנחנו כאן כדי לתפור את כל הפרטים הקטנים ולוודא שתקבלו חוויית נופש מותאמת אישית בלתי נשכחת 💚\nבחרו את היעד המושלם עבורכם, אנחנו נדאג לכל השאר 👇🏼",
+        "link_description": "רק איסתא ✈",
+        "landing_url": "https://www.issta.co.il/trips",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1787122800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778486044_4032816923689916_7547703683466259543_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o5WbwL4eT5QQ7kNvwGVA9jF&_nc_oc=AdpewKkcGEV_ceqiV-RUAyFe-bPnqO1ykXVwAVl44C_XTFDcaA3bx1Sa6UhrXJMrvbw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL9PbeUt3AS-g1H6DBm9Qz13S456TuWgUKM8zwYHNdjMw&oe=6ABE9DF1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778401401_2313712106128601_2303850694807795193_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u7A_szdsKGIQ7kNvwEnDSCr&_nc_oc=Adrof-ZmaCo7SccPRfl9CvBPCkbVEXZIBvh0qU2SxMPNvxCU3paaRpavYjCgEPenjoA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL6QfmfcuwAvCl4ZdPJDBJx4kFSP95JXvZt7FJcwbwmlA&oe=6ABEA0DF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777855288_2279368189503664_4338107292415023777_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ObuFaUwWVcEQ7kNvwEeyYAu&_nc_oc=AdpP1QkxTx0PKVOXMInSCJtHLAbs0tBjwFSBDhG_8ByD1UkFHQgbwyVIxl6yAJdf4wE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKpM37PSvPN69S5h7LAewhraq6PH1wLmRPIGRKZwfQrqA&oe=6ABE99BB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778258757_1067310029282514_2519024433425874825_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PlpoABQFxbcQ7kNvwHIuOiC&_nc_oc=Adrv8uD02hb8ERP6mQuCNg_gyKo5j0KrH5ndVddKBPvCTMFjs3O4GLqhnEUgUKJh_is&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJdiyKz68tsaV1cfv-EjGfgk-xJNlFVO8L5gEzPQ0mERA&oe=6ABEBCD6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/777868128_1726316255149867_5534418701619266750_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ax1p55Smxk0Q7kNvwGoanqK&_nc_oc=Adr5XoWi7W9yhGfJorK9cUQDXdFGBTDvz4bi54Yn1a2G0Vzt672RNXshPrffTvZ8f5o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJiPNwZ7BiwMkuiC0JmWIQ2ZguhZhKkybwk6jLFdDIV_w&oe=6ABEA3B5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777828459_1056938057060160_2427084602001815509_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=je97K0fJFTIQ7kNvwGXee89&_nc_oc=AdrjXphf2yZa7tescPANcg9tbytXr6MDGnoUiWT59qCfPI4-6KBTY8JwkaKdLBhFqtU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQISDg_kir0ziNwPXOgS9_TkkgvkrCJao__ctU7eGuRSIQ&oe=6ABE967D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780607136_1204972978497468_578119179277440146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s1FVaGnjqqoQ7kNvwF5ycRv&_nc_oc=Adp-iq8sj3Uu5JKXib1uQOP33_nlF-6LOV3MODcV-3TDnTvOaUwcwad-dN-zN1q4vcA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQK8wgLv3zjdavYC9vKO_z5Cf-gvFjI9gT22o0bjj6jrRQ&oe=6ABE9078"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1068126705796254"
+      },
+      {
+        "id": "1449944816905688",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710586627_1790234041690661_7351804867764242237_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_kK5U6A5V4oQ7kNvwEFKs0f&_nc_oc=AdpJk6Z5RWV4fuONGHJNn4Y6s0dh1oQ9gEV6jObZKra0v6-62P-yVbJxLyjDOw_0l1Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJZX4QtcettMvq8dLIrn9tvL5gSpPCUfJ_plTiDoJ-bpw&oe=6ABEB986"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1449944816905688"
+      },
+      {
+        "id": "2174766023298679",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "נופש כשר למשפחות בקפריסין 🏖️",
+        "body": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "link_description": "הזמינו עכשיו",
+        "landing_url": "https://www.issta.co.il/landing/hotels/greek_village",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776322800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/671212928_1699485278075293_1396751574379873122_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QZBcYXhPahYQ7kNvwH1XK-U&_nc_oc=AdpIAkq2Rsud8pBqUMztpI6JdlDXxmnkSqQVKeIphX3opNAgyOX6renKaoNXSeEga2U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJxBt5CYJfesl1u79Hl-grVsUfAgQYYVP5DAIV4OWHsLA&oe=6ABEB764"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2174766023298679"
+      },
+      {
+        "id": "1360486872192146",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\n📞 חייגו עכשיו: 03-7777068\n➡️ בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/landing/cyprus",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1785826800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764807345_1984198632233393_6365885356823852969_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qc46ETJs_eYQ7kNvwErG0DG&_nc_oc=Adr7GKaAgxQOPALlM8SQdsAZfkhj8ib7t-1CM4c6KnG8fU-bYpk1vffjLAlhkSMc4m4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJ6AUQk7HSNs8JjyheBRETSZUBAQiwUMU18pWhrqmcdHg&oe=6ABE8E34",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762950118_1607196147744535_8157703145419589749_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9IlQcT48ZegQ7kNvwEc-1Yy&_nc_oc=Ado9aUuwsW_EI4xd0zZbF5yJXPZouKsvzPqH9WfRWHHab3HD16JynMYuGiNYfq2ziO0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQL5NFEN0NqLAaUAnaVXHYt6O8sfHADM723HeS4XYP5Aqg&oe=6ABEAEBE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762574452_1443752790926748_1917983301862701542_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UJe77vCsBE0Q7kNvwHyKMLC&_nc_oc=Ado4Y6gwkGhX5esD2rhvAy8I6EUCJbLnRCkJjEzzThIIeEyc_HZnr_92RAT_W1k5oOg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIRvwKFkzNIsH4ao7Qb7ze9KYIMPAVcgwzD4mWSmXARgg&oe=6ABE8DAE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762909544_3310540059149745_3736068850052728305_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ag9KkNqnoUoQ7kNvwENFPsV&_nc_oc=Adq78H4szdYtsj2RyKFm4cuocNgNKvWDpoj504bW_ufOKgxU8WaQcSBENNzQiPe4sMc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKlRyqAl6JkOAL5Vu94L5G_X73swpIEAorl-zRMD1TLPA&oe=6ABEAAD5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/765898192_2286805168523008_4595810925038409296_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jXqhvheUBuoQ7kNvwH-sbSC&_nc_oc=Adq_iVtIT2YVNW6L-1abzt-7OtRrhWwFHQRMAt0MDjnU464N7n2ZDLcIZ-esjpsSwxA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLXh9arqPV2p_tbAStbV-bhKBZPtQMTgl6R0b_2FOcVdw&oe=6ABEA275",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764714975_2525704181279436_4325353131416083806_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hP0hemuOvJUQ7kNvwEpNOmU&_nc_oc=AdoaqoRZgoy-v7u9776n-OtBYNxANUQgrav5KJWic-GCEJ3OV8XEA1klFTSEuwhF-cs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKGJxPa9uFsxRRz0RfxmA2GalwGELdoZvXjjcpXUhhT_w&oe=6ABE985D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764774461_4403941606488417_3592576873670286880_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mCxvx9cm-HwQ7kNvwHNF7iw&_nc_oc=AdrIlW2rHNmQirBgRsopXVhMG0_Z-Wxit91yhs8v_G_ze4Fc0mg_l1MU8kWCzSG6FEw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLq3ndTxB4esCLET5FBqrxqsE6hBAHNCj8jZUCKnwd-Vg&oe=6ABE9853"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1360486872192146"
+      },
+      {
+        "id": "1627401468541877",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703720363_1682163793125308_8862389890849616008_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HKnfaM9CrdoQ7kNvwHXG1eL&_nc_oc=Adq3NvGaRcc_vbnLJUJXmqZuoTWiSPdIw4XfszTRH7HkRyhL86-aR8h-Zfnf_OgkrIM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQI6u0y7wN-BL6uc2GkryAznuBUU7F0XXc2ck5HvA39XHA&oe=6ABE9D68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703988420_1709428070506816_4860438713312134421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2tM_uVo--nkQ7kNvwESut4N&_nc_oc=Ado4GFsi4olxMCnidY7Cu7kp0-yuh4G0mN0j3uv6UyKvCJkOs22FdGDKFoCc4ztF6rE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLqrF_syG01ZEyJO-L85I9Yo2eoQdfvWQ6vhoJRabvvNw&oe=6ABEB714",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703988420_1709428070506816_4860438713312134421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2tM_uVo--nkQ7kNvwESut4N&_nc_oc=Ado4GFsi4olxMCnidY7Cu7kp0-yuh4G0mN0j3uv6UyKvCJkOs22FdGDKFoCc4ztF6rE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLqrF_syG01ZEyJO-L85I9Yo2eoQdfvWQ6vhoJRabvvNw&oe=6ABEB714"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1627401468541877"
+      },
+      {
+        "id": "981054714570850",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מחפשים מלון בחו\"ל? איסתא שמחה להזמין אתכם לחפש מלונות בחו\"ל במערכת השוואת מחירי בתי מלון בחו\"ל עם למעלה מ-250,000 מלונות בעולם. הזמינו עוד היום ממגוון בתי המלון בחו\"",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713564499_990333593787303_1793945808849409595_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y6moO68K-30Q7kNvwGhp2rJ&_nc_oc=Adrcuk8N3VS1gS9Bu6ptInO9KWFXdbOwyLOmsPwH_CAP9O2DGUTEh_y4T9yjlk96Heg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLVfj2NfwfBWaBInEKsYtV-nrW0DVLPDlQVYg3qB7lHVQ&oe=6ABEA358"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=981054714570850"
+      },
+      {
+        "id": "1428506812086369",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\n📞 חייגו עכשיו: 03-7777068\n➡️ בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/landing/cyprus",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1775631600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/493239465_2145257989285191_7217552864664960833_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KQ1vCgG-TzQQ7kNvwEXfcM1&_nc_oc=AdoIeL9hSwi5-nt9gwpTP7JRim7yS2HFSXqn4eh0ZXlQuEGLrQEhUmtwbtez8zoDsvg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKgIqtIaW7otAuM2PP4rRVfl0gFC42MPAScDSqq-I3fVw&oe=6ABEA8E8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492140096_1201925341279797_7937653698938440997_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8HYaUr0L5fcQ7kNvwEpAsIG&_nc_oc=AdrwcLzJrn68t0D7J6lhywaPhi5OfSR0RS-S7hP17YevZD7b4NXB_aQSTH4QGPfFm8g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLbkGO8YrecxneLeZ85izhg7TJLkm9n2Xf2FN690KH45g&oe=6ABEB7B6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492525842_1705999816941225_5966471420225779485_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IsuyGYIyQIYQ7kNvwG2RqvT&_nc_oc=Adow8YzlUdgzMav6HP7ZVYSfyK56-cjBRvPIjCjRMGsYZKH0EA6yScQ7Lv01LgN_Yz0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJYC4uVxmyhY5LISbMEDqUM4LdNIftYuh7P7z1plFu1fQ&oe=6ABE9687",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/493080819_2462175124119321_5633559847422294636_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f17OuqcABR4Q7kNvwFsfLuJ&_nc_oc=AdrQe5au-YD3YS1fA5rLPCW0BFsgK5rYdm-hE1EvsokL4n_fRV0tU8njbj6BYy_My-k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJef0AKSgSYDF_9afGbVNZBvqOcpwsJjdyfacCU6BK8zQ&oe=6ABEA63C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492955719_1195769165295132_5084021963012869671_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DetlEMW-ndMQ7kNvwH8ivn0&_nc_oc=Adq7TE-f-nGrNZ4G9_e6jN5UZKx-NdbgGBRtrttmL4VexRZ7_-fplQQ4CM0Hv9YcRQU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKEx7eh_3B17aN3SJd2a6Fi-2yOUPvE7q4ZXqHJ1fHXOQ&oe=6ABEB97C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492192600_2038305049972325_4474035425869478086_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vQVEyHOMEtUQ7kNvwGG915N&_nc_oc=AdoiLXZIKq0Litvu6UpbF778gdM_0tBKRJs8YENZL2nCJHGQ7NXUJY2fZLWyO43n0FE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLszV3qooSCe8idW5s6azEX4eD4kOmytr443xUR-iUgNQ&oe=6ABEAEE5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492190950_1201702151500578_8691015294304131782_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VpE9e_q5HVEQ7kNvwGKwryW&_nc_oc=Adprkq6BOygxleCP15V80x9wCeLCiKL5SqCSVtY2l0IrneW9EkQhcT-1ufr-nlp1azw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJpaVGWFxNIaao_PAVrwY-3_MJv6bn8oqFUqtu6y78jyQ&oe=6ABE9BA3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1428506812086369"
+      },
+      {
+        "id": "1648677679662433",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\n📞 חייגו עכשיו: 03-7777068\n➡️ בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "link_description": " ",
+        "landing_url": "https://www.issta.co.il/landing/cyprus",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1775631600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495012914_1730022994602700_1481705118270359492_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F91T-Vql1E8Q7kNvwGuUz_g&_nc_oc=Ado-iuYeDjvFNKzkYRUYRMaQseZsaHhjf1r64DBxyxFMTVVTikmZRE15SE1HU2IV8W8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJyq4NKwGZazhuX_nRR3P_uvW8M0Gk-W_UmlM3UEnkXBQ&oe=6ABE8ACA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495655747_24271716835762621_2881147699195987199_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EbBVYzPNKI4Q7kNvwGzTNoA&_nc_oc=Adp25x7y75njq-hmuzaxWUGDkBe1Bpg3hPbgsje2E9tRymKumrWaS6NOwCqsS3t0Iuc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKxc16vyJAMhsisDUEhPaYgR-ZT1FdHwLp-hODTqbc5Bw&oe=6ABE8821",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/494658312_1187641995952248_7248055047018229052_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q_aA1KRK938Q7kNvwFODWva&_nc_oc=AdqmKELrAGDfvseOlrGKG4OOs1IvujF2uccdo-MScti6jYrVi4Pz0zjsq6L_J0R2ZFE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIfpetIdT8AViL3buqBEV-Cbjgam9a002K1bPDA7HO5_g&oe=6ABE9E37",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495392437_1188408855864057_1498240986689360000_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gjMiohojiSIQ7kNvwEt3q2m&_nc_oc=Adq2YbdnDpwEQNe0DZuEq9l9CRc8YLb5oaF1o7_2WWv7pFm9LbyqodzD7UhCXUkDjrw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJsi5C8VviMWMpFH3FkTffTICptk8WgTuTKhyFF4redlQ&oe=6ABE9283",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495019089_627460227008887_6919667748667148019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UibiG9zAcD0Q7kNvwHjELua&_nc_oc=AdqDbMBxE4hHIgjJG-y13cwkzet8O5oWeMwvVOaQDFEEHR-HN0UQm1hIFmgWemYVJnc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQICuBH0EWUnF8bL7M6S3Wb4Hb8S3yKQS-eekGGd_YqcYQ&oe=6ABEA671",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495460246_1001548098834213_5386215348715386953_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=weFeezMFlA8Q7kNvwFL57Yt&_nc_oc=AdpRdmpdREWRPsCNKfqh3KwOXZvvklmaPNT01diJxaQqfb7UQ1aR7qQPF7-uOoimI_4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIZfg7E2Xv_npgq6BxGDfUadQPt1cEWCrhtN00KkIzWIg&oe=6ABE9C97",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/495142846_578588874708697_5759579684304552931_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t0U9zKxqNXAQ7kNvwFT-4nj&_nc_oc=AdqD01yAYteqnkEstQGwELpSByiK5_V2rjIPoei0R7zHTiINgQxxzyoLb9rTSuMsez4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKcB9asuIsX-0M1DworKA_oIPacIWi8OdDJBKZ-NI3eVg&oe=6ABEB597"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1648677679662433"
+      },
+      {
+        "id": "994129346694091",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "איסתא",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מזמינים רק באיסתא",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712744912_2446346019112082_2167663267270181467_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uWa1Cg81rhEQ7kNvwE3cr-O&_nc_oc=AdrJZKUUKT5vaL6r6PDTAOpnqj8LIiPlbFfLoRzg2N8jZ-B4I1pmwVMFcY-lnbr7Eww&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKz9Fa5w_4QsAqlZmqjWmGnd4SLcc4vDK7NCY-R45brPg&oe=6ABEA002",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710059252_1033207639282095_1486962460276817589_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vgWekRZX-ecQ7kNvwFXnR0W&_nc_oc=AdrFe94AkMHCydz6OMhNJ4vfhgbrSvTN07bOyVG6HeYAN7v4VnFyQK1bz5EahWncdiE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLaVinJi7lhsGZ9J375FkdnZHRNYRFaTyzTkfpk7fmhag&oe=6ABE8795",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710288438_1226585612745256_3139050923106642444_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_pA16d9WKbwQ7kNvwELEk_k&_nc_oc=Adog_VA-dUjtqezakdtDXGUf9gvue6_aM5OGhxcQxk3-yI69Yj815Zrk0wuPXusrbEI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLe-miruiqfCAkOnStsxLXjU3PHp15qoKWmb_VFk6ofiQ&oe=6ABEA2EC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711680098_1511969590663213_1466472184709985760_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AVrG2brumqAQ7kNvwFvVsj5&_nc_oc=AdpPuR2BUGLrdQ2-9eBzZfWqkszDqe6SpeqF0VkcPnaEriojaC98Z0H57vtVuV4nZQc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLPBifFnjJfDCGzOQKZncNB0Off0Lzejp-zOuPLdpvYxQ&oe=6ABE9E06",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714599149_2212536942837284_5920531258818541845_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sb7rLkt2rcAQ7kNvwG6hvrU&_nc_oc=Adq3TiC1l5BBJx8sCyrWlEbsV0h_qHu2TO0yDZwVpHdMGLD1tpgA_7wJLWcEbaT2vZM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQKGrArk5Wyb5WTcSOrKVGQqLjaP36vxKrpk212sIwKCNw&oe=6ABEA93A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710192793_1677517796829270_4163596424290721076_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U4_Gn8tWaN0Q7kNvwF9RmYU&_nc_oc=AdqROdjIgwsOwG1Z4709Z-2d5WdbqOfmSm7uRu0WZ85zeG4XSyR11OabmvFTg4rSs9k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJdwIr7gP3aH_KCJn_aSXS3-xJJjMI6vxdzYC08lwZtQQ&oe=6ABEA00E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710603050_1456577506156167_6681350650810897747_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bU-PP4YSkdgQ7kNvwEAI1r5&_nc_oc=AdqYvav3ojWfosgAm_i7J8_Kihwa5y8jsrJwWMy8lTIoqgiKXpN1GGU_Rtjj5oemfiY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQLfsqShDvGtwpsW7Whdq7hId7DgHX3rTTZ4x-W6zWs01g&oe=6ABEB19C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710447454_1021088363939077_1474020477281911146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4aVNu9jLxvcQ7kNvwGnzPCz&_nc_oc=AdpqCjb3GuLD0hTD29CswqXj5lLevuFHQd12yONtaNNJYgZMtDlaA14RsPjnHRXuRFs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJY6GcXzTi2d1XlGaMeVYpMUUI_Uhe5zBDJyj-FcFUR3A&oe=6ABEAEB9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/712904170_1009286648212479_1416974558572496836_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qrQospsBVgUQ7kNvwGalvxo&_nc_oc=AdoBVNXxKsJYvtttcI3e6kkuccVdWzBoqjP_zOlbLOVP99vdQuIdK3Yirwa1Z-a2Bys&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIAYlk4GVsOB2BnqvSPtjcFWFVzCq75HcfxbPwYS66yvQ&oe=6ABE8C1E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709588481_1030559796067837_727134253876390013_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KhtGAWzPbWcQ7kNvwFLtGmP&_nc_oc=AdqKayhOaV-O1afRCSbY6CbHEGCryO8xPj0LPSmktnDHikc0ih2V88yfeiRou7eEybY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQI4yZu9CYx1knAkt_5pm2MPM6uWaes14iCQZXPBMox7kA&oe=6ABEB2F3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=994129346694091"
+      },
+      {
+        "id": "984032310992104",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/704732126_1427358026086320_568644429117686106_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1jZHeyGOXRwQ7kNvwGppPug&_nc_oc=AdpSM2raL3B14Sy1Msi-U8lD5PfwCzvPTPp_uvUWLjbjHUn44AOTp0Fvcv5dkF8nW1c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQIDUgJd393RZWLmHZAiSZ7O4mP7OHbfJkY1A4gBmJ3sjg&oe=6ABE8E5F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/704386938_1380138830827308_8835771114551367035_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p_TK3tPVxHEQ7kNvwH32vfX&_nc_oc=AdrRpEmYSPiRuKnjrUalOHgdaI1JHaZegdx7r3VcF1FZ6vmyo_G2wPvgz_pDmGz-Vl0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJHCvyYR-VMXGp7tCwZ7e-GriNKb_oE_iiyQfw0_jur3Q&oe=6ABEADE8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/704386938_1380138830827308_8835771114551367035_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p_TK3tPVxHEQ7kNvwH32vfX&_nc_oc=AdrRpEmYSPiRuKnjrUalOHgdaI1JHaZegdx7r3VcF1FZ6vmyo_G2wPvgz_pDmGz-Vl0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJHCvyYR-VMXGp7tCwZ7e-GriNKb_oE_iiyQfw0_jur3Q&oe=6ABEADE8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=984032310992104"
+      },
+      {
+        "id": "864595435959802",
+        "page_id": "237246570717",
+        "page_name": "איסתא",
+        "page_url": "https://www.facebook.com/issta/",
+        "page_like_count": 181669,
+        "page_categories": [
+          "Travel Company"
+        ],
+        "ad_creative_link_title": "הזמינו עכשיו",
+        "body": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "link_description": "מגוון רחב של יעדים באתר איסתא",
+        "landing_url": "https://www.issta.co.il/hotels",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1778914800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/702043446_1482251353639010_4929289456326928317_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TxtYrbDuFI8Q7kNvwF343fQ&_nc_oc=AdobWER4AiPHcguVvfI-5GNKLixii8Vz5iX0vLwN4rz-n-gCy656-CtJghXGHYZzGsE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&oh=00_AQJ5YnCl_cca-_BfmdeVlbae5AvqQbXWyHfgiXnMLSTX9w&oe=6ABEA0EF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMc3uryLusXhKNMfqTdFtbDTvj1cggV5VIU6PWoBUn7RH2Y6PuamP7AJ0ChTXDitiuHNm3ulmLp9u--VZV3gzKdeoSUixV8X7OapdD8Gd95Gg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=dXvX6YnaihoQ7kNvwG1GQgD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MDMwNzcyMDAzNjUxNjQsImFzc2V0X2FnZV9kYXlzIjoxMzYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ec001f95158d49f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNzRGMzY0ODhCQkI2RERCM0EzRTdDNDE0MTg5M0E4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk0NDY0MTUxQ0YzNDJGRTI1NzlFQjREMTEyNTlGQUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYmZCI1rXhBhUCKAJDMywXQDKvXCj1wo8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=M4_vZzMoamdKBDmJQPdbkA&_nc_ss=70289&_nc_zt=28&oh=00_AQLocGQyNiYILTf4e6IBqKzRA1zFlrJzHbj_7GC61t1few&oe=6ABEB481"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=864595435959802"
+      },
+      {
+        "id": "996059266708999",
+        "body": "כבר מרגישים את החופש באוויר? ✈️ חופשה זוגית חלומית בחו\"ל נמצאת במרחק כמה קליקים מכם! 🏝️🤩\n\nהכירו את דניאל, סוכנת ה-AI החכמה שלנו, שתתפור לכם את הטיול המושלם בדיוק לפי התקציב והטעם שלכם - ובאפס מאמץ.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "967947459241721",
+        "text": "חופשה כשרה בחו\"ל? רק עם איסתא! 💙🕎 אספנו לכם את המלונות הכי שווים בפאפוס, גיאורגיה ופראג לחופשה ללא פשרות:\n\n✨ אוכל כשר ואיכותי (ללא צורך במזוודת אוכל!) ✨ בתי כנסת ומקוואות בחלק מהמלונות ✨ ריזורטים למשפחות עם בריכות וחוף ים ✨ מלונות ספא יוקרתיים לזוגות\n\nהחבילות אוזלות מהר, אל תחכו לרגע האחרון! דברו עם דניאל עוד היום>>",
+        "links": [
+          "https://www.issta.co.il/nofesh-kasher"
+        ]
+      },
+      {
+        "ad_id": "997147769469178",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "1236884975251938",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.issta.co.il/landing/hotels/wellclub"
+        ]
+      },
+      {
+        "ad_id": "1495931162285998",
+        "text": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "849634848190972",
+        "text": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "941118511736433",
+        "text": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\n📞 חייגו עכשיו: 03-7777068\n➡️ בהתחייבות למחיר הטוב ביותר!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "links": [
+          "https://www.issta.co.il/landing/cyprus"
+        ]
+      },
+      {
+        "ad_id": "924157503562656",
+        "text": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "links": [
+          "https://www.issta.co.il/landing/hotels/greek_village"
+        ]
+      },
+      {
+        "ad_id": "2352005445567769",
+        "text": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "1432723408896558",
+        "text": "טסים בקרוב? ✈️ קבלו את הדרך להזמין מלון בחו״ל - Bookit באיסתא!\nיותר מלונות 🏢 | יותר הנחות 💸 | יותר פתרונות לשומרי כשרות 🍽️\nהמחירים הכי שווים מחכים לכם עכשיו באתר.\nהקליקו והזמינו את החופשה שלכם בקליק 👇",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "950806574615195",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "1578419263761969",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.issta.co.il/hotels"
+        ]
+      },
+      {
+        "ad_id": "975450932094076",
+        "text": "קפריסין - עולם שלם באי אחד!\n🌴 חול זהוב, 🌊 מים תכולים ותחושת חופש שאי אפשר להסביר במילים. רק שעה טיסה - ואתם בנופש חלומי שכולו רוגע, חוויות ופינוקים!\n\n💡 למה קפריסין?\n\n🛎️ מלונות מפוארים ושירות ברמה גבוהה\n🍹 חופשות הכל כלול שמפנקות אתכם עד הפרט האחרון\n🎢 אטרקציות מדהימות, פארקי מים וחופים עוצרי נשימה\nבואו לגלות איך אי קטן יכול להיות עולם שלם של הנאה!\nקפריסין מחכה לכם. כל מה שנשאר זה ללחוץ ולהתחיל לארוז.",
+        "links": [
+          "https://www.issta.co.il/landing/cyprus"
+        ]
+      },
+      {
+        "ad_id": "2049999525852001",
+        "text": "חופשה חלומית? עם כל ההטבות? התשובה אחת. קרוז. 🛳️🤩\nכי אין עוד חופשה שבה אתם הולכים לישון מול הים ומתעוררים כל בוקר במקום אחר בעולם. 🌍\nכאן מחכים לכם מסעדות ברמה גבוהה, בריכות מפנקות, מופעים, ספא, ברים ואטרקציות בלי סוף. 😍\nובין לבין אתם פשוט נהנים מהים, מהרוגע, מהאווירה.\n\nזה הזמן לבחור חופשת פרימיום חמישה כוכבים על המים עם נופים שעוצרים נשימה.\nהקרוז שלכם מחכה לכם.",
+        "links": [
+          "https://www.issta.co.il/cruise/cruise-family"
+        ]
+      },
+      {
+        "ad_id": "996059266708999",
+        "text": "כבר מרגישים את החופש באוויר? ✈️ חופשה זוגית חלומית בחו\"ל נמצאת במרחק כמה קליקים מכם! 🏝️🤩\n\nהכירו את דניאל, סוכנת ה-AI החכמה שלנו, שתתפור לכם את הטיול המושלם בדיוק לפי התקציב והטעם שלכם - ובאפס מאמץ.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1248500727447429",
+        "text": "השנה לא סוחבים קופסאות שימורים לחו״ל! 🧳❌\nמצאנו את הפתרון המושלם למשפחות שרוצות חופשה אמיתית בלי להתפשר על הכשרות.\n\nאיסתא מציגה את כפר הנופש היווני בלאצ'י:\n✨ תפריט כשר ברמה הגבוהה ביותר (תשאירו מקום בבטן!)\n✨ גישה ישירה לחוף פרטי וספא מפנק להורים\n✨ כל מה שצריך לחופשה משפחתית – במרחק טיסה קצרצרה\n\nהדילים למלונות של הקיץ כבר מתחילים להיתפס... ⏳\nלמה אתם מחכים? לחצו כאן והזמינו עוד היום >>",
+        "links": [
+          "https://www.issta.co.il/landing/hotels/greek_village"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.issta.co.il/nofesh-kasher",
+      "https://www.issta.co.il/hotels",
+      "https://www.issta.co.il/landing/hotels/wellclub",
+      "https://www.issta.co.il/landing/cyprus"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:07:54",
+    "filtered": "2026-09-27T08:08:59",
+    "unqualified": "2026-09-27T08:11:10"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://issta.co.il/",
+      "https://www.issta.co.il/nofesh-kasher",
+      "https://www.issta.co.il/hotels"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

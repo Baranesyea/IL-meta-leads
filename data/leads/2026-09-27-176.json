@@ -1,0 +1,860 @@
+{
+  "lead_id": "2026-09-27-176",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/mercaz.hageves/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972507154169",
+      "source": "https://www.facebook.com/ads/library/?id=1463978912005110",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "1584083868269911",
+    "page_name": "מרכז הגבס אור יהודה",
+    "active_ads_count": 18,
+    "search_keyword": "לפרטים בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1463978912005110",
+        "link_title": "מרכז הגבס אור יהודה",
+        "body": "תקרות מינרליות STAR – איכות גבוהה. מחיר ללא תחרות.\nמהיבואן לצרכן וללא פערי תיווך 💫\n\nקבלנים, בעלי מקצוע ומנהלי פרויקטים –\nאם אתם מחפשים תקרה מינרלית איכותית במחיר יוצא דופן, זה הרגע לעצור.\n\nמותג STAR הבלעדי של מרכז הגבס מספק פתרון אקוסטי ועיצובי \nאבל מה שבאמת מפתיע את הלקוחות שלנו הוא המחיר המעולה \n\nתקרות מינרליות בהתאמה מושלמת לכל פרויקט: משרדים, קליניקות, בתי ספר, אולמות אירועים וחללים מסחריים.\n\nדגמים מובילים לבחירה מדויקת לפי צורך:\n\n👈 תקרה מינרלית SIRIUS – ספיגת רעש גבוהה במיוחד, מונח (סיכות), מידות 60×60 / 61×61 / 61×122\n\n👈 תקרה מינרלית VENUS – מראה מודרני ואוורירי, מונח (חולית), 61×61\n\n👈 תקרה מינרלית NEPTUNE - מונח עם חורים, שילוב אקוסטיקה ונראות טכנית מדויקת, 61×61\n\n👈 תקרה מינרלית HOLE BLACK - תקרה שחורה ייחודית, מושלמת לאולפנים, חדרי אודיו ועיצוב תעשייתי\n\n✔ פתרון אקוסטי מקצועי\n✔ התאמה מלאה לכל סוג חלל\n✔ מלאי זמין לאספקה מיידית\n✔ והכי חשוב — מחיר שמייצר לכם רווח בפרויקט\n\nהשאירו פרטים בוואטסאפ עכשיו וקבלו מחיר משתלם במיוחד לפרויקט שלכם 💪",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641522866_2144893426277827_8125599527924805136_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n-SFG-XDbr8Q7kNvwF9R2Ta&_nc_oc=Adrt_xvKF38oOzRKrl09HBhoKUYs9vjlvV_6J4XYtKe0VWfGLG_CTjECM3mG90wGm8M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQJxx7foeQrekfnvufjdYNIuoQ7-TdbTbhq86hjQq96XZA&oe=6ABEBD3C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640181034_886699241012341_6862880126933114714_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z6FI9pUzj8oQ7kNvwGfX32D&_nc_oc=AdqY0XZ6py1Dp11ExJoCvRkE5NEUSeHbSYidfHycoKaS975ka7g38ilowogTIlqMU_o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQL3PJYr0x03EvOk3zKcwIiLOFzfsLGzFp809Ot3ozNNBg&oe=6ABEAA55",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641255167_1458051982609870_2199149907778760976_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hTMcCo6qKNIQ7kNvwFAf3bR&_nc_oc=AdqcgByozoVTtMv9mFbA1lKGe3NMc_ukRAtknPJSqWclwi85jnQ-2qjxUyKJ-fHBzv8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQLCupmViBEbKP8H5bPUbuPtNLOfUlYk6i4adiq9_Lxzcw&oe=6ABE91E5"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1771747200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1463978912005110"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "משרד"
+      ],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 18,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 10909,
+      "product_score": -1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1463978912005110"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 10909,
+    "page_categories": [
+      "Home & Garden"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1463978912005110",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "תקרות מינרליות STAR – איכות גבוהה. מחיר ללא תחרות.\nמהיבואן לצרכן וללא פערי תיווך 💫\n\nקבלנים, בעלי מקצוע ומנהלי פרויקטים –\nאם אתם מחפשים תקרה מינרלית איכותית במחיר יוצא דופן, זה הרגע לעצור.\n\nמותג STAR הבלעדי של מרכז הגבס מספק פתרון אקוסטי ועיצובי \nאבל מה שבאמת מפתיע את הלקוחות שלנו הוא המחיר המעולה \n\nתקרות מינרליות בהתאמה מושלמת לכל פרויקט: משרדים, קליניקות, בתי ספר, אולמות אירועים וחללים מסחריים.\n\nדגמים מובילים לבחירה מדויקת לפי צורך:\n\n👈 תקרה מינרלית SIRIUS – ספיגת רעש גבוהה במיוחד, מונח (סיכות), מידות 60×60 / 61×61 / 61×122\n\n👈 תקרה מינרלית VENUS – מראה מודרני ואוורירי, מונח (חולית), 61×61\n\n👈 תקרה מינרלית NEPTUNE - מונח עם חורים, שילוב אקוסטיקה ונראות טכנית מדויקת, 61×61\n\n👈 תקרה מינרלית HOLE BLACK - תקרה שחורה ייחודית, מושלמת לאולפנים, חדרי אודיו ועיצוב תעשייתי\n\n✔ פתרון אקוסטי מקצועי\n✔ התאמה מלאה לכל סוג חלל\n✔ מלאי זמין לאספקה מיידית\n✔ והכי חשוב — מחיר שמייצר לכם רווח בפרויקט\n\nהשאירו פרטים בוואטסאפ עכשיו וקבלו מחיר משתלם במיוחד לפרויקט שלכם 💪",
+        "link_description": "ברכישת קרטון",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1771747200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641522866_2144893426277827_8125599527924805136_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n-SFG-XDbr8Q7kNvwF9R2Ta&_nc_oc=Adrt_xvKF38oOzRKrl09HBhoKUYs9vjlvV_6J4XYtKe0VWfGLG_CTjECM3mG90wGm8M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJEkZdry6etGTydzUEMxH89VP0O0jqYLkRo9kSzxrUA_Q&oe=6ABEBD3C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640181034_886699241012341_6862880126933114714_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z6FI9pUzj8oQ7kNvwGfX32D&_nc_oc=AdqY0XZ6py1Dp11ExJoCvRkE5NEUSeHbSYidfHycoKaS975ka7g38ilowogTIlqMU_o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKR7nl_H_Q5BAum6nApOT2UdF22stI1SHR3TMnjVFuw9w&oe=6ABEAA55",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641255167_1458051982609870_2199149907778760976_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hTMcCo6qKNIQ7kNvwFAf3bR&_nc_oc=AdqcgByozoVTtMv9mFbA1lKGe3NMc_ukRAtknPJSqWclwi85jnQ-2qjxUyKJ-fHBzv8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQITTkKKuhtmJF2eES5wM09ZYBrQn6yEL6IOyHisc0H7ZA&oe=6ABE91E5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641460978_1078096657833992_6792506988629736622_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Upcwo4Yo4ikQ7kNvwF0hemD&_nc_oc=Adoi-1IcJ_jrdhqkc2w9wWFqORsr395LiBmS2P-8rdkW4QaNK-GCjUkgfabrhzkTrtY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLgLGZ45CDdlU1FxojVzA9vvHyjUg7p6s9g3uXooBvhZA&oe=6ABE9D88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641377479_2063290221122849_1533992167676720642_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=afEKl_ZEqv0Q7kNvwHI5OoO&_nc_oc=AdogLaGIQ3whFFIMBU6cZUwwB7FRLhhrDadmsrrKv1TEUBMfj72bQIjgj651vfNBUB8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLvLdAXMnt-SV1dZcdhtS_chx4sLbxUjhyuo6B7ThZzpA&oe=6ABE960C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1463978912005110"
+      },
+      {
+        "id": "1406286067624090",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בסט פנל - חדשנות שמביאה יתרונות:\n• מסגרת אלומיניום איכותית – מונעת סדקים מסביב לפתח השירות\n• התקנה סופר קלה ומהירה – חוסכת כוח אדם וזמן\n• גישה נוחה במיוחד לכל מערכות החשמל והמיזוג שמאחורי הקיר\n• סגר ביטחון חזק – למניעת נפילה ושמירה על בטיחות\n\n💪 עם BEST PANEL אתם לא מתפשרים על איכות!\n\nזמין במגוון מידות:\n20*20, 30*30, 40*40, 40*60, 50*50, 60*60, 60*120, 80*80 – התאמה מושלמת לכל פרויקט.\n\n💥 מרכז הגבס - היבואן הרשמי של פתח השירות BEST PANEL 💥\n\n📞 התקשרו עכשיו: 03-6348888\n🕒 שעות פתיחה:\nראשון עד חמישי: 6:00-17:00\nשישי: 6:00-13:00\n\n🚀 השאירו פרטים עכשיו – ונציג מומחה שלנו ישמח לעזור לכם לבחור את הפתח המתאים!\n\n#מרכז_הגבס #BestPanel #פתח_שירות #שיפוצים #גבס #קבלנים #תקרות_אקוסטיות #פתחים #שדרוג_פרויקטים #איכות_בלי_פשרות",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1769673600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618770302_901732259031692_2709752338537526198_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DTpEohKD3rEQ7kNvwG3vOuk&_nc_oc=AdoAqhQ3rq3r3JgmWMDpvZz5CwHmjN5q_3cVDEljv0zbKRQso4WDFtoG-RsFEttr2ZY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLROhDdZQxOSaAmlEpB2agVHhYCn_5uNkO6HBAiGOdwOA&oe=6ABEBC66",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjEAIAx-bApau1r5gfiVqk0UDmn71xXRZ0S-HCR_7lKwS6k83Y040dECQscDEhnZdqAWRhFo-AXf0GTx6ynCEgP9DEWJcVBzkMd7qF9b8xMQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NMAmbCQnjX0Q7kNvwFxKjZ5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo3NDM5NjU2MDQ4MTU1MTgsImFzc2V0X2FnZV9kYXlzIjo0NzgsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=25c446d6a727ae4d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMDQ1OTcwMDMwMTFBMkZFNUVGNkU1NTc5N0IyQjc5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzcyODU1OTMwNjQxMjgwNF84ODE3MjUwNzU2Njg2NzYyMDAzLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8is3Zv6jSAhUCKAJDMywXQDrEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQLVIRHuujG2p8j4Tz37QKtWLF9cxvkdyganWUL7B32nsw&oe=6ABE9625"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1406286067624090"
+      },
+      {
+        "id": "1645668526488673",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "תקרות אקוסטיות ברמה הגבוהה ביותר!\nבמחירי מבצע מיוחדים לזמן מוגבל\n\n👈 תקרה אקוסטית מינרלית / פיברגלס\n👈 תקרה אקוסטית מגבס\n👈 תקרת פח\n👈 תקרה אקוסטית מעץ\n\nתקרות אקוסטיות בכל הסוגים \nלמשרדים, אולמות, בתי ספר ומבנים\n\nלניצול המבצע , מידע נוסף ויעוץ ללא עלות השאירו פרטים 👇",
+        "link_description": "מחירים מיוחדים",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709186406_1986394395580380_4427212257445456544_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7nuMp3Xe9pMQ7kNvwGouD0z&_nc_oc=Adq89vT8m5aAjADJKYzhHcoWppnly_6OpgQ2-J0LXwMny7Gl5CXLT5uUgxwvOkGF3Uo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKjiVMWCWATMEyzqNZGtY8_BUNMqeJkzemnIHLACkZxcA&oe=6ABE8FCF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711679821_2586663518416507_6818705407103942618_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pL-6ZRlEVqUQ7kNvwE108UY&_nc_oc=AdoL9gl5_tQ6Q84EmYAKVWcNBaUzYKNJ-ZL9pBjDFFxE6o_gcewOZqa6D7_YWphOT4c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQITsQPERLjQ00uiwBovWv7tumifFPjDzQkm1dn2TVmrPw&oe=6ABE8E0A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711601681_1134233575575281_4894332819168735438_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=38QphH-YVNAQ7kNvwGlNJVJ&_nc_oc=Adpe8uIaDkRPPwUMuNPqFBy_qqClpZajCf61BtSFuFIeY-8gInJE-KJzxCQ1bdzuNjw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQL8Ll9KqkGDJ88EXJ-vYYiJSBitH9OAavrRRB7sCFQgoQ&oe=6ABEACBF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711687021_1562425042555421_157273085463877103_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YFOhSXSslxcQ7kNvwHBi3zA&_nc_oc=Ado4mE-NYvOc9Ccb1_Z1X9flGwFkkb-d5TKztamq89kzf1VWu14CS9gRSNnLup7ql04&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKj93Q8w6Gim9IvNH1vizCmtYNEF9haWuxt_ASdHtk7Xw&oe=6ABE8E0E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1645668526488673"
+      },
+      {
+        "id": "1576292330507224",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763944235_1030717223083393_3289291360464630104_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wqPtfPpFybMQ7kNvwEy6kul&_nc_oc=AdpeN1UYySZykJ5MnPtCKg8PtLFc5X4rjftUkai936tNs-jmTvm9RaOYx9kGZDjzJwg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQK7SpUpMsaeqwPoNumhEJDRSahDLCSjJBClEs2agm8kYg&oe=6ABEAC48",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766072292_1365905589013958_130588672119800891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=035cRiizXVAQ7kNvwFNfAlp&_nc_oc=AdrDtevBDiMggDNbR6jaCn99ZA3G4klxRYckl2AuVnbBy82DPcBT8LVeS6_t-LHObAw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIVy6KGFlJdC1rAxbtFTSURsd9qyBBMRUTV8lMZpv08FA&oe=6ABEAF1C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763980965_28625348427066525_8232989421133597097_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oq7fDm_TA9oQ7kNvwHPzC3g&_nc_oc=Adpev38XA_AI10zcoCu0N4wixBgiDM2Ui6G1Zg85XKnlkAdIgpcUVfp_rImUKcb2aYM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKeQTrGRI--qD_rKx_80BZ6Z7JVKE8bv7elWdnALB1ahw&oe=6ABE879D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766072151_1072712981794304_633021703337496801_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6DpLMjcIcLcQ7kNvwHJyslp&_nc_oc=AdryfHmB3KndPPmWEdWwqHvDjEMdW-YENn0-DAe7Gy5igpuGQXGaW1vpP5xDsJRACII&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKNQ2eB7h1oa4gw4S9vvRUdo9N9u3C9CskyzUpEMF6evg&oe=6ABEB1AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764953873_27603821585923268_3951523781722667965_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yHTjy5ww01cQ7kNvwG-6cB0&_nc_oc=Ado6i3I7Nr4obml1JcrGjlGxtfcF3wM9VNLMQGAA9cL-nyuq8cW4B5VM1ggj4h7huOs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJK-L2RVXvOo3B01CM42fu4Gavxft_VeAs_fgeKzEEDjQ&oe=6ABEB1EB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1576292330507224"
+      },
+      {
+        "id": "1946130149400058",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763098422_1726814881719618_7394259955040639744_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1g1CwMpGtwUQ7kNvwH5WZbw&_nc_oc=AdoFXDg57D0MmrgRrEnNzCE5pT6GgWpxCTJIHdkbCoRp6UevpMrI8GrYhuIB5ExWUFY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIPo-UpZZ8Dk4igfbY-eSP87nffNnJXJ3MZcid1xATNRA&oe=6ABE8F1F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/762629866_899837876514114_463426417009920516_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L5VFYs1KZHoQ7kNvwGtD9t9&_nc_oc=Adqp32or2cuLaypnqmKCajaQ2gNy238EpbqXl5F4Yz9DUtQvzgvculmXn1UdWuhWgAE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQK-INl5OtOt5V4xCZ98Jid3TQlHQiAePqWbU3zTWhAxaA&oe=6ABEAD4B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/763701182_1592224525908289_1911959326054648500_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZRl2ClGn588Q7kNvwEB1KXQ&_nc_oc=AdqFT-ZtzbzNQzcQzTWdXRr75LLnp_aDCHHOkhgyQQjG2PE3-9Lk1DjrtzZGCsVr-sQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLzo76ecPkad8clsiNi9H-47gKa4KEai4vfI0PXhQTidA&oe=6ABE909D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767190383_2367619643728437_7753074522270034428_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5UVhsepcfykQ7kNvwEej0Wr&_nc_oc=AdoGkyXT6fwTWdJW4mS8ZVpGnb3o0ZBMPhDcW-zhi_i2TydHbLkS1AnWdJKxnivhf9I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLCp8FIxPhJ1hCgZlwdYtpbmIogpCemAtQUZxBN9Q2kIA&oe=6ABEA4B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/765997613_2444073999412333_5897185287113903356_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cM9LdjK4Q40Q7kNvwE-ampU&_nc_oc=AdrJiRht7popfwVXn2dr4VK4wrKfTdYUjtjtVudiuKsBegbUgQ5fHOYqryMAjl-Og9c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLIHGwlGtyOzAk77zm6GpNECy-u05ngnJrHw23mCmHkow&oe=6ABE8FAA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1946130149400058"
+      },
+      {
+        "id": "1771163467631098",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763944235_1030717223083393_3289291360464630104_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wqPtfPpFybMQ7kNvwEy6kul&_nc_oc=AdpeN1UYySZykJ5MnPtCKg8PtLFc5X4rjftUkai936tNs-jmTvm9RaOYx9kGZDjzJwg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQK7SpUpMsaeqwPoNumhEJDRSahDLCSjJBClEs2agm8kYg&oe=6ABEAC48",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766072292_1365905589013958_130588672119800891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=035cRiizXVAQ7kNvwFNfAlp&_nc_oc=AdrDtevBDiMggDNbR6jaCn99ZA3G4klxRYckl2AuVnbBy82DPcBT8LVeS6_t-LHObAw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIVy6KGFlJdC1rAxbtFTSURsd9qyBBMRUTV8lMZpv08FA&oe=6ABEAF1C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763980965_28625348427066525_8232989421133597097_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oq7fDm_TA9oQ7kNvwHPzC3g&_nc_oc=Adpev38XA_AI10zcoCu0N4wixBgiDM2Ui6G1Zg85XKnlkAdIgpcUVfp_rImUKcb2aYM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKeQTrGRI--qD_rKx_80BZ6Z7JVKE8bv7elWdnALB1ahw&oe=6ABE879D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766072151_1072712981794304_633021703337496801_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6DpLMjcIcLcQ7kNvwHJyslp&_nc_oc=AdryfHmB3KndPPmWEdWwqHvDjEMdW-YENn0-DAe7Gy5igpuGQXGaW1vpP5xDsJRACII&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKNQ2eB7h1oa4gw4S9vvRUdo9N9u3C9CskyzUpEMF6evg&oe=6ABEB1AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764953873_27603821585923268_3951523781722667965_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yHTjy5ww01cQ7kNvwG-6cB0&_nc_oc=Ado6i3I7Nr4obml1JcrGjlGxtfcF3wM9VNLMQGAA9cL-nyuq8cW4B5VM1ggj4h7huOs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJK-L2RVXvOo3B01CM42fu4Gavxft_VeAs_fgeKzEEDjQ&oe=6ABEB1EB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1771163467631098"
+      },
+      {
+        "id": "1721725775746457",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775087365_1087695060581198_4572661922469687305_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qCDYUNbn1rIQ7kNvwFVdbi0&_nc_oc=AdrSqdpgATbvu_lKxoBWubEQWHXfBIbeIvhwwe-Q4uxcoUP9yDWZRLPt6R_VCiepnIc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKGHNhltLwCS8MlQXxwVuFoeiYl0WDAFuekPhKmSvl_ig&oe=6ABEA724",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774924903_1599347148455062_5047865183549504821_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9xvcgBBAHawQ7kNvwFxCMVl&_nc_oc=AdoZkhAm_Syo2iMdRAmzAjeY4UuUAcRmkrltC3IgQSp_QaNUkXDvabUDqu69qFI8LkQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJqanm-Sazazjydm071ibn_zbKXDGZoUqNn75zvL-x0MQ&oe=6ABEA7D4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/776325833_878109501831411_6381399398492502298_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eGgWYEDo5zwQ7kNvwFV8-X5&_nc_oc=Adp2KBY1_Fse-wn0tEII8zq_rqhzjJUWdmdQbtAhk1_P0ogd-Ol36WjvCiinVsHE278&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKCzsY1D82rrA3QLhHt5qC-XPBEVBugj6EdLGg_4Kwe0g&oe=6ABEA5BE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777766736_1566172708479895_5599239810353465455_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ky3BM-Y9gLEQ7kNvwFO_J7P&_nc_oc=AdpvbA5uKJi6IzS9gcO4M64pulvcXKbKCEf7ztRvW6NUnXqtnKUvoMi6_SYiTGZNUwY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJYDV6TWuW2ZCzr6XRmpvs-uYRatYKdellpDuL3ONhJtw&oe=6ABE92A9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778309944_3620596548089905_9206808395828565609_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CLDg62ADcaAQ7kNvwFWe2O1&_nc_oc=AdqsUKUac50MpR1EBMPymSmRXU2xnF-EkLTyujPt5hwm7GiyoqoY-wkr1-l_LwSJ91E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQI9mWZPZaGaPTxSisFmjCb0p7XoSLQyUxvm1JRV_oLVzg&oe=6ABE88DE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1721725775746457"
+      },
+      {
+        "id": "1035872545895483",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/775087365_1087695060581198_4572661922469687305_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qCDYUNbn1rIQ7kNvwFVdbi0&_nc_oc=AdrSqdpgATbvu_lKxoBWubEQWHXfBIbeIvhwwe-Q4uxcoUP9yDWZRLPt6R_VCiepnIc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKGHNhltLwCS8MlQXxwVuFoeiYl0WDAFuekPhKmSvl_ig&oe=6ABEA724",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774924903_1599347148455062_5047865183549504821_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9xvcgBBAHawQ7kNvwFxCMVl&_nc_oc=AdoZkhAm_Syo2iMdRAmzAjeY4UuUAcRmkrltC3IgQSp_QaNUkXDvabUDqu69qFI8LkQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJqanm-Sazazjydm071ibn_zbKXDGZoUqNn75zvL-x0MQ&oe=6ABEA7D4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/776325833_878109501831411_6381399398492502298_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eGgWYEDo5zwQ7kNvwFV8-X5&_nc_oc=Adp2KBY1_Fse-wn0tEII8zq_rqhzjJUWdmdQbtAhk1_P0ogd-Ol36WjvCiinVsHE278&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKCzsY1D82rrA3QLhHt5qC-XPBEVBugj6EdLGg_4Kwe0g&oe=6ABEA5BE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777766736_1566172708479895_5599239810353465455_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ky3BM-Y9gLEQ7kNvwFO_J7P&_nc_oc=AdpvbA5uKJi6IzS9gcO4M64pulvcXKbKCEf7ztRvW6NUnXqtnKUvoMi6_SYiTGZNUwY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJYDV6TWuW2ZCzr6XRmpvs-uYRatYKdellpDuL3ONhJtw&oe=6ABE92A9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778309944_3620596548089905_9206808395828565609_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CLDg62ADcaAQ7kNvwFWe2O1&_nc_oc=AdqsUKUac50MpR1EBMPymSmRXU2xnF-EkLTyujPt5hwm7GiyoqoY-wkr1-l_LwSJ91E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQI9mWZPZaGaPTxSisFmjCb0p7XoSLQyUxvm1JRV_oLVzg&oe=6ABE88DE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1035872545895483"
+      },
+      {
+        "id": "1618065396630763",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "ללא פערי תיווך",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774671643_28100910859538940_4429238311134392557_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qd2EizGIJ38Q7kNvwFsKvES&_nc_oc=AdpFwMumORXysqt02ba1xUJ4t9g3hiLwRCML9To3nZjds3Ai5ZLUCPfEpiAScHrMn1c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQK04rxAX2QoavjCyQrTeQTLoQGCDce8rWUQeGSjdm9HsA&oe=6ABE96C6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774779455_1076618024850168_4305188892107648462_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ezlFbQFNgN0Q7kNvwHIfspt&_nc_oc=AdpEJfncOxJsP-_Zcs2rivF_xommDHLDracoape8ZWovizKPbNSZIL6WKjlOeF3l7Lw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQK9R2k0XEPgNdI7FiBfCcO25ioTHtTyLPBl7LmAbMHhjA&oe=6ABE8B1A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/779816507_3422750034576909_5541838940716516917_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lD4i699dB-MQ7kNvwFONg9-&_nc_oc=AdpAW3qk14BtetfbKgqHzObk5a2G6u1aWD9dN2DAV51rDt5-hk35jDxFL-iyLRa1Yco&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLbb1JlHQA1Wiqv5JwaZvOU7ZBKvCq69HraPlQ7ZDPbBw&oe=6ABEAF99",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774117894_2329840461104752_5323107501252706833_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RB3ZRpg8cLoQ7kNvwHBu0Dp&_nc_oc=AdrArydPdiFEgQcv0t_7UfPdJ8AiRG-SWBOPPYR9RBA5cWxItowvuFMZaREhLzPyEXU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIhf8uyD1EwDLnMBWJYmG6nFRQWoIgwL1O5IHRi5-YCWg&oe=6ABEA85E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774655736_1079365767981121_5762296844302678488_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=00-nEP0z6hMQ7kNvwF8GXwY&_nc_oc=Adr1lmElyIhTRP6oDmvljhEfOzLZgxdCqCGhbjps1_0fF5lO3P0_YRFiLdhQs8lpuW8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKFwkEK2p3rFh3BF-azqa338GRmvnLSF1L4AjMAQgvWaQ&oe=6ABEB41D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1618065396630763"
+      },
+      {
+        "id": "987730640399907",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "מרכז הגבס אור יהודה",
+        "body": "הכירו את לוח תשתית לרצפה - בסט פלור\nהפתרון לרצפה בבניה קלה ובבניה קונבנציונלית!\nעכשיו במחיר מיוחד!\n\n> חזק ומתאים לנשיאת עומס רב משקל\n> עמיד בפני עובש וריקבון ובפני טרמיטים שונים\n> חזק בפני נגיפה, גמיש, ומספק בידוד אקוסטי\n> אינו מצריך קידוח אלא בהברגה ישירה עם ברגים מתאימים\n> נוח לחיתוך ולהדבקה, תוך השתלבות והתאמה לדבקים, חומרי \n   איטום, מגשרים למיניהם ועוד.\n\nמתאים למגגון רחב של יישומים:\n> רצפות בין קומות\n> רצפות צפות\n> גלריות\n> גגות ומרפסות\n> הדבקת ריצוף / הנחת פרקט מעליו ועוד.\n\nעכשיו במחיר השקה מיוחד!\nלפרטים נוספים ויעוץ ללא עלות השאירו פרטים 👇",
+        "link_description": "רצפות בין קומות,רצפות צפות ועוד",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710755631_1337405828271521_231877051156691062_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0HjQz2vptdcQ7kNvwEZnwyU&_nc_oc=Ado8JZRzt84MR-FOYmL7mowxz-lP3KEivm1NKRIX24fMQqpO07eLn3JnkPkZZEwd9I8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQINTNLSaywNBzxPLf-98iNcgbdUBruD8F5y0BmicAK52A&oe=6ABEAE9C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710755042_2150927465767371_524620664363047562_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H668xjrDetQQ7kNvwEQj87w&_nc_oc=AdqBfpJoV0FYbWHMnsGxr3t86qq1YVirNig54tOhdW1jwv8uCeDVqAnLqVPHm6mKlnU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJXS82_5Cj7T2RoGqAo7Fvk8Ai1MZ0wlgl7DxCHTE_Otg&oe=6ABEBDDA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=987730640399907"
+      },
+      {
+        "id": "1049333500841928",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766889571_1074926334969572_6622131909930964611_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=31deB5WujA0Q7kNvwFevCEK&_nc_oc=AdqGL295fumkEWEg8MkfVi2zBGEvmggysnLnl_3otFSqQSwFAjsV3m3W76bAS6E9GHw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKJV_0yCTRvHQvC4mJAGK-MvQd63N5WPYSH71EN50lWaQ&oe=6ABEA04B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1049333500841928"
+      },
+      {
+        "id": "1573325554577936",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764817676_27982543728047428_5953799097456489262_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=biLUeIlUXQIQ7kNvwGc22qt&_nc_oc=AdoC1rZjQs0WcZtXCETLURt13Z9pXTx9PsfJZDUUMG9vuePumYXQQDniRDQxYnQ27s4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQKSUvv3Vhy5Z96QepdMkbpIXoPHvrVgd-7xKTbgLFUOww&oe=6ABE8B3A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1573325554577936"
+      },
+      {
+        "id": "1378340767044502",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/765929634_2568941760211022_8660515756035559869_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X2a9ZsPqHtMQ7kNvwEGyFMk&_nc_oc=AdpGfqAJH2J1mgiLQQeImcWImK20hJEnIKPuHno4VaPx1fe6DuzoDFSz7xS4o_HhA3s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQLBE4lY6AkYWIXCLywX7Z9CMUZNfrRUvf26FrGfdmmbbw&oe=6ABE9E24",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1378340767044502"
+      },
+      {
+        "id": "1420229076720112",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "api.whatsapp.com",
+        "body": "לחברת מרכז הגבס אור יהודה בע\"מ - חברה וותיקה העוסקת בשיווק ואספקת חומרי בנין, דרוש נהג ג'. \nשעות העבודה:\nימים א' עד ה' :  06:30 עד 17:00.\nיום ו': 06:30 עד 13:00.\nשכר ותנאים טובים למתאימים.\nלפרטים:  טל -  מסנג'ר / סלולארי - 0529271496",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1420229076720112"
+      },
+      {
+        "id": "1514354096237503",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/638241906_1414081903727592_530480395356685690_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eMizL1maT1kQ7kNvwGqVvT9&_nc_oc=AdoRRTYt7J9wJromMueXimbouCT-O0gM0Eqdc9NO4QG6JMHdifq138BkJ0Qy3dpd1EM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIhdB46BRvwfuDegAppvMAkZqwmYX3qQSSJ6UpiMbNZXg&oe=6ABE92CA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635143151_1775032056523773_8738763213056551473_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BrPCAVIRB0IQ7kNvwG0gScm&_nc_oc=AdpZ8jUAYzSeajVpWTdJDT__7tj-b1PVmWaL-g_N43KwNrE-WgRxcOxGnUeoZ-0EN8s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQIjToJIbcGiQzywhQu2FZ9BRQyOkX6AQzmfBGVLV_PFbw&oe=6ABEB65C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1514354096237503"
+      },
+      {
+        "id": "1736658860943153",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778736025_4303253863319175_829432001612882187_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tvYQvwFbq4Q7kNvwEuBXMg&_nc_oc=AdoCeCkKMOPW8rbhQRNcUzUe2M_jRtIgyCni-nCp5RFWhjTyx3FnVHSLGbd6_XH4I4M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJCbRcTaSpzUcUxt7MiRphFAeKg5Ps_UucyWm3KZLVkMA&oe=6ABEB01A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1736658860943153"
+      },
+      {
+        "id": "1600375951723253",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778736025_4303253863319175_829432001612882187_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tvYQvwFbq4Q7kNvwEuBXMg&_nc_oc=AdoCeCkKMOPW8rbhQRNcUzUe2M_jRtIgyCni-nCp5RFWhjTyx3FnVHSLGbd6_XH4I4M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJCbRcTaSpzUcUxt7MiRphFAeKg5Ps_UucyWm3KZLVkMA&oe=6ABEB01A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1600375951723253"
+      },
+      {
+        "id": "1086336473849465",
+        "page_id": "1584083868269911",
+        "page_name": "מרכז הגבס אור יהודה",
+        "page_url": "https://www.facebook.com/mercaz.hageves/",
+        "page_like_count": 10909,
+        "page_categories": [
+          "בית וגן"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778736025_4303253863319175_829432001612882187_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tvYQvwFbq4Q7kNvwEuBXMg&_nc_oc=AdoCeCkKMOPW8rbhQRNcUzUe2M_jRtIgyCni-nCp5RFWhjTyx3FnVHSLGbd6_XH4I4M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&oh=00_AQJCbRcTaSpzUcUxt7MiRphFAeKg5Ps_UucyWm3KZLVkMA&oe=6ABEB01A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQw7TD5bjEFiPshg4-st8H4PrQrRb2orgG3eAQgFNFnelWNZYEXJO6EWx7XDr1az_jVrhm7UTTYUZRl1FHR3EsE1ongG6x_boIEms_b2wzow.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6uits1S3zPEQ7kNvwGP-c8v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTUwMTY0MTE4NTgzOTEsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjg3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f3ee61fe963601ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQwRThCRjc0NkYwNjgxOEZBOTE0MDE1OERCRTlBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGNEQ2N0ExRTNGMkVCMUYxODg3QjFDNDMwOTdGRDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaul8K52qOwBhUCKAJDMywXQFXGZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=5v6yZC3tbJHIZJJtx0NnIw&_nc_ss=70289&_nc_zt=28&oh=00_AQKtL9OQeLy6eZIcDJhLDnkILZkZZnOnXN26oSJXYd5Elw&oe=6ABEB94E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1086336473849465"
+      },
+      {
+        "id": "1463978912005110",
+        "body": "תקרות מינרליות STAR – איכות גבוהה. מחיר ללא תחרות.\nמהיבואן לצרכן וללא פערי תיווך 💫\n\nקבלנים, בעלי מקצוע ומנהלי פרויקטים –\nאם אתם מחפשים תקרה מינרלית איכותית במחיר יוצא דופן, זה הרגע לעצור.\n\nמותג STAR הבלעדי של מרכז הגבס מספק פתרון אקוסטי ועיצובי \nאבל מה שבאמת מפתיע את הלקוחות שלנו הוא המחיר המעולה \n\nתקרות מינרליות בהתאמה מושלמת לכל פרויקט: משרדים, קליניקות, בתי ספר, אולמות אירועים וחללים מסחריים.\n\nדגמים מובילים לבחירה מדויקת לפי צורך:\n\n👈 תקרה מינרלית SIRIUS – ספיגת רעש גבוהה במיוחד, מונח (סיכות), מידות 60×60 / 61×61 / 61×122\n\n👈 תקרה מינרלית VENUS – מראה מודרני ואוורירי, מונח (חולית), 61×61\n\n👈 תקרה מינרלית NEPTUNE - מונח עם חורים, שילוב אקוסטיקה ונראות טכנית מדויקת, 61×61\n\n👈 תקרה מינרלית HOLE BLACK - תקרה שחורה ייחודית, מושלמת לאולפנים, חדרי אודיו ועיצוב תעשייתי\n\n✔ פתרון אקוסטי מקצועי\n✔ התאמה מלאה לכל סוג חלל\n✔ מלאי זמין לאספקה מיידית\n✔ והכי חשוב — מחיר שמייצר לכם רווח בפרויקט\n\nהשאירו פרטים בוואטסאפ עכשיו וקבלו מחיר משתלם במיוחד לפרויקט שלכם 💪",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1463978912005110",
+        "text": "תקרות מינרליות STAR – איכות גבוהה. מחיר ללא תחרות.\nמהיבואן לצרכן וללא פערי תיווך 💫\n\nקבלנים, בעלי מקצוע ומנהלי פרויקטים –\nאם אתם מחפשים תקרה מינרלית איכותית במחיר יוצא דופן, זה הרגע לעצור.\n\nמותג STAR הבלעדי של מרכז הגבס מספק פתרון אקוסטי ועיצובי \nאבל מה שבאמת מפתיע את הלקוחות שלנו הוא המחיר המעולה \n\nתקרות מינרליות בהתאמה מושלמת לכל פרויקט: משרדים, קליניקות, בתי ספר, אולמות אירועים וחללים מסחריים.\n\nדגמים מובילים לבחירה מדויקת לפי צורך:\n\n👈 תקרה מינרלית SIRIUS – ספיגת רעש גבוהה במיוחד, מונח (סיכות), מידות 60×60 / 61×61 / 61×122\n\n👈 תקרה מינרלית VENUS – מראה מודרני ואוורירי, מונח (חולית), 61×61\n\n👈 תקרה מינרלית NEPTUNE - מונח עם חורים, שילוב אקוסטיקה ונראות טכנית מדויקת, 61×61\n\n👈 תקרה מינרלית HOLE BLACK - תקרה שחורה ייחודית, מושלמת לאולפנים, חדרי אודיו ועיצוב תעשייתי\n\n✔ פתרון אקוסטי מקצועי\n✔ התאמה מלאה לכל סוג חלל\n✔ מלאי זמין לאספקה מיידית\n✔ והכי חשוב — מחיר שמייצר לכם רווח בפרויקט\n\nהשאירו פרטים בוואטסאפ עכשיו וקבלו מחיר משתלם במיוחד לפרויקט שלכם 💪",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1406286067624090",
+        "text": "בסט פנל - חדשנות שמביאה יתרונות:\n• מסגרת אלומיניום איכותית – מונעת סדקים מסביב לפתח השירות\n• התקנה סופר קלה ומהירה – חוסכת כוח אדם וזמן\n• גישה נוחה במיוחד לכל מערכות החשמל והמיזוג שמאחורי הקיר\n• סגר ביטחון חזק – למניעת נפילה ושמירה על בטיחות\n\n💪 עם BEST PANEL אתם לא מתפשרים על איכות!\n\nזמין במגוון מידות:\n20*20, 30*30, 40*40, 40*60, 50*50, 60*60, 60*120, 80*80 – התאמה מושלמת לכל פרויקט.\n\n💥 מרכז הגבס - היבואן הרשמי של פתח השירות BEST PANEL 💥\n\n📞 התקשרו עכשיו: 03-6348888\n🕒 שעות פתיחה:\nראשון עד חמישי: 6:00-17:00\nשישי: 6:00-13:00\n\n🚀 השאירו פרטים עכשיו – ונציג מומחה שלנו ישמח לעזור לכם לבחור את הפתח המתאים!\n\n#מרכז_הגבס #BestPanel #פתח_שירות #שיפוצים #גבס #קבלנים #תקרות_אקוסטיות #פתחים #שדרוג_פרויקטים #איכות_בלי_פשרות",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1645668526488673",
+        "text": "תקרות אקוסטיות ברמה הגבוהה ביותר!\nבמחירי מבצע מיוחדים לזמן מוגבל\n\n👈 תקרה אקוסטית מינרלית / פיברגלס\n👈 תקרה אקוסטית מגבס\n👈 תקרת פח\n👈 תקרה אקוסטית מעץ\n\nתקרות אקוסטיות בכל הסוגים \nלמשרדים, אולמות, בתי ספר ומבנים\n\nלניצול המבצע , מידע נוסף ויעוץ ללא עלות השאירו פרטים 👇",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1576292330507224",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1946130149400058",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1771163467631098",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1721725775746457",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1035872545895483",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1618065396630763",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\nצריכים הצעת מחיר לפרויקט?\n\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "987730640399907",
+        "text": "הכירו את לוח תשתית לרצפה - בסט פלור\nהפתרון לרצפה בבניה קלה ובבניה קונבנציונלית!\nעכשיו במחיר מיוחד!\n\n> חזק ומתאים לנשיאת עומס רב משקל\n> עמיד בפני עובש וריקבון ובפני טרמיטים שונים\n> חזק בפני נגיפה, גמיש, ומספק בידוד אקוסטי\n> אינו מצריך קידוח אלא בהברגה ישירה עם ברגים מתאימים\n> נוח לחיתוך ולהדבקה, תוך השתלבות והתאמה לדבקים, חומרי \n   איטום, מגשרים למיניהם ועוד.\n\nמתאים למגגון רחב של יישומים:\n> רצפות בין קומות\n> רצפות צפות\n> גלריות\n> גגות ומרפסות\n> הדבקת ריצוף / הנחת פרקט מעליו ועוד.\n\nעכשיו במחיר השקה מיוחד!\nלפרטים נוספים ויעוץ ללא עלות השאירו פרטים 👇",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1049333500841928",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1573325554577936",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1378340767044502",
+        "text": "קבלנים ובעלי מקצוע — למה להזמין חומרי גמר ממספר ספקים, כשאפשר לקבל הכול במקום אחד?\n\nבמרכז הגבס מחכה לכם מגוון רחב של פתרונות לעבודות גמר:\n✓ תקרות אקוסטיות\n✓ פתחי שירות\n✓ לוחות גבס וקונסטרוקציה\n✓ מוצרי אינסטלציה\n✓ צבעים וחומרי עבודה\n✓ כלי עבודה, אביזרים ומוצרים משלימים\n\nעם מלאי גדול, יבוא ללא פערי תיווך של עשרות מוצרים, המחירים הטובים בשוק, שירות אישי ואספקה ישירות לאתר העבודה.\n\nצריכים הצעת מחיר לפרויקט?\nשלחו לנו את רשימת החומרים ונחזור אליכם עם פתרון מקיף.\n\nמרכז הגבס — כל מה שבעל מקצוע צריך, מקצה לקצה.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1420229076720112",
+        "text": "לחברת מרכז הגבס אור יהודה בע\"מ - חברה וותיקה העוסקת בשיווק ואספקת חומרי בנין, דרוש נהג ג'. \nשעות העבודה:\nימים א' עד ה' :  06:30 עד 17:00.\nיום ו': 06:30 עד 13:00.\nשכר ותנאים טובים למתאימים.\nלפרטים:  טל -  מסנג'ר / סלולארי - 0529271496",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1514354096237503",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1463978912005110",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nמרכז הגבס אור יהודה\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1463978912005110\nהתחילה לפעול ב-22 בפבר' 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nמרכז הגבס אור יהודה\nממומן\nתקרות מינרליות STAR – איכות גבוהה. מחיר ללא תחרות.\nמהיבואן לצרכן וללא פערי תיווך 💫\n\nקבלנים, בעלי מקצוע ומנהלי פרויקטים –\nאם אתם מחפשים תקרה מינרלית איכותית במחיר יוצא דופן, זה הרגע לעצור.\n\nמותג STAR הבלעדי של מרכז הגבס מספק פתרון אקוסטי ועיצובי \nאבל מה שבאמת מפתיע את הלקוחות שלנו הוא המחיר המעולה \n\nתקרות מינרליות בהתאמה מושלמת לכל פרויקט: משרדים, קליניקות, בתי ספר, אולמות אירועים וחללים מסחריים.\n\nדגמים מובילים לבחירה מדויקת לפי צורך:\n\n👈 תקרה מינרלית SIRIUS – ספיגת רעש גבוהה במיוחד, מונח (סיכות), מידות 60×60 / 61×61 / 61×122\n\n👈 תקרה מינרלית VENUS – מראה מודרני ואוורירי, מונח (חולית), 61×61\n\n👈 תקרה מינרלית NEPTUNE - מונח עם חורים, שילוב אקוסטיקה ונראות טכנית מדויקת, 61×61\n\n👈 תקרה מינרלית HOLE BLACK - תקרה שחורה ייחודית, מושלמת לאולפנים, חדרי אודיו ועיצוב תעשייתי\n\n✔ פתרון אקוסטי מקצועי\n✔ התאמה מלאה לכל סוג חלל\n✔ מלאי זמין לאספקה מיידית\n✔ והכי חשוב — מחיר שמייצר לכם רווח בפרויקט\n\nהשאירו פרטים בוואטסאפ עכשיו וקבלו מחיר משתלם במיוחד לפרויקט שלכם 💪\nAPI.WHATSAPP.COM\nהחל מ9.90 בלבד + מע\"מ\nברכישת קרטון\nSend WhatsApp Message\nברכישת קרטון\nAPI.WHATSAPP.COM\n10.80 בלבד + מע\"מ\nברכישת קרטון\nSend WhatsApp Message\nברכישת קרטון\nAPI.WHATSAPP.COM\n13.50 בלבד + מע\"מ\nברכישת קרטון\nSend WhatsApp Message\nברכישת קרטון\nAPI.WHATSAPP.COM\n9.90 בלבד + מע\"מ\nברכישת קרטון\nSend WhatsApp Message\nברכישת קרטון\nAPI.WHATSAPP.COM\nצ'אט איתנו\nלפרטים מלאים\nSend WhatsApp Message\nלפרטים מלאים\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": [],
+    "freshness": {
+      "active_count": 18,
+      "active_seen": 18,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-03",
+      "oldest_start": "2026-01-29",
+      "days_since_newest": 24,
+      "stale": false,
+      "complete": true
+    }
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:11:51",
+    "filtered": "2026-09-27T08:12:14",
+    "qualified": "2026-09-27T08:14:03"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972507154169",
+      "source": "https://www.facebook.com/ads/library/?id=1463978912005110"
+    },
+    "missing": []
+  }
+}

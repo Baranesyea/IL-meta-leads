@@ -1,0 +1,922 @@
+{
+  "lead_id": "2026-09-27-152",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://drmosherosen.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "drmosherosen@gmail.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/DrMosheRosen/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/dr.mosherosen/",
+      "source": "ad landing URL (Ad Library)",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972515335110",
+      "source": "https://drmosherosen.co.il/contacts",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "office hours next to the number",
+        "branches / warehouse",
+        "gmail / hello@ inbox",
+        "the only phone on the site"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "1333411880157022",
+    "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+    "active_ads_count": 20,
+    "search_keyword": "שלחו הודעה",
+    "sample_ads": [
+      {
+        "ad_id": "1390436811640070",
+        "link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/448961164_797106309227278_4124579984420521294_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ycL4eQZbxi4Q7kNvwEhLfCX&_nc_oc=AdovhgQNsTlDfIhxDO3s8gKpzg2wUbB8bQNduk_Mt03uUZsUvV_9lQ1bHzkGTzkaoT8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pczEKWrqEnbmNzJnj8mhhw&_nc_ss=70289&oh=00_AQL4QUSXfaU9pv5AXuiDIgN5DsWtPpxVwzatFSkrBAo8Iw&oe=6ABEAA27"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1719817200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1390436811640070"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 20,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 8607,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1390436811640070"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 8607,
+    "page_categories": [
+      "Doctor"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "672775305911131",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "body": "✨ היופי שלך לא נעלם – הוא פשוט משתנה עם הזמן.\nטיפול פיסול פנים עדין ומדויק, שמחזיר את הרכות, החיוניות והאיזון למראה הפנים – בלי לוותר על הטבעיות.\n\nזה בדיוק הזמן לדאוג לעצמך, בקצב שלך ובאופן שמתאים לך 💖\n📍 אבחון וטיפול אישי בקליניקה מקצועית בתל אביב או בירושלים\n📞 שלחי הודעה או התקשרי ונדבר",
+        "link_description": " ",
+        "landing_url": "http://instagram.com/dr.mosherosen",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1745478000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/493713153_1883373979172238_306192305757644122_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=648T_Bc0M4sQ7kNvwEiKasd&_nc_oc=AdoR4-X2Yh230duwMUCvtM20F5aYR1_SL1c5GinMzTA-jmRvmG4PutrHwHKcNtbd7dw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKN9ms8W2_6en3PLw8i8k2xyOubgehCJOVaaaEN-gGERA&oe=6ABE9BF1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/493217617_664243709689352_3766076104788025080_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ETSxS4gLrBYQ7kNvwEwilpD&_nc_oc=AdqNH54QWYm7e1Q5-rBNe1d-gQssCRwG2Yhu3NQM20y0Pv3sCy2EdYzV6keFR8D3rr0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKnXrTDivI-6GKTT42KlfVwjpTxZzhsJrlSduRK5CPYYQ&oe=6ABEB975",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492551656_470372349435551_8958833773170871697_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gMEVIRpe374Q7kNvwHfKyEE&_nc_oc=AdpXFPKkzuqcXCC5dWbDZ-uEZttG9bx0GlYLFWoY2tYCSA0Q3A2cjMioX7DubPqNyko&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJ-Q9neRjfvnCYoZW25tSX688AgiQXfcVIp_RX7H6Yrvg&oe=6ABEAF4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492551656_1230734655088800_349240808690393970_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=48cUBSJcteQQ7kNvwFO62Wp&_nc_oc=Adqh27_3hf9aFf13GZgdRK-mZ6c9Y438-f8DLYXuFeXoyYRElxz0lZ6yxB9e3o9DToc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJ9K5-n1xV6fcU0QbKmU0brghrbEjTitBXqCHrb-pHeuA&oe=6ABEA5D6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/493149899_1477599236552267_7311984497052421830_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6CZqtPyZlSMQ7kNvwG5aUwl&_nc_oc=AdrUwy4GtttRDPOaLD7wOmEourGIwbDimvMNpPxjsrEuHlo7TDmwCkgrCoMDip3upPU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQIbGllZItGVRQ3Ho18rhTcRGIZU1YGcZXdXJBXSSEdMgQ&oe=6ABEA8AD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492542052_1026249239677133_2397573857049820795_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iW5Vb-NlBGMQ7kNvwHaKp8F&_nc_oc=AdpAKYH9xvofxH_eE6ywa3-aiMM7QOQ2oJnPv9t4PTyeFP24UzVEyJtZy1fh-C0Bx5s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKy-tVlxfAHHWKLuDLxLbRc5iyLCErJUxs2DLrmb25oGw&oe=6ABEB266",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492831948_2478670582471916_2145269426060398888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aRA7ZOwZZJgQ7kNvwHCvHsc&_nc_oc=AdpkCMoZLJY3kmB3e_fZtpXR5N1eyKByt8CiLvZ4jvIYm9IxLJYSi9Vdpwdx7EHzVo8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKv_gYbV-B1JMxhjHfFSAieuwnY6C44ILivJiWCNOQGOQ&oe=6ABE9409",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492498177_1145163210631161_8622964692144152667_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a9TjjkRlZqIQ7kNvwFm6vRW&_nc_oc=Adp-9lYDMyPmhHtNG6dvdZR4B_V3nYuaURhEigh-UaZhQKVPKarnj1PLqxUnSn_4i7k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJi-drmUxUjkXTUnt0gzO8N9n-_4GxD7UQZL4SDeo1iiw&oe=6ABEBB4E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=672775305911131"
+      },
+      {
+        "id": "1390436811640070",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1719817200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/448961164_797106309227278_4124579984420521294_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ycL4eQZbxi4Q7kNvwGRYa54&_nc_oc=Ado5CI-YVh7EqCI9jMresocEUup5WnATt1EZ5YDUH2qpQOLxb45WADeVub7VJUgDwpU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQI70UqN8uWgyGGM1LUxyWLTVHT5tdCjfP_T0U1w02k6tw&oe=6ABEAA27"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1390436811640070"
+      },
+      {
+        "id": "1431346964521044",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1745478000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492472176_1226245182500504_3570976003598007023_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rxX3YyP4xSYQ7kNvwEUvAja&_nc_oc=Adpgq4nUqJS3MU9xUmA5WUbqGMzAn7YBM9oxtHqt96ziZsn4MvwYZZEsgOnU114VqF0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQK29CwajEsplcaLvCdiF_cepvIXqI2y7-CqvjCye_UVVA&oe=6ABE9291",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492239623_656934910448745_478515583508758400_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=COywk2AparwQ7kNvwGP4qlc&_nc_oc=Adpty22DgqkZn7kIA92WiY7zkCULYA-OvA9h5U3ovmP0JIixo6YG-_hjzKffv9flUWU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQLCW8gNECbulxF6x6vaaTqO_baj7Tw-IvmXekas0I_xAQ&oe=6ABEBAC6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1431346964521044"
+      },
+      {
+        "id": "614584604849799",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "",
+        "body": "טיפול פיסול פנים אצל ד”ר מיכאלה קסל \n📞051-5335110\n\n#antiaging #רפואהאסתטית #חומצההילורונית",
+        "link_description": "",
+        "landing_url": "http://instagram.com/dr.mosherosen",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1738742400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/475915750_3866699220271284_8719312035473677891_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1tl31Z2c7scQ7kNvwH7lkrj&_nc_oc=AdpD_jz2UAaUisgcN4CT43EGN6kDQWlvvFDx1LvwBRsqYSri-TfbFxXsXH50iHZyeBw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKZk3ePQmFBc5SrJBV0puoOumAaard_8LZSiyfPhhmh_g&oe=6ABE9AC2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNvziMeCsBdV2V_3bd2VYZPPShAW0C3x1sXBkW3G8sbAOWFlZRt_VwzHcZzTLBFcKG9FWVCINoBS-5odOcZzOsOI6D7dtIkX-dUP_evC78K7Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=pcm79mQEXKMQ7kNvwGS0m-3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU5MTQyODEzMDUzMzY1NSwiYXNzZXRfYWdlX2RheXMiOjU5OCwidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjQ4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=26a9251ec2313e30&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRjQ2MTEyMzYzMzM1RjhFNjA2QTVFODI3M0VEMjhCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLTTVZUnlpSXJsNm1YOEZBRkQ3Mlo3clV4aFlidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauxIv60vmMAhUCKAJDMywXQEf7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQKDSh2NXha33ErThnnaeauC6Ea5mJHI2IYMMH__FxOZug&oe=6ABE95A8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=614584604849799"
+      },
+      {
+        "id": "8379243688764077",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "למה את מחכה? דברי איתנו עוד היום!",
+        "body": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1721286000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/449091480_7396065243830660_1147544484167488796_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hv0EtGh9f4IQ7kNvwH8zMZB&_nc_oc=AdqOzkN70o2ofaHvj_sjnI4PIZtt0aZuTDu3g2kWrxeiK087YN1SgszhGaUjrXdPCKo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQL6F7vTsfEnZxvX6uHATNbWm8tH1qhAhQST8n3UHLr5Hw&oe=6ABEABD5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPnKFzjtDM62pbtMBf-ITi39vjmum25F4xcZf90RoPgFzFAXU3UEZvDP60ao3Xh6mIwcsJ5T-i6DzZ0hJUw61H-.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Bn1ZNCmseL4Q7kNvwEWo_pX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDM0MzI2NTgxNzYzOTE4LCJhc3NldF9hZ2VfZGF5cyI6MjExLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJjqIcQDMSo0WyWUVPU67WsKn_ja1DYzt_TwnoSqfRgsQ&oe=6ABEB858"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=8379243688764077"
+      },
+      {
+        "id": "453820404071736",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "מילוי שקעי עיניים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה צעיר ורענן\nתוצאה מחזיקה לשנתיים ויותר🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1719212400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/449158305_680497434237525_2203450729129581001_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xObtjS1vuhYQ7kNvwHGZdjb&_nc_oc=AdoKiKTSH7VDuvjhQxNGYLcC9b_vW2TJ46tM4niD0eE_wlWgZBeLDrUT1R2V8UaCVkY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJW6XOjpLcqvZ87lt1gX8oHJVi2o7dzXcI8JHIy6m8ilg&oe=6ABE8EFA",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOBNVdApCxkG7i9owf8U_F_DHNZi5UyQW_yKY2V6o2UrAcQ0A0ojhrqWMVQiaOFRN3au5KMZxoptsHo7RMSgYCujEyKWjs__pLLaq4zf67kqw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uokA9HtMshkQ7kNvwH3qJ5C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMyMjc2MTI0MDg4ODQyOSwiYXNzZXRfYWdlX2RheXMiOjgyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEwOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=53a661ef49d6c91a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CODQ3N0JGMjdCMEQxOEE4REFERTE2QjJBNzAzM0Q4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzU1NEExNzk2MTZFREIxRTMyQUEyRkY1MDQyMkEzQkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbakeLRluOSARUCKAJDMywXQFsCn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQLp30VuDGjrC2v6yKUFbe0KU6E7P7Sshg9TwLM2nRE8Pw&oe=6ABE9F6F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=453820404071736"
+      },
+      {
+        "id": "25963290609986186",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "בקליניקות של ד״ר משה רוזן האווירה נעימה ולא לוחצת, המטופלים נכנסים עם חיוך ויוצאים עם חיוך גדול יותר. \nכל זה בזכות צוות איכותי, רופאים מהשורה הראשונה, ויחס אישי בלתי מתפשר!\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1719817200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448862568_434495152797321_5676487350554642582_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I62K0ZfvhiEQ7kNvwHNWznH&_nc_oc=AdpJyygNZnFee4RgN9PoX0SLVR63ZyJiF16KqCjUklTYOgzRkj9mt2rkuTQwZA4X5d8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQLxmhDC68Cn74HvfD-lXvSa5qty4N19S2vBKZow_LMTuA&oe=6ABEB5B6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNg5D17RXf-2LWUp5XeDwIftVb9imx3WsL1j0MA34mX81nl6plDm9vo1GkvZ_5xrXDGs38DSm-IID80uw1ymsfq.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8Jb8gHEt4k0Q7kNvwFev8PA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo3MTQzODY1MjEzNDgyMjIsImFzc2V0X2FnZV9kYXlzIjozMDEsInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoxMDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJHeHxDcKUiu1cgsKq44iFs3J0uovhLUwGJSKWW8_bPmA&oe=6ABE8605"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25963290609986186"
+      },
+      {
+        "id": "486232960728117",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול קו לסת עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1719817200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/449030792_785057913778744_2188272642244832168_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5K_NgAZkhRQQ7kNvwEosxMG&_nc_oc=AdpyVuSMxXLf1GlP0cw26hZf5JWgmFM-HtOkF89Upm3hb0hJfwJgiYnbC08ik4ngJvs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQLeeC-Q4GpSVHn2DjskmBgXCtoSVCkLKmSXTj6uQX20fw&oe=6ABEAC6A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOdsGzsd5HigRz_bz8lpkaaBpL3OHfAIExWaQf9kAU5xXXV0rlejhKjwLxcjBnZdxSKuXDgelg73_KUoxepnPty.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=JXuVQIBbBZAQ7kNvwEDA8Tl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNTk0NTIwMzcxNjc4MzAwLCJhc3NldF9hZ2VfZGF5cyI6MjcxLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6ODEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQL0556b04mq3u99MMkO_knHwLid34cBEEJVGH92VxGb1g&oe=6ABE956C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=486232960728117"
+      },
+      {
+        "id": "4041022099448512",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "طبيب"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שמעת על החומר החדש שמופק מזרע של דגי סלמון?\nהטיפול החדשני שמשגע את העולם הגיע אלינו לקליניקה!\nד\"ר משה רוזן עם כל הפרטים בסרטון",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758092400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/548214278_1134928038519778_8055431107488181399_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hYk1Y-oWNlwQ7kNvwEp1CmD&_nc_oc=AdrBAAcrCKRZfEd0gBK1ZHqmNUbh5PS1kMy1npxGSL3Mqx4NXGqjqHrypBvYPDtECLM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQLo_1IFhCUU6iv1uvaufZPkDcL6MNghb57luJKlXyy8dg&oe=6ABEABE2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPC-7iIfH3wJP0lVav-7vLKCh7q1W9kvrZP6pGpvECrKwPlMgXkMhdJ07Z58u1cYLVOLgse-TlAbU8DN9WMroBTVYoFTE436KvxAA7PykTMZQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=NJ2Nn3hpTTUQ7kNvwHThMaq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3ODgyMjgzMjg3NTEyNzcsImFzc2V0X2FnZV9kYXlzIjozNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e7ca5f070d51e0cb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NjQ0OTVFNjg4MTJFRUE0NDhBMjQ1RjI5QTA5NDk5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MwNDdFMEY5OTFBRUVBQTNFMzVFRTZERjFGREQzMTk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbagoCly5itBhUCKAJDMywXQEaRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQIuRTkcLIRyN6iaLC68MH6NDYA-Ks82YCeurRC2zapxYQ&oe=6ABEAAE2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4041022099448512"
+      },
+      {
+        "id": "794599186308672",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1758351600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/550100985_24913562504921834_2092768621197153258_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x9xnwpU7nJUQ7kNvwFbzqS0&_nc_oc=AdrNB_ULDPY59f4pf3vTelGhPxIBEHvJU5FTs9VztTGGNIIPTJ5pOUzIsWAHzn0RD-8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKygfNXVi_ZLwlcxNLJQOUe6rZ1dtK8HFgeWtzME_E-tw&oe=6ABEB483",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPhvdLvJescSrz16PmxbA3XtKmNNrC7GxEYyPPJiIYGpiqdyiJzAAW6NOU3lucyJN88Fun7s-4xctYo4r1Rbhakm3tAuMX5AhaZRu0sPnFkYA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=sD6ljaR2tyIQ7kNvwHp5I8x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjU0ODk4MDYyMDUwODQsImFzc2V0X2FnZV9kYXlzIjozOTAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=78a3c7f85f0128f5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MDRENUMzRDI1RjZENEU0Q0VFQ0RFM0E2MEFBQ0I5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNDBDREJCNzlFRjEwRTA2MkY2REQyMkM1OThEQkE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4gvW5rqvSAxUCKAJDMywXQE3EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ3n_pD0DP1sypDuU8U5XF1MD9Ros0cgdascCthPOaysg&oe=6ABEA136"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/549291616_697144020055487_2895514454335313222_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ct-BzJFDQYQ7kNvwFhnDC4&_nc_oc=AdpXzSx0-q2rP6W65-trVpehcM1noBP6qO3QOID4kzxzvmcOIHu8CrWQNOn7qkFbxmI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJnl6bxVkcJOV-nHm37eNx4gU87-tQXAO5RyD5jyQQiIQ&oe=6ABE8A04",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOyiTUD02PXzAl5Eb8z513aawUwr1MVraPY64up7mIYconPK0c1QWLIXxRCPXmRrhf91-Jvqqw37mnBJGtl0f-1yC55gVgycHfhZkLlQaiDJw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pc1cWs9wP4MQ7kNvwHLtcHB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyODY3MzAyNTYyODIxNTksImFzc2V0X2FnZV9kYXlzIjozOTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b1f298827c5a97f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTQ5RDM5MzM4QzlFRTE1NzIwMzFBMDVCQjcwNUQ4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVENDMzNkQ5OTkwRjM4MUQ5QTIxQ0I1MzYxOTkzMkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbeyMe9x5HJBBUCKAJDMywXQE3EOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJQfPE_ybxyB_y1WN08eJSI6K5f6n8M8QwydHfaR4pDPQ&oe=6ABEAFA4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=794599186308672"
+      },
+      {
+        "id": "987350299534983",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1719212400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448729815_1470074770565205_2847796607444324206_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j6jjigOmXAUQ7kNvwHhmTU8&_nc_oc=AdrwPiGllPtYzDpDk4swzYj3xenMW4i_bl6MiV1JKekqBISG-qU1lhVwH0D9O9Gh5bA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKIgvh4xveZ1CBpEw9VuE28nGsbEGowXZPFbP_SREh9gg&oe=6ABEA9EE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448729815_1470074770565205_2847796607444324206_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j6jjigOmXAUQ7kNvwHhmTU8&_nc_oc=AdrwPiGllPtYzDpDk4swzYj3xenMW4i_bl6MiV1JKekqBISG-qU1lhVwH0D9O9Gh5bA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKIgvh4xveZ1CBpEw9VuE28nGsbEGowXZPFbP_SREh9gg&oe=6ABEA9EE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448729815_1470074770565205_2847796607444324206_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j6jjigOmXAUQ7kNvwHhmTU8&_nc_oc=AdrwPiGllPtYzDpDk4swzYj3xenMW4i_bl6MiV1JKekqBISG-qU1lhVwH0D9O9Gh5bA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKIgvh4xveZ1CBpEw9VuE28nGsbEGowXZPFbP_SREh9gg&oe=6ABEA9EE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/449115777_463842399719451_2627892147009403798_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bbTiJyRhPu8Q7kNvwGSnCyf&_nc_oc=AdrltoO3AS-lT-cTQnOariEVnjsiZpQZdGwxZs1dzF9M_sfe_0lVXo_9nwMQg24IaGw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQL1VQZx1_1phW4-LdruiPsOdj5yCOXKJZVXOFbo5zqkKQ&oe=6ABE9ED1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=987350299534983"
+      },
+      {
+        "id": "833521461737484",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "למה את מחכה? צרי קשר עוד היום!",
+        "body": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1721286000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/448680529_1516955112557699_381293680840296021_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dxg53iPVk9gQ7kNvwF5i9wZ&_nc_oc=Adr4GmrJWxqIxqtGKl-Pd40YyhCNB38k8HfrptHY3TYaNPlogQbPdZTYi4PVqDRYHk0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQIbmSZwHzZuWACy4ebBAACPX4m0e40-goqIxRlW7H5o7g&oe=6ABEA2E2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIW9sxaJJ_6JkfVOverIYMV_DZ21KVs2N_8xadkRWF0UODjeU2L1dIsaFCGX22cItmp1gRkV4LzuI3_SXjU_2ZVtMxLi6KdPmwMT0rC3N_2g.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rXbj6l6D0hIQ7kNvwGe6Q8e&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzA4Njk4MTM5NDM1NjksImFzc2V0X2FnZV9kYXlzIjoxMTU3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=18984bb1d7637d3b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNjQ4M0VCRjlGQjAxMTU2NzIwMzcwRTdDRjhEQkNCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0QzNEM2QTEyREU0MkZGRjc2RkUwNDI1QTc5QTMxNThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai9MKdl8SbBxUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQKKgW-OIal7cidPZXhfldtp1k6SMgJpf42OOYAkAacJEw&oe=6ABE914E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=833521461737484"
+      },
+      {
+        "id": "1389117409667736",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "מעבר לאתר",
+        "body": "ד״ר משה רוזן - רפואה אסתטית מומחה בפיסולי פנים\nמוזמנת לצפות באתר שלנו 😊",
+        "link_description": "",
+        "landing_url": "https://drmosherosen.co.il/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780038000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709864394_27310530255225472_5177921634808291623_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pT1uzJVohlQQ7kNvwHI510q&_nc_oc=AdoCoZdGaG-5R7NpgpaJq0WtsXSUjNHBJMEQGaIVEEMDB8yGbtw2By5vjyKePbSbcqg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQI1_8kg7yD72ifETCfruhtXPv8X_vTMC6lf9LMDsoJRJg&oe=6ABE9BC3",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOab4LBA4TF4vSEDRlLJtOYKHPnZTr19Rgh9sM6e9N3Wu28Vvvdp-_ireotiew0_9MiW4By2zQ379eKigvdzKihhfprzOKhSgAKdk-FcpuszA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=8-lCOL5u4ccQ7kNvwHk66Fp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjIwODYwNjE0MTIyMjAsImFzc2V0X2FnZV9kYXlzIjo4NzAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f6a4ea3de739d12a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTQzQzVBRkRENzJFREQ0OTdBRUMwOTMzOEIwNzQ4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NDlGNzVGMDVFM0QwQkEwRkUzMjA1NjZFNDM1MkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4vZKFzvCYBRUCKAJDMywXQDQZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJDdHJG6pFD3kjvc0hWeiPq9VTWgTafHFgm60XNx0Voug&oe=6ABE84F4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1389117409667736"
+      },
+      {
+        "id": "493830283160041",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "למה את מחכה? צרי קשר עוד היום!",
+        "body": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1721286000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/449058153_691087116485329_9063180936668266917_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=osYsJzaeLGIQ7kNvwFYkKD1&_nc_oc=AdrQEyJDGH2prY0wl1fey6LRJn7TwNokMTYeNOzm96iAgVafKyzlf_ukmrEYCIKEF0E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQJnSReQdvCxHErCvY1Py7QdtoPhIWWWEqv89qkSFfcwVw&oe=6ABEB538",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP9QB_MUKTQXb6brFTXk_NS5jdl3gmRkdJuj1ka1fxNbohsB4TbPu8pLF1tcV6y867wGC8Eq4X_Y4Eaa17npcw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=iyJwzHO9A8oQ7kNvwGl9lXP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzY0MTE5MDg4NDAxNjk1LCJhc3NldF9hZ2VfZGF5cyI6MzE5LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ8fxoKRmNPuOo5wl-oA8HpI1yjBJXR-P9B4SFBA8taVQ&oe=6ABE8F76"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=493830283160041"
+      },
+      {
+        "id": "894962859769865",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל, למראה טבעי ורענן 🤩\n\nסניפים בתל אביב וירושלים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1765785600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/599571720_1630073735103341_1506128611168273963_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p4Pi34XUbkUQ7kNvwFEthIj&_nc_oc=Ado13LfkOP03mBkET0uHxTlxxA2ILXsRf_ISTFsh7C3Kgvd9AoQdbF-RUb-FYxLIlCI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQIDxYGcVJoZUTckVnoPd4GLn_LjvAsm-6GH_mwZYh5jPw&oe=6ABEAE2C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPN6YCsC8uDNmJaUPEc_UCVxQKhyu5yCZ65Rk4binXwPLhHH7PIU72FhTsQiPe4pjLxdYhAwey9G5JJHoqZTiS_JjLc9cDN6ad9BMEE_5ia_w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ttnirmat830Q7kNvwGjMZN_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNTQyNjc2MTUzMzY1NzAsImFzc2V0X2FnZV9kYXlzIjoyODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3b1a2eb0c5303a68&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRFRjJCMTY1OTc0MTkxOUQyMUM1NjRGNjIwNTk4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg0NDhBQTJGMDEzRjQ3QkI1N0UwODFEQUI1RUY2NjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb04eK3jpamBxUCKAJDMywXQFFzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQI-XLkZNYw3W2JVvOlgOsAbhV9cjdKEeF8pgD3WoWkOmA&oe=6ABE8BC8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=894962859769865"
+      },
+      {
+        "id": "444817598503425",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "מילוי שקעי עיניים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה צעיר ורענן\nתוצאה מחזיקה לשנתיים ויותר🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1719212400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448456295_841735347843721_8914431523459517725_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sFOp0PpOr5UQ7kNvwH2zVX8&_nc_oc=AdpP9JrA37noiFDe0a5yGnUvRABdpw2ZzKNKWX-LjWaWcW-AvxhIfka0DQPFeLYsYpQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQIvUUNMHbIPVfbpNST80J7cZkoyi6j0o82D-Bg2kh2DGw&oe=6ABEA457",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQONh7aWmBkQ3VIUJaJRNyGRBKfZdVAYgVpRRV-oWZeo_kha2cWrXOiIqXmc3nCiHI0bod-F3Z4zIZz_8oqaXgyA4VAj1B0TZ0t-XO1eMQwPqw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=KJ_A-cNXK7IQ7kNvwFVaNqc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5NzI2NzQ2ODgyNjI3OSwiYXNzZXRfYWdlX2RheXMiOjgyNiwidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=aff95bbfee87b94a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NDQ2NzVBOTFEOTY0Mjc5ODFGREFFNzUxNUY0NTQ4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dGVF93aHFJNmMwTjJMVUNBSnkyZmwzR0tkb1NidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbO2qnEicfqAhUCKAJDMywXQCYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQKQnEu5RmffUyzNOPTD7w7pQH6V6zb7UW9UE5Xx1hQFVQ&oe=6ABE8867"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=444817598503425"
+      },
+      {
+        "id": "1564540031818945",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום. טיפול מדהים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל, למראה טבעי ורענן 🤩\n\nסניפים בתל אביב וירושלים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/788060374_1368579238821329_4459523950571148950_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lzcHQAlRZHwQ7kNvwFkiBhg&_nc_oc=AdqK8WxVc-JXgHs4eLfzgbUagl8y3Gn6gJT9LW16WwFR4UFZxRrsk4qF2e0WawHlV3Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQI0z_zceG_57PgXyUhJwbJIWqzvVmxdHXSHq-dvkzbqsg&oe=6ABE8B22",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPN6YCsC8uDNmJaUPEc_UCVxQKhyu5yCZ65Rk4binXwPLhHH7PIU72FhTsQiPe4pjLxdYhAwey9G5JJHoqZTiS_JjLc9cDN6ad9BMEE_5ia_w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ttnirmat830Q7kNvwGjMZN_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNTQyNjc2MTUzMzY1NzAsImFzc2V0X2FnZV9kYXlzIjoyODUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3b1a2eb0c5303a68&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzRFRjJCMTY1OTc0MTkxOUQyMUM1NjRGNjIwNTk4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg0NDhBQTJGMDEzRjQ3QkI1N0UwODFEQUI1RUY2NjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb04eK3jpamBxUCKAJDMywXQFFzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQI-XLkZNYw3W2JVvOlgOsAbhV9cjdKEeF8pgD3WoWkOmA&oe=6ABE8BC8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1564540031818945"
+      },
+      {
+        "id": "1781696309165702",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל, למראה טבעי ורענן 🤩\n\nסניפים בתל אביב וירושלים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1765785600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/598790956_24720543004291750_7035521349774298907_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vxk_Zf0M8rMQ7kNvwGpGmqy&_nc_oc=AdpV0cbs6CzEMSu5qgSH695ciVBnlZtN2oPSbEhgGCsx7arPe1lhNSDhaCFQv9P1Um4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQKxJDW8PGIraX9QyqRtII_RABDiyZRu1B_cpjBbsyLKgA&oe=6ABE874A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1781696309165702"
+      },
+      {
+        "id": "1711331036342608",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "מילוי שקעי עיניים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה צעיר ורענן\nתוצאה מחזיקה לשנתיים ויותר🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1719212400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/448883137_928397235709433_2034910392927563665_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bKAOR5KqzR0Q7kNvwHMGDR3&_nc_oc=Adp-J8JL5z22zUxK8g4Ae_NIWxoeq2pEIwZjaBHH_MPcaZdHVRKc_7RsguJTqaAiEE4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQLuuy2ynzN-XwMjJPgyF4WM2T-8NXuRUyyYKSQh_IcVMg&oe=6ABEAAE4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpyMU7zRpfplX7rZwsCrgsk1Qu8gcged3mlNTdPpENl1vfsSOeJOhCkWg4NHYVMU3_0vJmRIMq0hSni7PyLEnFkeyAtSveDrMRGrV_RBuDFA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hnBrLobPRX8Q7kNvwEp2tLA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ4NjAyOTgxNzE5OTE2MSwiYXNzZXRfYWdlX2RheXMiOjgyNywidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjg4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=29ac8856829e5b6b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQjQ4OTMyNjUxQTQxMjAyNzlDNDQ5MjdGMUU5OUY5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dOb2R3Qm9RZzRqX080Y0JBT0ZKaTdUbUZYaGRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby6NWp1ILdARUCKAJDMywXQFYO6XjU_fQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&_nc_zt=28&oh=00_AQLJ2sURz_-1_WPVJOa4Y54Yb4MkNBdLcXMI5oQsCFw1hg&oe=6ABE94CB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1711331036342608"
+      },
+      {
+        "id": "1602069907981367",
+        "page_id": "1333411880157022",
+        "page_name": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+        "page_url": "https://www.facebook.com/DrMosheRosen/",
+        "page_like_count": 8607,
+        "page_categories": [
+          "Doctor"
+        ],
+        "ad_creative_link_title": "דברי איתנו עוד היום!",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום, בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל, למראה טבעי ורענן 🤩\n\nסניפים בתל אביב וירושלים",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787197012_1583500270185322_4868589556086469037_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ke9L3joxO94Q7kNvwGDM3Mg&_nc_oc=AdohNB4bpcl8eBRYTwm8rbEXnJ458-AjHkFuR1L3VzcQg3g5wE9Rtr3EwSn0K0_sGOI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IWbPmaId815FhqszADhWSg&_nc_ss=70289&oh=00_AQIVuDUEmAivXdbvQdKazwDUbhdchjdxi1Y3C79Wi1Hgfw&oe=6ABEA918"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1602069907981367"
+      },
+      {
+        "id": "1390436811640070",
+        "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "http://instagram.com/dr.mosherosen",
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "672775305911131",
+        "text": "✨ היופי שלך לא נעלם – הוא פשוט משתנה עם הזמן.\nטיפול פיסול פנים עדין ומדויק, שמחזיר את הרכות, החיוניות והאיזון למראה הפנים – בלי לוותר על הטבעיות.\n\nזה בדיוק הזמן לדאוג לעצמך, בקצב שלך ובאופן שמתאים לך 💖\n📍 אבחון וטיפול אישי בקליניקה מקצועית בתל אביב או בירושלים\n📞 שלחי הודעה או התקשרי ונדבר",
+        "links": [
+          "http://instagram.com/dr.mosherosen"
+        ]
+      },
+      {
+        "ad_id": "1390436811640070",
+        "text": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1431346964521044",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "614584604849799",
+        "text": "טיפול פיסול פנים אצל ד”ר מיכאלה קסל \n📞051-5335110\n\n#antiaging #רפואהאסתטית #חומצההילורונית",
+        "links": [
+          "http://instagram.com/dr.mosherosen"
+        ]
+      },
+      {
+        "ad_id": "8379243688764077",
+        "text": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "453820404071736",
+        "text": "מילוי שקעי עיניים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה צעיר ורענן\nתוצאה מחזיקה לשנתיים ויותר🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "25963290609986186",
+        "text": "בקליניקות של ד״ר משה רוזן האווירה נעימה ולא לוחצת, המטופלים נכנסים עם חיוך ויוצאים עם חיוך גדול יותר. \nכל זה בזכות צוות איכותי, רופאים מהשורה הראשונה, ויחס אישי בלתי מתפשר!\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "486232960728117",
+        "text": "פיסול קו לסת עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4041022099448512",
+        "text": "שמעת על החומר החדש שמופק מזרע של דגי סלמון?\nהטיפול החדשני שמשגע את העולם הגיע אלינו לקליניקה!\nד\"ר משה רוזן עם כל הפרטים בסרטון",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "794599186308672",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "987350299534983",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "833521461737484",
+        "text": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1389117409667736",
+        "text": "ד״ר משה רוזן - רפואה אסתטית מומחה בפיסולי פנים\nמוזמנת לצפות באתר שלנו 😊",
+        "links": [
+          "https://drmosherosen.co.il/"
+        ]
+      },
+      {
+        "ad_id": "493830283160041",
+        "text": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "894962859769865",
+        "text": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל, למראה טבעי ורענן 🤩\n\nסניפים בתל אביב וירושלים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://drmosherosen.co.il/"
+    ],
+    "freshness": {
+      "active_count": 20,
+      "active_seen": 20,
+      "checked": "2026-09-27",
+      "newest_start": "2026-08-26",
+      "oldest_start": "2024-06-24",
+      "days_since_newest": 32,
+      "stale": true,
+      "complete": true
+    }
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:00:00",
+    "filtered": "2026-09-27T08:00:11",
+    "qualified": "2026-09-27T08:01:58"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://drmosherosen.co.il/",
+      "https://drmosherosen.co.il/contacts"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

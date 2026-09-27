@@ -1,0 +1,224 @@
+{
+  "lead_id": "2026-09-27-177",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/cityhovalot/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "101823852536241",
+    "page_name": "סיטי הובלות",
+    "active_ads_count": 2,
+    "search_keyword": "לפרטים בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1418121519948895",
+        "link_title": "הובלה בביטוח מלא",
+        "body": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615823393_4179540865695513_5205176257039600096_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p7nX7ISdINUQ7kNvwGG_8On&_nc_oc=AdpUUIYJOAp51eKXcz4f9-oHrAewQlJEDmC2jllQxhXqlc_V1h2NjwWRFrboL0VKio0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=2HS6bz9dtGwwjbFQdwErWA&_nc_ss=70289&oh=00_AQJkqicv5EcmiDtnnvhHdpVl9BifbYP3vBLBQ5LHG_Jz5w&oe=6ABE9D78"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1768982400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1418121519948895"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב",
+        "ביטוח"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 235,
+      "product_score": -4,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1418121519948895"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 235,
+    "page_categories": [
+      "Business"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1418121519948895",
+        "page_id": "101823852536241",
+        "page_name": "סיטי הובלות",
+        "page_url": "https://www.facebook.com/cityhovalot/",
+        "page_like_count": 235,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "הובלה בביטוח מלא",
+        "body": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "link_description": "צוות קבוע – מחיר סגור מראש",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1768982400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615823393_4179540865695513_5205176257039600096_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p7nX7ISdINUQ7kNvwGG_8On&_nc_oc=AdpUUIYJOAp51eKXcz4f9-oHrAewQlJEDmC2jllQxhXqlc_V1h2NjwWRFrboL0VKio0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=haC2rpxsSZg1BYaDAX6m7Q&_nc_ss=70289&oh=00_AQI3IqRXa8fMdmkF3Ea_IqZ1NMQyHz9Fz27-c_c8SCB1lA&oe=6ABE9D78"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1418121519948895"
+      },
+      {
+        "id": "868878299467869",
+        "page_id": "101823852536241",
+        "page_name": "סיטי הובלות",
+        "page_url": "https://www.facebook.com/cityhovalot/",
+        "page_like_count": 235,
+        "page_categories": [
+          "Business"
+        ],
+        "ad_creative_link_title": "הובלה בביטוח מלא",
+        "body": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "link_description": "צוות קבוע – מחיר סגור מראש",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1768896000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615811875_4229176473995984_1790860783833274487_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M-kil_hqQSEQ7kNvwGBOOeG&_nc_oc=AdpXG7LLWCd73E3ZwUqYpvsWZGzOnlLO2Sx83JMyUeTVywOsfC6WI0QPc1WypupF3yg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=haC2rpxsSZg1BYaDAX6m7Q&_nc_ss=70289&oh=00_AQJm3c0-dHhyy_3A6tuXVFMWZxO17UKLrr-AUU6Tdqlugw&oe=6ABE89E0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=868878299467869"
+      },
+      {
+        "id": "1418121519948895",
+        "body": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1418121519948895",
+        "text": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "868878299467869",
+        "text": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1418121519948895",
+        "text": "מחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1418121519948895",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nסיטי הובלות\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1418121519948895\nהתחילה לפעול ב-21 בינו' 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nסיטי הובלות\nממומן\nמחפשים הובלת דירה אמינה?\nסיטי הובלות – ניסיון, אחריות ושירות.\nפירוק והרכבת רהיטים + אריזה מלאה.\n\nהצעת מחיר מסודרת בוואטסאפ תוך דקות 👇\nWHATSAPP\nהובלה בביטוח מלא\nצוות קבוע – מחיר סגור מראש\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:11:51",
+    "filtered": "2026-09-27T08:12:25",
+    "unqualified": "2026-09-27T08:15:22"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

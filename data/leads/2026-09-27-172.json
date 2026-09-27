@@ -1,0 +1,623 @@
+{
+  "lead_id": "2026-09-27-172",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "109244637120838",
+    "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+    "active_ads_count": 11,
+    "search_keyword": "דברו איתנו",
+    "sample_ads": [
+      {
+        "ad_id": "1815902302433357",
+        "link_title": "הצעת מחיר החל מ-8 ש\"ח",
+        "body": "פתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/534887362_1494492335040509_971799693894485146_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=19iObwUAWU8Q7kNvwFNCsH2&_nc_oc=Adp6SWMXuDUhuUP5o3F2k6YMV2WDrtQdY-aT-ML8UgqP16XjLbt6gr5H6D-qS3xzOKw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&oh=00_AQLexZKETBjShVtVYrKXfgCvZsWbv-SxA3uVe2rffQk5vw&oe=6ABEAA29",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMxZKcWBE2tzYbhPQH1k9HPPaD1YvgbCcGTknzfJRiYcbYu-xZOVckApo4dl9DBqmaWSQIspSMIYjnH44Ocmv5qsGaAv_4VApMrrpUG3kmzFQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2ToeU6B9tosQ7kNvwGtUBDM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYzMDU4MTkwMzAzMTQ4NSwiYXNzZXRfYWdlX2RheXMiOjQwNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6ac482e86bbfc694&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTQ3RTY0MUU1MDE0NzIzMTVBMEU2NjYwRTA3Q0Q4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q3NDQxRkJCN0RBNzY1MzRFREU5OUI5MDMxNTNGOEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb68qel2eCeAhUCKAJDMywXQELEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ioPZiMDMUmSwXnA9AqIbiw&_nc_ss=70289&_nc_zt=28&oh=00_AQJNJh1colKloAGdC_MKqO9t55UrBdp5SSgUM5utwEgZCQ&oe=6ABE916D"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1772524800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1815902302433357"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 11,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 3346,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1815902302433357"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 3346,
+    "page_categories": [
+      "עסק מקומי"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1815902302433357",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "עסק מקומי"
+        ],
+        "ad_creative_link_title": "הצעת מחיר החל מ-8 ש\"ח",
+        "body": "פתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1772524800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/534887362_1494492335040509_971799693894485146_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=19iObwUAWU8Q7kNvwGfguYp&_nc_oc=Adr__9_Ag9KWvaiWDN72v33rNM8euE04T44sA_cJLTYxwyqoqW5qMLUab1gm1iEvGJQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQK6HW6_OVdYQm7VTCsHJ5xhvKeTQLF7ThpNHegtR7ozVQ&oe=6ABEAA29",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMxZKcWBE2tzYbhPQH1k9HPPaD1YvgbCcGTknzfJRiYcbYu-xZOVckApo4dl9DBqmaWSQIspSMIYjnH44Ocmv5qsGaAv_4VApMrrpUG3kmzFQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2ToeU6B9tosQ7kNvwExRLzy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYzMDU4MTkwMzAzMTQ4NSwiYXNzZXRfYWdlX2RheXMiOjQwNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6ac482e86bbfc694&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTQ3RTY0MUU1MDE0NzIzMTVBMEU2NjYwRTA3Q0Q4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q3NDQxRkJCN0RBNzY1MzRFREU5OUI5MDMxNTNGOEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb68qel2eCeAhUCKAJDMywXQELEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQKYYdG_7Qo8jk4J9aHNcYsgjotJYWiZxUyFaGN253x1Eg&oe=6ABE916D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1815902302433357"
+      },
+      {
+        "id": "1357648869276263",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1761030000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/568092936_820319480545282_3054882150909659290_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fvNN5J0utj4Q7kNvwGQUV4R&_nc_oc=Adqq5-dY0aeD4-fJuaBrWQevXvgA1TX3FtXm1VonLUOmdvsvhm8pHIM3fWrjGkf0u2c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQL37F7es-agGIaoCnCcFHx3gPviBjOMy7n-iMg-zBf1_Q&oe=6ABE97A3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/568684388_1384627423022583_7027404980472373638_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8jkVk0J2ZfsQ7kNvwELIIcQ&_nc_oc=Adq4iD6vqzk2_iofRUvJKvFdgFXeWJSGqrAjxqHKOdn5ezz6NpPVVOD6oq3Q0tzNEbw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJPZiIqcfNjro0Q4g39UweJZsC7Dkr2bj3DKLvNLO7aQw&oe=6ABE9B07"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1357648869276263"
+      },
+      {
+        "id": "1804487403758967",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "הצעת מחיר החל מ-8 ש\"ח",
+        "body": "לא צריך להשקיע הון על פרגולה. ולנו יש את הפיתרון עבורכם!\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1753167600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/520364911_2819267904947888_6819537401039579836_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yZa5hoC1PKMQ7kNvwFdS7jf&_nc_oc=Adp7dfq0NK4bb1xWcDuUKKFtNuXWuOGKRngyPE-Oo10RQqROLWVIHCZOk-8SHSeah0c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJAvPGPoAuHCOcFo93JkYNhphqUvbPHbMmg9fMc-3aHYg&oe=6ABE869D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMGol_OT6f9AlJZg0l5QPO5ptmA8NCN4eT1iakD5G6Sa_NVam54dkKhsRCLBl0bUDOYcMSMDkLgOmx7avRCpV5trzwWX9-1Q9OLHi7FOcALjw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5MeNodJpvYYQ7kNvwGbOnYc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTg5NTg0NjExNzM2NDIsImFzc2V0X2FnZV9kYXlzIjoxMjg0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c7e28214eebbf2d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDRCN0EzNkI1QTYxMDcxNTk3M0ZGNDE0QTJEQjg4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzQxNENBRTc3RjYwNDRCNjk3NkM2MTEwQTgzRjFDMzlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU_oXk7fCfBhUCKAJDMywXQEizMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQJMM7jIcoe8HMHzQyBCamML_rUZOGxomXV80t4NuTz-Jw&oe=6ABE8DAD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1804487403758967"
+      },
+      {
+        "id": "1822195715180221",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "body": "הלקוחות שלנו מדברים בעד עצמם..\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀🤩\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "link_description": " ",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1743490800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487827071_682596124441754_4621926898927110490_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BaYFVNhWwN4Q7kNvwG7NzsX&_nc_oc=AdqzVV38o91T2GdGjiZ9Ira_ZzyR8dPojuy6GK5rJuvWmJcsjZMPYlVzTG5F_BU57Fs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQK8Ys9wSR52sxzVoCydpRwj9sVAG8V08GGq5JCnYLYnIg&oe=6ABE9BEF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/488472289_567030072411562_3852525880296023716_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6u5Gf2BakQYQ7kNvwELAxaG&_nc_oc=AdrfdirnV51GnWI8qFu5zCb63HOVgrfInRxW7ICzE7ldx0kjqe5Bk3fgS6tKGdj1MDo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLBWScjcSHZpazNfgSbY1MfadQiwo78CuNFIIxv_rFaOQ&oe=6ABEB09D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487762924_1172597780915950_5232764711633505622_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zbdqvj_Dr8gQ7kNvwEWow_5&_nc_oc=AdonWfJqFKjEQdilRqcVkU-dAACb7kN0KiIH49oP-YnVi6RBaVput5R6mezf6CwA7b4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKUOUxB2kIQHfzgc7NEdKCfBwKK85IXXlvz-ooPtEdaMQ&oe=6ABEBAE5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/488541658_1004829427822220_2487313621237263068_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2nvImbJq3MYQ7kNvwF4X7gk&_nc_oc=Adq89RRj0oCKsJxj4934WW4hqsFOXniHzqkqx6sobtyCZpX8EJGtnfVvYFRRjEVIlG0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKJs6jJ9ghnEjTzlt4SODyF9s7FaJa0opNIH44D_GYK0g&oe=6ABE9C25",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487745331_1507348820669486_4256430842223592579_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m_jU_edbaj0Q7kNvwHMSHxa&_nc_oc=AdrNsBTaZsuiP1GCfXvWuWC73pn2GRyo1Wp-hq6wdQwVZE5vR5o75nhw8LsyU1PLmYI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIUpIMO1eXStCcsqmudZ_VX5SI3nlK0gdKjef0L5Dngcw&oe=6ABEA19E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487826169_1575471079809333_8872581201249634661_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dTANE7CqLHQQ7kNvwHHTd79&_nc_oc=AdqYN5B2JagyPejwR1n4ZJ9YkQAdFHGoZor_7f1JNEW-EMSYxo7eKbp4N-upr8QHCT8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIMk1YaPBstrrVgDtwG7ViAW8LjEjgx-K5OOhk-rAbHdQ&oe=6ABE9819",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/488567196_1712842266033123_6236249575136862576_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zJgOTngrDdAQ7kNvwHOYkUw&_nc_oc=AdrctzB0lnwIppbaar1hcd0gIRcCUEJGVFA7uRs0RhCmEnjVWwQzNdf67HS69_YppLo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQL3ZanA2RrLbZenY5keVHtX8pcbFurE-_8Ptl3X1LiSTQ&oe=6ABE89D0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487752349_1187178933005671_8672612578160100003_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4YfKa30yplYQ7kNvwHGMBAE&_nc_oc=AdpjaKIZRVFrb_e2T89BVQRo-aitUTLtrUl3R6q3zUP-waIlRLO43djmXRTO8WZu4Fc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJ7vtWAKyHSoBjA1LaXcAYP36LMrpWuPhx5YVHZzNC6dw&oe=6ABEA6BD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487811928_3844866149110842_8749500759470484624_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2LqUp_CYQAcQ7kNvwE2OjM1&_nc_oc=Adr9MMVXr6YUFHgMN3Y3bt9E4P4pzKlschT6aOW1n5oebVoOZ2TqpEU2WwtiXa9y1ME&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLYI2E7UVy2vZgpLx6DV59R8XIi7dztuQDna4iwBaIZVg&oe=6ABE8965"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1822195715180221"
+      },
+      {
+        "id": "1208019064080918",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1743490800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487975943_660402686721429_3881665676401850572_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0azUkNJ7R2UQ7kNvwHZZlE9&_nc_oc=Ado4feyX4EMByk4N5WDredrt6o5stAQGmoguQNFETNh5zZrlpHuA7yn3kr-hue-EDAI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKAjcBk_49O7VHI8kKizFZHf6V2we9cULAH6wQkHiqMTQ&oe=6ABE910B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMSHFV8Uirn0U4NGf-SfaqV48h5kzJ4iCBuZ63RQH6L0WeDaFDb75JjixNqtYRhnMWqFvA2ozxQKLleyHYw0uc4cBeQ8M4ZcWAwYIT1C_UMRQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hZvjmB9Sd3gQ7kNvwEyfVYu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NjA2Njc5ODk0NjUzNSwiYXNzZXRfYWdlX2RheXMiOjU0NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8b9b5ee77fd2743&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGMjg2OTg5NzlERUZDMTcyOTE1MjIwNjRBRkRBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzY0MDUwNDMyNTU2OTU5N18xNDMwOTkxNzk1ODczMTI1MDY1Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOo4vGvqi3AxUCKAJDMywXQEf1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQJosTSCYid61H67hmsahmhaWwVAYUMQNMmTKoChULoOew&oe=6ABEB071"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487975943_660402686721429_3881665676401850572_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0azUkNJ7R2UQ7kNvwHZZlE9&_nc_oc=Ado4feyX4EMByk4N5WDredrt6o5stAQGmoguQNFETNh5zZrlpHuA7yn3kr-hue-EDAI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKAjcBk_49O7VHI8kKizFZHf6V2we9cULAH6wQkHiqMTQ&oe=6ABE910B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMSHFV8Uirn0U4NGf-SfaqV48h5kzJ4iCBuZ63RQH6L0WeDaFDb75JjixNqtYRhnMWqFvA2ozxQKLleyHYw0uc4cBeQ8M4ZcWAwYIT1C_UMRQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hZvjmB9Sd3gQ7kNvwEyfVYu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NjA2Njc5ODk0NjUzNSwiYXNzZXRfYWdlX2RheXMiOjU0NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8b9b5ee77fd2743&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGMjg2OTg5NzlERUZDMTcyOTE1MjIwNjRBRkRBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzY0MDUwNDMyNTU2OTU5N18xNDMwOTkxNzk1ODczMTI1MDY1Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOo4vGvqi3AxUCKAJDMywXQEf1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQJosTSCYid61H67hmsahmhaWwVAYUMQNMmTKoChULoOew&oe=6ABEB071"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487975943_660402686721429_3881665676401850572_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0azUkNJ7R2UQ7kNvwHZZlE9&_nc_oc=Ado4feyX4EMByk4N5WDredrt6o5stAQGmoguQNFETNh5zZrlpHuA7yn3kr-hue-EDAI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKAjcBk_49O7VHI8kKizFZHf6V2we9cULAH6wQkHiqMTQ&oe=6ABE910B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMSHFV8Uirn0U4NGf-SfaqV48h5kzJ4iCBuZ63RQH6L0WeDaFDb75JjixNqtYRhnMWqFvA2ozxQKLleyHYw0uc4cBeQ8M4ZcWAwYIT1C_UMRQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hZvjmB9Sd3gQ7kNvwEyfVYu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NjA2Njc5ODk0NjUzNSwiYXNzZXRfYWdlX2RheXMiOjU0NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8b9b5ee77fd2743&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGMjg2OTg5NzlERUZDMTcyOTE1MjIwNjRBRkRBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzY0MDUwNDMyNTU2OTU5N18xNDMwOTkxNzk1ODczMTI1MDY1Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOo4vGvqi3AxUCKAJDMywXQEf1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQJosTSCYid61H67hmsahmhaWwVAYUMQNMmTKoChULoOew&oe=6ABEB071"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/488233329_1045649174046160_4892746525571866687_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JP5AX9S_74UQ7kNvwEtL6pN&_nc_oc=AdosfiQokPSyf0a0aCMYCmhXLbq-9MgcuZzJailBR8X8v1I7wIGiavSg08Mvix51M5I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIPz1DKTXmtK2puK6wrjkz0n3GqfQ_7zD7FDXe1QDnxpg&oe=6ABE926F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMGol_OT6f9AlJZg0l5QPO5ptmA8NCN4eT1iakD5G6Sa_NVam54dkKhsRCLBl0bUDOYcMSMDkLgOmx7avRCpV5trzwWX9-1Q9OLHi7FOcALjw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5MeNodJpvYYQ7kNvwGbOnYc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTg5NTg0NjExNzM2NDIsImFzc2V0X2FnZV9kYXlzIjoxMjg0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c7e28214eebbf2d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDRCN0EzNkI1QTYxMDcxNTk3M0ZGNDE0QTJEQjg4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzQxNENBRTc3RjYwNDRCNjk3NkM2MTEwQTgzRjFDMzlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU_oXk7fCfBhUCKAJDMywXQEizMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQJMM7jIcoe8HMHzQyBCamML_rUZOGxomXV80t4NuTz-Jw&oe=6ABE8DAD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1208019064080918"
+      },
+      {
+        "id": "638836995877447",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "body": "הלקוחות שלנו מספרים – התוצאה מדברת בעד עצמה!\n☀️ פתרונות הצללה בהתאמה אישית לגינה ולמרפסת\n\n✅ הכל אצלנו תחת קורת גג אחת – מסגרייה, מתפרה וקונסטרוקטור מקצועי\n✅ מומחיות בכל סוגי ההצללות | ✅ עמידות מלאה לפי התקנים\n\nרוצים הצעת מחיר משתלמת?\nשלחו לנו הודעה ונשמח לחזור אליכם עם פרטים.\n\n📞 ניתן גם להתקשר: 072-3726698",
+        "link_description": " ",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1750575600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509884476_1794300581151699_275125260154744212_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2UUlokFaFvMQ7kNvwEhpg3z&_nc_oc=AdqdG-07vncOM2jx4uv6hZ0_FvNIZzfuhZeYb2ZoQ1uvIk6166qIZ4FhdJJDHVWY_fs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIcozHX7LaWv4dOHTwM5QsF1r_iHcFUb-3KIO-cctYqEw&oe=6ABE9FCE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/510308441_1206777337917433_3462059380571595290_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PG8TCs74yyMQ7kNvwEU_cyp&_nc_oc=Adodns776SOyJ1GMbBW8iNCu1sYzZAvGocW2LopyNbnbnLM_Y_pEY8H2qr3uI3__ZyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJ-ywDGW_fx5CoiFHuI-dvfj-zXaf7l0_mHdv0PLphWBw&oe=6ABE952A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509788721_758272079876912_1137597562643933885_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pBng0mf8OuwQ7kNvwEcF-EF&_nc_oc=AdpheYYlZWc-OE90GmjA2HEMwJrKmk1TG-QicmYVPeLc9Qlo-EqLvet27VzQh5rJ42U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQI3qH8qjtyU9N7WBlq3JroZMGwxXRGMn-DOS7cV_5vXRg&oe=6ABE989D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/511188496_1859196014936876_8352044917507468717_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8t1slKdCZd8Q7kNvwHpfgs7&_nc_oc=AdrnmUzBzZwXT07MGKiHavYJYLe2EITXOmrOseszRTkAR39DRkaJKq8_Tro7P391H6Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIHKxXQYOvxPoVbJMq3eEHd-a7YUEm1KkH1hkGYPQAewg&oe=6ABE8B47",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510456297_1363152444977845_7592602429665155196_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GBvvx-vwTkUQ7kNvwH0eq0r&_nc_oc=AdoZEa6qi1rh9HtcQFrmaGwmrGFuuUTJJgzmQVHIysFB1xc58oDCh0Tdf2zQIWY0GDw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJKjxHL0lIzQEJplVfoJFHMCqv3sSIZOzFEu5_kmmRVCQ&oe=6ABEB3CC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/509427861_1449703469493656_1492131590421763926_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AdkbZxSX5gAQ7kNvwFN2xk5&_nc_oc=AdpR_159NaU1zWoXNPdW6uMdEcars3wH-S-MPY_vaPP_nifxWX3SoSB90gvSjEY7x4E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLh76ytQ2dc_5mxcMFQ9fmYv36lr79ijdQeK2h5SJfBOA&oe=6ABEB171",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510456427_738237512024301_8358695685818649298_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M-dr18B41ZYQ7kNvwERYBUE&_nc_oc=AdoUHF7j2rTRV7HcotruE8EMzdu9b0VGGj7HDgUG-WrepsJ7TH-n1XORWAgiqdBazHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQL8TZz6DzHwX-mw9GdZ9AMbmB07mgGfxDqm9Ja-Yq6e5g&oe=6ABEB165",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/510976857_1267435164911246_5091972459722248361_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XSD-KaqGeOQQ7kNvwFX3rQj&_nc_oc=AdqmLGjELxm5B0Vbc8L200xhKPtmTYYWNPgtYVQ-GJTirryklT-ptFwmbbAGbR5P6AY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJIUQb0bgPfeO2jDlo7b_tQ56Bw7OxkezWY8mBXwMqmZg&oe=6ABE8D39",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/510004715_1037066045182076_3388529963494804421_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A_yIdUTArUcQ7kNvwEUoE2Q&_nc_oc=AdrFTQGiIWjsCgUvNoLWhpkPiBhhK_lqzeYqJ3cG1ZW_9hzvg3_zDPPRGlhxxC79h_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIOAtkkRFRP_Fk1Qhgftr4EEUzuR-GeYGA9I7ttF7NN9g&oe=6ABE9DEE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=638836995877447"
+      },
+      {
+        "id": "995930235468055",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "הצעת מחיר החל מ-8 ש\"ח",
+        "body": "הלקוחות שלנו מדברים בעד עצמם..\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀🤩\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1743490800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487874156_1368746740988894_5258152545593982415_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2CedR-hFwqUQ7kNvwGhbDts&_nc_oc=AdpVYpIB3CiTSKFmxCgrkpuVzEncRDjxDO8-cZcgkuesV_TxVwVxdWd33zlwt-xn2rg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJE44NlTq_LPY1fMcvgzkP2ucfTRgv8D5V5SfobmN5QaA&oe=6ABEA695"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=995930235468055"
+      },
+      {
+        "id": "1046375601314090",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "body": "🌬️ למה להתקרר בחורף? אנחנו יכולים להפוך כל חלל שלכם לפינה נעימה וחמימה 🌬️\n\n👷‍♀️ אנחנו לא רק תופרים, אנחנו ממקסמים חללים\n🎨 בחרו מתוך מגוון תוספות: חלונות, דלתות, רוכסנים ועוד\n⚙️ טבעות פליז נגד חלודה כדי להבטיח אורך חיים.\n\n📦 אספקה מהירה - 24 שעות לאיסוף עצמי ו-48 שעות למשלוח\n🌍 משלוחים לכל חלקי הארץ\n💰 רוצים לדעת כמה זה יעלה? שלחו לנו מידות או סקיצה בוואטסאפ\n\nותקבלו את ההצעה המשתלמת עבורכם❗\n\nאו חייגו עכשיו לייעוץ וקבלת הצעה לטל 📲: \n072-3726698",
+        "link_description": "מותאם אישית",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_OFFER",
+        "cta_text": "קבלת ההצעה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1786518000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/770402279_1072139738680812_5503471659172377863_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l0-dOoDIVqAQ7kNvwGZxFZY&_nc_oc=AdpKHS1xoWvUZo60vduOq9OkSPHkCCHIgw8R8PWBvcKbKURlpA7y8zec7qy1H7ePPU4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIKlmh3HL8yUkgYokPAwH6vQLTQisLBoqM9h8ly9Jk_0w&oe=6ABE9ACE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769115902_1585145356449727_3814253869890859424_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F2pxDT8f0TMQ7kNvwGGC0oo&_nc_oc=AdrVLuScLYhFCREnuJPtkTyDlagFzvO5su2upEqqMLAwRtFrdgAAt9qBP0YI8KNNgLk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQL4PtWtk8GbGpZd3LDBH-g6hh9tdSx6601MKAb4j068vw&oe=6ABE9922",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772611030_1630400655276373_5801755282154697362_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5puMTN9pvQwQ7kNvwEAaZqS&_nc_oc=Ado-45cYB22tgcbVZ5C2Gp9096IdQNNOKCo2uAswN6eT_qPfk1IUnfrrVa4K4ifrrPI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJpOJzrNcgGmZzcVVU48p3Q90ivbwsbTwd1zCarSk2EUQ&oe=6ABEA1F6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/769083410_2118103569129419_6766939862433033405_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=74VZBfk5De8Q7kNvwHuQVdu&_nc_oc=AdpC-bvBzwOhJaGfFRiDuENM7lkeBrH9NPCuR8ZT_0Ov8mDDT6VcrMtutkJUvLWQVvw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKWmz4Y3qiNKbLNNJin5ASJb_myAf7sV9Avnsd1Y6nbrw&oe=6ABE948C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/771968517_2268244057344085_7601440224744053472_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=73NFk4DXd1QQ7kNvwECYEEk&_nc_oc=AdpQ79h7xkLICuXAj94l7d_R3PfuBG7dKPh1bHXDwCYFgqExWotFOOlBZcSgjkj_SKk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJvY71q13OEWyj_VeklCgZKCOEd_X69ZYY6UBtRIYj0jg&oe=6ABEB6E4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/770501139_4579848288900618_4085185542796748161_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1N7XTtLSVHEQ7kNvwEvN5Tr&_nc_oc=Adrk8n1LofPKIyadvtHJApbDSCH2a6PlGgA-Q7cgAiTVDdcCNAW0u908AB2JxCVuoSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJxrb6rWssa06hP_XGggSt6yBysF27iGUPNpUPrOQ7FAQ&oe=6ABEA040",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773249375_1926710404676723_5400250260356235857_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kaIlBBi-c40Q7kNvwFloXVn&_nc_oc=AdoL8TokufMI9FpsU3pIPD-IkXYk33jN6MLKYJxKhs1yMzZdlJ-0jFJVxDHxyW6at4w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJifRKnVjy2w1YQ1ynS4acyFvScBwSrY8J_o_oXQQoljQ&oe=6ABE9C12",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/772119487_1417175040287264_7165887910096716053_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RnBWVzY4K1IQ7kNvwE3-8aF&_nc_oc=AdquHYpj17rwTGtgadMNzRMW3H8OxQsVTFdzbUyOa0_Ns8d0lFi3Fc51rJhTcQVDXfQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLa69wCdSqyY_zd4bX-tKX7pLvxzqFxV33fFO_BOFIk-A&oe=6ABEB3B6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769115893_3266754003510707_800553371147350613_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lLeKlSyC_G4Q7kNvwEkhBou&_nc_oc=Ado5kxAhYEdEkTyF0HDUe2viClI082UcaluUDxpPkKxOlFX5gdhL4d4Y0ySL14ZGxss&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJCDaO_81vHs7RepOQHTgUBo-8kYvKyJyB8jYct9cFbeg&oe=6ABE9290",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/769168908_1564486695223515_8266242547043236344_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7cdoe16oWKoQ7kNvwHlL5KK&_nc_oc=AdrYEqm5vVkS-fWn9YuRJ-0GGUekZPZsOessZUOuLlxCtvfRbwwawoPUwWInY4apUQg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIAjZJAaFFH3MZnAt15Nkep71jrvjZvDI_WOEhT4lxYcQ&oe=6ABEB5C9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1046375601314090"
+      },
+      {
+        "id": "3409989532514188",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "שלחו הודעה לקבלת הצעת מחיר",
+        "body": "זה הטקסט המתוקן : \nהסוכה של החג יכולה להפוך לסגירת החורף שלכם 🌿🌧️\n\nבמקום להשקיע בפתרון זמני לכמה ימים בלבד, אפשר לתכנן סגירה בהתאמה אישית שתוכל לשמש אתכם בסוכות — ולהמשיך להגן על המרפסת או החצר גם כשהגשם והרוחות מגיעים.\n\nסגירות החורף של ש.ע.ע הצללות וברזנטים מיוצרות בהתאמה מדויקת למרחב שלכם ומאפשרות לכם ליהנות ממנו לאורך כל השנה:\n\n✓ הגנה מפני גשם ורוח  \n✓ יריעות שקופות השומרות על האור והנוף  \n✓ התאמה מדויקת למרפסת, לפרגולה או לחצר  \n✓ ייצור בהתאמה אישית עם משלוח עד הבית\n✓ פתרון שימושי לסוכות שממשיך אתכם גם לחורף\n\nחג סוכות מתקרב — וזה הזמן להכין פתרון שישמש אתכם הרבה אחרי שהחג יסתיים.\n\nהשאירו פרטים וקבלו הצעת מחיר לסגירת חורף בהתאמה אישית.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790400617_1822932882217245_9106333942768783854_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9UFVM7h7TlEQ7kNvwFNNowq&_nc_oc=AdqGoF7-o4XyDe1dGFRltE4rsFUqNRI2VWjWbIlHMj1kkAut84eTX8Z8qzkep5y0zE4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJkIKz-h7TxMOY3GPYCe4C8xM4K-FAHIB0KXrYdA6t_JQ&oe=6ABEBA07"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3409989532514188"
+      },
+      {
+        "id": "1496538312509981",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "להצעת מחיר משתלמת שלחו הודעה>>",
+        "body": "🌬️ למה להתקרר בחורף? אנחנו יכולים להפוך כל חלל שלכם לפינה נעימה וחמימה 🌬️\n\n👷‍♀️ אנחנו לא רק תופרים, אנחנו מקסמים חללים\n🎨 בחרו מתוך מגוון תוספות: חלונות, דלתות, רוכסנים ועוד\n⚙️ טבעות פליז נגד חלודה כדי להבטיח אורך חיים.\n\n📦 אספקה מהירה - 24 שעות לאיסוף עצמי ו-48 שעות למשלוח\n🌍 משלוחים לכל חלקי הארץ\n💰 רוצים לדעת כמה זה יעלה? שלחו לנו מידות או סקיצה בוואטסאפ\n\nותקבלו את ההצעה המשתלמת עבורכם❗\n\nאו חייגו עכשיו לייעוץ וקבלת הצעה לטל 📲: \n072-3726698",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786518000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/771969398_3690096171141872_4482003453064087981_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fwmGvrS7F3UQ7kNvwHpEIiz&_nc_oc=AdpXkJubklgvr1bQeMDurtsHN3xM5jGb4_nNQLXmCRixHEzwHk9D-nmwwft2NbUMvvA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLWK33VfOcuWldtUyKNuLvH5YeAgiw9x__dMdEze2oqRg&oe=6ABE9A05",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmFtaMKqV2lwSZvv2ku2Bx3J1HMZZj6G2HNyvnve3Hx8MICZbiIz7rM9H_fr2Vn7KNGVCit_HDSJM7XnfhU0-hII0MMdtjhjzjLEc0bTkgFQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=SbTis-w1EJcQ7kNvwEHM6Fw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwODY0NzYzNTE1MjkwMDQsImFzc2V0X2FnZV9kYXlzIjo0MDQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ec0e07942f647662&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjRENkQzMUY3MkEyMTBFMUZENTBFMTM2RjY3MEY4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NEEzOEI5ODdDMjZDNjJDOEZGOENBREZDQTM1N0E4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYgNPoyMj7ChUCKAJDMywXQEG3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&_nc_zt=28&oh=00_AQKswQWfLhjMXlFNs1rCQJq7gPobfNJGmVY2NWu14yyoSw&oe=6ABE9086"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1496538312509981"
+      },
+      {
+        "id": "902437959253473",
+        "page_id": "109244637120838",
+        "page_name": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "page_url": "https://www.facebook.com/sh.a.a.tarpaulins/",
+        "page_like_count": 3346,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "ש.ע.ע הצללות וברזנטים בע\"מ",
+        "body": "יש לכם מרפסת, גינה, חצר... אבל אתם לא באמת נהנים מהם.\nלא כי אין זמן, לא כי אין עם מי - פשוט כי חם מדי.\nוהקיץ עובר. הילדות רוצות לשחק בחוץ, אתם חולמים על קפה אבל שוב סוגרים תריסים ונכנסים פנימה.\n\nאנחנו לא מוכרים רק אנחנו לא רק רשתות צל-  אנחנו מתמחים בפתרונות הצללה בהתאמה אישית כבר שנים.\n\nעם שירות אישי, חומרים איכותיים תוצרת הארץ, ואספקה מהירה - אנחנו כאן כדי להחזיר לכם את הצל, ואת השימוש האמיתי במרחב שלכם.\n\n📩 שלחו לנו הודעה עכשיו ותנו לעצמכם את מה שמגיע לכם — צל, נוחות, חיים.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1772524800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/522092604_1472835137469932_2511861128181452996_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IQnmsynR7BQQ7kNvwHP09RD&_nc_oc=AdpUqJjCHQucWayWzfDkAZHo6FbCAm4qt0cuF6x5_iCuH4uZrmZfm68PKXOOROpssCY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJtFtfn0igZ9m3eoj3J3bOLg1xPJNjWeXZa31s-JiFNzg&oe=6ABEB36D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/522645955_1316515933232884_3425789365996905224_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N3dlZOpBTvsQ7kNvwFtj_XI&_nc_oc=AdrvAalL9DVcZ_y2TZbosehOXuGc3ix5l39_9sjte6RbJXAdvddjzaHajs3foHx91MU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQKRD19C9M7zPzkBHNrdbQxZgk2rAx-tgKmTaFaP-QhO4A&oe=6ABEAB59",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/521674501_2258055707962896_6426174426629316155_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z8tEJqx1_k0Q7kNvwH2x_N0&_nc_oc=Adq9LNkSX6opTWrtiSbOEvSdOrbD5Cw6XJWXGuaKbub2YDfps0fYMB37Ob2WLYuMnw0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQIHXnQwn8LQzJ2vcvsrmRmgylNY9w6_DrcjtD-PvN8qRw&oe=6ABEA6B7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/521950722_1266927144897777_5462870681614732808_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GnSbFrlXZjsQ7kNvwEJXWAI&_nc_oc=Adpw1YjkL9azwGbL53jD0Db2pXzpeUj94OG4ckTW_9Z_wKZXJSx7Boi_KzE6NwiAQzQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJ9HzFDr04xEzX7ENN-4hDWhetogMBk1pqgheSUUtDb7Q&oe=6ABEB1E1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/519407603_1058391499779923_1174813541418108550_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n14Uzi_W7v8Q7kNvwGipMGf&_nc_oc=AdqkqEZyZiEBYTetP5JvxZ1dKQXSNuUWPXO0e42SEvRy3PhG93OhJ9rnYNwffD1ltps&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQL3CMYIF0TzkDBUY-W4nV2z94ml1L4k0LaaoSwPnowQag&oe=6ABE9935",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/521953812_1180998747165446_5041886187881891026_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YC2yttgrI8oQ7kNvwFn3Zq-&_nc_oc=AdqMF7SbWN_HIm-Cr4gJaKAloiLC0E-aqMWqIePprFDvAVEpEa2Ob1OHEchj6CCehR8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJtIX8oRaYkBLukDbjheJMMz6_1NBkyA7VYx7YpQSEilA&oe=6ABE9FCB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/523816631_655769400853262_4371375402196816369_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RWpEuqBE4PEQ7kNvwFIZ2Xj&_nc_oc=Adpbu6LuWAuNpYRTX7C08QxnDwRwFTV937ow8PEHyh5E9hVxe1bBfcqLxEvRjHctdYA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLu0vkiJiJVXREfbm9u3YI_8e9KXdNYM9YW02qDAMtNVw&oe=6ABEB9CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/520723765_1111802557518670_1682392937928884320_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NAqvb2AaIcsQ7kNvwGctQvX&_nc_oc=Adr-QkggKuUeMADvsC3FHVLSyJ2yDhScK26uHXZ-6Y9PhyajAWdyn241OB4-woBgRlc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQLPQYC1pvTppHWDCmlUxyRRu1EMlJKxzXoDoZzbMUgg9w&oe=6ABE9507",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/520452441_1455026345622063_8400673914735067309_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pcjVpWMKB_4Q7kNvwHXYTq5&_nc_oc=AdproMh5NYFtNxMQAJhJ1p_P5VDvqzI4CwF78WBTdM-fsNDBhB3OY8sTSevNbTZT2NE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQK9IWlcRFqsw_84rwfuoD-72keTSUXpjR4Mn7Wzfp8Hfg&oe=6ABE85EB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/520700309_1243833313562371_5460407559178562601_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gcgAbV259CkQ7kNvwHEmPk2&_nc_oc=Adpb2YwYvNvYJYfmSmCKeBOWyzpUkNfqGL1kNJ4TqccRjBf4VxA4v7akqYBMui7Xbiw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DyGKnUOlh94RW63_7kN78g&_nc_ss=70289&oh=00_AQJ8unYYcsRG0TrByy7Z9ddO80rzkCGqkZEJNTScXPle7A&oe=6ABE9A94"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=902437959253473"
+      },
+      {
+        "id": "1815902302433357",
+        "body": "פתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1815902302433357",
+        "text": "פתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1357648869276263",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1804487403758967",
+        "text": "לא צריך להשקיע הון על פרגולה. ולנו יש את הפיתרון עבורכם!\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1822195715180221",
+        "text": "הלקוחות שלנו מדברים בעד עצמם..\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀🤩\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1208019064080918",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "638836995877447",
+        "text": "הלקוחות שלנו מספרים – התוצאה מדברת בעד עצמה!\n☀️ פתרונות הצללה בהתאמה אישית לגינה ולמרפסת\n\n✅ הכל אצלנו תחת קורת גג אחת – מסגרייה, מתפרה וקונסטרוקטור מקצועי\n✅ מומחיות בכל סוגי ההצללות | ✅ עמידות מלאה לפי התקנים\n\nרוצים הצעת מחיר משתלמת?\nשלחו לנו הודעה ונשמח לחזור אליכם עם פרטים.\n\n📞 ניתן גם להתקשר: 072-3726698",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "995930235468055",
+        "text": "הלקוחות שלנו מדברים בעד עצמם..\nמגוון פתרונות הצללה לגינה ולמרפסת בהתאמה אישית ☀🤩\n\n✅ הכל במקום אחד - מסגרייה, מתפרה וקונסטרוקטור צמוד - מתמחים בהצללות מכל הסוגים !\n✅ עמידה בכל התקנים הנדרשים \n\nלקבלת הצעת מחיר, שלחו הודעה ותקבלו את ההצעה המשתלמת ביותר עבורכם.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1046375601314090",
+        "text": "🌬️ למה להתקרר בחורף? אנחנו יכולים להפוך כל חלל שלכם לפינה נעימה וחמימה 🌬️\n\n👷‍♀️ אנחנו לא רק תופרים, אנחנו ממקסמים חללים\n🎨 בחרו מתוך מגוון תוספות: חלונות, דלתות, רוכסנים ועוד\n⚙️ טבעות פליז נגד חלודה כדי להבטיח אורך חיים.\n\n📦 אספקה מהירה - 24 שעות לאיסוף עצמי ו-48 שעות למשלוח\n🌍 משלוחים לכל חלקי הארץ\n💰 רוצים לדעת כמה זה יעלה? שלחו לנו מידות או סקיצה בוואטסאפ\n\nותקבלו את ההצעה המשתלמת עבורכם❗\n\nאו חייגו עכשיו לייעוץ וקבלת הצעה לטל 📲: \n072-3726698",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "3409989532514188",
+        "text": "זה הטקסט המתוקן : \nהסוכה של החג יכולה להפוך לסגירת החורף שלכם 🌿🌧️\n\nבמקום להשקיע בפתרון זמני לכמה ימים בלבד, אפשר לתכנן סגירה בהתאמה אישית שתוכל לשמש אתכם בסוכות — ולהמשיך להגן על המרפסת או החצר גם כשהגשם והרוחות מגיעים.\n\nסגירות החורף של ש.ע.ע הצללות וברזנטים מיוצרות בהתאמה מדויקת למרחב שלכם ומאפשרות לכם ליהנות ממנו לאורך כל השנה:\n\n✓ הגנה מפני גשם ורוח  \n✓ יריעות שקופות השומרות על האור והנוף  \n✓ התאמה מדויקת למרפסת, לפרגולה או לחצר  \n✓ ייצור בהתאמה אישית עם משלוח עד הבית\n✓ פתרון שימושי לסוכות שממשיך אתכם גם לחורף\n\nחג סוכות מתקרב — וזה הזמן להכין פתרון שישמש אתכם הרבה אחרי שהחג יסתיים.\n\nהשאירו פרטים וקבלו הצעת מחיר לסגירת חורף בהתאמה אישית.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1496538312509981",
+        "text": "🌬️ למה להתקרר בחורף? אנחנו יכולים להפוך כל חלל שלכם לפינה נעימה וחמימה 🌬️\n\n👷‍♀️ אנחנו לא רק תופרים, אנחנו מקסמים חללים\n🎨 בחרו מתוך מגוון תוספות: חלונות, דלתות, רוכסנים ועוד\n⚙️ טבעות פליז נגד חלודה כדי להבטיח אורך חיים.\n\n📦 אספקה מהירה - 24 שעות לאיסוף עצמי ו-48 שעות למשלוח\n🌍 משלוחים לכל חלקי הארץ\n💰 רוצים לדעת כמה זה יעלה? שלחו לנו מידות או סקיצה בוואטסאפ\n\nותקבלו את ההצעה המשתלמת עבורכם❗\n\nאו חייגו עכשיו לייעוץ וקבלת הצעה לטל 📲: \n072-3726698",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "902437959253473",
+        "text": "יש לכם מרפסת, גינה, חצר... אבל אתם לא באמת נהנים מהם.\nלא כי אין זמן, לא כי אין עם מי - פשוט כי חם מדי.\nוהקיץ עובר. הילדות רוצות לשחק בחוץ, אתם חולמים על קפה אבל שוב סוגרים תריסים ונכנסים פנימה.\n\nאנחנו לא מוכרים רק אנחנו לא רק רשתות צל-  אנחנו מתמחים בפתרונות הצללה בהתאמה אישית כבר שנים.\n\nעם שירות אישי, חומרים איכותיים תוצרת הארץ, ואספקה מהירה - אנחנו כאן כדי להחזיר לכם את הצל, ואת השימוש האמיתי במרחב שלכם.\n\n📩 שלחו לנו הודעה עכשיו ותנו לעצמכם את מה שמגיע לכם — צל, נוחות, חיים.\n\nמוזמנים גם בטלפון - 0723726698☎",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1815902302433357",
+        "text": "פתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1815902302433357",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nש.ע.ע הצללות וברזנטים בע\"מ\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1815902302433357\nהתחילה לפעול ב-3 במרץ 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nש.ע.ע הצללות וברזנטים בע\"מ\nממומן\nפתרונות צללה לגינה הפרטית שלכם, או לשטחים גדולים, עסקיים פרטיים.\nדברו איתנו לקבלת הצעת מחיר\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nהצעת מחיר החל מ-8 ש\"ח\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:07:54",
+    "filtered": "2026-09-27T08:08:51",
+    "unqualified": "2026-09-27T08:10:55"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}
