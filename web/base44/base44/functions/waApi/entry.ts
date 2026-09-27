@@ -33,10 +33,11 @@ export default async function (req: Request): Promise<Response> {
 
     if (action === "history") {
       const h = await green("getChatHistory", { chatId: chatId(lead.whatsapp), count: limit || 40 });
-      const msgs = (h || []).filter((m: any) => m.textMessage || m.extendedTextMessage || m.caption)
+      const msgs = (h || []).filter((m: any) => m.textMessage || m.extendedTextMessage || m.caption || m.typeMessage === "imageMessage")
         .map((m: any) => ({
           id: m.idMessage, out: m.type === "outgoing", at: m.timestamp * 1000,
           text: m.textMessage || m.extendedTextMessage?.text || m.caption || "",
+          image: m.typeMessage === "imageMessage" ? (m.downloadUrl || m.jpegThumbnail && `data:image/jpeg;base64,${m.jpegThumbnail}` || null) : null,
           status: m.statusMessage || null,
         })).sort((a: any, b: any) => a.at - b.at);
       if (lead.unread) await db.update(id, { unread: false });
@@ -48,6 +49,11 @@ export default async function (req: Request): Promise<Response> {
       const body = which === 1 ? lead.message : which === 2 ? lead.message2 : text;
       if (!body || !body.trim()) return Response.json({ error: "empty message" }, { status: 400 });
       const res = await green("sendMessage", { chatId: chatId(lead.whatsapp), message: body });
+      // message 1 continues with the image (4 screens of their page) and its caption: a second bubble right after
+      if (which === 1 && lead.msg1_image) {
+        await green("sendFileByUrl", { chatId: chatId(lead.whatsapp), urlFile: lead.msg1_image,
+          fileName: "report.jpg", caption: lead.msg1_caption || "" });
+      }
       const now = new Date().toISOString();
       const patch: Record<string, unknown> = { send_error: "", last_contact_date: now.slice(0, 10) };
       if (which === 1) Object.assign(patch, { msg1_sent_at: now, msg1_at: null });

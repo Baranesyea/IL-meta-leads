@@ -81,6 +81,10 @@ const CSS = `
 .crm .chat .b.out{align-self:flex-start;background:#d9f2d0}
 .crm .chat .b.in{align-self:flex-end;background:#fff}
 .crm .chat .t{display:block;font-size:11px;color:#6d6257;margin-top:4px}
+.crm .imgmsg{margin-top:10px;border:1px solid #cdbfa9;background:#efe9df;padding:10px}
+.crm .imgmsg .lbl{font-size:13px;color:#6d6257;margin-bottom:8px}
+.crm .imgmsg img{display:block;width:100%;height:auto;margin-bottom:8px;box-shadow:0 1px 2px rgba(0,0,0,.15)}
+.crm .chat .bimg{display:block;max-width:100%;margin-bottom:6px}
 .crm .chat form{display:flex;gap:6px;padding:8px;border-top:1px solid #cdbfa9;background:#faf7f1}
 .crm .chat form input{flex:1}
 @media (max-width:760px){.crm .card{grid-template-columns:1fr;gap:6px}.crm .wrap{padding:36px 14px 60px}}
@@ -116,6 +120,7 @@ function Chat({ lead }) {
         {msgs && msgs.length === 0 && <div className="date">עוד אין הודעות בשיחה הזאת.</div>}
         {(msgs || []).map((m) => (
           <div key={m.id} className={`b ${m.out ? 'out' : 'in'}`}>
+            {m.image && <img className="bimg" src={m.image} alt="" />}
             {m.text}
             <span className="t">{fmtTime(new Date(m.at).toISOString())}{m.out && m.status ? ` · ${m.status === 'read' ? 'נקרא' : m.status === 'delivered' ? 'נמסר' : 'נשלח'}` : ''}</span>
           </div>
@@ -133,14 +138,19 @@ function Chat({ lead }) {
 function MessageBox({ lead, which, onSave, flash }) {
   const field = which === 1 ? 'message' : 'message2';
   const [text, setText] = useState(lead[field] || '');
+  const [caption, setCaption] = useState(lead.msg1_caption || '');
   const [when, setWhen] = useState(() => toLocalInput(Date.now() + 60 * 60 * 1000));
   const [busy, setBusy] = useState(false);
   const sentAt = lead[`msg${which}_sent_at`];
   const at = lead[`msg${which}_at`];
   useEffect(() => { setText(lead[field] || ''); }, [lead[field]]);
 
-  const sendNow = async () => {
+  const flush = async () => {
     if (text !== (lead[field] || '')) await onSave(lead.id, { [field]: text });
+    if (which === 1 && caption !== (lead.msg1_caption || '')) await onSave(lead.id, { msg1_caption: caption });
+  };
+  const sendNow = async () => {
+    await flush();
     if (!window.confirm(`לשלוח עכשיו את הודעה ${which} ל${lead.business_name}?`)) return;
     setBusy(true);
     try { const r = await wa({ action: 'send', id: lead.id, which }); onSave(lead.id, r.patch || {}, true); flash('ההודעה נשלחה'); }
@@ -148,7 +158,7 @@ function MessageBox({ lead, which, onSave, flash }) {
     setBusy(false);
   };
   const schedule = async () => {
-    if (text !== (lead[field] || '')) await onSave(lead.id, { [field]: text });
+    await flush();
     const iso = fromLocalInput(when);
     const patch = { [`msg${which}_at`]: iso, send_error: '' };
     if (which === 1 && (lead.status || 'new') === 'new') patch.status = 'ready';
@@ -160,6 +170,14 @@ function MessageBox({ lead, which, onSave, flash }) {
     <div>
       <textarea className="msg" value={text} onChange={(e) => setText(e.target.value)}
         onBlur={() => text !== (lead[field] || '') && onSave(lead.id, { [field]: text }).then(() => flash('נשמר'))} />
+      {which === 1 && lead.msg1_image && (
+        <div className="imgmsg">
+          <div className="lbl">ומיד אחריה, הודעה נפרדת: התמונה עם הטקסט שמתחתיה</div>
+          <a href={lead.msg1_image} target="_blank" rel="noreferrer"><img src={lead.msg1_image} alt="" /></a>
+          <textarea rows={4} value={caption} onChange={(e) => setCaption(e.target.value)}
+            onBlur={() => caption !== (lead.msg1_caption || '') && onSave(lead.id, { msg1_caption: caption }).then(() => flash('נשמר'))} />
+        </div>
+      )}
       {sentAt ? (
         <div className="row"><span className="saved">נשלחה ב־{fmtTime(sentAt)}</span>
           <button className="btn small" disabled={busy} onClick={sendNow}>לשלוח שוב</button></div>

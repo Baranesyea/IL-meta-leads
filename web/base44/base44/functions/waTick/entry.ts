@@ -49,6 +49,13 @@ export default async function (req: Request): Promise<Response> {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ chatId: `${digits(d.lead.whatsapp)}@c.us`, message: text }),
       });
+      if (r.ok && d.which === 1 && d.lead.msg1_image) {   // then the image with its caption, as the next bubble
+        await fetch(api("sendFileByUrl"), {
+          method: "POST", headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ chatId: `${digits(d.lead.whatsapp)}@c.us`, urlFile: d.lead.msg1_image,
+            fileName: "report.jpg", caption: d.lead.msg1_caption || "" }),
+        });
+      }
       const iso = new Date().toISOString();
       if (r.ok) {
         const patch: Record<string, unknown> = { [`msg${d.which}_sent_at`]: iso, [`msg${d.which}_at`]: null,

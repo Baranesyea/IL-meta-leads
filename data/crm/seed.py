@@ -5,10 +5,14 @@ free with no signup, and the intro line last, because the work matters more than
 import json, glob
 
 BASE = "https://il-meta.base44.app/p/"
+# first message = text + an image of 4 screens of their page with a caption (Eran, 2026-09-27).
+# WhatsApp sends them as two bubbles, one right after the other.
 END = ("הכנתי לכם כמה דברים שפותרים את זה, כולל 20 מודעות חדשות עם המוצרים שלכם.\n"
-       "זה בסדר אם אשלח לכם?\n"
-       "זה בחינם לחלוטין, ולא צריך להשאיר מייל או להירשם.\n\n"
-       "אני ערן, איש מוצר, חוויית לקוח ומומחה בקריאייטיב מדוייק. אני עושה את זה כבר 17 שנים.")
+       "הנה חלק מהדוח שהכנתי לכם:")
+CAPTION = ("אגב, אני ערן, איש מוצר, חוויית לקוח ומומחה בקריאייטיב מדוייק. אני עושה את זה כבר 17 שנים.\n"
+           "הכול בחינם לחלוטין, ולא צריך להשאיר מייל או להירשם.\n"
+           "עדכנו אם לשלוח לכם את כל הדוח, זה כבר מוכן.")
+IMG = "https://il-meta.base44.app/wa/{slug}.jpg"   # web/base44/public/wa/<slug>.jpg, made by the wa_shots script
 
 # second message, after a yes: the page link and an ask for a 30 minute call (Eran, 2026-09-27)
 END2 = ("מעולה, הנה זה:\n{url}\n\n"
@@ -50,7 +54,7 @@ def rows():
         d = json.load(open(f"data/leads/{lid}.json"))
         b, c = d["business"], d["contact"]
         url = BASE + slug
-        msg = opening + "\n\n" + END   # no link: Eran asks first, sends the page (url) after a yes
+        msg = "היי, " + opening + "\n\n" + END   # no link: Eran asks first, sends the page (url) after a yes
         assert "—" not in msg and "-" not in msg.replace(url, ""), lid
         out.append({
             "lead_id": lid, "slug": slug, "sort_order": i + 1,
@@ -61,7 +65,8 @@ def rows():
             "instagram": (c.get("instagram_page") or {}).get("url") or "",
             "owner_instagram": (c.get("owner_instagram") or {}).get("url") or "",
             "whatsapp": (c.get("whatsapp") or {}).get("number_e164") or "",
-            "message": msg, "message2": END2.format(url=url), "status": "new", "notes": "",
+            "message": msg, "msg1_image": IMG.format(slug=slug), "msg1_caption": CAPTION,
+            "message2": END2.format(url=url), "status": "new", "notes": "",
         })
     return out
 
