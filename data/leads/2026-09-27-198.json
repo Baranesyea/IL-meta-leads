@@ -518,7 +518,105 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 10,
+      "seen": 10,
+      "newest_start": "2026-07-16",
+      "oldest_start": "2026-06-01",
+      "days_since_newest": 73,
+      "longest_running_days": 118,
+      "distinct_texts": 10,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          6
+        ],
+        [
+          "SHOP_NOW",
+          2
+        ],
+        [
+          "",
+          2
+        ]
+      ],
+      "videos": 1,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          6
+        ],
+        [
+          "tomik.co.il",
+          2
+        ]
+      ],
+      "landing_status": {
+        "tomik.co.il": "ok",
+        "api.whatsapp.com/send": "whatsapp"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2026-06-24",
+          "cta": "SHOP_NOW",
+          "title": "TOMIK x CARHARTT",
+          "body": "TOMIK x CARHARTT",
+          "landing": "https://tomik.co.il/?utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&utm_id={{campaign.id}}"
+        },
+        {
+          "start": "2026-07-16",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "המיטה הצרפתית - תומיק",
+          "body": "המיטה הצרפתית של תומיק - המלכה של חדר השינה.\nעם נוכחות מרשימה ומדויקת, אפשר לקבל אותה בשלל מידות וגוונים בהתאמה אישית. רוצים להכיר את המיטה הצרפתית? בואו לבקר אותה באולם התצוגה שלנו. לתיאום ולכל שאלה, שלחו לנו הודעה >>",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-07-14",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "הספה היפנית",
+          "body": "מינימליזם זה לא אומר שצריך לוותר על הנוחות ☁️הכירו את הספה היפנית: קווים נקיים, עומק מפנק, וסטייל שמשדרג כל חלל ברגע.\nזמינה להזמנה בכל בד, צבע ומידה שמתאימה לכם.\nרוצים לבוא לראות אותה באולם התצוגה? יש לכם עוד שאלות?\nשלחו לנו הודעה בוואטסאפ ונחזור אליכם צ'יק צ'ק >>",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-07-10",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-07-16",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "המיטה הסקנדינבית - תומיק",
+          "body": "יש רהיטים שמכניסים לחדר שינה עיצוב, יש כאלו שמכניסים אליו תחושה. המיטה הסקנדינבית שלנו משלבת את שניהם. היא מיוצרת לפי הזמנה, בכל מידה, בעבודת יד מעץ מלא אלון מבוקע. היא משלבת קווים נקיים, מראה מרחף ונוכחות שקטה שמייצרת חלל רגוע ומדויק.\nמוזמנים להגיע לחלל התצוגה שלנו להתרשם, או לרכוש טלפונית >>",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-07-14",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "The Japanese Sofa",
+          "body": "כשעיצבנו את הספה היפנית שלנו, רצינו ליצור פריט שמיד גורם לכם לחשוב - זו הספה.\nקווים נקיים ומדויקים, עומק ישיבה מפנק, ושפה מינימליסטית שמכניסה שקט ואלגנטיות לחלל.\nהספה עשויה בד איכותי, נוחה במיוחד, וניתנת להזמנה בכל מידה ובכל בד שתבחרו - כך שהיא מתאימה בדיוק לכם ולביתכם.\nמוזמנים להגיע ולהתרשם מקרוב מהתחושה, מהגימור ומהנוכחות שהיא מביאה לסלון.\nלתיאום ביקור ולפרטים נוספים - נשמח לעמוד לרשותכם ב-Whats",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-06-01",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "לפעמים כל מה שצריך זה פריט אחד.\nרהיט מדויק, כזה שעשוי באהבה, שיודע לתפוס את העין ותורם לאווירה.\n\nרוצים למצוא את הפריט המיוחד הזה?\nבעקבות המצב הביטחוני וכדי שנוכל לשמור על הבטיחות שלכם ושל הצוות שלנו - ההגעה לגלריה תהיה בתיאום מראש בלבד..\nתומיק – רהיטים מיוחדים בעבודת יד\n054-598-2317\nwww.tomik.co.il\nרחוב השקד 5, אבן יהודה (בwaze -  תומיק רהיטים אבן יהודה)",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-06-07",
+          "cta": "",
+          "title": "",
+          "body": "Our Swedish table, but made in Israel. Scandinavian style with a local vibe.",
+          "landing": ""
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
