@@ -941,7 +941,17 @@
     "landing_urls": [
       "https://www.spinaly.co.il/products/neck-calm",
       "https://www.spinaly.co.il/products/deep-sleep-pillow"
-    ]
+    ],
+    "freshness": {
+      "active_count": null,
+      "active_seen": 0,
+      "checked": "2026-09-27",
+      "newest_start": null,
+      "oldest_start": null,
+      "days_since_newest": null,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],
