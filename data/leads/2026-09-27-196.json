@@ -219,7 +219,50 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-04-22",
+      "oldest_start": "2026-04-21",
+      "days_since_newest": 158,
+      "longest_running_days": 159,
+      "distinct_texts": 1,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          2
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          2
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2026-04-22",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "חלפון תכשיטי יהלומים",
+          "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-04-21",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "חלפון תכשיטי יהלומים",
+          "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
