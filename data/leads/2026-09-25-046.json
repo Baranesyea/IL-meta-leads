@@ -1292,7 +1292,7 @@
   "timestamps": {
     "discovered": "2026-09-25T12:59:34",
     "filtered": "2026-09-25T12:59:51",
-    "qualified": "2026-09-25T13:01:46"
+    "qualified": "2026-09-27T00:43:55"
   },
   "qualify": {
     "pages_checked": [
@@ -1311,5 +1311,6 @@
     "site_blocked": false,
     "owner_instagram_found": false,
     "missing": []
-  }
+  },
+  "missing": []
 }

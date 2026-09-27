@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-25-077",
-  "status": "qualified",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -291,7 +291,8 @@
     "discovered": "2026-09-25T13:11:10",
     "filtered": "2026-09-25T13:12:17",
     "qualified": "2026-09-25T13:16:20",
-    "collected": "2026-09-25T13:26:59"
+    "collected": "2026-09-25T13:26:59",
+    "unqualified": "2026-09-27T00:43:56"
   },
   "qualify": {
     "pages_checked": [
@@ -306,7 +307,9 @@
     "owner_candidates": [],
     "site_blocked": false,
     "owner_instagram_found": false,
-    "missing": []
+    "missing": [
+      "owner_whatsapp"
+    ]
   },
   "landing_audit": {
     "ads_checked": 3,
@@ -351,5 +354,8 @@
         "ads": 1
       }
     ]
-  }
+  },
+  "missing": [
+    "owner_whatsapp"
+  ]
 }

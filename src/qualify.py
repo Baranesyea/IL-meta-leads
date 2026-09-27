@@ -1,4 +1,4 @@
-"""Stage 3 — QUALIFY (hard gate): website, IG page, owner IG, WhatsApp.
+"""Stage 3 — QUALIFY (hard gate): a WhatsApp that most likely reaches the owner (IG pages are a bonus).
 
 Sources used (what this environment can reach):
   - Ad Library ad pages (Playwright, no login) -> landing URL -> website
@@ -281,13 +281,18 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
         lead["business"]["email"] = x["emails"][0]
 
     missing = []
-    if not c["instagram_page"]["url"]:
-        missing.append("instagram_page")
-    # Owner IG is best-effort (decided 2026-09-25): IG bios can't be read here,
-    # so it doesn't block qualification; Eran completes it from the dashboard.
+    # Rule since 2026-09-27 (Eran works alone, mostly on autopilot): the one hard requirement is a WhatsApp that
+    # most likely reaches the owner. Instagram (business and owner) is a bonus, recorded but not blocking.
+    q["instagram_found"] = bool(c["instagram_page"]["url"])
     q["owner_instagram_found"] = bool(c["owner_instagram"]["url"]) and c["owner_instagram"]["confidence"] != "low"
     if not c["whatsapp"]["number_e164"] or c["whatsapp"]["confidence"] == "low":
         missing.append("whatsapp")
+    else:
+        from .wa_kind import classify
+        kind, sig = classify(lead)
+        c["whatsapp"].update(kind=kind, kind_signals=sig)
+        if kind == "service":
+            missing.append("owner_whatsapp")   # a customer-service line reaches a rep, not the person who decides
     q["missing"] = missing
     db.set_status(lead, "unqualified" if missing else "qualified")
     log.info("%s %s %s missing=%s", "QUALIFIED" if not missing else "UNQUAL", lead["lead_id"], domain, missing)

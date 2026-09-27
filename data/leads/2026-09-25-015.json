@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-25-015",
-  "status": "qualified",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -431,7 +431,7 @@
   "timestamps": {
     "discovered": "2026-09-25T11:03:05",
     "filtered": "2026-09-25T11:03:05",
-    "unqualified": "2026-09-25T11:32:27",
+    "unqualified": "2026-09-27T00:43:54",
     "qualified": "2026-09-25T12:55:34",
     "collected": "2026-09-25T13:27:44"
   },
@@ -448,7 +448,9 @@
     ],
     "prices_in_ils": true,
     "owner_candidates": [],
-    "missing": [],
+    "missing": [
+      "owner_whatsapp"
+    ],
     "site_blocked": false,
     "owner_instagram_found": false
   },
@@ -494,5 +496,8 @@
         "ads": 1
       }
     ]
-  }
+  },
+  "missing": [
+    "owner_whatsapp"
+  ]
 }

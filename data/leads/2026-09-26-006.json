@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-26-006",
-  "status": "unqualified",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -250,7 +250,8 @@
   "timestamps": {
     "discovered": "2026-09-26T14:59:28",
     "filtered": "2026-09-26T15:00:32",
-    "unqualified": "2026-09-26T15:04:00"
+    "unqualified": "2026-09-26T15:04:00",
+    "qualified": "2026-09-27T00:43:57"
   },
   "qualify": {
     "pages_checked": [
@@ -269,8 +270,7 @@
     "owner_candidates": [],
     "site_blocked": false,
     "owner_instagram_found": false,
-    "missing": [
-      "instagram_page"
-    ]
-  }
+    "missing": []
+  },
+  "missing": []
 }

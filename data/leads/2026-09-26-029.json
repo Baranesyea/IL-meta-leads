@@ -1309,7 +1309,7 @@
   "timestamps": {
     "discovered": "2026-09-26T15:07:49",
     "filtered": "2026-09-26T15:09:43",
-    "qualified": "2026-09-26T15:13:14",
+    "qualified": "2026-09-27T00:43:58",
     "collected": "2026-09-26T15:17:09"
   },
   "qualify": {
@@ -1482,5 +1482,6 @@
       }
     ],
     "findings": []
-  }
+  },
+  "missing": []
 }
