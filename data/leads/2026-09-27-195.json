@@ -1,0 +1,95 @@
+{
+  "lead_id": "2026-09-27-195",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ISRAELCARVEN/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "2251253155117264",
+    "page_name": "סולאר קאמפ - solarcamp",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "4140514239504323",
+        "link_title": "למידע נוסף/ להזמנה לחצו >>",
+        "body": "‫תחנת הכוח הביתית העוצמתית בעולם – במחיר הכי נמוך בארץ בהתחייבות!\nתחנת הכוח הניידת EcoFlow DELTA Pro 3600W שוברת את השוק. השקעה חכמה לגיבוי הבית בשגרה, ובמיוחד בימים אלו כשהחשש מנפילות טילים והפסקות חשמל גדול מתמיד.\nבמחיר שלא יחזור (נמוך משמעותית מכל המתחרים!): במקום 14,000 ₪ - רק 8,990 ₪!\n\nלמה דווקא ה-DELTA Pro לגיבוי הבית שלכם?\n🔥 מפלצת של כוח: 3600W (בוסט ל-4500W) - מפעילה מזגנים, מקררים, מייבשים וכל מכשיר כבד בבית בלי למצמץ.\n🔋 סוללה ענקית לחירום: קיבולת מטורפת של 3.6kWh שתשאיר לכם את הבית עובד ומואר, גם אם החשמל נופל למשך שעות ארוכות.\n⚡ טעינה בטיל: סוללה ריקה? טעינה מלאה משקע קיר רגיל ב-1.8 שעות בלבד.\n🛡️ שקט נפשי לשנים: סוללת LFP סופר-בטיחותית שמיועדת להחזיק שנים קדימה + 3 שנות אחריות!\n💸 מחיר שובר שוק: 8,990 ₪ בלבד!\n\nהמלאי מוגבל בהחלט\nלשיחה איתנו בוואטסאפ והזמנה לחצו כאן לפני שייגמר 👇",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/669586528_1529593598789038_4001401163591949123_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zG5pfKeb_i0Q7kNvwGmeqnJ&_nc_oc=AdqIy-b74U_UB6mCy3wgFMYufrNjSMsSJzTLjoosECu0b1JKP5qBnmZ2Vau5E9--ckI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQLQaEhUShEWUDj6R3fSwv_ULFTueKSHvsdRmQ1xixbCvQ&oe=6ABEB728",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMPrdcgAYeGxjHmMvo3utVzXnG5kfFCmMrq8a9r-MUbFNi09Hnxtq4MRfk9kk6AmYHMUa_cc073PsS8Hi6kRJLgRgyXLlV4ckSIEe4AD8rqRw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zzliJ91KscMQ7kNvwHO_fys&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzNjQyODQ0OTA1NTgyMTAsImFzc2V0X2FnZV9kYXlzIjoxODQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=30d7a3b909c429b7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81ODQzMkVBN0ZFOTRDOEZCRkE3Q0RGM0I1QjQ3OUQ4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDNEE5MDlFM0VDRjk4OUM2NEYxOTY3MjZFQzg5RDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaErJGs5dLADxUCKAJDMywXQEuRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&_nc_zt=28&oh=00_AQKK1wZoi8gmIDvXEcRgr8H-rU-47flgIoTXM-1Zy9lTEg&oe=6ABEB129"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1775977200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4140514239504323"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "4140514239504323"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 16533,
+    "page_categories": [
+      "Construction"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

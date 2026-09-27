@@ -1,0 +1,92 @@
+{
+  "lead_id": "2026-09-27-189",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61580985842602/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "847198311800712",
+    "page_name": "מכבסת בועות באר שבע",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "970434938947258",
+        "link_title": "שלח הודעה עכשיו",
+        "body": "הגיע הזמן לתת לבגדים שלכם את רמת הטיפול שהם באמת צריכים  ✨ \n\nמכבסת בועות מציבה סטנדרט אחר לגמרי בכל מה שקשור לשירותי כביסה – עם תוצאות שמרגישים, ריח שמחזיר תחושה של חדש וטיפול מקצועי בכל שלב.\n\nאצלנו כל פריט מקבל יחס מדויק ומקצועי, והכול נעשה על ידי אנשי מקצוע שמבטיחים ניקיון עמוק ושמירה על איכות הבד.\n\nשירותי המכבסה שלנו:\n\n✅ כביסה יסודית שמחזירה רעננות אמיתית\n✅ קיפול מקצועי שהופך כל פריט למסודר ומדויק\n✅ גיהוץ ברמה גבוהה שמעלים כל קמט\n✅ ניקוי יבש איכותי אפילו לבדים עדינים במיוחד\n✅ ניקוי לכל סוגי השמיכות\n✅ ניקוי לשטיחים במכונות ייעודיות מתקדמות\n\nלפרטים נוספים שלחו לנו הודעה עכשיו!\n📍 ביאליק 5, באר שבע\n☎ 086496037",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/703098105_1312364747031800_7505169511271714754_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LsOg8YkUc7UQ7kNvwGJaCPM&_nc_oc=Adp0V39_C1x6YFtSH6FD9BFqa6x6SNj4k0ruU0KkZ2XwofxYWFbJZ_wKl_7XTKx_McQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQKYbiO_rFoF1QDFDbIu5rLcW9a7P6KBPDjvY1tCuWd_gQ&oe=6ABE93BB"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779433200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=970434938947258"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "970434938947258"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 103,
+    "page_categories": [
+      "Dry Cleaner"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

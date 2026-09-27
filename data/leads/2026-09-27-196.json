@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-196",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/halfonjewelry/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "728437487224666",
+    "page_name": "חלפון תכשיטי יהלומים",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1947441515870526",
+        "link_title": "חלפון תכשיטי יהלומים",
+        "body": "⭐הקולקציה החדשה שלנו⭐\nכל תכשיט בעבודת יד, עם איזון מושלם בין יוקרה, עדינות ונשיות עוצמתית.\n\nעד 30% הנחה לזמן מוגבל 💖\n📦 משלוחים מהירים\n✔ אחריות מלאה\n\nלהזמנה ומידע נוסף בוואטסאפ לחצי כאן >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678199299_971907601921592_9047057647140306085_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BnuRmrP_cswQ7kNvwEHZDpM&_nc_oc=Adoqr5Fkubk56fI9zBgPJAp7__rRx2Hsb_hT5DE4pmaTdpEha6MS_lM8b48ciWwk9eE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQL7PiJDdQbuPxLpxK2ad9N7aPEYb1XGQtQmjinV341IMQ&oe=6ABEA215",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678650402_1582230316167143_4474909023550973126_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G9ad4C0kRbUQ7kNvwEOcKa2&_nc_oc=Adqb8PkyQMu8VgZhdqPRm5MHXcG6rUhkHSotM-tTjKzd4_f0vqVN1I5S9BLZm7OfrLI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQI9pVcWHlJcIKc5gYb2rwqxs2tyadpcmSeiQ8svKB9dsA&oe=6ABE920F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678194708_945446848099800_7093871513525342913_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=unryi5IOZk0Q7kNvwFBRTEu&_nc_oc=Adp6oiW8akMPv9BJPjBbAguIHXBFj2DvLFlDV_DcYKPJvEkoKPD6BAGgE0IZ1E4uzm0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQLfS_dBwKwou6J2AhJt3R9QVoSOjxjLnyUdSLwmKQeMOA&oe=6ABE9DFC"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1776841200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1947441515870526"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1947441515870526"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 8114,
+    "page_categories": [
+      "Jewelry"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

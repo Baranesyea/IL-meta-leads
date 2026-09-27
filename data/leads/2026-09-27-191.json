@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-191",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/sportivo111/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "104183621804188",
+    "page_name": "Sportivo",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1416036326945047",
+        "link_title": "נעלי כדורגל במגוון דגמים",
+        "body": "מחפשים נעלי כדורגל שנראות טוב ומרגישות טוב על המגרש? ⚽🔥\n\nב־Sportivo תמצאו מגוון נעלי פקקים בעיצובים חזקים, צבעים מיוחדים ונוחות שמתאימה למשחק, לאימון ולכל מי שאוהב כדורגל באמת.\n\nקלות, יציבות, נוחות — והכי חשוב: יושבות טוב על הרגל ונותנות ביטחון בכל תנועה.\n\n✅ מגוון דגמים וצבעים\n✅ מידות שונות במלאי\n✅ מתאים לשחקנים ולחובבי כדורגל\n✅ אפשרות להזמנה מהירה בוואטסאפ\n\nרוצים לבדוק מידה/דגם זמין?\nשלחו הודעה עכשיו ונעזור לכם לבחור את הזוג שמתאים לכם 👇\n📲 052-792-4336\nSportivo – הכל לכדורגל.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/693961639_1481049996850084_1247373942103732814_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O3ZXn4rpOnIQ7kNvwExd2Mn&_nc_oc=AdpPY6PrDpCEcFH7uAC8Lv400lA8fTH2CeakeFEAoE6MUsGj3pVZfVmVYeKtsnUdgUA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQLnfeAsumhPKJyP3kmnPnIr1ir-4RWvZQsIhNbUSI3hfQ&oe=6ABEB021"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1778396400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1416036326945047"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1416036326945047"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 3616,
+    "page_categories": [
+      "Product/service"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

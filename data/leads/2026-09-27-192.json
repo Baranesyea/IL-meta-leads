@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-192",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61559605524669/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "304774479387890",
+    "page_name": "Spartex Company",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1033196469708433",
+        "link_title": "",
+        "body": "6 בקבוקים ב-250 שקל כולל משלוח. תרסיס איטום מקורי, 600 מ\"ל כל אחד. אוטם סדקים ומבני מתכת. חומר על בסיס גומי מונע דליפת מים. מתאים לכל המשטחים: ברזל, מלט ופלסטיק. משלוח לכל אזורי הארץ. תשלום במזומן לנהג. משלוח תוך 24 שעות. להזמנה, אנא שלחו הודעה בוואטסאפ.\n054-509-8089",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818570269_1761973755123876_5365061395798578423_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3ukJyavXiY8Q7kNvwFseXPT&_nc_oc=Adqmu-7B3cpYijsiZp4bn4lcDvxjeP2kQcZwkbhLLloWuzva3_m3631jXGE3vfvib68&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQJfPcVYjgkOKLsu0c6Dc1T9TvVWmhJ2AcSnq3Zw4n3SOw&oe=6ABEBC58",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmeFgDZEcx1g9Lt0dZKuIaV0CIAWCCmlh93rk_OcVqqcOvjRja2qQg-leV1GH7vhIg1BT7eDDSzq0XNm7-NQfWxvCxgyEuJnwDvQKp6EXnOA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_byVZxst5LAQ7kNvwGfGQJx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwODY1MDQ4MzIxMjM0MTAsImFzc2V0X2FnZV9kYXlzIjozMjgsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6d745095a724445f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FODRBODQ0NDQ4RjE3RkRDNkExNUVBRTM3ODk4QjE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDc1RDE5MzlFOUEzMjRFMTdEQUM2QThEN0ZENkFBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakiLq1yOq0BxUCKAJDMywXQD7EGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&_nc_zt=28&oh=00_AQLdZQ5ugkynGKL8CYJe2XN11ZhY5D0gvQuIi_bsOKcBLA&oe=6ABE97EF"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1789974000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1033196469708433"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1033196469708433"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 3646,
+    "page_categories": [
+      "Business"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "lead_id": "2026-09-27-193",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100088849475662/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "100907556213792",
+    "page_name": "CASA TUA",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "2844912992567132",
+        "link_title": "קרואסון ענק לאירועים | להזמנה מראש",
+        "body": "הקרואסון הענק שלא מפסיקים לדבר עליו באירועים ומסיבות 🥐🇮🇹 3 ק״ג של בצק עלים חמאה, קרם וניל עשיר, תותים ואוכמניות. מתאים לאירוח של כ-20 אנשים בהזמנה מראש בוואטסאפ.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615830101_1226394992768504_8482246232979131589_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Pe9sa_PGXEQ7kNvwFa7YFO&_nc_oc=AdpkW96OYIBo5faii2JDUQzqfdOsUw_hBKBdO1B85XIqSDdG2lhEZmijR7JMrNQyouA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQKVCtUfr0NbrEM-MVk87-kgIf4wbM3JDq_69F6XLWxbXw&oe=6ABEBE8B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPKG-vuGsHaJAhdQB3HpHWChjASwouT5IKgCZFqvcqy4BeOLe7f6hwLXW3NSoaxLoLTrcw1-F6JWVw159MkZVM-Zvxj_10AydnAdrjUDRHjAw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4IMbI0udKfgQ7kNvwG9an6M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg4NjU5NzUwMzc4MzA5OSwiYXNzZXRfYWdlX2RheXMiOjI1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=12460715829137de&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODRGNkQzM0VBRDlDRkMxODUyRTRDNzYzNThBRTE4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc5NDU1OTJERjc2NzczODQxQzY4RERDQzc4MEFBMEI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2wqyU4paTAxUCKAJDMywXQC_MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&_nc_zt=28&oh=00_AQJBhSwWBhr0e654-1Mz_Ex29BVWVhX4LJqUlQs-mynv6w&oe=6ABE9BD6"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1771142400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2844912992567132"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2844912992567132"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1555,
+    "page_categories": [
+      "Bakery"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}

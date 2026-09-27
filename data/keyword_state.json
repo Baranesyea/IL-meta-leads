@@ -152,10 +152,18 @@
       "track": "wa",
       "advertisers": 12,
       "at": "2026-09-27T08:11:51"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "להזמנה בוואטסאפ",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 13,
+      "at": "2026-09-27T08:20:18"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
-  "wa_next_index": 5
+  "wa_next_index": 6
 }

@@ -1,0 +1,90 @@
+{
+  "lead_id": "2026-09-27-190",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/DCARDstudio/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "136323573063513",
+    "page_name": "די-קארד",
+    "active_ads_count": 1,
+    "search_keyword": "להזמנה בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1617951215859110",
+        "link_title": "לפרטים ולהזמנות בוואטסאפ",
+        "body": "מתכוננים לסוף השנה? זה הזמן להצטייד בפנקסים לעסק.\nאצלנו תמצאו מגוון רחב של פנקסים באיכות גבוהה: תעודות משלוח, חשבוניות, קבלות, הצעות מחיר, פנקסי תרומה וכל סוגי הפנקסים הדרושים לעסק שלכם! \nההצעה המיוחדת לסוף השנה:\n10 פנקסים בגודל A5 במחיר מיוחד של 129 ש\"ח בלבד.\n\n*המבצע לפנקסים A5 בלבד! \n*ניתן לעשות כל גודל במחיר אחר\n*המבצע להזמנה ראשונה וללקוחות חדשים ב\"די קארד\" בלבד\n*המחיר אינו כולל מעמ\n\nט.ל.ח רשאים להפסיק את המבצע בכל עת",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/608312820_1938527820390752_8935789576322071660_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ONfIfzHj0LkQ7kNvwGicr4L&_nc_oc=AdpDvLOZRCPI0J2Mz9c87QV2TESVwYgB5_S6s57SxbvZbfAdAqgcsTggABd6JEuWlrc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d6qmzdp2cMQw7HfaOeZTqw&_nc_ss=70289&oh=00_AQKfv7DYiLY0a8dnhSCCKghjglaKRpJhu6dPXFg_euKnDw&oe=6ABEB1A8"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1767081600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1617951215859110"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1617951215859110"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 2258,
+    "page_categories": [
+      "Printing"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T08:20:18"
+  }
+}
