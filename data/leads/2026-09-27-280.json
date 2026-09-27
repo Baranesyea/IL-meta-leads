@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-280",
-  "status": "rejected",
-  "reject_reason": "not a pain clinic: חדר כושר",
+  "status": "discovered",
+  "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
@@ -104,7 +104,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:31:33",
+    "discovered": "2026-09-27T15:35:48",
     "rejected": "2026-09-27T15:32:06"
   }
 }

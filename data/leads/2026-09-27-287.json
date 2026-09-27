@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-287",
-  "status": "filtered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://physiocare.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "info@physiocare.co.il"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/tzahala_physiotherapy_center/",
+      "source": "https://www.physiocare.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -166,7 +166,40 @@
         ],
         "currency": "",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1502090968249191"
+      },
+      {
+        "id": "739778065473088",
+        "body": "נפצעתם באמצע אימון? אנחנו מרכז פיזיותרפיה צהלה בצפון תל אביב וכבר למעלה מ-25 שנים אנחנו מטפלים במגוון רחב של פציעות וכאבים",
+        "landing_url": "https://www.physiocare.co.il/"
       }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "739778065473088",
+        "text": "נפצעתם באמצע אימון? אנחנו מרכז פיזיותרפיה צהלה בצפון תל אביב וכבר למעלה מ-25 שנים אנחנו מטפלים במגוון רחב של פציעות וכאבים",
+        "links": [
+          "https://www.physiocare.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1502090968249191",
+        "text": "נפצעתם באמצע אימון? אנחנו מרכז פיזיותרפיה צהלה בצפון תל אביב וכבר למעלה מ-25 שנים אנחנו מטפלים במגוון רחב של פציעות וכאבים",
+        "links": [
+          "https://www.physiocare.co.il/"
+        ]
+      },
+      {
+        "ad_id": "739778065473088",
+        "text": "נפצעתם באמצע אימון? אנחנו מרכז פיזיותרפיה צהלה בצפון תל אביב וכבר למעלה מ-25 שנים אנחנו מטפלים במגוון רחב של פציעות וכאבים",
+        "links": [
+          "https://www.physiocare.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.physiocare.co.il/"
     ]
   },
   "current_ads": [],
@@ -181,6 +214,27 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:31:33",
-    "filtered": "2026-09-27T15:32:39"
+    "filtered": "2026-09-27T15:32:39",
+    "unqualified": "2026-09-27T15:34:59"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.physiocare.co.il/",
+      "https://www.physiocare.co.il/",
+      "https://www.physiocare.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa-%d7%9e%d7%a8%d7%9b%d7%96-%d7%a4%d7%99%d7%96%d7%99%d7%95%d7%aa%d7%a8%d7%a4%d7%99%d7%94-%d7%a6%d7%94%d7%9c%d7%94/",
+      "https://www.physiocare.co.il/%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8/",
+      "https://www.physiocare.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA-%D7%9E%D7%A8%D7%9B%D7%96-%D7%A4%D7%99%D7%96%D7%99%D7%95%D7%AA%D7%A8%D7%A4%D7%99%D7%94-%D7%A6%D7%94%D7%9C%D7%94/"
+    ],
+    "store_signals": [
+      "woocommerce"
+    ],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
   }
 }

@@ -72,7 +72,9 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
         return False, f"big brand/chain: {', '.join(signals['brand_hits'])}", signals
     if meta.get("track") == "clinic":
         # clinic track: pain clinics only; no dental, no cosmetic, no HMOs/hospitals, no courses
-        signals["clinic_excluded"] = _hits(text, f.get("clinic_exclude_keywords", []))
+        # HMOs, hospitals, lawyers, gyms: judged on the page name only (a private clinic may say "מטופלי כללית")
+        signals["clinic_excluded"] = (_hits(text, f.get("clinic_exclude_keywords", []))
+                                      + _hits(name, f.get("clinic_exclude_name_keywords", [])))
         if signals["clinic_excluded"]:
             return False, f"not a pain clinic: {', '.join(signals['clinic_excluded'])}", signals
         signals["clinic_hits"] = _hits(text, f.get("clinic_require_keywords", []))
@@ -83,7 +85,7 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
         signals["urgent_hits"] = _hits(text, f.get("urgent_service_keywords", []))
         if signals["urgent_hits"]:
             return False, f"urgent service: {', '.join(signals['urgent_hits'])}", signals
-    elif signals["service_hits"] and signals["product_score"] <= 0:
+    elif not wa_track and signals["service_hits"] and signals["product_score"] <= 0:
         return False, f"service/course/lead-gen: {', '.join(signals['service_hits'])}", signals
     if likes and likes > f.get("max_page_likes", 10**9):
         return False, f"{likes:,} page likes — too big", signals

@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-263",
-  "status": "rejected",
-  "reject_reason": "service/course/lead-gen: קליניקה, טיפול, טיפולי",
+  "status": "discovered",
+  "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
@@ -117,7 +117,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45",
+    "discovered": "2026-09-27T15:35:48",
     "rejected": "2026-09-27T15:31:33"
   }
 }
