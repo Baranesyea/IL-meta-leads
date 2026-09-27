@@ -10,6 +10,11 @@ END = ("הכנתי לכם כמה דברים שפותרים את זה, כולל 2
        "זה בחינם לחלוטין, ולא צריך להשאיר מייל או להירשם.\n\n"
        "אני ערן, איש מוצר, חוויית לקוח ומומחה בקריאייטיב מדוייק. אני עושה את זה כבר 17 שנים.")
 
+# second message, after a yes: the page link and an ask for a 30 minute call (Eran, 2026-09-27)
+END2 = ("מעולה, הנה זה:\n{url}\n\n"
+        "אם אהבתם את זה, אשמח שנקבע שיחה של 30 דקות, כדי שאוכל להראות לכם איך אני יכול לעזור לכם "
+        "לשפר את התוצאות, עם אותו התקציב שאתם גם ככה מוציאים היום.")
+
 LEADS = [
  ("2026-09-25-054", "redstar-02f7aee4",
   "לחצתי על המודעות שלכם, וארבע מהן מובילות לעמוד שגיאה. כל לחיצה עליהן היא כסף שהולך לפח."),
@@ -56,7 +61,7 @@ def rows():
             "instagram": (c.get("instagram_page") or {}).get("url") or "",
             "owner_instagram": (c.get("owner_instagram") or {}).get("url") or "",
             "whatsapp": (c.get("whatsapp") or {}).get("number_e164") or "",
-            "message": msg, "status": "new", "notes": "",
+            "message": msg, "message2": END2.format(url=url), "status": "new", "notes": "",
         })
     return out
 
