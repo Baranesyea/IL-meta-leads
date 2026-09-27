@@ -85,17 +85,22 @@ def cmd_find(args):
 
     cfg = load_config()
     target, max_kw = cfg["daily_target"], args.max_keywords
+
+    def owner(l):  # Eran works alone: only a WhatsApp that reaches the owner counts toward the target
+        return (l["contact"].get("whatsapp") or {}).get("kind") == "owner"
+
     with AdLibraryBrowser() as browser:
         for i in range(max_kw):
-            have = len(db.leads_by_status("qualified", "researched", "approved", date=today()))
+            have = sum(owner(l) for l in db.leads_by_status("qualified", "researched", "approved", date=today()))
             if have >= target:
                 break
             new = discover.run(browser)
             kept, rejected = flt.run(browser)
             done = qualify.run(browser=browser)
             ok = [l for l in done if l["status"] == "qualified"]
+            own = [l for l in ok if owner(l)]
             print(f"[{i + 1}/{max_kw}] new={len(new)} filtered={len(kept)} rejected={len(rejected)} "
-                  f"qualified={len(ok)} (today total {have + len(ok)}/{target})")
+                  f"qualified={len(ok)} owner_wa={len(own)} (today total {have + len(own)}/{target})")
     report_qualify(db.leads_by_status("qualified", date=today()))
     log.info("stages 4-5 (collect/research) not implemented yet")
 
