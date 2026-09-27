@@ -350,3 +350,21 @@
 - Cost: each workflow run is ~0.2 Base44 credits (~17 a day on the current schedule).
 - Workflow payload lesson: `invoke_backend_function` passes `with.args` as the request body.
 - Verified: a real scheduled send to Eran's own number (test row "בדיקת מערכת" in the CRM); UI with a mocked backend.
+
+## 2026-09-27 — WhatsApp-first workflow (Eran): research first, page only after a yes
+- Many advertisers have a WhatsApp number but we can't tell whether it reaches the owner. So: light research
+  (no images), one personal message per business that asks whether it will reach the owner or the marketing
+  manager, and the page + 20 ads only for those who say yes. Saves ~30 Higgsfield credits per lead that never answers.
+- Any WhatsApp number counts on this track (service lines too; the message asks). Excluded: chains, urgent services.
+- `src/outreach.py research`: all active ads from the page view → count, distinct texts, newest/oldest start,
+  CTAs, videos, landing URLs and whether they load, share going to the home page, 8 sample ads →
+  `lead["outreach"]["research"]`. `show <id>` prints it for writing the message.
+- Messages are written by Claude per business (never a template fill): "היי, לחצתי על המודעות שלכם וראיתי ש..."
+  + one specific finding + "ישבתי על זה ופתרתי... אשמח לשלוח בחינם את הדוח והקריאייטיב, אם יש סיכוי שזה
+  יגיע לבעלים או למנהל השיווק... רק תגידו". Sentence structure varies from one business to the next.
+  Stored in `data/outreach/messages.json`, pushed to LeadCRM with track "wa", status "research", `finding`.
+- CRM: two tracks (tabs) "וואטסאפ קודם" / "עמודים מוכנים"; new statuses research (מחקר מוכן), build (להכין עמוד),
+  page_ready (עמוד מוכן). Flow: research → Eran reviews → ready → scheduled/sent → replied → Eran sets "build"
+  → Claude builds the page when asked ("תבדוק מה להכין": query LeadCRM status build) → message2 with the link,
+  status page_ready → Eran sends.
+- Freshness caveat: the page view sometimes returns only 30 ads; use `meta.freshness` (verified) for "newest ad".
