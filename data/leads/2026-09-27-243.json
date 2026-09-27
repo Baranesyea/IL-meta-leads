@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-243",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "1037231562803576",
     "page_name": "Botanica",
-    "active_ads_count": 1,
+    "active_ads_count": 43,
     "search_keyword": "זרי פרחים",
     "sample_ads": [
       {
@@ -64,8 +64,25 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1575591037365387"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 43,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 95,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1575591037365387"
     ],
@@ -77,7 +94,1087 @@
     "page_categories": [
       "Florist"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1575591037365387",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "WhatsApp",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/768284844_1693136732265321_2091918133968634673_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BzvBNeDNjjQQ7kNvwHqFeG3&_nc_oc=AdqCDych9DQ1_zZubRn2vZjHOdBOoja87RYc0pedPb5Seraf8I6eEWaCJW8yZ4t4j4Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIyJboDmW6YWcejPg36lcJEgsEQ0ARrgrRa_uwOmDHtPw&oe=6ABED65B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN9Hg3uSLaSeDFlQFW8su2RozR0-Kp9mfQOuieWp4JsBmrc5Po0cyvw-kdr1WEeqa8CSwyovVH5LD1wdLzRbwulh9-8npsUJf5cp7KxTzoexw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0c7M72m6vfMQ7kNvwGYfXJL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODM4ODY5NTAzNzE4MzcsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7b78050f74bcb24c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERjRBQjg0Nzk2RDYxNDY5REM3OThDMDcyRTE4NTJBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENDZEQTMxRUVEODYxQTAyQUE5RDkwMDc3RThFOTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6x7Ch6aj1BBUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIsxPPkuoTJ-g-Fz6yq1pKt_Xb5pQriLivYQhAbqPydbQ&oe=6ABEB07D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1575591037365387"
+      },
+      {
+        "id": "2661222407626126",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767300691_1052242017288506_8338582544978332397_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=thPuQTHrAz0Q7kNvwHOFxh3&_nc_oc=AdoKS3gf1OKzHrkk4z_JyKDNf_3ai1HRuGY7v5QO4J2FW6DvuFuUcGA26cCZFnpd1SU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJLv6Y6MDwC8a_NHjwLbyLrAx1Ln2daJvCQMW2WaGPq9w&oe=6ABE9FBC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN9Hg3uSLaSeDFlQFW8su2RozR0-Kp9mfQOuieWp4JsBmrc5Po0cyvw-kdr1WEeqa8CSwyovVH5LD1wdLzRbwulh9-8npsUJf5cp7KxTzoexw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=0c7M72m6vfMQ7kNvwGYfXJL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODM4ODY5NTAzNzE4MzcsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7b78050f74bcb24c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERjRBQjg0Nzk2RDYxNDY5REM3OThDMDcyRTE4NTJBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENDZEQTMxRUVEODYxQTAyQUE5RDkwMDc3RThFOTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6x7Ch6aj1BBUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIsxPPkuoTJ-g-Fz6yq1pKt_Xb5pQriLivYQhAbqPydbQ&oe=6ABEB07D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2661222407626126"
+      },
+      {
+        "id": "1102298592233119",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707174930_3297107590469027_2735196852467765006_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I7I8-HGI1bgQ7kNvwE8_kTl&_nc_oc=AdqloBmfnbXVHPs0a6XtffXnw3o0YZCcO1MHDaqTvfU4NpaGhMcsYrA5u9n940oyRfE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQL261VSE0jyRbWf5kJ6vQBDNlCYz9AK2kgeZNWShvqtHA&oe=6ABEAE81",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMj-vWmV4jXQr0NHwnBKVyLWErnGeK6kXSRA8ZV4Z-HzQVaBZjE6b0FhSRG07nV_MwJRe3A-M1Pp5OPzw00v2Zm4TM_71lwpPXoQG0ifxxY0A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zpbeywIJW7gQ7kNvwHCZSL9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5OTI3ODAyOTc4MzY0MCwiYXNzZXRfYWdlX2RheXMiOjEyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9ca1f63fdd80038b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDQ1OTkyOTBDMjEwM0MwOTg1M0IyMTQ1N0E4NTE5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNEE3RDcyMkNDMTQ0QTQxMDg4MTRENUUxRkQ2NDk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawidawjbzrAhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJOm-yjDhw-79oHRGouoGRrir8oN1mo-9j8x4yN255GKw&oe=6ABECD4D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707174930_3297107590469027_2735196852467765006_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I7I8-HGI1bgQ7kNvwE8_kTl&_nc_oc=AdqloBmfnbXVHPs0a6XtffXnw3o0YZCcO1MHDaqTvfU4NpaGhMcsYrA5u9n940oyRfE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQL261VSE0jyRbWf5kJ6vQBDNlCYz9AK2kgeZNWShvqtHA&oe=6ABEAE81",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMj-vWmV4jXQr0NHwnBKVyLWErnGeK6kXSRA8ZV4Z-HzQVaBZjE6b0FhSRG07nV_MwJRe3A-M1Pp5OPzw00v2Zm4TM_71lwpPXoQG0ifxxY0A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zpbeywIJW7gQ7kNvwHCZSL9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5OTI3ODAyOTc4MzY0MCwiYXNzZXRfYWdlX2RheXMiOjEyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9ca1f63fdd80038b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDQ1OTkyOTBDMjEwM0MwOTg1M0IyMTQ1N0E4NTE5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNEE3RDcyMkNDMTQ0QTQxMDg4MTRENUUxRkQ2NDk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawidawjbzrAhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJOm-yjDhw-79oHRGouoGRrir8oN1mo-9j8x4yN255GKw&oe=6ABECD4D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1102298592233119"
+      },
+      {
+        "id": "2070510703499636",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707695124_2148489359268448_3024515892380002429_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJ2znqvHmYoQ7kNvwG9TvZj&_nc_oc=AdpAu5XBI7IRUjj_ctDgaTvV_Q_XweWTzuqndQZ55lupQ3D6yqsh-fi7Wwk41m3OwXw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJ_TKcyLDYcfS7oWM8JtOz7gAC9iiaoygxbGtCSgdw3qQ&oe=6ABEB9F6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNNZwUy5BdwFsbW5IbgfW8NXojg7Y34gNT0it96CHF9_cQ5q0zRo2mu_OXViQMOTjbHFhUvizl1QjEdJAG-Jx-rEE19OT3AQZbpSykRhS64og.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=74iodhvCa5QQ7kNvwFE5s5L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNTA3OTI5MjM1ODY2NzAsImFzc2V0X2FnZV9kYXlzIjoxMjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=56b4559739c63a4c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQ0QzZDNkE1OTUxODFFM0U0N0I1OTc5NDgwQzQ4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEU4QkRFNzBBODhCOUU5OUJFMzA1REM4MzJCNDgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcgYHGv6LmBBUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJllIQk1yJyM9Q8t3FtA4HqBLaO2etXwskhW25gnA3vyA&oe=6ABED52C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/707678711_2080366855883827_216057253632253726_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0-4d9BkO4rkQ7kNvwG0R4fr&_nc_oc=AdqiRvaeC12Srs0axaxgNlK7K_Y-5d2MKG_4SZ5tvW5xRF5811sC7D_ytO7Mf14flqQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQKKcbCahb8JdhSaDwSPTKj5NCiXqu1UNPweat3VuTpo0g&oe=6ABECE4E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMC3kuvGxC5GZTgT1GxSud7M5YoI4WbIpi0khInbWUXH26Bt0nSGOv43NKXu1ZBettZEEb6HnU0tNac7kaQ0PP8xvPocExrqEg8L6CozyGwLg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=c93vKmibYS0Q7kNvwHwXdXG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1MTg4NzIzNzg4MDUxMiwiYXNzZXRfYWdlX2RheXMiOjEyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=938609503574b7ac&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzQ3MUI0Q0QxMUQ0RDVGNkJGQUQ0OUFDNTMzQTI5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2NEI1QjAwN0Y2OEQ2RDY1QUM0NDE5NDlBRjBCNDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaA6_DKkO-wAxUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ751vOoGwoaZBW5AiaVqor9V7ArVtv4qnvypfzJVv0Fg&oe=6ABED22C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2070510703499636"
+      },
+      {
+        "id": "1620959912693008",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/765769645_922642973560667_8601904068235978171_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_m2gIT7Vuf8Q7kNvwEo4jVo&_nc_oc=Ado6oNhSNMJtJmMCgqJZbiWS67nQw3YeFTbFnYfr30X5EfOmq3SeFJ6zeTlKj8SE0xc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIGPOhVe4__czJroIKPBQ66JxWkE0shaD0_oda1BFpDew&oe=6ABEBAE2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPFoL61DBu20T4xaURA2m68KVc9K8s1SoRIuRawUrweY17DPnKHiO7JntRFYt2kTfVTqD5yW4N4SF0wXJRNA2KoIB24lpHWGzvg5EndQyuj2Q.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jYyED8XKzNAQ7kNvwE28o6S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTY5NzkzMDg3ODEzNjAsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=86341f8d35bf4da7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODRFNjYyNDNBRUY4NzExODI1ODIwQUI1Q0RDMzRCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU2NEI5NjU1QjlDQzNFQTA3ODFGMDI2QTdGNjE2RTlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg_J750_2eBhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKBimYAyjr8ZDLjepgXYrU5XawaFiUK7x9K9NcAHZnCuw&oe=6ABEBCBA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1620959912693008"
+      },
+      {
+        "id": "1429366852585474",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766952579_3030666113797495_1942858001791225275_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNaVSLQOFVwQ7kNvwGGxRro&_nc_oc=AdoSOMu9ezLCU7iKwBWTszS3dcoZX-aWm7SNlElxCWguJb3Ttg_fV_Th4Oyiz9I1wmo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQINSr1zEFwHegpKhxYZ6ZJAV5Oc1Refe5k9kpT_5fogfg&oe=6ABEB940",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPFoL61DBu20T4xaURA2m68KVc9K8s1SoRIuRawUrweY17DPnKHiO7JntRFYt2kTfVTqD5yW4N4SF0wXJRNA2KoIB24lpHWGzvg5EndQyuj2Q.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=jYyED8XKzNAQ7kNvwE28o6S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTY5NzkzMDg3ODEzNjAsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=86341f8d35bf4da7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODRFNjYyNDNBRUY4NzExODI1ODIwQUI1Q0RDMzRCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU2NEI5NjU1QjlDQzNFQTA3ODFGMDI2QTdGNjE2RTlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg_J750_2eBhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKBimYAyjr8ZDLjepgXYrU5XawaFiUK7x9K9NcAHZnCuw&oe=6ABEBCBA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1429366852585474"
+      },
+      {
+        "id": "2819629078394658",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708312684_915264864874449_1867912826746419402_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cFKwLpr3FfYQ7kNvwH-5UOO&_nc_oc=AdrnH72eD8RQw2YSeBy467PQz6twojeXJNnOQi5TBcRDBU3wVwzJ9OHgVRAntGaxMRk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLksvHhabw_DgChmkDbg9SUD8EZNdfsZxwtgIJPtwKVTA&oe=6ABED2AF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN8lkkaKQ2SGiOUnPviZBYY_8yii5xhGZVE5l7DS5F5bHa7fdlsoJGSLq8PzvAo4XV692XoXZerHDmyy4GOFCAIMR-ACu88SazwFTTRnc7qXQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MlToogtxAlsQ7kNvwG0oyEC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MTI5NDc0OTA1MDE5MjYsImFzc2V0X2FnZV9kYXlzIjoxMjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1ef6f487540300d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTQxMDlBNTgyOUZCNjZERjEwMDYzOTIyRjI1M0NCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNEQ3QTZFQzVBQzMzRkU4RjMzMUZBM0Q4RDU0M0IxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM1OGbkYGwBRUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJcO7DLP0iOlM62Iq8Uz-dl4IDSLplVooVII0BYy4h7cA&oe=6ABEB0AA"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706759936_1318419946310664_3576612521732041191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2pxH2YnXlgMQ7kNvwHYGRxP&_nc_oc=AdrjpFoXIypjd08uD4JpVUYV9I01nYv6r49CPNOCZEeS3CncX99xY3vRGVQL9nbu1tg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIsUMQL3YC-30rgRbcMaG6iUTJnt1RmoEyMIB2K8-cszw&oe=6ABED3D0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNa22BDy5wJf4boOxJ_bQzgUkLgsDrgwwxj6veF6sRjYZ0ePAzYrU33ya6YwQ6CUSRiks0aWKN1Wbof7dMb0a9EfUt47sIPTgeGPiH4IcYzxQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Gp4OImDDBxMQ7kNvwH43laO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzQ3MTIzNzg4NzkyNDEsImFzc2V0X2FnZV9kYXlzIjoxMjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b6171a1e850cca5b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDQ0NzhBNzFDQ0FDODIzODY1NjE5Qjk3QUIyQ0Q5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NEIxMjM5MUEyMThDRTA4RTQ3RkUwNEU2QzBDNUJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaStM38l8TWAxUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKWceHB2IkUZD0HB32kpYE-M__2WfIggwuCuj9OSA8HFA&oe=6ABEC5DC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2819629078394658"
+      },
+      {
+        "id": "1606569001257814",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706111285_1007899045041252_1316339615197265350_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_aXH9mOiFYwQ7kNvwHbqvt4&_nc_oc=Adrnf-__oC1NRuPKjbOBjkmfMHWOjMO7ngRLhSeiZnZlJhiJVzfxofeUgptv0Vr3bv0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJ9DQ_IcWLPtFMta5_HxDMjpKoSgybcUbxhsXVe2FAgRQ&oe=6ABEC5EF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOTj29krXv8nDcVsds3fiDfTW_L6SJJJZsaKzcGZ5u0_NAApHW2bdMSaoFsvLI8hdDRPS2pota3i-WEIEs5gMHZQZMkINpkWVKpI97GoaRQtQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=6dxhqRqn9h4Q7kNvwE5lTL1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODY0MTIwOTY4NDcxNjAsImFzc2V0X2FnZV9kYXlzIjoxNDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=34607e1dadf4caba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzRFQkRDRjU0MDZFMTM5QkVCRUUzMTcxOTc0M0Y5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU3NDdDRUY4NUQ5RUFENjExRjZCRDE2QUQ5NTdEODlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw9Lf5osKbBBUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIeMxlYwhgPolzSDdQ2cF73h1NuVQusPzsI5bQMe_eF5g&oe=6ABEB35C"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706473906_1861463857884079_9042060444804927402_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2CZCf1cuzToQ7kNvwHUkXrd&_nc_oc=AdpoAEKqEGg10PLVllpzky_EhLRPjoLy4Kg2HwZEI-XVvQvOVcW-35jDzBUoMisRq7U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLiQLCMHzIv3aoLQ37ZizrK500KPc0mGlVlIaR79j-8VA&oe=6ABEB062",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNbNz8WHf0brTWyOXZTP-WU-5ON3NtyvUf7GtoXUB_savZA89Uf557XWLemZNnbCUghVTT5tLtRDlzZgH95ON_vvvw19G5GsjgoOy2_e9lWqg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=J0oxloMJZbcQ7kNvwHMGsUp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3NDYyOTAxODU3NzE4NjMsImFzc2V0X2FnZV9kYXlzIjoxNDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=16d8386f44f76845&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzRBNjM3QjM1RjE3OUUwM0I1NUQ3Qjk1OEU3OEVCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y5NDMyOTUyMjdBMjczMDc5MTcyQjYzQzNEQ0JDQzk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACau7civkO_gCRUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK8GNuMPbdGophJv5CkumM3gTx_D90X4Bp55v28K4Rt2A&oe=6ABEA11B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1606569001257814"
+      },
+      {
+        "id": "1594194825730445",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785135600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709770823_1320974503508894_5918709779961580889_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hmgn7Sg8RgMQ7kNvwHksL3b&_nc_oc=Adqinu2acvU4dAfWzJOZY9U_LKB-soKM9xBVIhtXXpe6AeO27K1c4A2LbsKuwbdvGtc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJeED717jyaL_H8ExZSMeuFXDUazLJJ6Z9zLUQw3Ek5tw&oe=6ABEB6FE",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMkH5Ni0_ODwEUimRMMawTYNV9Ka2hY5G9YKc1qQl3DVYcnNrwpdxMQRN51Tep8yMZjyCwp4Bcx6d1WMl5VuZZEUw4eq1TizGxG9BsUReh_qg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=KK6j3dHC4lAQ7kNvwEwP5UO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTQ4MDEzNDY3MjgzODMsImFzc2V0X2FnZV9kYXlzIjoxMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=210d5d576e802bfe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTQ5OThDOTBERTE4Njk2NUM0RDNDQkIxOTg2QUNCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVENDcyOTY4REUxRDgxNDQ0REVCRTE2QjU2NjFFRkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-xsjIhs-6BBUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKFhAlhEWNr72ScuugzRrTu-1CKG6oYztbCRVLhIbPzGQ&oe=6ABEC87E"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/706744777_2593510601044602_2669542417363755965_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RRHi9aUiU8EQ7kNvwFEi1Zs&_nc_oc=AdrBE9_AElrW_UbE6G5iJUS74dmg3IvtG4XGX5PeQPMqckCZXWOZWGqhL1Y6H2PRsfg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIVpib03yJHePKujayTCXAo2fuCT9QCnM6LlnbtAkPIKg&oe=6ABEAC64",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPUXXtZIp1EPrdJHwLI4S4FbQuyv5FEibthm63q7EZ7BwQ-nd9eBBGG9dGF9iP5QnbOKX2XWbP35SpPj2vRj4SFSKYgEC9CcANyKyX3ndgYDQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2h1uo8F5a_8Q7kNvwF0XEJ8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc5OTI3Mjc5NjQ1MzI5NCwiYXNzZXRfYWdlX2RheXMiOjEyMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1b8091a5ffef1789&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRCMEYzQUE3NEQwN0RGMDhFODFDQzVFNzMyQ0FCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNEJEOThDRUMzMkY0MTRCNDJGNzAwN0Y1MzkyNDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbc5uOx5rvrAhUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLrQ6gA0w3YVIxhN3RqFdXXz2w-qmxz7ozIw8a2vouxMw&oe=6ABECC01"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1594194825730445"
+      },
+      {
+        "id": "1822563589118869",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Флорист"
+        ],
+        "ad_creative_link_title": "WhatsApp",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767002502_1088254740542519_7810232651618318746_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rXkvlMvn770Q7kNvwFcw_qy&_nc_oc=Adqw5imMmtcHPuXklSGEqjO9uRFhKWSp1yD1vgmPV6kPqPgtMDMIuHqiKsCpdiALsYw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLDa9oe7TV2Jev-GHSC_wQgxyok3Q37A6T0nIcKwz-RIw&oe=6ABEBD89",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMnal2Ru1_7fV6-iCEYn8LYVH3_JU8xD1MAZegiPHrhihrn6zxXlsCh4RDMxvRUwKsGWN2FpXk0pLxdzQQllINXKX2-X-7lG3XtWhluqYOASw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3y2jVuWPl0MQ7kNvwF9C98p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwNjk3NTE4MjY1NjA3NjYsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=abea6f052d9b99ba&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MzRDMkYyOEZDODA5Q0YzODUyN0M5NTVDRjQ4QTlBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YzNDRDQ0I5NEIzMEVCREFBRDA3MTI1QTBDQ0MzQjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8292yifvzChUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLLqyODowXgbUtSFl8yYlWmkICKwa3s8OV4ZaKYNsZ2_w&oe=6ABED5C2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1822563589118869"
+      },
+      {
+        "id": "1369269654596961",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Заказать цветы",
+        "body": "🌿 Эстетичные букеты в Беэр-Шеве.\nПривет! Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся — я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769131075_1837307247236877_1996311504586236081_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IJq0cOI7HxQQ7kNvwHYlD4M&_nc_oc=AdpBvKuCAP9oCbfGBvWgO7S4YYBrqO5YoLVGfMz73vGNzZF3cjQA6WhRjccUZ41amio&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQI95ZH-fALV2TV4pR6ZPhj8F2KedBn9bsriUu3Zk_5-Hg&oe=6ABEA264",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNsLKAz4Jbwpccg_AXblfiq8DW6cO5oz4jKzSifSg4g-3J1ALWqEJcI8EKXJ25QtKQFUKXtfQ7X95-ZijGZsU4a7M6mjPR-bMDIzsD6-m_mUg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=FQLx88D_lYgQ7kNvwFLCzUK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1Mzc1ODU5MTE0NDcyMzksImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b79730bbb92ecbc6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMjRBMjIyOEU3MkNCM0M4NTUzRDIzRjRCRjdBRTRBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDJBOTc0N0NGNThCQzFCMDAyMTlCNjhEQ0ZGMkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO-4Hho5u7BRUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ27ENGDP8X7CzL2yD1L9b8GIUcV3bFOUk9s1hgi4d65g&oe=6ABED213"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1369269654596961"
+      },
+      {
+        "id": "1726886935021938",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785135600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707277112_1370919401762732_4900704740934442707_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q7qlvrlUKGYQ7kNvwEPFHnB&_nc_oc=AdqO_WxpNbadLjWhfWRnnF7Iun2LQsdoc6zyK1SEKFGGoQsIvTAVH2KeRPRMv3DmqRI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLjIkN_dLNiXpPaniPcHHbYjTEjGI4Ub2bDXLteN4c0kA&oe=6ABEAA51",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN3WkwmINycNu-5mxS6qJIstuoiwTbsdgeuJ9yQaUZOjmc57kP3trMCKcsg9mjNTGD6nkiZw3IqtWeIE6VlWUSDCrhvydWvP-RP10oj4VTNdg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=A6zupQUeJVIQ7kNvwFaA-Gd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzA5MjM2OTI5NTU0OTQsImFzc2V0X2FnZV9kYXlzIjoxMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5af5dbf32759abc2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQzQyOUVBODMwRjM4OEQxREQ5MzVFMDU0RTE2MkY4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg5NDkxNTlBMzAxMjcwMEY2MkExMEI4NDEyNUM3NzkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM3ZKI1OfUAxUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJqKMxn3bzCWE7A6AsI6c9uXkyd80dtzDgu2yIocF5rYw&oe=6ABEB40E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/709015834_817571721195542_1936695432297428238_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uBNUHKu6y5QQ7kNvwGR0SwK&_nc_oc=AdpYvlzNlqZpxKAPiMFTiX85I3w-XXQxzs53dyT1fo4r2qbayiy1nivwL_QMjpGcjYY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQI-9pKFygNIeOmvIxna38o5zbLLwpmsle34HW0dihe8YA&oe=6ABEADC2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMlRcjq6DMMyWvGOIgC3bZ7mUqkElCAEbpTftfe9VLwteQ1O6ez5Koig-EhOEc6PZTrym6KTzUIp75K3XKNHCvEET3K6U6Vo39rfVKhYUzc-g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=FyUmbcipSEUQ7kNvwFiqiv6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMTM4NjgyOTYwODAyNDgsImFzc2V0X2FnZV9kYXlzIjoxMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=66a12b9e6970b63e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTQ2ODExRTNBQjYzQTAyRDFCMzlBNjg1RUYxM0RCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NDM3OEZERkFGNDMwNTU5NTQxODcxNjc4RDAyRDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwrfCVjODuBxUCKAJDMywXQD4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL_bEHYaJ7UBbFW3mP7KMLJliP9TXbmskPCHByWgEDfIw&oe=6ABECB9E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1726886935021938"
+      },
+      {
+        "id": "926436799706723",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785308400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707913871_1999768893975023_1673244986997440834_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0HPvKXlehzkQ7kNvwEa-0iy&_nc_oc=AdqVp1FvvZNm60uMsrDE-ZMr13TQGZLdBjYobLLo6lg__ibOjTAVVAtSM8xLB18Q0Nc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQL6l2fQSZCp8Lc1r7t-_xqUCOZjenF9rkTEQ7jp2jkoAw&oe=6ABEA043",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPDx4SySIQ8q68DJPzxRH8DXMVRrgbnIFw0se06oHKQg15ttIo2NX7eHZcwW2hVw0UFyVs2F8ht2JseyzTcWT3JLTJjNexfhCkFoXjznbpPcg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=7ksdKoZws1AQ7kNvwHClUM2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTM0NjUzNDkwMzk3OTUsImFzc2V0X2FnZV9kYXlzIjoxMjMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=15a64052eff9855d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODQ5NzhEOTdCRTAxMThGNTZEN0VCRkY3RTI5MDBCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgxNDI2OUMzQkQ2RDg2NDhEOTc0MzU1MzM1OUEzN0I0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbmmrnsrPTvBRUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIEwBhz4IJPkh1NREqvW0H2yxFdcgbRJHpfvt3Q7-nPGA&oe=6ABEAD7D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/706760305_1556350546009584_8459853236383436719_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OyZqJ1hMxVIQ7kNvwEQTxCb&_nc_oc=AdpaXQiTjQ3jgPhAXCfNLkynbvplerpp0Reik-zJKWid-Sd30Sl0-wq91HbVAUUSThI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQKhE-UQPSE-tuCazL6fCCug6L6qLPknZqcPC8sNYHKn7w&oe=6ABEC8F1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPnS6G1vM5OFPQ_iacttkkiCL5m5dn-qhmv1ZaQKRtgV1y3EcSwJw8qslQCBDcmF-q5iPig6F8Y8jIA4xtYaI04TqCctm1diX8pMROdZmamlA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=yDuiXSFrzVQQ7kNvwGiJzR2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgzODI5Nzg1NjAwNDg0MywiYXNzZXRfYWdlX2RheXMiOjEyMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ab2da2c1aac29598&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MTRBQTY4MjVGQkVCNkM0MThEQUJFMTkyMzc4QjY5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNDdFMzBFQzUyMUFCRTc0Qjc4QzJDMTYwRTI0MTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWy-LerZv9AhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIk2OGlb1JbWq6qGg3e784tOCkQxv7VSAGJDA5sCZhDbA&oe=6ABEAFC8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=926436799706723"
+      },
+      {
+        "id": "1525055996301860",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "WhatsApp",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767363716_1465564988943965_6972570240662282383_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bYbQ6ipdNl8Q7kNvwHLFdgb&_nc_oc=Adr68fHYDMNWZlewI1lOj6P8ox-UBXxagX8mqguCoEOccgbt04l9hEvdPBE9DneHLHA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIz86ybkJv95kEpt55N_AsCDGitF_PwgPIgc-2FWaeJnw&oe=6ABEAA19",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLfG1d_O6ZaAOBhK_0feBfgNtmqgJENdjyxjFG8kITR1MlFwYmHtx8tqzWHFZO5RRBKrSNvajze-j-x8wZYgdp_2X24WeZtrQYvCZuzMHclQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ad8N6PpXc9MQ7kNvwGfsK-D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3NTA2NjExMjIxMTU3MCwiYXNzZXRfYWdlX2RheXMiOjQ5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=964b4a902b191124&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERTQxNUI2M0UzRkEzQUQwNUYyQzYzNEY0RjY2MzJBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk0NDA0N0RDOTE0QUQyODIwMThEOTVCNzUzNTA3OEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk6YHUqLS7AxUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJVsVsPE2z1l4RgW1DKQhqIp1hDQQ6BrDgeyRYBnvQMwQ&oe=6ABEBA8D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1525055996301860"
+      },
+      {
+        "id": "906506652018930",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766797892_2438192650003178_8926426772552815238_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1NW25t3h-WsQ7kNvwE7IxFb&_nc_oc=AdpEoG1qM6J_wIadnMc7zP633WBXL9EkjN8bSkRwaTcz9CGB0BJ630q6X0KQ1Hy8xkM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIaHGZe5TLW94ckVxca6YygOPqe6ANROHNnS6RhtTGMJA&oe=6ABEB557",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLfG1d_O6ZaAOBhK_0feBfgNtmqgJENdjyxjFG8kITR1MlFwYmHtx8tqzWHFZO5RRBKrSNvajze-j-x8wZYgdp_2X24WeZtrQYvCZuzMHclQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Ad8N6PpXc9MQ7kNvwGfsK-D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3NTA2NjExMjIxMTU3MCwiYXNzZXRfYWdlX2RheXMiOjQ5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=964b4a902b191124&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERTQxNUI2M0UzRkEzQUQwNUYyQzYzNEY0RjY2MzJBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk0NDA0N0RDOTE0QUQyODIwMThEOTVCNzUzNTA3OEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk6YHUqLS7AxUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJVsVsPE2z1l4RgW1DKQhqIp1hDQQ6BrDgeyRYBnvQMwQ&oe=6ABEBA8D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=906506652018930"
+      },
+      {
+        "id": "925071056620800",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Заказать цветы",
+        "body": "🌿 Эстетичные букеты в Беэр-Шеве.\nПривет! Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся — я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/768136685_1251764293664383_105601758699088570_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nfx7XJZoddkQ7kNvwFBJ7Cg&_nc_oc=AdomOkJ0HPB1qE6DrJdd7yM8kkm_vTpTLZvvYwojHChwVDjSoMDJlBrlpaNhFXMU768&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIDXmWDdW_nxyk7oU6CgEarTa1Z_FoyhQV7nrXZaeDxRw&oe=6ABECB28",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMvdWjuG74B7ioopAMiFDkMe0IrnZf4W-sJ_id3DD3JlbVBK2hzSkr7Hdp7igUtw2SFxvgWGxyfYfIe8taRz1-VM_AkK4PbuBqTMaHYuf45qQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=QFVTl2OjwiEQ7kNvwHo_apJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODczMzQxNjkyMTk5MzIsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7ad689b466219453&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjRCRDA4ODNBQ0ZFNTE1QjE1NjE1RkFBMDY0Q0I5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzNERBNjg0OTcxMkM4MTJFM0MzRDU2ODJBNUYwNThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4zbCc46f_BRUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJbll8SX9rW_dVONK7CIAgzD4V6hTAi180ZozuG0BEn2g&oe=6ABEBBA9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=925071056620800"
+      },
+      {
+        "id": "923598244159918",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Заказать цветы",
+        "body": "🌿 Эстетичные букеты в Беэр-Шеве.\nПривет! Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся — я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769189788_29070263519228168_3074755030159815932_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eFNtjmxEHwMQ7kNvwGjjnzn&_nc_oc=AdpX2K-kg0obbqrpG_9oFxKLyLNKUK070DbtGoFiC7aMP1Hh7RtL4cwKuaVQUrZdSRk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIL8p0khCSg2Wf1yRdQXPxjL2Os39yXrMg54JENYH6RdA&oe=6ABEB676",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNjhoeZeJ7TNn6D1jFK1m-YB2jujmK2UaRJ8OQ7TuHIgn0IetiSsRY4LsDKRCHSaDFS8wxhwnnAKazJ3qa25JfwvdUg9ZDjLxN7jgXAS9mgUg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=3OsoQkKZ9qIQ7kNvwFcFrp5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTEzODkxNjYzMjQxMDcsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9cb667fd301ff222&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNDQyOTcyQTUxRjRDRTUxQkQ3OENGNDNGQTJBREQ4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q2NDVBMThDNkIwNDQzMUM5RDk0NENDODE0QkQ0RDgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWpvym55OBBhUCKAJDMywXQDAZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLqKwRIzOSzOrq5J5TzTdyKqb1A-0Dd-he9SB18GeCFMg&oe=6ABEA2AF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=923598244159918"
+      },
+      {
+        "id": "2340702223364649",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825273224_1583148656080293_6368115210438482809_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GbRTYH6nXLAQ7kNvwEucr2m&_nc_oc=AdrxQ1BmSK7hK8aa4jwZ1j0w1UL3akYqQUAQ9Z4tPfqX7DIqqxYtWfF1SLHJiJzNUno&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQK-YUYdEEqdytLqPMIgTwDZbJJY_T6hpCCj6Sl-YYFoCA&oe=6ABEBEE3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOrFqNlZdWj0_XHIg-zVnEvVW1pYCcnOdPF-BfW3onlUJcYtENAEdZSL6OJjhyXizi4qEttn0V7QB8xDbB--5m_G9xp4yl2wCvlbjuSqgKXjA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=6BChimtqCvAQ7kNvwENlolU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1Nzk4MTE0NTY0NTI2MTIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=dc62bdfeddf82240&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zOTQyNjcyRTY4MjVCNUJBNTc3NjQxM0RFMzFCQTk4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRENTMxQ0VGNjVBMjQwMjU4QjMzOUQ2RTY5RUI4OUM4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIoOTKkLXOBRUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLojp-NK6qPg6s7uTIiCGRrhDXHiQJeXHiOh5P8d6tIrQ&oe=6ABEA3B6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2340702223364649"
+      },
+      {
+        "id": "2457036958155007",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825268328_1073836018694672_2915542971970339425_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fHR3a67vUdwQ7kNvwFVtTzt&_nc_oc=AdqhmUGyBsThCRhScZdNx7AomiFqPcP96WAKm17dIR7QL3vas3Wk36aAm7rU6ZoZtpw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLlj3FV4ioWi_CdPuUSY0gonu3RcJ0-z0q_kAMwV9TWoA&oe=6ABEA041",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPzKGmuE7bHlFkxI_VdGaIwGvTqP0SL4xNHZ5xyd07k3fuYQvjPbXELOPJqZShup3ez1vdbYIKJcIl7rzWCLJtw8F08fECQqtOrRVzjnEgb7g.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uc3rodRj-EAQ7kNvwFW8Lka&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNTIxNTY3MDU3MjIyNTUsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=22777e94b705c994&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzQ3MTY3MTFDQjQ3MzMyNEZCRjE0OTJGQzU3RjVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NBNzkxMDYwMjU3ODQyOTVBREY1OUUxNjkyOTg1MUY5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaevpD_gNjSBxUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIJOzvqKVFIkiRqkShcyBnG16DSg2y7YBighSTKdQDe7w&oe=6ABED49E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2457036958155007"
+      },
+      {
+        "id": "1656869542620260",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/825267384_978404431965645_8210850998875472204_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Y84xSxxxNsQ7kNvwHf1sU0&_nc_oc=AdrCuBWFC4jX_NbNITlQs8604qkoNLkIG1ehtmEu7_EsUNWsEYlQ-q8vzu9cAxiNnTs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQL0iYjvkpIAihN4o--N2x5t_Ip1AHhS8CAkdnaM4pdNsw&oe=6ABEAB79",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOKON7vrQ9onDvpUigittneAySpu9mZBaElVCRxAXiOsL3MWoEb9va81ghPgcLTnIy5kYFKNv3Hk3RBv5PnDVwOKbqQg1ECwjQJUPEeTtxpwQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zA9JbYmhtVMQ7kNvwHd_NzP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NTI3NDc3OTI3NDMxNzgsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c17789e3e47edb4e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjQ1NTU0MjZFMUZGRjA5RjY4MjU0ODdFQ0NDNUZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwRTI3REJDMjAzMTQxMTk4NkEyMzU5ODEzMkVGODQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU7NvgjsTKBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL_jONIYIGnN2hcPPaFkm_adhHIIGy4ktYkpVYKUOKnfg&oe=6ABEC46C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1656869542620260"
+      },
+      {
+        "id": "2504924576661105",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825278433_1622041985942362_9010183571868732092_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ArZDsCEXHtIQ7kNvwHKiF2J&_nc_oc=Adoe3YU7joHBaZgtCLzdu5ev0Cxwbi-u3xyrAGQhip9-p4MPJmmzqXUI4CSz5AxseJA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLmmmV7OWbDp8L1C-8GKQ_w14zgVdz5RKPbcHLFs5jKmg&oe=6ABEC474",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOKON7vrQ9onDvpUigittneAySpu9mZBaElVCRxAXiOsL3MWoEb9va81ghPgcLTnIy5kYFKNv3Hk3RBv5PnDVwOKbqQg1ECwjQJUPEeTtxpwQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zA9JbYmhtVMQ7kNvwHd_NzP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NTI3NDc3OTI3NDMxNzgsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c17789e3e47edb4e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjQ1NTU0MjZFMUZGRjA5RjY4MjU0ODdFQ0NDNUZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwRTI3REJDMjAzMTQxMTk4NkEyMzU5ODEzMkVGODQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU7NvgjsTKBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL_jONIYIGnN2hcPPaFkm_adhHIIGy4ktYkpVYKUOKnfg&oe=6ABEC46C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2504924576661105"
+      },
+      {
+        "id": "1415073780578554",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825278416_1193317556373383_6948424849654128877_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o7vVrd0C8ZgQ7kNvwFDE5S2&_nc_oc=AdqAc98YTdGjbkN_t2BqS3dvTvCYcztvWS1_GJ6Xj2X9uB800Mr55FrQULL4BguUQu8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJDVs59PWkts34k5TI17QveZAmXLTAXiaEBaYJ7M7suKg&oe=6ABE9FF2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNQ-fKOnUSP0jrpElnFyYMILzKsthG495O31OPcUZRACbMhLEZaDQux0AmVsXQ5La0STDfynBo_weDYWNf8FF0WakTB_UEwfIYShNx3Eij_Pg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yqhgxwN3nlgQ7kNvwGWDD5u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwODk2MjkxMDY3NzI2NDgsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a8c8f00a813d7b1b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTRGRDdBNEM5RkU3NjA2Q0QwRDNBODlGQjkwNjI4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M4ODZEN0I5Q0Y0NDQ2RDE5OTc1M0MwNDM4MzI3QjZBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ6sS94cDvAxUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJEszNm-EYaB5fjXdd2CQFUHtBIhQrnYBKBLiLYIAg9Jg&oe=6ABE9E68"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1415073780578554"
+      },
+      {
+        "id": "1263324475933984",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825267927_1058966343629728_1769650616581097522_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jEn3LjQW2s0Q7kNvwFrqw8G&_nc_oc=Adp7XKDGfNy9McVBRNLy2-tvdhOZkeNjMh613diFftQXqTZqS2Q-Rmyyr9e_IpeJu6E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLrdkV7uzXsmFHZj9K2hzR6Qbzg42Mhr2l-YzeL7r65Jw&oe=6ABEAD8E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMM5z0hsRUgJ6DoDMQRBStxnTU6Ip4rPd9xwCoyiJWJ06D9kar7Y8e-_4y47WIo3tMpreCB6eLXwvUcxkOG9--NZrRcyeKoCM9fRF7PxMBjLg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6S1x72lInmUQ7kNvwF6Mj3O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMjE2NjA3Nzg1MTUzOTQsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a39fbb333f7f1fdb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NjRFRTQ0OTUyMTE2OThBRTZGQ0YwMzIxNkYyRURCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0REQkEyQzZENUIzNzRDMTQ4NEVDRUEzNkREMzlCM0IwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEr_rIkqyXBxUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLBIxGd26Mn7AiBmbFPB4N0djN6A8DNVDqXLBvMUnwznA&oe=6ABEB3EC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1263324475933984"
+      },
+      {
+        "id": "2105645600345858",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825292289_2183828989226268_4872749570218130654_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KRvHUYNBDfMQ7kNvwHftc1V&_nc_oc=AdodEHBj7mADfddZ7qgkagxtgOHxlwPoMAJnId-jsQ7qEUBollUeH3lub1PZ4e0qrYw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQK2bknnEzRb4Rf8qD9-2R6COwLuVNGSsLbnY_2ZxufUKg&oe=6ABEB8BC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOmkxno0usEamToq2Bz_-LcTKUi62fb8lcIY2T3QpKNeHizm2CH6rqR2DKXlmwkieeDSWSb9rtFkRApANtPUbJiJGVYVqXA5BLgH-YAnd5PJQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=dIRAaBD38QIQ7kNvwHblHLP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4ODAxMTg5NDM0Mjk1MzQsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a5a0ce795c22069c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QzQ5REU4MUJBQTM0NTc5NkZGMDRGOTlBNzA4RDBBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhDRkNCNjNENDBBNzQ2RUU5OERBNTI0OTlBNjc1Njk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8zpHcqf3WBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLZW4xCwT7WTJw8VQfGqnGHASMSuLbiLzTcdMLc28qRkQ&oe=6ABECF74"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2105645600345858"
+      },
+      {
+        "id": "2287765092020854",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/825292797_1767525211130784_8487428090847282366_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WdYRzuMXaVsQ7kNvwHss_3q&_nc_oc=Adrpzoxi8cX6dVccH-kR93724O5B7LPKhq7vynng-xmLH7_CkxjS3iEOfoCdvClCbiI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQLZfyHhN_lkfATr5b2c79jAFW1Pm1JcCZMqdKP_GOQOgQ&oe=6ABECFE4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQORCfwGVFF6n3x5M1QocPPTI5BFXaiyj_ZbofMWmBpR9uuA1fgIwSMBy3XhUMTVI6NPMGJe4kBfVtUR_yhWagnPlv4T-BsWnmeixkaBbKcO6w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=09GeMNjjTnsQ7kNvwGuo7l1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MDE1NTY4OTQxOTk4MDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cf6acb3315f0274e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMjQ4QTlGNTdFREE1NjYzNDRGNzlGMDJFRUIwQTlCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y1RjI4NUQ5MkM2ODQ3NTFBMTdERTIxRkI2MTBCQUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8v8XrtKCzBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKLaXenl1iuuDo4oooVDSDRGq4wjNsAEf6kPKb474-Spg&oe=6ABEBDE3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2287765092020854"
+      },
+      {
+        "id": "1554757822636235",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825273929_1533486265210536_5211585625888924286_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JZ6kzAdgOHIQ7kNvwHJXq2A&_nc_oc=AdpMl88_iuOaLBJiuBo8qZnYt4iLCs-ZaZ3pzAycFQ0oLQhw4aJC58g-fD9RUJz0nX4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJwXnL7S2qlscKRQ9PosfVnKjCmz6vObA1gFHv0P_L9Rg&oe=6ABED017",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0h4LmD6rpE4B39OlCp-nIIbVcQvCTlZWFwevG1XsKiActf3g2-_0FXwRhEZj7lxqGjwZJWU6ReLc98KYMwDE2__gaD2TZmbKwFODLvHOg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=abQJUihcKEoQ7kNvwHhqGI6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTk5Njc4MjQzNTU4OTIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f59a16b55917c2ae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RTQ1QzNBQkExOTE2ODE2REIwRTk1OTk1QzEyRkNCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNTUyMzczNEY5ODQ0MjRCNDAzRTM2QTQ2MTc3REQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACboiLms9cOyBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIdYlnE2IrW52qB41nUUI-7ekLDvbSOqyhfNEAZJYiuNQ&oe=6ABED569"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1554757822636235"
+      },
+      {
+        "id": "1381027874114704",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/825267832_1806650907035966_1403974067567857681_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4wQg84uX7QsQ7kNvwHYhCIK&_nc_oc=Adqm1covIbLQ79IrAD5HGTgmGusnOCQjP8ftU_IPB7fws0314pAciJ3129fobjNPZIQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQJQdKgRFETWt9tEzK1mHZB_C9ygPsZLhwGAt4_Du4BI6Q&oe=6ABEA403",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOgs0h4LmD6rpE4B39OlCp-nIIbVcQvCTlZWFwevG1XsKiActf3g2-_0FXwRhEZj7lxqGjwZJWU6ReLc98KYMwDE2__gaD2TZmbKwFODLvHOg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=abQJUihcKEoQ7kNvwHhqGI6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTk5Njc4MjQzNTU4OTIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f59a16b55917c2ae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RTQ1QzNBQkExOTE2ODE2REIwRTk1OTk1QzEyRkNCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNTUyMzczNEY5ODQ0MjRCNDAzRTM2QTQ2MTc3REQyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACboiLms9cOyBhUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIdYlnE2IrW52qB41nUUI-7ekLDvbSOqyhfNEAZJYiuNQ&oe=6ABED569"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1381027874114704"
+      },
+      {
+        "id": "3095746770629595",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825281972_1401683708096192_4495340983834889366_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CinaWcpp2noQ7kNvwH1XLtf&_nc_oc=AdppVzFP737eYG-FSNL2u8K3Y0-sqWm47WCYVdrMY-wyygOG3qM5mNNcUp4a7UB2WH4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQIgWZ72dHEQomRejJzUymUAgyb6G7UzX9QWwnAWeVFmFg&oe=6ABEC289",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNqLU5Oh7VY4k3iNoFFWKOfFV-zp6QL86y3Zv8RFUJi0bG37KE5o4Uaa5zwVSEGLzmdvCWZVzw0Qlr_JWEYzCADYIjRiK0QuSziUfP9VItuhg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Q0lR2Ngnvt4Q7kNvwFIIJVs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODEwNzAwNTQxNzc4NTcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e8d50a2f6dfc05&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNjQ3Mzk4MzE2RTZERTgxODQ2RTkzRjgwQUYwRjA5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhBRjRFNkFGMzdFRjQ3QTE5ODZGRkE2MTQ0QUMzQzZDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaC8enf7YT0BBUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKq5_vlZwdyy8suQPbp-gfug4NKLkFHFDcevPtS6epr3w&oe=6ABED260"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3095746770629595"
+      },
+      {
+        "id": "1921932329253246",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Сделать заказ",
+        "body": "🌿 Поздравляйте близких красиво в Беэр-Шеве. Я Лиана, соберу букет под ваше событие, вкус и настроение человека, которому вы хотите подарить цветы.\n\nРасскажите, для кого букет, какие оттенки и цветы нравятся. Я помогу подобрать красивый вариант, отправлю фото перед доставкой, подпишу открытку и организую сюрприз-доставку.\n\nСамовывоз или доставка по Беэр-Шеве и ближайшей округе.\n\nДля заказа напишите в WhatsApp 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825267900_1938663967091078_6591422247890503631_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IstK27hJ-1YQ7kNvwFH7BJ2&_nc_oc=AdoBwmZpcZlEf7JzODKYpU5P_auTEHgZZcqIjCAUcF66k01avmG9rT4TFxpPpQH0BVI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQI4iXe7dnpZkmszY_6SMTiZVKF6cmE2wZa8GX0G2uWw9A&oe=6ABED668",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNb9qZx9bLgeOe5NuVmjS4jP_vriutgsKuuOzfOK5wL4moyHRgewGzOY821yNkt2UjEQ0QyA2J_ENsJpMXW8Is0tI5IMzDWubyKkyC5k2-yHA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uzENSNLD1M8Q7kNvwE1sBNk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NjQwOTE1NjE3NDE0NzcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=375f4e3e378ace52&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTQwMzM4NDFBMDg2NTQ1REEzOTIxQkQyNDFGREE5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk5NDQxQUQzQzkyNzg4RUE1MzIyRkJGMThDREU2MDgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKssqm8N70BRUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLujkWJMpAr5JRJAcHz5fRhL7zPsNpjiQLn4Hsy8faPCA&oe=6ABEC680"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1921932329253246"
+      },
+      {
+        "id": "1099664989233152",
+        "page_id": "1037231562803576",
+        "page_name": "Botanica",
+        "page_url": "https://www.facebook.com/61581310953845/",
+        "page_like_count": 95,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Напишите нам",
+        "body": "🌿 זרי פרחים אסתטיים בבאר שבע והסביבה.\nהיי, אני ליאנה! אני כאן כדי להרכיב עבורכם את הזר המושלם, מותאם אישית לאירוע, לטעם ולמצב הרוח של האדם שאתם רוצים לשמח.\n\nספרו לי עבור מי הזר ואילו צבעים ופרחים אתם אוהבים — ואני אדאג לכל השאר:\n✔️ אעזור לבחור את העיצוב המדויק\n✔️ אשלח תמונה לאישור לפני המשלוח 📸\n✔️ אוסיף כרטיס ברכה מעוצב 💌\n✔️ אארגן משלוח הפתעה מרגש עד הדלת 🚚\n\n🚙 איסוף עצמי או משלוחים בבאר שבע והסביבה.\nלהזמנות, שלחו לי הודעה בוואטסאפ 💌",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790406000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/825273461_1612457920248879_5823233238286586355_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qSVcWrkWvbMQ7kNvwF7K57B&_nc_oc=AdpIwPdPRLaVqKNn7QC2zRRb9B0b2NpVWNW-xSh_ObKrFkA_DzqnA-fwVfVcbNoV-Vg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&oh=00_AQKn4tAPKvAOw4dpKnS3PUGIee0XIHDAWxBjS2P0qrPyHQ&oe=6ABEB34E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMZv3Kt7vSLM5G3euyhp3ex6wabqef2o4BYsYUPdABidhP6AvSN9nRbUVLi56_GMDdEklfMfdiQMN22HgRJcUC2OyNTctCEx6UcItZLrcpwCg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9639OOBvkRUQ7kNvwEebZ1-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDY2OTk5NTgzNDY1NDUsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cf5ef26bbcce2cc0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRENURDRTVFMDk3Q0VCRENGODYyMDY2RjU1MEZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MxMkI1NDRFOEFFMjQ5RkFCMjA0QzhDOTU1NUVBNzI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbijKGz-v3bAxUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=UPfdekzD6ukamfJjmeOBvQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIcMm7xKWYXlB-3EwVg_2ZU5T0kxuOJ-gk78FsEdk6xRA&oe=6ABEBB48"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1099664989233152"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -90,6 +1187,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "filtered": "2026-09-27T09:54:25"
   }
 }

@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-244",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "100328299699537",
     "page_name": "Angelina",
-    "active_ads_count": 1,
+    "active_ads_count": 4,
     "search_keyword": "זרי פרחים",
     "sample_ads": [
       {
@@ -64,8 +64,29 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1528967601846373"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "academy",
+        "לימודי",
+        "קורס",
+        "קריירה"
+      ],
+      "product_hits": [
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1010,
+      "product_score": -7,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1528967601846373"
     ],
@@ -77,7 +98,147 @@
     "page_categories": [
       "Florist"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1528967601846373",
+        "page_id": "100328299699537",
+        "page_name": "Angelina",
+        "page_url": "https://www.facebook.com/100091466687808/",
+        "page_like_count": 1010,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "קורס שזירת פרחים - לפרטים >>>",
+        "body": "🌷 הפכי את האהבה לפרחים למקצוע אמיתי 🌷\n\nאם תמיד חלמת ליצור, לעצב ולעבוד עם פרחים – זה הזמן ללמוד מהיסוד בצורה מקצועית, מעשית ומעמיקה.\n\nבמסגרת קורס השזירה המקצועי של Angelina Academy  בכפר סבא ,תלמדי במשך 10 מפגשים את כל הכלים, השיטות והטכניקות הדרושות לעבודה מקצועית בתחום.\n\n✨ שיטות שזירה מהארץ ומהעולם\n✨ עבודה עם פרחים טריים וחומרי גלם מגוונים\n✨ זרים בשיטת הספירלה\n✨ סידורים מקצועיים במגוון סגנונות\n✨ זרי כלה וזרי ראש\n✨ עיצוב אירועים ועבודה מול לקוחות\n✨ תמחור, שיווק והקמת עסק בתחום\n\nמעבר ללימודים עצמם, תקבלי ליווי אישי לאורך כל הקורס וגם לאחריו, כדי לעזור לך להפוך את הידע לביטחון, את הביטחון לניסיון, ואת הניסיון לקריירה.\n\n💐 אין צורך בניסיון קודם\n💐 קבוצות קטנות ויחס אישי\n💐 כל החומרים והציוד כלולים\n💐 מתאים למי שרוצה תחביב מקצועי או קריירה חדשה\n\nהמחזור הקרוב נפתח בקרוב ומספר המקומות מוגבל.\n\n📩 השאירי פרטים ונחזור אלייך עם כל המידע.\nAngelina Academy – ללמוד מקצוע, ליצור עתיד. ✨🌿",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/775468754_1408628591328641_7807204412241881233_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6dx2lleV4FQQ7kNvwHYh2IT&_nc_oc=Adq3NFnhVJYhbxmUVgh710rrYP-H3BsUPusG318HIrRRRf9vobAxgqeWASesIiJBMJ0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&oh=00_AQKkxedRtaPCHSD-MKH4b1QsFM2-HFDOa8BWRMFPS5K_ng&oe=6ABECC82",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMP4yrCZMyozjBUySoLUsO-y2dLQwmWRbNw6sk_q81F2r24QwdfJuJyVanAiBGEdj11RCB-ybRXTcOvxmrGhEkXwAOGh8vmtBUHsYMKDNSzCQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=GztSC6XT5B0Q7kNvwGLNqFP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjU3NTg3MjM1NDQ2NzMsImFzc2V0X2FnZV9kYXlzIjo5NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2ef81196d2bf2b07&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OTRDMjY0NkEzQ0U4RDYwRjBENkEzQjg0NDcxODZCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NENENEU5RURGNTRDODZGN0VFNTY3NkVFM0I1NDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbC2byFgrvSAxUCKAJDMywXQDWAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ7FVQz-JwpyE67rNDgwa54qjRP_CF_xk88WqTm13GBjw&oe=6ABEB713"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1528967601846373"
+      },
+      {
+        "id": "2864258193945153",
+        "page_id": "100328299699537",
+        "page_name": "Angelina",
+        "page_url": "https://www.facebook.com/100091466687808/",
+        "page_like_count": 1010,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "מיני קורס שזירת פרחים מקצועי - לפרטים >>>",
+        "body": "אם תמיד חלמת להיכנס לעולם שזירת הפרחים- זו ההזדמנות שלך 🌸💐\n\nמיני קורס שזירת פרחים מקצועי ב4 מפגשים מעשיים, בהם תלמדי את הבסיס והטכניקות החשובות בעולם השזירה- מזרים וסידורי פרחים ועד זר כלה ואקססוריז מפרחים ✨\n\n🌷 אין צורך בניסיון קודם\n🌷 קבוצה קטנה ואינטימית\n🌷 כל הפרחים והחומרים כלולים\n🌷 בכל מפגש יוצאים עם תוצר שהכנת בעצמך\n\n📍 כפר סבא\n📅 מתחילות ב־4.10 | 4 מפגשים\n\nמספר המקומות מוגבל!",
+        "link_description": "ANGELINA MASTER DAY",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798797569_950377887410644_1842289898043400554_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WK1dHTMWjyoQ7kNvwHXgwFa&_nc_oc=AdpJG1APjgHaAQGs1mzh5ZRRw9w2mHXIMb01jahtoNYXefDRPUpmt-h7KLNvg7TEUps&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&oh=00_AQK9hyvHuxw5ZJzUwlPPOXNbX32UGngBLkdeHgQlufPOeg&oe=6ABEB0A6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFDmrx-uqQGIRmGghvoyZEntVeSt7JGJ_GSNfaCCjLDUTtqeTrs6mLjsHvkGaLWaXPH0nUQLwmlpolpt_qaBtnisL6Sf4aNefoSnKdRqcIGQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=18v5_Shfsa4Q7kNvwHKBQ08&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMDI1OTEwMzM3MDg1NTcsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bd8788c111f18abe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQxNTcwMUM2NzFEMDE0OThBMzUxQkUwRUEwMTFCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYxNERGMEY2RUI5RTgzMDBEREFEOTY2QUY3NzU2OThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaawI7zkdaOBxUCKAJDMywXQDtmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&_nc_zt=28&oh=00_AQJx4-_RwVqd45pavYB8SuJhDznfk5s7ZJdZYyaa6IaseA&oe=6ABEA3E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2864258193945153"
+      },
+      {
+        "id": "2022842681705733",
+        "page_id": "100328299699537",
+        "page_name": "Angelina",
+        "page_url": "https://www.facebook.com/100091466687808/",
+        "page_like_count": 1010,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "מיני קורס שזירת פרחים מקצועי - לפרטים >>>",
+        "body": "אם תמיד חלמת להיכנס לעולם שזירת הפרחים- זו ההזדמנות שלך 🌸💐\n\nמיני קורס שזירת פרחים מקצועי ב4 מפגשים מעשיים, בהם תלמדי את הבסיס והטכניקות החשובות בעולם השזירה- מזרים וסידורי פרחים ועד זר כלה ואקססוריז מפרחים ✨\n\n🌷 אין צורך בניסיון קודם\n🌷 קבוצה קטנה ואינטימית\n🌷 כל הפרחים והחומרים כלולים\n🌷 בכל מפגש יוצאים עם תוצר שהכנת בעצמך\n\n📍 כפר סבא\n📅 מתחילות ב־4.10 | 4 מפגשים\n\nמספר המקומות מוגבל!",
+        "link_description": "ANGELINA MASTER DAY",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796543701_1407597037964641_2944239763721470754_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qif6PhSKTAQQ7kNvwH0GKlc&_nc_oc=Adp1Ag6VlAcT5dqRiZxGmyfmPg3ePGpu1cfT7bl9eChfPEl5XrmN4PRNnZwxymAByh8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&oh=00_AQJbGufpBeYTuZ8iOtRNkqxHoR09BSItlyX4rYqundHDnQ&oe=6ABECC41",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFDmrx-uqQGIRmGghvoyZEntVeSt7JGJ_GSNfaCCjLDUTtqeTrs6mLjsHvkGaLWaXPH0nUQLwmlpolpt_qaBtnisL6Sf4aNefoSnKdRqcIGQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=18v5_Shfsa4Q7kNvwHKBQ08&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMDI1OTEwMzM3MDg1NTcsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bd8788c111f18abe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQxNTcwMUM2NzFEMDE0OThBMzUxQkUwRUEwMTFCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYxNERGMEY2RUI5RTgzMDBEREFEOTY2QUY3NzU2OThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaawI7zkdaOBxUCKAJDMywXQDtmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&_nc_zt=28&oh=00_AQJx4-_RwVqd45pavYB8SuJhDznfk5s7ZJdZYyaa6IaseA&oe=6ABEA3E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2022842681705733"
+      },
+      {
+        "id": "1354140776907333",
+        "page_id": "100328299699537",
+        "page_name": "Angelina",
+        "page_url": "https://www.facebook.com/100091466687808/",
+        "page_like_count": 1010,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "השאירי פרטים ונחזור אלייך עם כל המידע.",
+        "body": "🌷 הפכי את האהבה לפרחים למקצוע אמיתי 🌷\n\nאם תמיד חלמת ליצור, לעצב ולעבוד עם פרחים – זה הזמן ללמוד מהיסוד בצורה מקצועית, מעשית ומעמיקה.\n\nבמסגרת קורס השזירה המקצועי של Angelina Academy  בכפר סבא ,תלמדי במשך 10 מפגשים את כל הכלים, השיטות והטכניקות הדרושות לעבודה מקצועית בתחום.\n\n✨ שיטות שזירה מהארץ ומהעולם\n✨ עבודה עם פרחים טריים וחומרי גלם מגוונים\n✨ זרים בשיטת הספירלה\n✨ סידורים מקצועיים במגוון סגנונות\n✨ זרי כלה וזרי ראש\n✨ עיצוב אירועים ועבודה מול לקוחות\n✨ תמחור, שיווק והקמת עסק בתחום\n\nמעבר ללימודים עצמם, תקבלי ליווי אישי לאורך כל הקורס וגם לאחריו, כדי לעזור לך להפוך את הידע לביטחון, את הביטחון לניסיון, ואת הניסיון לקריירה.\n\n💐 אין צורך בניסיון קודם\n💐 קבוצות קטנות ויחס אישי\n💐 כל החומרים והציוד כלולים\n💐 מתאים למי שרוצה תחביב מקצועי או קריירה חדשה\n\nהמחזור הקרוב נפתח בקרוב ומספר המקומות מוגבל.\n\n📩 השאירי פרטים ונחזור אלייך עם כל המידע.\nAngelina Academy – ללמוד מקצוע, ליצור עתיד. ✨🌿",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778972524_2082919422311633_6123778850904178004_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0pew_JFKeRoQ7kNvwEanXbn&_nc_oc=AdoCy2BXn4M-QZJ9ODlCjmmRxfH9sRs9URRaH_LbqA2a4gFc-WyM8BKw40m0t2_w-R0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&oh=00_AQLsPMizwH9KMUT-UbOfxG8J6_alLc0CcGgDwhsMcGw48w&oe=6ABEA590",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMCPW2gmthNZewFwUNzvxk3p8u-JftknJubAwPYl8PUBGLnj6t8FpjwQwHBk9qqO1CVDKG2Jmp4ehbYuhM3V71kCYsZ1lxsVgSLnMwlFGcVIA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UMMBrKY2UtIQ7kNvwEnldz8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MDkyMTczNTAzMjM3NTUsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9ae4018ed8405ad0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNjQyQjFEMjVFMDMyQkNGNTVDNjE0QURDMzYyOThCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNDZERDY4NDk2NjZBRTNBNEU4RTI0Q0RDRUYwODhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWuObXp962BhUCKAJDMywXQDxu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=yEDpTFcn_ZdNV9CCU9S1jA&_nc_ss=70289&_nc_zt=28&oh=00_AQK35rcsYD-wsf9gjCE38DE14MyeeWgUabjgRdDfFS3edA&oe=6ABEB5AD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1354140776907333"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -90,6 +251,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "filtered": "2026-09-27T09:54:38"
   }
 }

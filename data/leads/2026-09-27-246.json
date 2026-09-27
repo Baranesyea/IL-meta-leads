@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-246",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -84,8 +84,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1614827540307007"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "סדנה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 602,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1076960118425440",
       "1614827540307007"
@@ -100,7 +116,79 @@
       "Art",
       "Florist"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1076960118425440",
+        "page_id": "263070506895223",
+        "page_name": "3D.Planted - שימור זרי כלה וסדנאות מסגרות פרחים מיובשים",
+        "page_url": "https://www.facebook.com/61558593261478/",
+        "page_like_count": 602,
+        "page_categories": [
+          "Art Studio",
+          "Art",
+          "Florist"
+        ],
+        "ad_creative_link_title": "לפרטים על הסדנה שלחי הודעה",
+        "body": "סדנת מסגרות פרחים מיובשים\nבואי ללמוד את סודות שימור הפרחים וליצור מסגרת משלך!",
+        "link_description": "בואי ליצור מסגרת פרחים שהיא כל כולה שלך!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/762688945_4542971772695039_2918305283727651455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AF3tyJ-UBKAQ7kNvwE70RA0&_nc_oc=AdqOFaFwpQDm7YdmLH4jFJiPaoeBcaZZ2El2uK7nsiHmCVpCSK2RFnAhwa2ITtyA8qk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=uD2j_FD_RVFj2wtOPpq3Kg&_nc_ss=70289&oh=00_AQJ3v8ioAFbJtK0o8P0GeDFZxW2bv6zZFvMPjbSewFdKVQ&oe=6ABEC592",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMis8TNdzmVlqYnpoPLgDo8UKMRnvC6Zacn58LqHOH8tZTWr7sUZrPR0KFILJv7Hs23Fsqk3IY7SaimxHvh55581oAtLK-sGNIeHwn8yPNs2g.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8_ZljuaRNKEQ7kNvwFXyyR1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc1NzUxNzI1MzY4MDI0OCwiYXNzZXRfYWdlX2RheXMiOjIyNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1f530a6c74cbcaf6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMzRFMDJBMEJFRjJBM0NGQUNEOURFMUE0RjNCNjA4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNEJCNTgzRENBNjRFMzc3N0MwNzZGN0M1OEJFRjhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw8Yitp73YAhUCKAJDMywXQDCqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=uD2j_FD_RVFj2wtOPpq3Kg&_nc_ss=70289&_nc_zt=28&oh=00_AQIugR5lhQJcvrGnfXISvgxgpJE83x5OX504gjMPwa97PA&oe=6ABEB46B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1076960118425440"
+      },
+      {
+        "id": "1614827540307007",
+        "page_id": "263070506895223",
+        "page_name": "3D.Planted - שימור זרי כלה וסדנאות מסגרות פרחים מיובשים",
+        "page_url": "https://www.facebook.com/61558593261478/",
+        "page_like_count": 602,
+        "page_categories": [
+          "Art Studio",
+          "Art",
+          "Florist"
+        ],
+        "ad_creative_link_title": "יצירת אומנות מזר הכלה שלך",
+        "body": "שימור זר כלה — הזר מהיום הכי מאושר בחיים שלך לא צריך להיגמר כעבור שבוע. בתהליך שימור מקצועי אנחנו הופכים אותו ליצירת אומנות שנשארת אצלך — כי היום הזה מגיע פעם אחת.",
+        "link_description": "שימור זר כלה בעיצוב אישי ומקצועי, שישאר איתך לעד",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763255309_1371425008514774_6328754899924067031_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YL7niwJIq4kQ7kNvwGu8jnm&_nc_oc=AdqsXSECd6ly-24ma9ekf17rEcExrSOBsfR99HAXWQ-QD21YpoM_xrdTZkTZX2qfME0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=uD2j_FD_RVFj2wtOPpq3Kg&_nc_ss=70289&oh=00_AQLgwfv01-5zMSPcfC6k9e-DpGBzCjXtuK7A-NFp6LHI8g&oe=6ABEB816",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMkx21PM62_j59CDY56oNG4_QS8M_fKpTp44KHBhpohhbfkq6LZiQxZoyYWkvGx0snrUpN6TskJcxkPblP6owfAJhxwkacQWcnWNn0LsB2cQA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=7brf6PDADY0Q7kNvwHpz5JN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjU2NjkyOTkzOTEzNTEsImFzc2V0X2FnZV9kYXlzIjo1OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1912c04dcbcb0fbe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMTRFQjhBNUEyMEZCOEEzQjFCNkFENUJERUVERkVBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENEVBM0Y0ODJCNDdGQ0VBQzhFMDQxQjFGOEM4NDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACburcKC8KiIBRUCKAJDMywXQDd3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=uD2j_FD_RVFj2wtOPpq3Kg&_nc_ss=70289&_nc_zt=28&oh=00_AQJuBwTHH8CVzjzMcvias4mxNVO2KPCGe-5_Ghs_PiFUUw&oe=6ABEB2FD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1614827540307007"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -113,6 +201,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "filtered": "2026-09-27T09:55:01"
   }
 }

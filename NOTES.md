@@ -368,3 +368,9 @@
   → Claude builds the page when asked ("תבדוק מה להכין": query LeadCRM status build) → message2 with the link,
   status page_ready → Eran sends.
 - Freshness caveat: the page view sometimes returns only 30 ads; use `meta.freshness` (verified) for "newest ad".
+- Batches pushed 2026-09-27: `data/outreach/crm_batch*.json` (sort_order 100+). Excluded in `outreach.EXCLUDE`:
+  car dealership chain (150), urgent car service (171), international brand distributor (075).
+  Message checks before pushing: no Latin letters, no dashes (incl. the Hebrew maqaf), plural, no claims about
+  budget or audience we can't see (only what the Ad Library shows).
+- waTick sends nothing on Shabbat (Friday 14:00 to Saturday 23:59 Israel time); replies are still read. A message
+  scheduled into Shabbat is flagged "late" on Sunday morning (more than 6 hours overdue) instead of being sent.

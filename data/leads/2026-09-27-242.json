@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-242",
-  "status": "discovered",
+  "status": "filtered",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "428744853894332",
     "page_name": "משתלת נופר",
-    "active_ads_count": 1,
+    "active_ads_count": 4,
     "search_keyword": "זרי פרחים",
     "sample_ads": [
       {
@@ -60,8 +60,22 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=901610999449583"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 6199,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "901610999449583"
     ],
@@ -73,7 +87,139 @@
     "page_categories": [
       "Home & Garden"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "901610999449583",
+        "page_id": "428744853894332",
+        "page_name": "משתלת נופר",
+        "page_url": "https://www.facebook.com/nofargan/",
+        "page_like_count": 6199,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "עכשיו במשתלת נופר, זרי פרחים לכל שמחה ואירוע.\nמבחר רחב של פרחים טריים, שזורים בסגנונות שונים. \n\nלימי הולדת, לשבת, לחגים, לימים מיוחדים וגם סתם כדי לשמח.\nעיצוב מוקפד ואפשרות להתאמה אישית.\n\n 💐למידע והזמנות בקרו אותנו או התקשרו, צומת יסוד המעלה, 04-6931014.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615405123_1370362237634090_7206998240089058755_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cilbrgCGK_UQ7kNvwFu-FSz&_nc_oc=AdrIlLxpaNcdOIuXX7dX3hixyJCAxAzWUJM67Jj_GqVfM_RRVlgl6t_qvx4AY3XGi3Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKJJs9QU6GG8-KGFR_RbGL3LVsWnpj9WsCD5BpGk8tu3A&oe=6ABEA6D8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615586780_1302005145091934_308219501248443613_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nC-1TNoQKekQ7kNvwHlBsyl&_nc_oc=AdqInuDZtTb1lnKWBJAq20UQm-qep3F0lwWshlTShGCkTFKG8XaDTzIovTgUN26Jv_A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQJ4Nv9-Fg1KbZ1vmw2x9t-RwHYwihrcxpvo49V5IB3Bkw&oe=6ABEA155",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616809208_1214492207464697_6224239828449799978_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IKQcWKmcvX0Q7kNvwEYQwc9&_nc_oc=AdpoEp1PaRN5PUpQ0t6xuKx5ocznxBETiX7-ax3Xx0nLYcXyaKtpTT2u6JoplxmShTg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKtLlsniuy9eQ8d32HGpT7zCjM1gCCCco3SvgpmOHtmag&oe=6ABEB328",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617604650_1411124563935633_1429507632002002090_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8ssNC5-RfqIQ7kNvwGKFFD3&_nc_oc=AdoqtDJYWQa5jFGMv0aJpukxSEIOHcuxJbgIpG4Qs_lhX_YvCt-jc1i2HY2HMYSIcUM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQIatbz0x2EEn4oHjsmSzuud01INM-Iwl67UkJu9gWwslA&oe=6ABEA9F5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/617415561_1579793126620167_8593586070311580790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pEBrZA5qqDEQ7kNvwEKiTpa&_nc_oc=Adp1pqz0EF72g-UuSVJWS-RXxaKFljubXkz2tdJBqQThgn6keV0nMV3P2K02ys4wQ1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQIsugbhYRDkMmU3vu2NciHADFjH9m3HS8BVXW2YNUBcBw&oe=6ABECC62",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615811626_900493565968395_3022423770482858020_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oqFqCgvRP2cQ7kNvwHWW0Sb&_nc_oc=Adq8nYu1VIGicby-0yyo__S-DoyuO2AP7H_yxkiySm27Sj6-up1GIxn4eTKcDEhhStM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQIknTVdpV_Q-7BfuBGNYJckDJz8QxVqquqrgQ25HGvc5g&oe=6ABEC5B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617415561_1186346323615269_700415181124203377_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=46fxFN-lLTMQ7kNvwG6v5jn&_nc_oc=AdqXT0WG86rXTt2XTeV20fgstwewox7mx5oQ0mYnXb7ur3ZQlXvge1sxwkiMVK1Ck4M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKM1S8OR4LFTxzRGly8bD0HwspiucTFS9f6tmkue6074A&oe=6ABEAE12"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=901610999449583"
+      },
+      {
+        "id": "2280610522343138",
+        "page_id": "428744853894332",
+        "page_name": "משתלת נופר",
+        "page_url": "https://www.facebook.com/nofargan/",
+        "page_like_count": 6199,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "זה בדיוק הזמן לרענן את הגינה, להכניס קצת ירוק הביתה וגם למצוא מתנה שכיף לקבל.\n\nבמרכז הגינון הגדול בצפון מחכה לכם מגוון רחב של צמחי בית וגן, עצי נוי ופרי, כדים ועציצים, ציוד גינון, חומרי הדברה ודשנים, ובעיקר הרבה ניסיון, ידע ואנשים שיודעים לעזור לכם לבחור נכון.\n\nאז אם הגינה מבקשת התחדשות, וגם אתם... בואו לבקר. \nמשתלת נופר, צומת יסוד המעלה, 04-6931014\nלמידע נוסף בקרו בקישור: https://lp.vp4.me/i3xd",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791975495_1384296136581538_7164579774225166558_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DTFTLTKChXAQ7kNvwFSIUMW&_nc_oc=AdrGW_QCLRlJIV-A4_g_j2QECfJvchf_AGRsMiX2YJe6rlqagPGDRklAddckwfUEF5E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKdbBErhVyBsR_4q5wn4uEt1MRcSDClNBzQjyBHO61kNQ&oe=6ABEC32B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789845438_1033985496104743_3406531862545704172_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1U-k_o07-ukQ7kNvwHb_DEA&_nc_oc=AdoWlfUkodnkXSBh6xiPz2lbgwBZFNyUJhUW32ekGKrqO7LJmVaJ4Vp_l2nFFEzDSnI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQLLhiqYLbBry97Sgike24DDm5hcPxlmte_5vXV2MgUwiw&oe=6ABEC617",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789301189_1701912640919583_3543081689939757195_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JifODv5xKE4Q7kNvwHAEvRQ&_nc_oc=Adr4j9w6uhmEwQX6SHB7HsKnf9reHRYNtnL2qLfIeGD-Xq2MH0ws2GQ1TILpWM7PxkA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQK5VzcQgY3DyBIr-6lMs178UgDXiVJbZwoAe3tj5WTY6w&oe=6ABEB155",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/789446301_1029646333399846_3888473546114951945_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U_xvWt-dKAsQ7kNvwHuSNme&_nc_oc=AdrqnnrZByQJ6rCsFHapiUxObzribRAU-0i9lKd6APdC8sFnAzcFpezWcUWKjeyTgDA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQL3vLfeDUuFOWGShy6n4PvLqhs3Vkpz_I3i66RcEQVUjw&oe=6ABECA77",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789507740_1046912674628870_8689656482471319266_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DYH4WIc0_KoQ7kNvwGbkV0Z&_nc_oc=Adol_ipSw8yCNUAEUwYi0CC3k8DxaOeMpR_qmHwO6PmdKIYW6TAVFRk1bXKuA_FnxiM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKhDadnbHzrbB44qe5na1uAIHBa2yLbDR6DDXCtKAEKNQ&oe=6ABEAFAF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789216654_1088585396968257_8781139646264532271_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZhPpIXry0qsQ7kNvwHysdZh&_nc_oc=Adqg-aqHiId3Vd7-KaECckBpkguGO556unGDXdgK5C0JkwYfrLFJzfqxxLNvqITMM0Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQJm446ezfoH4Kh6IdvGs9kOCQj7G4802SE_e44ZKEj0Nw&oe=6ABEC409",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790226647_1712748339832665_1890895557160502523_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NjdwXILgvSUQ7kNvwG-wUan&_nc_oc=Adq8fGQw23KRQ6jY0wCgHRpdSqKSHPMpEmuSkVHwchU6HScs_vpeZaLNaggL0k0XAl8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQL7NCw0nU067qLJPpNMO84_RkXHUrCzOfLf2A3v1H3WPA&oe=6ABEBAD0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/789399165_2253945598694742_3549138036168364967_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WbIpGfM7ccsQ7kNvwFOQp9G&_nc_oc=AdqOIGTbfhjUP6ObGDw0NUttXfitwV2txyaLlagWHW6Dlg0xlll3h49lbzN6ezmlG2E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQL9qqJErKDJm_j7NXjtmxFNmMcj5itmUx8pNZVf45UneQ&oe=6ABEA97C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791996933_1395582541908911_260789255408084082_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iJpUt8QFV4MQ7kNvwHh4HSf&_nc_oc=AdqqbxU2DGbHpjouBPNLv4zURzfqwKSAg-jznKdfF2Ma7gK4i0PANKzrCVKuInxB6j8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKdFbIV-xmigiEMR2siulo2OSPZ0OigJg-MBIMV9ivOBA&oe=6ABEAB90"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2280610522343138"
+      },
+      {
+        "id": "2610184566085338",
+        "page_id": "428744853894332",
+        "page_name": "משתלת נופר",
+        "page_url": "https://www.facebook.com/nofargan/",
+        "page_like_count": 6199,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "סחלב צימבידיום הוא צמח מרשים במיוחד, עם עלים ארוכים ופריחה אלגנטית שמוסיפה נוכחות לכל פינה.\n\nהוא אוהב הרבה אור, טמפרטורות מתונות והשקיה מסודרת בלי להציף את המצע. \nכשהתנאים מתאימים, הוא מתגמל בפריחה יפהפייה וממושכת.\n\nמשתלת נופר, צומת יסוד המעלה, 04-6931014",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784816514_1093606163229379_4839449764244222957_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H4zebvyPQkMQ7kNvwFSGvtf&_nc_oc=AdpiDrAilM4VGP9im2XfUkgR6lEsNwML_8d7xJVbHjAsgET65bwUfCMSLI6ktlDETU8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQIf_FLWmauhl_XWyDBC6B-7CKIk2ccTjT1HtWag0PU2JA&oe=6ABEB0A4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2610184566085338"
+      },
+      {
+        "id": "954313791020324",
+        "page_id": "428744853894332",
+        "page_name": "משתלת נופר",
+        "page_url": "https://www.facebook.com/nofargan/",
+        "page_like_count": 6199,
+        "page_categories": [
+          "Home & Garden"
+        ],
+        "ad_creative_link_title": "",
+        "body": "פורטולקה היא צמח קיצי נהדר שאוהב שמש ופורח בשפע בשלל צבעים עזים. \nהיא מתאימה במיוחד לאדניות, עציצים ולשתילה בגינה, ומעדיפה מקום מואר עם שמש ישירה והשקיה מתונה.\n\nבחירה מצוינת למי שרוצה להוסיף הרבה צבע גם בימים החמים.\n\nמשתלת נופר, צומת יסוד המעלה, 04-6931014",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788753522_1606955874301145_5798990406747067317_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=13_CG_B5dhcQ7kNvwF6ie_c&_nc_oc=AdpejMuDaM5uTQVLjCilfGQqLl5gYDYbg1-t-59HuTGCaY5xwwFi-Lfx3PtruSViISU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=D3tbmONxXaRZUXp1A05Rvw&_nc_ss=70289&oh=00_AQKvTx1EIUBq46CXcGPIjJ1ZZHeFYFgrHFN7HOsn_-AChw&oe=6ABEB113"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=954313791020324"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -86,6 +232,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "filtered": "2026-09-27T09:54:17"
   }
 }

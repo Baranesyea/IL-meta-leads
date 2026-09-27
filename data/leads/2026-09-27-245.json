@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-245",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -63,8 +63,28 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1248221881718864"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "מארז",
+        "קולקציה",
+        "קנו"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 436,
+      "product_score": 5,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1248221881718864"
     ],
@@ -76,7 +96,50 @@
     "page_categories": [
       "Florist"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1248221881718864",
+        "page_id": "469511959581011",
+        "page_name": "Gal Flowers Design",
+        "page_url": "https://www.facebook.com/Gal.Flowers.Design/",
+        "page_like_count": 436,
+        "page_categories": [
+          "Florist"
+        ],
+        "ad_creative_link_title": "Gal Flowers Design",
+        "body": "מחפשים מתנה שאי אפשר להישאר אדישים אליה?💐\nהקולקציה החדשה שלנו נוצרה בדיוק לרגעים שרוצים להפתיע בגדול, עם זרים ומארזי פרחים בעיצוב יוקרתי. \n\n🌷 זרי ג'יפסי, מעטפות פרחים גדולות, מארזי לב, תיקי פרחים ועוד.\n🌷 אפשרויות למגוון שידרוגים ופינוקים.\n🌷 מושלם לימי הולדת, יום נישואין ולכל חגיגה מרגשת.\n✨ משלוחים מאשקלון ועד תל מונד\n\nלהזמנות שלחו וואטסאפ >>\n*המחיר לא כולל משלוח.\n*ההטבה ניתנת לשינוי בכל עת לפי שיקול בית העסק | ט.ל.ח | בכפוף לתקנון",
+        "link_description": "לחצו כאן >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1788850800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799770522_1606164341112486_6498348530167281142_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-xi60VIoblwQ7kNvwFVv9xq&_nc_oc=AdruYOCUfT59QbqP0kwcb-B8H1e0K6RSgQtvO903yttYj1aOXOHsfHJC2B7WO0pdu1Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQKcPmdAV6dUA2l7zgtTJLHaTIhVEdmhdcbR7fIhMjMqLg&oe=6ABEA617",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800066057_1827048195130377_6967616713808634739_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oy-0xMGegBsQ7kNvwHDX4_F&_nc_oc=Adr74OWilCeQ3JDwTVxYdAqgMhdV5P-kHzyiSmvtbXcaffkIRka1sfRydZX1ZMj-LyQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQI2A_bjFFV7QtMnZgemRUyQAVD4qGC0pXUXNdLldzAPgA&oe=6ABEC3D8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799910330_1018421601246393_3928605815357555897_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IMgFH1HhPMEQ7kNvwFnq17C&_nc_oc=AdqfyXRHKdP3Dl8GMyJeVlgv7P3k5Yqz0_gYHWI5sFDgx1DPraORfVic3Y_RPI7kkUE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQK9mNGj8VeYSqucQahu6SEbQjw7nhs633EZYPiFZ3_y1A&oe=6ABEB93A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799910321_1027495743449720_741659602362112864_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=53ZLgRcCzVcQ7kNvwG7vUCm&_nc_oc=AdoAcvuiY_Zh6K8AsC9qOhrNEERvVHMPRv1SSUXsDw1unxKO5LG0uJzbrYvMlO5KJLs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQLprU5kln26q5XGLMn-99QOvtufiVDYwpqFYMJWNNub-Q&oe=6ABEB1CF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800935021_2233435700566466_958091887293427241_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHIXXiZRiskQ7kNvwGB-Y6T&_nc_oc=AdrKZvLEl-2Ztf-SCY_R_82wT6Lz32EkcPh5J0r3J_uCM5kPj_IpAznog9yuHckUWXc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQKioREkEpvrmDKMJLbjwapXlo9qAarj37kg7xVt8rxtHQ&oe=6ABEC478",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800377973_1069305555460705_70171186641534832_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sE0jlRR8JJMQ7kNvwGZltBV&_nc_oc=Adok_S6yASMXLa_myPqcH_G4iNAPTWkCmDspFeR31OkiqyIM7-W1oVEgTQVIw1BWVbg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQLH4QSyepxWToDc7UTG7-KZZ0_g10lu82xWgFYYnJynrg&oe=6ABEBB57",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800842592_2025238991459796_9132118292006498825_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nQ1fdnlyXQMQ7kNvwEmHI02&_nc_oc=AdrQ6ABbArV5LABqWRlQqiggu6AJ0cj3lHDjFEeZfpga3gVqicXXCCL-tu79Ink9O5c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQKCfvmQqvOMkS65vRN66v9UR3Q0qmW-xUmUOICXgj9epg&oe=6ABECAFB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800450051_1372193765064379_7292452384668343216_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0kES-Jc0sAsQ7kNvwHCa4bd&_nc_oc=AdqLjMzaOwMQRN4amSnLaC_cC2mJMtdRlob-3cyfUGk3FnaTrC31ee3fzMhJ_vTHFJ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQIPqT6TyigPr2w2OylOI_Ixc2LvJbpBiKt2kuBdxHzaBQ&oe=6ABEC3A2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800993670_28502968542673006_1626505885980615182_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JlqzCQgFwAcQ7kNvwHnBYYv&_nc_oc=AdraIXopLgKCT9O8RINowCj9k_YAvrWfCkQaKk2-dhde3j5k-eX5NRPocs9oFHT2wxE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQKQN18nMaNqRw_x6O5PsK3kn1hFP15LfhagKhRCcuqw8g&oe=6ABED2FF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800469614_28650348011255190_4737465337156316074_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ip9xImJ5L1EQ7kNvwErYWdM&_nc_oc=AdrMF7S3ThDn9ufUk4e6sCYrWFWcOrLwetfy5vZ1tRAf39dQb4s-UrV2kDfqYijnV0M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=i4uFxL_iORJjvEoxk7zBCQ&_nc_ss=70289&oh=00_AQI6K5hDFsetCFhzAen9srRcKMongzlRVpj-Vp9s11tbdg&oe=6ABEA605"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1248221881718864"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -89,6 +152,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "rejected": "2026-09-27T09:54:50"
   }
 }
