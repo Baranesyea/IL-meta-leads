@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-209",
-  "status": "unqualified",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -1107,6 +1107,11 @@
         "id": "889661477128884",
         "body": "למה לעבוד קשה אם אפשר לעבוד חכם?\nעגלת משטחים 1 וחצי טון מבית BWLIFT\nשקטה, מהירה ויציבה במחיר שלא תמצאו בארץ החל מ₪3500+ מע\"מ בלבד!\n👈כוללת: גלגלי איזון, חשמלי מלא, בלם בטיחות, סוללה נשלפת 30 אמפר\n👈שירות תיקונים במקום\nעגלת משטחים CBA15-30 - 1500 KG BWLIFT\nhttps://cutt.ly/ytzdHH6W\n\nעגלת משטחים BWLIFT 24V 30A 1500KG\nhttps://cutt.ly/ctzdJrYb\n⛳כתובתנו: סמטת התבור 7 פתח תקווה\n📲לשירות לקוחות והזמנות: 077-9973573\nלשריון עגלה, שלחו לנו וואטסאפ עכשיו>>",
         "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "889661477128884",
+        "body": "למה לעבוד קשה אם אפשר לעבוד חכם?\nעגלת משטחים 1 וחצי טון מבית BWLIFT\nשקטה, מהירה ויציבה במחיר שלא תמצאו בארץ החל מ₪3500+ מע\"מ בלבד!\n👈כוללת: גלגלי איזון, חשמלי מלא, בלם בטיחות, סוללה נשלפת 30 אמפר\n👈שירות תיקונים במקום\nעגלת משטחים CBA15-30 - 1500 KG BWLIFT\nhttps://cutt.ly/ytzdHH6W\n\nעגלת משטחים BWLIFT 24V 30A 1500KG\nhttps://cutt.ly/ctzdJrYb\n⛳כתובתנו: סמטת התבור 7 פתח תקווה\n📲לשירות לקוחות והזמנות: 077-9973573\nלשריון עגלה, שלחו לנו וואטסאפ עכשיו>>",
+        "landing_url": "https://api.whatsapp.com/send"
       }
     ],
     "social_landings": [
@@ -1241,7 +1246,8 @@
   "timestamps": {
     "discovered": "2026-09-27T09:36:27",
     "filtered": "2026-09-27T09:36:48",
-    "unqualified": "2026-09-27T09:39:42"
+    "unqualified": "2026-09-27T09:39:42",
+    "qualified": "2026-09-27T15:51:38"
   },
   "qualify": {
     "pages_checked": [
@@ -1261,8 +1267,6 @@
     "site_blocked": false,
     "instagram_found": true,
     "owner_instagram_found": false,
-    "missing": [
-      "owner_whatsapp"
-    ]
+    "missing": []
   }
 }
