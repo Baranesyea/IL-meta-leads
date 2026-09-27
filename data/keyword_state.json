@@ -272,11 +272,19 @@
       "track": "clinic",
       "advertisers": 0,
       "at": "2026-09-27T15:59:09"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "פריצת דיסק",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 0,
+      "at": "2026-09-27T15:59:44"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
   "wa_next_index": 16,
-  "clinic_next_index": 4
+  "clinic_next_index": 3
 }
