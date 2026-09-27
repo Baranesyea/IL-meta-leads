@@ -276,3 +276,26 @@
   (seamless teal / mustard / coral / cobalt paper). No regens. Same-day claim softened to "same day or within 24h"
   (their site's wording).
 - Both added to the CRM with first messages that open on the landing finding.
+
+## 2026-09-27 — owner WhatsApp is the gate; Billy (071) + Kalahari Rose (002)
+- Eran works alone and mostly on autopilot: a lead is worth a page only if the WhatsApp reaches the owner.
+  New rule (approved "כן וכן"): **owner WhatsApp is the hard gate; Instagram is a bonus** (`qualify.py` keeps
+  `instagram_found` / `owner_instagram_found` but no longer blocks on them).
+- `src/wa_kind.py` classifies the number from cached pages: `contact.whatsapp.kind` = owner / unclear / service,
+  with `kind_signals`. Service = labelled "שירות לקוחות"/"מוקד"/"נציג" next to the number, a *NNNN star number,
+  a 1-800, or 3+ weaker signals (landlines, support@ mailbox, branches, office hours). Owner = no service signal
+  and at least one owner signal (the only phone on the site, gmail/hello@ inbox, owner named). Hand-checked facts
+  go in `OVERRIDE`. A "service" result adds `owner_whatsapp` to `missing`.
+- Built pages: Kelev Teva = owner; Pet Best, Mega Pet, Stav, JewelryFactory = service; the rest unclear.
+- New pages (owner WhatsApp): **Billy** `/p/billy-264ffd4c`, **Kalahari Rose** `/p/kalahari-7c3e91d5`. CRM rows 12–13.
+- Billy: 12 identical ads (4 ב-199 in neon yellow on AI-looking models), all to the home page (1,282 products).
+  Kalahari: Sukkot sale (20% until 4.10.26) started two days ago, 3 ads, all to the home page; the landing finding
+  is soft there (a sitewide sale may go home), so the page frames it as "once you run skin-type ads".
+- Band lesson (Billy): the "lower 60% ... above it continues" wording makes the model paste bands / inset photos on
+  people close-ups. The `ONE` composition wording helps but not always; fallbacks are cropping below the seam
+  (13, 14, 16, hero_m) or switching the shot to product-only (ad 8: the necklace on a brass nail).
+- Never Latin in overlay text or subs; transliterate ("וי טניס", not "V").
+- `mkbuild.py` wrote LOOK keys as strings from JSON, so LOOK never applied; keys are now ints.
+- Client page: new `hero_copy_m: "bottom"` puts all hero words on the calm lower part of the phone photo when the
+  product sits at the top (Billy). Kalahari uses its portrait `hero_m` on desktop too, so no jar sits under the title.
+- Billy's phone hero was outpainted downward (Higgsfield `outpaint_image`, 9:16) from the cropped portrait.
