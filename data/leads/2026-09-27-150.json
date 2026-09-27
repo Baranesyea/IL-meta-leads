@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-150",
-  "status": "unqualified",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -28,9 +28,13 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972549532030",
+      "source": "https://wa.me/972549532030",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
     }
   },
   "meta": {
@@ -706,6 +710,11 @@
         "id": "3584534728362053",
         "body": "החופש הגדול מזיז לכולם את השעות 🙂\nוהצוות שלנו בטויוטה אוטופיה יוצא קצת לזמן משפחה\n\nאז במהלך אוגוסט בימי שלישי- אנחנו מסיימים קצת יותר מוקדם:\nמרכזי השירות - עד 14:30\nאולם התצוגה והמכירות - עד 16:00\nהכל פועל כרגיל, רק עד השעות האלה.\n\nמתכננים להגיע אלינו? נא לתאם מראש 👇\n\n📍 טויוטה אוטופיה מודיעין, המכונאי 5 | טויוטה אוטופיה ירושלים - תלפיות, החרושת 5 | 073-7813684 | וואטסאפ > https://wa.me/972549532030\n\n#טויוטה #טויוטהאוטופיה #טויוטהמודיעין #טויוטהירושלים",
         "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "3584534728362053",
+        "body": "החופש הגדול מזיז לכולם את השעות 🙂\nוהצוות שלנו בטויוטה אוטופיה יוצא קצת לזמן משפחה\n\nאז במהלך אוגוסט בימי שלישי- אנחנו מסיימים קצת יותר מוקדם:\nמרכזי השירות - עד 14:30\nאולם התצוגה והמכירות - עד 16:00\nהכל פועל כרגיל, רק עד השעות האלה.\n\nמתכננים להגיע אלינו? נא לתאם מראש 👇\n\n📍 טויוטה אוטופיה מודיעין, המכונאי 5 | טויוטה אוטופיה ירושלים - תלפיות, החרושת 5 | 073-7813684 | וואטסאפ > https://wa.me/972549532030\n\n#טויוטה #טויוטהאוטופיה #טויוטהמודיעין #טויוטהירושלים",
+        "landing_url": "https://api.whatsapp.com/send"
       }
     ],
     "social_landings": [
@@ -824,7 +833,17 @@
         ]
       }
     ],
-    "landing_urls": []
+    "landing_urls": [],
+    "freshness": {
+      "active_count": 19,
+      "active_seen": 19,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-26",
+      "oldest_start": "2026-05-05",
+      "days_since_newest": 1,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],
@@ -839,7 +858,8 @@
   "timestamps": {
     "discovered": "2026-09-27T07:56:35",
     "filtered": "2026-09-27T07:57:43",
-    "unqualified": "2026-09-27T07:59:18"
+    "unqualified": "2026-09-27T07:59:18",
+    "qualified": "2026-09-27T08:25:05"
   },
   "qualify": {
     "phones_in_ads": [
@@ -869,11 +889,10 @@
         "labelled_whatsapp": true
       }
     ],
-    "missing": [
-      "website",
-      "instagram_page",
-      "owner_instagram",
-      "whatsapp"
-    ]
+    "missing": [],
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972549532030",
+      "source": "https://wa.me/972549532030"
+    }
   }
 }

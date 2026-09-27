@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-198",
-  "status": "filtered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://tomik.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "Tomik@tomik.co.il"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/tomik_studio/",
+      "source": "https://tomik.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,9 +28,13 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972545982317",
+      "source": "https://tomik.co.il/",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {
@@ -418,7 +422,95 @@
         "videos": [],
         "currency": "",
         "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=984593004465145"
+      },
+      {
+        "id": "1026427813132919",
+        "body": "מינימליזם זה לא אומר שצריך לוותר על הנוחות ☁️הכירו את הספה היפנית: קווים נקיים, עומק מפנק, וסטייל שמשדרג כל חלל ברגע.\nזמינה להזמנה בכל בד, צבע ומידה שמתאימה לכם.\nרוצים לבוא לראות אותה באולם התצוגה? יש לכם עוד שאלות?\nשלחו לנו הודעה בוואטסאפ ונחזור אליכם צ'יק צ'ק >>",
+        "landing_url": "https://api.whatsapp.com/send"
       }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1728586681825170",
+        "text": "TOMIK x CARHARTT",
+        "links": [
+          "https://tomik.co.il/?utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&utm_id={{campaign.id}}"
+        ]
+      },
+      {
+        "ad_id": "1914202115929530",
+        "text": "המיטה הצרפתית של תומיק - המלכה של חדר השינה.\nעם נוכחות מרשימה ומדויקת, אפשר לקבל אותה בשלל מידות וגוונים בהתאמה אישית. רוצים להכיר את המיטה הצרפתית? בואו לבקר אותה באולם התצוגה שלנו. לתיאום ולכל שאלה, שלחו לנו הודעה >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1026427813132919",
+        "text": "מינימליזם זה לא אומר שצריך לוותר על הנוחות ☁️הכירו את הספה היפנית: קווים נקיים, עומק מפנק, וסטייל שמשדרג כל חלל ברגע.\nזמינה להזמנה בכל בד, צבע ומידה שמתאימה לכם.\nרוצים לבוא לראות אותה באולם התצוגה? יש לכם עוד שאלות?\nשלחו לנו הודעה בוואטסאפ ונחזור אליכם צ'יק צ'ק >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1734619727489368",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1637023001373080",
+        "text": "יש רהיטים שמכניסים לחדר שינה עיצוב, יש כאלו שמכניסים אליו תחושה. המיטה הסקנדינבית שלנו משלבת את שניהם. היא מיוצרת לפי הזמנה, בכל מידה, בעבודת יד מעץ מלא אלון מבוקע. היא משלבת קווים נקיים, מראה מרחף ונוכחות שקטה שמייצרת חלל רגוע ומדויק.\nמוזמנים להגיע לחלל התצוגה שלנו להתרשם, או לרכוש טלפונית >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1574114544426049",
+        "text": "כשעיצבנו את הספה היפנית שלנו, רצינו ליצור פריט שמיד גורם לכם לחשוב - זו הספה.\nקווים נקיים ומדויקים, עומק ישיבה מפנק, ושפה מינימליסטית שמכניסה שקט ואלגנטיות לחלל.\nהספה עשויה בד איכותי, נוחה במיוחד, וניתנת להזמנה בכל מידה ובכל בד שתבחרו - כך שהיא מתאימה בדיוק לכם ולביתכם.\nמוזמנים להגיע ולהתרשם מקרוב מהתחושה, מהגימור ומהנוכחות שהיא מביאה לסלון.\nלתיאום ביקור ולפרטים נוספים - נשמח לעמוד לרשותכם ב-WhatsApp. כי בסופו של דבר, בדיוק את זה אתם רוצים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1502513980704674",
+        "text": "לפעמים כל מה שצריך זה פריט אחד.\nרהיט מדויק, כזה שעשוי באהבה, שיודע לתפוס את העין ותורם לאווירה.\n\nרוצים למצוא את הפריט המיוחד הזה?\nבעקבות המצב הביטחוני וכדי שנוכל לשמור על הבטיחות שלכם ושל הצוות שלנו - ההגעה לגלריה תהיה בתיאום מראש בלבד..\nתומיק – רהיטים מיוחדים בעבודת יד\n054-598-2317\nwww.tomik.co.il\nרחוב השקד 5, אבן יהודה (בwaze -  תומיק רהיטים אבן יהודה)",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2849104685430152",
+        "text": "Our Swedish table, but made in Israel. Scandinavian style with a local vibe.",
+        "links": []
+      },
+      {
+        "ad_id": "2001721273793360",
+        "text": "Not all homes are designed equally and this one is by far outstanding. \n\nInterior Designer: @veredbon \nPhotographer: @itaybenitphotographer",
+        "links": [
+          "https://www.tomik.co.il/"
+        ]
+      },
+      {
+        "ad_id": "984593004465145",
+        "text": "Where style meets comfort.",
+        "links": []
+      },
+      {
+        "ad_id": "1026427813132919",
+        "text": "מינימליזם זה לא אומר שצריך לוותר על הנוחות ☁️הכירו את הספה היפנית: קווים נקיים, עומק מפנק, וסטייל שמשדרג כל חלל ברגע.\nזמינה להזמנה בכל בד, צבע ומידה שמתאימה לכם.\nרוצים לבוא לראות אותה באולם התצוגה? יש לכם עוד שאלות?\nשלחו לנו הודעה בוואטסאפ ונחזור אליכם צ'יק צ'ק >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://tomik.co.il/?utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&utm_id={{campaign.id}}",
+      "https://tomik.co.il/"
     ]
   },
   "current_ads": [],
@@ -433,6 +525,26 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T08:20:18",
-    "filtered": "2026-09-27T08:22:10"
+    "filtered": "2026-09-27T08:22:10",
+    "qualified": "2026-09-27T08:24:13"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://tomik.co.il/",
+      "https://tomik.co.il/?utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&utm_term={{adset.name}}&utm_id={{campaign.id}}",
+      "https://tomik.co.il/pages/about",
+      "https://tomik.co.il/pages/%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }

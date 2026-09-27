@@ -108,7 +108,9 @@ def _site_from_ads(lead: dict, browser: web.AdLibraryBrowser) -> tuple[str | Non
                 if h and not _is(h, LINK_IN_BIO + SOCIAL) and href not in resolved:
                     resolved.append(href)
     lead["meta"]["link_in_bio_pages"] = [u for u, _ in bio_pages]
-    landings = resolved
+    # a shortener can resolve to WhatsApp / Instagram: that is a contact, not the business website
+    lead["meta"]["social_landings"] += [u for u in resolved if _is(db.normalize_domain(u), web.META_HOSTS + SOCIAL)]
+    landings = [u for u in resolved if not _is(db.normalize_domain(u), web.META_HOSTS + SOCIAL)]
     hosts = Counter(h for u in landings
                     if (h := db.normalize_domain(u)) and not _is(h, LINK_IN_BIO))
     if not hosts:
@@ -235,6 +237,11 @@ def qualify_lead(lead: dict, browser: web.AdLibraryBrowser) -> None:
     lead["meta"]["landing_urls"] = landings
     q = lead.setdefault("qualify", {})
     cta_wa = _wa_from_cta_ads(lead, browser)
+    if not cta_wa:  # the ad links straight to api.whatsapp.com/send?phone=... or wa.me/...
+        for u in lead["meta"].get("social_landings", []):
+            if (m := WA_LINK.search(u)) and (n := normalize_il_mobile(m.group(1))):
+                cta_wa = (n, u)
+                break
     if cta_wa:
         q["whatsapp_from_ad_button"] = {"number_e164": cta_wa[0], "source": cta_wa[1]}
     if not home and cta_wa:

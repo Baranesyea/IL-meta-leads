@@ -312,3 +312,15 @@
   `status` shows "STALE". Manual: `python -m src.freshness <ids>`.
 - "When did the past ads stop" is not answerable: the IL Ad Library has no inactive commercial ads (see above).
 - First result: Billy (071) is stale — 12 ads, newest started 2026-04-14 (166 days).
+
+## 2026-09-27 — WhatsApp track (`python run.py find --track wa`)
+- Eran: services are fine too, except urgent ones people google when they need them now (plumber, locksmith...).
+- The Ad Library has no filter by destination, but every ad carries its button type. Searching WhatsApp phrases
+  ("שלחו הודעה", "להזמנה בוואטסאפ") returns ~40% ads with a WHATSAPP_MESSAGE button vs ~3% for product words.
+  The track keeps only those ads (`discover.is_wa_ad`), marks leads `meta.track = "wa"`, and uses its own keyword
+  list (`discovery.wa_keywords`, state `wa_next_index`).
+- Filter on this track: `filter.urgent_service_keywords` instead of the service/lead-gen rejects.
+- The number: the ad's library page often carries `api.whatsapp.com/send?phone=972...` (the number the button
+  opens), or the ad links straight to wa.me / api.whatsapp.com. That number wins over numbers found on the site.
+  No website needed on this track; without a site the owner/service kind stays "unclear".
+- First run (6 keywords): 57 advertisers → 16 qualified (vs 7 of 142 on product keywords). 2 look like the owner.
