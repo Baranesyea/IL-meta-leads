@@ -75,7 +75,10 @@ def evaluate(lead: dict, cfg: dict) -> tuple[bool, str | None, dict]:
         signals["clinic_excluded"] = _hits(text, f.get("clinic_exclude_keywords", []))
         if signals["clinic_excluded"]:
             return False, f"not a pain clinic: {', '.join(signals['clinic_excluded'])}", signals
-    if wa_track:
+        signals["clinic_hits"] = _hits(text, f.get("clinic_require_keywords", []))
+        if not signals["clinic_hits"]:
+            return False, "no clinic / therapist signal (product, gym or brand)", signals
+    if meta.get("track") == "wa":
         # WhatsApp track: services are fine, except urgent ones (people google a plumber, they don't scroll to one)
         signals["urgent_hits"] = _hits(text, f.get("urgent_service_keywords", []))
         if signals["urgent_hits"]:

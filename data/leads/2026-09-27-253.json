@@ -57,7 +57,28 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=440155385812519"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "MESSAGE_PAGE"
+      ],
+      "page_like_count": 2641,
+      "product_score": -1,
+      "clinic_excluded": [],
+      "urgent_hits": [
+        "דחוף"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "440155385812519"
@@ -83,6 +104,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:30:58",
+    "rejected": "2026-09-27T15:28:47"
   }
 }

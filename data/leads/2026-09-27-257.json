@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-257",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -64,8 +64,26 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=25552900274391075"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "אבחון"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 252,
+      "product_score": -4,
+      "clinic_excluded": [],
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "25552900274391075"
     ],
@@ -77,7 +95,44 @@
     "page_categories": [
       "שירותים רפואיים"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "25552900274391075",
+        "page_id": "124834790627887",
+        "page_name": "מרכז לרפואה שלמה - עודד דבוש",
+        "page_url": "https://www.facebook.com/100093799960148/",
+        "page_like_count": 252,
+        "page_categories": [
+          "שירותים רפואיים"
+        ],
+        "ad_creative_link_title": "שלחו לנו הודעה",
+        "body": "החלמה מכאב באמצעות אבחון וטיפול מדויקים - פריצות דיסק, כאבי גב עם הקרנה לרגל, פציעות ספורט, כאבי צוואר, יד, כאבים אקוטים וכרוניים.\nהמטופלים שלי: צביקה, אסתר, מתי, מרים, גורג, רמי ורן משתפים . ועכשיו לזמן מוגבל, שלחו הודעה וקבלו בדיקה ואבחון ללא עלות👇🏼\n📲053-3992106",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1768809600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/505929626_731419506048524_6658139799431307055_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i8YOu4Au9WgQ7kNvwHlCQTE&_nc_oc=Adof-kUFO8cAM6RnNMJX2udRqMkrv13KGMHN37v0W9ZvUhVWh4giFhArAr09syy_Hxg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NtpPGnTZlh-gwChxvRW33g&_nc_ss=70289&oh=00_AQKhqm1TuX9jUboqglTJolrfTUJSLagzQBcsKdVIJ4QB8A&oe=6ABEF7AF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMmt-4Jrh6WhLsPVF07vlRgIhayzfTEeEuh5KrJz-4rOLyhPd38Vn0N7s13PFq3WWoRK2iwRhfkOfOkpMoaIss.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ArDQR1RuFzoQ7kNvwFvX9-w&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMjc5MDg3MzMzOTg2ODQ4LCJhc3NldF9hZ2VfZGF5cyI6MzAyLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=NtpPGnTZlh-gwChxvRW33g&_nc_ss=70289&_nc_zt=28&oh=00_AQLIpm28h3y0IuomGUbarK9PzfKDpFIu1v3Bj-GmrQ7gHA&oe=6ABF1C1C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=25552900274391075"
+      }
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -90,6 +145,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "rejected": "2026-09-27T15:29:33"
   }
 }

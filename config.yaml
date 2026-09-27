@@ -217,7 +217,40 @@ filter:
     - טלאביב
     - cellcom
     - סלקום
+  # clinic track: the page or its ads must look like a clinic / therapist (not a product, gym or brand)
+  clinic_require_keywords:
+    - מרפאה
+    - מרפאת
+    - קליניקה
+    - קליניקת
+    - פיזיותרפ
+    - כירופרקט
+    - אוסטאופת
+    - מטפל
+    - מטפלת
+    - טיפול
+    - טיפולי
+    - ד"ר
+    - ד״ר
+    - דוקטור
+    - רופא
+    - מכון
+    - שיקום
+    - דיקור
+    - רפלקסולוג
+    - clinic
+    - physio
+    - chiro
   clinic_exclude_keywords:
+    - עו"ד
+    - עו״ד
+    - עורכי דין
+    - עורך דין
+    - אדויל
+    - advil
+    - חדר כושר
+    - סטודיו לכושר
+    - trx
     - שיניים
     - שתלים
     - אורתודנט

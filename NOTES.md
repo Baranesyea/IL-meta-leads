@@ -374,3 +374,16 @@
   budget or audience we can't see (only what the Ad Library shows).
 - waTick sends nothing on Shabbat (Friday 14:00 to Saturday 23:59 Israel time); replies are still read. A message
   scheduled into Shabbat is flagged "late" on Sunday morning (more than 6 hours overdue) instead of being sent.
+
+## 2026-09-27 — clinic track (Eran): private pain clinics
+- Eran: platforms fit less; private clinics can work, but not injections/cosmetics and not dental ("people don't switch
+  dentist from an ad"). Target: clinics for pain people have *now* (back pain, physio, chiropractic), so a good ad makes
+  them leave details.
+- `python run.py find --track clinic [--target N]`: keywords `discovery.clinic_keywords` (30, own rotation index
+  `clinic_next_index`). Any ad button (lead forms are common for clinics).
+- Filter: no store needed; rejects `filter.clinic_exclude_keywords` (dental, cosmetic, HMOs/hospitals, lawyers, courses,
+  gyms, pharma brands) and requires a clinic/therapist signal (`filter.clinic_require_keywords`). Urgent-service words
+  are not applied on this track ("דחוף" in a spine surgeon's ad is not a plumber).
+- Qualify: a clinic with lead-form ads and no website can qualify with a mobile number printed in the ad (medium
+  confidence, kind unclear).
+- CRM: third tab "מרפאות" (LeadCRM.track = "clinic"), same flow as WhatsApp first. Modelnet (platform) set not relevant.
