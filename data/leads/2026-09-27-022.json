@@ -1,0 +1,93 @@
+{
+  "lead_id": "2026-09-27-022",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61573108655563/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "492686693937860",
+    "page_name": "עולם המשחקים-משחקים שכולם אוהבים",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1749130889729201",
+        "link_title": "\"אבא... אמא... משעמם לי!\" – המשפט שגורם לכל הורה לרצות לנעול את עצמו בשירותים לחמש דקות של שקט. 😅",
+        "body": "בואו נודה באמת: המסכים מנצחים אותנו, הצעצועים מהחנות נשכחים אחרי 4 דקות, והרעיונות לתעסוקה נגמרו איפשהו ב-2023.\nבדיוק בגלל זה פתחתי את \"עולם המשחקים\" ✨\nקהילת וואטסאפ שקטה שמביאה לכם קיצור דרך להורות שפויה:\n✔️ גאדג'טים ומשחקים שבאמת מדביקים את הילדים (ומעיפים אותם מהמסכים).\n✔️ רעיונות לפעילויות קלילות בלי להפוך את הבית למעבדת יצירה.\n✔️ המותגים הכי שווים במחירים שעושים נעים באשראי.\nבלי חפירות, בלי ספאם – רק ההמלצות שעובדות.\n\nלחצו כאן והצטרפו לקהילה השקטה שלנו בחינם ⬇️",
+        "landing_url": "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789582731_2519845171867130_6738330020645101643_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YEPB1KpEuycQ7kNvwEau5yN&_nc_oc=AdqFx6Uc4zL9VDNgtoeLXQCHeVa1SDdE07AiArRWzQxjwmZnPkI6F6FRTCTmWrXlzsE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQKHTQ8IuGU_m_q1ZtVpi_tJmN4cr8fR2nMyBcoj749KXg&oe=6ABE3CFB"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788246000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1749130889729201"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1749130889729201"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 266,
+    "page_categories": [
+      "Games/toys",
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-27-002",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: אבחון",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61579574003286/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1059714793888108",
+    "page_name": "L&Y סלולר עפולה",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "4159539630952384",
+        "link_title": "לשיחת חיסכון >>",
+        "body": "😤 הדייסון שלך הפסיק לעבוד?\n\nלא שואב, מאבד עוצמה, עושה רעשים מוזרים?\n\nאנחנו יודעים כמה זה מתסכל.\n\n💸 לפני שאתם רצים לקנות חדש ב-3,000 ש\"ח \n\nתדעו שרוב התקלות בדייסון ניתנות לתיקון במחיר של עשרות שקלים בלבד.\n\nב- L&Y סלולר - המומחים לתיקון דייסון\n\n✅ אבחון מקצועי ומדויק\n✅ תיקון מהיר ובמחיר שקוף\n✅ יחס אישי ושירות אמין\n\nאל תזרקו ואל תקנו חדש לפני שדיברתם איתנו.\n\nשיחה אחת יכולה לחסוך לכם אלפי שקלים. 💰\n\n👇 שלחו הודעה עכשיו\n📲 055-2666002\n📍 משה שרת 11, עפולה\nL&Y סלולר – כדאי לתקן לפני שקונים חדש 🔧",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653481976_2217966222367486_8014954477837327992_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vyUPdkR7yikQ7kNvwHI25cX&_nc_oc=AdpDCKcvOsg8bQRdWdh_dvpLRY1_jaRG-7mw9LPAMK5zYzZk2NY23_iTY7WWNRgXXbs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQIoigxohI_U0ro5NVSKo8B69zYnGPoJwC5TjtVVh2-TsA&oe=6ABE511B"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1773903600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4159539630952384"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "אבחון"
+      ],
+      "product_hits": [
+        "קנו"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "MESSAGE_PAGE"
+      ],
+      "page_like_count": 192,
+      "product_score": -1
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "4159539630952384"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "MESSAGE_PAGE"
+    ],
+    "page_like_count": 192,
+    "page_categories": [
+      "אלקטרוניקה"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:25:43"
+  }
+}

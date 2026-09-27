@@ -1,0 +1,129 @@
+{
+  "lead_id": "2026-09-27-007",
+  "status": "rejected",
+  "reject_reason": "lead-gen CTA only (BOOK_TRAVEL)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/City.Phone.rishon.lezion/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "110379067466653",
+    "page_name": "סיטי פון - City Phone",
+    "active_ads_count": 2,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "895634376898797",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://wolt.com/he/isr/rishon-lezion-hashfela-area/venue/city-phone?srsltid=AfmBOoqcYGv4Q3OwdwjN8FFn2lzmWa3eD8ZL69wm4bSq8rBA1rIQyMtv",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724436480_1380543200647682_2684980879154530104_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NwBxojcCOyAQ7kNvwEwuP1r&_nc_oc=AdrEnFWXkYeoBjRRPFLFdPmOj-r6_mwqdsWIaDoGYQri1FOnkPIG6kiSC0r-KYLC-rA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQIi2K87t7ydZvR8yCDfDfhs6OSY-VycVfoPbz5Qyf-rDA&oe=6ABE5C1F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725776380_1461348015801778_3987273811743755983_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kznhJsJmkV4Q7kNvwEp4b_z&_nc_oc=AdrBy0tGvL-jEBHWotaiJdiNir2zQt-mMr-GrfY4MYHqwK3vsMdAlKVZchZ3iEyqHNA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLHiJeZja_vT2CEe8K_ELvtYlLrgbMksXRbZvxEfGzJ-g&oe=6ABE39C6"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1781679600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=895634376898797"
+      },
+      {
+        "ad_id": "3472711739563661",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://wolt.com/he/isr/rishon-lezion-hashfela-area/venue/city-phone?srsltid=AfmBOoqcYGv4Q3OwdwjN8FFn2lzmWa3eD8ZL69wm4bSq8rBA1rIQyMtv",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/722181950_1486666229318069_2900239162502738476_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WTdOKvVaiI4Q7kNvwHbt55i&_nc_oc=Adp8iQop_yLmkn7Rnw50taXu4du5FfojTnAmnqhbyYxILMZDL9-H6Z5QBcMIPrS8KJY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQIHcH2dED2hlotzwqPGj_mOnCuORynqL1McYsy2NXGD_g&oe=6ABE47DC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/722336393_847009591462217_2408329520475392637_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ooMp9G4aRfsQ7kNvwHHqw9N&_nc_oc=Adr4moeS3t_Z2dHrzMNpUglUeiiidpYazFNl3zu2n-2Ky5jiSwM5zYYwQVxKocO2n80&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLhRhBuUIvvsw34s4mnEe9WUAMTxP4jvm1MMBPOaelfig&oe=6ABE5235"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1781593200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3472711739563661"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 129,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "895634376898797",
+      "3472711739563661"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 129,
+    "page_categories": [
+      "Business"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:26:04"
+  }
+}

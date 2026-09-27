@@ -1,0 +1,90 @@
+{
+  "lead_id": "2026-09-27-013",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61572300881603/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "508917668979855",
+    "page_name": "מוצרים שווים דילים סודיים ",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1288710220010636",
+        "link_title": "לקבוצה שלנו",
+        "body": "ברוכים הבאים להקהילה המובילה בישראל לדילים חמים מאלי אקספרס! 🔥\n​נמאס לכם לחפש שעות? אנחנו דואגים לכם לקישורים הכי משתלמים בתחומים שכולנו אוהבים:\n​🚙 ציוד לרכב \n⛺ קמפינג ופנאי – גאדג'טים וציוד שטח שישדרגו לכם כל יציאה לטבע.\n🛠️ כלי עבודה – המותגים המובילים במחירים שפשוט אין בארץ.\n​הצטרפו עכשיו לאלפי חברים שכבר חוסכים מאות שקלים בכל חודש!\n​להצטרפות לקבוצת הוואטסאפ לחצו כאן 👇\nhttps://chat.whatsapp.com/FBZ2OFxggTRAPXMdFChLId",
+        "landing_url": "https://poetic-frangipane-619d6d.netlify.app/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728286784_1734651847714933_111486037636601182_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OTlftPFIQJYQ7kNvwH16x5i&_nc_oc=Adr_n4ckEO3GfGo5RkvbIYhvYLZK3gr92FOM1zqP8DWJjWC-kxWO9MiWG5ZatczlLLA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJI63GyY8aRaUhYRXZNM01gSnSJ88AMljC25paoTQBSHg&oe=6ABE3597"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782111600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1288710220010636"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1288710220010636"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 249,
+    "page_categories": [
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

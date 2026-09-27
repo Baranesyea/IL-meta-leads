@@ -1,0 +1,93 @@
+{
+  "lead_id": "2026-09-27-012",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61573760624672/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "609171115608926",
+    "page_name": "סוד הבית - גאדג'טים לבית ולגן",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "836379822599409",
+        "link_title": "להצטרפות לקהילה לחצו כאן>>",
+        "body": "🔹 משלמים יותר מדי על כלי עבודה בארץ? זה נגמר עכשיו! 🔹\n\nהצטרפו לקהילת \"ההנדימנים\" הסודית בוואטסאפ וקבלו דילים מטורפים מאלי אקספרס על כלי העבודה והגאדג'טים הכי שווים לסדנה שלכם! 🛠️🔥\n\n💡 מה מחכה לכם בקבוצה?\n✅ כלי עבודה מקצועיים – סטים של מקדחים, ביטים וציוד נגרות בחצי מחיר מהארץ! 🔨\n✅ גאדג'טים טכנולוגיים לדיוק – מדי זווית דיגיטליים ומכשירי מדידה מתקדמים! 📐\n✅ ציוד עזר גאוני – קליבות מקצועיות ופתרונות קיבוע שיהפכו כל פרויקט לפשוט יותר! 🗜️\n✅ כלי עבודה נטענים וחכמים – המותגים והדגמים הכי חזקים ישירות מאלי אקספרס! 🔋\n✅ פתרונות ארגון לסדנה – אחסון חכם לכלי עבודה שיעשה לכם סדר בראש ובעיניים! 🗄️\n✅ עדכונים חמים לפני כולם – הישארו הראשונים לדעת כשהמחירים צונחים! 📉\n\n📢 המקומות מוגבלים! אל תמשיכו להיות פראיירים ולשלם כפול.\n⏳ לחצו כאן עכשיו והצטרפו לקהילת ההנדימנים >>",
+        "landing_url": "https://hhendimenim.netlify.app/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724053324_2195292607928586_446067471070046541_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YpUaCRhY1YkQ7kNvwFbmi8c&_nc_oc=AdpVoR57cc2i3QApX23lKHy36iml0hr8vtQMpLw9fZEz5xLee61wzZhbVnGVymngLPs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJf81uwOOEQe6cFwsH_lWSqywxUQf5jT5P7eDFEoPN2yQ&oe=6ABE2AFD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOaFAiYGkxrsJ2jObqoQpOC4XX6dJtzXv1lEprdFe7wlhBw_T_JN5fnL1d3O_fKjNv-AbyKx0lsbhlRF_HwzWJ36PQvinRGFB_GSUQdQavsZg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=JcBldUXyux4Q7kNvwHFvqwe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNDE3OTcwNDM5NTQ3NzcsImFzc2V0X2FnZV9kYXlzIjoyMjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8ac8aa8a14d64390&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OTRGNzZFMkRGRjA0N0I0NEVFMEU5NTc2MTMwOEVBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RFNDFFNDAwQzNCNkZEMzIxQzdCOUQ5MzNCMkRFQzkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaykYH7jNq0BBUCKAJDMywXQEV3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ7Y5aNUNyjI6DCs3zS4pkDsUYVroiQ3Ut4em3ALZg3Pw&oe=6ABE3DFF"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1781334000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=836379822599409"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "836379822599409"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 208,
+    "page_categories": [
+      "Home & Garden"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

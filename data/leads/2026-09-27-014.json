@@ -1,0 +1,89 @@
+{
+  "lead_id": "2026-09-27-014",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063444049091/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "118796876194103",
+    "page_name": "magnus_israel",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1041647581802684",
+        "link_title": "הכירו את הדור החדש של כלי הבישול",
+        "body": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "landing_url": "https://magnus-shop.co.il/search?q=black%26gray",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763700977_3963398357288103_4815336500767518889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7wTAoqn0tRsQ7kNvwEFIFxe&_nc_oc=AdquMTQ8hij68Pcacj-T23PIr5sxCddeqqhcqhunM6MJSH87DRBKXmu04KPusKNrM2w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQKv6KOSwbM9RrV9PxKC9neuasczvVmOh38BCgoAgyt_iQ&oe=6ABE274C"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1785826800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1041647581802684"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1041647581802684"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 4971,
+    "page_categories": [
+      "Product/service"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

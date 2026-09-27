@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-008",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/OLIVIER.CO.IL/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "459278637610804",
+    "page_name": "אוליבייה כלי בית איכותיים Olivier",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1090073553694189",
+        "link_title": "",
+        "body": "מבצעי החגים של אוליבייה שאסור לכם לפספס!\n▪▪▪▪▪▪▪▪▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.\n🔸 🔸 🔸\nלרכישה ישירה באתר: https://olivier-il.com/\n#שואבאבק #ניקיון✔️ #מטבח #גאדגאטיםלמטבח #תבניותאפיה",
+        "landing_url": "https://olivier-il.com/",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/773614786_2515281878971368_7902963468853477541_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4NB8lVXTZw8Q7kNvwH5JHoo&_nc_oc=Ado4-uF9C5JrKZbkX6veOjXWDttfRG7neaDRIwDQY2K21GP4e_bQdWEc0dTT6blYITo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQIkD5m8jJ1bv8DpEn3eV8iZl-zPreTurRij5xK2khumaw&oe=6ABE2FD7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774779575_1528816381850874_4313439918352598679_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fHbxKm0iJCYQ7kNvwHN9syM&_nc_oc=Adoh1zhLV6b5A2-9Y3777qYVwzjperf89mpMIym_Dd3eCY5BFKcowt9q0E8Emb03hj4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJS_dQfHqLsz4Av-w9QOK48IPaDIkTM8jaSLHdpXLGawA&oe=6ABE2F4E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/775471459_1789546802045336_7148529680259148963_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q8h-63BY6CsQ7kNvwGxyvX0&_nc_oc=AdrRMin40aV1iP58CTPl0DQfV4gnqQBrBJpkh8vC2kiAdpNWJKIBXUpuT0DPoFbCfEg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJXhYU5Ia04tmMRvhzGj_KC6ihZWq0J8esI6Nt646pfOQ&oe=6ABE3593"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1786863600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1090073553694189"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1090073553694189"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "ORDER_NOW"
+    ],
+    "page_like_count": 11227,
+    "page_categories": [
+      "Household supplies"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

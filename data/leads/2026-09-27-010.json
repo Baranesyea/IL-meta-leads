@@ -1,0 +1,92 @@
+{
+  "lead_id": "2026-09-27-010",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/smartcasesale/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "106514724708642",
+    "page_name": "SmartCase - אביזרים לשעונים חכמים",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1662420418456044",
+        "link_title": "{{product.name}}",
+        "body": "קנייה חכמה עושים רק בSmartCase!\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🛒 גאדג'טים ועוד\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nלפרטים נוספים ולרכישה היכנסו לאתר >",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633528077_889607037175160_3602336469920308354_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S33S8xbvYM0Q7kNvwFK4VPk&_nc_oc=AdpkagZoi4bYAz5_DvTYaRCC9Y5yMFBEFlPiEziCp-E4HPkRIsiZmIoe8uY3TPJXMTk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLFvBY9Wg2EL6BaIP6c9cR-jOPrQ3uC66TLnGVsZuI5bQ&oe=6ABE5324",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/632518041_2122871988542998_4583910023537211266_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YGNCE3ObLL4Q7kNvwFb8Ot3&_nc_oc=AdqpeSterlc-XRdfZS1ph_uqo_N1gCV43hkqEzp87zQaYcdQl-vTYTes3ybPJ8aQn7k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLngeIsNnao_mfJ-7syiTiu2Tp6kk1EQxSf60fufX31vg&oe=6ABE4799",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634211174_1750063746378660_5962125780479902079_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=omE5RgGSmpwQ7kNvwHBbU6g&_nc_oc=AdrKIgwZCKpNgxViFrW74COGFeYupVS6O8Twb1ZIDOJvWnl5rheqxxQcwfQX6czozZg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQK63uMv-r7A5G3MgnB1MEtBaIE8J6diqFiVT_EXJ2nGJA&oe=6ABE4D30"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1772179200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1662420418456044"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1662420418456044"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 1002,
+    "page_categories": [
+      "Jewelry/watches"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

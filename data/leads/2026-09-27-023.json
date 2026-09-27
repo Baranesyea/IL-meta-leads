@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-023",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/HotDealFinds/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "301345603070011",
+    "page_name": "דילים והנחות מאלי אקספרס",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1484873129785343",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://hotdeals.edigi.co.il/tech-gadgets/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714404851_836791915780677_6933740695932830562_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bSJ275MUhKwQ7kNvwGIPUHp&_nc_oc=Adpbm_zDdAQ3iqh_ml8vzYuBhIOgyWEXBiYF0_JSl1Ywk_VV-wLQuysF1MSgt29_0xU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJZCf_DcG_Hc8lXKsMTw9Ye31liS8qHOTJWcR25N_eIaw&oe=6ABE3B75",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOvO64ni7VlTb3tAi2NRLW7I1vxNQj-cu-6fnvYudwO6pSMNdPDe8rdsrKSSarUOQ0yQSS-MdbjyeBAAOsWeFEAN3W2ZCAeh-SNiNQjZDA6zg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=YhALu99USTEQ7kNvwFUUQ4x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNTMyNjEyMjE3NjA2NjYsImFzc2V0X2FnZV9kYXlzIjo0OTMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a5f1d75f88de3063&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84ODQ4QkRCN0EwREQ1MERDNjE0NzFEMzIwMTEyNUM5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhgxZmJfcGVybWFuZW50LzcxNDMwODY2MTE1Nzc0MF85MTI0ODc3MTU1Mzg5MDgwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0uqyriNWACBUCKAJDMywXQDOiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4o_xTED_lpFjK2Z4xmHRIVxnAu6heJI0iMPRClusRNQ&oe=6ABE4B96"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1782198000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1484873129785343"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1484873129785343"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 951,
+    "page_categories": [
+      "Shopping",
+      "Discount Shopping",
+      "Shopping Mall"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

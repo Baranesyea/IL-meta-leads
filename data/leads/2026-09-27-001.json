@@ -1,0 +1,139 @@
+{
+  "lead_id": "2026-09-27-001",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/www.nextech.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "486881887998224",
+    "page_name": "Nextech",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "847719267385855",
+        "link_title": "",
+        "body": "אנחנו לא צריכים יום מיוחד בשנה ב-NexTech תמיד תמצאו את המחירים הכי זולים בישראל!\n\nמגוון ענק של טלפונים, שואבים, מוצרי ANINJA, גאדג'טים ואביזרים במחירים הכי זולים בישראל. איכות, שירות אישי, והכל במקום אחד!\n\nמשלוח חינם 📦\nלפרטים נוספים ורכישה >> https://bit.ly/45P7mLZ\n\nמחכים לכם לוחמי הגטו 30 פתח תקווה \n☎️ 03-9099969 ☎️",
+        "landing_url": "https://nextech.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/467843668_1691723491370927_5871419648335545061_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CrCWZ3wQYxIQ7kNvwEra7-u&_nc_oc=AdpR5MqPORQ248HmfpSHc2L5S18ieiBcZo6rLrMc2OigGUb9Pydm670IeYOFuxVXr_Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQKlElUYKX0XrxwM45ACSq5ArTJ90ALbZMyudTsLqucWoQ&oe=6ABE513E"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1736236800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=847719267385855"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 3694,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "847719267385855"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 3694,
+    "page_categories": [
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "847719267385855",
+        "page_id": "486881887998224",
+        "page_name": "Nextech",
+        "page_url": "https://www.facebook.com/www.nextech.co.il/",
+        "page_like_count": 3694,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אנחנו לא צריכים יום מיוחד בשנה ב-NexTech תמיד תמצאו את המחירים הכי זולים בישראל!\n\nמגוון ענק של טלפונים, שואבים, מוצרי ANINJA, גאדג'טים ואביזרים במחירים הכי זולים בישראל. איכות, שירות אישי, והכל במקום אחד!\n\nמשלוח חינם 📦\nלפרטים נוספים ורכישה >> https://bit.ly/45P7mLZ\n\nמחכים לכם לוחמי הגטו 30 פתח תקווה \n☎️ 03-9099969 ☎️",
+        "link_description": "",
+        "landing_url": "https://nextech.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1736236800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/467843668_1691723491370927_5871419648335545061_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CrCWZ3wQYxIQ7kNvwEra7-u&_nc_oc=AdpR5MqPORQ248HmfpSHc2L5S18ieiBcZo6rLrMc2OigGUb9Pydm670IeYOFuxVXr_Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IPKCZW2fIP1nNNiHlZ3QOg&_nc_ss=70289&oh=00_AQJTPsB7sT8_lTQFsWGKxiVGSxA1ViCRuDSVr0bIl_PZeg&oe=6ABE513E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=847719267385855"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:25:43"
+  }
+}

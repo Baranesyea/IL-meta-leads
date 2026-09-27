@@ -1,0 +1,221 @@
+{
+  "lead_id": "2026-09-27-005",
+  "status": "filtered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61576835343216/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "662140896985498",
+    "page_name": "גאדג'טים מומלצים",
+    "active_ads_count": 3,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1082151847470296",
+        "link_title": "הצטרפו [בחינם] לקהילת ההמלצות!",
+        "body": "כמה פעמים הזמנתם מעלי אקספרס ואז ראיתם את אותו מוצר במחיר טוב יותר?\n\nבקבוצת ההוואטספ הפרטית שלנו תקבלו קופוני הנחה בלעדיים ודילים שעברו סינון לפי המחיר, הנחה וביקורות חיוביות, כדי שתוכלו להזמין בצורה חכמה יותר בלי לחפור לבד ומבלי לבזבז זמן.\nתנו לנו למצוא לכם את המוצרים הכי טובים והכי זולים.",
+        "landing_url": "https://gadget-il.vercel.app/join",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740259724_1386159183447897_7912838303048026305_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k-L6q4A2bQMQ7kNvwFaIttO&_nc_oc=Adr9NY8igq9v8nMA4KUomTT_GPjesMlH0x95X9D0P9DsPrhs3owrWyPVAWf1kM1cF2E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQL0njLGqtU2VagJ5Mc1UQXumdmJOwXfkfSqn-rYomGcjQ&oe=6ABE318C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNdPjKMAU2XFhktRfPbC-eCIXj1WMi78NtgntKc4vHUu651dZ_vQSZJJlcOC5wa7DI7VQ92nJ5yyiaWzr_4lHXKD8Ldm9Rhsn1PXezOmKa7Sg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=HDGWdVZ3B9kQ7kNvwEruIqY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3NTcxMDkyNzEyNTQ3MDM3LCJhc3NldF9hZ2VfZGF5cyI6ODEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=accf4ce9c73a9261&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTRGNDE1N0Q2RkU2MENBRjY3NjhENjY4NkVEMzRCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDQ2MDhFNjJDOUQ2MEQyM0VEMzIwMTlDMThEMjk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6i5uz6PD5YRUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJrpp3LZB0hZy2t6A91JxiaICDeil8SlRevIutZs8crmQ&oe=6ABE5195"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1783407600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1082151847470296"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 1004,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1082151847470296"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 1004,
+    "page_categories": [
+      "Electronics",
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "1082151847470296",
+        "page_id": "662140896985498",
+        "page_name": "גאדג'טים מומלצים",
+        "page_url": "https://www.facebook.com/61576835343216/",
+        "page_like_count": 1004,
+        "page_categories": [
+          "Electronics",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הצטרפו [בחינם] לקהילת ההמלצות!",
+        "body": "כמה פעמים הזמנתם מעלי אקספרס ואז ראיתם את אותו מוצר במחיר טוב יותר?\n\nבקבוצת ההוואטספ הפרטית שלנו תקבלו קופוני הנחה בלעדיים ודילים שעברו סינון לפי המחיר, הנחה וביקורות חיוביות, כדי שתוכלו להזמין בצורה חכמה יותר בלי לחפור לבד ומבלי לבזבז זמן.\nתנו לנו למצוא לכם את המוצרים הכי טובים והכי זולים.",
+        "link_description": "קבלו דילים וקופונים ישירות לנייד",
+        "landing_url": "https://gadget-il.vercel.app/join",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783407600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740259724_1386159183447897_7912838303048026305_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k-L6q4A2bQMQ7kNvwFBcuVn&_nc_oc=AdrfBGO0P183ESGu-FEN1QOjAHJ210L1Vi4QEHwDFUr8UzKRAN65ESukDY5w-p8ls2w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&oh=00_AQIOiCd3WPH9IrKUJNt0rHJpkJ1IMBlMHbKARzfS1JqyiA&oe=6ABE318C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNdPjKMAU2XFhktRfPbC-eCIXj1WMi78NtgntKc4vHUu651dZ_vQSZJJlcOC5wa7DI7VQ92nJ5yyiaWzr_4lHXKD8Ldm9Rhsn1PXezOmKa7Sg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=HDGWdVZ3B9kQ7kNvwFoFweg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3NTcxMDkyNzEyNTQ3MDM3LCJhc3NldF9hZ2VfZGF5cyI6ODEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=accf4ce9c73a9261&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTRGNDE1N0Q2RkU2MENBRjY3NjhENjY4NkVEMzRCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDQ2MDhFNjJDOUQ2MEQyM0VEMzIwMTlDMThEMjk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6i5uz6PD5YRUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJCtbihyYNK_htK9KuGhJv8grnll1zMNuywlHqqFfYdiA&oe=6ABE5195"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1082151847470296"
+      },
+      {
+        "id": "1913686772636009",
+        "page_id": "662140896985498",
+        "page_name": "גאדג'טים מומלצים",
+        "page_url": "https://www.facebook.com/61576835343216/",
+        "page_like_count": 1004,
+        "page_categories": [
+          "Electronics",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הצטרפו [בחינם] לקהילת ההמלצות!",
+        "body": "כמה פעמים הזמנתם מעלי אקספרס ואז ראיתם את אותו מוצר במחיר טוב יותר?\n\nבקבוצת ההוואטספ הפרטית שלנו תקבלו קופוני הנחה בלעדיים ודילים שעברו סינון לפי המחיר, הנחה וביקורות חיוביות, כדי שתוכלו להזמין בצורה חכמה יותר בלי לחפור לבד ומבלי לבזבז זמן.\nתנו לנו למצוא לכם את המוצרים הכי טובים והכי זולים.",
+        "link_description": "קבלו דילים וקופונים ישירות לנייד",
+        "landing_url": "https://gadget-il.vercel.app/join",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783407600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/741613585_1050829620809202_6094325181225178615_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7J1HGUG3rLcQ7kNvwFRNXQ-&_nc_oc=AdqnqK5N9z-42zTSllnIo7eGPzDWFIcplUoBWf0nQuf-0uUVpzXDHkJruoFZq1o7_v4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&oh=00_AQLszFuM2aPaU_GlCpeM8GHKQgaxqeKJ0WC0YMiegvO8Tg&oe=6ABE39D1",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNU76DD_CcVPL9stDN-woOOYxLS_IjkzTNU3UIjBn_RchazUDznUvlztELMuazVaoCs8F_q7mMonSfJTpfS20DWP_FoEwDZ7KoVWrxkvwxekA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=C9bwdr70F0YQ7kNvwEoesnk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjMyMzE5MzE5NzM0NjYsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b3bbb2ed84507d8b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTQ0QTk3RThGNkZFREU5RUUzM0IwQzM0QTg0MDc5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RGNDg2QkJDQTY2REVERUQ2NTlBMkIyNDRERkEyQTkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0_Y3AifDGBRUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&_nc_zt=28&oh=00_AQL34PL3hwr-LhcAeJVRdYsw4cteqERhJfMg2PUiupZE_A&oe=6ABE4075"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1913686772636009"
+      },
+      {
+        "id": "1821232249284258",
+        "page_id": "662140896985498",
+        "page_name": "גאדג'טים מומלצים",
+        "page_url": "https://www.facebook.com/61576835343216/",
+        "page_like_count": 1004,
+        "page_categories": [
+          "Electronics",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הצטרפו [בחינם] לקהילת ההמלצות!",
+        "body": "כמה פעמים הזמנתם מעלי אקספרס ואז ראיתם את אותו מוצר במחיר טוב יותר?\n\nבקבוצת ההוואטספ הפרטית שלנו תקבלו קופוני הנחה בלעדיים ודילים שעברו סינון לפי המחיר, הנחה וביקורות חיוביות, כדי שתוכלו להזמין בצורה חכמה יותר בלי לחפור לבד ומבלי לבזבז זמן.\nתנו לנו למצוא לכם את המוצרים הכי טובים והכי זולים.",
+        "link_description": "קבלו דילים וקופונים ישירות לנייד",
+        "landing_url": "https://gadget-il.vercel.app/join",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783407600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740325799_1005585208931334_678997052017761506_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W1tYx1agDBsQ7kNvwFKp3Ui&_nc_oc=AdoW4OobTgHgb1I8_mJjtYNn-LYT6jhJVfnvMSIDfTQ-vhNP_9ZLbgtGVREWKEFihEM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&oh=00_AQJh8DKegbMWpnnim-uqpD5V-zC65yaJGLG4b3uWslWSPA&oe=6ABE28C8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOm0LlTpMD8oJxU2kagnTBvSqFpGMwQ5yPedWvRz_wDmm4p4yu4GFIoNvS-gtM1DHsLgwHHNpxAZOrQSB3wsoOfF-yEi8BGsFn4nRMF7dOK7w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=iylnxekrAugQ7kNvwHfCYdE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzMxMzU1Njg0NzY4NTgsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=60f920b675ad9d87&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNjRBQzg1NUM1RTUzQjExMEFEQzQxMkM4NjhGN0VCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JCNEQ1QjdBOUEzRTU0QTk5QjZGRUNCNjM2NEU3Rjk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb06vj_2Z7eBBUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=DiiF_pvcpkUJVysFXvMn6A&_nc_ss=70289&_nc_zt=28&oh=00_AQIMuAayz1HMzuBxOVRyx-oNyJLtMjLfVjipSgnLrmSWhw&oe=6ABE3990"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1821232249284258"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:04"
+  }
+}

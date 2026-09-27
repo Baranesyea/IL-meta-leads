@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-024",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/dontbefrayer/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "945272495343228",
+    "page_name": "אל תהיה פראייר - דילים שווים",
+    "active_ads_count": 1,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "2557099601478841",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.dontbefrayer.com/join",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809812567_1082424894252273_2852439320165234998_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VQzLCMFGfSQQ7kNvwGqKsyy&_nc_oc=Adoi27a-xX_iinZL_8U-I7ZRbnLa6vhTtZxqH27dMyF05Cw14QFhRixbh5oBOI9LD-I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLvZFUGuYy4UfwP9itzgZcEMZ8TEwMrXZjKiIMuVQhyNQ&oe=6ABE4771",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809766919_1850752912576563_6564063508006339691_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x2DlqBSaRO0Q7kNvwEaSjCr&_nc_oc=Adqevug6oqh_pPw8v-QKbTdKcB5u2aIBi-_8UWQoUIyeU_LNMrZJP9mvV8vv_ABsixY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLa1ykeT06sgJK9E64RS3k4ncTqYewf1XOxvlt1M6VtCg&oe=6ABE3CB2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809910046_2318312498968902_8263527135736107280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4sfkadjVrC0Q7kNvwG-1L1g&_nc_oc=AdogrbKF5_3VmJdYdlLuF56kUjTp3tNf8bKeCT-035KkSx783JryuuV_UI31AXGKMLI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLSUpIEl_28Mgl9ZzYvboGeKD9boTn3Mc-xcNUHKN1QfQ&oe=6ABE39D3"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789369200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2557099601478841"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2557099601478841"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 504,
+    "page_categories": [
+      "Shopping",
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-27-011",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/GadgetShop/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "598177366894597",
+    "page_name": "גאדג'טשופ",
+    "active_ads_count": 2,
+    "search_keyword": "גאדג'טים",
+    "sample_ads": [
+      {
+        "ad_id": "1380292104264371",
+        "link_title": "{{product.name}}",
+        "body": "כל הגאדג'טים שאתם צריכים (ורוצים) במקום אחד 🛒✨\nלמה לחפש במקומות שונים כשאפשר למצוא הכל תחת קורת גג אחת? איכות, שירות ומחירים שווים – על כל המוצרים.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786543132_1047975907944773_4467029067745800924_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k9cGx54z_5EQ7kNvwG9mVpH&_nc_oc=AdregZ9CDfVSMd4iXa9k7Oqr1iT9mTRLV2SJhfITAlXsbhqBvXOVPhmgzGglLW8co_s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLT6YTNKXOtqEKTPQUnFPZK7DAzWDJuokmjPDSvIsorpw&oe=6ABE2CD7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785925540_907972982384272_5457420880375281566_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tZLwZJaD5bsQ7kNvwFij9pj&_nc_oc=AdqF-wX1yHSsQErQwtgG5HhHz8FP6PyCKrRy2wFKaQe9Vfh15HyXhv7D8UwQIgZVCxs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJWcXwaEP0jI7guDG5S9V1ZWZvvdFPa170RLH4Z53lwdA&oe=6ABE394D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784748348_2069369403674109_4083267987384844521_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xPNdtOr9llUQ7kNvwGiP-mT&_nc_oc=AdpJ_63xD9kApv6zSNedTE87xtQgv5a8Q2kAVRvQLrgU8PrwZw38eSq8ZIJNrA_Y9UE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQJvZRWeygAQWp57fObRORzeLv-NkPDnJnFHLBoMrC-2HA&oe=6ABE5EAF"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787727600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1380292104264371"
+      },
+      {
+        "ad_id": "1759889392101752",
+        "link_title": "{{product.name}}",
+        "body": "מחפשים את המתנה המושלמת אבל לא יודעים מאיפה להתחיל? מגוון מתנות וגאדג'טים מחכים רק לכם",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786313789_1108718981484635_6510470587017608661_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xEDlgKLWLI4Q7kNvwEDPc2b&_nc_oc=Adoyyf1gC8cAiE8cz5DszPqcSya8Fgc6gwZ7u8N4as3ouDyFYmPIzpfJe4nw0GaAh5E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQK_zPL3WfTRlaDd9MOCLbIFEkw8uPCdn4DEuo42zetPoA&oe=6ABE42B2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785944591_5403835803175352_7339695181452162547_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A7WMkN7PrmYQ7kNvwFndB3Q&_nc_oc=AdreqtV-QKGp8OjmlSFi_VvsiD-8gCgj2-TaI9qUCjEB67-xKM2z4g7txyn6ESegzgg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLggvDLbIWCUwerR-qghhRk-sDnG5FmNLU8dr1nyXMniA&oe=6ABE2ABF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786811229_1610378423822661_6877789354762352718_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vdw_PsjoPfQQ7kNvwFIT_Op&_nc_oc=AdpJNpOmBrmV7lmHhdC1VISoIScjq5DpnNpx0BAWAvJ8Tcxi-2VZq0wTekBTsVVyRMg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=0GWsg9R4vQSduY50w3AszQ&_nc_ss=70289&oh=00_AQLJLL8B-CN1K7curcgEV8syDZDAOGC_Mt_LNGBsUEN8DQ&oe=6ABE2C14"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787727600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1759889392101752"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1380292104264371",
+      "1759889392101752"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 20900,
+    "page_categories": [
+      "Gifts"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:25:32"
+  }
+}
