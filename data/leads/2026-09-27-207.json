@@ -1,0 +1,259 @@
+{
+  "lead_id": "2026-09-27-207",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/teamei.habait/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "134326999973305",
+    "page_name": "טעמי הבית מעדניית אוכל מוכן ביתי כשר",
+    "active_ads_count": 3,
+    "search_keyword": "הזמנות בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1750029682940658",
+        "link_title": "להזמנות ופרטים לחצו כאן",
+        "body": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/620030431_1889134515035486_7440886677268644770_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xPcyGvimcZ0Q7kNvwGHj1Zg&_nc_oc=Adoo-iAJIOk8t5GR5JtEJ_RO0ODSldb6-r2e20XzAGY5-6QeBFOGdsTQU0_99nulKhY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQL9cMDNqVYBGCVMIlWph-YdYDV1sNLCIl4YfTN0v459jA&oe=6ABECA33"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789369200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1750029682940658"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1891,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1750029682940658"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1891,
+    "page_categories": [
+      "Grocery Store"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1750029682940658",
+        "page_id": "134326999973305",
+        "page_name": "טעמי הבית מעדניית אוכל מוכן ביתי כשר",
+        "page_url": "https://www.facebook.com/teamei.habait/",
+        "page_like_count": 1891,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "להזמנות ופרטים לחצו כאן",
+        "body": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "link_description": "ארוחות ביתיות, בריאות וטעימות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/620030431_1889134515035486_7440886677268644770_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xPcyGvimcZ0Q7kNvwFmKoIl&_nc_oc=AdpwexFeOctQ7efqgR8bSPey7mooVoGnDWTkMiYh0913EF5ZiXEkxXE70nki-ELGwwE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=NDEWMhI7IMaPaA5hwZhiAg&_nc_ss=70289&oh=00_AQIz1W_t37ZwK1FxjAMJ-j95aI4D1elt8pXnTJCVqBOOjw&oe=6ABECA33"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1750029682940658"
+      },
+      {
+        "id": "1486307423547811",
+        "page_id": "134326999973305",
+        "page_name": "טעמי הבית מעדניית אוכל מוכן ביתי כשר",
+        "page_url": "https://www.facebook.com/teamei.habait/",
+        "page_like_count": 1891,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "להזמנות ופרטים לחצו כאן",
+        "body": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "link_description": "ארוחות ביתיות, בריאות וטעימות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619599855_2053180298574095_299215343261278198_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VLCSYzc8rEwQ7kNvwFAnjz1&_nc_oc=AdplCqi30pTwPHcNCIxfdP86wrNiiYBEgUc0oCD90ZIoF12JrdgKSEC1nyMW_6E_TiQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NDEWMhI7IMaPaA5hwZhiAg&_nc_ss=70289&oh=00_AQJ2sp45788n81dgaJ3aMQDwufOFp0n5pGstxvpCR14qBQ&oe=6ABEA46D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0yBc7GkHAT8al9V6NMfTMOZLtsBQG0LE-1i23XUQjNv3iPtljFYE9hzTP2Q0nvD2yvK0uyLTZOC3kT8aI_ZyiIwC95zlHYnlbrbv21SI2LQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ePmLZ05eDGUQ7kNvwG1_pYL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MjQyODg0NjE2MjQ4MTAsImFzc2V0X2FnZV9kYXlzIjoyNDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=16d6a1f27d7b0ae3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQ0NTlENERBMTNFNDNGOUIyRkE0RjU3Q0QyMkI5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIwNEU5RkI0NUNEN0JFMUFBNEVEOTU3MTQwNTdFRDkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU18ibyMu9BhUCKAJDMywXQDD1P3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=NDEWMhI7IMaPaA5hwZhiAg&_nc_ss=70289&_nc_zt=28&oh=00_AQKVANBvGB7JMiZNnyKYauRbJGvMgTVZjCF1LH97nTVOHw&oe=6ABEBC24"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1486307423547811"
+      },
+      {
+        "id": "2887956014917860",
+        "page_id": "134326999973305",
+        "page_name": "טעמי הבית מעדניית אוכל מוכן ביתי כשר",
+        "page_url": "https://www.facebook.com/teamei.habait/",
+        "page_like_count": 1891,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "לפרטים והזמנות לחצו כאן",
+        "body": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "link_description": "ארוחות ביתיות, בריאות וטעימות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618744456_3388456107995558_2445936971511438557_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=13Sc5rscw4oQ7kNvwEceJrC&_nc_oc=Adr0KqSxoPeSc8cRyY9SzzKZ_eqL0PcsKfOovOo92uS7xB2nPaML0Glpo19xlexTypk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=NDEWMhI7IMaPaA5hwZhiAg&_nc_ss=70289&oh=00_AQKd-cP0Kr8n3ZbOnuOuIIyO6QMzrefsTyFXn3HjnBb36g&oe=6ABEA96B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2887956014917860"
+      },
+      {
+        "id": "1750029682940658",
+        "body": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1750029682940658",
+        "text": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1486307423547811",
+        "text": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2887956014917860",
+        "text": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1750029682940658",
+        "text": "מחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1750029682940658",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nטעמי הבית מעדניית אוכל מוכן ביתי כשר\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1750029682940658\nהתחילה לפעול ב-14 בספט' 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nטעמי הבית מעדניית אוכל מוכן ביתי כשר\nממומן\nמחפשים אוכל ביתי, טעים, טרי וכשר בלי לבשל?\nאנחנו כאן בשבילכם 🍲\nבמעדניית טעמי הבית תמצאו:\nתבשילים ביתיים, מנות חמות, סלטים טריים, תוספות וקינוחים.\n✨תפריטים מגוונים לאמצע השבוע, סופי שבוע ואירוח של הרגע האחרון.\nרוצים לדעת מה בתפריט היום?\nהכנסו לאתר או שלחו לנו הודעה בוואטסאפ - נשמח לעזור, לייעץ ולקבל הזמנות\n📍 שער העמקים (ליד טבעון)\n👉 לחצו על התמונה ודברו איתנו\nWHATSAPP\nלהזמנות ופרטים לחצו כאן\nארוחות ביתיות, בריאות וטעימות\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:32:09",
+    "filtered": "2026-09-27T09:33:30",
+    "unqualified": "2026-09-27T09:35:50"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

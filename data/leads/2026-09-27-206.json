@@ -1,0 +1,308 @@
+{
+  "lead_id": "2026-09-27-206",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063655886730/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "273260476689487",
+    "page_name": "המטבח של שונית",
+    "active_ads_count": 4,
+    "search_keyword": "הזמנות בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1756014865415121",
+        "link_title": "📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ",
+        "body": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/672684951_26276651328643825_6395542992052272035_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u256Qnx0vzIQ7kNvwHBndLg&_nc_oc=AdpsEyV3K3Ee5-fP1ZxZLG2BcvWt8Qaa1Nsjfgt2-0qhRwhgoOjd1GbmzTfBwAkFKqA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQJqeL8-yw5tfZs9dOB3TKzcGZeODl7qQu0NWEJy1DD_Gw&oe=6ABEAB0A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPc5P_ieQpoVB_DJ-P-K1NhrpcKi8RgZaIN3_JY-by7CEX5NpDexJl1ad74THuM5dvlRGX3bMzZ2dx6JemTc7RvrzkLXwzdzn0bAnjuFjpn1Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=up7kSfxRRIwQ7kNvwFS14qE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1MDgzMTA2ODA0MDk1MiwiYXNzZXRfYWdlX2RheXMiOjE2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a15a915669cf183b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDQ4MUQwQ0RCQTBGQ0ZDOTlEQ0ZFMDM1RTBFRkVCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q1NDkwODExNUJGOUI5QTU0NjU3QzM4QTlDMTE3QkFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwu5i58fSCAxUCKAJDMywXQEn3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&_nc_zt=28&oh=00_AQJglkNJwNayyiWqyEbr2v-20SYxZnYfpjTkygZbdJ2geg&oe=6ABE99D3"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1785394800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1756014865415121"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 446,
+      "product_score": 3,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1756014865415121"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 446,
+    "page_categories": [
+      "Продовольственные услуги"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1756014865415121",
+        "page_id": "273260476689487",
+        "page_name": "המטבח של שונית",
+        "page_url": "https://www.facebook.com/100063655886730/",
+        "page_like_count": 446,
+        "page_categories": [
+          "Продовольственные услуги"
+        ],
+        "ad_creative_link_title": "📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ",
+        "body": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/672684951_26276651328643825_6395542992052272035_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u256Qnx0vzIQ7kNvwG5qIEU&_nc_oc=AdrW3NQ-EVtftS1HXpmYf2c1F6ZIVvPoCiTiJBFZXLxeOLr4PXXhzJGM20DepIUD4XE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&oh=00_AQINtJUKuDkixx4oVBZFc9sQR0DccY2iStmLgJuB0gu8AA&oe=6ABEAB0A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPc5P_ieQpoVB_DJ-P-K1NhrpcKi8RgZaIN3_JY-by7CEX5NpDexJl1ad74THuM5dvlRGX3bMzZ2dx6JemTc7RvrzkLXwzdzn0bAnjuFjpn1Q.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=up7kSfxRRIwQ7kNvwH0Ej69&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1MDgzMTA2ODA0MDk1MiwiYXNzZXRfYWdlX2RheXMiOjE2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a15a915669cf183b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDQ4MUQwQ0RCQTBGQ0ZDOTlEQ0ZFMDM1RTBFRkVCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q1NDkwODExNUJGOUI5QTU0NjU3QzM4QTlDMTE3QkFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwu5i58fSCAxUCKAJDMywXQEn3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJFwHUyUCmwIwbkCfIXjU8_lOzftxRw9QJGa2x7dAtNDw&oe=6ABE99D3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1756014865415121"
+      },
+      {
+        "id": "1567967477934221",
+        "page_id": "273260476689487",
+        "page_name": "המטבח של שונית",
+        "page_url": "https://www.facebook.com/100063655886730/",
+        "page_like_count": 446,
+        "page_categories": [
+          "Food Service"
+        ],
+        "ad_creative_link_title": "📲 רוצים תפריט והזמנה? שלחו הודעה בוואטסאפ או בפרטי.",
+        "body": "🍲 מתחשק לכם אוכל ביתי אמיתי בלי לעמוד שעות במטבח?\n\nבהמטבח של שונית מחכה לכם אוכל חם וטרי, מבושל באהבה ובטעמים של בית ❤️\n\n🍗 שניצלים זהובים ופריכים\n🥩 תבשילים ובשרים רכים ומפנקים\n🍲 מנות ביתיות שמחזירות את הטעם של פעם\n\nבלי בישולים, בלי לכלוך ובלי לבזבז זמן – פשוט מזמינים מראש ונהנים מארוחה מוכנה עד הבית 🚚\n\n📲 רוצים תפריט והזמנה? שלחו הודעה בוואטסאפ או בפרטי.\n\nהמטבח של שונית – הטעם הביתי שמגיע עד אליכם\n\nכי אוכל טוב מתחיל בטעם של בית ❤️",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811028963_1033593729661769_1211090855514726390_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IDxRJbNSDVsQ7kNvwHNc8x1&_nc_oc=AdoZ11cGoZDQT1gPdRJ4hJL9RHfMV27N0IYHaBxlTcuxI4uqyVN7k4039L8qy9Mh8o4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&oh=00_AQLeGPzt49OgLaMDQsbqJISAmqX0j2arVUHVaY0Nzfusmw&oe=6ABEB25A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOkbHfekglVqzxyT5uLxtiLE1Oker0ihAwB6u3sqWg_nmWjhWnPHnnZfw9S6FEwPupXn1NV4gZp0XhHyEyeRSNprlcMu5Z-eSte48VOgv7pWg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lDeCcTqXuh8Q7kNvwGox9Sp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MDY4OTc5OTE2MTA3Nzk1LCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e46d28b249ca3795&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QTQ4ODhEQTNBNjRERDU2QjM2Qzg4QzIzRkJFMTU4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JFNDVEQ0FBMzA4OEJCNTE4RkM3QzE5M0FFQjhGQkI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamwNuR1aXcYxUCKAJDMywXQEImZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIASw3MMPTfY_L5RKF4_wrW5eHjk0gbJXzw7F-R3gcMyQ&oe=6ABEBF2D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1567967477934221"
+      },
+      {
+        "id": "2129920147900583",
+        "page_id": "273260476689487",
+        "page_name": "המטבח של שונית",
+        "page_url": "https://www.facebook.com/100063655886730/",
+        "page_like_count": 446,
+        "page_categories": [
+          "Food Service"
+        ],
+        "ad_creative_link_title": "📲 פנו בפרטי או בוואטסאפ והאוכל כבר בדרך אליכם",
+        "body": "🍲 מתגעגעים לאוכל ביתי אמיתי? כזה שמרגישים בו אהבה כבר מהביס הראשון?\n לא אוכל תעשייתי.\n לא “חימום מהיר”.\n אלא אוכל שמכינים בדיוק כמו בבית – סירים, תבשילים, ריחות וטעמים שעושים טוב בלב ❤️\n\n👩‍🍳 במטבח של שונית מבשלים אוכל ביתי חם וטרי,\n בהכנה מוקפדת, מחומרי גלם טובים,\n עם מחשבה על כל פרט – מהסיר ועד האריזה.\n\n✨ מה זה נותן לכם בפועל?\n ✅ אוכל מוכן, חם וטעים – בלי לבשל\n ✅ חיסכון מטורף בזמן ובכאבי ראש\n ✅ הזמנה מראש – יודעים בדיוק מה מקבלים\n ✅ מתאים למשפחות, יחידים ולמי שפשוט רוצה לאכול טוב\n ✅ משלוחים נוחים באזור המרכז 🚚\n\n⏰ אין לכם זמן לבישולים?\n 😩 נמאס לאלתר כל יום מחדש?\n 🍽️ רוצים אוכל שמרגיש בית גם באמצע השבוע?\n\nזה בדיוק המקום בשבילכם.\n\n📲 פניות ישירות בפרטי או בוואטסאפ\n 📦 הזמנות מראש בלבד – כדי לשמור על טריות ואיכות\n\nהמטבח של שונית – אוכל שמרגיש בית\n 📍 קריית אונו\n\nהמבצע כפוף לתקנון\n מחכים לבשל בשבילכם באהבה ❤️",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/645669244_954528503744736_4035646058043913344_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sBcYCFxCHO4Q7kNvwHNtGmw&_nc_oc=AdqshHjqukqsScetPUiHlJMj6MSNb0KjAfu_ewEVtZV4UQMXZWsxaF7buDK4kPfrmrw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&oh=00_AQLHHL8BKr7sRBee-RsyWfeuJpYURougOb9CsAGiT6etZg&oe=6ABE9DA1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPYaqsNRjqlILCIuRqE7rHfpn_oCKbqFIm3NUjAJk_RvVRBEYied4zSkf3Iga-TZHue8DxPqeeEhtNIADFPQb3rz2qfI1SQFGRw5Ub3fHoWwQ.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9n6wjcySOt4Q7kNvwE6ePAr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMzMTA2NDgwNTkxMTYyODYsImFzc2V0X2FnZV9kYXlzIjoyNDAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a2cb476c1d0aa857&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTQ5NTE2Q0IzMTVFQjdERDY1NEU4MzhDQjU2RkJBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RGNEExMjEyMkQ0RDM4MzM3MkY2QTM3Njk2OTY5MEI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb869GYisHhCxUCKAJDMywXQE_RBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJhSNwy01hxD3MXbhETdzMcb1TfC65i4GF4r_SYbP432g&oe=6ABEC3AA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2129920147900583"
+      },
+      {
+        "id": "916744061489058",
+        "page_id": "273260476689487",
+        "page_name": "המטבח של שונית",
+        "page_url": "https://www.facebook.com/100063655886730/",
+        "page_like_count": 446,
+        "page_categories": [
+          "Food Service"
+        ],
+        "ad_creative_link_title": "📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ",
+        "body": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785481200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/673430705_931892462997275_7899424468362729148_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAKcqmXitJ8Q7kNvwGfVAL5&_nc_oc=AdpQbjZHxifRo4F0eiPhztfw-DQMPMtuAu1A_9KDL95rO3t793Ie3ar8aBjB9jyv7mA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&oh=00_AQIbs1qBazY0LzMUt7P7Vbm17f_MkRcw0HyQncvRCTVWbQ&oe=6ABEA841",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMt5mKT-GLbQ4YtYHWZPuKcqHPn6aTRCE9z-fD8w4sfeSfAyC-t3MF-NK9jIFsKcmXaLWX8SeyL2pahxtll2WMLcr77nDyTW1Gipo8dc6QVzA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=gKg2vI9fn1wQ7kNvwHwe3X3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4ODcxMDg3MzYwMTE3MjEsImFzc2V0X2FnZV9kYXlzIjoxNjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=78a3fdae49481d08&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNTQ3ODkwQjNDOEY4MUUzQjU1QUVDNDFDNTVGMTdCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNENERTQwMjQ4REYwQTA2N0VGNkQyQ0NFOEMyNDhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSt-bdl5TaBhUCKAJDMywXQEziDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p1dkUmv9KQWeDbJKFkSAjQ&_nc_ss=70289&_nc_zt=28&oh=00_AQInobN8LB5h5HpCaxPaOJbZ4zgHN3WFCt1GD6oKxVOM1w&oe=6ABECB55"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=916744061489058"
+      },
+      {
+        "id": "1756014865415121",
+        "body": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1756014865415121",
+        "text": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1567967477934221",
+        "text": "🍲 מתחשק לכם אוכל ביתי אמיתי בלי לעמוד שעות במטבח?\n\nבהמטבח של שונית מחכה לכם אוכל חם וטרי, מבושל באהבה ובטעמים של בית ❤️\n\n🍗 שניצלים זהובים ופריכים\n🥩 תבשילים ובשרים רכים ומפנקים\n🍲 מנות ביתיות שמחזירות את הטעם של פעם\n\nבלי בישולים, בלי לכלוך ובלי לבזבז זמן – פשוט מזמינים מראש ונהנים מארוחה מוכנה עד הבית 🚚\n\n📲 רוצים תפריט והזמנה? שלחו הודעה בוואטסאפ או בפרטי.\n\nהמטבח של שונית – הטעם הביתי שמגיע עד אליכם\n\nכי אוכל טוב מתחיל בטעם של בית ❤️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2129920147900583",
+        "text": "🍲 מתגעגעים לאוכל ביתי אמיתי? כזה שמרגישים בו אהבה כבר מהביס הראשון?\n לא אוכל תעשייתי.\n לא “חימום מהיר”.\n אלא אוכל שמכינים בדיוק כמו בבית – סירים, תבשילים, ריחות וטעמים שעושים טוב בלב ❤️\n\n👩‍🍳 במטבח של שונית מבשלים אוכל ביתי חם וטרי,\n בהכנה מוקפדת, מחומרי גלם טובים,\n עם מחשבה על כל פרט – מהסיר ועד האריזה.\n\n✨ מה זה נותן לכם בפועל?\n ✅ אוכל מוכן, חם וטעים – בלי לבשל\n ✅ חיסכון מטורף בזמן ובכאבי ראש\n ✅ הזמנה מראש – יודעים בדיוק מה מקבלים\n ✅ מתאים למשפחות, יחידים ולמי שפשוט רוצה לאכול טוב\n ✅ משלוחים נוחים באזור המרכז 🚚\n\n⏰ אין לכם זמן לבישולים?\n 😩 נמאס לאלתר כל יום מחדש?\n 🍽️ רוצים אוכל שמרגיש בית גם באמצע השבוע?\n\nזה בדיוק המקום בשבילכם.\n\n📲 פניות ישירות בפרטי או בוואטסאפ\n 📦 הזמנות מראש בלבד – כדי לשמור על טריות ואיכות\n\nהמטבח של שונית – אוכל שמרגיש בית\n 📍 קריית אונו\n\nהמבצע כפוף לתקנון\n מחכים לבשל בשבילכם באהבה ❤️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "916744061489058",
+        "text": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1756014865415121",
+        "text": "יש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1756014865415121",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nהמטבח של שונית\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1756014865415121\nהתחילה לפעול ב-30 ביולי 2026\nפלטפורמות\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nהמטבח של שונית\nממומן\nיש רגעים שפשוט בא לכם אוכל מנחם… כזה עם ריח של בית.\n אבל למי יש זמן להתחיל לבשל עכשיו?\n\n👩‍🍳 בדיוק בשביל זה יש את המטבח שלי ,\n אוכל ביתי חם וטרי, שמוכן בשבילכם — בלי בישולים, בלי כלים, בלי כאב ראש.\n\nכולנו יודעים שמה שמקשר כל בית בישראל זה פסטה ושניצל!\n\n🍝 ספגטי ברוטב עגבניות טעים כמו של פעם \n 🍗 לצד שניצל זהוב וקריספי \n 😍 שילוב מושלם שלא משאיר אף אחד אדיש\n\n✨ למה כולם אוהבים להזמין במקום לבשל?\n ✔️ חוסכים זמן יקר כל יום\n ✔️ מקבלים אוכל טרי שמוכן באהבה\n ✔️ מנות שמרגישות כמו בית  ולא תעשייתי\n ✔️ וזה פשוט פתרון מושלם למשפחות, זוגות וגם ליחידים\n\n⏰  זה בדיוק הרגע לתת למישהו אחר לבשל בשבילכם\n\nבלי לחשוב כל הזמן מה אוכלים היום? \n\nהמטבח שלי מגוון במאכלים טעים במגוון סגנונות אפשר להזמין מראש לפני בקשה או פשוט לשאול אותי מה יש למחר בתפריט\n\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ \n\nכי אוכל טוב מתחיל בהחלטה אחת קטנה \n 📦 הזמנות מראש בלבד ויש משלוחים כמובן \n\nהמטבח של שונית – אוכל שמרגיש בית\n 🍽️\n0:00 / 0:00\nAPI.WHATSAPP.COM\n📲 להזמנות ופרטים – שלחו הודעת בוואטסאפ\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:32:09",
+    "filtered": "2026-09-27T09:33:19",
+    "unqualified": "2026-09-27T09:35:46"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

@@ -1294,7 +1294,125 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 97,
+      "seen": 30,
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-05-12",
+      "days_since_newest": 5,
+      "longest_running_days": 138,
+      "distinct_texts": 15,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          30
+        ]
+      ],
+      "videos": 22,
+      "landings": [
+        [
+          "onlys.co.il/beauty",
+          17
+        ],
+        [
+          "onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html",
+          2
+        ],
+        [
+          "onlys.co.il",
+          2
+        ],
+        [
+          "onlys.co.il/beauty/perfume/issey-miyake",
+          2
+        ],
+        [
+          "onlys.co.il/beauty/gift-box",
+          2
+        ],
+        [
+          "onlys.co.il/beauty/perfume/narciso-roudrigez",
+          2
+        ],
+        [
+          "onlys.co.il/beauty/last-chance/special-sale",
+          1
+        ],
+        [
+          "onlys.co.il/beauty/perfume/hugo-boss",
+          1
+        ]
+      ],
+      "landing_status": {
+        "onlys.co.il/beauty": "ok",
+        "onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html": "ok",
+        "onlys.co.il": "ok",
+        "onlys.co.il/beauty/perfume/issey-miyake": "ok",
+        "onlys.co.il/beauty/gift-box": "ok",
+        "onlys.co.il/beauty/last-chance/special-sale": "ok"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2026-05-12",
+          "cta": "SHOP_NOW",
+          "title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+          "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+          "landing": "https://www.onlys.co.il/beauty"
+        },
+        {
+          "start": "2026-06-24",
+          "cta": "SHOP_NOW",
+          "title": "Only's",
+          "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+          "landing": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html"
+        },
+        {
+          "start": "2026-06-23",
+          "cta": "SHOP_NOW",
+          "title": "Only's",
+          "body": "✿ הכי שווה להזמין מאונליז ✿\n♥מתנה על כל מותג \n♥מתנה על כל ההזמנה\n♥צבירת נקודות מועדון ומימוש כהנחות\n♥כפל מבצעים והטבות מועדון\n♥משלוח מהיר עד הדלת חינם מעל 249 ₪\n\nבכפוף לתקנון באתר",
+          "landing": "https://www.onlys.co.il/beauty/perfume/narciso-roudrigez/000000000000131534.html"
+        },
+        {
+          "start": "2026-06-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים שאהבתם עם הטבה שאסור לפספס🎁 \n 10% הנחה מאיתנו בקוד קופון ONLYYOU\nמתנות בכל רכישה ומשלוח מהיר חינם בקניה מעל 249 ₪ 🎁\n\nהנחה על היתרה | על המוצרים המשתתפים | בכפוף לתקנון באתר",
+          "landing": "https://onlys.co.il/?utm_source={{site_source_name}}&utm_medium=ads&utm_campaign=performance-dynamic&utm_content={{ad.id}}"
+        },
+        {
+          "start": "2026-06-29",
+          "cta": "SHOP_NOW",
+          "title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+          "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+          "landing": "https://www.onlys.co.il/beauty/perfume/issey-miyake"
+        },
+        {
+          "start": "2026-06-29",
+          "cta": "SHOP_NOW",
+          "title": "מותגי הביוטי המובילים בעולם מחכים לכם באתר",
+          "body": "ביוטי, סטייל וחוויה - במקום אחד 💫 ONLY'S\nמותגי הביוטי המובילים בעולם\nמתנה על כל קנייה 🎁\nמשלוח חינם מעל ₪249 🚚\nצוברים נקודות ומרוויחים יותר\n\nבכפוף לתקנון באתר",
+          "landing": "https://www.onlys.co.il/beauty/perfume/issey-miyake"
+        },
+        {
+          "start": "2026-08-18",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "ביוטי שיש רק ב-ONLY'S ✨\nמגוון מותגים מובילים באיפור, טיפוח ובישום, לצד מארזים מיוחדים שניתן למצוא רק אצלנו\nוגם: צוברים נקודות ומרוויחים יותר, משלוח חינם מעל 249 ₪ ומתנות בכל הזמנה 🎁",
+          "landing": "https://www.onlys.co.il/beauty/gift-box?cgid=PACKAGES-AND-GIFTS&prefn1=SC_isBundleDIY&prefv1=%D7%9E%D7%90%D7%A8%D7%96%D7%99%D7%9D+%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D"
+        },
+        {
+          "start": "2026-06-23",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "בואו ננסה ביחד בשמים חדשים ! כמובן שיש לנו ה נ ח ה על כולם מי שרוצה אשלח לך לינקים בפרטי 🤍 ויש פה כמה הפצצות !! #בושם #בשמים #המלצה #בושםלאישה #בושםלגבר הסרטון בשיתוף @onlyononlys",
+          "landing": "https://www.onlys.co.il/beauty"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

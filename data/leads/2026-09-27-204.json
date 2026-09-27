@@ -1,0 +1,777 @@
+{
+  "lead_id": "2026-09-27-204",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://kingdomofhalva.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/halvakingdom.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/halvakingdom/",
+      "source": "https://kingdomofhalva.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972505547255",
+      "source": "https://kingdomofhalva.co.il/about-2/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)",
+        "branches / warehouse"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "424047274398420",
+    "page_name": "ממלכת החלבה",
+    "active_ads_count": 16,
+    "search_keyword": "הזמנות בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "860626596593573",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718075897_998722269781932_7703606916032978945_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwdUL9WfvEMQ7kNvwG-xxfj&_nc_oc=Adr62it0dpHlZtgTRoJ0ejcOMtczLuZ1Wr7OushoTkFQG_bkmIDvP4Y70uJ6comIAHo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQJo8abzS1jpjSTLxls9k5-YkKuBerKkgGt-eOqNLQHlrg&oe=6ABEC7C4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/719027145_1617608229330669_481117851392328306_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dnLhBeEckysQ7kNvwFSPBg5&_nc_oc=AdoOHcBPtEHhWROxyKFOdVPKf6rWXqQO_3dLa6Ai1CtXeNJTgaKJ_iMM4FRvbFt1Dz0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQIa8cQvgPMJYbVIOoHinjhkpVx2-gqnI0QuBVowvfca_g&oe=6ABEB143",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718075897_998722269781932_7703606916032978945_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwdUL9WfvEMQ7kNvwG-xxfj&_nc_oc=Adr62it0dpHlZtgTRoJ0ejcOMtczLuZ1Wr7OushoTkFQG_bkmIDvP4Y70uJ6comIAHo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQJo8abzS1jpjSTLxls9k5-YkKuBerKkgGt-eOqNLQHlrg&oe=6ABEC7C4"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1780902000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=860626596593573"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 16,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 11885,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "860626596593573"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 11885,
+    "page_categories": [
+      "Grocery Store"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "899163212616716",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784185200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/749301247_4336344590029374_4556083127254892507_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VbGh85Gpgs8Q7kNvwGqehH6&_nc_oc=AdpJ4AZarhXlhUec7LmB4NjIzUC1_D18bKBbPcnzVpcTggM6QoWZ0OOp4di3Uioe1X4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJlZuWKnme4YznnGWdHSZn94w1WALCrtZAXpsGWaVIsWw&oe=6ABEB650",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/749355807_879611001429669_8415441205367239290_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XOmirD6D_n8Q7kNvwEIdAd9&_nc_oc=AdrM8atfx_TijoQz1geLfBbGQVEXk6wWpfBUy2jpXYZscH-qra6W2C3cdDLaoRbUI4s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJXC9kD3phYdRUVLKrJvJgaXL_EYwnoaBHD6ilokyt1kg&oe=6ABEB07B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=899163212616716"
+      },
+      {
+        "id": "860626596593573",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718075897_998722269781932_7703606916032978945_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwdUL9WfvEMQ7kNvwG-xxfj&_nc_oc=Adr62it0dpHlZtgTRoJ0ejcOMtczLuZ1Wr7OushoTkFQG_bkmIDvP4Y70uJ6comIAHo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJPAf8QROWyM92wqnXW1xTIe5n_bUk3LhY8AmwhlJzvjQ&oe=6ABEC7C4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/719027145_1617608229330669_481117851392328306_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dnLhBeEckysQ7kNvwFSPBg5&_nc_oc=AdoOHcBPtEHhWROxyKFOdVPKf6rWXqQO_3dLa6Ai1CtXeNJTgaKJ_iMM4FRvbFt1Dz0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQIFElP4HBVp_ezIxHg_pxpxHYsGgLBvHKOodjuDPfo6CQ&oe=6ABEB143",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718075897_998722269781932_7703606916032978945_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwdUL9WfvEMQ7kNvwG-xxfj&_nc_oc=Adr62it0dpHlZtgTRoJ0ejcOMtczLuZ1Wr7OushoTkFQG_bkmIDvP4Y70uJ6comIAHo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJPAf8QROWyM92wqnXW1xTIe5n_bUk3LhY8AmwhlJzvjQ&oe=6ABEC7C4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=860626596593573"
+      },
+      {
+        "id": "1616569933224999",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763244588_1424232402946481_4362144312353163564_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j1RE4RrpEdUQ7kNvwHbaoDz&_nc_oc=AdqE4F1kODfhUU4MBn6pcAckxqzrjY7eUrN_x5Ac38qaKG8IlzE69-Zc5-Gux-h-CZA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQI9xC5f9C8987ChsE8iT3z4Rim8MjFEHyFupazfYt1LUg&oe=6ABECD2C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/765652619_2122763162006268_4941991400847485965_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3mDRg3hwoQIQ7kNvwEQ46KY&_nc_oc=AdpnF5Wlt0wVE5t7UWSYqahwwUbV5QLplT72AATK-9lKI91dahjL6OvWpl1g3XB-INM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJtUpZRVaGjy7DjZaXqpiGRO8sf-40WkABW22_fu6drfQ&oe=6ABED103",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767130982_1022561874106737_5660856433777766750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wqF4rH-3vb8Q7kNvwHQyPkk&_nc_oc=AdonnAwSwLAo3Lrr1NdDQw5qG61a32J2zBfeMEaGwfs5RX3xhxB83SrQhfcY6wsZKS0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQLhQsgkjANKEVWURekGw4iSKvMLteQE9d_a6lTSQENLkA&oe=6ABECF73"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1616569933224999"
+      },
+      {
+        "id": "1578791016947079",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "לפתיחת כרטיס לקוח עסקי >>",
+        "body": "יש לכם חצי מטר פנוי בעסק? \nבמקום להשאיר אותו ריק, הפכו אותו למנוע רווח שעובד על אוטומט.\n\nהסטנד הממותג של \"ממלכת החלבה\" מנצל בצורה חכמה כל פינה פנויה בחנות ומגיע אליכם עמוס במוצרי פרימיום שהלקוחות כבר מחפשים (חלבה, טחינה ועוד).\n\nאפס התעסקות בתפעול, מקסימום רווח לכל מטר מרובע.\nפשוט מציבים - והמותג מוכר את עצמו.\n\nלחצו כאן והשאירו פרטים לקבלת הצעה משתלמת.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/763120116_2096966214227840_6158844346920990519_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QjmaBvVhltAQ7kNvwFFMzEj&_nc_oc=AdoWLy_pTGrL7AENU1bCIAh8JftBGHNW0GJ5v1juKJE-Y6egQgN49BbOvj0ZnnAosus&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJCzXGDFQwMBTGEU1tgow3KQ0CPQZttn4oumQA7b3BvWw&oe=6ABEC75E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNBLKu8c-SYE-hIXpSEup2V34YRqTgYOX1CpzyNeQ0U2c9fBfsu7l4hfrFoC_LsKeUgC1OgZwN6jfolPmtJ3FEGdmkLiCLedpOWlA4Yz2l0CQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PTZJP9uZ6qcQ7kNvwFd7ZT3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMjE5NjM3NTAwNjQzMjQsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e78b791d3594a99c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRDQ2NUNGOTc5QTk2RDM2QzMxRjRFNTc2MUQ1Nzk5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNBNEZBMEE3QzlCQ0ZCMTg3QjYwQTUwNUY3RUQ0Q0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIg4K009erBBUCKAJDMywXQDDu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLhLctx99AXrIFC2RnW3sWn0SHqv05Jk8qIkCFR2EwKhA&oe=6ABEC63A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1578791016947079"
+      },
+      {
+        "id": "27723339237368197",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "מחירון סיטונאי למלונות ומטבחים מקצועיים >>",
+        "body": "שפים ומנהלי רכש?\nהגיע הזמן להכניס למטבח שלכם\nאת החלבה והטחינה הטובות בישראל 👨‍🍳🔥\n\nממלכת החלבה מביאה למטבח המקצועי שלכם מוצרים באיכות הגבוהה ביותר: טחינה זכה שנטחנת באבני ריחיים עתיקות\nוחלבות גורמה מרהיבות לשולחנות האירוח, הבופה והקינוחים.\n\n• מענה מהיר ופתרונות אספקה למוסדות ומסעדות\n• מחירון סיטונאי תחרותי בהתאמה אישית\n\nלחצו עכשיו לשליחת הודעה ולקבלת המחירון הסיטונאי 👇",
+        "link_description": "מענה ישיר לשפים ומנהלי רכש - לחצו לשיחה ב-WhatsApp",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784617491_28064894826507122_1302266112635490359_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eWuzKeQqQwAQ7kNvwEfTay6&_nc_oc=AdquR3CSPOhmo8jm1nzbH78v8OjlXC8TkEw6wlJ-iKI4jy4Wt26-hlzZyR8hVtEWVok&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJM2h5T_motUBO4AQSDExLahNZ535Ej3dApl2YfGJROCg&oe=6ABEAF6B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27723339237368197"
+      },
+      {
+        "id": "1786049342819058",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+        "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "link_description": "",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811962478_1603341004757443_4545609875406846021_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bkC7lI0OyeQQ7kNvwF0Kg9G&_nc_oc=AdrZY0fPNfQZkzfnY84PJbeCyQ_SQ5nflsUspqz92QpCcKHCjS_2KxGu5V_d2wLndAo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQK4QBgVXtB2uD22AQu9Zv6Hdjd0nfKorlFMdKNdWGtttw&oe=6ABEBEE7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMG60_aPhFKfE-vGk7axvOXCthamJ4VsUkPp6f3VmF8N1yKVIa3RKLZ5eN0YEPXPPCRKUMIOSGvp_zD5F_Hz3rDQEGIe_H-PjgpligXx6H10w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mjcryvHTe_MQ7kNvwFKyeDQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjIxMjM0OTY0NzI1MjMsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2ffb3e0fa19c22ee&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRjREMTEwMDUxNUY1NEY5ODEzREY5Qjk2NzRCMDNCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDBDRjU3QTc5OERDQzUzMjNDREJFOTM0MDcxQjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW_6vdvdqGBRUCKAJDMywXQDEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJA_OtuPqXq-vUeC7f0c1em-2pVsxKzTWCk1GvI-VNzvQ&oe=6ABECBEE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1786049342819058"
+      },
+      {
+        "id": "1709886524473452",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+        "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "link_description": "",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812941194_1437123094944777_5758183586757120199_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YfBRV-omgOMQ7kNvwE2tPYM&_nc_oc=AdrblR4ID5owMIqP0Ff2bGuYh4M5DpFTEcxZYBr508JWHAbdOcc84Ly60ex8p9Ny914&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQLyHrN55F7Ip-MyXKcPznKaBetMSSEVWEnRJGtCA1Q83Q&oe=6ABE9A74",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMG60_aPhFKfE-vGk7axvOXCthamJ4VsUkPp6f3VmF8N1yKVIa3RKLZ5eN0YEPXPPCRKUMIOSGvp_zD5F_Hz3rDQEGIe_H-PjgpligXx6H10w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mjcryvHTe_MQ7kNvwFKyeDQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjIxMjM0OTY0NzI1MjMsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2ffb3e0fa19c22ee&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRjREMTEwMDUxNUY1NEY5ODEzREY5Qjk2NzRCMDNCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDBDRjU3QTc5OERDQzUzMjNDREJFOTM0MDcxQjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW_6vdvdqGBRUCKAJDMywXQDEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJA_OtuPqXq-vUeC7f0c1em-2pVsxKzTWCk1GvI-VNzvQ&oe=6ABECBEE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1709886524473452"
+      },
+      {
+        "id": "1460419922612556",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "ראיתם פעם חלבה פיסטוק נחתכת ככה? 💚",
+        "body": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "link_description": "",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813526408_27542925722048179_7942474379376849815_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=00GxdI95QdAQ7kNvwF6GhvH&_nc_oc=AdptnvP5uzA4bm9nAWGjDcyAlWywWiDoDbgg9et-WnnQ4a2_kmgiiAWZYzrTznr-Nsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQLjVwrhiJ9OWTcXNX42nxZdPDUUl1fv-Z0kOis9PR7dMg&oe=6ABEA4C8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMG60_aPhFKfE-vGk7axvOXCthamJ4VsUkPp6f3VmF8N1yKVIa3RKLZ5eN0YEPXPPCRKUMIOSGvp_zD5F_Hz3rDQEGIe_H-PjgpligXx6H10w.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mjcryvHTe_MQ7kNvwFKyeDQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjIxMjM0OTY0NzI1MjMsImFzc2V0X2FnZV9kYXlzIjoxOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2ffb3e0fa19c22ee&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRjREMTEwMDUxNUY1NEY5ODEzREY5Qjk2NzRCMDNCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDBDRjU3QTc5OERDQzUzMjNDREJFOTM0MDcxQjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW_6vdvdqGBRUCKAJDMywXQDEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJA_OtuPqXq-vUeC7f0c1em-2pVsxKzTWCk1GvI-VNzvQ&oe=6ABECBEE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1460419922612556"
+      },
+      {
+        "id": "1674938707536772",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "קונים 4 ומקבלים 1 במתנה! 🍯",
+        "body": "הטעם האותנטי של ממלכת החלבה\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו, ונהנים ממבצע משתלם במיוחד: קונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812729465_2147039552569585_142146433079037659_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-65-LRaBKmMQ7kNvwFlwvkh&_nc_oc=Adqw0PF8-mL0j_dhagUfQNg0tAFt0e-Q72T1f2A7e7lB4CfxGwnglYtsPho9cwP4AaQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQLLk_KjgKIQUbrWWB74i8IZANOKTRR-Fk2tgOhQkwU3ew&oe=6ABEBB21",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796276612_2900939016955822_4895174371824102677_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ahKCLi1ENisQ7kNvwGhgC-I&_nc_oc=Adp6KzE_3XdS9lAqUlI0FlVsjKNkqoKxaKskAnfsP3jQ2zHm1ntZmByZQx70m_Vt0hE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJYzNYJSo8sTXluPYJeGicxAwtgaWoTA56sTeGvJ_SwNw&oe=6ABEC10D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1674938707536772"
+      },
+      {
+        "id": "1069470522340886",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "קונים 4 ומקבלים 1 במתנה! 🍯",
+        "body": "הטעם האותנטי של ממלכת החלבה\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו\nונהנים ממבצע משתלם במיוחד:\nקונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812875479_2155793265000602_3325818426490546642_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=_yrVtnku9tUQ7kNvwEu7szM&_nc_oc=AdpYL1Tm_X2hd-ah-OsT0wjad73K1pRDS02NlKXcoYgkOTHXdKR_8g-bLrGVwJmWXFA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQLpUkWO-5u7d0wQztHZr_GZQ2eXs8NK-zqm8aggXgQKbw&oe=6ABE9DCE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/812755153_909504845286509_774676518840006156_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kL3-cZS6VvkQ7kNvwEeMuqg&_nc_oc=Adou1IjWPh5ezMVndnHrl2pKuwgtbKZOnGAhiRNRvICvIDMsxdoIzd0-RQUDSWcS0Kw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQID3zSspLZnj4F1-b2jgvHV7fxigdNZBR9ZUH8VlqGHCA&oe=6ABEBF59"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1069470522340886"
+      },
+      {
+        "id": "1047794718255793",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מחפשים אטרקציה מתוקה שהאורחים שלכם לא ישכחו? ✨\nבר החלבה של ממלכת החלבה מביא לאירוע שלכם חוויה מיוחדת עם מגוון חלבות איכותיות בטעמים מיוחדים!\nשילוב מושלם של עיצוב, טעם ומזכרת מתוקה שהאורחים ישמחו לקחת איתם הבייתה\nלפרטים נוספים שלחו לנו הודעה בוואטסאפ> 052-742-9901",
+        "link_description": "",
+        "landing_url": "https://instagram.com/halvakingdom",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796709592_1836091247555072_3534801206407519153_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_hvTYnexDj8Q7kNvwFHF6QH&_nc_oc=Adp5NRl7_8erOHPMHuxurrdWwyloi_yfchY-KkWa0CX_oTeSMdiTsA4LPnDKv_PfIvo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQK6qccNSgFVWUXcQ8nwAVLuQgNy-1RwL35BG8L3pD3R6Q&oe=6ABEABDF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMtFK0LWFP_SxL7CYyMzpubbPW4QgVmN4SYB3j-gTmnt3L8-F5l6D4gPjGFENZXpKwEWc5vUTYu5ABFz7MILNeWneZ5LMHgCVruR5uCVg.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=321aTmK_n48Q7kNvwG3fBlQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODM1MzgwMzkwNjI0NzkzNSwiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK0rZ008fJM4HQqHc1pS-A634ufeCZTCjymfIyW5kozPQ&oe=6ABEB154"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047794718255793"
+      },
+      {
+        "id": "1695473562119398",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "חנות מכולת"
+        ],
+        "ad_creative_link_title": "לפתיחת כרטיס לקוח עסקי >>",
+        "body": "יש לכם חצי מטר פנוי בעסק? \nבמקום להשאיר אותו ריק, הפכו אותו למנוע רווח שעובד על אוטומט.\n\nהסטנד הממותג של \"ממלכת החלבה\" מנצל בצורה חכמה כל פינה פנויה בחנות ומגיע אליכם עמוס במוצרי פרימיום שהלקוחות כבר מחפשים (חלבה, טחינה ועוד).\n\nאפס התעסקות בתפעול, מקסימום רווח לכל מטר מרובע.\nפשוט מציבים - והמותג מוכר את עצמו.\n\nלחצו כאן והשאירו פרטים לקבלת הצעה משתלמת.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/764938231_1458404662980974_8179222245038518597_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IZfEOufqkwgQ7kNvwEzhMVz&_nc_oc=AdqbhneYWEXKoZk-MsmSCG1RRAXOEdKLUFSoFIyiQ0xWdwmbzehQPL_bKlZWa5fwSjw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQIwoub0EDkL-xNRhMJ_EsRyMHyv2g00p5g6gsS0Q85ZSQ&oe=6ABEC6E1",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOcVUqNevTkxafB5RcnEnbLQ_Wcca-LmDCLOtwVlh1Nz7Z_ENJilmDmgttQjRHEuzCgm02vqQFWOXSDTkEsuxRq6dxUI4I6sp2Y-gYTYeXTuA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Bg2pT0HV1HIQ7kNvwGG5Tsv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg4NzAzNDk5NzQyMzYyNSwiYXNzZXRfYWdlX2RheXMiOjUyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d7c55fc0e75f3c67&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMzQ5REJBRDdGNTE3QkI2MkI2RjlBNkUxOEZDNjRBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E3NDQxOEU4NjIxMDg1MTM4Q0M0NjBDQTYwODE2Q0E0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS-OXenbCTAxUCKAJDMywXQDNMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJilu5H3KyRHEP-xQY2v-1BFopSkSK6tVI9JsQp3fep_Q&oe=6ABEC883"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1695473562119398"
+      },
+      {
+        "id": "1711323801000021",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "קונים 4 ומקבלים 1 במתנה! 🍯",
+        "body": "הטעם האותנטי של ממלכת החלב\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו,\n\nונהנים ממבצע משתלם במיוחד:\nקונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813525500_2175948899616629_8154087246881810329_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SfsOtRligzkQ7kNvwHDgp7Q&_nc_oc=Adqbn9kgvR5-i4n6tneCNhcrwlfEJDr0BsqIbCZDhHSQALQhNmAu-usLLMM87eUjpt4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJHiyw0g80anFv0_6J7IR3lkYoSVlurjHS-L1fDbXDHPQ&oe=6ABEC819",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813525500_2175948899616629_8154087246881810329_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SfsOtRligzkQ7kNvwHDgp7Q&_nc_oc=Adqbn9kgvR5-i4n6tneCNhcrwlfEJDr0BsqIbCZDhHSQALQhNmAu-usLLMM87eUjpt4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJHiyw0g80anFv0_6J7IR3lkYoSVlurjHS-L1fDbXDHPQ&oe=6ABEC819",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/813282274_900296246293391_6139735494727730741_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aZw03OFBEBcQ7kNvwFwbTXQ&_nc_oc=AdoE78J1-j4CbUMqiZJxvde7PXBg5xET9keZVwXvyhSdN7zSBo66X03QmzBDVMvJn44&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJOm07Pp_hF7UAwiKWAZA4GkuX_29HL_L0MF4FI1JfREw&oe=6ABEBCAC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1711323801000021"
+      },
+      {
+        "id": "1810471776655685",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "טעם מסורתי ועשיר שלא שוכחים | ממלכת החלבה",
+        "body": "הטעם האותנטי של חלבה איכותית,\nמיוצרת במלאכת מחשבת מחומרי הגלם הטובים ביותר.\n\nהיכנסו עכשיו והזמינו את הטעמים האהובים עליכם ישר עד הבית!",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812781740_935553849625297_4768062527693139627_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VMtgkSvMo9AQ7kNvwFkudYi&_nc_oc=Adozbyu76hR3tjB-cOmIM97SVmi9i-gSz5PD_AYbdveiDewj4OUdQ9tMAoL8sBB9Nfs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJOSpWCiDsVsPMuPIA2aCfZehJcECm9STuaUi33jww2Hw&oe=6ABEA721",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP2J0rInD4m4o8RYSUP9mcL30siZydWu0gM5tFQudut1UOxRAbD8vCnc24Mlca0sQDa87DnrADqGbTNRYJFNBTDX5zp_-_3h96Kj4tBqmIgVg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uytkJhMrTVcQ7kNvwFvGblJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODMyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDY0MTk0NzA2MjA0OTcsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cf6c89808bdffab2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRGMkYxQ0VFQUVFOEU5OUIwNkIwN0EwNjc2NEZCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENDYzM0UxQTNGMjAxRDhDQUEwMTdFQ0E4ODcwQ0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai3ZLm1_6HBhUCKAJDMywXQFhhR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&_nc_enc=QYSCmWGuXEVFN8g5jT3kRBdPR8VWxXeqh0_FJgaGsYAm9YOOOj_ZM7lmwr0xV95s4_c3iSIUzWOR3mTMLFdlHu1qroA0jCid4XXoEK-RCrWKZ_mqPu2yIaLHjDs&oh=00_AQJD4Ef2dkWDeC5RGgJJ3pSosIV0H27R5ZktM1vD9FLtcQ&oe=6ABEA341"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1810471776655685"
+      },
+      {
+        "id": "1031563206576950",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "טעם מסורתי ועשיר שלא שוכחים | ממלכת החלבה",
+        "body": "הטעם האותנטי של חלבה איכותית,\nמיוצרת במלאכת מחשבת מחומרי הגלם הטובים ביותר.\n\nהיכנסו עכשיו והזמינו את הטעמים האהובים עליכם ישר עד הבית!",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/794772823_1971204993574227_6305373774775823171_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aLAj4nYYxU4Q7kNvwG3sAsK&_nc_oc=Adp2tX3TKWF-EJ8x4tqmskpZs72rCdAXGv-_b32DgL7MNv8OK3w4hcHq5QnfdRVikac&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQJ7pX56DLdHdHfcC9o9ZsTtRelMheUskiMdA9MpTAPhDQ&oe=6ABEAEDF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP2J0rInD4m4o8RYSUP9mcL30siZydWu0gM5tFQudut1UOxRAbD8vCnc24Mlca0sQDa87DnrADqGbTNRYJFNBTDX5zp_-_3h96Kj4tBqmIgVg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uytkJhMrTVcQ7kNvwFvGblJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODMyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDY0MTk0NzA2MjA0OTcsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cf6c89808bdffab2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRGMkYxQ0VFQUVFOEU5OUIwNkIwN0EwNjc2NEZCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENDYzM0UxQTNGMjAxRDhDQUEwMTdFQ0E4ODcwQ0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai3ZLm1_6HBhUCKAJDMywXQFhhR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&_nc_enc=Qd6HUon0synVecRR3OBoHfLl4sUsFulf0Q8kgqSRvZGw_st1bntPeADi8ohbM-6jmZ73BE0sArN_Ue2qT_-naUmuZvpXMnEsiZkkaeNGl3Gy3M6YDA9j3JwsL1A&oh=00_AQJD4Ef2dkWDeC5RGgJJ3pSosIV0H27R5ZktM1vD9FLtcQ&oe=6ABEA341"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1031563206576950"
+      },
+      {
+        "id": "1495369905732777",
+        "page_id": "424047274398420",
+        "page_name": "ממלכת החלבה",
+        "page_url": "https://www.facebook.com/halvakingdom.co.il/",
+        "page_like_count": 11885,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "טעם מסורתי ועשיר שלא שוכחים | ממלכת החלבה",
+        "body": "הטעם האותנטי של חלבה איכותית,\nמיוצרת במלאכת מחשבת מחומרי הגלם הטובים ביותר.\n\nהיכנסו עכשיו והזמינו את הטעמים האהובים עליכם ישר עד הבית!",
+        "link_description": "משלוחים מהירים לכל הארץ",
+        "landing_url": "https://kingdomofhalva.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789542000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/812781777_2460262714503404_8959123483082086664_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qGRtn9lxK04Q7kNvwECm_KA&_nc_oc=AdpNiK2oRCfJ5DyJL4PMIh3Yp1dfLqK34AXdoSFHdeuKQ2FG486vjXSVeBSZ8vnc1LM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&oh=00_AQKXxCUlqlnOU4MS7YBjEqPgSFKecgYpNdlEepXbce-SyA&oe=6ABE9C27",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP2J0rInD4m4o8RYSUP9mcL30siZydWu0gM5tFQudut1UOxRAbD8vCnc24Mlca0sQDa87DnrADqGbTNRYJFNBTDX5zp_-_3h96Kj4tBqmIgVg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uytkJhMrTVcQ7kNvwFvGblJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODMyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDY0MTk0NzA2MjA0OTcsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjk3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cf6c89808bdffab2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRGMkYxQ0VFQUVFOEU5OUIwNkIwN0EwNjc2NEZCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENDYzM0UxQTNGMjAxRDhDQUEwMTdFQ0E4ODcwQ0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai3ZLm1_6HBhUCKAJDMywXQFhhR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=K1xaW8XvWIlYgyltbmqgOQ&_nc_ss=70289&_nc_zt=28&_nc_enc=QfjKOP7Gj5jvxMAT0bISmfVF6gPjDTElJGZNzhBhlzgBZscXNpeyQntn8Med3sv1MIktXI8fsubWqXEy-IvPtYqZ2BhFlmYqfk09cUsCGvRzn2eyFTpp3h_kLPU&oh=00_AQJD4Ef2dkWDeC5RGgJJ3pSosIV0H27R5ZktM1vD9FLtcQ&oe=6ABEA341"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1495369905732777"
+      },
+      {
+        "id": "860626596593573",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://instagram.com/halvakingdom"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "899163212616716",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "860626596593573",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1616569933224999",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1578791016947079",
+        "text": "יש לכם חצי מטר פנוי בעסק? \nבמקום להשאיר אותו ריק, הפכו אותו למנוע רווח שעובד על אוטומט.\n\nהסטנד הממותג של \"ממלכת החלבה\" מנצל בצורה חכמה כל פינה פנויה בחנות ומגיע אליכם עמוס במוצרי פרימיום שהלקוחות כבר מחפשים (חלבה, טחינה ועוד).\n\nאפס התעסקות בתפעול, מקסימום רווח לכל מטר מרובע.\nפשוט מציבים - והמותג מוכר את עצמו.\n\nלחצו כאן והשאירו פרטים לקבלת הצעה משתלמת.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27723339237368197",
+        "text": "שפים ומנהלי רכש?\nהגיע הזמן להכניס למטבח שלכם\nאת החלבה והטחינה הטובות בישראל 👨‍🍳🔥\n\nממלכת החלבה מביאה למטבח המקצועי שלכם מוצרים באיכות הגבוהה ביותר: טחינה זכה שנטחנת באבני ריחיים עתיקות\nוחלבות גורמה מרהיבות לשולחנות האירוח, הבופה והקינוחים.\n\n• מענה מהיר ופתרונות אספקה למוסדות ומסעדות\n• מחירון סיטונאי תחרותי בהתאמה אישית\n\nלחצו עכשיו לשליחת הודעה ולקבלת המחירון הסיטונאי 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1786049342819058",
+        "text": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1709886524473452",
+        "text": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1460419922612556",
+        "text": "מזהירים מראש: גורם לחשק עז למתוק!\n\nחלבה פיסטוק פרימיום עשירה מ-100% שומשום\nבאבני ריחיים עם פיסטוקים מובחרים.\n\nהטקסטורה והטעם שאי אפשר לשכוח.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1674938707536772",
+        "text": "הטעם האותנטי של ממלכת החלבה\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו, ונהנים ממבצע משתלם במיוחד: קונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1069470522340886",
+        "text": "הטעם האותנטי של ממלכת החלבה\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו\nונהנים ממבצע משתלם במיוחד:\nקונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1047794718255793",
+        "text": "מחפשים אטרקציה מתוקה שהאורחים שלכם לא ישכחו? ✨\nבר החלבה של ממלכת החלבה מביא לאירוע שלכם חוויה מיוחדת עם מגוון חלבות איכותיות בטעמים מיוחדים!\nשילוב מושלם של עיצוב, טעם ומזכרת מתוקה שהאורחים ישמחו לקחת איתם הבייתה\nלפרטים נוספים שלחו לנו הודעה בוואטסאפ> 052-742-9901",
+        "links": [
+          "https://instagram.com/halvakingdom"
+        ]
+      },
+      {
+        "ad_id": "1695473562119398",
+        "text": "יש לכם חצי מטר פנוי בעסק? \nבמקום להשאיר אותו ריק, הפכו אותו למנוע רווח שעובד על אוטומט.\n\nהסטנד הממותג של \"ממלכת החלבה\" מנצל בצורה חכמה כל פינה פנויה בחנות ומגיע אליכם עמוס במוצרי פרימיום שהלקוחות כבר מחפשים (חלבה, טחינה ועוד).\n\nאפס התעסקות בתפעול, מקסימום רווח לכל מטר מרובע.\nפשוט מציבים - והמותג מוכר את עצמו.\n\nלחצו כאן והשאירו פרטים לקבלת הצעה משתלמת.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1711323801000021",
+        "text": "הטעם האותנטי של ממלכת החלב\nעכשיו במבצע שאסור לפספס! 👑\n\nממלאים את העגלה בכל הטעמים האהובים\nשל החלבה והטחינה שלנו,\n\nונהנים ממבצע משתלם במיוחד:\nקונים 4 מוצרים ומקבלים את ה-5 במתנה! 🎁\n\nהזמינו עכשיו באתר וקבלו את הטעמים\nשל השוק ישר עד דלת הבית.",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1810471776655685",
+        "text": "הטעם האותנטי של חלבה איכותית,\nמיוצרת במלאכת מחשבת מחומרי הגלם הטובים ביותר.\n\nהיכנסו עכשיו והזמינו את הטעמים האהובים עליכם ישר עד הבית!",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1031563206576950",
+        "text": "הטעם האותנטי של חלבה איכותית,\nמיוצרת במלאכת מחשבת מחומרי הגלם הטובים ביותר.\n\nהיכנסו עכשיו והזמינו את הטעמים האהובים עליכם ישר עד הבית!",
+        "links": [
+          "https://kingdomofhalva.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://kingdomofhalva.co.il/"
+    ],
+    "freshness": {
+      "active_count": 16,
+      "active_seen": 16,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-06-08",
+      "days_since_newest": 5,
+      "stale": false,
+      "complete": true
+    }
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:32:09",
+    "filtered": "2026-09-27T09:32:55",
+    "qualified": "2026-09-27T09:34:19"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://kingdomofhalva.co.il/",
+      "https://kingdomofhalva.co.il/about-2/",
+      "https://kingdomofhalva.co.il/contact/",
+      "https://kingdomofhalva.co.il/product-category/packages/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

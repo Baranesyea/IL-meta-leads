@@ -1,0 +1,92 @@
+{
+  "lead_id": "2026-09-27-216",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/IDLUXRY/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "106920334788169",
+    "page_name": "דלוקשרי Dluxry",
+    "active_ads_count": 1,
+    "search_keyword": "שלחו וואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "2204088820433648",
+        "link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727207136_2019459866114982_8146173369556677314_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8RYSDlrv5pQQ7kNvwF5luab&_nc_oc=Adrztoz4Ug1V1bqGmY-b7mnOk3EMW-A-cwc5QTCoC26BA3rqiUzDLYgiFFxOf2-ayyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n2yVuv1SuWyBWJI8MuDkcg&_nc_ss=70289&oh=00_AQINqiXLS5IlrVqzbYjELrIi7ItFPTR-NLyXa4v30N9L3A&oe=6ABEC17C"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1781938800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2204088820433648"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2204088820433648"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1167,
+    "page_categories": [
+      "Shopping"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:36:27"
+  }
+}

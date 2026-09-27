@@ -1,0 +1,292 @@
+{
+  "lead_id": "2026-09-27-201",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61589322004743/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972537777855",
+      "source": "https://www.facebook.com/ads/library/?id=27868040909517024",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "1162334043619629",
+    "page_name": "מודלנט",
+    "active_ads_count": 4,
+    "search_keyword": "הזמנות בוואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "27868040909517024",
+        "link_title": "מחפשים אותך. תני להם למצוא.",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/781293030_2746928589322616_2534468237663051578_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYR1W67p9tEQ7kNvwFu1OKF&_nc_oc=AdpZnQ5ItynD7uFhH4EmPG7KMkBXjBV__JahOvGvqeTW8nyDUq_R9vWcbXV7QXqWLpU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WJR6cTNMnGpECLBpC8N8Lw&_nc_ss=70289&oh=00_AQJxEbrqq1yyruW08C0YFK_JsU-MgHTMQSue3LkrcqqZtg&oe=6ABEB5A2"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787382000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27868040909517024"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "קריירה",
+        "הרשמה"
+      ],
+      "product_hits": [
+        "ערכת",
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 21,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "27868040909517024"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 21,
+    "page_categories": [
+      "Design & Fashion"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "27868040909517024",
+        "page_id": "1162334043619629",
+        "page_name": "מודלנט",
+        "page_url": "https://www.facebook.com/61589322004743/",
+        "page_like_count": 21,
+        "page_categories": [
+          "Design & Fashion"
+        ],
+        "ad_creative_link_title": "מחפשים אותך. תני להם למצוא.",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "link_description": "יותר מ-1000 מודליסטיות",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787382000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/781293030_2746928589322616_2534468237663051578_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYR1W67p9tEQ7kNvwFu1OKF&_nc_oc=AdpZnQ5ItynD7uFhH4EmPG7KMkBXjBV__JahOvGvqeTW8nyDUq_R9vWcbXV7QXqWLpU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=C7SmhmJBWFdS26DvpwgUzQ&_nc_ss=70289&oh=00_AQIy8XOBsruOYxrWUwRNRTCNUgCS3C-Ptio0Cxna-_kJgA&oe=6ABEB5A2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27868040909517024"
+      },
+      {
+        "id": "1776857703341791",
+        "page_id": "1162334043619629",
+        "page_name": "מודלנט",
+        "page_url": "https://www.facebook.com/61589322004743/",
+        "page_like_count": 21,
+        "page_categories": [
+          "Design & Fashion"
+        ],
+        "ad_creative_link_title": "הבמה שלך מתחילה כאן",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "link_description": "הרשמה חינם",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787382000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780157382_29232793222976206_4866711182896541221_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7XHi22ITM0AQ7kNvwGiPHWx&_nc_oc=Adr07cotb7J2LypefimTIVeeEcxOaEnBMw6Tz1jUQ6zoTU9b_cGk-p0Y9xKQqknfT3A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=C7SmhmJBWFdS26DvpwgUzQ&_nc_ss=70289&oh=00_AQIAmh4Bx2u66x3YGHtGel48kt4TAZxAe9lrgeo6Oyu_XA&oe=6ABEB1AC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1776857703341791"
+      },
+      {
+        "id": "1088113427079158",
+        "page_id": "1162334043619629",
+        "page_name": "מודלנט",
+        "page_url": "https://www.facebook.com/61589322004743/",
+        "page_like_count": 21,
+        "page_categories": [
+          "Design & Fashion"
+        ],
+        "ad_creative_link_title": "הקריירה שלך מחכה כאן",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "link_description": "הרשמה חינם",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787382000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783486607_2209408706508405_1917536831010422670_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ccv0dMKv7w0Q7kNvwEKWabQ&_nc_oc=AdqsfNtADqal13WZRzHiZf29vphon1W-Fhbo7fWaefYh-dLpYPfDJjJr3Ladkb3Zv1E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=C7SmhmJBWFdS26DvpwgUzQ&_nc_ss=70289&oh=00_AQJ9COrYgst8MWzNLlxH7Ue8JUdwVtUJYWxfbER5YVmVrA&oe=6ABEBEC8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1088113427079158"
+      },
+      {
+        "id": "2526447534540712",
+        "page_id": "1162334043619629",
+        "page_name": "מודלנט",
+        "page_url": "https://www.facebook.com/61589322004743/",
+        "page_like_count": 21,
+        "page_categories": [
+          "Design & Fashion"
+        ],
+        "ad_creative_link_title": "את קובעת את המחיר",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "link_description": "הרשמה חינם",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787382000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784352942_1366937258420361_4403439873734493641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=seayYLKxnRIQ7kNvwG8UbWD&_nc_oc=Ado6KH4AKIPYdKnzRwby9voxQMclT-fH4xNApmJ7sFfeH4aQdGJ2XXG6luuf8utBkzM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=C7SmhmJBWFdS26DvpwgUzQ&_nc_ss=70289&oh=00_AQKbFG9FdXjc6R8TP0rrN6lM3Kp-8vkA9BnbhMA_MlOXoA&oe=6ABEBA1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2526447534540712"
+      },
+      {
+        "id": "27868040909517024",
+        "body": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "landing_url": "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "27868040909517024",
+        "text": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+        ]
+      },
+      {
+        "ad_id": "1776857703341791",
+        "text": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+        ]
+      },
+      {
+        "ad_id": "1088113427079158",
+        "text": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+        ]
+      },
+      {
+        "ad_id": "2526447534540712",
+        "text": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+        ]
+      },
+      {
+        "ad_id": "27868040909517024",
+        "text": "הקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.",
+        "links": [
+          "https://api.whatsapp.com/send?phone=972537777855&text=%D7%94%D7%99%D7%99%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20MODELNET%20%D7%95%D7%90%D7%A0%D7%99%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%9C%D7%A4%D7%AA%D7%95%D7%97%20%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C%20%D7%9E%D7%95%D7%93%D7%9C%D7%99%D7%A1%D7%98%D7%99%D7%AA%20%F0%9F%92%9C"
+        ]
+      },
+      {
+        "ad_id": "27868040909517024",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nמודלנט\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 27868040909517024\nהתחילה לפעול ב-22 באוג' 2026\nפלטפורמות\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nמודלנט\nממומן\nהקריירה שלך בדוגמנות מתחילה כאן.\n\nפותחים פרופיל מקצועי, מסמנים מתי פנויות, ומקבלים הזמנות בתשלום מהפקות, מותגים וצלמים. את קובעת את המחיר, והתשלום מסודר דרך המערכת.\n\nיותר מ-1000 מודליסטיות כבר איתנו. ההרשמה חינם - דברי איתנו בוואטסאפ.\nWHATSAPP\nמחפשים אותך. תני להם למצוא.\nיותר מ-1000 מודליסטיות\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:32:09",
+    "filtered": "2026-09-27T09:32:21",
+    "qualified": "2026-09-27T09:33:34"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972537777855",
+      "source": "https://www.facebook.com/ads/library/?id=27868040909517024"
+    },
+    "missing": []
+  }
+}

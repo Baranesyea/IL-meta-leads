@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-214",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/pinukshelyomhuledet/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "144380802389472",
+    "page_name": "פינוק של יום הולדת",
+    "active_ads_count": 1,
+    "search_keyword": "שלחו וואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1765447180767616",
+        "link_title": "יום הולדת מסיבת פולמון! לפרטים>",
+        "body": "יום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475288110_1847363942733831_7061779133294252518_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nDLNrhcK5B0Q7kNvwHRpslP&_nc_oc=Adp2_N_wg9Z6jm9E4OWePmulvrjaQ9bIyKPCUJd9YaE_fivw7k12CQDQZCVWpBPnHTA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n2yVuv1SuWyBWJI8MuDkcg&_nc_ss=70289&oh=00_AQIpxqpyCA-vjW9NiC27KgHIqxt6s_vnKe9qrVy210OtKw&oe=6ABEB2FA"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1750230000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1765447180767616"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1765447180767616"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 10078,
+    "page_categories": [
+      "Entertainment"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:36:27"
+  }
+}

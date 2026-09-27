@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-27-211",
+  "status": "rejected",
+  "reject_reason": "urgent service: 24/7",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/YDS.XCMG.Israel/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "747503859018031",
+    "page_name": "י.ד. שחקים - ציוד לתשתיות ולבניה",
+    "active_ads_count": 1,
+    "search_keyword": "שלחו וואטסאפ",
+    "sample_ads": [
+      {
+        "ad_id": "1075415495147884",
+        "link_title": "Chat with us",
+        "body": "🚜 רוצים לדעת מחיר? זה פשוט! 📲\nעכשיו ב-ווטסאפ, בלי שיחות, בלי המתנה – שלח הודעה וקבל הצעת מחיר במקום! 🔥 24/7\n\n🛠️ מחפש באגר, מחפרון, מיני מחפר, שופל או כל כלי צמ\"ה אחר?\n✅ קבל מחירים משתלמים\n✅ מידע מפורט והסברים על כל דגם\n✅ זמין 24/7 – הצעה אוטומטית במקום!\n\n📩 שלחו לנו הודעה עכשיו וקבלו הצעת מחיר משתלמת  מיידית! 🚀",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699273819_2067799737452745_409181286749369106_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g0D6WPU4VHwQ7kNvwGz6gwW&_nc_oc=Adorab_W7XfmspepwIjGdqkGrKTp9w6MXSKFrxGGGP2DF46rpHhiK6PL1j8RcpUKSpM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n2yVuv1SuWyBWJI8MuDkcg&_nc_ss=70289&oh=00_AQIOTl0XtDEkL_se8UGntf9x2p4XstFwBsW59fHAmD7YZw&oe=6ABEAB62",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/699200823_991207730262845_6705276701259072780_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lA_JR6WRUKcQ7kNvwEtFIrJ&_nc_oc=Adpedhjun2pPw-g1FL1lMsEHnR_FTx97fmnQgISa8sW4pdYkPRVKXDne8i5sizyZ1zY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=n2yVuv1SuWyBWJI8MuDkcg&_nc_ss=70289&oh=00_AQK41ZxfEamO7QXXr60WTM-YFVtNUNoM6elcSNBitKvJ2g&oe=6ABEB0EC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699158208_2422885991527285_127751557824335392_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gI5n6VsP8igQ7kNvwGzRieI&_nc_oc=AdqDgGuLB3sRAQZNbTBdUGt9_a5HPbsdxpnn6F6HIWWumXzdNtA5KLXTKQtasCmr_cI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=n2yVuv1SuWyBWJI8MuDkcg&_nc_ss=70289&oh=00_AQLZC6ha2ughWWnXsQ5nS_lvI6-LPNM-nC9h7UIj5Hi_Wg&oe=6ABECDC3"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1778828400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1075415495147884"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 5971,
+      "product_score": 0,
+      "urgent_hits": [
+        "24/7"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1075415495147884"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 5971,
+    "page_categories": [
+      "Tools/Equipment"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:36:27",
+    "rejected": "2026-09-27T09:36:59"
+  }
+}

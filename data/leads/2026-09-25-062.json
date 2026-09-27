@@ -532,7 +532,106 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 8,
+      "seen": 8,
+      "newest_start": "2026-06-28",
+      "oldest_start": "2026-04-01",
+      "days_since_newest": 91,
+      "longest_running_days": 179,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "ORDER_NOW",
+          7
+        ],
+        [
+          "SHOP_NOW",
+          1
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "aromatics.co.il/product-category/fragrance",
+          3
+        ],
+        [
+          "aromatics.co.il/fragrance_catalog",
+          3
+        ],
+        [
+          "aromatics.co.il/shop/fragrance/fragance_choose",
+          2
+        ]
+      ],
+      "landing_status": {
+        "aromatics.co.il/product-category/fragrance": "ok",
+        "aromatics.co.il/shop/fragrance/fragance_choose": "ok",
+        "aromatics.co.il/fragrance_catalog": "ok"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2026-05-07",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        },
+        {
+          "start": "2026-04-01",
+          "cta": "ORDER_NOW",
+          "title": "200 ש\"ח לליטר שמן ריח!",
+          "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+          "landing": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+        },
+        {
+          "start": "2026-04-02",
+          "cta": "SHOP_NOW",
+          "title": "200 ש\"ח לליטר שמן ריח!",
+          "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+          "landing": "https://aromatics.co.il/fragrance_catalog"
+        },
+        {
+          "start": "2026-04-01",
+          "cta": "ORDER_NOW",
+          "title": "200 ש\"ח לליטר שמן ריח!",
+          "body": "יש לכם מפיץ ריח חשמלי? מבחר ניחוחות ישירות מהיצרן במחיר הכי משתלם. מהיום מפסיקים לשלם ליבואנים שגוזרים עליכם קופון, ומתחילים ליהנות מריחות מדהימים במחיר הכי נמוך בשוק.",
+          "landing": "https://aromatics.co.il/shop/fragrance/fragance_choose/?attribute_%25d7%259b%25d7%259e%25d7%2595%25d7%25aa=1+%D7%9C%D7%99%D7%98%D7%A8"
+        },
+        {
+          "start": "2026-04-01",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://aromatics.co.il/fragrance_catalog"
+        },
+        {
+          "start": "2026-04-01",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://aromatics.co.il/fragrance_catalog"
+        },
+        {
+          "start": "2026-06-28",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        },
+        {
+          "start": "2026-06-28",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://aromatics.co.il/product-category/fragrance/?fbclid=IwAR2QaSsZ6J6pumtfIT5mRavDvkaRPUcscz7kWfzeL1roeVLFe-a7z4hdP7I"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

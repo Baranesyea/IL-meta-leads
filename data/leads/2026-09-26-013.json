@@ -1259,7 +1259,129 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 44,
+      "seen": 30,
+      "newest_start": "2026-02-27",
+      "oldest_start": "2023-02-23",
+      "days_since_newest": 212,
+      "longest_running_days": 1312,
+      "distinct_texts": 8,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          25
+        ],
+        [
+          "LEARN_MORE",
+          4
+        ],
+        [
+          "ORDER_NOW",
+          1
+        ]
+      ],
+      "videos": 15,
+      "landings": [
+        [
+          "sofacovers.co.il/%d7%a7%d7%98%d7%92%d7%95%d7%a8%d7%99%d7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%a1%d7%a4%d7%94",
+          11
+        ],
+        [
+          "sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה",
+          6
+        ],
+        [
+          "sofacovers.co.il/קטגוריה/כיסוי-לכיסא",
+          6
+        ],
+        [
+          "sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה",
+          4
+        ],
+        [
+          "sofacovers.co.il/%d7%a7%d7%98%d7%92%d7%95%d7%a8%d7%99%d7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%9b%d7%99%d7%a1%d7%90",
+          1
+        ],
+        [
+          "sofacovers.co.il",
+          1
+        ],
+        [
+          "sofacovers.co.il/קטגוריה/כיסוי-לספה/כיסוי-חצאית-לספה",
+          1
+        ]
+      ],
+      "landing_status": {
+        "sofacovers.co.il/%d7%a7%d7%98%d7%92%d7%95%d7%a8%d7%99%d7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%a1%d7%a4%d7%94": "ok",
+        "sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה": "ok",
+        "sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה": "ok",
+        "sofacovers.co.il/%d7%a7%d7%98%d7%92%d7%95%d7%a8%d7%99%d7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%9b%d7%99%d7%a1%d7%90": "ok",
+        "sofacovers.co.il": "ok",
+        "sofacovers.co.il/קטגוריה/כיסוי-לכיסא": "ok"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2025-04-03",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.sofacovers.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%a1%d7%a4%d7%94/"
+        },
+        {
+          "start": "2024-04-24",
+          "cta": "SHOP_NOW",
+          "title": "כיסוי מגן לספה",
+          "body": "נמאס לכם מלכלוכים על הספה? 🛋\nזה הכיסוי הכי חזק שלנו, עמיד במיוחד, גם כנגד נוזלים ובעלי חיים. 🐶\n\nלרכישה ←\nhttps://www.sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה/",
+          "landing": "https://www.sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה/"
+        },
+        {
+          "start": "2025-04-01",
+          "cta": "LEARN_MORE",
+          "title": "כיסויים לסלון במבצע 🎉",
+          "body": "כיסויים אלסטיים לסלון במגוון דגמים ומידות לכל סוגי הספות 🎉 חדשו את מראה הסלון והגנו על הספה שלכם בקלות  😎\n\n✔ מגנים מפני חיות מחמד, אבק, כתמים ונזולים. 🐶\n✔ עשויים מבד נושם, גמיש ואיכותי. 🥇\n✔ מתנקים בכביסה במהירות. ✨",
+          "landing": "https://www.sofacovers.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%a1%d7%a4%d7%94/"
+        },
+        {
+          "start": "2025-04-01",
+          "cta": "LEARN_MORE",
+          "title": "כיסויים לסלון במבצע 🎉",
+          "body": "כיסויים אלסטיים לסלון במגוון דגמים ומידות לכל סוגי הספות 🎉 חדשו את מראה הסלון והגנו על הספה שלכם בקלות  😎\n\n✔ מגנים מפני חיות מחמד, אבק, כתמים ונזולים. 🐶\n✔ עשויים מבד נושם, גמיש ואיכותי. 🥇\n✔ מתנקים בכביסה במהירות. ✨",
+          "landing": "https://www.sofacovers.co.il/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94/%d7%9b%d7%99%d7%a1%d7%95%d7%99-%d7%9c%d7%a1%d7%a4%d7%94/"
+        },
+        {
+          "start": "2023-02-23",
+          "cta": "SHOP_NOW",
+          "title": "משלוח לכל הארץ 🇮🇱",
+          "body": "הכיסויים החדשים הגיעו! ✨\nאחרי אלפי לקוחות מרוצים 💓 אנחנו ממש בטוחים בכיסויים שלנו 😎\nהיחידים שמאפשרים למדוד בבית ולהחזיר אם לא מתאים - החזר כספי מובטח 💸 (*ראו תקנון)\n\nלרכישה ← https://www.sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה/",
+          "landing": "https://www.sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה/"
+        },
+        {
+          "start": "2023-02-23",
+          "cta": "SHOP_NOW",
+          "title": "משלוח לכל הארץ 🇮🇱",
+          "body": "הכיסויים החדשים הגיעו! ✨\nאחרי אלפי לקוחות מרוצים 💓 אנחנו ממש בטוחים בכיסויים שלנו 😎\nהיחידים שמאפשרים למדוד בבית ולהחזיר אם לא מתאים - החזר כספי מובטח 💸 (*ראו תקנון)\n\nלרכישה ← https://www.sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה/",
+          "landing": "https://www.sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה/"
+        },
+        {
+          "start": "2023-02-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.sofacovers.co.il/קטגוריה/כיסוי-ריפוד-לספה/"
+        },
+        {
+          "start": "2024-05-28",
+          "cta": "SHOP_NOW",
+          "title": "כיסוי מגן לספה",
+          "body": "נמאס לכם מלכלוכים על הספה? 🛋\nזה הכיסוי הכי חזק שלנו, עמיד במיוחד, גם כנגד נוזלים ובעלי חיים. 🐶\n\nלרכישה ←\nhttps://www.sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה/",
+          "landing": "https://www.sofacovers.co.il/קטגוריה/כיסוי-לספה/tag-כיסוי-מגן-לספה/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
