@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-214",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "144380802389472",
     "page_name": "פינוק של יום הולדת",
-    "active_ads_count": 1,
+    "active_ads_count": 5,
     "search_keyword": "שלחו וואטסאפ",
     "sample_ads": [
       {
@@ -60,8 +60,22 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1765447180767616"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 5,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 10078,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1765447180767616"
     ],
@@ -73,7 +87,233 @@
     "page_categories": [
       "Entertainment"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1765447180767616",
+        "page_id": "144380802389472",
+        "page_name": "פינוק של יום הולדת",
+        "page_url": "https://www.facebook.com/pinukshelyomhuledet/",
+        "page_like_count": 10078,
+        "page_categories": [
+          "Entertainment"
+        ],
+        "ad_creative_link_title": "יום הולדת מסיבת פולמון! לפרטים>",
+        "body": "יום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇",
+        "link_description": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1750230000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475288110_1847363942733831_7061779133294252518_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nDLNrhcK5B0Q7kNvwEuPSzu&_nc_oc=AdrejRH6C2CdI7WCkzjyXhumBdGpsMmNaBukQJ6lKPKVj8VPmnRBDFmHQimrkn7Wnd0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQLMiU_TvHrAJlrEJI4SfJQQ7yfv6TZ56QvcpYHahLSEvg&oe=6ABEB2FA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1765447180767616"
+      },
+      {
+        "id": "693156493592199",
+        "page_id": "144380802389472",
+        "page_name": "פינוק של יום הולדת",
+        "page_url": "https://www.facebook.com/pinukshelyomhuledet/",
+        "page_like_count": 10078,
+        "page_categories": [
+          "Entertainment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הפעלה חדשה🍪הבת שלך אוהבת לאפות? יום הולדת חדשה עם סדנת אפייה מהממת, שעתיים של כייףףף לא נורמלי. לכל הפרטים שלחו הודעה👇 כל ילדה יוצאת עם מארז עוגיות מפנק וילדת יום ההולדת עם עוגייה ענקית🍪לא נשכח כמובן מוסיקת רקע עם מיטב הלהיטים וטקס עוגה משגע\nלפרטים, תמונות סרטונים והמלצות שלחו הודעה👇",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1750230000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/475578799_3507851099519226_8731937836658950671_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ULK3pvK_9DUQ7kNvwGBiVw-&_nc_oc=AdqR3aYM9N6KQYuty0raODsJskSNVEKOXT2seqlsvYtZbviPIUthyUfMn0o-xGMPnYY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQIua9rc8v3srH2cT9LunyDBJnncy3nAMtnKWe6oaebEOA&oe=6ABEA36F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/475773932_1138714997873916_3040336500008089979_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HiJoT0w4VZMQ7kNvwHAuBlA&_nc_oc=AdqQe8UUxPdUjSW49WQqyhWheA7Inmlrl-RghezLXjemGV2MQR2Po1ZOzhgwtUaNCOc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQLrk3BFuxTblTn3EU6dd8w6OqkFCelaspnVMALhjteVhQ&oe=6ABEABD2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/475502850_531905099218991_9017930251536073362_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rV0qAclbYkQQ7kNvwF4W9Da&_nc_oc=Adq8IPBzrkvL-2bLHmed8cs99lp8zm3PQt2JWb-3-EajRy9p90csLr3DEFuEgGd2kGI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQLZVWlcz-L9Pu_fmBqIrDKXlp5sDrrBNynAe0Gzgb7i8A&oe=6ABEA2B5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475478787_1140998477392300_6777287641882427229_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2aa-hEAXEu8Q7kNvwGBvCmh&_nc_oc=Adrzhzy0Up8TA7XipRHtoICQWG0KND8UsFHGcFPP86c9zgJvss1DF0gJPAq1xiOU03A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQIhXUNChih3Qih3t-egDKZ3iFzhhl9avBIJCAy4TrQJpQ&oe=6ABECA47",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475867198_9245944572134022_2350215114162999759_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wL_L9aELT0gQ7kNvwFGJ_Cq&_nc_oc=Adrr9wmUfM1AV4hYteKHETi7ye1Ymua_Lvra4_8cZIvtweLXFJo37V9NqKHOA-eV7Fc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQLMTAjTg3QlQiNJl-qaqHHoB2xn1WzUZvoILf3ipY_jUA&oe=6ABEBDC8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=693156493592199"
+      },
+      {
+        "id": "2327233024409605",
+        "page_id": "144380802389472",
+        "page_name": "פינוק של יום הולדת",
+        "page_url": "https://www.facebook.com/pinukshelyomhuledet/",
+        "page_like_count": 10078,
+        "page_categories": [
+          "Entertainment"
+        ],
+        "ad_creative_link_title": "יום הולדת K-POP מושלם!>",
+        "body": "חדש! יום הולדת בקונספט k-pop  מושלם!😍הטרנד הכי חם שיש ואנחנו כאן כדי להגשים לילד/ה שלכם את החלום❤️צוות פינוק של יום הולדת ידאג להכל! מהעיצוב ועד לאנרגיות שירימו את כולם באוויר. 🎤🌈\nאז לכל הפרטים שלחו לנו הודעה לוואסאפ וניפגש בארוע.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1768118400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615651510_2704520959894752_2021579465489410409_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Apkjg0oxTLIQ7kNvwF78HD0&_nc_oc=AdopN8xAK-PuFYfmnJM6H1EFhu_GIsjEknqD-rkMbDFIsOvzRKgZkiI_MhxxgvAHWLE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQI5un6v9AB7PWRlFfiTP8MruC9hwJW9pkbTzDEsKWEWMw&oe=6ABEAE9A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2327233024409605"
+      },
+      {
+        "id": "1015180071325342",
+        "page_id": "144380802389472",
+        "page_name": "פינוק של יום הולדת",
+        "page_url": "https://www.facebook.com/pinukshelyomhuledet/",
+        "page_like_count": 10078,
+        "page_categories": [
+          "בידור"
+        ],
+        "ad_creative_link_title": "ליום הולדת K-POP לחצו כאן>",
+        "body": "מסיבת קיי-פופ מהחלומות! 🎶✨\nאנרגיות שיא, קצב ממכר והמון סטייל בחגיגה שלא תשכחו.\nלכל הפרטים שלחו לנו הודעה👇\nפינוק של יום הולדת",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/759391714_1580352026821480_8282371269323095397_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=so2XC_lZnckQ7kNvwFhTmWf&_nc_oc=AdqYuQweXNjiAjBA-URx8OSPPrV9cUZDbQ70MUt8A5GfduHnellXzuUGaLKX7Aa4HKk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQIgPlSESD65o7evmvVZ3y5-QiQ3Sve73JM5J7E-VTrIlg&oe=6ABE9E12",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVUpXuVlv_aNMY3dlBT-vPpxFqY9Z_kWtXDbmOTN5THdKjSW8RFMMIZWGqeojLGFALNG1EMK4Oc425QLWXg6SJW5Lulg21uDcf7b996hYbew.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4z2nQs8Ftd0Q7kNvwHUOJhd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODI0NzgzNjYzNzg1MTMsImFzc2V0X2FnZV9kYXlzIjo1OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b0b3d3fb4102b4af&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDREQjNEM0UzQjBFMTRBQkE4MjU4RDM5MjA2OEQ5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdFNDQ2RDlEMDFEMDRGMEM4NDU1RjFBMEE3RENBQzgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaiqPbVkI39BRUCKAJDMywXQEPRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKc-zDa7muw6SPI_s0h6ODrFGMEFbAReeCDNheRcmcy4g&oe=6ABEC6A5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1015180071325342"
+      },
+      {
+        "id": "1390755022954550",
+        "page_id": "144380802389472",
+        "page_name": "פינוק של יום הולדת",
+        "page_url": "https://www.facebook.com/pinukshelyomhuledet/",
+        "page_like_count": 10078,
+        "page_categories": [
+          "Entertainment"
+        ],
+        "ad_creative_link_title": "ליום הולדת K-POP לחצו כאן>",
+        "body": "מסיבת קיי-פופ מהחלומות! 🎶✨\nאנרגיות שיא, קצב ממכר והמון סטייל בחגיגה שלא תשכחו.\nלכל הפרטים שלחו לנו הודעה👇\nפינוק של יום הולדת",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785394800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/759717028_1337186041729375_8237586520316770552_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jpj0iI0jd4gQ7kNvwEIXGhx&_nc_oc=Ado0Rv3Bm4haXlbpXja08CV1ZRnkGsxr0wMDRGALmpfPSVmMjZm9ZWfH-wWc3CnaPa0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&oh=00_AQKeA26N6AWxURymB6YXMwG7X94datkclIYD3qsqjSCp8Q&oe=6ABEA33F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVUpXuVlv_aNMY3dlBT-vPpxFqY9Z_kWtXDbmOTN5THdKjSW8RFMMIZWGqeojLGFALNG1EMK4Oc425QLWXg6SJW5Lulg21uDcf7b996hYbew.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4z2nQs8Ftd0Q7kNvwHUOJhd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODI0NzgzNjYzNzg1MTMsImFzc2V0X2FnZV9kYXlzIjo1OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b0b3d3fb4102b4af&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDREQjNEM0UzQjBFMTRBQkE4MjU4RDM5MjA2OEQ5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdFNDQ2RDlEMDFEMDRGMEM4NDU1RjFBMEE3RENBQzgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaiqPbVkI39BRUCKAJDMywXQEPRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=pBm9Qn60IqL9f-RF-SjXSQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKc-zDa7muw6SPI_s0h6ODrFGMEFbAReeCDNheRcmcy4g&oe=6ABEC6A5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1390755022954550"
+      },
+      {
+        "id": "1765447180767616",
+        "body": "יום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1765447180767616",
+        "text": "יום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "693156493592199",
+        "text": "הפעלה חדשה🍪הבת שלך אוהבת לאפות? יום הולדת חדשה עם סדנת אפייה מהממת, שעתיים של כייףףף לא נורמלי. לכל הפרטים שלחו הודעה👇 כל ילדה יוצאת עם מארז עוגיות מפנק וילדת יום ההולדת עם עוגייה ענקית🍪לא נשכח כמובן מוסיקת רקע עם מיטב הלהיטים וטקס עוגה משגע\nלפרטים, תמונות סרטונים והמלצות שלחו הודעה👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2327233024409605",
+        "text": "חדש! יום הולדת בקונספט k-pop  מושלם!😍הטרנד הכי חם שיש ואנחנו כאן כדי להגשים לילד/ה שלכם את החלום❤️צוות פינוק של יום הולדת ידאג להכל! מהעיצוב ועד לאנרגיות שירימו את כולם באוויר. 🎤🌈\nאז לכל הפרטים שלחו לנו הודעה לוואסאפ וניפגש בארוע.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1015180071325342",
+        "text": "מסיבת קיי-פופ מהחלומות! 🎶✨\nאנרגיות שיא, קצב ממכר והמון סטייל בחגיגה שלא תשכחו.\nלכל הפרטים שלחו לנו הודעה👇\nפינוק של יום הולדת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1390755022954550",
+        "text": "מסיבת קיי-פופ מהחלומות! 🎶✨\nאנרגיות שיא, קצב ממכר והמון סטייל בחגיגה שלא תשכחו.\nלכל הפרטים שלחו לנו הודעה👇\nפינוק של יום הולדת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1765447180767616",
+        "text": "יום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1765447180767616",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nפינוק של יום הולדת\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1765447180767616\nהתחילה לפעול ב-18 ביוני 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nפינוק של יום הולדת\nממומן\nיום הולדת  מסיבת פול מון  🎆 FullMoon 🎆 המסיבה הכי מ.ט.רי.פ.ה וזוהרת שיש! לפרטים ועלויות שלחו הודעה לוואטסאפ👇 מסיבה מלאה בקצב וצבעים זוהרים וחגיגה של הפתעות...וכמובן, תפאורה שתהפנט ותרתק את הילדים . אז למה מחכים?שלחו לנו וואטסאפ לקבלת כל הפרטים 👇\nWHATSAPP\nיום הולדת מסיבת פולמון! לפרטים>\nWhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -86,6 +326,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:36:27"
+    "discovered": "2026-09-27T09:36:27",
+    "filtered": "2026-09-27T09:37:33",
+    "unqualified": "2026-09-27T09:40:23"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-216",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "domain zitmaxx.nl already in DB",
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://zitmaxx.nl/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "106920334788169",
     "page_name": "דלוקשרי Dluxry",
-    "active_ads_count": 1,
+    "active_ads_count": 31,
     "search_keyword": "שלחו וואטסאפ",
     "sample_ads": [
       {
@@ -61,8 +61,29 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2204088820433648"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "ייעוץ"
+      ],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "סט",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 31,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1167,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2204088820433648"
     ],
@@ -74,7 +95,1211 @@
     "page_categories": [
       "Shopping"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "2204088820433648",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727207136_2019459866114982_8146173369556677314_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8RYSDlrv5pQQ7kNvwG59WGd&_nc_oc=AdqZiO-fFUmqlsfSycSR6j5GgMHavYDambrJ5Pg4es36Xh23J_NWVhiThKc9pVgf0Lo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKaQzCuTEGX8zUJ15BIqMxBy0zpBb2HPBBsaP08WV2ruQ&oe=6ABEC17C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2204088820433648"
+      },
+      {
+        "id": "27395674673408001",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747695719_1066146249399297_7714187452991259503_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bFnhyYmnY3IQ7kNvwFN8e5Y&_nc_oc=AdqcacahzwnLTFm-TAJAhCXtV-8REiADgxLewf2Wmm3nVwOfHFr05YZuyKyj4albB3c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJ8Ze92nT_L2niFiKwWHPe9PRPpOwI9jh2vWrydhEma5w&oe=6ABEC6AD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27395674673408001"
+      },
+      {
+        "id": "1344975233755621",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\n🛡️דלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/748665521_26999841019694834_5393436031174260517_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LNRHWdN14aIQ7kNvwEdmWul&_nc_oc=AdoSGzosqG7kW83M5mpA1pktxA_Gm7BvdEEC48Gzt-7vg75tslcuTMledGQ0AcqkhDY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKkzO4Jebx8SJGA56ct6r3E04bfp0P-3LiHM56Z_fnBRw&oe=6ABEB017",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP3BImp6L6-ZyBeAnzTuyCTiCTZKxuGXjHX8XVLTdPsdeHSwtagwC_VgOoXobhO6XNmFPkcp8IK6zM0ki78sRD-TbVOjaASeQ4Qjf_cHrU5XA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=v1y84Boi1H0Q7kNvwF7p_25&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5ODg1NDY4OTkxMzc2MCwiYXNzZXRfYWdlX2RheXMiOjk5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=db2998f4bb0c8804&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDRBNzEwOTg5RjQwM0Q4RUI2NzU3MzJDMTZDMUE4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDBDQTQ5RThCQ0JGMzJFODRGQjc1MTVFQzM0OEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA7vmnneCYAxUCKAJDMywXQDLdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQInaaM_7U8uJEktFHTGtwzmPmWHHoz9dQMruDKydijD9A&oe=6ABED0B7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1344975233755621"
+      },
+      {
+        "id": "1511217637112869",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\n🛡️דלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724533951_1742440017200381_8552695291673830191_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CLM3Xsz4CjYQ7kNvwECtsFx&_nc_oc=AdpnBJ7j-ZUb6LNpBXp_NWReKWbWLAjbEcwLzCuIMCv-jT5JIror1WCn1JqaDrCj2kA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJTN6lAsvzStoNm3ak6P5EfUhNwjZYpbvMJfScfPCztfQ&oe=6ABED220",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP3BImp6L6-ZyBeAnzTuyCTiCTZKxuGXjHX8XVLTdPsdeHSwtagwC_VgOoXobhO6XNmFPkcp8IK6zM0ki78sRD-TbVOjaASeQ4Qjf_cHrU5XA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=v1y84Boi1H0Q7kNvwF7p_25&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5ODg1NDY4OTkxMzc2MCwiYXNzZXRfYWdlX2RheXMiOjk5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=db2998f4bb0c8804&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDRBNzEwOTg5RjQwM0Q4RUI2NzU3MzJDMTZDMUE4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY3NDBDQTQ5RThCQ0JGMzJFODRGQjc1MTVFQzM0OEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA7vmnneCYAxUCKAJDMywXQDLdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQInaaM_7U8uJEktFHTGtwzmPmWHHoz9dQMruDKydijD9A&oe=6ABED0B7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1511217637112869"
+      },
+      {
+        "id": "1681308943312229",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "דלוקשרי Dluxry",
+        "body": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "אל תתפשרו על הגימור, דברו איתנו",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725743016_1025198706923881_1941811946091632545_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g9ytJWAERckQ7kNvwGcAZXp&_nc_oc=Adp95U1ltb3eH3YEdyZiMdFO1xt_US2_2C9ofXWOugawhdhUVuohEUR0fZrJfIub0YE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKt8RG_R1p7SquTKl9YW8pCc8Ky7kHVRXHoZnAv5PCSqw&oe=6ABEB92B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725716131_993950330105210_4694859500222666679_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2dpTqmscy90Q7kNvwHUz1qZ&_nc_oc=AdrJYdCdlPLCjoLyvp-1PcH7_sA3URCATpbqeN3JnqY7aj2wmZlI0pb2lT5yhI_-kDQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKoupymntQbVLDXPdAwMO-Cl4kob7GXZ6sF64y-6gaBgQ&oe=6ABEA451",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725361605_1316350486800177_1909792245043538750_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yG5_ZGEYuGEQ7kNvwER133d&_nc_oc=Adp2P6AI7vfy8kuwjqIG4AVb01oeTc__nNOU0AI6-K_ycwtjIApJCNys0TBmB9cymcU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJ2d3moj1NFvWHQ-6-YzjCpHGVT9zKS7_VmBotEVA96JQ&oe=6ABEADC4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725626816_986780567394185_3191311635456557658_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EQx2N6geoOUQ7kNvwGz9H0I&_nc_oc=AdqXNihSxSbJAHDpb0K6XPNkeo75UvZ9znNZAHSCHDg34d7YEafKw2VFF3HXwvrGMBU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLQyX7SB66XfQufSm-3wayTGPQQ6YY8cBH3g7kQ_GL0FA&oe=6ABEADF9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725716125_2088575195025392_9167456306716655606_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vwUzs8a4Z_oQ7kNvwHLgejV&_nc_oc=AdpfNPPm3BY_p4nj0QWf4UlBldgfzMmwQq2Sji0ZN7LYefhdLHkjWfULPJIIjO4epJM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKQkV6EB6u5hYo4gjxgEO1a7KPWYT1XUmoRnhc6wSDI0g&oe=6ABEAC68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725861489_947500188302910_8145809659625323836_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x_0P0v-gddAQ7kNvwFBs3QL&_nc_oc=AdrjzNi0ZiMymwVR2UcwUjwEIeZ48yVthKweyMMi0VNqz-gxFSPsKjMm_s2xDpyWpYU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLmweB2EF1TI0WUULzciEyOTcLBwVtX0dBdzQ_6UQlSRA&oe=6ABECC53",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725793155_1337141277746194_2253281905070196623_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q1trjstnbicQ7kNvwEOsiEr&_nc_oc=AdoKC_LNAcT6-RDXBR5MhUEbX03s72enC06je-hE7Z82OB8h3NbGSvOM9HTzyowxWzo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKZLRr01MugPI2K_mIrm77a-ufcQcZ6cPGWNQev6qS_lQ&oe=6ABEC6CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725605593_1567569161556307_5399383825349449022_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J8P9ZbZ99I0Q7kNvwHiuD4n&_nc_oc=AdpSNWG4QUkDJCy4PdSEiqCPGc5YgZQt_FpIk-cHCqNW22bRc1LBVxhNu8f3dBTtJms&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJl-cEtOy83YKRkYjETk7RKHWojHgUDSqD7xtu0oeWmIA&oe=6ABECE8D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725678317_1358325056227754_3304751504942679448_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9do0cqyNXqwQ7kNvwFtK6mw&_nc_oc=AdoOmbVvnYPfV231DAhaf0qzRfp-4RVutofq0hhoORXkQRBHRyAtyeQn8XNiZS8GZOw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIEeD9X61cMfA1jwufLgNf_njjDXA1azxVjF2z1v3eGnA&oe=6ABEAE2D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725803137_967157743050548_2011387308286631307_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ysAXxFhBuuMQ7kNvwEW4wH2&_nc_oc=AdruHE_EJqxQPdEjUtDDPEjQS-u-khkzanllkZQLfDd7njfrc5OqZCo8hTmyqJIMKLE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJ9lGKJ6eQo-xF_LY4SjRKx-wsF6GszkVoSwoiwjQlLJg&oe=6ABEC203"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1681308943312229"
+      },
+      {
+        "id": "1559823002411924",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726495142_1486875762913885_4257205203317358180_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DshUO1qAe-0Q7kNvwFogQd9&_nc_oc=Adqi8v4_WAiojnitCymE3OI7IqfphTUkkcmHU6qTBIVCbBzFcjAvknbYNR77c5ZbzCw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQL7aYaA5pkk0ao7RiKyw8AfeufCpgLDAEYxn9f6oJwz4Q&oe=6ABEAD1D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNloO2g7dObSnJmGmyyJFKVFAiHsnL-w-46OabRwxb0wMIxp4gDfoXMXGgUW7ZCMickO97b2aEYPYSBsDZE4ON2zvnI1iK_wCnr3KYqfsJu_g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tYWRhy0gAf8Q7kNvwEvIz-C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0NDQwNjgxNTkxNjM0MzQsImFzc2V0X2FnZV9kYXlzIjoxMDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bc339a813fa58f18&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQyMjE0NUYzRjYxNTEwOTNFMUExMzNBNzUxMzU4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc1NDQ3NzNBRkFFMTUzRjhFNTdBQzE1OUQyRkM4Njk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUsOD_5_bkDxUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQKRSbUJzzu-HKMzxCKEoGMrpNNQSINkbuxY8LCaWOX3tg&oe=6ABEA751"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1559823002411924"
+      },
+      {
+        "id": "1018354990979508",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746264206_2040070723278224_7285478084027294094_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7Griz6klyTIQ7kNvwEF6jjs&_nc_oc=AdrDtSY5_YRdfQoqv8lsrqSblqsA3B5qMqwTohC0TBjRvrTu8Cro1aBFABgfoV3SSPc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKKM4WrFiX5zVqUsBSh5OxAystlA7Ib95Yc5M8G4mdV6w&oe=6ABEB18A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNloO2g7dObSnJmGmyyJFKVFAiHsnL-w-46OabRwxb0wMIxp4gDfoXMXGgUW7ZCMickO97b2aEYPYSBsDZE4ON2zvnI1iK_wCnr3KYqfsJu_g.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tYWRhy0gAf8Q7kNvwEvIz-C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0NDQwNjgxNTkxNjM0MzQsImFzc2V0X2FnZV9kYXlzIjoxMDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bc339a813fa58f18&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTQyMjE0NUYzRjYxNTEwOTNFMUExMzNBNzUxMzU4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc1NDQ3NzNBRkFFMTUzRjhFNTdBQzE1OUQyRkM4Njk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUsOD_5_bkDxUCKAJDMywXQExu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQKRSbUJzzu-HKMzxCKEoGMrpNNQSINkbuxY8LCaWOX3tg&oe=6ABEA751"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1018354990979508"
+      },
+      {
+        "id": "1550040513341857",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784358000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749355726_1355556406722243_4323873477775631897_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y5zz3mcZR1UQ7kNvwEN_0VO&_nc_oc=AdpugUbTAR_h928v9W0aD2Ur2QrkbYsXThVzOHd89DGFx8_W-32LE4YZ10YzvZQhFdk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJk_dFa1CPXtfF_85qS0u3bJae-SyIHtyEdxHtbp687Eg&oe=6ABEC90D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1550040513341857"
+      },
+      {
+        "id": "1701648934211776",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1782370800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731131700_27446817098312444_4947222007684108371_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bte06noZZUsQ7kNvwE1XZZl&_nc_oc=AdpZx5OKzJI3K5P6zMPlw-dfxu6tXFrKM3k5aZPPhuevN5NjlSsxBpZXxHlloxpzDuo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIzA4aaYqv_6wjdnETzbUXrzuS6SqeRXNDMipP_nrFbOw&oe=6ABEAF53"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1701648934211776"
+      },
+      {
+        "id": "1034525112923254",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מטבח חוץ יוקרתי",
+        "body": "🔥 מבצע עד סוכות או עד גמר המלאי !\n\n✨ מטבח חוץ שנראה כמו יצירה מופת אדריכלית ומעניק חוויית אירוח מושלמת.\n\nקולקציית DALI SKYLIGHT משלבת עיצוב יוקרתי, מערכות מתקדמות ואבזור עשיר בתוך יחידה אחת מרשימה.\n\nלבחירתכם דגמים עם דלת חשמלית שהופכת לפרגולה מוארת ודגמים עם תריס גלילה אלגנטי.\n\nכל מטבח כולל:\n🔥 גריל BBQ משולב לגז, גחלים ופלאנצ'ה\n 💨 קולט אדים ועשן מובנה\n ❄️ מקרר\n 💧 כיור ומשטח עבודה\n 💡 תאורה משולבת\n 🔊 זוג רמקולים מובנים בחיבור Bluetooth\n 🗄️ ארונות אלומיניום ופתרונות אחסון חכמים\n\nמגוון עיצובים, מידות ושילובים מאפשר ליצור בחצר מוקד אירוח מרשים, מוקפד ומאובזר עד הפרט האחרון.\n\nרוצים להכיר את קולקציית DALI SKYLIGHT ולקבל מידע על הדגמים הזמינים? \n\nצרו איתנו קשר:\n📞 טלפון: 055-5504000\n 🌐 אתר: dluxry.com",
+        "link_description": "עיצוב יוקרתי ואבזור מלא ביחידה אחת",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813582634_1538712251630507_7130317142340230131_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wpc0CW-CKs0Q7kNvwHDJKbB&_nc_oc=AdrpTEk_SpJixnS8jxFUoFgFoR9PgjE1OdlWZpXSiO-jX9BiSzSGFcagzH0QhsNwBq0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLy3gyCz6tx925K8RJrNb6WQsKzw22lmFN9dVZirtWAlA&oe=6ABEADF1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1034525112923254"
+      },
+      {
+        "id": "1770384724255286",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "דלוקשרי Dluxry",
+        "body": "⚡ מבצע עד סוכות או עד גמר המלאי!\n\nהופכים את החצר למתחם אירוח שלם עם מבחר מוצרים לבישול ולאירוח בחוץ 🏡\n\n• מטבחי חוץ מתקפלים\n• מטבחי חוץ מודולריים מאלומיניום\n• מטבחי חוץ מודולריים מנירוסטה 304\n• טאבון גז 16 אינץ׳ 🍕\n\nסוכות כבר בפתח, המבצע מסתיים בעוד מספר ימים והכמות מוגבלת ⏳\n\nרוצים לקבל פרטים ומחירים? לחצו על כפתור ה־WhatsApp ודברו איתנו עכשיו 💬\n\n📞 טלפון: 055-5504000\n 🌐 אתר: dluxry.com",
+        "link_description": "המורכב משלוש יחידות עבודה נפרדות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818291413_940710185251138_8178585846046252672_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DDKSs_e3y-UQ7kNvwHobqZE&_nc_oc=AdrP98gO1laMC9ah2VaQHmdZMECT0LphjFkK_8kewL0TqdoG3Me-bvQa7GPKMzbxjcQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJVkCF1ZcQa70tKqWYam9R0QbTlv0xNcKoWRjsOPA4PGQ&oe=6ABEA4CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815335416_1068735192748791_6248782323128007081_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ws0PF7YA69YQ7kNvwGb7fVF&_nc_oc=AdpNnkAz0j5KsBJy3MUdo6GmJzCtN47U1HMX-xoVfMSh32B8hLrhFy4OqG_zWvW5vCo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQI29lPhc1yLXgO4jgGn8Ui0H2fVVPVAFBKS43xC54qp2w&oe=6ABEACCE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818366375_1058648407008281_4897110985462369267_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nThvfrwH0v4Q7kNvwE8t-eE&_nc_oc=Adovu7j3vuPGl_Kp0pAVXRVDPok13cD1JOVzh0PLh2h07CYFoNFIiWpaDv2ArU0NDWU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIfm6GsV3zoIBDIULeRBachnn0y4SZ7THIRaz7-jk2xfA&oe=6ABEAA75",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818016145_1636813501126770_6094977179239669468_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fqqUysxQp9QQ7kNvwGGRcJG&_nc_oc=AdpFjRjqHw5koOiPn1ssBJULIgtcTuob8CH0xMRJbssdwOi5yU99DDPpBnBqIfm3Ueo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKmNlUxXVBGHELGVfco8mf50duTveAVujIxclflekK5pw&oe=6ABEBA68",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/815250200_1099606089201669_2266938267533194026_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r47nMNHhlS4Q7kNvwGgUZ2S&_nc_oc=AdqwhZPIX-i_zqNBHm-UpnKSQgvIrtE6DWQgv-zSJbQjovbaKZQBHqckawGT9yjUKl0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJaWYFNUKAgzvFJp9i2K0FNUbGLs6DDwz7QMLa5Fge6MQ&oe=6ABEADC5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800066065_2207097519860038_9027002695304304348_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eZuPQ1-mq4EQ7kNvwGF8q1g&_nc_oc=AdrqbZxdkZxEq32_T20A0_0Rpp_BMz9sXQixJn98sdWh6cHNgZL8s-z3F_LcISd4lFE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJkNyHvIQS6bL4iBLHGKYaWuesFfsYQOLdDXYIErQswqw&oe=6ABEB58D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799278303_4571283809784307_8551184432706650180_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TZ2LzUez-1MQ7kNvwESlWcq&_nc_oc=Adqw8PEYsZqv65zp_eghXC43diK2EIKe48t_2MDUszJAElAgjLJaBMPMgtoOOK0U1R4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKmt_1QTaJjW_L7okXpcC0g0DvHufTZtuoIad5rPIWZtQ&oe=6ABEAA31",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/816164079_1629182202247339_5863419485642888163_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M9lpGKa-PlwQ7kNvwFV7D9n&_nc_oc=AdrA-D4Ir2ApeAMdC90r1Z2THS0ju8grMlmUaOR0425mNS7kv4MejhWVM5mwxWrPgnI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIqCqNqaCuYYInpC7zgVeTpbJbBkkjtnshGYYDmI0fa_w&oe=6ABECD81",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797273663_834902949671982_1069323569366958943_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pIyeleN6BwIQ7kNvwHdvz6X&_nc_oc=AdodeunEFUHyYMNy7XyHcXjB2WUUtcSdB6aMrSfKA6vq3OIJOURL7nbrWxI6LIVVgHA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIn9epClmL8moqVKLyrlhabr3KRQz6Ojgm-yJFZvUUGfA&oe=6ABEB02D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/814998774_1740018343893991_1065207386628155390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5s_X3vmafAAQ7kNvwHoI9Rn&_nc_oc=AdpQAEsAvMG3JQjV058jaUir2X-q8OpoaFdIM7cRlGY61jnGyo1pgNuyS17tDCrdg1E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIBNqdpP1Kuw50QIa9vuc7KRvuwB_D6tdI4t7IVSrVAXg&oe=6ABE9B09"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1770384724255286"
+      },
+      {
+        "id": "2093570557898089",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747978194_2695006634235148_3922937235968543939_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jw7lbWPu2mQQ7kNvwHdbYgs&_nc_oc=AdqCMxFeFAToLN4HegvupOOLBIKJPYEtD602Fv69GTNKnO0PARhV6QXR0cVCApej4bc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLMfkNjFMfQ-6QQ0Athqd03kU-HtPpvCvg7QNEg3UcoHw&oe=6ABEC68D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNcFg1IjX4XNhEuI1P9V5y48pL6x_Qvi4Lo5EB3kBWnrHA0Esm06mQL_pgy0DeNDrChoEORM6IRD5ZUrxRcnhVHYZpcyWtywRXJL8Nw_tghwA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZkkB2_BSntgQ7kNvwGRNQf5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4NTc3ODQxNDQzNDY3NCwiYXNzZXRfYWdlX2RheXMiOjk5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fb9e6c5a16522a63&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQTRBRDcwMDRENDE3Mzg0NDc4NDZEQTU4QTE4MkZCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNDVEQjkzN0UzRTYyNDkwNTQzMTJDOTk5QzUzNTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk5cHD7aPAAxUCKAJDMywXQDB3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQJrEw63AzUzjLqAb4RhS39h5BfQV0pMcLRxRa5MU0psjw&oe=6ABEA77C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2093570557898089"
+      },
+      {
+        "id": "1400888001858475",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726564584_852724884270468_8057450434736186593_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZDsLtzyjnr4Q7kNvwGoBUL0&_nc_oc=AdrZiDayK9NQEkhClmSyUgKI4rWt1JWhftqiI8S8rCCFxG304vFkizuJdDdeY-UIweU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQK6BToZXM27Qjz8EUt3goonIuOcyIf7Af4o5OABNMTu9Q&oe=6ABEB032",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNcFg1IjX4XNhEuI1P9V5y48pL6x_Qvi4Lo5EB3kBWnrHA0Esm06mQL_pgy0DeNDrChoEORM6IRD5ZUrxRcnhVHYZpcyWtywRXJL8Nw_tghwA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZkkB2_BSntgQ7kNvwGRNQf5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4NTc3ODQxNDQzNDY3NCwiYXNzZXRfYWdlX2RheXMiOjk5LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fb9e6c5a16522a63&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQTRBRDcwMDRENDE3Mzg0NDc4NDZEQTU4QTE4MkZCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNDVEQjkzN0UzRTYyNDkwNTQzMTJDOTk5QzUzNTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk5cHD7aPAAxUCKAJDMywXQDB3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQJrEw63AzUzjLqAb4RhS39h5BfQV0pMcLRxRa5MU0psjw&oe=6ABEA77C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1400888001858475"
+      },
+      {
+        "id": "1675874837024334",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724552525_1932605384111990_8592325426179555875_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PJWqwZ8hPnsQ7kNvwGX5amd&_nc_oc=Adojrq1-eiBCxHZb_EvC5y-o-1Wej_a7WVUQ9o37PEQTCD_-NhqOYZSYxWFf1qITVRg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJuDi6fk330B-0JZtVyW3ghpyZNylStYHg4TP3zgInk7w&oe=6ABECF5C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNQW5y8j0dudChgeFcstMJS2kJTX0Vz1oE185MLvVTJGkEVlN6b9fIN1hntUX4tzP74SP3o9jri_Cdl59ZYI9efZSUsphUyX2yBBuA51hgeuw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rCaaXwbhF_gQ7kNvwHS6FLy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjQ3Mzg0Nzk2NTU0MzQsImFzc2V0X2FnZV9kYXlzIjoxMDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=58f8da8581308662&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzQwMkU5NzQ4NEQ3Qjg4MkNDQjhEQUY0RTM0NzZCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNDQ2RkZBNjQ0RkYyM0VGQ0YzRTA3MzhFQjlCQkFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUqPb-nOziBRUCKAJDMywXQDoQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQJyMqrb3uvs9851cdHAn7I4LAbUOpIk_YIfJsSQi-dqVQ&oe=6ABEBAC6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1675874837024334"
+      },
+      {
+        "id": "1034052219244781",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785135600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/758488778_1381662150578680_6032808299663915016_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JF-Tj7FPz6gQ7kNvwEbQeMW&_nc_oc=AdqUgWgknbna-WJuEDP9AuE3C9-ZRQtgRotpJ2lI_mbsnWoXDiQeT716nqZeyoUmAP4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJKe1XUPOwH7r_B0dzOVfXm2hN2Wx_u6PUxZFqOf9IXNA&oe=6ABEA5F6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNQW5y8j0dudChgeFcstMJS2kJTX0Vz1oE185MLvVTJGkEVlN6b9fIN1hntUX4tzP74SP3o9jri_Cdl59ZYI9efZSUsphUyX2yBBuA51hgeuw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rCaaXwbhF_gQ7kNvwHS6FLy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjQ3Mzg0Nzk2NTU0MzQsImFzc2V0X2FnZV9kYXlzIjoxMDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=58f8da8581308662&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzQwMkU5NzQ4NEQ3Qjg4MkNDQjhEQUY0RTM0NzZCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNDQ2RkZBNjQ0RkYyM0VGQ0YzRTA3MzhFQjlCQkFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUqPb-nOziBRUCKAJDMywXQDoQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQJyMqrb3uvs9851cdHAn7I4LAbUOpIk_YIfJsSQi-dqVQ&oe=6ABEBAC6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1034052219244781"
+      },
+      {
+        "id": "4096867647274924",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/747790093_1717417139381603_1173039250565206763_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oKwslxL_IZkQ7kNvwHzrIXp&_nc_oc=AdpJZci6k44O5iTEQzcUW4E_0-VOh7FmikuQNpTQBbMx7PC1kn5DUS0FobqYwK2VrZk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJ9ZLKg7-TQKpLmTO8smNcsHPFM22ZKBFuWCiiNR0RbDg&oe=6ABEA47A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNaSVt0la8i0H_LTyydIpkJPawcJaDN8mvehvfLNldBOSikfBHWc1mVLTBzD2LBkmjMUIBpvzFjsoQQGTK4lsB05n3htH2EAnNuuNUyRThJhA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_Ej8hd6SMEUQ7kNvwHpRuON&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDIyNTU4NDQzNDUyNTMsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ddb8bbeee8f5eafa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTQxQzMwOUI3RTRCRTY3NTZDMzdBMUEzMTNBMUI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYyNEQzOTdFNzI4RTNEOTcwMzkxQkU1MEUzMDQ3MTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKltquqoyGBhUCKAJDMywXQD5MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQLiZOVDbZ2-zyiecr974Z5Pu7To9bBkFLKbyWblo19r9w&oe=6ABEC068"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4096867647274924"
+      },
+      {
+        "id": "4350679301838162",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קבלו הצעת מחיר מותאמת",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "link_description": "מוצרים יוקרתיים שמשלבים יופי ופונקציונליות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727572287_881539168337259_4848838631463618508_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y79HZwtFNf0Q7kNvwERiPki&_nc_oc=AdqlKYyejgY5CTPGtC4v7-brRhw9BVvZ_Cy8mg5ku9cg5mmJMnovSMnMNbtNLiB0llI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLx-MvA9UkapXyxpt8_OqRt_83FGuN7vu-KQk1gmtZzbA&oe=6ABEB299",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNaSVt0la8i0H_LTyydIpkJPawcJaDN8mvehvfLNldBOSikfBHWc1mVLTBzD2LBkmjMUIBpvzFjsoQQGTK4lsB05n3htH2EAnNuuNUyRThJhA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_Ej8hd6SMEUQ7kNvwHpRuON&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDIyNTU4NDQzNDUyNTMsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ddb8bbeee8f5eafa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTQxQzMwOUI3RTRCRTY3NTZDMzdBMUEzMTNBMUI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYyNEQzOTdFNzI4RTNEOTcwMzkxQkU1MEUzMDQ3MTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKltquqoyGBhUCKAJDMywXQD5MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQLiZOVDbZ2-zyiecr974Z5Pu7To9bBkFLKbyWblo19r9w&oe=6ABEC068"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4350679301838162"
+      },
+      {
+        "id": "1086250597288482",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "דלוקשרי Dluxry",
+        "body": "⚡ מבצע עד סוכות או עד גמר המלאי !\n\nהכירו את DALI SKYLIGHT – מטבח חוץ יוקרתי שהופך את החצר למתחם אירוח מושלם.\n\nגריל BBQ משולב 🔥 | מקרר ❄️ | כיור 💧 | קולט עשן 💨 | תאורה 💡 | רמקולי Bluetooth 🔊 | פתרונות אחסון 🗄️\n\nלבחירתכם דגמים עם דלת חשמלית שהופכת לפרגולה מוארת או תריס גלילה אלגנטי.\n\n⚡ מבצע סוכות: 10% הנחה\n⚡ כמות מוגבלת – עד גמר המלאי.\n\n👉 השאירו פרטים עכשיו וקבלו את מחיר המבצע.\n\n📞 טלפון: 055-5504000\n 🌐 אתר: dluxry.com",
+        "link_description": "דגם - DALI SKYLIGHT 2",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796747244_1114399831054851_299925404495943426_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PXxHgOPJCjUQ7kNvwEnZuoO&_nc_oc=AdpbRuRJU_LIJehz8uUd-5pCKb8hJ8ySECOdArbJXcjD4aE37axwscJPHPR8oosK23g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLlthmbbjfG2BMbo1Pg7K5b1nfV31YWOn2VM-8Vle1CfA&oe=6ABEC7A5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795438391_1073340398804819_5193778900641439939_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=30gm_Zr6lgIQ7kNvwGvvOCU&_nc_oc=AdqFGYRTO93MPo4ADn5TyQIMzT9U-5F2_H9R2ueAjv14y3Pp2YX-n5YOhMXRbaQULSY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLBicTlHmKmNqK1kYBcuQDiyWYjLH88_4Lc43ty4oa55A&oe=6ABEA309",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/817540432_1630403995102824_7374700132707552086_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-cgd1aKnV7oQ7kNvwHeOje-&_nc_oc=AdrGi8IDXpwJklTb0O4scVwTsZxGMUxlUa4KkiP4wmM_2GrOlWSftUHXrAGdTeAqxdM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIjnUVjvkft9kempIspPZkqKQs8hWfpmo0a4bDNxU7F3Q&oe=6ABEB309",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815920309_2944710909209553_1825990815185951043_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VI_9PG_UFUMQ7kNvwGblFGm&_nc_oc=Ado7XVdjlQjufVUf7rSma3OngWtna7EgbgJukUpn68CL8exZK_2vQdbh24M3jsmZnps&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIzl9BtgUQsPj1rlIG8M4m4K_zq9BWfhPcLsRUNlFf9eg&oe=6ABED279",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/808802635_1486437490200160_9120857885359607590_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FCuED922LZYQ7kNvwFWPR1x&_nc_oc=Adq0FhViGfuaxE3tlZ52q43oY6iJbQvfMCBK19QlVxh3jQDLvNLvC7oo0YLsMARBus4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJQypiEY3zvuw6OtMoVJWx2D7ApK-IQLVk-kpVbK_A0Xg&oe=6ABEA30F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/809536702_1086715750714800_8527855132210147017_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gsVOUuAkL0IQ7kNvwFHpSnw&_nc_oc=Adqld6Ik0z6vz6MBufp4HVw90OXO7wwRWx8ImM1Sq2wAxi7IssvfXJtawxf-Ie5qd0Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKt7WfSDiwBx5EWZSjGkdrZ97FX6hU_P9bQMZjyyozeRg&oe=6ABEB699",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815920303_1802508407551628_5711092215208120880_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rs2nKIQgiWkQ7kNvwEXNEdv&_nc_oc=AdqDsGrxi92h6es3lMJpZsdf2pNV7mgrkjNVKcvHtMcnV-B4eJ-IndnG9IwS3MEUfWU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQK1GtwIqQ2CtJRAQfN2tVG1Ya93WcYWIOnh4-II3mGS1g&oe=6ABEB62A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796459968_1018112997923533_5823715508845170699_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tzNoh2a4CmEQ7kNvwGTxeCq&_nc_oc=AdpvjDSaqOWvbe-lrCsmj_UUOKnjOS7H1nnT0SRJYpxSp5L7RpbvPtCb7U3yt34-DNs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLS1o0hw2hOVjnNQZkW2iE2Ra1cxKBy7e7Gfzkj0V_sbQ&oe=6ABEBA1A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/817706345_1583861009858855_4311308922775838478_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CpwJ8ht4oq0Q7kNvwEp6ufq&_nc_oc=AdrcWc7NtD6Aj-4DM0GvTFMg0Y2GAVDd4GugPSSBY8FSIQlLLDnCRXYmZvHaHMO1c4A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKttXAifR80h5pNGFgpVth9afdkCiaLrQ5YzmqRScc6XA&oe=6ABEA116",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815630839_2054861661900807_2551616014848256046_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3S8tJGD6BgcQ7kNvwGhbRhH&_nc_oc=AdossaOIAyRGKwPdIgBOS5WUkmLCoVr3bAuuRVGZlAqbkOmJgJ3WYVWIFv2fa-eShYI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJHitOPK26bIBU4DCevEtkbrNqwwynqEjWJh7t8Mr5JgA&oe=6ABEB2EF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1086250597288482"
+      },
+      {
+        "id": "1700366377877798",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים הסיבה היא לא הבריכה עצמה, אלא תא הגלילה שנשאר חשוף לעין ופוגע במראה הכללי של הפרויקט.\n\nמערכת לחיפוי תא גלילה מנירוסטה מאפשרת לרצף ולהסתיר את תא הגלילה, כך שהוא משתלב בצורה טבעית בסביבת הבריכה ושומר על קו עיצוב נקי ואחיד.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726495150_901532972973295_8379851727401827063_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mgsa9DZTwlkQ7kNvwFZCdKD&_nc_oc=AdqP2avqxzv_enhgCxjII43tLRmRWYKt5PtZPrcfbKm3fGkg8NsltWMwkZvTykRWfCo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKpBRzNyYp9c_w1GYa8R8-su24PnwFPdzunTzTgZLAQVw&oe=6ABEBB95"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1700366377877798"
+      },
+      {
+        "id": "1553052362885333",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים הסיבה היא לא הבריכה עצמה, אלא תא הגלילה שנשאר חשוף לעין ופוגע במראה הכללי של הפרויקט.\n\nמערכת לחיפוי תא גלילה מנירוסטה מאפשרת לרצף ולהסתיר את תא הגלילה, כך שהוא משתלב בצורה טבעית בסביבת הבריכה ושומר על קו עיצוב נקי ואחיד.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784358000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/749066618_2200186977490578_4949172060547093274_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EIDqMGRFROsQ7kNvwH2nlAr&_nc_oc=AdriyWHtiGBr01LcDKBQSwWX5a9HjXzmpbMXihE5o6vqsV9xI1VvWxH6XlZIkJqH1lA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLFy8z-YBJdUIgiPpf5Niems1PBl7rDiGhTeDsOAuYIYg&oe=6ABEAB41"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1553052362885333"
+      },
+      {
+        "id": "1339235318183571",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים הסיבה היא לא הבריכה עצמה, אלא תא הגלילה שנשאר חשוף לעין ופוגע במראה הכללי של הפרויקט.\n\nמערכת לחיפוי תא גלילה מנירוסטה מאפשרת לרצף ולהסתיר את תא הגלילה, כך שהוא משתלב בצורה טבעית בסביבת הבריכה ושומר על קו עיצוב נקי ואחיד.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727178788_1024636100027256_4872422816918840726_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3mQ2rPUHjD8Q7kNvwFzNklh&_nc_oc=AdrQUR2RNW1q0PuwsYw0R5JQkqiOJrBLEBABMftB7nE_-upGqmJt6g1LoIlPIHnG56g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQL2qoUWgbDZJbGIphBGTD7kfFX6x2mCL7GmqLWe47hWzQ&oe=6ABEACD4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1339235318183571"
+      },
+      {
+        "id": "1040150558395982",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים הסיבה היא לא הבריכה עצמה, אלא תא הגלילה שנשאר חשוף לעין ופוגע במראה הכללי של הפרויקט.\n\nמערכת לחיפוי תא גלילה מנירוסטה מאפשרת לרצף ולהסתיר את תא הגלילה, כך שהוא משתלב בצורה טבעית בסביבת הבריכה ושומר על קו עיצוב נקי ואחיד.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746919849_1000911292931920_1524258114121529160_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yl1w7ydwIW4Q7kNvwEXkh6O&_nc_oc=AdpjWnu-YGruvrp0hlW6azOlaDnVmRlHgeRg04P7xHxINO3VM_cMufjQZw0Lf7f1LhU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQLZ3S24R_EFt1KDjM3FfW8EHHJ16P8YFJ8KojbcQ8w6lQ&oe=6ABEB0D6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1040150558395982"
+      },
+      {
+        "id": "2321691011697155",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "דלוקשרי Dluxry",
+        "body": "🔥 מבצע ענק שלא יחזור! התקשרו עכשיו לקבלת המחיר המשתלם ביותר בשוק 🔥\n\n👇 מוצרים המשתתפים במבצע:\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ סולם פיברגלס וסולם אלומיניום לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐️ למה DLUXRY?\n✔️ מוצרים באיכות גבוה\n✔️ זמינות המלאי\n✔️ משלוחים לכל הארץ\n✔️ התקנה מקצועית במחיר הוגן\n✔️ אחריות מלאה\n✔️ צוות מקצועי ומוסמך\n✔️ שירות VIP  אישי לכל לקוח \n✔️ ייעוץ  וליווי מקצועי בבחירת המוצר\n✔️ תשלומים נוחים\n \n\n⏳ המבצע שלנו עד סוף החודש או עד גמר המלאי!\n🎯 מספר יחידות מוגבל - הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ הכפתור 👇 \n🔗 אתר החברה: www.dluxry.co.il\n\n🔑 דלוקשרי -  מוצר איכותי לחיים! \nט.ל.ח",
+        "link_description": "0555503000 - צ'אט איתנו 👈",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1782370800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730040756_27291990090452620_8309296430768068853_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hpZWLe_DWtIQ7kNvwE-afX1&_nc_oc=AdqWotkw__6GdBM6veL83yPrXztt7eFry2vL3IWiWmMDRVeKQAzL8ajRY2bLP__WKeU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKXHEcFDphMAErMUk3WQsJpqik5Wn8Vx2jm8wxiGBRrYw&oe=6ABEA415",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/730049566_1661702928271194_7225091565784278010_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H_WDK3BBDosQ7kNvwHb-GqS&_nc_oc=Adrxzx_xu58EgBDaO0Vs-j93zfRPVos58ZadBb2cRRWxzAcHLnX9ygGZW2wxwbPVq8k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJf8VJ9uFochECEvyAGSbr7RTjNcUhh5iCtCYZO4roM-g&oe=6ABEB118",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730530276_1037955638888673_3392591021020490552_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iNcLDixlviQQ7kNvwFXOH8L&_nc_oc=Adr2mLhHxkg2-m6xguVag58uN-wTIWmahahi692ERCPARuIuVTI83h0MZe6GqT_dtW4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKhWlVkiDYuchNO5VpNzi9V_vkylyItusENep5uMK-19w&oe=6ABEB32A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730049495_999582406012004_1358187931764865196_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2TAhQBPFYugQ7kNvwFrGj_a&_nc_oc=Adrn3vLpc0IpJBaF5wmV848mPW9IHRFvkYgGiUC46DSNVYY6Er54xUa08GjxSYf0RpY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKvLbiOlkufBtfN76Hh3U5g4RZhzi-ne2Q8MFHhEKJpwA&oe=6ABECC24",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729988337_1734802684472323_7380865928196719244_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j_rqvFtq6UsQ7kNvwHuQeBd&_nc_oc=Adpg31UfZ_vOPJgiqzAJ4sYakJlstrLreYIxPopPru5pILqmXXKHa-mDHZEowgjrr4s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQK3zYG6M2FyQk4OyS43zihs0eqOnvTdRLJ8X6pCcXeDxQ&oe=6ABECA3A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730040756_2165793570663528_328628134099680104_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jkW0hLZzOeQQ7kNvwGE0BLM&_nc_oc=AdrBjpSWNj9k_UPNJsrRK1sggo6k_Gw8375tf80UgSZPFXn4irlZ6lQcoaiaCIcINLY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIcvEK8yWbhf9qFve99Spyr2oOAxVxskZYUh1TP_gW7Dg&oe=6ABEC77E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730331579_2048508549035094_4198821561633947918_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bRiezg9xDM8Q7kNvwHvrfCL&_nc_oc=Ado-wu_HO5Jdv7NuHZtDm9x0pjBEbY_Tz_OErvX1RpJk50BrYYEUTceUEs8mslN6cRg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIf04aJP_A5TqD-f3b8EnMpIfKU-yKN_Cy4vlhjND1BBQ&oe=6ABEB88B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730041564_1375629801380082_6225146915152640679_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VBED_7RXkMAQ7kNvwHuiOv5&_nc_oc=AdrDqffkYVNdp2n5-vL-GcL1wFU7oR4yeLQpCf2UabDnkQysQv7p-pTwdY_5tJrZkAs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJFF9FTsLSE-fwxCG3fxCnVdMBIyIss9CnPhib8-D7wwA&oe=6ABEAC8C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729953361_1333081832358976_2881571917581547965_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YLL5yLfuSE8Q7kNvwEX1Z8t&_nc_oc=AdqLS294XRijAbyoRs0LmOLdWfmLqs0v0pLLw7AhMtweiXlVucjT2H1q47V2fvsL83c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQI7Fl5o5HBi8hu8zUSlf4h3nXKR4MGAyv_RN-sZCc1iSw&oe=6ABEBC08",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/730049492_1666041064507487_2006490374926643131_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qimyr8wAIJsQ7kNvwFPJ6n0&_nc_oc=AdqMlGvN1OBvVEy3D5vKIfHLtdFMkrVK68LjmmXpqCJHQGMyJ2OGgjAYnLSx978YJkg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKlb2RlyNodZCjM91nxm5g2qolTl6qaCJYbSS49DiKflA&oe=6ABEC4C7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2321691011697155"
+      },
+      {
+        "id": "1058273093303826",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "אל תתפשרו על איכות - בחרו בדלוקשרי - מוצר איכותי לחיים!",
+        "body": "📣 כולם מעלים מחירים? אנחנו מורידים! 📣\n📢 חיסכון של אלפי שקלים על מוצרי DLUXRY 📢 \n \n👇 מוצרים המשתתפים במבצע:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ סולם פיברגלס וסולם אלומיניום לחדר מכונות\n✅ מערכת קירוי תא גלילה בטיחותית מנירוסטה\n✅ מערכת קירוי חצר אנגלית מנירוסטה\n✅ מכסה מרובע לריצוף  שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה DLUXRY?\n🚚 משלוח לכל הארץ\n👨‍🔧 התקנה מקצועית במחיר משתלם\n🥇 איכות בלתי מתפשרת\n🏅 אחריות מלאה\n💳 תשלומים נוחים\n\n🎯 מספר יחידות מוגבל - הזמינו עכשיו!\n🥇 ניתן להזמין מראש ולשמור את המחיר והמלאי!\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000  \n💬 שלחו הודעת וואטסאפ הכפתור 👇 \n🔗 אתר החברה: www.dluxry.co.il\n\n🔑דלוקשרי - מוצר איכותי לחיים! \nט.ל.ח",
+        "link_description": "לקבלת הצעת מחיר שלחו הודעה",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747998295_1024355990573113_956842987384665254_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4fhyEtpnXHYQ7kNvwHMQpuj&_nc_oc=Adobc3SYb8BXD891NH3ZB9-nEYDyWc18VdTokjP4-t0-ATttvBTmCeqCjVkefXiO6ic&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJDADOxDf4VyzJd4qVVnuhmWZSj7wy8g9vrY-AnCc3gHA&oe=6ABEAFF9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOztr3PFgC9vtK50LC67RrDzvOZV5ZUEk9GQ4KYzfxsRTUZAlMJlcd-ngagPLMUOohkXFRK0IEuqRqI6frSTm-Jw-x8ApoL8oCXrTgSmsd3yw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=AmLkH5n9bboQ7kNvwEj66gt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0NzAzNTY0NzM0MzY3MTQsImFzc2V0X2FnZV9kYXlzIjo5MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=10bcb8bb16f91608&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NDQwQjBGOEE1QzgxQzgwNUVGNDJFOTRGMjhDNUU4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUxNENCMUIyOEEzRDZBNjNGQTgwMjEzQjE1MDc3NUI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU6IqB1rHjCBUCKAJDMywXQD8ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQLQrxmVltuPb0x5EDwIVm5eL87oqHh-UeOtyYOzWM9vcA&oe=6ABECE00"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1058273093303826"
+      },
+      {
+        "id": "1618136506399643",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "דלוקשרי Dluxry",
+        "body": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "מחפשים פתרון יוקרתי? דברו איתנו",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725777865_1308814831424165_8676800385843392945_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7r_V0RVSWx4Q7kNvwGXk2Xj&_nc_oc=AdqjbuRnfFWhQh7V0YeBMFema_Zlarv-QVT7CleGNTUQnGN2ChD0Y_UCZrRpsangs_I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQI7nY_iwMbBpRDjTojg_Do-VonCBPbz-fcKxboRd0sSWQ&oe=6ABEB205",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726427405_1808151377234931_3882049811938355436_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5PKYK1rqJ3IQ7kNvwFVJp_o&_nc_oc=AdrWXWcfuUNSKtxH00yTlxuzSJMsk8IHadniC_nVY14tlvfsDr86pzhoSNTOQO5hEZI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKv_2QdkloNbAoAT158UEcBtmFwPoAi4Sjt2SqtRzudCA&oe=6ABEC0B9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727408121_2455851154935034_5186992360424209347_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wLJaKto1GW8Q7kNvwHr2UOV&_nc_oc=AdqTs96LGHwwpxAlwCVp1Ab75sWAAtOa6FUbSBqnTfVr1-QEgY3cpA3EoEC067jIGjQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKdSb68XCirnLPCqfYAT9fPBLXqqIYhEHn9oLu64rmKYQ&oe=6ABEBF52",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/726271725_2055277315867564_1184438289332452472_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Iagrj0smsqkQ7kNvwF-cJxY&_nc_oc=AdoQzcETq_4q2GXs4zLASuisjaQ4ggYLKwhv0lmpMNvxP0x9ijNRJVGobRNGI5zLXf0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIvLYqweU_sNyt7PfHPeNOuD3l8mmRTCWkp87Jo7Vyi1w&oe=6ABEA1CE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727104630_1622162942188288_3157878464791460439_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rUp3cup_ehcQ7kNvwFvu4iR&_nc_oc=Adq-TuzWC0wzk1E4v0QE8m7CPgkQ3MQCbZ6Qt4cIORko4ovUgCkXW-m64IMerEL29PY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJbwdTv4htZSEwiPG_LAhNUNBTbPtQ7o7rlYho8XqjLYQ&oe=6ABECEAB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727572268_1001922462698056_2633139950286856767_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GAjNoavdmQsQ7kNvwGYZyr1&_nc_oc=AdrE8CYSrUWoS5buW2Pavp8TXw6zm0CAE2kyKhqAYNOb_My2KgT_0FJsUeBhpVP2rVs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJgdmR4Z468KU57YzjjOY0mg9fnG4jdPulS9aOWLDFbOg&oe=6ABECB0B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/726399937_2390804998081346_3491024854841218982_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G_i_Cfau7tQQ7kNvwH4eBKG&_nc_oc=Ado70pLVo5P2kbAIO6hwQUCbRO5xmtuId6__6gD-0OOyvGpUpStMhVh1LGD2_XLCVR8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJa7YA9rE-3jvO2Hgz84eWdRuWbQr9UnKBY5963Os2i2Q&oe=6ABEB800",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725924700_2067724460818671_3301061890749057392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z4IUiust-XgQ7kNvwEgGgL0&_nc_oc=Adrrl0jAdHTMGr-vClN99pofpVpBt-cPjt_9DdIxSQWqc_xtw60lMkCgM5zAKfnJR6Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKMyEJl0Y1EIFvx4Hkz4CTE2U4yUWTO8BUbA33A9tJsmg&oe=6ABEA916",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725318546_1497517661559256_4251759886715187967_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oU6ShIxU0g0Q7kNvwHfJLxW&_nc_oc=Adq6RZBgRxw9S5efXD_VuAsnmQzzeQmyc9hHi-Kts3IXhHPE-7yBEFyO1h7AdfiPPtg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIqj0j2YHoDdFu-FqYJZ8be37GtlkDMkeHjCFk0BcP7WA&oe=6ABEAF2D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727286047_1710528360367584_1909861410835690322_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Np22udiQyEgQ7kNvwGaNyk7&_nc_oc=AdpUwr97ucVq00j3aExxGnrCp3Tny8k6H7dD61UdA-RZutAeeEZi9CkMTiGP7lUaUVY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJMWB1JZzBRgGS9nxLDs5rWFGXhDIemeHDvs1dHnVvkyQ&oe=6ABEB766"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1618136506399643"
+      },
+      {
+        "id": "26957055613968516",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1781938800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726145692_3116762438521375_2176003954870737316_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LIk6eD-tjpYQ7kNvwFb1QH6&_nc_oc=Adpn3zjGBwWNLxW2m_6NZzzZg8TaejO_Xpuzp4tMLd4D7hQQHm_IcUkPbayZHDG7y7U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJubgPQGeA194l4vUGkjqGkUnj7PnSszE95xY4yEm4J6g&oe=6ABEBC6C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26957055613968516"
+      },
+      {
+        "id": "1912809186065935",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "📲 קבלו הצעת מחיר מותאמת",
+        "body": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "פתרון אסתטי ועמיד בהתאמה אישית",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784098800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746761820_1552781882902977_3032058983039264012_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QAdLSkB7qL8Q7kNvwE81-yj&_nc_oc=AdofP6ahI-5GYzlVL8EFFJWCaKVfqyWnH-RNMtllQBBoGS66SC_fkQgE30xPgpPgNKU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQKCBbFYJYxpkJW4-SwjeqCHJwKpwag3IC9dvF9Nzu2LqA&oe=6ABEB5E4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1912809186065935"
+      },
+      {
+        "id": "1817637669430867",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מחפשים פתרון יוקרתי? דברו איתנו",
+        "body": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "ייעוץ מקצועי והתאמה לכל פרויקט",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/748527445_1023766257062839_7036962770079755766_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8I9rJDV-kNcQ7kNvwGHl6YY&_nc_oc=AdqTB-4pDCVE-w-44f-2CRM3QfDwKv2cF1rJy8pzkiW1BMNGIc1Hyk-Tzb_JMItKI0w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQJjOb0R4ZFB0LjO3Afu8kby2aZW7gYejFGPu27n-4FcIQ&oe=6ABEA85E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMxl_WA5bP7p7yB-g-h-U8Zqf5dwa5dKJmmfcA3YTjPv6B_DTRpdW7P_WoA1wwxquG26VYigz69GWegyKbW1Nn4Apj7Wz6CRcmxp3ksug7q2g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4mxA51CieQAQ7kNvwFv7-ti&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwNzI1NDM5NDYyODg0NDIsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45f1ca2795ec7336&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQzQ1NThENEFGMDA1M0FDNUQ2M0IwRUVCQThBQTBCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc0NEM5RDQ4MzdFOUNGODI1OUQxNTY4M0JFODIxNUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0tM2nzJ31ChUCKAJDMywXQEFRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQIPxE06npdLGTjjJLJriCVwQRaUac0-lfGMMsZQsZTRxQ&oe=6ABECEB8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1817637669430867"
+      },
+      {
+        "id": "1318352266572823",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "מחפשים פתרון יוקרתי? דברו איתנו",
+        "body": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "ייעוץ מקצועי והתאמה לכל פרויקט",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725860378_1543971813748272_6384389267774972431_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JOERSOf4Yt4Q7kNvwFUXIqY&_nc_oc=AdoUsJkhKP_GIKLpsrDMlJIqW20HPBM_Pxku4EVeWJQeB4-yvYtvK1NkKTj4JW1JbCE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQK_kzXZmWo9w6t3viiq-nuXAEb6PXdlkUy1wNgLGEs-0A&oe=6ABEBC7C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMxl_WA5bP7p7yB-g-h-U8Zqf5dwa5dKJmmfcA3YTjPv6B_DTRpdW7P_WoA1wwxquG26VYigz69GWegyKbW1Nn4Apj7Wz6CRcmxp3ksug7q2g.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4mxA51CieQAQ7kNvwFv7-ti&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMwNzI1NDM5NDYyODg0NDIsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45f1ca2795ec7336&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQzQ1NThENEFGMDA1M0FDNUQ2M0IwRUVCQThBQTBCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc0NEM5RDQ4MzdFOUNGODI1OUQxNTY4M0JFODIxNUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0tM2nzJ31ChUCKAJDMywXQEFRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQIPxE06npdLGTjjJLJriCVwQRaUac0-lfGMMsZQsZTRxQ&oe=6ABECEB8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1318352266572823"
+      },
+      {
+        "id": "1004334058636467",
+        "page_id": "106920334788169",
+        "page_name": "דלוקשרי Dluxry",
+        "page_url": "https://www.facebook.com/IDLUXRY/",
+        "page_like_count": 1167,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "מחפשים פתרון יוקרתי? דברו איתנו",
+        "body": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "link_description": "ייעוץ מקצועי והתאמה לכל פרויקט",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727059794_1989110781967476_7326781071460592572_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OYualg9eG8EQ7kNvwFf15C7&_nc_oc=Adoy3tudekcLPV6f34izYotFJYanwdgi_sjlyJ13wV0L4zCmqqJUuEQdf99U6K4xIP0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&oh=00_AQIOY0o46J_qkBvqbSAqMd-q7KPezbbyxDlNwHjuL587yg&oe=6ABE9B57",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM7tTve4km4-KkGoSa1R2N3t85Ko5acoxiKIkZTFSiXTgJGY7z4IqYrOOEUgTKZBP6UKiin3qqT8QVuPDGZSjjjI_ML8g0VB2aLhDGi5w.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=gJ-6x6ls5uYQ7kNvwFTIb0c&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTM0ODA2MTU2MjQzNTI3LCJhc3NldF9hZ2VfZGF5cyI6OTksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=7m4c5BWzS-LK8MIlhpE9Gw&_nc_ss=70289&_nc_zt=28&oh=00_AQLFuX-chJuzjjZdzZw_k0wzXk9zA27fIgUWXkTHaJedhQ&oe=6ABEADFC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1004334058636467"
+      },
+      {
+        "id": "2204088820433648",
+        "body": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+      "https://www.tiktok.com/",
+      "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729408990098199230",
+      "http://play.google.com/store/apps/details?id=com.yandex.yango",
+      "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729403428233253457"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2204088820433648",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "27395674673408001",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1344975233755621",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\n🛡️דלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1511217637112869",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\n🛡️דלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1681308943312229",
+        "text": "💡 לא מספיק לבחור מוצר טוב, צריך לבחור את הפתרון הנכון\nכשמתכננים בריכה, חצר או פיתוח חוץ, לכל פרט יש השפעה על הנראות, הנוחות והתוצאה הסופית של הפרויקט.\n\nלכן חשוב לעבוד עם חברה שמבינה את הצרכים בשטח, יודעת לזהות את האתגרים ומספקת פתרונות שמשתלבים בצורה מושלמת בפרויקט.\n\nדלוקשרי מלווה בעלי בתים פרטיים, קבלנים, בוני בריכות, אדריכלים ומעצבי חוץ בכל רחבי הארץ, ומספקת פתרונות אסתטיים ופונקציונליים ברמה גבוהה, משלב התכנון ועד שלב הביצוע.\n\n👇 המוצרים שלנו:\n✅ מכסה חדר מכונות בריכה הידראולי מנירוסטה\n✅ מערכת חיפוי חצר אנגלית מנירוסטה\n✅ מערכת חיפוי תא גלילה מנירוסטה\n✅ מכסה שוחת ביוב מנירוסטה\n✅ מכסה בור חלחול מנירוסטה\n✅ מכסה סקימרים מנירוסטה\n✅ מקלחוני חוץ יוקרתיים\n✅ סולמות לחדר מכונות\n✅ סולם אלומיניום עלייה לגג\n\n⭐ למה בוחרים בדלוקשרי?\n✔️ פתרונות שמיועדים לשנים של שימוש בתנאי חוץ\n✔️ התאמה מושלמת לבריכות, חצרות ובתים פרטיים\n✔️ מראה יוקרתי שמשתלב עם כל פרויקט\n✔️ עמידות גבוהה לשמש, מים ולחות\n✔️ ייעוץ מקצועי לבחירת הפתרון המתאים\n✔️ משלוחים ושירות בפריסה ארצית\n✔️ אחריות מלאה ושירות אישי\n✔️ התקנה מקצועית במחיר הוגן\n\n⏳ מחירי המבצע בתוקף לזמן מוגבל ובכפוף למלאי הקיים.\n🎯 זה הזמן  ליהנות ממחירי המבצע על מגוון הפתרונות המשתתפים במבצע לשריין את ההזמנה מראש.\n\n📱 ליצירת קשר והצעת מחיר אישית:\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1559823002411924",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1018354990979508",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1550040513341857",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1701648934211776",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1034525112923254",
+        "text": "🔥 מבצע עד סוכות או עד גמר המלאי !\n\n✨ מטבח חוץ שנראה כמו יצירה מופת אדריכלית ומעניק חוויית אירוח מושלמת.\n\nקולקציית DALI SKYLIGHT משלבת עיצוב יוקרתי, מערכות מתקדמות ואבזור עשיר בתוך יחידה אחת מרשימה.\n\nלבחירתכם דגמים עם דלת חשמלית שהופכת לפרגולה מוארת ודגמים עם תריס גלילה אלגנטי.\n\nכל מטבח כולל:\n🔥 גריל BBQ משולב לגז, גחלים ופלאנצ'ה\n 💨 קולט אדים ועשן מובנה\n ❄️ מקרר\n 💧 כיור ומשטח עבודה\n 💡 תאורה משולבת\n 🔊 זוג רמקולים מובנים בחיבור Bluetooth\n 🗄️ ארונות אלומיניום ופתרונות אחסון חכמים\n\nמגוון עיצובים, מידות ושילובים מאפשר ליצור בחצר מוקד אירוח מרשים, מוקפד ומאובזר עד הפרט האחרון.\n\nרוצים להכיר את קולקציית DALI SKYLIGHT ולקבל מידע על הדגמים הזמינים? \n\nצרו איתנו קשר:\n📞 טלפון: 055-5504000\n 🌐 אתר: dluxry.com",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1770384724255286",
+        "text": "⚡ מבצע עד סוכות או עד גמר המלאי!\n\nהופכים את החצר למתחם אירוח שלם עם מבחר מוצרים לבישול ולאירוח בחוץ 🏡\n\n• מטבחי חוץ מתקפלים\n• מטבחי חוץ מודולריים מאלומיניום\n• מטבחי חוץ מודולריים מנירוסטה 304\n• טאבון גז 16 אינץ׳ 🍕\n\nסוכות כבר בפתח, המבצע מסתיים בעוד מספר ימים והכמות מוגבלת ⏳\n\nרוצים לקבל פרטים ומחירים? לחצו על כפתור ה־WhatsApp ודברו איתנו עכשיו 💬\n\n📞 טלפון: 055-5504000\n 🌐 אתר: dluxry.com",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2093570557898089",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1400888001858475",
+        "text": "📣 דלוקשרי יוצאת במבצע\nעל פתרונות פרימיום לחדרי מכונות בריכה\n\n⬛ מכסה לחדר מכונות בריכה מנירוסטה\n🪜 סולמות פיברגלס תקניים לחדר מכונות בריכה\n\n למה DLUXRY?\n🏆 איכות ללא פשרות\n🛡️ אחריות מלאה\n🧰  שירותי התקנה מקצועית במחיר הוגן\n🚚 שירות ומשלוחים בפריסה ארצית\n\n⏳המבצע מוגבל בכמות וזמן\n🎯 הזמינו עכשיו כדי לשמור את המחיר והמלאי!\n\n📱 לייעוץ, פרטים והזמנות:\n📞 התקשרו: 055-550-3000 \n💬 שלחו הודעת וואטסאפ (הכפתור 👇)\n🔗 אתר החברה: www.dluxry.co.il \n\nדלוקשרי - איכות שלא מחליפים",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1675874837024334",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1034052219244781",
+        "text": "⚠️ פרויקט מושלם יכול להיהרס בגלל אזור אחד שלא קיבל תשומת לב\n\nאפשר להשקיע בבריכה, בריצוף, בתאורה ובפיתוח החוץ ועדיין לקבל תוצאה שמרגישה לא גמורה.\n\nבמקרים רבים זה לא בגלל הבריכה עצמה, אלא בגלל הפרטים שסביבה.\n\nתא גלילה חשוף עלול לשבור את המראה הנקי והאחיד שכל כך השקעתם ליצור.\n\n✔ נירוסטה 316 המתאימה לסביבת בריכות\n✔ קונסטרוקציה חזקה בעובי 3 מ\"מ\n✔ הסתרה מלאה של מנגנון הגלילה\n✔ מיועדת לריצוף וחיפוי בהתאמה אישית\n✔ פתרון קו אפס למראה אחיד ונקי\n✔ ייצור לפי מידה בהתאם לפרויקט\n\n💎 הבריכה נשארת במרכז תשומת הלב\n💎 פתרון שמשתלב בעיצוב במקום לבלוט ממנו\n💎 מראה יוקרתי, נקי ומוקפד יותר\n\n📲 רוצים לקבל פתרון מותאם לבריכה שלכם? שלחו הודעה ונשמח לייעץ.\n📞 התקשרו: 055-550-3000 \n🔗 אתר החברה: www.dluxry.co.il\n\n💬 לחצו על כפתור הוואטסאפ לקבלת פרטים נוספים 👇 \n📲 שלחו הודעה עכשיו וקבלו ייעוץ מקצועי ללא התחייבות.\n\n🔑 דלוקשרי, איכות שרואים בכל פרט\n\nט.ל.ח",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2204088820433648",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nכ-50,000 תוצאות\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\n​\nפעילה\nמזהה ספרייה: 287460443573474\nהתחילה לפעול ב-20 באפר' 2022\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDompet Dhuafa\nממומן\n5 Hikmah Turunnya Al-Qur’an Secara Berangsur-angsur\n\nSebagai umat muslim pasti kita bertanya-tanya kenapa Al-Qur’an tidak diturunkan secara sekaligus saja, namun secara bertahap. Tentunya Allah adalah sang pemilik rencana yang baik dan penuh kejelasan akan segala sesuatu.\n\nYuk, lebih dekat dengan Al Quran di bulan mulia. Inilah 5 hikmah Al Quran turun secara perlahan-lahan di pranala: https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/\nZAKAT.OR.ID\nApa Hikmah dari Diturunkannya Al Quran Secara Berangsur-Angsur?\nProses turunnya Al-Qur’an dilakukan secara bertahap sesuai kebutuhan kehidupan manusia\n​\nפעילה\nמזהה ספרייה: 597185401313937\nהתחילה לפעול ב-16 בספט' 2021\nפלטפורמות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nكلنا العراق وللعراق\nממומן\nصفحة تمثل الشعب العراقي بكل طوائفه وأديانه وقومياته - تابعنا الآن وشارك الجميع\nكلنا العراق وللعراق\nSociety & Culture Website\n1,808,415 אנשים סימנו את זה בלייק\nלייק לדף\n​\nפעילה\nמזהה ספרייה: 866901976311836\nהתחילה לפעול ב-27 בינו' 2026\nפלטפורמות\n​\n​\n​\n​\nקטגוריות\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nKikoff\nממומן\nNeed a loan? Good credit makes it easy. Kikoff can help you build credit and secure your financial future.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nKIKOFF.COM\nNo Credit Pull. No Hidden Fees. No Interest.\nKikoff is the #1 credit builder that reports to all three major credit bureaus.\nLearn More\n​\nפעילה\nמזהה ספרייה: 1681365852414198\nהתחילה לפעול ב-13 בינו' 2025\nפלטפורמות\n​\n​\n​\n​\nהשקיפות באיחוד האירופי\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nZitmaxx Wonen\nממומן\nLOUNGEBANK MORGANA - Dit is onze loungebank Morgana! Hier te zien in de kleur en stof: Sino 102. Verkrijgbaar in alle kleuren en in verschillende materialen, afmetingen en opstellingen. De Morgana bank past zich moeiteloos aan elke ruimte aan. Welke kleur zou jij kiezen? \n•\n•\n•\nhttps://www.zitmaxx.nl/inmeubels/morgana\nZITMAXX.NL\nZitmaxx Wonen | 15000 m2 Woonwinkel\nLoungebank Morgana online bestellen of bekijken in onze 15.000 m² woonwinkel ✓ | Laagste prijsgarantie ✓ | Specialist in maatwerk meubelen\nמידע נוסף\n​\nפעילה\nמזהה ספרייה: 1555263375851429\nהתחילה לפעול ב-11 בספט' 2025\nפלטפורמות\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nWhatnot\nממומן\nVintage and new Pokémon cards starting at $1 ⚡️Live on Whatnot!\nITUNES.APPLE.COM\nRoggenrola\n‎Whatnot is the largest live shopping platform in the US, UK, and Europe - we’re a marketplace bringing millions together to shop, sell, and connect around the things they love. From bags to beauty, comics to coins, sneakers to streetwear, and vintage to vinyl—we’ve got it all. Explore 250+ ...\nInstall Now\n​\nפעילה\nמזהה ספרייה: 2641934662848548\nהתחילה לפעול ב-17 במרץ 2026\nפלטפורמות\n​\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nThumbtack\nממומן\nThumbtack makes it easy to care for your home. Know what to do, when to do it, and even who to hire.\nTHUMBTACK.COM\nCreative Wall Designs\nWallpaper Specialist\nBook Now\n​\nפעילה\nמזהה ספרייה: 358530033879022\nהתחילה לפעול ב-2 במאי 2024\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nTire Agent\nממומן\nGet new tires with NO MONEY DOWN! Pay weekly or monthly. Over 80 tire brands available. Free shipping on all orders.\nTIREAGENT.COM\nBuy tires now, pay over time\nGreat Pricing on New Tires plus FREE SHIPPING. Choose from over 60 tire brands & receive fast delivery. The easiest way to buy t",
+        "links": [
+          "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+          "http://plus.kikoff.com/fb",
+          "https://www.zitmaxx.nl/inmeubels/morgana",
+          "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2NDEwOTEx",
+          "https://www.thumbtack.com/ct/stratford/interior-painting/creative-wall-designs/service/112099384733476001?category_pk=135477684177740097",
+          "https://tireagent.com/",
+          "https://www.tiktok.com/ug/ads/landing/new/w2a/blank_page?language=en&region=us&enter_from=TikTok&previous_page=ug_w2a_blank_page&deeplink_type=TT&page_name=ug_w2a_blank_page&rcmd_pid_size=30&group_id=1026&redirect_url=snssdk1233%3A%2F%2F&top_product_ids=0&pid=metaweb_int",
+          "https://www.tiktok.com/",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729408990098199230",
+          "https://shop.pipitea.com/hbt/kd/sp",
+          "https://beautycare-iq.com/",
+          "https://m.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=ggs_app&product_id=10000006371069&pcate=202123801&field=GGS",
+          "https://www.expedia.com/Flights-Search?leg1=from%3AABE%2Cto%3ALAS%2Cdeparture%3A08%2F15%2F2026TANYT&leg2=from%3ALAS%2Cto%3AABE%2Cdeparture%3A08%2F17%2F2026TANYT&trip=roundtrip&passengers=adults%3A1%2Cchildren%3A0%2Cinfantinlap%3A0&mode=search&pageId=0&airOfferToken=v5-sos-5c90f5d495544b1baba9fb89db0e3b0a-273-1~9.S.1~AQoCCAESBwjUBBABGAEoAlgCcAB6CW5kY2RpcmVjdIgBkvPfYaoBBwoDQUJFEACyAQcKA0xBUxAA~AQpxCjYI1YIBEgQ0NTU5GKAgIK4cKMmVlQMw3paVAzhOQABYAWoKMV9iYXNpY2Vjb3IITEZBMkFEQk4KNwjVggESBDE4MTMYrhwgi5ABKKmXlQMwoJmVAzhOQABYAWoKMV9iYXNpY2Vjb3IITEZBMkFEQk4KcQo3CNWCARIEMjEwMhiLkAEgrhwo_6SVAzDRppUDOE5AAFgBagoxX2Jhc2ljZWNvcghURkE0QURCTgo2CNWCARIENDU2NxiuHCCgICijp5UDMKWolQM4TkAAWAFqCjFfYmFzaWNlY29yCFRGQTRBREJOEgoIARABGAEqAlVBGAEiBAgBEAEoAigDKAQwCw&medianPrice=1649.0&displayPrice=408.4&src=dfsmf",
+          "http://play.google.com/store/apps/details?id=com.yandex.yango",
+          "https://www.whatnot.com/listing/TGlzdGluZ05vZGU6MTQ2NTY1MDY1",
+          "https://offer.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=dpa&out_tag_id=10000006339472&keyword=eyelash%20tweezers&product_id=10000006339472&cid=201199101&pcate=201199101&kpi=abrate&field=UG",
+          "https://www.tiktok.com/ug/ads/landing/tt/facebook/dpa/v1?group_id=1&language=en&region=us&enter_from=TikTok&previous_page=H5&deeplink_type=TT&page_name=ug_landing_page&ad_platform_id=facebook_int_lead&experiment_name=ug_fb_tt_offline_conversion&af_c_id=%7B%7Bcampaign.id%7D%7D&af_adset_id=%7B%7Badset.id%7D%7D&af_ad_id=%7B%7Bad.id%7D%7D&placement=%7B%7Bplacement%7D%7D&af_channel=%7B%7Bsite_source_name%7D%7D&rcmd_pid_size=30&top_product_ids=1729403428233253457",
+          "https://app.alibaba.com/dynamiclink?medium_source=facebook&traffic_type=install&field=UG&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_set_id=%7B%7Badset.id%7D%7D&ad_id=%7B%7Bad.id%7D%7D&schema=enalibaba%3A%2F%2FoneSight%3Fbiz%3Ddpa%26keyword%3Dliving%20room%20furniture%26product_id%3D10000001493686%26pcate%3D37034010%26from%3Dcpm_fb%26kpi%3Dabrate%26tagId%3D10000001493686%26categoryId%3D37034010%26categoryName%3Dliving%20room%20furniture%26traffic_type%3Dinstall%26field%3DUG&campaign=%7B%7Bcampaign.name%7D%7D&ad_set=%7B%7Badset.name%7D%7D&ad=%7B%7Bad.name%7D%7D&placement=%7B%7Bplacement%7D%7D&source=%7B%7Bsite_source_name%7D%7D",
+          "https://hb.afl.rakuten.co.jp/hgc/15432275.93f7d735.15432275.93f7d735/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0001ppp%2Fstain338set%2F%3FvariantId%3D24924",
+          "https://www.naturemade.com/collections/digestion-and-gut-health-supplements?utm_source=fbig&utm_medium=staticsocial&utm_campaign=Q3Gut26&utm_content=portfoliostaticsocialv2",
+          "https://www.expedia.com/Hotel-Search?selected=10029533&startDate=2026-02-08&endDate=2026-02-09",
+          "https://offer.alibaba.com/product/pageBuild.html?src=cpm_fb&account=DPA&biz=dpa&out_tag_id=10000005481410&keyword=straw%20hats&product_id=10000005481410&cid=100009274&pcate=100009274&kpi=roi&field=UG",
+          "https://kalshi.com/sign-up?utm_source=meta_int&utm_medium=paid_social&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_campaign_id=%7B%7Bcampaign.id%7D%7D&utm_content=%7B%7Bad.name%7D%7D&utm_ad_id=%7B%7Bad.id%7D%7D&utm_term=%7B%7Badset.name%7D%7D&utm_adset_id=%7B%7Badset.id%7D%7D&utm_placement=%7B%7Bplacement%7D%7D&site_source=%7B%7Bsite_source_name%7D%7D&ad_event_ticker=%7B%7Bcustom_label_0%7D%7D",
+          "http://www.dluxry.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://zakat.or.id/hikmah-turunnya-al-quran-secara-berangsur-angsur/",
+      "http://plus.kikoff.com/fb",
+      "https://www.zitmaxx.nl/inmeubels/morgana",
+      "https://www.zitmaxx.nl/banken/loungebank-morgana-2019481"
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +1312,9 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:36:27"
-  }
+    "discovered": "2026-09-27T09:36:27",
+    "filtered": "2026-09-27T09:37:54",
+    "rejected": "2026-09-27T09:41:03"
+  },
+  "qualify": {}
 }

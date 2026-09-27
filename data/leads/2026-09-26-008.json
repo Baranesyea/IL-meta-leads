@@ -1239,7 +1239,116 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 9,
+      "seen": 9,
+      "newest_start": "2026-09-27",
+      "oldest_start": "2026-07-20",
+      "days_since_newest": 0,
+      "longest_running_days": 69,
+      "distinct_texts": 8,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          7
+        ],
+        [
+          "",
+          2
+        ]
+      ],
+      "videos": 4,
+      "landings": [
+        [
+          "chill-shop.co.il",
+          2
+        ],
+        [
+          "chill-shop.co.il/products/%d7%a1%d7%a4%d7%aa-%d7%a6%d7%99%d7%9c-%d7%9c%d7%90%d7%95%d7%a0%d7%92-%d7%91%d7%95%d7%a7%d7%9c%d7%94-2",
+          2
+        ],
+        [
+          "chill-shop.co.il/collections/mattresses",
+          1
+        ],
+        [
+          "chill-shop.co.il/products/ציל-פוף-גדול",
+          1
+        ],
+        [
+          "chill-shop.co.il/products/ציל-זוגי-מבד-בוקלה-ספת-לאונג-מודולרית",
+          1
+        ]
+      ],
+      "landing_status": {
+        "chill-shop.co.il": "ok",
+        "chill-shop.co.il/products/%d7%a1%d7%a4%d7%aa-%d7%a6%d7%99%d7%9c-%d7%9c%d7%90%d7%95%d7%a0%d7%92-%d7%91%d7%95%d7%a7%d7%9c%d7%94-2": "ok",
+        "chill-shop.co.il/collections/mattresses": "ok",
+        "chill-shop.co.il/products/ציל-פוף-גדול": "ok",
+        "chill-shop.co.il/products/ציל-זוגי-מבד-בוקלה-ספת-לאונג-מודולרית": "ok"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2026-09-01",
+          "cta": "",
+          "title": "",
+          "body": "נוחות שפוגשת סטייל 🤍\n\nצ׳יל יחיד מבד בוקלה ספת לאונג׳ מודולרית, רכה ומפנקת, שמתאימה כמעט לכל פינה בבית.\n\n✨ בד בוקלה טרנדי, נעים וניתן לכביסה\n✨ מתאימה לילדים, חיות מחמד ולחיים עצמם\n✨ יכולה לעמוד לבד או להתחבר ליחידות נוספות\n\nזו לא עוד ספה. זו ספת Chill ‏🇮🇱",
+          "landing": ""
+        },
+        {
+          "start": "2026-09-10",
+          "cta": "SHOP_NOW",
+          "title": "20,000+ משפחות כבר בצ'יל. עכשיו תורך.",
+          "body": "עוד חושבים על זה? 👀\n\n20,000+ משפחות כבר בחרו CHILL כדי להפוך את הקיץ לנוח, מפנק וכיפי יותר.\n\nועכשיו גם אתם יכולים ליהנות מ־18% הנחה על כל האתר.\n\nהקיץ הזה לא מחכה.\nגם הפינה המושלמת שלכם לא צריכה.\n\n🩵 בתוקף עד 19.7\n👉 לחצו והשלימו את ההזמנה",
+          "landing": "https://www.chill-shop.co.il/"
+        },
+        {
+          "start": "2026-07-20",
+          "cta": "SHOP_NOW",
+          "title": "20,000+ משפחות כבר בצ'יל. עכשיו תורך.",
+          "body": "עוד חושבים על זה? 👀\n\n20,000+ משפחות כבר בחרו CHILL כדי להפוך את הקיץ לנוח, מפנק וכיפי יותר.\n\nהקיץ הזה לא מחכה.\nגם הפינה המושלמת שלכם לא צריכה.\n\n👉 לחצו והשלימו את ההזמנה",
+          "landing": "https://www.chill-shop.co.il/"
+        },
+        {
+          "start": "2026-09-02",
+          "cta": "SHOP_NOW",
+          "title": "צ'יל פופים chill beanbags",
+          "body": "מהפכת מחירים בצ׳יל 🔥\n המחירים קרסו, הנחות למועדונים –\n ואתם נהנים\n\n💥 מחירים שנחתכו\n 💥 פריסה נוחה עד 12 תשלומים\n 💥 איכות שמחזיקה שנים\n 💥 מגוון מועדוני צרכנות: חבר, פייס, הייטקזון ועוד\n\nלמה אתם מחכים?\n כנסו עוד היום לאתר והתחילו ליהנות ממחירים שנלחמים ביוקר המחיה",
+          "landing": "https://www.chill-shop.co.il/products/%D7%A1%D7%A4%D7%AA-%D7%A6%D7%99%D7%9C-%D7%9C%D7%90%D7%95%D7%A0%D7%92-%D7%91%D7%95%D7%A7%D7%9C%D7%94-2?variant=47336857141487&utm_source=facebook&utm_campaign=chilllongbukla&utm_term=ppc&utm_content=pcc"
+        },
+        {
+          "start": "2026-09-17",
+          "cta": "SHOP_NOW",
+          "title": "מזרני צ'יל עכשיו ב-18% הנחה",
+          "body": "החגים מתחילים בשינה טובה 😴\n\nזה הזמן לשדרג את המזרן וליהנות מ־**18% הנחה על מגוון מזרני CHILL** במבצע מיוחד לחודש החגים.\n\nמגוון דגמים, מידות ורמות נוחות - כדי שתמצאו את המזרן שהכי מתאים לכם.\n\n🔥 18% הנחה לזמן מוגבל\n🔥 עד 12 תשלומים\n🔥 מגוון מזרנים במחירים מיוחדים לחג\n🔥 כפל מבצעים לחברי מועדוני צרכנות\n\nכי אחרי כל הארוחות, האירוחים והחגים - מגיע לכם לישון בצ׳יל.\n\nכנסו עכשיו לאתר ובחרו את המזרן שלכם.",
+          "landing": "https://www.chill-shop.co.il/collections/mattresses"
+        },
+        {
+          "start": "2026-09-01",
+          "cta": "",
+          "title": "",
+          "body": "כל כך נוח, כל כך כיף - פשוט להיות אתם🥳",
+          "landing": ""
+        },
+        {
+          "start": "2026-09-23",
+          "cta": "SHOP_NOW",
+          "title": "צ'יל פופים chill beanbags",
+          "body": "חודש החגים הגיע ל־CHILL - וזה הזמן להתחדש 🎉\n\nמגוון מוצרים לבית, לגינה ולרגעים הכי נוחים שלכם עכשיו ב־18% הנחה לזמן מוגבל.\n\n🔥 18% הנחה על מגוון מוצרים\n🔥 עד 12 תשלומים\n🔥 כפל מבצעים לחברי מועדוני צרכנות\n🔥 חבר, פייס, הייטקזון ועוד\n\nזה הזמן להפוך את הבית למקום שהכי כיף להיות בו.\n\nכנסו עכשיו לאתר ותיהנו ממבצע החגים של CHILL.",
+          "landing": "https://www.chill-shop.co.il/products/ציל-פוף-גדול?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&AgId={{adset.name}}"
+        },
+        {
+          "start": "2026-09-23",
+          "cta": "SHOP_NOW",
+          "title": "צ'יל פופים chill beanbags",
+          "body": "חודש החגים הגיע ל־CHILL - וזה הזמן להתחדש 🎉\n\nמגוון מוצרים לבית, לגינה ולרגעים הכי נוחים שלכם עכשיו ב־18% הנחה לזמן מוגבל.\n\n🔥 18% הנחה על מגוון מוצרים\n🔥 עד 12 תשלומים\n🔥 כפל מבצעים לחברי מועדוני צרכנות\n🔥 חבר, פייס, הייטקזון ועוד\n\nזה הזמן להפוך את הבית למקום שהכי כיף להיות בו.\n\nכנסו עכשיו לאתר ותיהנו ממבצע החגים של CHILL.",
+          "landing": "https://www.chill-shop.co.il/products/ציל-זוגי-מבד-בוקלה-ספת-לאונג-מודולרית?utm_source=meta&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{ad.name}}&AgId={{adset.name}}"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

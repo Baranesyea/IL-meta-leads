@@ -1,0 +1,393 @@
+{
+  "lead_id": "2026-09-27-224",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ventomotors/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "487476937793352",
+    "page_name": "ונטו - Vento",
+    "active_ads_count": 6,
+    "search_keyword": "הצעת מחיר",
+    "sample_ads": [
+      {
+        "ad_id": "1384041119679957",
+        "link_title": "",
+        "body": "רוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/483964163_623561470593659_6893417343378035047_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hsII8h0pwosQ7kNvwGM53FP&_nc_oc=Adpzy1Nfomn8dnWR_nxl8unK0SKcGTmCK7D_H0-SGrWsUBx9jZFhfcw0nAzwWuyNPBo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=PHFxi0jPn_6aMuq2w7RITg&_nc_ss=70289&oh=00_AQJSSAnFrx64Q06C7XoJhWCKdoJBZkkGZc2wO9s1Ryj9hQ&oe=6ABEC9CF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNE7atQgRf0-q5rEJyzLVFN3sjVg-FScOuiV6A6HaTzheDkcmPqxMGs9-WDUOZuFFgSBS9-wxs0ETlYjT0hhmMrV7IEm-sX7SXyrYcIstcOhw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MSD8iOM-6tgQ7kNvwF7oj_m&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjY2Mzc5MjI1OTM1ODAsImFzc2V0X2FnZV9kYXlzIjo1NjksInZpX3VzZWNhc2VfaWQiOjEwMTIwLCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1566c8110a241938&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTRCNzIyQUU3NkNFNjM3RkU0Qjk2NDFGQzFCNUVBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzY0ODU3NDMwMTA1MDE3OV8yNTU0NzIxMDAwOTgzMTU3Mzk0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYrNXS-qqABBUCKAJDMywXQEHd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=PHFxi0jPn_6aMuq2w7RITg&_nc_ss=70289&_nc_zt=28&oh=00_AQJq_UyWamzHBBhpahev_LPsUUuiZ-Xj6J2LwuDgft-gBw&oe=6ABED03F"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1744873200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1384041119679957"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 6,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 515,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1384041119679957"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 515,
+    "page_categories": [
+      "Auto Dealer"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1384041119679957",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "Auto Dealer"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1744873200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/483964163_623561470593659_6893417343378035047_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hsII8h0pwosQ7kNvwFDRvs5&_nc_oc=Adrh-b8M98O-DvELoTusbNmRKHG3pvSgtsIuO1Q5NJRKMFI_e8Xqm4rCeAV91iftfV4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQKlQn5GN0u37Lu7DS17V7hUP8iaSjLlmKe5-7K3EeJDhw&oe=6ABEC9CF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNE7atQgRf0-q5rEJyzLVFN3sjVg-FScOuiV6A6HaTzheDkcmPqxMGs9-WDUOZuFFgSBS9-wxs0ETlYjT0hhmMrV7IEm-sX7SXyrYcIstcOhw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MSD8iOM-6tgQ7kNvwFK8PKf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjY2Mzc5MjI1OTM1ODAsImFzc2V0X2FnZV9kYXlzIjo1NjksInZpX3VzZWNhc2VfaWQiOjEwMTIwLCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1566c8110a241938&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTRCNzIyQUU3NkNFNjM3RkU0Qjk2NDFGQzFCNUVBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzY0ODU3NDMwMTA1MDE3OV8yNTU0NzIxMDAwOTgzMTU3Mzk0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYrNXS-qqABBUCKAJDMywXQEHd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&_nc_zt=28&oh=00_AQIgxv4Z5rvRo8qzNw_EBzBlhoEHyZGg7SyUZ0AVYuA5tw&oe=6ABED03F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1384041119679957"
+      },
+      {
+        "id": "4046577382334105",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "סוכנות רכב"
+        ],
+        "ad_creative_link_title": "צ'אט איתנו",
+        "body": "רוצה למכור את הרכב בקלות?\n📢 קבל הצעה מיידית .\nבלי כאב ראש, בלי עיכובים, והכי חשוב – בלי לצאת מהבית!\nפנה אלינו עכשיו לקבלת הצעת מחיר לרכב שלך.\n🔑 מכירה פשוטה ומהירה עם הצעה משתלמת!\n📞 התקשר עכשיו: 055-667-6599\nאו שלח הודעה פרטית!",
+        "link_description": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1740556800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/481048407_640021245155007_5430976956111834952_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CkwrE1jpDvoQ7kNvwH1110P&_nc_oc=AdrbqWww1yg-i8mmS6PXVufbPkDWYIV2smfBv7-sP8F4qpyaoaqvnVr7TZnKrnGdKdo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQIuC0soZ166948lOGhrrfeBL171Sk5nOVfHDI6iec4ZQg&oe=6ABECBC4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4046577382334105"
+      },
+      {
+        "id": "976154758006114",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "Auto Dealer"
+        ],
+        "ad_creative_link_title": "צ'אט איתנו",
+        "body": "רוצה למכור את הרכב בקלות?\n📢 קבל הצעה מיידית .\nבלי כאב ראש, בלי עיכובים, והכי חשוב – בלי לצאת מהבית!\nפנה אלינו עכשיו לקבלת הצעת מחיר לרכב שלך.\n🔑 מכירה פשוטה ומהירה עם הצעה משתלמת!\n📞 התקשר עכשיו: 055-667-6599\nאו שלח הודעה פרטית!",
+        "link_description": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1744873200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/481901152_544939204680057_2525774515534695681_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Ygd6XF6KQYQ7kNvwHWzgkY&_nc_oc=Adqxp0rc_uj6bKmMdKWo2tj4umbUfx04AfiHAqkwYgSoG8HLG35HiJSrNTzBc8kiSgs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQIt6vyTc3QLR6YOoG58iVKLsMzDKsyjg1naRsJz-zmItg&oe=6ABEC0C9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=976154758006114"
+      },
+      {
+        "id": "2172441310190089",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קונים את הרכב שלך בזריזות וללא כאבי ראש! 🚗⚡\nרוצים לקבל הצעה ריאלית ומהירה?\nשולחים תמונה ופרטים -וקיבלתם עסקה תוך שעה!⏳\nהכל ללא טפסים, ללא סיבוכים, ועם שירות מלא עד הבית!!\n📩 שלחו הודעה וקבלו הצעת מחיר חינם עכשיו\n•\n#מכירת_רכב #עסקה_הוגנת #רכב_יד_שנייה #העברתזהב #ללאהתחייבות #ונטו_מוטורס",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/658957312_2087189798491391_1930035804960484980_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oBguYYijGRUQ7kNvwEadALu&_nc_oc=AdqdyfVCb2STVWO1h0FjMobblQ9PqhcBhm6WJ19U6cq7dG3dUXz0a2ZPjNkptwfk3i4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQKiYWWu2SoYCKfMkBK_qXyHL1PVrw-39pLvIuFB4WMOCw&oe=6ABEB1A4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNAC07tAXucRYf9veMXOVpAZFOkkYXA1OCCAjTUDr7QnFJVLPB4_daCwN8zHlb3n7xPKEn33F8V0nFf9yB_nR1VsulGamLYrorKzSo.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AEodTyiAoAUQ7kNvwE6CrO0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU4MTA3MzQwODkwNDAyNywiYXNzZXRfYWdlX2RheXMiOjQ3MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e7db1448acbe5cda&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC82MDQ1MEIyQTZFNzlFQUE2QTkwQjhENjRBQTZDMjk4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRWlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MDM1MzQ2Mjk0Mzk3ODhfMjQ3NjcyMDYyMDk1OTcxMDU5Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2req6n96VCRUCKAJDMywXQESAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&_nc_zt=28&oh=00_AQKDAhLuYUt4GEDAvaiyBkz31V82fKzvcMgoTtwSSGKq1A&oe=6ABECF9F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2172441310190089"
+      },
+      {
+        "id": "4331650367153437",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "מוצר/שירות"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קונים את הרכב שלך בזריזות וללא כאבי ראש! 🚗⚡\nרוצים לקבל הצעה ריאלית ומהירה?\nשולחים תמונה ופרטים -וקיבלתם עסקה תוך שעה!⏳\nהכל ללא טפסים, ללא סיבוכים, ועם שירות מלא עד הבית!!\n📩 שלחו הודעה וקבלו הצעת מחיר חינם עכשיו\n•\n#מכירת_רכב #עסקה_הוגנת #רכב_יד_שנייה #העברתזהב #ללאהתחייבות #ונטו_מוטורס",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776236400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/672141769_26232370316431511_8507205444926744665_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHWnZ4v-oukQ7kNvwEETfT4&_nc_oc=AdrvaHY3qtH9MopNlzIP9MfjkH9FP7nn-m70LdcNhl6grl7RoHMrqJHEjnmWVZIk8U4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQIECvg5u7FLBk4LVkvZdslGiQ5-v--jY_E-MP-tU0MFxA&oe=6ABE9DF5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNAC07tAXucRYf9veMXOVpAZFOkkYXA1OCCAjTUDr7QnFJVLPB4_daCwN8zHlb3n7xPKEn33F8V0nFf9yB_nR1VsulGamLYrorKzSo.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=AEodTyiAoAUQ7kNvwE6CrO0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjU4MTA3MzQwODkwNDAyNywiYXNzZXRfYWdlX2RheXMiOjQ3MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e7db1448acbe5cda&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC82MDQ1MEIyQTZFNzlFQUE2QTkwQjhENjRBQTZDMjk4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRWlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MDM1MzQ2Mjk0Mzk3ODhfMjQ3NjcyMDYyMDk1OTcxMDU5Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2req6n96VCRUCKAJDMywXQESAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&_nc_zt=28&oh=00_AQKDAhLuYUt4GEDAvaiyBkz31V82fKzvcMgoTtwSSGKq1A&oe=6ABECF9F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4331650367153437"
+      },
+      {
+        "id": "1307798971384192",
+        "page_id": "487476937793352",
+        "page_name": "ונטו - Vento",
+        "page_url": "https://www.facebook.com/ventomotors/",
+        "page_like_count": 515,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בתקופה כזו, כשהשגרה מתערערת -אנחנו כאן כדי להקל עליכם כמה שאפשר.\n\nב־VENTO MOTORS תוכלו למכור את הרכב\nבלי לצאת מהבית ובלי להסתבך❕\n\n🚗 אנחנו מגיעים עד אליכם,\nדואגים לכל הפרטים -בצורה הכי בטוחה, נוחה ומתחשבת.🙏🏻\n\nשירות עד הבית, בלי מאמץ -ועם המון שקט נפשי\nלפרטים והצעת מחיר - שלחו הודעה 📲\n\n#רכביםיד2 #רכבים #קנייה #מוכררכבים #רכביםישראל #רכבים_למכירה",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1769414400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/622872964_1863720817599405_176127208153042415_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d2_Nvuw2hikQ7kNvwHSqnPJ&_nc_oc=AdoZEqm5kLrAN-LplyqRnpvOTPRE23nGCCscpHsT-wJlm6UvwkAa_VXQ3VxHvXiTTRM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&oh=00_AQLF0DmNwZfEj4geGNE0kgwhFEWH9PRv-9ToacJJIol50g&oe=6ABECF97",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMoQOCxLqnSYSEJPxrDgE_ZfbOGbuXxmmyyOnOfo-g7BSNJSKh2C_2HZsOfRr_-Bb5F2NAsQQozQYH178YKC_9BHG57ncNsPvk6gAa9xVZ6tA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CdEE8-ntflEQ7kNvwEr2BHe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYwMjYxODU1OTUyOTE0NSwiYXNzZXRfYWdlX2RheXMiOjQ2NCwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjQ5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ced6b6b591feaff2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMjRDRkUyNjA2REJGNjI1MEFFOTAyQTY2NDBGRTM4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzE0NjQ0NDU3NzgzMjY1NDFfMzU3NjgzNDY3MTE2MjgxMTE3OS5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm8oLokoKFkgIVAigCQzMsF0BIpmZmZmZmGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=9X_dMAu4L3R8Jj6q6DSwIg&_nc_ss=70289&_nc_zt=28&oh=00_AQL1IpT5pFL3hKwFJtn_ntGWKSCoqrYjBrycs_cr-gdVhw&oe=6ABEC090"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1307798971384192"
+      },
+      {
+        "id": "1384041119679957",
+        "body": "רוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1384041119679957",
+        "text": "רוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4046577382334105",
+        "text": "רוצה למכור את הרכב בקלות?\n📢 קבל הצעה מיידית .\nבלי כאב ראש, בלי עיכובים, והכי חשוב – בלי לצאת מהבית!\nפנה אלינו עכשיו לקבלת הצעת מחיר לרכב שלך.\n🔑 מכירה פשוטה ומהירה עם הצעה משתלמת!\n📞 התקשר עכשיו: 055-667-6599\nאו שלח הודעה פרטית!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "976154758006114",
+        "text": "רוצה למכור את הרכב בקלות?\n📢 קבל הצעה מיידית .\nבלי כאב ראש, בלי עיכובים, והכי חשוב – בלי לצאת מהבית!\nפנה אלינו עכשיו לקבלת הצעת מחיר לרכב שלך.\n🔑 מכירה פשוטה ומהירה עם הצעה משתלמת!\n📞 התקשר עכשיו: 055-667-6599\nאו שלח הודעה פרטית!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2172441310190089",
+        "text": "קונים את הרכב שלך בזריזות וללא כאבי ראש! 🚗⚡\nרוצים לקבל הצעה ריאלית ומהירה?\nשולחים תמונה ופרטים -וקיבלתם עסקה תוך שעה!⏳\nהכל ללא טפסים, ללא סיבוכים, ועם שירות מלא עד הבית!!\n📩 שלחו הודעה וקבלו הצעת מחיר חינם עכשיו\n•\n#מכירת_רכב #עסקה_הוגנת #רכב_יד_שנייה #העברתזהב #ללאהתחייבות #ונטו_מוטורס",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4331650367153437",
+        "text": "קונים את הרכב שלך בזריזות וללא כאבי ראש! 🚗⚡\nרוצים לקבל הצעה ריאלית ומהירה?\nשולחים תמונה ופרטים -וקיבלתם עסקה תוך שעה!⏳\nהכל ללא טפסים, ללא סיבוכים, ועם שירות מלא עד הבית!!\n📩 שלחו הודעה וקבלו הצעת מחיר חינם עכשיו\n•\n#מכירת_רכב #עסקה_הוגנת #רכב_יד_שנייה #העברתזהב #ללאהתחייבות #ונטו_מוטורס",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1307798971384192",
+        "text": "בתקופה כזו, כשהשגרה מתערערת -אנחנו כאן כדי להקל עליכם כמה שאפשר.\n\nב־VENTO MOTORS תוכלו למכור את הרכב\nבלי לצאת מהבית ובלי להסתבך❕\n\n🚗 אנחנו מגיעים עד אליכם,\nדואגים לכל הפרטים -בצורה הכי בטוחה, נוחה ומתחשבת.🙏🏻\n\nשירות עד הבית, בלי מאמץ -ועם המון שקט נפשי\nלפרטים והצעת מחיר - שלחו הודעה 📲\n\n#רכביםיד2 #רכבים #קנייה #מוכררכבים #רכביםישראל #רכבים_למכירה",
+        "links": []
+      },
+      {
+        "ad_id": "1384041119679957",
+        "text": "רוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1384041119679957",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nונטו - Vento\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1384041119679957\nהתחילה לפעול ב-17 באפר' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nונטו - Vento\nממומן\nרוצים למכור את הרכב שלכם – מיידית?!גם עופר ברקן כבר הבין – כשמוכרים רכב, עושים את זה פשוט, מהיר ולעניין!🚗 ונטו – באנו, לקחנו!✔️ קונים רכבים במצב טוב✔️ מגיעים עד הבית✔️ העברת בעלות במקום✔️ תהליך קל, מהיר וללא סיבוכים📞 לקבלת הצעת מחיר בחינם – פנו אלינו עכשיו!\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\nונטו - Vento\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:43:14",
+    "filtered": "2026-09-27T09:43:37",
+    "unqualified": "2026-09-27T09:44:26"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972556676599",
+        "source": "https://www.facebook.com/ads/library/?id=4046577382334105",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972556676599",
+        "source": "https://www.facebook.com/ads/library/?id=976154758006114",
+        "labelled_whatsapp": false
+      }
+    ],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

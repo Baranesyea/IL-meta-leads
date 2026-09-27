@@ -176,10 +176,58 @@
       "track": "wa",
       "advertisers": 12,
       "at": "2026-09-27T09:36:27"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "כתבו לנו",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 0,
+      "at": "2026-09-27T09:41:51"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "בהודעה פרטית",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 2,
+      "at": "2026-09-27T09:42:25"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "הצעת מחיר",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 3,
+      "at": "2026-09-27T09:43:14"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "לתיאום",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 1,
+      "at": "2026-09-27T09:45:00"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "תכשיטים בהזמנה אישית",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 1,
+      "at": "2026-09-27T09:45:51"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "עוגות מעוצבות",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 8,
+      "at": "2026-09-27T09:46:48"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
-  "wa_next_index": 8
+  "wa_next_index": 14
 }

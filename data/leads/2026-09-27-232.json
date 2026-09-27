@@ -1,0 +1,103 @@
+{
+  "lead_id": "2026-09-27-232",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100083147661578/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "104353164255469",
+    "page_name": "R_dvash",
+    "active_ads_count": 1,
+    "search_keyword": "עוגות מעוצבות",
+    "sample_ads": [
+      {
+        "ad_id": "834099146433828",
+        "link_title": "",
+        "body": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/808414637_2585640961880583_759123037901776234_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Dg-6aoCxBvMQ7kNvwGcG0l8&_nc_oc=AdrUf-Ijdxf_nhB5uXgt_Mez2LH3iMRBw_-_Sr79oYrE_sQEncxWToX-WmCRHuJveZw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQKJnpbERUmbTCpXaM7mHwN4r15rmtrUubD0hRj-ssd9Sg&oe=6ABEB83B"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1790060400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=834099146433828"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 47,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "834099146433828"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 47,
+    "page_categories": [
+      "Art"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:46:48",
+    "rejected": "2026-09-27T09:47:35"
+  }
+}

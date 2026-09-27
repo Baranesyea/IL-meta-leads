@@ -1,0 +1,1237 @@
+{
+  "lead_id": "2026-09-27-233",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/suspiros.patisserie/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972548013327",
+      "source": "https://api.whatsapp.com/send?phone=972548013327",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "802228719871600",
+    "page_name": "Suspiros Patisserie",
+    "active_ads_count": 32,
+    "search_keyword": "עוגות מעוצבות",
+    "sample_ads": [
+      {
+        "ad_id": "1120674480519185",
+        "link_title": "Chatea con nosotros",
+        "body": "עוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813546480_1406014414957574_5048875883980169893_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UOQqOB1qvx0Q7kNvwFR64hj&_nc_oc=Ado0b-elnYRr0uNoD4jU3WvBkbBrOlXB6IIuciWlA8BMf3Z721NOKSha0IBxzHENjCI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQLSG6ehVzuTf9kGfhEpbP5IDh8j-wPCZMEKKPFyRRiGqA&oe=6ABEA4C8"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1789628400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1120674480519185"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 32,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2500,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1120674480519185"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 2500,
+    "page_categories": [
+      "Chef"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1120674480519185",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Chatea con nosotros",
+        "body": "עוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789628400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/813546480_1406014414957574_5048875883980169893_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UOQqOB1qvx0Q7kNvwGaXvDU&_nc_oc=Adqfr0wB6n8WymimJ26yyzBXGVSBKc6sbwJT8PLtfzyNzRqxOolOV2X7AccEabp1z-Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQL6M9-4AVJorrBjc9AUp2zZ1vMUbGwASPfvIK0BihLdlw&oe=6ABEA4C8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1120674480519185"
+      },
+      {
+        "id": "1386489900305421",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "כתבו לנו בווטסאפ",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818977469_29831363719804327_6911588520444508413_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JtBYadoq3S4Q7kNvwH1PSrb&_nc_oc=Adr9UoQm-QZwsYCuJBV9X1iEbZAtDyDzhxh-X3P5o2bvKpy5ZuVgSMZkQfmKLh2AKvs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKDaDT9dZpypxUbzFERAWHzJbyrhNsmDAU3x3IWOif3oQ&oe=6ABEC2BE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1386489900305421"
+      },
+      {
+        "id": "2143462013183911",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "צ'אט איתנו",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688132810_1885808698788827_3130570768048707670_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X6OsL9KXV2wQ7kNvwHQgkRM&_nc_oc=Adp08WlZJjS_Icl9Qb8Ofh4L0nTtNNpYTgFj01aE3oXR1-SLMkqqLPf_TwPoNLn3j8w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLGVil6O_uOCr9QA0hTs4bYiTVp-Vmi_8kcs4irFpbXQQ&oe=6ABEB65D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2143462013183911"
+      },
+      {
+        "id": "2119609405600377",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457804922_790307389699451_5704793669209906773_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oP7aXKhxpjIQ7kNvwGFjUMk&_nc_oc=AdoIgPTzxUPbSm92XCNH67HLjMmtD92yRIR80SC1AS9LfZXaZMWXhjjCSEOnPFsx7EY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKqZacgkvyWtbuOlv8uXqUjnA13VKuCGJkhSFxuSv7hcA&oe=6ABEB0B0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458252146_1702464660574014_1047974052069516622_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Tw8_YRcRZUQ7kNvwHxoHnh&_nc_oc=AdqFpClWtZJjmTolQXEVCHVrJGyfwna7QTynY0Qecy2bkWFViGInwkaN0bNqaOyTBm8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIAjZRWqKnPKIDv7t1kHJ_GSu--YOnn9ZuRlPbuwMRhoA&oe=6ABEB3FA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458224609_3719641418290234_3884410599176841729_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3otk4WclJ70Q7kNvwGDdWOp&_nc_oc=AdozYDqwDj7zPrpZfD8xWSiB2GE3ThSUYpCS-cEWOvqng1VLpBOw4toizPt3FTlMOSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJPsABaOgQ9chclV5pNwaNkvLos0EXBe33uSxKULGJSVw&oe=6ABE9E8A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458182579_1530736000854492_7403626069786058999_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BZq7XOKvl-UQ7kNvwFMl7w7&_nc_oc=AdonuVhJXAUOg5ss3DteejS4srjv1_Z8eBgeDO3q2KXda5FSgjiG_zGi6f1z4Cs62Y8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJXVuwQ3xqIv5wyz02PVhJzuGgKM3SWkaMNd7vAQ_pCJQ&oe=6ABED47E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457675555_422473206979230_6647399809661269512_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WI9T-hsOgyMQ7kNvwF4PjJi&_nc_oc=Adr9_-934OG5V6vrooP1V_62kPtW2zf_ZuWwPr7hBhRAse66XEohV-DZITJvgYRF0uo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLKNmaFB-zFhG4B0LFEIa7cOvEQpiuI2xv41CxoRcrTfA&oe=6ABED333",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458301159_1629910207566259_3952094708850031057_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mhPWihHqNCkQ7kNvwGtGGMZ&_nc_oc=AdpYM2qWj01vMhGBFMaIa74avwmnUVazAfDRsiFhHcj79d1TszspAAesISDdCVxQDnA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJio5yswpUv23AHJIKXFp6uNHSUPAkttlvYqeUH3D3pQA&oe=6ABECB3D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2119609405600377"
+      },
+      {
+        "id": "4520405431527176",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 6,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/588808395_1568894977475691_5114698161620895755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yysz7-0dvMAQ7kNvwFSz9W6&_nc_oc=Ado35D1_29QGXlZphvrMjIIOXHc81sGQGANi4LsNMd-sYnXLJxHj3r8Hw_9Y8KW6uHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK9O-7sTtQBmGbXPG7rRq9DOzHAgFdklck9f9pRhIuG5A&oe=6ABECD77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4520405431527176"
+      },
+      {
+        "id": "992954340408980",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752488817_1064252492718130_5279434005776279030_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SyDJaiUiyyYQ7kNvwG35mrW&_nc_oc=AdowNFFgMm1So29cTutxJ-k1JX9pm-FbCfgreLg81hNf81l3x4kTNrhmYppa-u9ubQw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKL7k_BIuQNoYGbdotHAqocsvorIGxhCRBZmMdlNl6Q_A&oe=6ABEB512",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=992954340408980"
+      },
+      {
+        "id": "1073161405351044",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/588808395_1568894977475691_5114698161620895755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yysz7-0dvMAQ7kNvwFSz9W6&_nc_oc=Ado35D1_29QGXlZphvrMjIIOXHc81sGQGANi4LsNMd-sYnXLJxHj3r8Hw_9Y8KW6uHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK9O-7sTtQBmGbXPG7rRq9DOzHAgFdklck9f9pRhIuG5A&oe=6ABECD77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1073161405351044"
+      },
+      {
+        "id": "1396169205995405",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/588808395_1568894977475691_5114698161620895755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yysz7-0dvMAQ7kNvwFSz9W6&_nc_oc=Ado35D1_29QGXlZphvrMjIIOXHc81sGQGANi4LsNMd-sYnXLJxHj3r8Hw_9Y8KW6uHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK9O-7sTtQBmGbXPG7rRq9DOzHAgFdklck9f9pRhIuG5A&oe=6ABECD77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1396169205995405"
+      },
+      {
+        "id": "1642744837507532",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/588808395_1568894977475691_5114698161620895755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yysz7-0dvMAQ7kNvwFSz9W6&_nc_oc=Ado35D1_29QGXlZphvrMjIIOXHc81sGQGANi4LsNMd-sYnXLJxHj3r8Hw_9Y8KW6uHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK9O-7sTtQBmGbXPG7rRq9DOzHAgFdklck9f9pRhIuG5A&oe=6ABECD77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1642744837507532"
+      },
+      {
+        "id": "1604085927756152",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/588808395_1568894977475691_5114698161620895755_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yysz7-0dvMAQ7kNvwFSz9W6&_nc_oc=Ado35D1_29QGXlZphvrMjIIOXHc81sGQGANi4LsNMd-sYnXLJxHj3r8Hw_9Y8KW6uHI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK9O-7sTtQBmGbXPG7rRq9DOzHAgFdklck9f9pRhIuG5A&oe=6ABECD77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPv194E6otbmZ9rtucYrcN_FydL9sXCs0f8p6Z-xotsfGaOe_fn9XAAKabWPUPIWL2ywT_K7soriX7JarI9frI7xlJhaZZHqUtVth6SGiqBug.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=G81EfER1CBEQ7kNvwFxVb2j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk1OTQ5NzE0MTQzMDEsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5948d5561aaba255&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjQ4MEE0NTg1QTZFNjgzQ0VCRDhBNURDMjMyRUY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDMxM0U5RTVFQUEzOEY5NjlCQjVEN0E4NjNDRTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6_PGg17TXBRUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLy9r6gmxY8KzXM49sst7X6v3bdomx0RQ254cbevFCk_g&oe=6ABEAF98"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1604085927756152"
+      },
+      {
+        "id": "1030364826353469",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491080744_1197638278487586_849757753038416615_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yDLOKgsp-UcQ7kNvwGEBTEv&_nc_oc=AdrHN7Q6Cbw3TQLo5D_N05WEicafMLHE58CXn9iGX3FF--Q-4ZxzoX-Ktzplw13mA38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKDeZrkdl-amRje5E7VEiGWB9ZGc-h4DBivobr8HXnF_A&oe=6ABED08F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492371632_561031147017417_3283985188525843904_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lt9Z0akhbR0Q7kNvwFmwpLb&_nc_oc=AdoJRULWphIVozp0cAAaU2jeyUJWZxJ7Lgn8fSxAroSByf8IaqMiMT2SCI3mKCIu6n4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIQSwXuBoziu5YdoCx9yVcnkphgDWZ-Fi0aaKxD0HQ-4A&oe=6ABEA122",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492300911_3021231514718440_3777762405674508166_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ZWRQGP_aM8Q7kNvwF_NdLd&_nc_oc=AdpUVTwLHevsfA3UKyeVT8tXu1zFjD11h0c-BO-CjlvkoipwUczESSzCK1EplUjpREU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJD5kcLeAIX3Xx92GNhzil9MWs9rhmQIkJS6X94SNG_Fg&oe=6ABEB705",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/490704479_1351613716099795_7728559698547121432_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8U73Kz8r2hkQ7kNvwH2hN9b&_nc_oc=AdpDeT25ZjPm8FKZNj2iYbWQ8vPWdT9M9Ahc1-b_cPcNIfdrMcB6DNmJ_lBID6Ozd1M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLAjmAEoVn5mM3fQxeY4i60KO_lpN8jxAkVIwqWF_53qw&oe=6ABEBF7F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492013252_659475016955144_7042154081333015824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_A0SCXXvnpQQ7kNvwH6vPiv&_nc_oc=Adp04kHJ5RYltpMJwng6p2m9Jl5kPh6x175dyVCzcDyB4p0D7KGdJN8LVg3mQkTm5fE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrhwz1zRfBNWqRkibbohaFOnn6ZDdza__9bek_4robag&oe=6ABEB881"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1030364826353469"
+      },
+      {
+        "id": "919201497888835",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751915321_1750895499438447_3173055736181841579_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=45dRmQYNsxAQ7kNvwFk10RS&_nc_oc=AdqrPKB20KxLbZsCDdPEyAtTj0akZmNiAHhTaDYvXLdtTg-vH5AppssA10iv00oJ6ho&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJdGmzxRWtPfkuuKjcKFDE2e9JppbHa8d9Qw11o06EsLw&oe=6ABECA58",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752916759_3096151390775537_4510310379827257932_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xasVqN1PwwwQ7kNvwGJ6V2A&_nc_oc=AdrMqP5VFPaQ1ltwIJHBICJt1-8tWQDEaBOwnCRFohfKxzgFJcYPz-7QN-SKvpOlJwQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJsCWKD-_-UHxlx1nPmt4tT7fhb3q3hkONgG3NUHfRd8A&oe=6ABECCCE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/753197184_1511018010773901_6444126590620460924_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-3TIOeO6Ks0Q7kNvwFhgAYh&_nc_oc=AdqFcJGMx-TklrM8MaYU1zkHE3XXCzj6clm9mtMZbitLmpSCa-lLJg-0Oqj2FAB5dZ8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKylHVV6piVBe623gtBeWCaLgQ2rUD_mnmQlFiNnaCXRA&oe=6ABEB09E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/753306507_1596711418629184_1508857254798725097_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NZvfp1g6t1AQ7kNvwH3WaZw&_nc_oc=AdoYTFYygnhdffxndSFr-BAmWAG7dYaolMcPl5IINPLs-MeRGvLIOe7fKdIxHk-w9-o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIWB9SpFPIy3UNF4PLK2GiDGU9Nnn1odusabZp1wEGWwA&oe=6ABE9E41",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752569873_1515225483046676_6934719299581978989_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pB7AzTzID6YQ7kNvwGcLc6W&_nc_oc=Ado4KDt79sf3KnKE7C-EqkDMtpagKTi7O2U4A7mocPHg2wVkAp50yjfVudt707AAhGM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLnSb2g2hAks_s87Am1VEGvYG5auoPyof7mThKAsTSfRA&oe=6ABEA2F9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=919201497888835"
+      },
+      {
+        "id": "1071443018899008",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Chatea con nosotros",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617607909_1802245260491753_7219835930672812600_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SzI5ifwN5JUQ7kNvwGNT0hE&_nc_oc=Adop1unvEHw-pjUAPNV_3_qtdnRVIHsrH-UsV0JSvT8GSKwSyL1nUC8nujUlM5EXK0w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIEU97P0az2LIVh5k-y9SEv_WGKwApdRLffEI2xQzdHoQ&oe=6ABEC4EF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6R2k_4hTZVXn_Y51JHYVN17HB7eZseDSMQfudHVfY1_kVXdiZdINYl0T8hgJrUYJA77lXVX24LdOJuOf-T4rJFUQSxmcAJGa0EQ4BaYhhPA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Kh6N3daJC7oQ7kNvwE28awT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwMTM1OTg3ODkxNjkwNywiYXNzZXRfYWdlX2RheXMiOjI1MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6f5e0ec06c5d8e69&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTRBNjU3RDA2RENGQjA4QTU3QjA4RkRFMzczODlBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U2NDQyNkI3RTM3NEVFQzE5NEM2ODFFNzc1MjM5MUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWrK62hvKZAxUCKAJDMywXQEiEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLynpWgiR4jFaEeo43Nk7-gVGxg5Nmdt7IMKbiA-9dYlQ&oe=6ABEA34B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1071443018899008"
+      },
+      {
+        "id": "1116674097980469",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Chatea con nosotros",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/617737356_858482467106925_4065922523186613726_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e9Ea_Tb2unAQ7kNvwF41FSg&_nc_oc=Adr8tNnG6zU7N_PczsU1DetYEhEV9CkVE6j-dL9CxIG3JdqT8LN7DBXajitqLvVfUWM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJOt9vSkLRilY9WZ5aKA2txvE1kUszruOEcgjjh5NZZ7A&oe=6ABEC22A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6R2k_4hTZVXn_Y51JHYVN17HB7eZseDSMQfudHVfY1_kVXdiZdINYl0T8hgJrUYJA77lXVX24LdOJuOf-T4rJFUQSxmcAJGa0EQ4BaYhhPA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Kh6N3daJC7oQ7kNvwE28awT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwMTM1OTg3ODkxNjkwNywiYXNzZXRfYWdlX2RheXMiOjI1MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6f5e0ec06c5d8e69&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTRBNjU3RDA2RENGQjA4QTU3QjA4RkRFMzczODlBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U2NDQyNkI3RTM3NEVFQzE5NEM2ODFFNzc1MjM5MUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWrK62hvKZAxUCKAJDMywXQEiEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQLynpWgiR4jFaEeo43Nk7-gVGxg5Nmdt7IMKbiA-9dYlQ&oe=6ABEA34B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1116674097980469"
+      },
+      {
+        "id": "1577820227194408",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/753018734_1651370206553584_5302909495533408239_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3B3lZGkXV68Q7kNvwEvP4SG&_nc_oc=AdpryAT_E9V5VyDXXWFimQ7jgYNtKGLM_w3-1KdaVtrXB2TkacXSiBwq1Y6tl0pJf-o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIBZDcrufVQJgobGzSM00RdiqM-WmsOmUQyAld9Jg__gA&oe=6ABEAA77",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563213_1756995582149169_1222984055680248924_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uc1KhQRtKBwQ7kNvwGJPZj7&_nc_oc=AdoT5qqzp9EQKp43Ef45LwMFu7So-13pIiVnEr1M0h3w9ahREfjivRt2PGkzXnMrxZE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJpEWCohlzFdQ9bu_3DTuXqj9T0ylLBlIchIgRUnJslzw&oe=6ABEB561",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752497713_2101171124135632_3687202759210636316_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vhQtSvsj6ccQ7kNvwEINnYu&_nc_oc=AdqVzrreNpRapdaSQccIRfoEfDVwTDeoPzlfoByBOIAuhEX7M6znFY5W04fP2vtlbEQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKqK_yG1i-pEMvVOtVca5VsudBzz3GwvXHlQcw68dbpXQ&oe=6ABEC2A4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563213_1032929542810525_7192331016682484592_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wLc8WDHcO8kQ7kNvwE_DK-U&_nc_oc=AdpMJK-oE5dUN1L5TA2Icv0l6nRaKfRAk1RN1cuMLLvAQ9jeXq7EMx2_ajex5B2Y3MA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJp-Jhalh8uGGtM3HRIlb3N2vFFOl_S3lgyvoRCf-iK7Q&oe=6ABEC54D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/754097682_1033598119411270_2712164436874849984_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=84L7Azppk_8Q7kNvwEeaYGf&_nc_oc=AdqMuQmbrw99xdklH71tn3BBadLS_xO4LuhomcEA7dV6VAMX-rdTxagf4Lwwi5b3GhU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJbFSOjarwz4R0pckafYdm1NK8c7BNT8mykWZyrHFBnvw&oe=6ABEB99A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752674392_1345400833800389_8302011422620975023_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tceneqWFoqsQ7kNvwHIxsBl&_nc_oc=AdofDrbMQqx0MPzdsJ6xFYFwLF-mb-M-i5sjCaSMmVWovHzVENQkMXfcjpu4yP0UrmQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJxJgfmzOnngLYLSuTqktBoEELtu3UdKZ1pZYRQAYdpyQ&oe=6ABEB2A3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1577820227194408"
+      },
+      {
+        "id": "5501140546778553",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות, גם בזמנים קשים.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות ותקווה.🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458209941_1027333828850947_3332261682803592259_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NuWZnRnFsVgQ7kNvwHWqfnN&_nc_oc=Adqbm8tRZh5vOkv-49Szzj90RwtcutzhqFWKurCKoKfF9RtnuH8HSBnEkxiSHRzGGtU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLGKt8-KrlVlsf3ueCRDXgO0FuIE98EahIJtkaPkCT22A&oe=6ABEB24A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457804764_1965476070570189_6464087909933618060_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NbMuh2v_zroQ7kNvwGm4U72&_nc_oc=AdrDH5zI1tZClmUhSkRN14IdNLcRscVw9TAOCHw5BWEdyN4CRNOjhuDdCq34-rWvtq0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIATb6eKodI4ytxdVDxIM-_tp2rNaEeiN5klcaSel75fA&oe=6ABEC14C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457750668_879797864202696_699089089141513420_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Hgn919gEBYQ7kNvwGP4mzY&_nc_oc=AdpgNsL4ey5cFQtSMUC2mAvLzrzcwf7S6VS__nWoU4nyaQzkj9sZwHU8z9XhdiHIgRo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKmIUL12gwyxcYU2oHmaKBdFNSOUaWtPaz0TLDsyw6aiA&oe=6ABEACF0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458182683_1654602788415354_167396326795939925_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=blbomArWWL8Q7kNvwGvOOyV&_nc_oc=AdrhAsHuGpiPF0yWcOSPfT3zVs1bUGyz81XXGyadaOzjSoMJRFEHvbuCFfjFwiLTLS8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIyn4wgn9tVkkSaOduYtC3d8L4KFZHVz6NtApMnGPvpwA&oe=6ABEBE7E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=5501140546778553"
+      },
+      {
+        "id": "1044337941765403",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות, גם בזמנים קשים.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות ותקווה.🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458304194_499706536246973_5576427162663429491_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X2sAvZrdd7MQ7kNvwEZB7u9&_nc_oc=AdqA1JkYW7BQ6RnBfq4tFEOrU_OVFzyCUal5Imm1qHMGduriqiSux1Ik0Lar2AcUpDs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJKTYMvgXHCpbCWDYBaCwXkDA5iygWLCT94iBZyTS1-8Q&oe=6ABEC2EE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458114569_3372256876242175_1130578126885019054_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hYWVO74vPWgQ7kNvwGexu9W&_nc_oc=AdoLUXc9rIRkKUIn6gPmb4wka3a1UKc7Idg462h7PKVwbC1El3fdiZZSLXLvhLmsDcA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQImDcfFwfZ9Dv2otwUFdYy1vkvur2MaxKnBFpBJnrFiSg&oe=6ABEBD52",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458321747_527518629770682_3323042843085960497_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iv0PWaiHR9oQ7kNvwGfl9uJ&_nc_oc=AdotHYvS4XKfJCyUTVWYGsuqD58WMzlVSS9uhkP-NHOCyFR_jqefIx8DOn2YQFHAQhs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLlUq2oouq4GrYZ12CiLtraLzcVLBFN9BbRyR_5cLyflA&oe=6ABEC864",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458208556_1082305303310873_3184487302632024038_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-E79ggavfxQQ7kNvwFEfO6_&_nc_oc=Adr_N7M0PUYBZrcdfxCbQJwzVaUzFq-G0NuIpmzFA4tRBWbT1bWc5Mugy3tAVSQOT6o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQL1nYafrIYt7GhMZROltwXcW6v4KQx8ydpeuZlz2QSSog&oe=6ABEA37F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1044337941765403"
+      },
+      {
+        "id": "1094065200023474",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send?phone=972548013327",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "Send WhatsApp Message",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/807699102_1076793151755277_4615536754249782113_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=co8eWA3zRWEQ7kNvwFkQ1fd&_nc_oc=AdogjX7c1cvvm6QZw7lQwij45GP9_AD23Omo4wXCfOoZG-BAikZT6wpbRxGDJ-SawYA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJcSQpJOym6ZNaiHYrIaxv-zaIMFlxditKo8nK_FjLMRw&oe=6ABEC815",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800781049_1575632824334983_3478870332499086460_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mGV4Gv8qES4Q7kNvwHtlIZl&_nc_oc=AdpebjcUQe7N_VBmVGq8FJHbex3tcPNuTORS5hfgvm7vwOtiUf7nAecCqvrDkKcKfQQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIQjD_L-FVMij924LjVdUDjv_SM3Tg4dx2slV0c5at-Xw&oe=6ABE9E65",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799634192_1879567830065990_5734601429406819448_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3hp3PE3eJTUQ7kNvwEUpDWa&_nc_oc=AdrLTkahMBEP13438iA_U_CU8Fre4WGyDlegJ5RDF9VrAUzGiUcMeLwjO3Gdk2FklCQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJDCvr3Wo8K6rJY3tSIezdjUl65WFQhnBcag1D0u-pR1A&oe=6ABEA165",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805486092_1657428535974881_2736123941983344446_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PfK1FqnToSsQ7kNvwHWyX6n&_nc_oc=AdroQtp5SKS5Z5hao5dS53yzt-PReWhuzhQ34fq6ivPMQuKIlDoc2J7qrwthxlBT-Bw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJpjrC8CcC60Q7-3A1coUWMpDFPiumTVGdwNaZwZkQbTQ&oe=6ABEA3D7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799361141_2325133521590007_1942037059416564381_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v2xAeLyMdu8Q7kNvwFQM0TH&_nc_oc=AdqyreTJ1IB6svXv92wbL-TZaBdaq2gqK110g6-pqe6cNRHgi-tmE9eziGNrUEE7NHA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLeuKlJmYVXLrnpg0l1nkAQbnCsdkAZKlacgK_oh1NUnw&oe=6ABED093",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/817518986_1337769628237399_4650784766435566454_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q1ECRNXInUAQ7kNvwG08ihw&_nc_oc=AdpWvELbg9kOiRfYpLAx6r-iEn29Wal103-UGP25UjacbybjIAxyXS84t_397BIBkxs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQILag1ymyf7wUfyjoPDbvtr0cs0XnSuTF34RMAolzg1kQ&oe=6ABEA14A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797841634_4082623295207711_4908291268595593504_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-58iZNIuC0YQ7kNvwG2hPL6&_nc_oc=Adqzt0EsHFQ9sTaSYm29EZK0iPj5H1ANv2YWSGH0hwh-oLXeOGbaZO4mnjFgP6n3_mo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ7zfxz2nKWIeN_8qgXfrPfCuJ07qORJaD4nbFWzj15MQ&oe=6ABEC020",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/814998765_2188100388778515_6391438524347346266_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YxKTH23Yx7IQ7kNvwG7Eu3C&_nc_oc=AdoIDtA98iVB085VwQzRizgPXheapEKzAaH0rlyd9Sh8BRPSDcU_7PoKSifBk1UK624&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJwIY12LEnflliY2xbLJV1yZeAChHuPKakWn0uyP7KBkA&oe=6ABEA4D2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/815209456_2873524339695626_6906745544389025416_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=luwmT-x6FNAQ7kNvwHCMHDg&_nc_oc=AdqyWZOvxhQJDx4e4hNjCY2q9jKJB1kPrNRXZov0skudcywKU4cbPYPkNG9d71c0lA0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJsV8Z_e8_WpZX-I89jgSIJfdzsdB7Anmg-ZuYY21MCoQ&oe=6ABEBF06"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1094065200023474"
+      },
+      {
+        "id": "4548593125415902",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות, גם בזמנים קשים.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות ותקווה.🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458199271_366001399777614_4198333933214133507_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gu3_r8pOqqcQ7kNvwFhEvo6&_nc_oc=Ado5KjO_kZ06oQMZSKEK_uA7sbroLRgKIF8Gb6dTdgoxtDAzH7xdWayvqSu2JXQ21_U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ8VpvL4innjl-Zwh78C4TmLx6d7RlJ4r0u7mTgvswINg&oe=6ABED04F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457522832_870221408372987_6913814894097323087_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=24qcHGPU8FoQ7kNvwGgNaI2&_nc_oc=AdrtpK46ORBjEqsCL_TBKyYuijoxl8ywn25WqcPHzeDUWbf4QffXnonO6XoILg61jz8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKoZAbXk-ptJ54nzyo2xSGNdFa1RBDahUpaObeOZCEszw&oe=6ABEC95D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458161505_1298354027714676_2334814700105515137_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2RWoBTf8CowQ7kNvwGB3wn7&_nc_oc=Ado__z3P48PvpKQA0PwFQxHBb-a5Bq8IcYZsIidpYPiQDzFwhMCjAyPq177oqSo15r4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJis-lGZ3uV9UwbbGARXLd-ed_Lh4bZ4ZnorHmSwru_rQ&oe=6ABEB584",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/458218016_729821555951421_6533201195953612218_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KMDljV_XUuYQ7kNvwEijoFB&_nc_oc=AdotsDCtQQzYHt5fekVMKJe_oNQhNy3T-C5QA5V8VOeuSpomvGYII-dYRirj-5IaOxk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK4whjQQfnp-PfvklCj7mUpAKfntxgE3fQ4UoRtSu7gcA&oe=6ABEC075",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458209256_1520151762262567_6064510707874304635_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0JCpgLJ8WDgQ7kNvwEFuRNG&_nc_oc=AdpEuxNSTue8mq2jUlx31sEMyiKaxaPqSWVtPjlbg-ckBwOq__17exgAlyFZWn7bbhQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIATwDeXLdKxEzZse1c47dB_9DygP_jJFJKO4oPdCRnog&oe=6ABEBA85",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458311017_1532734467634284_1614863284498431933_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Iaul1eFG4f4Q7kNvwGWwNjL&_nc_oc=Adr7pfAMKDImRVySaigDrWSiJTGEeeXn5dqqRBKS0iV0E1KMS-t684KEZEEoJm-8IAg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKcs2lSCrAXvQB_WdA9zbXR4C9Vj1eD4P7RibwuQrXSZw&oe=6ABEA2B5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4548593125415902"
+      },
+      {
+        "id": "1596427035544849",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות, גם בזמנים קשים.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות ותקווה.🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458222577_508423548589048_3378743525280930146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z3cuzlCgpOIQ7kNvwHUi1UB&_nc_oc=AdpE7WZefU76YEvdqVqEy3XV_Tbzmrt2nv4pysbzqEXdAinlC9B5V0O-i_OJ4ynp2dA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIAd8mIa8q7v-8xSp2uedqtns6hVWslOxDMOV4sbzAjLg&oe=6ABEC0A8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458253162_431675075994125_103377045524303926_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-WYTy8E-qYsQ7kNvwExvQtA&_nc_oc=AdpXIA0qcSmUQe5v_CQMO7oQ5qoKPZj8F_Dp6ZNtbOVhhYjr69KYckW3PIpSXmNcdJ8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIEdG907c1Bi24BSJ7HLhBSaa2SznJyQFqEAf1I5hLHPg&oe=6ABEAF17",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458396435_1706502596867531_6265689572671806641_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nOi1Bu1G-HoQ7kNvwFGqKRK&_nc_oc=AdqONdEuDT6vlAvrOQqVOwwH2rXy70D_3TF98eORmreAnRyT1Uv1iixZsa-9ZnVLX5k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKnd-nq3JfBpuPj4eVjey7x6Tdb1lPFDoydikqBCbP39Q&oe=6ABEA79F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458224634_1439765254081016_23415159699923220_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cGBzDYlrhJsQ7kNvwF9M6UV&_nc_oc=AdpLeMflHek0x2KnloRquYwPXg6CrOx5LlxXSWb3mhbKS4RwzUIoDJVRiDo7__Gvb2A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ98_35oah2zR7X8gM-aDpQkJXKl_2wtYZ96KZ2uioxIg&oe=6ABEB8A9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457614203_1038414811108783_1624302827232247057_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ar-XPN5ANVsQ7kNvwGUopON&_nc_oc=Ado-dTRQ9DvTb3xrbTvYKjuoQdG0UoISJf8hgGy9LUMbf8BmxJ0Ag3kaPluguu7hUUs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIUKyFCru9LknwyNosbT0KjzfMWxAnMpnRe3COuVXzkGQ&oe=6ABECD5A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/457804463_1586786955522563_2380415922499647778_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xPYhdCIpLTQQ7kNvwEXViNw&_nc_oc=Ado7x1aczC8bmvs2JycOWkP3X5eBtCYGVgQX4z1IXIoebly4-aW1YoLq1rQII9mjQ6k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQK3f5mSQ5mMJUsAN1pE5NdzxUpnjzQu2JHqBn5t_I42zA&oe=6ABE9D77"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1596427035544849"
+      },
+      {
+        "id": "1112569021148375",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819668140_951505238007239_2369947448274275056_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5oFnvAURJYoQ7kNvwEIWmNd&_nc_oc=AdqdhbvEGfQFigIZovxRbqDLQR8OBhOkabW31R9sUt1kl2LNkBxqcbXfLgRqNeAxCyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJWTG4w7csz5iSJOZ-TK9UdtHwWxzX_xRYGKVa3DuRQpA&oe=6ABEC60B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819276297_1445550670784235_7079004814523593117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5JRaOHv51xEQ7kNvwFO2LV2&_nc_oc=AdoIZOkgCQ2yzd96YscB3KG3Ff1OTlsiCIOw-gEA_V8vM_A0tok4XfE_FiNNKS8XWDg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJmvsRVq9RTFXlw4rh0yVj7rRamxyD63qeejSPNAqhtsw&oe=6ABEC8A0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819959332_1133689889340605_4159730755645620978_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8AmIPPymjlIQ7kNvwH5crxx&_nc_oc=AdqMVeSIYMiArAOtOJfJzVv066fPVWA8VBI1-_MkqZRxEHpzHn52WOIUciXwbueiN1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrd0Wb0_jvox5SZk_aJHt_NoJhNwwc054_zyme4s8G2w&oe=6ABEA3C9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820166062_1097833605961727_3393528369208438794_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uK-TjrmXtCAQ7kNvwEvdl7V&_nc_oc=Adozs10TZY213wHDZWSOdyldQcMEMPe3pGrjA1j-gZQ32n-vmPIj3mpoWQHVBhZF8AM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ_TXwrMMnu8Cf5AI6noQKD-aLEoqrP-wy7Z3Pkl8bpmw&oe=6ABEC62F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819820854_3517573661754097_3960251345611031336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-C-6LBTp0wQ7kNvwGq9P3U&_nc_oc=Adq9VI0l0vHZd0EQGC-HYPhjuZ0panMeVzo1MMl2HniKenkNVafyTuvNHoU7tx8NFtw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLkyA4DR545dFFSuzHvpllRxNxoatEG715ZD4sihJP1Rg&oe=6ABEC83F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819767524_2114301756147434_8834327416616373634_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ZvBbx3PGmMQ7kNvwGLCHcC&_nc_oc=Ado8Rd6XJ-h8_ZKOlb7X7tY-CEgoN-bZu3buF0lyAJpE6AlWu_MExj4j-Gldg9U0Muc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIuA0DpQqC6kYsTyPR1KEI2feETDNr15Dvgty1BIcd1Ug&oe=6ABEB117"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1112569021148375"
+      },
+      {
+        "id": "28320653837626136",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819668140_951505238007239_2369947448274275056_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5oFnvAURJYoQ7kNvwEIWmNd&_nc_oc=AdqdhbvEGfQFigIZovxRbqDLQR8OBhOkabW31R9sUt1kl2LNkBxqcbXfLgRqNeAxCyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJWTG4w7csz5iSJOZ-TK9UdtHwWxzX_xRYGKVa3DuRQpA&oe=6ABEC60B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819276297_1445550670784235_7079004814523593117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5JRaOHv51xEQ7kNvwFO2LV2&_nc_oc=AdoIZOkgCQ2yzd96YscB3KG3Ff1OTlsiCIOw-gEA_V8vM_A0tok4XfE_FiNNKS8XWDg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJmvsRVq9RTFXlw4rh0yVj7rRamxyD63qeejSPNAqhtsw&oe=6ABEC8A0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819959332_1133689889340605_4159730755645620978_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8AmIPPymjlIQ7kNvwH5crxx&_nc_oc=AdqMVeSIYMiArAOtOJfJzVv066fPVWA8VBI1-_MkqZRxEHpzHn52WOIUciXwbueiN1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrd0Wb0_jvox5SZk_aJHt_NoJhNwwc054_zyme4s8G2w&oe=6ABEA3C9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820166062_1097833605961727_3393528369208438794_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uK-TjrmXtCAQ7kNvwEvdl7V&_nc_oc=Adozs10TZY213wHDZWSOdyldQcMEMPe3pGrjA1j-gZQ32n-vmPIj3mpoWQHVBhZF8AM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ_TXwrMMnu8Cf5AI6noQKD-aLEoqrP-wy7Z3Pkl8bpmw&oe=6ABEC62F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819820854_3517573661754097_3960251345611031336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-C-6LBTp0wQ7kNvwGq9P3U&_nc_oc=Adq9VI0l0vHZd0EQGC-HYPhjuZ0panMeVzo1MMl2HniKenkNVafyTuvNHoU7tx8NFtw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLkyA4DR545dFFSuzHvpllRxNxoatEG715ZD4sihJP1Rg&oe=6ABEC83F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819767524_2114301756147434_8834327416616373634_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ZvBbx3PGmMQ7kNvwGLCHcC&_nc_oc=Ado8Rd6XJ-h8_ZKOlb7X7tY-CEgoN-bZu3buF0lyAJpE6AlWu_MExj4j-Gldg9U0Muc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIuA0DpQqC6kYsTyPR1KEI2feETDNr15Dvgty1BIcd1Ug&oe=6ABEB117"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28320653837626136"
+      },
+      {
+        "id": "1812655436402934",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790319600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457804922_790307389699451_5704793669209906773_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oP7aXKhxpjIQ7kNvwGFjUMk&_nc_oc=AdoIgPTzxUPbSm92XCNH67HLjMmtD92yRIR80SC1AS9LfZXaZMWXhjjCSEOnPFsx7EY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKqZacgkvyWtbuOlv8uXqUjnA13VKuCGJkhSFxuSv7hcA&oe=6ABEB0B0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458252146_1702464660574014_1047974052069516622_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Tw8_YRcRZUQ7kNvwHxoHnh&_nc_oc=AdqFpClWtZJjmTolQXEVCHVrJGyfwna7QTynY0Qecy2bkWFViGInwkaN0bNqaOyTBm8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIAjZRWqKnPKIDv7t1kHJ_GSu--YOnn9ZuRlPbuwMRhoA&oe=6ABEB3FA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458224609_3719641418290234_3884410599176841729_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3otk4WclJ70Q7kNvwGDdWOp&_nc_oc=AdozYDqwDj7zPrpZfD8xWSiB2GE3ThSUYpCS-cEWOvqng1VLpBOw4toizPt3FTlMOSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJPsABaOgQ9chclV5pNwaNkvLos0EXBe33uSxKULGJSVw&oe=6ABE9E8A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458182579_1530736000854492_7403626069786058999_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BZq7XOKvl-UQ7kNvwFMl7w7&_nc_oc=AdonuVhJXAUOg5ss3DteejS4srjv1_Z8eBgeDO3q2KXda5FSgjiG_zGi6f1z4Cs62Y8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJXVuwQ3xqIv5wyz02PVhJzuGgKM3SWkaMNd7vAQ_pCJQ&oe=6ABED47E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457675555_422473206979230_6647399809661269512_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WI9T-hsOgyMQ7kNvwF4PjJi&_nc_oc=Adr9_-934OG5V6vrooP1V_62kPtW2zf_ZuWwPr7hBhRAse66XEohV-DZITJvgYRF0uo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLKNmaFB-zFhG4B0LFEIa7cOvEQpiuI2xv41CxoRcrTfA&oe=6ABED333",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458301159_1629910207566259_3952094708850031057_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mhPWihHqNCkQ7kNvwGtGGMZ&_nc_oc=AdpYM2qWj01vMhGBFMaIa74avwmnUVazAfDRsiFhHcj79d1TszspAAesISDdCVxQDnA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJio5yswpUv23AHJIKXFp6uNHSUPAkttlvYqeUH3D3pQA&oe=6ABECB3D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1812655436402934"
+      },
+      {
+        "id": "29629133473353126",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457804922_790307389699451_5704793669209906773_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oP7aXKhxpjIQ7kNvwGFjUMk&_nc_oc=AdoIgPTzxUPbSm92XCNH67HLjMmtD92yRIR80SC1AS9LfZXaZMWXhjjCSEOnPFsx7EY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKqZacgkvyWtbuOlv8uXqUjnA13VKuCGJkhSFxuSv7hcA&oe=6ABEB0B0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458252146_1702464660574014_1047974052069516622_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Tw8_YRcRZUQ7kNvwHxoHnh&_nc_oc=AdqFpClWtZJjmTolQXEVCHVrJGyfwna7QTynY0Qecy2bkWFViGInwkaN0bNqaOyTBm8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIAjZRWqKnPKIDv7t1kHJ_GSu--YOnn9ZuRlPbuwMRhoA&oe=6ABEB3FA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458224609_3719641418290234_3884410599176841729_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3otk4WclJ70Q7kNvwGDdWOp&_nc_oc=AdozYDqwDj7zPrpZfD8xWSiB2GE3ThSUYpCS-cEWOvqng1VLpBOw4toizPt3FTlMOSI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJPsABaOgQ9chclV5pNwaNkvLos0EXBe33uSxKULGJSVw&oe=6ABE9E8A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458182579_1530736000854492_7403626069786058999_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BZq7XOKvl-UQ7kNvwFMl7w7&_nc_oc=AdonuVhJXAUOg5ss3DteejS4srjv1_Z8eBgeDO3q2KXda5FSgjiG_zGi6f1z4Cs62Y8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJXVuwQ3xqIv5wyz02PVhJzuGgKM3SWkaMNd7vAQ_pCJQ&oe=6ABED47E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/457675555_422473206979230_6647399809661269512_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WI9T-hsOgyMQ7kNvwF4PjJi&_nc_oc=Adr9_-934OG5V6vrooP1V_62kPtW2zf_ZuWwPr7hBhRAse66XEohV-DZITJvgYRF0uo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLKNmaFB-zFhG4B0LFEIa7cOvEQpiuI2xv41CxoRcrTfA&oe=6ABED333",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/458301159_1629910207566259_3952094708850031057_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mhPWihHqNCkQ7kNvwGtGGMZ&_nc_oc=AdpYM2qWj01vMhGBFMaIa74avwmnUVazAfDRsiFhHcj79d1TszspAAesISDdCVxQDnA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJio5yswpUv23AHJIKXFp6uNHSUPAkttlvYqeUH3D3pQA&oe=6ABECB3D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=29629133473353126"
+      },
+      {
+        "id": "929199056931918",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 4,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/823849541_1263768712544570_1090670179852673171_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w6GK61bDWCoQ7kNvwHEtNDl&_nc_oc=AdpUPqgz-KPSh1XlqM5S2AteDFT_n0o2q0mKkxvVTjCRifuot41qZkhG-_oolyCdtQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJUR9MTjVdlbAK9gqY-rNVOXQItmRIAwYHsOS74A0EVeg&oe=6ABEC22D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO8WdGZS0haf2z8njpDEpxANpLtZEOPflT4-N1EE0IeF_wya4U_OcUVyROPLdpk5viItUIUx5RjhU59aKkz8iBlEvVnj_SPunqgOYv9AQsZ0A.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=GXlP2JBL40YQ7kNvwFGBODp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzAwNDA0MDExNTIzODMsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f138032a7e749b4f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NDQ4N0I1Nzk2MEFGMjBERUZDRjQ5NDA1NTY2QTI4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDAwNzM5NTc0MkIyRkZFNkMwMDVBNTcxOTFBNDhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-pYK37ILvBBUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQK71Av6Z_1JLMRl4sED705jzip3ulG2QyXV2zW6b-hJtw&oe=6ABECAB0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=929199056931918"
+      },
+      {
+        "id": "994323986318507",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/823849541_1263768712544570_1090670179852673171_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w6GK61bDWCoQ7kNvwHEtNDl&_nc_oc=AdpUPqgz-KPSh1XlqM5S2AteDFT_n0o2q0mKkxvVTjCRifuot41qZkhG-_oolyCdtQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJUR9MTjVdlbAK9gqY-rNVOXQItmRIAwYHsOS74A0EVeg&oe=6ABEC22D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO8WdGZS0haf2z8njpDEpxANpLtZEOPflT4-N1EE0IeF_wya4U_OcUVyROPLdpk5viItUIUx5RjhU59aKkz8iBlEvVnj_SPunqgOYv9AQsZ0A.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=GXlP2JBL40YQ7kNvwFGBODp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzAwNDA0MDExNTIzODMsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f138032a7e749b4f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NDQ4N0I1Nzk2MEFGMjBERUZDRjQ5NDA1NTY2QTI4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDAwNzM5NTc0MkIyRkZFNkMwMDVBNTcxOTFBNDhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-pYK37ILvBBUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQK71Av6Z_1JLMRl4sED705jzip3ulG2QyXV2zW6b-hJtw&oe=6ABECAB0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=994323986318507"
+      },
+      {
+        "id": "2161155358109097",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/823849541_1263768712544570_1090670179852673171_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w6GK61bDWCoQ7kNvwHEtNDl&_nc_oc=AdpUPqgz-KPSh1XlqM5S2AteDFT_n0o2q0mKkxvVTjCRifuot41qZkhG-_oolyCdtQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJUR9MTjVdlbAK9gqY-rNVOXQItmRIAwYHsOS74A0EVeg&oe=6ABEC22D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO8WdGZS0haf2z8njpDEpxANpLtZEOPflT4-N1EE0IeF_wya4U_OcUVyROPLdpk5viItUIUx5RjhU59aKkz8iBlEvVnj_SPunqgOYv9AQsZ0A.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=GXlP2JBL40YQ7kNvwFGBODp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzAwNDA0MDExNTIzODMsImFzc2V0X2FnZV9kYXlzIjozMDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f138032a7e749b4f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NDQ4N0I1Nzk2MEFGMjBERUZDRjQ5NDA1NTY2QTI4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDAwNzM5NTc0MkIyRkZFNkMwMDVBNTcxOTFBNDhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-pYK37ILvBBUCKAJDMywXQEO3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&_nc_zt=28&oh=00_AQK71Av6Z_1JLMRl4sED705jzip3ulG2QyXV2zW6b-hJtw&oe=6ABECAB0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2161155358109097"
+      },
+      {
+        "id": "2868242323543367",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819668140_951505238007239_2369947448274275056_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5oFnvAURJYoQ7kNvwEIWmNd&_nc_oc=AdqdhbvEGfQFigIZovxRbqDLQR8OBhOkabW31R9sUt1kl2LNkBxqcbXfLgRqNeAxCyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJWTG4w7csz5iSJOZ-TK9UdtHwWxzX_xRYGKVa3DuRQpA&oe=6ABEC60B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819276297_1445550670784235_7079004814523593117_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5JRaOHv51xEQ7kNvwFO2LV2&_nc_oc=AdoIZOkgCQ2yzd96YscB3KG3Ff1OTlsiCIOw-gEA_V8vM_A0tok4XfE_FiNNKS8XWDg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJmvsRVq9RTFXlw4rh0yVj7rRamxyD63qeejSPNAqhtsw&oe=6ABEC8A0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/819959332_1133689889340605_4159730755645620978_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8AmIPPymjlIQ7kNvwH5crxx&_nc_oc=AdqMVeSIYMiArAOtOJfJzVv066fPVWA8VBI1-_MkqZRxEHpzHn52WOIUciXwbueiN1M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrd0Wb0_jvox5SZk_aJHt_NoJhNwwc054_zyme4s8G2w&oe=6ABEA3C9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820166062_1097833605961727_3393528369208438794_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uK-TjrmXtCAQ7kNvwEvdl7V&_nc_oc=Adozs10TZY213wHDZWSOdyldQcMEMPe3pGrjA1j-gZQ32n-vmPIj3mpoWQHVBhZF8AM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJ_TXwrMMnu8Cf5AI6noQKD-aLEoqrP-wy7Z3Pkl8bpmw&oe=6ABEC62F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819820854_3517573661754097_3960251345611031336_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x-C-6LBTp0wQ7kNvwGq9P3U&_nc_oc=Adq9VI0l0vHZd0EQGC-HYPhjuZ0panMeVzo1MMl2HniKenkNVafyTuvNHoU7tx8NFtw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLkyA4DR545dFFSuzHvpllRxNxoatEG715ZD4sihJP1Rg&oe=6ABEC83F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819767524_2114301756147434_8834327416616373634_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ZvBbx3PGmMQ7kNvwGLCHcC&_nc_oc=Ado8Rd6XJ-h8_ZKOlb7X7tY-CEgoN-bZu3buF0lyAJpE6AlWu_MExj4j-Gldg9U0Muc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIuA0DpQqC6kYsTyPR1KEI2feETDNr15Dvgty1BIcd1Ug&oe=6ABEB117"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2868242323543367"
+      },
+      {
+        "id": "1640887810805188",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491080744_1197638278487586_849757753038416615_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yDLOKgsp-UcQ7kNvwGEBTEv&_nc_oc=AdrHN7Q6Cbw3TQLo5D_N05WEicafMLHE58CXn9iGX3FF--Q-4ZxzoX-Ktzplw13mA38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKDeZrkdl-amRje5E7VEiGWB9ZGc-h4DBivobr8HXnF_A&oe=6ABED08F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492371632_561031147017417_3283985188525843904_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lt9Z0akhbR0Q7kNvwFmwpLb&_nc_oc=AdoJRULWphIVozp0cAAaU2jeyUJWZxJ7Lgn8fSxAroSByf8IaqMiMT2SCI3mKCIu6n4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIQSwXuBoziu5YdoCx9yVcnkphgDWZ-Fi0aaKxD0HQ-4A&oe=6ABEA122",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492300911_3021231514718440_3777762405674508166_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ZWRQGP_aM8Q7kNvwF_NdLd&_nc_oc=AdpUVTwLHevsfA3UKyeVT8tXu1zFjD11h0c-BO-CjlvkoipwUczESSzCK1EplUjpREU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJD5kcLeAIX3Xx92GNhzil9MWs9rhmQIkJS6X94SNG_Fg&oe=6ABEB705",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/490704479_1351613716099795_7728559698547121432_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8U73Kz8r2hkQ7kNvwH2hN9b&_nc_oc=AdpDeT25ZjPm8FKZNj2iYbWQ8vPWdT9M9Ahc1-b_cPcNIfdrMcB6DNmJ_lBID6Ozd1M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLAjmAEoVn5mM3fQxeY4i60KO_lpN8jxAkVIwqWF_53qw&oe=6ABEBF7F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492013252_659475016955144_7042154081333015824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_A0SCXXvnpQQ7kNvwH6vPiv&_nc_oc=Adp04kHJ5RYltpMJwng6p2m9Jl5kPh6x175dyVCzcDyB4p0D7KGdJN8LVg3mQkTm5fE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrhwz1zRfBNWqRkibbohaFOnn6ZDdza__9bek_4robag&oe=6ABEB881"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1640887810805188"
+      },
+      {
+        "id": "2332627170888387",
+        "page_id": "802228719871600",
+        "page_name": "Suspiros Patisserie",
+        "page_url": "https://www.facebook.com/suspiros.patisserie/",
+        "page_like_count": 2500,
+        "page_categories": [
+          "Chef"
+        ],
+        "ad_creative_link_title": "Suspiros Patisserie",
+        "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491080744_1197638278487586_849757753038416615_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yDLOKgsp-UcQ7kNvwGEBTEv&_nc_oc=AdrHN7Q6Cbw3TQLo5D_N05WEicafMLHE58CXn9iGX3FF--Q-4ZxzoX-Ktzplw13mA38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQKDeZrkdl-amRje5E7VEiGWB9ZGc-h4DBivobr8HXnF_A&oe=6ABED08F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/492371632_561031147017417_3283985188525843904_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lt9Z0akhbR0Q7kNvwFmwpLb&_nc_oc=AdoJRULWphIVozp0cAAaU2jeyUJWZxJ7Lgn8fSxAroSByf8IaqMiMT2SCI3mKCIu6n4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIQSwXuBoziu5YdoCx9yVcnkphgDWZ-Fi0aaKxD0HQ-4A&oe=6ABEA122",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492300911_3021231514718440_3777762405674508166_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4ZWRQGP_aM8Q7kNvwF_NdLd&_nc_oc=AdpUVTwLHevsfA3UKyeVT8tXu1zFjD11h0c-BO-CjlvkoipwUczESSzCK1EplUjpREU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQJD5kcLeAIX3Xx92GNhzil9MWs9rhmQIkJS6X94SNG_Fg&oe=6ABEB705",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/490704479_1351613716099795_7728559698547121432_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8U73Kz8r2hkQ7kNvwH2hN9b&_nc_oc=AdpDeT25ZjPm8FKZNj2iYbWQ8vPWdT9M9Ahc1-b_cPcNIfdrMcB6DNmJ_lBID6Ozd1M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQLAjmAEoVn5mM3fQxeY4i60KO_lpN8jxAkVIwqWF_53qw&oe=6ABEBF7F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/492013252_659475016955144_7042154081333015824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_A0SCXXvnpQQ7kNvwH6vPiv&_nc_oc=Adp04kHJ5RYltpMJwng6p2m9Jl5kPh6x175dyVCzcDyB4p0D7KGdJN8LVg3mQkTm5fE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=IMcG0vmMsUle6822RNLvSw&_nc_ss=70289&oh=00_AQIrhwz1zRfBNWqRkibbohaFOnn6ZDdza__9bek_4robag&oe=6ABEB881"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2332627170888387"
+      },
+      {
+        "id": "1120674480519185",
+        "body": "עוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://api.whatsapp.com/send?phone=972548013327"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1120674480519185",
+        "text": "עוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1386489900305421",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2143462013183911",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2119609405600377",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "4520405431527176",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "992954340408980",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1073161405351044",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1396169205995405",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1642744837507532",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1604085927756152",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1030364826353469",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "919201497888835",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1071443018899008",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1116674097980469",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1577820227194408",
+        "text": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1120674480519185",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nSuspiros Patisserie\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1120674480519185\nהתחילה לפעול ב-17 בספט' 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nSuspiros Patisserie\nממומן\nעוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.\nWHATSAPP\nChatea con nosotros\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:46:48",
+    "filtered": "2026-09-27T09:47:44",
+    "qualified": "2026-09-27T09:48:17"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972548013327",
+      "source": "https://api.whatsapp.com/send?phone=972548013327"
+    },
+    "missing": []
+  }
+}

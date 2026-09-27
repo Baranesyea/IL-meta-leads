@@ -714,7 +714,129 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 13,
+      "seen": 13,
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-05-27",
+      "days_since_newest": 5,
+      "longest_running_days": 123,
+      "distinct_texts": 13,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          12
+        ],
+        [
+          "SEE_DETAILS",
+          1
+        ]
+      ],
+      "videos": 11,
+      "landings": [
+        [
+          "tyroler.co.il/product-category/floor-cleaning/brooms",
+          2
+        ],
+        [
+          "tyroler.co.il/product/newhome-bundle",
+          2
+        ],
+        [
+          "tyroler.co.il/product/siliconebrush2",
+          2
+        ],
+        [
+          "tyroler.co.il/product/beginner-bundle",
+          1
+        ],
+        [
+          "tyroler.co.il/product-category/window-cleaning/gliders",
+          1
+        ],
+        [
+          "tyroler.co.il",
+          1
+        ],
+        [
+          "tyroler.co.il/product/knuckle-broom",
+          1
+        ],
+        [
+          "tyroler.co.il/product/japanese-broom",
+          1
+        ]
+      ],
+      "landing_status": {
+        "tyroler.co.il/product/beginner-bundle": "ok",
+        "tyroler.co.il/product-category/window-cleaning/gliders": "ok",
+        "tyroler.co.il": "ok",
+        "tyroler.co.il/product-category/floor-cleaning/brooms": "ok",
+        "tyroler.co.il/product/knuckle-broom": "ok",
+        "tyroler.co.il/product/newhome-bundle": "ok"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2026-05-27",
+          "cta": "SHOP_NOW",
+          "title": "המארז הבסיסי של טירולר- חובה בכל בית!!",
+          "body": "תכירו את המארז הבסיסי של טירולר שכל בית *חייב*:\n\n☑️ מבריקן - מגב הפלא פטנט\n☑️ מטאטא סיליקון מפרקי\n☑️ מגב סיליקון מפרקי\n\nכל המוצרים באיכות גבוהה, מתאימים לכל סוגי המשטחים ובמשלוח עד הבית!\nכל מה שאתם *חייבים* לבית נקי בקלות ובלי מאמץ! 😉\n\nמהרו להזמין, המלאי מוגבל. \nלהזמנה מהירה >>",
+          "landing": "https://tyroler.co.il/product/beginner-bundle/"
+        },
+        {
+          "start": "2026-06-07",
+          "cta": "SHOP_NOW",
+          "title": "הגליידר החדש של טירולר- מנקה חלונות מגנטי",
+          "body": "לא מצליחים לנקות את החלונות החיצוניים? \nעכשיו אתם יכולים 😎\nתכירו את הגליידרים החדשים שלנו - מנקה חלונות מגנטיים:\n\n👈 עשוי ביציקה אחת של 100% סיליקון, עמיד במיוחד\n👈 מתאים לכל החלונות בעולם, מנקה בצורה מושלמת ולא שורט את החלון\n👈 מגנטים עוצמתיים במיוחד, מגנט-על ממתכת נדירה\n👈 מתאים לניקוי זכוכית כפולה בעובי 2 מ”מ עד 30 מ”מ\n👈 גריפה מושלמת בעזרת 4 מגבי 100% סיליקון\n👈 4 מטליות מיקרופייבר כלולות שתיים להול",
+          "landing": "https://tyroler.co.il/product-category/window-cleaning/gliders/"
+        },
+        {
+          "start": "2026-06-01",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "אהבתם את כלי הניקיון שלנו?\nטירולר - כלי הניקיון הטובים בעולם! 🧹\nאתם עוד כאן?! >>",
+          "landing": "https://tyroler.co.il/"
+        },
+        {
+          "start": "2026-06-16",
+          "cta": "SHOP_NOW",
+          "title": "\"רב-מג\" של טירולר- המטאטא האחרון שלכם!",
+          "body": "תכירו את ה\"רב-מג\" של טירולר. \nגם מטאטא סיליקון חדשני לוכד אבק וגם מגב בכלי אחד.\nגם ניקיון יבש וגם ניקיון רטוב.\nגם וגם וגם וגם וכל זה בכלי אחד בלבד 😍\n\nמהרו, המלאי מוגבל. להזמנה מהירה >>",
+          "landing": "https://tyroler.co.il/product-category/floor-cleaning/brooms/"
+        },
+        {
+          "start": "2026-06-16",
+          "cta": "SHOP_NOW",
+          "title": "למציאת המטאטא המדויק עבורכם >>",
+          "body": "נמאס לכם ממטאטאים שמשאירים חצי מהאבק על הרצפה? הגיע הזמן להשתדרג לטירולר.\nבין אם זה איסוף שערות של חיות מחמד, גריפת מים או ניקוי פינות צפופות, יש לנו את המטאטא המושלם למשימה.\n\n✅ 100% גומי או סיליקון איכותי\n✅ עמיד לשנים\n✅ היגייני וקל לשטיפה\n\nהקליקו וצפו בכל הקולקציה >>",
+          "landing": "https://tyroler.co.il/product-category/floor-cleaning/brooms/"
+        },
+        {
+          "start": "2026-08-24",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "מטאטא מגב- 2 מוצרים ב1 גם נוח לקרצופים, מקרצפות עם המטאטא ובסוף הופכות ויש לכן מגב\nהמגב נדיר! גבגוב אחד והרצפה יבשה לחלוטין! וגם ליבש זה טירוף!\nהמטאטא מוציא מהשטיח מה שאף שואב לא יוציא לכן. זה עולם!!! כללל ההדגמות וההנחה בהייליט",
+          "landing": "https://tyroler.co.il/product/knuckle-broom/?material=silicone&blade=includes"
+        },
+        {
+          "start": "2026-08-18",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://tyroler.co.il/product/newhome-bundle/"
+        },
+        {
+          "start": "2026-08-16",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "⁨ קוד הנחה Orel5 ✨ \nמברשת האסלה החדשה של טירולר עכשיו באתר והיא בהנחה למשתמשים רשומים אז כנסו להירשם ועל זה עוד הנחה עם הקוד Orel5 ! \nהקוד כולל כפל מבצעים תהנו!\n\nבשיתןף ‪@tyroler.ltd‬ \n#ניקיון #ניקיונות #clean #בית #סדרוארגון⁩",
+          "landing": "https://tyroler.co.il/product/siliconebrush2/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

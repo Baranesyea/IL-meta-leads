@@ -767,7 +767,137 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 15,
+      "seen": 14,
+      "newest_start": "2026-09-22",
+      "oldest_start": "2026-06-28",
+      "days_since_newest": 5,
+      "longest_running_days": 91,
+      "distinct_texts": 12,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          5
+        ],
+        [
+          "SEE_DETAILS",
+          4
+        ],
+        [
+          "ORDER_NOW",
+          4
+        ],
+        [
+          "",
+          1
+        ]
+      ],
+      "videos": 10,
+      "landings": [
+        [
+          "depot365.co.il/items/9500460-%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%a9%d7%98%d7%99%d7%a4%d7%94-%d7%91%d7%9c%d7%97%d7%a5-195-%d7%91%d7%a8-gpt-hl312pro-%d7%a2%d7%95%d7%a6%d7%9e%d7%94-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%99%d7%a1%d7%95%d7%93%d7%99-%d7%a1%d7%9e%d7%99%d7%a7%d7%95%d7%9d",
+          2
+        ],
+        [
+          "depot365.co.il",
+          2
+        ],
+        [
+          "fb.com/messenger_doc",
+          1
+        ],
+        [
+          "depot365.co.il/193412-%d7%9c%d7%93%d7%a8%d7%9e%d7%9f",
+          1
+        ],
+        [
+          "depot365.co.il/191714-%d7%9b%d7%9c%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94",
+          1
+        ],
+        [
+          "depot365.co.il/items/9266759_admin_version_1787732624",
+          1
+        ],
+        [
+          "depot365.co.il/items/8617218-gozney-dome-xl-black-gas-wood-oven",
+          1
+        ],
+        [
+          "depot365.co.il/191670-%d7%a6%d7%99%d7%95%d7%93-%d7%a7%d7%9e%d7%a4%d7%99%d7%a0%d7%92",
+          1
+        ]
+      ],
+      "landing_status": {
+        "depot365.co.il/items/9500460-%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%a9%d7%98%d7%99%d7%a4%d7%94-%d7%91%d7%9c%d7%97%d7%a5-195-%d7%91%d7%a8-gpt-hl312pro-%d7%a2%d7%95%d7%a6%d7%9e%d7%94-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%99%d7%a1%d7%95%d7%93%d7%99-%d7%a1%d7%9e%d7%99%d7%a7%d7%95%d7%9d": "ok",
+        "depot365.co.il": "ok",
+        "fb.com/messenger_doc": "ok",
+        "depot365.co.il/193412-%d7%9c%d7%93%d7%a8%d7%9e%d7%9f": "ok",
+        "depot365.co.il/191714-%d7%9b%d7%9c%d7%99-%d7%a2%d7%91%d7%95%d7%93%d7%94": "ok",
+        "depot365.co.il/items/9266759_admin_version_1787732624": "ok"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2026-09-19",
+          "cta": "SEE_DETAILS",
+          "title": "מכונת שטיפה בלחץ GPT HL312PRO של סמיקום",
+          "body": "מחיר באילת: 479 ₪ בלבד! 💥\nמכונת שטיפה בלחץ GPT HL312PRO של סמיקום - לניקוי חזק, מהיר ויסודי של רכבים, חצרות, מרפסות, שבילים ומשטחים חיצוניים.\nעם לחץ מים של עד 195 בר, מנוע 2500W וזרימת מים של עד 8 ליטר בדקה - היא מתמודדת בקלות עם לכלוך קשה, בוץ ומשקעים.\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ See less",
+          "landing": "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A"
+        },
+        {
+          "start": "2026-07-20",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.depot365.co.il/?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB"
+        },
+        {
+          "start": "2026-09-19",
+          "cta": "SEE_DETAILS",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://fb.com/messenger_doc/"
+        },
+        {
+          "start": "2026-06-28",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.depot365.co.il/193412-%D7%9C%D7%93%D7%A8%D7%9E%D7%9F?q=%D7%9C%D7%93%D7%A8%D7%9E%D7%9F&utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+"
+        },
+        {
+          "start": "2026-09-22",
+          "cta": "SEE_DETAILS",
+          "title": "",
+          "body": "רוצים להחזיר לרכב, לחצר או למרפסת את המראה הנקי באמת? 💦\nמכונת השטיפה בלחץ GPT HL312PRO  עושה את העבודה מהר, חזק ובלי מאמץ מיותר.\nמניקוי רכבים ועד הסרת לכלוך עקשן משבילים, משטחים וחצרות - זה הפתרון שכל בית צריך כדי לשמור על סביבה נקייה, מסודרת ומרשימה יותר.\nפשוט מחברים, שוטפים ורואים את ההבדל.\n\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונ",
+          "landing": "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT"
+        },
+        {
+          "start": "2026-09-20",
+          "cta": "ORDER_NOW",
+          "title": "",
+          "body": "כלי עבודה במחירים סופר משתלמים - בעולם הצבעים אילת! 🔧\nהזמינו עכשיו גם מהצפון וגם מהרכז ואספו אצלנו!\nלבחירה והזמנה >> https://bit.ly/4b0FPwg\n\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+          "landing": "https://www.depot365.co.il/191714-%D7%9B%D7%9C%D7%99-%D7%A2%D7%91%D7%95%D7%93%D7%94?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB"
+        },
+        {
+          "start": "2026-09-20",
+          "cta": "ORDER_NOW",
+          "title": "שואב האבק המשולב UV של Kärcher",
+          "body": "ניקוי עמוק שמרגישים באמת‼️\nשואב האבק המשולב UV של Kärcher נועד לניקוי יסודי של מזרנים, ספות, כריות ומשטחי טקסטיל, ומסייע בהתמודדות עם פשפש המיטה, קרדית האבק, אלרגנים וטפילים מבעלי חיים.\nהשילוב בין אור UV, רטט עוצמתי ויניקה חזקה עוזר לשחרר לכלוך וחלקיקים מתוך סיבי הבד ולשאוב אותם ביעילות למיכל ייעודי.\nפתרון חכם לבית נקי יותר, בריא יותר ונעים יותר.\nלהשיג עכשיו בעולם הצבעים >> https://bit.ly/4xUBqUG\n",
+          "landing": "https://www.depot365.co.il/items/9266759_admin_version_1787732624?utm_source=fb+karcher&utm_medium=fb+karcher&utm_id=fb+karcher"
+        },
+        {
+          "start": "2026-08-11",
+          "cta": "",
+          "title": "",
+          "body": "שמשיית צד טורינו בקוטר 3 מטר היא פתרון מושלם לגינה, למרפסת, לבריכה או לפינת האירוח שלכם.\nהשמשייה כוללת בסיס פלסטיק, מעניקה כיסוי רחב ונוח, ומתאימה במיוחד ליצירת אזור מוצל ונעים בימי הקיץ החמים.\nעיצוב צד פרקטי מאפשר ליהנות מצל מבלי שהעמוד יפריע במרכז פינת הישיבה - פתרון נוח, יפה ושימושי לכל חצר או מרפסת.\n\nמחיר מיוחד: 629 ₪ בלבד\nלרכישה: https://shorturl.at/11rvD",
+          "landing": ""
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-27-229",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61563460034154/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "398133786711369",
+    "page_name": "Romiz bakery",
+    "active_ads_count": 1,
+    "search_keyword": "עוגות מעוצבות",
+    "sample_ads": [
+      {
+        "ad_id": "2468125667017065",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/657250042_2372031163260639_1073109657100182022_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pds5jlXYLKMQ7kNvwEPUiLi&_nc_oc=Adptcglwl5b_jTW-HrR410G17iYwGXyCDW46sdOWG-Fd_1AVWoJNRjsxdMVa1dSJEIM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQKHqJmpW95sUmYztbxBplm6ggg6mPzup622qzBScNLMWw&oe=6ABEA0CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658430346_1440276060745567_6776219855549284120_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t23uj4WXQCIQ7kNvwEoyoFe&_nc_oc=AdpLLvCXFQ-bE0N2UfA3lMJYeX7np72yX2Eiy3UdsBgzWS-n1ygfy3qxHUtwkCo4JdY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQJ1RW60L0_XUrHIWAqhO57skqgQkHfmExZAsAaVK4XtDw&oe=6ABED158",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657329400_4433512116930436_1222423844982244676_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j4xfpj2XLw0Q7kNvwGLLWuP&_nc_oc=AdqnwSfb1YOMkINMOA7DAY-FEEip1AQUOwqv1tAWZ6mYLASyD1g1zf13FsfFkEuMMeo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQLP4vl_7VKmCogThW0BTJVDZJ2RlNMUBmbJBQJTQd0e_w&oe=6ABED03F"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782630000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2468125667017065"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 225,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2468125667017065"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 225,
+    "page_categories": [
+      "Bakery",
+      "Food & Drink",
+      "Brand"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:46:48",
+    "rejected": "2026-09-27T09:47:12"
+  }
+}

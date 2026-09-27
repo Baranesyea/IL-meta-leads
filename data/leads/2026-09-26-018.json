@@ -1184,7 +1184,115 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 15,
+      "seen": 15,
+      "newest_start": "2026-06-03",
+      "oldest_start": "2025-06-09",
+      "days_since_newest": 116,
+      "longest_running_days": 475,
+      "distinct_texts": 7,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          7
+        ],
+        [
+          "SEE_DETAILS",
+          5
+        ],
+        [
+          "LEARN_MORE",
+          3
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "petsale.co.il",
+          7
+        ],
+        [
+          "petsale.co.il/g/64405-%d7%99%d7%a6%d7%a8%d7%9f/413310-hills",
+          4
+        ],
+        [
+          "petsale.co.il/g/64405-%d7%99%d7%a6%d7%a8%d7%9f/409961-pro-plan",
+          3
+        ],
+        [
+          "fb.com/canvas_doc/24066249029679551",
+          1
+        ]
+      ],
+      "landing_status": {
+        "petsale.co.il": "ok",
+        "petsale.co.il/g/64405-%d7%99%d7%a6%d7%a8%d7%9f/409961-pro-plan": "ok",
+        "petsale.co.il/g/64405-%d7%99%d7%a6%d7%a8%d7%9f/413310-hills": "ok",
+        "fb.com/canvas_doc/24066249029679551": "ok"
+      },
+      "home_share": 7,
+      "samples": [
+        {
+          "start": "2025-06-09",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים המובילים במחירים המשתלמים ביותר!\n* כל המוצרים מאושרים ומקוריים מהיבואן הרשמי.",
+          "landing": "https://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-02-27",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "ההאו-בים שלכם מחכים לנו...\nאל תשכחו אותנו בעגלת הקניות😉",
+          "landing": "https://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-02-24",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}{{product.short_description}}",
+          "body": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+          "landing": "http://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-02-24",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}{{product.short_description}}",
+          "body": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+          "landing": "http://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-02-24",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}{{product.short_description}}",
+          "body": "אוהבים את הילס (Hill's)? תאהבו את המחיר שלנו בפט סייל! 💰 \nהמזון האיכותי ביותר בעולם במחירים שאסור לפספס. \n✅ אספקה מהירה \n✅ שירות אישי ומקצועי \n✅ כל הסוגים לכלבים וחתולים במקום אחד. \n\nהיכנסו עכשיו והזמינו את השק הבא שלכם!",
+          "landing": "http://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-02-24",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}{{product.short_description}}",
+          "body": "רוצים לראות את ההבדל בעיניים? ✨ עם Pro Plan, השינוי מתחיל מבפנים: פרווה מבריקה יותר, עיכול שקט ואנרגיה שלא נגמרת. הנוסחה המדעית של פורינה מעניקה הגנה חזקה ומערכת חיסונית עמידה לכלב ולחתול שלכם. אל תתפשרו על פחות מביצועי שיא. עכשיו ב\"פט סייל\" במלאי זמין לכל הגילאים והצרכים!",
+          "landing": "http://www.petsale.co.il/"
+        },
+        {
+          "start": "2026-06-02",
+          "cta": "SEE_DETAILS",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+        },
+        {
+          "start": "2026-02-25",
+          "cta": "LEARN_MORE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.petsale.co.il/g/64405-%D7%99%D7%A6%D7%A8%D7%9F/409961-Pro-plan"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

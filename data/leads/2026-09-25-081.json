@@ -1906,7 +1906,124 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 32,
+      "seen": 30,
+      "newest_start": "2026-06-14",
+      "oldest_start": "2026-02-23",
+      "days_since_newest": 105,
+      "longest_running_days": 216,
+      "distinct_texts": 9,
+      "ctas": [
+        [
+          "LEARN_MORE",
+          15
+        ],
+        [
+          "SHOP_NOW",
+          13
+        ],
+        [
+          "SEE_DETAILS",
+          1
+        ],
+        [
+          "BOOK_TRAVEL",
+          1
+        ]
+      ],
+      "videos": 17,
+      "landings": [
+        [
+          "moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8",
+          12
+        ],
+        [
+          "moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94",
+          7
+        ],
+        [
+          "moonjewelry.co.il",
+          6
+        ],
+        [
+          "moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d",
+          4
+        ],
+        [
+          "moonjewelry.co.il/product-category/%d7%a0%d7%a0%d7%95-%d7%94%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%9b%d7%9c%d7%9c%d7%99-%d7%9c%d7%92%d7%91%d7%a8",
+          1
+        ]
+      ],
+      "landing_status": {
+        "moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8": "ok",
+        "moonjewelry.co.il": "ok",
+        "moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94": "ok",
+        "moonjewelry.co.il/product-category/%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d": "ok",
+        "moonjewelry.co.il/product-category/%d7%a0%d7%a0%d7%95-%d7%94%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%94%d7%9b%d7%9c%d7%9c%d7%99-%d7%9c%d7%92%d7%91%d7%a8": "ok"
+      },
+      "home_share": 6,
+      "samples": [
+        {
+          "start": "2026-02-23",
+          "cta": "LEARN_MORE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        },
+        {
+          "start": "2026-02-23",
+          "cta": "SHOP_NOW",
+          "title": "תכשיטים עם חריטה אישית",
+          "body": "בתקופה כזו של חוסר ודאות, האהובים שלכם ישמחו לדעת כמה הם יקרים לכם ולקבל מתנה עם חריטה אישית ומרגשת עד הבית\nתכשיט עם חריטה אישית, זו מתנה נפלאה, שגורמת לאהובים שלכם להבין כמה אתם חשובים להם, ומה אתם עבורם.",
+          "landing": "https://moonjewelry.co.il/"
+        },
+        {
+          "start": "2026-02-23",
+          "cta": "SHOP_NOW",
+          "title": "תכשיטים עם חריטה אישית",
+          "body": "הגבר שלך הוא הגבר המושלם נכון? 😍 הוא חזק, הוא שומר עליך , והוא אוהב אותך, הוא תמיד עושה הכל בשבילך. תראי לו כמה הוא חשוב ויקר לך ותעניקי לו את המתנה שהוא הכי זקוק לה, במיוחד עכשיו. צמיד עם חריטה אישית ומרגשת שיהיה איתו גם כשהוא קצת רחוק.\nהצמיד עמיד למים 💦💧 ומגיע בקופסא מרשימה 🎁 עם אחריות לשנה, הוא יוקרתי ויפייפה, והחלק הכי חשוב שאפשר לחרוט כל מה שרוצים ומרגישים, שמות, ציטוטים משירים, משפטים שרק את",
+          "landing": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        },
+        {
+          "start": "2026-02-23",
+          "cta": "SHOP_NOW",
+          "title": "תכשיטים עם חריטה אישית",
+          "body": "הגבר שלך הוא האבא המושלם נכון? הוא חזק, הוא שומר עליכם, והוא אוהב אתכם, והוא תמיד עושה הכל בשבילכם, בשביל המשפחה שלו. תראי לו כמה הוא חשוב ויקר לכם ותעניקי לו את המתנה שהוא הכי זקוק לה, להיות איתכם בכל מקום ובכל זמן, גם כשהוא קצת רחוק.\nצמיד חריטה עם שמות המשפחה. במגוון צבעים שהוא אוהב. \nזה בדיוק הזמן.\nוזו בדיוק המתנה.",
+          "landing": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%92%d7%91%d7%a8/"
+        },
+        {
+          "start": "2026-06-01",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "🌟🎁 מחפשים את המתנה המושלמת שתיגע בלב של היקרים שלכם? 🌟🎁 תכשיטי חריטה אישיים הם המתנה המושלמת שמספרת את הסיפור שלכם.  תכשיט אישי שמגיע מהלב ישר ללב, ירגש כל אישה שתקבל אותו 🌈✨  האהובים שלכם יתמלאו באושר כשקופסה קטנה תיפתח ותתגלה מתנה כל כך אישית ומשמעותית, תזכורת קטנה ויפה לאהבה שלכם 💖  \nב-Moon Jewelry כל התכשיטים שלנו עמידים במים, לא משחירים ולא משנים את הצבע 💦  אתם יכולים לבחור תכשיט ולחרוט כל דב",
+          "landing": "http://moonjewelry.co.il/"
+        },
+        {
+          "start": "2026-02-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        },
+        {
+          "start": "2026-06-01",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "הגבר שלך הוא הגבר המושלם ❤️\nהוא תמיד דואג שיהיה לך הכל, הוא תמיד איתך בטוב וגם ברע ובא לך בטירוף לתת לו מתנה מרגשת אבל את לא יודעת מה.\nתכשיט עם חריטה אישית ומשמעותית לכם זו המתנה המושלמת. את יכולה לחרוט כל דבר שיעשה לו טוב,\nשמות הילדים שלכם, ציטוטים משירים, משפטים מצחיקים שרק אתם מבינים, תאריכים ועוד.\nקולקציות מדהימות מחכות לך באתר שלנו.\nמתלבטת? לגבי תכשיט מסוים? יש לך שאלה? שירות הלקוחות שלנו זמי",
+          "landing": "http://moonjewelry.co.il/"
+        },
+        {
+          "start": "2026-02-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://moonjewelry.co.il/product-category/%d7%a6%d7%9e%d7%99%d7%93%d7%99-%d7%97%d7%a8%d7%99%d7%98%d7%94-%d7%9c%d7%90%d7%99%d7%a9%d7%94/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

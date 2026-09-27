@@ -282,7 +282,59 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-08-29",
+      "oldest_start": "2025-08-25",
+      "days_since_newest": 29,
+      "longest_running_days": 398,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          1
+        ],
+        [
+          "WHATSAPP_MESSAGE",
+          1
+        ]
+      ],
+      "videos": 1,
+      "landings": [
+        [
+          "eli-paz.co.il",
+          1
+        ],
+        [
+          "api.whatsapp.com/send",
+          1
+        ]
+      ],
+      "landing_status": {
+        "eli-paz.co.il": "ok",
+        "api.whatsapp.com/send": "whatsapp"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2025-08-25",
+          "cta": "SHOP_NOW",
+          "title": "אלי פז - חנות תכשיטים בתל אביב. זהב, כסף, יהלומים, טבעות, שרשראות.",
+          "body": "בחנות תכשיטים של אלי פז בתל אביב יש - חנות יהלומים, חנות תכשיטי זהב, חנות טבעות, חנות שרשראות, חייגו 035167021 - רחוב אלנבי 67",
+          "landing": "http://eli-paz.co.il/"
+        },
+        {
+          "start": "2026-08-29",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מבחר ענק של עגילי יהלומי מעבדה CVD הכל מתועד IGI!!💎. זמין בכל הגדלים ובכל חיתוכי היהלומים במחיר של החל מ 1799 ש״ח בלבד!! אלי פז תכשיטים , אלנבי 67/35 תל אביב יפו 📍. לפרטים שלחו לנו הודעה 💌",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

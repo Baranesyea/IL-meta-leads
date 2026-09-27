@@ -420,7 +420,90 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 7,
+      "seen": 7,
+      "newest_start": "2026-09-09",
+      "oldest_start": "2026-08-26",
+      "days_since_newest": 18,
+      "longest_running_days": 32,
+      "distinct_texts": 4,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          7
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "pets-online.pet",
+          6
+        ],
+        [
+          "pets-online.pet/search",
+          1
+        ]
+      ],
+      "landing_status": {
+        "pets-online.pet": "ok",
+        "pets-online.pet/search": "ok"
+      },
+      "home_share": 6,
+      "samples": [
+        {
+          "start": "2026-09-09",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+          "landing": "https://www.pets-online.pet/"
+        },
+        {
+          "start": "2026-08-26",
+          "cta": "SHOP_NOW",
+          "title": "קונים 10 ליטר חול לחתולים ומקבלים 6 ליטר מתנה!",
+          "body": "🔥 מבצע השקה שלא כדאי לפספס! 🔥\n\nקונים חול חתולים מתגבש Clever Cat בנפח 10 ליטר, במחיר השקה של 89 ₪ בלבד — ומקבלים אריזת 6 ליטר במתנה!\n\nחול פרימיום מ־100% בנטונייט טבעי, עם התגבשות חזקה ונטרול יעיל של ריחות, לבית נקי ונעים יותר.\n\n🎁 קונים 10 ליטר ומקבלים 6 ליטר מתנה\n🚚 בקנייה מעל 199 ₪ — משלוח חינם\n⏳ בתוקף עד סוף החודש או עד גמר המלאי\n⚠️ מלאי מוגבל — מינימום 100 יחידות במבצע\n\nזה הזמן להצטייד לפני שהמל",
+          "landing": "https://www.pets-online.pet/search?type=product&filter.v.availability=1&q=clever&options%5Bprefix%5D=last&type=product&form_type=product&utf8=✓&product-id=10350804238632&section-id=predictive-search-compatibility&var_id=52118724870440&var_id=52118852239656&var_id=52118905225512"
+        },
+        {
+          "start": "2026-08-26",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "מחפשים את המוצרים הכי  איכותיים לכלבים ולחתולים שלכם?\nפטס אונליין כאן כדי לדאוג לחיית המחמד שלכם עם מבחר ענק של מזון, צעצועים, אביזרים ועוד!\n\n✅ מזון איכותי שמתאים בדיוק לצרכים של הכלב או החתול שלכם\n✅ צעצועים ואביזרים שיעשו להם את היום הרבה יותר שמח\n✅ משלוחים מהירים עד הבית בכל הארץ\n✅ שירות אישי שמתייחס לכל לקוח ובעלי זנב\n\nהכנסו עכשיו, הזמינו וקבלו משלוח מהיר עד הדלת! 🚚",
+          "landing": "https://www.pets-online.pet/"
+        },
+        {
+          "start": "2026-09-09",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+          "landing": "https://www.pets-online.pet/"
+        },
+        {
+          "start": "2026-09-09",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+          "landing": "https://www.pets-online.pet/"
+        },
+        {
+          "start": "2026-09-09",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "המוצרים שהם אוהבים מחכים להם ב־Pets Online 🐾\n\nמזון, חטיפים, צעצועים וציוד לכלבים ולחתולים במקום אחד.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו מתוך אלפי מוצרים והזמינו עכשיו",
+          "landing": "https://www.pets-online.pet/"
+        },
+        {
+          "start": "2026-09-09",
+          "cta": "SHOP_NOW",
+          "title": "משלוח חינם בקנייה מעל 199 ₪",
+          "body": "כל מה שחיות המחמד שלכם צריכות, במקום אחד 🐾\n\nמזון איכותי, חטיפים מפנקים, צעצועים וציוד לכלבים ולחתולים.\n\n🚚 משלוחים מהירים לכל הארץ\n🎁 משלוח חינם בקנייה מעל 199 ₪\n🛒 בחרו את המוצרים שמתאימים להם והזמינו עכשיו מ־Pets Online",
+          "landing": "https://www.pets-online.pet/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

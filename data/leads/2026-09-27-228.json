@@ -1,0 +1,506 @@
+{
+  "lead_id": "2026-09-27-228",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063621293713/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "110864967294847",
+    "page_name": "Dr. Frosting",
+    "active_ads_count": 7,
+    "search_keyword": "עוגות מעוצבות",
+    "sample_ads": [
+      {
+        "ad_id": "1711552420060305",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648216528_937763438833441_7872573366505417772_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tdaXa8bXgJIQ7kNvwH8svra&_nc_oc=AdptRtZIq74ndzDJZ4md1HoLd3rE3rQUmilPYAh2Sx9qMWYwLpE2zzoxaIqcLp69k5s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQLNkrwWRQq5IkrQ9RqexrQ7qNK0W52bTT6dswsxbpDZgg&oe=6ABECF13",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648230408_914925934583872_2695190112712159626_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A93o1swjuFMQ7kNvwH2M3wK&_nc_oc=AdqU4oBYbeekglDL1wXAQTzCgnj70dzjSYpFw_ha5VrjH-reI_2ga2-LF3S226z9Q0w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQJCdHkL2O7gixQrFXaG7H8AVZatyadh-OSXtDEWdMp0vA&oe=6ABEA0C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648230408_914925934583872_2695190112712159626_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A93o1swjuFMQ7kNvwH2M3wK&_nc_oc=AdqU4oBYbeekglDL1wXAQTzCgnj70dzjSYpFw_ha5VrjH-reI_2ga2-LF3S226z9Q0w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQJCdHkL2O7gixQrFXaG7H8AVZatyadh-OSXtDEWdMp0vA&oe=6ABEA0C2"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1786172400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1711552420060305"
+      },
+      {
+        "ad_id": "1548320742823462",
+        "link_title": "<<< להזמנות",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718265045_998399642839066_662946280982081895_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wjt3W3oktM8Q7kNvwGz-nH2&_nc_oc=AdoFuGwSw3goOfBqPkWPenTm8ZlFkHj1W0KI5z2en5XgcGEkNjbCyAIB3odeVoBzmJw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQJa1yk0ahpoCKgYeIHpmxZ-KdgJm1eQprMuefGOfboN4A&oe=6ABEC9A7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjYPW-F8rQeP3db3EDkKMMTtHOaRbDXMB9FNAQbf4z2HolIVYJBuDoXOW5yI3EgIaEhFB22UtT3qENQF0NEKcGckMQfAwK0jbB8fbOA6nFiA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lxNleEbujHMQ7kNvwFv7dFC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMTEwODY2NzYxNzQ3NzQsImFzc2V0X2FnZV9kYXlzIjoxMDksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ff3322d41c6fd758&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MTQ3RUJGNUQ3NjZCNTMwMUIzQUQ3RDJDMkU1MEJCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDQzNzhDRjZBNDNBNEQ2QkY2RkMzMEZDRDI3OEJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsnpGv08SSBxUCKAJDMywXQESiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJGALTvcbvM7XusrOKjriX9t6wzMKy0UI6R65eNyI5CFQ&oe=6ABEC948"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1786258800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1548320742823462"
+      },
+      {
+        "ad_id": "910817642081445",
+        "link_title": "<<< להזמנות",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752924723_1770817914285482_393153416256258428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=--JamPRpFmoQ7kNvwHvf9Vn&_nc_oc=AdozQT-608ZH5WgtB8pkjOqFxjJJxvqABQT4ToEMU1qn87M3tbTqTJHwKAcRL2pS-dU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQLhY1i_rhHLyYcGNPPloudjjmW-5ZdUrD5nAR19BkALZQ&oe=6ABED34A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7EQdxYy3OeDka_UgXqVBnipy6GV0vvbUt---vy6re6r4H5rZURYc9VfPfQYIpz8-TkUObAELs5yfKWzTd0-QWQeVGh0MmjLwU1-0w-IQ_Kw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9rN70T3BAgEQ7kNvwHOO3rI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU1NzA1MjY3NDY1NDkyNjIsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b94b959f86f686e5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDQyQTkxRDM3MjU0MkNBNkE1MzBGODExQ0RGQjA5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENEYwNEQ0NDgzMkM0QzAzQkYyODc4MjEyMjZCREJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACac8IS_qpflExUCKAJDMywXQC8AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKjghKGcRPntonX8HDI_BS8TtSMnVEyUxe1ZKPm4L-A6Q&oe=6ABECFFE"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1786258800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=910817642081445"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 7,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1860,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1711552420060305",
+      "1548320742823462",
+      "910817642081445"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1860,
+    "page_categories": [
+      "Cupcakes"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1711552420060305",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648216528_937763438833441_7872573366505417772_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tdaXa8bXgJIQ7kNvwGqt3wP&_nc_oc=AdpxlbLQeoB8-0KxRcQS6tWAEOf4OMdLpq-ckTZfusrDqkDtOgSNEdRo4fu-4Dl20sA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQJWsUtb8ZOaZjlmy0S56FTCmljuvEfa5tLX2DJsUKBULg&oe=6ABECF13",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648230408_914925934583872_2695190112712159626_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A93o1swjuFMQ7kNvwE4PODA&_nc_oc=Adr8K_6H97ZQGRj6AnLGUg_FTAZnpJG3-1Z-l4yW7mVeQ1tF7ZPXORPZUMRxPfqtwtg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQLd9ugEXRc2SI9TkE9Od3NYPIj4ju4xBDDrOzUhlpkPZA&oe=6ABEA0C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/648230408_914925934583872_2695190112712159626_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A93o1swjuFMQ7kNvwE4PODA&_nc_oc=Adr8K_6H97ZQGRj6AnLGUg_FTAZnpJG3-1Z-l4yW7mVeQ1tF7ZPXORPZUMRxPfqtwtg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQLd9ugEXRc2SI9TkE9Od3NYPIj4ju4xBDDrOzUhlpkPZA&oe=6ABEA0C2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1711552420060305"
+      },
+      {
+        "id": "1548320742823462",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "<<< להזמנות",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718265045_998399642839066_662946280982081895_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wjt3W3oktM8Q7kNvwFSiIkf&_nc_oc=AdrnqCP1e3Bc9lud8i0SoKb5EqU63O_2BbZ9O1D2fZ8Wfb1rYyWUKhWrk7U7MkZ1oNo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQIrIXUvGXrw8s4CqSkjDU-bX7yhHwe2eIJBJEtkMeulsg&oe=6ABEC9A7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjYPW-F8rQeP3db3EDkKMMTtHOaRbDXMB9FNAQbf4z2HolIVYJBuDoXOW5yI3EgIaEhFB22UtT3qENQF0NEKcGckMQfAwK0jbB8fbOA6nFiA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lxNleEbujHMQ7kNvwHfIBHo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMTEwODY2NzYxNzQ3NzQsImFzc2V0X2FnZV9kYXlzIjoxMDksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ff3322d41c6fd758&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MTQ3RUJGNUQ3NjZCNTMwMUIzQUQ3RDJDMkU1MEJCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDQzNzhDRjZBNDNBNEQ2QkY2RkMzMEZDRDI3OEJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsnpGv08SSBxUCKAJDMywXQESiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&_nc_zt=28&oh=00_AQIQS0878vxT5ZG25ypRdCLEX9PBdipgGztCp9jg67DbDw&oe=6ABEC948"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1548320742823462"
+      },
+      {
+        "id": "1706904627064153",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "",
+        "body": "עיצוב אישי עד הפרט האחרון ✨\nעוגות שנוצרות במיוחד עבור הרגע שלכם 🤍\nמזכירות לכן שאפשר להזמין את העוגות גם ללא קמח חיטה או בגרסת פרווה 🫶",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/781008927_1080902741072562_6912487653637504247_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XUeSsYZj3iMQ7kNvwGyEv14&_nc_oc=Adrb6YFp7vOUL1aZCtZuUVdLQ9QF9WL1ymfwUwvPyy5_Hx154WfhY7bBsQa_XLKHu0A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQIDqHYWt6GSvUM2vt-PeycMfCKy8SBgBnqNrdc6-_Ss_Q&oe=6ABED364"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1706904627064153"
+      },
+      {
+        "id": "1375561750780587",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "",
+        "body": "עיצוב אישי עד הפרט האחרון ✨\nעוגות שנוצרות במיוחד עבור הרגע שלכם 🤍\nמזכירות לכן שאפשר להזמין את העוגות גם ללא קמח חיטה או בגרסת פרווה 🫶",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/779896728_1581513843514531_1883453031879559609_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hsPMJz6GRSoQ7kNvwE63iLA&_nc_oc=Adqyc74pv3g0Y79ajpmvYP1kaJ49tvbewF6ZLEFrhWf5DCQmE5SNzYhrmeYcXLAn47g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQIW-BLWRcKCG6TrtiOcGZ9L_MZtYh99lwdPphv0D1ysLA&oe=6ABED235"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1375561750780587"
+      },
+      {
+        "id": "2164303094521968",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "",
+        "body": "העוגה היחידה שלנו שלא תתבאסו להרוס 💕🩵",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797420756_1076886448685051_6238533275929190626_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mZeJi-9l5S8Q7kNvwFsm-Q-&_nc_oc=AdpsQJMSamv3Df8BjYjaQZ54JxUCKGypoP9_zMjBrLsnwAQkkWC474iici10PQeI44I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQIWizDoO2BwRqM0wrjivpOm2pAKNcc0Jq24aRv3kX41qQ&oe=6ABEC509",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOrPUu1UwAANZfoxhfaqaBbzlUXFNR_sbU4uniJIVBGkz25fN2LKWiwsL2ajynaOBb7qI1jpmUtIv9XYPerMcmEHmOPJOdA9y9YF2aCag.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=mzAjdRuoWPgQ7kNvwHgHdd3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozNzQ2MzM5NTE4ODU3ODg5LCJhc3NldF9hZ2VfZGF5cyI6MTEsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo0NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&_nc_zt=28&oh=00_AQL2DvYEFrbH_S2WwaFeFbejtYSvmlRm2GpN_D0DgolMIQ&oe=6ABEAD8D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2164303094521968"
+      },
+      {
+        "id": "1469409188362224",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "",
+        "body": "היינו חייבות להראות לכם את התהליך של מארז הקאפקייקס המושלם הזה🍋",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799361130_1105886242137914_8650215939234804269_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=atPH43gVV1IQ7kNvwEe4vWf&_nc_oc=AdocGKMRj__JGqtg3mrtt7u3xKtGoBvQFQh4A0WNjbuvAqZYaiNCBKMktxzNhnDl3OM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQKNoEX39qpe6B461J0xl6F6X31NZtMdAAfWDFoWHGzteQ&oe=6ABEB156",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQO2nAAkME2eWkutzTW9MBTvo6W6nAAha91zKPBFCt5x_oTxLetu1T-TdEYMEk9vD9fOAWQzpGjDFBj4X5AS1P6Buch-4cCUlwo8Lde5XA.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=WlZ4n7piToMQ7kNvwG4u_ol&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDUyMzE4MTc3MDU2OTA4LCJhc3NldF9hZ2VfZGF5cyI6NSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&_nc_zt=28&oh=00_AQIk-ryuIOhUOrsDmmXb_vdQfzJtRKhGEQGNVAhFIwcntg&oe=6ABEA27C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1469409188362224"
+      },
+      {
+        "id": "910817642081445",
+        "page_id": "110864967294847",
+        "page_name": "Dr. Frosting",
+        "page_url": "https://www.facebook.com/100063621293713/",
+        "page_like_count": 1860,
+        "page_categories": [
+          "Cupcakes"
+        ],
+        "ad_creative_link_title": "<<< להזמנות",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786258800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752924723_1770817914285482_393153416256258428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=--JamPRpFmoQ7kNvwFhN8lm&_nc_oc=Adq8-ljzCLN9Ejj-xnzaifeRd4hJyb1Na-gzX9YSTG8emp7qoGlsFyeB88uxgGoPpx4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&oh=00_AQJBOy3csEMdnBOUJbqlXUOPZo9pieqgbVGXqxHiv7Z4Xw&oe=6ABED34A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN7EQdxYy3OeDka_UgXqVBnipy6GV0vvbUt---vy6re6r4H5rZURYc9VfPfQYIpz8-TkUObAELs5yfKWzTd0-QWQeVGh0MmjLwU1-0w-IQ_Kw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9rN70T3BAgEQ7kNvwHUyKX8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU1NzA1MjY3NDY1NDkyNjIsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b94b959f86f686e5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDQyQTkxRDM3MjU0MkNBNkE1MzBGODExQ0RGQjA5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENEYwNEQ0NDgzMkM0QzAzQkYyODc4MjEyMjZCREJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACac8IS_qpflExUCKAJDMywXQC8AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=O4pvY4KyquH2R4238zDLkg&_nc_ss=70289&_nc_zt=28&oh=00_AQJlTLeZY8Nht_LMwSRPlzlzlTRWGolJ9HM-D92NQ7gfKw&oe=6ABECFFE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=910817642081445"
+      },
+      {
+        "id": "1711552420060305",
+        "body": "{{product.brand}}",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1548320742823462",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "910817642081445",
+        "body": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1711552420060305",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1548320742823462",
+        "text": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1706904627064153",
+        "text": "עיצוב אישי עד הפרט האחרון ✨\nעוגות שנוצרות במיוחד עבור הרגע שלכם 🤍\nמזכירות לכן שאפשר להזמין את העוגות גם ללא קמח חיטה או בגרסת פרווה 🫶",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1375561750780587",
+        "text": "עיצוב אישי עד הפרט האחרון ✨\nעוגות שנוצרות במיוחד עבור הרגע שלכם 🤍\nמזכירות לכן שאפשר להזמין את העוגות גם ללא קמח חיטה או בגרסת פרווה 🫶",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "2164303094521968",
+        "text": "העוגה היחידה שלנו שלא תתבאסו להרוס 💕🩵",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1469409188362224",
+        "text": "היינו חייבות להראות לכם את התהליך של מארז הקאפקייקס המושלם הזה🍋",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "910817642081445",
+        "text": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1711552420060305",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1548320742823462",
+        "text": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "910817642081445",
+        "text": "חוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1711552420060305",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nDr. Frosting\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1711552420060305\nהתחילה לפעול ב-8 באוג' 2026\nפלטפורמות\n​\n​\n​\n​\nלמודעה זאת יש מספר גרסאות\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDr. Frosting\nממומן\nחוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע\n<<< להזמנות\nSend WhatsApp Message\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "1548320742823462",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nDr. Frosting\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1548320742823462\nהתחילה לפעול ב-9 באוג' 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDr. Frosting\nממומן\nחוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\n<<< להזמנות\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "910817642081445",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nDr. Frosting\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 910817642081445\nהתחילה לפעול ב-9 באוג' 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nDr. Frosting\nממומן\nחוגגים יום הולדת? בת מצווה? נישואים? \nעוגות מעוצבות בהתאמה אישית לכל אירוע\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nAPI.WHATSAPP.COM\n<<< להזמנות\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:46:48",
+    "filtered": "2026-09-27T09:47:12",
+    "unqualified": "2026-09-27T09:48:07"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
+  }
+}

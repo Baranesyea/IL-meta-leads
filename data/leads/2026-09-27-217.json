@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-217",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "585751001286759",
     "page_name": "רהיטים אגים",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "שלחו וואטסאפ",
     "sample_ads": [
       {
@@ -60,8 +60,22 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2252813191917104"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 402,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2252813191917104"
     ],
@@ -74,7 +88,138 @@
       "Furniture",
       "Furniture"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "2252813191917104",
+        "page_id": "585751001286759",
+        "page_name": "רהיטים אגים",
+        "page_url": "https://www.facebook.com/61573924441587/",
+        "page_like_count": 402,
+        "page_categories": [
+          "Furniture",
+          "Furniture"
+        ],
+        "ad_creative_link_title": "",
+        "body": "👏👏מזמינים אתכם ליהנות מרהיטים איכותיים במחירים ללא תחרות!!! \n‏רהיטים ברק עושה לכם מחירי חיסול לפני פסח… ואתם מרוויחים ובגדול⚜️\n\nמזמינים היום מקבלים בעוד מס׳ ימים! שלחו הודעת וואטסאפ✍️ לטלפון - 052-5993721",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1777791600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686968237_4404861509771702_8588816117174266275_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1bY3w9y3rgEQ7kNvwGNqole&_nc_oc=AdrBW66JryZyDF98TPHoyDF-Kw2HPPbIctxsFGWZmiAnfx_0JbrU-uVErmDCbAy8vxs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLCNKnVXFtYwZ0uPDYM6E-Wcmg0Oe6FjZgQyNWKGAGaog&oe=6ABEB5E9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689036463_986345207665824_5165115861575116735_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xKrAFoYiUcQQ7kNvwFEGI2F&_nc_oc=AdorB29YNqo_sgmtxV_UfFOD1WTjjXX3nCt_iunjHVyPBiNtE_uXaidKhfRQ2oV35IA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQI9GE-qaDkSby8-pR8vStdblDNdadBRS-iLyMiAK0wjcA&oe=6ABECECD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686936869_1309584547972022_8808079304831206221_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3NuD9HcP7OQQ7kNvwHz7Ntk&_nc_oc=Adr9jeDRQMQwF1mY37xl7jnj4SEBNyp3bwW1jTDSb_cqu0qr2xen9cGlYtVEBozxbas&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLULlMw6TtsUT_x0V4XeUzXJQKN2RVdJRy-GHIsFFD3yA&oe=6ABECEAA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688015952_1581106872980268_6806335736078988297_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2MdNTg_XgM8Q7kNvwFi3n7i&_nc_oc=AdpyfbBdYD5djIp9l0nkywsYefI-Dr-aPf876cUTAjOMKBIbJDcUaRr7bnU23HopFYI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQI9WgKF6oF9H47WZYpcpjTD8NCRXJ1lDTrgX2vdrveYig&oe=6ABEC0DC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689036465_1368886261958316_3471523147861879649_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2eCzn5AE0jkQ7kNvwFSnYt9&_nc_oc=AdrCtpQiSPvKJ6qnI2fu822xlcZrrQA6cfCtLl4MbGUDNnLaD2sqDdfjqq304fZzh3Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLONLlyUhlNQlo8mgG5PLBypNjxl7D3EAsNfRyP3Ox7Jg&oe=6ABEC32A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686935857_1630045271381692_4445344673463794332_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nc5d-QX_8GwQ7kNvwHWpHva&_nc_oc=AdrKLEHuIoZv7WKNC-ZPJNwsv5i_PnSdw6yVFRYKYx9SrpF4szarsH9kzrpAKaK9lhw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQKVxruXX_mdv1XbcKs9g6dCXBQ5O7hWYFwSNB6bizGqpw&oe=6ABEBADF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688340584_1588527842249382_7169497420449084566_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mt9XUybsHD8Q7kNvwGf_8Bv&_nc_oc=AdolSeAhn_N9--rCwl9gV6ptLerV2MsDdqcqPoBZD4ua6sCjFhjmhe3nHTSp_e3uhWc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJ3BsWHI8E63m0cfzRHZPEucCPyi7ClixftoYPrY9Gplg&oe=6ABEB1C2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689006046_988590276966811_9072187351045718624_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rFEt_jxRiAwQ7kNvwFSRZFV&_nc_oc=Adpa4akR7Zz1fq3lfRZq0x8JAlH0nZbSEBkHWXvzBywhg19tmvyiYmagT_hBKIqIwWE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIYv1Jjg6WFTG26bSJZHYnHgE4zntZQ8VKQrhZNLGu-cg&oe=6ABECF5E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686956629_2728169824223222_1182220391860150356_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bElGj63r-oMQ7kNvwEr3ffp&_nc_oc=AdrGXNk4bDh7wMAkdaqZsQ8h03o4Uu_jKJJxQwTqEqBi96VQ9ZMIbY914EslBIqKTyE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJ5INykOMqLKQ1jrM9ZfF4G7IW7KjZ7t7nlGT4y_vB-Mw&oe=6ABEB2A3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686508610_4397195220534945_1462289685181158682_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nuFRSiGT-jUQ7kNvwEv19kV&_nc_oc=AdrVqGm73wUx1VvtSpFyWbJ_2U5fWpXydHg26SIshOO63OZZFncOML81AXsIDz6zlD0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLekIIPG1zFMP6WlLhkzATAECQSaraEC7M8lkYzwhcfMg&oe=6ABECE04",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689009059_2016692432270697_1848917055695514994_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rTu9aDV-tN8Q7kNvwH4I2ab&_nc_oc=Adp8cX8OjzQK5187WbwNLxjT9CIe9KSQFD-xK43iVRUiLQiLeEfLU2fNYb_UpICpUEQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQL2i5cO1ggtpZLaprANRfO8oyawCURsR3OXF4O53EuSqQ&oe=6ABEAFC8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688209979_1288973666030959_4649343609090523998_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VVNeQEPbqM0Q7kNvwEdJyJM&_nc_oc=Ado2LAQoV08f09N2588iWQw0EQ1jhi8fckZBJ1SVQ6puoSSu0BPK3SzxDWlRcYQLph8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIi1jJT8lySTIBW_R6GmbGzUHR93kgWEnKGDN2svfRRwg&oe=6ABECD8A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688340584_966541019427423_4680886501599361865_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ctmVPOeRmB4Q7kNvwGP0Xdp&_nc_oc=AdrKCoQrm2pLxtGZDi8001VPzjRplCAIPIybly634q88Do933EANYyjPxhbUXDpDnZI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQL6J6x_FKprsOOd9vSkObQtu9pRIQYNSBw5pR9W88cVLA&oe=6ABEB316",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688944779_2025924751325949_2563425248884852504_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MaOP3EcqHMcQ7kNvwES4HIC&_nc_oc=AdqRWxbUbpx0if3YgAlYFlyhBan4n7FsdFqTRNNNoCzlAYquFJwAObfre2aIQcwetJs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQI2GgCYp_yR-5KnqObGw88huPv3DUvJJfSAipMAM4w61g&oe=6ABE9CB9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/689158099_2228620987973895_6710947003912921038_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GTK7HDghrQQQ7kNvwEaT4xb&_nc_oc=Ado8r4E40DVcF-j6pQisp6C-7C2LAIo8zqawgsqO95-SlaNsC8i2RSzQdmHd62WLRAA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQI6nqTCwWExT6Lo7LW2XyQ4vpimK81AdVlNcxAEdC8DYg&oe=6ABEC63C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688954831_1988924921995785_3515302516110144601_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5vyM-VsWFQQ7kNvwEMe0Me&_nc_oc=Adr9BjCShauObfJZ4DQMQM86ZLlsmq1Ie25Y10dFZSwR7EG8GflOrZKQMwrXRb18esw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIkAjfT6isR_1Hlk8C8pCir6KOu4cB0UpjPwaIA90rKqA&oe=6ABEB25B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/690207833_2189200348566692_5420362940958248640_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PlR802uPzDYQ7kNvwH_LqHZ&_nc_oc=AdrL4lWqO8hy3MDJB-XS_3blkzPxcTcjLeyhWRcnCWrOGs1y_s8W5Dn11l-Xsv83Uyo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIlou_t85QPht1WsIT27ODuaF3uxG1csWMb2QLokgNFYg&oe=6ABEC844",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688446151_1973334839949359_3039436539783365983_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G-jd0Tzq-BYQ7kNvwE12lHw&_nc_oc=AdrxmX0JQfvm4v8pmyrsDiD43M-QXzKcsMtguoqr1uE67q8_w5gJnmHavsc-a9PpbPw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLFkLRHsczBZWyQVViQzbGKR0o086oKPtmODZqlWX7Q1A&oe=6ABECC71",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/687766476_1945375449416352_8887232106919210536_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ADMkqSMijGkQ7kNvwF2Bi8F&_nc_oc=AdqUx402G9BLBWbErJk1CWizcWBCfOAdQlhs_Re6qXgQpZY1uLKWUcUyhrBSY_7N_qM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIAOKqp5RdPMdcTeV8hla07zGxKwbPgvdA_pAF2BruKew&oe=6ABEA9CD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2252813191917104"
+      },
+      {
+        "id": "1301271555480658",
+        "page_id": "585751001286759",
+        "page_name": "רהיטים אגים",
+        "page_url": "https://www.facebook.com/61573924441587/",
+        "page_like_count": 402,
+        "page_categories": [
+          "Furniture",
+          "Furniture"
+        ],
+        "ad_creative_link_title": "",
+        "body": "‏שלום לכם  ‏הגעתם לרהיטים של ‏גאיה \n‏יש לכם כל דגם של המיטות חדר שינה בכל מידה שאתם רוצים בכל צבע שאתם מבקשים יש לנו כל המידות גם יש מיטות יהודיות  וכל מידע\n‏זמן אספקה תוך שלושה ימים  \n0525993721",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1778396400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686392843_862895700161336_3607521030988392480_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Okiv44_JhrkQ7kNvwHpIVxv&_nc_oc=AdqcvsAyw1_oqL7Pjm37JLSdj6H_NDSGPiQWycWkhs8DX3P7cqCRqypQXnfC6UeHX5o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLT-hGLAK5OjLLB-_SaLpJm8smQ2jNFmantk5DbP8rTyw&oe=6ABEB533",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686962935_1860733887946717_6180335623878738674_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eQirZBjZoL0Q7kNvwHi0hnr&_nc_oc=Adqg71WE-C3f-HdsEjSCN4qJ0oaer0uS_jmGAeGZqWNhLBIhG6Vf52Aw8C3Tgz4R9Lw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQKTm6IrOG5iy9nSFBhjv003QOVr19RjjEwW0Di3KzP3Nw&oe=6ABEADF9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686276081_3222102914644524_4501141394210767455_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ifsBP7e0KEoQ7kNvwGu1TzW&_nc_oc=Adodrvp10XAt_gQ2QE3j122SaNtEalVG6AHDsi81rLw43Frw9Sq9glig3wKb0e7ZJY8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQK_JnrLyUPsyBK3sQo37rG3ANXun_AgpsTE83-GF5IE7A&oe=6ABEA807",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686282703_988143743754564_6773275495872771790_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9yglnd2Vr_UQ7kNvwG_kccf&_nc_oc=Adpbk9L8_X2G_bXXYyvZY7T-e3NPHzbeT9T_XgrvumdCHmqMAdDFNSnlW6b9cWFc4k0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJm0UEG9ho6J-NDF2dtedM-2dC2JZ7YMRuLsaMRqc7SPg&oe=6ABEC112",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686488168_2016203999274086_931348412333416442_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RpICv4FCF1AQ7kNvwE9Eqy7&_nc_oc=Ado-oMeFV4lVfM3QZH-zzoZw0XLvtOOaOwC6kC9-BUG3uHnBuulLEn7IxRjErzBnmdk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJEcRjEl5oNkpr7jgDioJPnGacHaz-Lc7x5yUC0xrlucA&oe=6ABEC7D9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/684822842_2024552195610859_3211004636162610452_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wlRxS9uKX94Q7kNvwEu3VGG&_nc_oc=AdqExiBRghGbe6n7SbnDZgBfsFaqxFaPd0vlpYiBTDj0zDoRBBcqSdvN2idCjhCzNVM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQKNkD3jkU4ERyHTlzcmUf6bJjHhAZ8GvQ8EUOxZYW1KQQ&oe=6ABEB887",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686517560_27220778004260208_4725698177751362002_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNJEvnTbDbYQ7kNvwGMJvTE&_nc_oc=AdoJpznqcYPzwAmEY7C0gDQ240GcyM6uHVkCEZvnbVpQ4XLPjNTOCn5nQrjrhZHQmXU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIwuQzMQY3NpL082AyJL_gWEgkYjUILVVFKQkpeNDzINg&oe=6ABECF83",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686355202_1510408200807530_5630646111941158077_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-pIvRhVpPP8Q7kNvwEe-ohg&_nc_oc=Adody8tsmD6Nf0NnUGAknrOiq1ZwTu5kJXyD8YPtgRSu7D-o7rarvngnfygy4xeeoqM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQIgtg0lcuDBQMXWe9fE-7OQQaNdy4Ria0S_ZrVyiS6K4A&oe=6ABEBE83",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/687669456_1501008181616539_361987986790352121_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZvIpwOIO_vcQ7kNvwHyWlzl&_nc_oc=AdrinT272KOVH3Yzs-5tKD6_Vl71lTrlNLxj9bezmT9O8aOFIF6s2bAN18zxceM-n5g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJo-Sx7Ur_XcmpLqZDnlhmcuuFcxtsNfkmdv-ykipvfMw&oe=6ABEBBFE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686207243_954614324137792_7274205270171680647_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1T1KknGsr-UQ7kNvwFkmo52&_nc_oc=AdriAGrYKZOSlxmQrbNx4Oo_qamFrNw5qDofZXPLQguORqZyltEJ3nrM3NauWhaa2fg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQL_TcwN-eZwP3hCcWZiB36WvZEPG9uPnaueWzda4ZVVEg&oe=6ABEBE0F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686968053_3529202600588513_8050207793911639664_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HdRj1-S0740Q7kNvwEl4qAt&_nc_oc=Adpi5PAzPDByJOXMNaWlNt-A-DUrzkhV9Ku7ihunOZvqtuCfjWHcUEocsHCgAbgebX8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLHTyGjAoY8ZKzdvIAX9kbLLKf5fvCeP_HlI7PpYFvdLA&oe=6ABEC441",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686348253_953295207672947_9062959520167943985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4jVxfHXuLnQQ7kNvwGIRMzQ&_nc_oc=AdqPUOQuodGaTOVVDY3kvogFOEFhScjZ_OrmW_YrbCF9No7uDnH5hIVFfZ8OhyGQYRE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJDpiYTNugH7O539Ka7Agioh_ZkjsAcrt2LsocmDRqAWA&oe=6ABEB52A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686238290_1536959298065540_5997776587559574938_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QWKz-rfHc-EQ7kNvwFT2Wfb&_nc_oc=Adq-pnAO0KQefeLOuXt24qBJJ2Uxsu8PbyclWOF2dKV1FVc7gO0MrvlURPCS6co8tcU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQKuak4f6y4FOtSGAtt6BY8UpAfPqlJ5ZLX-DqSXbjPRCg&oe=6ABE9EDC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/687042872_906130055784154_665141903041624854_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rkTRwkqLkkYQ7kNvwFO_l48&_nc_oc=AdpSONCBz9k6qu9u4JIMSKUSA3AV8KwQi2gYetcnwFT0Tx8u0iP_gHEffIeCzizk690&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQKn-cbwO2-g1dWZblqLFdQ5zSmSc8w8nxVP8QJ7SB_B2g&oe=6ABEC7C7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686207867_1595063422624601_8698213435228075125_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ru1rcEapIloQ7kNvwFBvu6k&_nc_oc=AdpFibt1hYpRX9KUaQRdkk9BuQaCxbOYxjaROBeMPJHebOMQsKiBwjYb4qF1sHQVupY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJWx9lNPp9OOWtEnSF9idcKCLgFi_DcLMlJxSFl953Ovg&oe=6ABEB806",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686945562_1258395629797232_1759132482234659002_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z-qEidyUBN8Q7kNvwEFB5vM&_nc_oc=AdoVOgZKIr4D5br5Ef7dDBZC2i-s-oFJHRYw1KCsSZWtzsRYotTEtlVZWq9pcwzJqf8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJ-Y7MCqv4N_WhfPtgk7AUIy8JIwh0F7YT_TrLvuWdDMQ&oe=6ABEC9C3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/686434909_845555227984130_4954474558143432185_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gSHDLwwGNLQQ7kNvwGsmRF9&_nc_oc=AdpPSZ9iNrR3jlRAsdD3QXvefvTEcGTYrzi54NEiAxZZeoY3GXNkxAJr0Xf_helMCLs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJO1G0EuwxKKcJIkBVtBt5EP1f2iqwhE5fBz1uDapz9MA&oe=6ABECB3F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/685101667_1341936247793504_7148606587722515575_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DCYRJOJjfL8Q7kNvwE52-KA&_nc_oc=AdrDsrG4uoqpZ_IVc9GulOJIlclzAPScFgjiLR2FqduPk1UJ61O_b408r9WOsvPJSk4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQJ6j3qTMOkvMbXJ0sd3T6Ilck-uYcyak45_HA2mdKr2UA&oe=6ABEA226",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686304809_994198906506691_6594334833468261557_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EAWIWQrvef8Q7kNvwFilp31&_nc_oc=Adp99BFA_GghsnOSInN-c_vMMfQug9PXCYndcLvzfIo592QPe_xILZp5Gzz8GBuf960&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=iBO9cOTH5J71Kxv9y5x2TQ&_nc_ss=70289&oh=00_AQLVh_b2gm6oxPcvPg-CzpmQA0Bk4xQkovO0Wvk48467hQ&oe=6ABECFCE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1301271555480658"
+      },
+      {
+        "id": "2252813191917104",
+        "body": "👏👏מזמינים אתכם ליהנות מרהיטים איכותיים במחירים ללא תחרות!!! \n‏רהיטים ברק עושה לכם מחירי חיסול לפני פסח… ואתם מרוויחים ובגדול⚜️\n\nמזמינים היום מקבלים בעוד מס׳ ימים! שלחו הודעת וואטסאפ✍️ לטלפון - 052-5993721",
+        "landing_url": ""
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2252813191917104",
+        "text": "👏👏מזמינים אתכם ליהנות מרהיטים איכותיים במחירים ללא תחרות!!! \n‏רהיטים ברק עושה לכם מחירי חיסול לפני פסח… ואתם מרוויחים ובגדול⚜️\n\nמזמינים היום מקבלים בעוד מס׳ ימים! שלחו הודעת וואטסאפ✍️ לטלפון - 052-5993721",
+        "links": []
+      },
+      {
+        "ad_id": "1301271555480658",
+        "text": "‏שלום לכם  ‏הגעתם לרהיטים של ‏גאיה \n‏יש לכם כל דגם של המיטות חדר שינה בכל מידה שאתם רוצים בכל צבע שאתם מבקשים יש לנו כל המידות גם יש מיטות יהודיות  וכל מידע\n‏זמן אספקה תוך שלושה ימים  \n0525993721",
+        "links": []
+      },
+      {
+        "ad_id": "2252813191917104",
+        "text": "👏👏מזמינים אתכם ליהנות מרהיטים איכותיים במחירים ללא תחרות!!! \n‏רהיטים ברק עושה לכם מחירי חיסול לפני פסח… ואתם מרוויחים ובגדול⚜️\n\nמזמינים היום מקבלים בעוד מס׳ ימים! שלחו הודעת וואטסאפ✍️ לטלפון - 052-5993721",
+        "links": []
+      },
+      {
+        "ad_id": "2252813191917104",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nרהיטים אגים\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 2252813191917104\nהתחילה לפעול ב-3 במאי 2026\nפלטפורמות\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nרהיטים אגים\nממומן\n👏👏מזמינים אתכם ליהנות מרהיטים איכותיים במחירים ללא תחרות!!! \n‏רהיטים ברק עושה לכם מחירי חיסול לפני פסח… ואתם מרוויחים ובגדול⚜️\n\nמזמינים היום מקבלים בעוד מס׳ ימים! שלחו הודעת וואטסאפ✍️ לטלפון - 052-5993721\nרהיטים אגים\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -87,6 +232,38 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:36:27"
+    "discovered": "2026-09-27T09:36:27",
+    "filtered": "2026-09-27T09:38:06",
+    "unqualified": "2026-09-27T09:41:07"
+  },
+  "qualify": {
+    "phones_in_ads": [
+      {
+        "number_e164": "+972525993721",
+        "source": "https://www.facebook.com/ads/library/?id=2252813191917104",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972525993721",
+        "source": "https://www.facebook.com/ads/library/?id=1301271555480658",
+        "labelled_whatsapp": false
+      },
+      {
+        "number_e164": "+972525993721",
+        "source": "https://www.facebook.com/ads/library/?id=2252813191917104",
+        "labelled_whatsapp": true
+      },
+      {
+        "number_e164": "+972525993721",
+        "source": "https://www.facebook.com/ads/library/?id=2252813191917104",
+        "labelled_whatsapp": true
+      }
+    ],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }

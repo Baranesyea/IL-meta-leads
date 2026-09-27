@@ -1311,7 +1311,129 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 16,
+      "seen": 16,
+      "newest_start": "2026-09-25",
+      "oldest_start": "2026-06-07",
+      "days_since_newest": 2,
+      "longest_running_days": 112,
+      "distinct_texts": 9,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          15
+        ],
+        [
+          "ORDER_NOW",
+          1
+        ]
+      ],
+      "videos": 3,
+      "landings": [
+        [
+          "kolbopet.co.il/product/seresto-collar-for-dogs-over-8kg",
+          4
+        ],
+        [
+          "kolbopet.co.il",
+          3
+        ],
+        [
+          "kolbopet.co.il/product/seresto-collar-dogs-up-to-8-kg",
+          2
+        ],
+        [
+          "kolbopet.co.il/category/dogs/dryfoodfordogs",
+          2
+        ],
+        [
+          "kolbopet.co.il/category/cats/catdryfood",
+          1
+        ],
+        [
+          "kolbopet.co.il/earth-rated-canadian-product-has-arrived-for-dog-and-cat",
+          1
+        ],
+        [
+          "kolbopet.co.il/category/dogs/dogbeds",
+          1
+        ],
+        [
+          "kolbopet.co.il/product/%d7%90%d7%95%d7%a8%d7%99%d7%92%d7%9f-%d7%9e%d7%96%d7%95%d7%9f-%d7%9c%d7%97%d7%aa%d7%95%d7%9c-%d7%a2%d7%95%d7%a3-%d7%95%d7%93%d7%92%d7%99%d7%9d-17-%d7%a7%d7%99%d7%9c%d7%95",
+          1
+        ]
+      ],
+      "landing_status": {
+        "kolbopet.co.il/category/cats/catdryfood": "ok",
+        "kolbopet.co.il/earth-rated-canadian-product-has-arrived-for-dog-and-cat": "ok",
+        "kolbopet.co.il/product/seresto-collar-for-dogs-over-8kg": "ok",
+        "kolbopet.co.il/product/seresto-collar-dogs-up-to-8-kg": "ok",
+        "kolbopet.co.il/category/dogs/dogbeds": "ok",
+        "kolbopet.co.il/category/dogs/dryfoodfordogs": "ok"
+      },
+      "home_share": 3,
+      "samples": [
+        {
+          "start": "2026-08-04",
+          "cta": "ORDER_NOW",
+          "title": "",
+          "body": "מזמינים NOW ‼️ מזון יבש לחתול שלך – במשלוחים מהירים עד הבית. קליק להזמנה: https://bit.ly/3GqUOzN",
+          "landing": "https://www.kolbopet.co.il/category/cats/catdryfood/?filter_manufacturer-type=now&utm_source=paid+social&utm_medium=paid+social&utm_campaign=paid+social&utm_id=paid+social&utm_term=paid+social&utm_content=paid+social"
+        },
+        {
+          "start": "2026-06-07",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.kolbopet.co.il/earth-rated-canadian-product-has-arrived-for-dog-and-cat/"
+        },
+        {
+          "start": "2026-06-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.kolbopet.co.il/product/seresto-collar-for-dogs-over-8kg/"
+        },
+        {
+          "start": "2026-06-23",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.kolbopet.co.il/product/seresto-collar-dogs-up-to-8-kg/"
+        },
+        {
+          "start": "2026-08-05",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "זה רק 3 מתוך המון המון המון מיטות מטריפות שמחכות לכם בחנות! 🥰\nאנחנו ממש נשמח שתכתבו לנו מה אתם רוצים לראות מהחנות בפעם הבאה! 👇\n\nועד אז מוזמנים להתחדש אצלנו - פרישמן 86 ת\"א \nאו בחנות האונליין שלנו - משלוחים עד הבית!",
+          "landing": "https://www.kolbopet.co.il/category/dogs/dogbeds"
+        },
+        {
+          "start": "2026-09-17",
+          "cta": "SHOP_NOW",
+          "title": "מבצע 2 שקים של נוטרי סורס | בתוקף עד 1.10",
+          "body": "האוכל של הכלב תמיד נגמר בדיוק כשאתם הכי פחות פנויים לרוץ לחנות 😅\n\nאז הפעם דאגנו שזה לא יקרה לכם שוב: שני שקי נוטרי סורס במגוון טעמים (11.8 ק\"ג כל שק) ב-599.90 ש\"ח בלבד. ומלאי שמחזיק לחודשים ארוכים.\n\nחלבון איכותי שדואג ל:\n✓ עיכול קל\n✓ פרווה בריאה ונוצצת\n✓ כלב שבאמת נהנה מהאוכל שלו (כן, זה קורה)\n\nמבצע חג משתלם, רק אצלנו בכלבו לכלב ולחתול.\nוזה עוד לא הכול: משלוח מהיר לכל רחבי הארץ, ומעל 299.99 ש\"ח (כ",
+          "landing": "https://www.kolbopet.co.il/category/dogs/dryfoodfordogs/?filter_pa_manufacturer-type%5B%5D=nutri-source"
+        },
+        {
+          "start": "2026-09-01",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "מחכה לכם הצצה בסוף הסרטון למלאי המשוגע \nכי הג'ינסים חזרו וכל מילה מיותרת 😍 \nאצלנו בחנות או באתר האונליין 👆",
+          "landing": "https://www.kolbopet.co.il/?s=%D7%9E%D7%95%D7%A6%D7%A8%D7%99+%D7%92%27%D7%99%D7%A0%D7%A1&post_type=product&utm_source=facebook&utm_medium=cpc&utm_content=dec25"
+        },
+        {
+          "start": "2026-09-01",
+          "cta": "SHOP_NOW",
+          "title": "",
+          "body": "מחכה לכם הצצה בסוף הסרטון למלאי המשוגע \nכי הג'ינסים חזרו וכל מילה מיותרת 😍 \nאצלנו בחנות או באתר האונליין 👆",
+          "landing": "https://www.kolbopet.co.il/?s=%D7%9E%D7%95%D7%A6%D7%A8%D7%99+%D7%92%27%D7%99%D7%A0%D7%A1&post_type=product&utm_source=facebook&utm_medium=cpc&utm_content=dec25"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

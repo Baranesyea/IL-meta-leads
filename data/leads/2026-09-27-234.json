@@ -1,0 +1,103 @@
+{
+  "lead_id": "2026-09-27-234",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.instagram.com/_u/noaa_sweett",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "771691039351240",
+    "page_name": "noaa_sweett",
+    "active_ads_count": 1,
+    "search_keyword": "עוגות מעוצבות",
+    "sample_ads": [
+      {
+        "ad_id": "2354601368611869",
+        "link_title": "",
+        "body": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819276303_29292770673658459_4716357042383036707_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0elTDrocBhgQ7kNvwFjtxlb&_nc_oc=Adq4owG2ljxYkmyoaENDuwY8FHEIb4c99HIvkcCDJCAm2r3Lgoy38ENCmOEz5sjwkks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=JDMxDJwsOoEdTIlpmzboNQ&_nc_ss=70289&oh=00_AQKjzeDjitDSAQQrqOgNqXzBo24D-hXnzfDgGwWEjelQhA&oe=6ABED350"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1790233200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2354601368611869"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 0,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2354601368611869"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 0,
+    "page_categories": [
+      "Profile"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:46:48",
+    "rejected": "2026-09-27T09:47:44"
+  }
+}

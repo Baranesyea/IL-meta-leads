@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-215",
-  "status": "discovered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://srnlaw.com/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/srn.law/",
+      "source": "https://srnlaw.com/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,15 +28,19 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972525351900",
+      "source": "https://srnlaw.com/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "2 landline(s)"
+      ]
     }
   },
   "meta": {
     "page_id": "100663065589591",
     "page_name": "א. שניאורסון זמיר - משרד עו\"ד",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "שלחו וואטסאפ",
     "sample_ads": [
       {
@@ -64,8 +68,29 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=3046962908847877"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "עו\"ד",
+        "משרד",
+        "ייעוץ",
+        "ביטוח"
+      ],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 484,
+      "product_score": -7,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "3046962908847877"
     ],
@@ -77,7 +102,112 @@
     "page_categories": [
       "Legal Service"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "3046962908847877",
+        "page_id": "100663065589591",
+        "page_name": "א. שניאורסון זמיר - משרד עו\"ד",
+        "page_url": "https://www.facebook.com/100069173839880/",
+        "page_like_count": 484,
+        "page_categories": [
+          "Legal Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מכתב דחייה מחברת הביטוח אינו סוף פסוק, אלא תחילתו של הליך שבמסגרתו נוודא שתקבלו את מלוא הפיצוי.\n\n🔍אנו מאתרים את כל פוליסות הביטוח הרלוונטיות ובונים אסטרטגיה למיצוי כל רכיבי הפיצוי:\n📑נזקי מבנה, קונסטרוקציה, שריפות, פריצות, הצפות ועוד.\n\n✅ליווי מלא: ניהול מו\"מ מול חברות הביטוח, איתור מומחים ובניית צוות מנצח עבורכם,\nובמידת הצורך- ניהול תביעה בבית משפט עד לקבלת הפיצוי המגיע לכם.\n\nמשרד עו\"ד א. שניאורסון זמיר | מומחים בתביעות ביטוח רכוש ונזיקין - מול כל חברות הביטוח.\n\n⭐ייעוץ ראשוני ללא התחייבות.\n💬שלחו וואטסאפ כעת >>\n\nלמידע נוסף - מוזמנים לבקר באתר שלנו:\nhttps://srnlaw.com/\n\n#ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #תביעותביטוח #תביעתביטוח #ייצוגבתביעתביטוח #שניאורסוןזמיר",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770624000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/637852063_1134906838661073_1801478077972939746_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gguFwEpIOvcQ7kNvwE6Sr63&_nc_oc=Adrg1BNzTwfnTpdNsdblY2q8Sxpjr3ZfpZw7zTcF0td4Kt2gYM3NGzlfczeY4oWZsMA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5G97BqtJk3-V8URXnY7d2g&_nc_ss=70289&oh=00_AQIt90Uv-n_nxj3sT_Oo7aWlAdO1zRzMaX82xtIbLDMnpA&oe=6ABEC502",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPsKYkEqPoLDL2HJKJc-Z4OcU4_ovskRRSNJ1_jbFs4HHuTszh9tSWZCWZs2CmXjhXcINTpd2IID1RXkzSHkHgXF_e4DWU-kFqNTuqPfC-aqg.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CEtJCvDnPC8Q7kNvwEjgl5K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDcwMzY1MDQwMzY0MTQsImFzc2V0X2FnZV9kYXlzIjoyMjksInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9c4e1857444aa35d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQzRBN0QxRTkyQkI1REZDQUZEQURFN0RCQTUxRjk5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDRBMTRGQzIyNkQ0QzVBNjdDRjc2RTQyNEM4QkFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb80PD1p86JBBUCKAJDMywXQDciDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=5G97BqtJk3-V8URXnY7d2g&_nc_ss=70289&_nc_zt=28&oh=00_AQIG4jOF1sn_qFistf0chmo4hM-Axd1lR_iAc4eiPv36Eg&oe=6ABEB4D3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3046962908847877"
+      },
+      {
+        "id": "1391471619263521",
+        "page_id": "100663065589591",
+        "page_name": "א. שניאורסון זמיר - משרד עו\"ד",
+        "page_url": "https://www.facebook.com/100069173839880/",
+        "page_like_count": 484,
+        "page_categories": [
+          "Legal Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "נגרם נזק לעסק וחברת הביטוח לא משלמת את מלוא הפיצוי?\nכשמדובר בתביעת ביטוח משמעותית, אתם רוצים מומחה אמיתי לצידכם.\n\nעו\"ד ארז שניאורסון, מהשמות הבולטים בישראל בתחום תביעות ביטוח הרכוש, מייצג מבוטחים כבר עשרות שנים ומרצה ומכשיר עורכי דין, סוכני ביטוח ושמאים בתחום.\n\nשילמתם על ביטוח לעסק במשך שנים כדי שברגע האמת חברת הביטוח תעמוד מאחוריכם.\n\nאבל מה קורה כשנגרם נזק לעסק, וחברת הביטוח דוחה את התביעה, מפחיתה את הפיצוי או מסרבת לשלם את מלוא הנזק?\nאל תמהרו לקבל את עמדת חברת הביטוח כסוף פסוק.\nהעסק שלכם חשוב מדי מכדי לוותר על פיצוי שמגיע לכם. \n\nלפני שאתם מוותרים על חלק מהפיצוי או משלמים מכיסכם על נזק שאמור להיות מכוסה, כדאי לבדוק לעומק מה באמת מגיע לכם על פי הפוליסה.\n\nלייעוץ ראשוני ללא התחייבות לחצו על כפתור הוואטסאפ במודעה >>\n\n#אשניאורסוןזמיר #ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #משרדעורכידיןנזיקין #נזיקיןרכוש #תביעותביטוח #נזקלעסק #פיצויעסקי #תביעותביטוחרכוש",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821388880_1721846022840977_1828915549797103854_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S9vVPE4OoyAQ7kNvwFAi6-0&_nc_oc=AdqtO3seucUo_wDa6OXB9NONko4hgPUhW97RTGhcDiOgvaMAuIOHrGIdVXdupHrdnjQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5G97BqtJk3-V8URXnY7d2g&_nc_ss=70289&oh=00_AQKGGKPmcw-wBKB3OTKcr-l0eDiK9JgG_H5EW0S_tR5COA&oe=6ABECC77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQONXc3xX8PDKVsZGQaMx9MfnzOBjNqETolHkiq4GpesrtfkrlV7pax0z0h69ghwS0drIBozo9iPX4srWy3e86aHKZyeBSQKtNt6bBzhy8vAAA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=X23yPHbXWd0Q7kNvwEmT1QR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTc4MjM2MTkyOTM4NzEsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1e55fb5f34fc5d4c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRCMUJBOEEyQUY0ODAxQjU5OUJGMUMzRTM2N0NBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI1NjQ2MkE1QjZGQzQ0RTlCMDQxNTcxNjE3MkJCMjZCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbeiuupv5aNBhUCKAJDMywXQD9mZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=5G97BqtJk3-V8URXnY7d2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6FpEkKBb9JkN5RvybOufQ_oaGLHLAsbFOtAJSqAy8xQ&oe=6ABEB522"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1391471619263521"
+      },
+      {
+        "id": "3046962908847877",
+        "body": "מכתב דחייה מחברת הביטוח אינו סוף פסוק, אלא תחילתו של הליך שבמסגרתו נוודא שתקבלו את מלוא הפיצוי.\n\n🔍אנו מאתרים את כל פוליסות הביטוח הרלוונטיות ובונים אסטרטגיה למיצוי כל רכיבי הפיצוי:\n📑נזקי מבנה, קונסטרוקציה, שריפות, פריצות, הצפות ועוד.\n\n✅ליווי מלא: ניהול מו\"מ מול חברות הביטוח, איתור מומחים ובניית צוות מנצח עבורכם,\nובמידת הצורך- ניהול תביעה בבית משפט עד לקבלת הפיצוי המגיע לכם.\n\nמשרד עו\"ד א. שניאורסון זמיר | מומחים בתביעות ביטוח רכוש ונזיקין - מול כל חברות הביטוח.\n\n⭐ייעוץ ראשוני ללא התחייבות.\n💬שלחו וואטסאפ כעת >>\n\nלמידע נוסף - מוזמנים לבקר באתר שלנו:\nhttps://srnlaw.com/\n\n#ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #תביעותביטוח #תביעתביטוח #ייצוגבתביעתביטוח #שניאורסוןזמיר",
+        "landing_url": ""
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "3046962908847877",
+        "text": "מכתב דחייה מחברת הביטוח אינו סוף פסוק, אלא תחילתו של הליך שבמסגרתו נוודא שתקבלו את מלוא הפיצוי.\n\n🔍אנו מאתרים את כל פוליסות הביטוח הרלוונטיות ובונים אסטרטגיה למיצוי כל רכיבי הפיצוי:\n📑נזקי מבנה, קונסטרוקציה, שריפות, פריצות, הצפות ועוד.\n\n✅ליווי מלא: ניהול מו\"מ מול חברות הביטוח, איתור מומחים ובניית צוות מנצח עבורכם,\nובמידת הצורך- ניהול תביעה בבית משפט עד לקבלת הפיצוי המגיע לכם.\n\nמשרד עו\"ד א. שניאורסון זמיר | מומחים בתביעות ביטוח רכוש ונזיקין - מול כל חברות הביטוח.\n\n⭐ייעוץ ראשוני ללא התחייבות.\n💬שלחו וואטסאפ כעת >>\n\nלמידע נוסף - מוזמנים לבקר באתר שלנו:\nhttps://srnlaw.com/\n\n#ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #תביעותביטוח #תביעתביטוח #ייצוגבתביעתביטוח #שניאורסוןזמיר",
+        "links": []
+      },
+      {
+        "ad_id": "1391471619263521",
+        "text": "נגרם נזק לעסק וחברת הביטוח לא משלמת את מלוא הפיצוי?\nכשמדובר בתביעת ביטוח משמעותית, אתם רוצים מומחה אמיתי לצידכם.\n\nעו\"ד ארז שניאורסון, מהשמות הבולטים בישראל בתחום תביעות ביטוח הרכוש, מייצג מבוטחים כבר עשרות שנים ומרצה ומכשיר עורכי דין, סוכני ביטוח ושמאים בתחום.\n\nשילמתם על ביטוח לעסק במשך שנים כדי שברגע האמת חברת הביטוח תעמוד מאחוריכם.\n\nאבל מה קורה כשנגרם נזק לעסק, וחברת הביטוח דוחה את התביעה, מפחיתה את הפיצוי או מסרבת לשלם את מלוא הנזק?\nאל תמהרו לקבל את עמדת חברת הביטוח כסוף פסוק.\nהעסק שלכם חשוב מדי מכדי לוותר על פיצוי שמגיע לכם. \n\nלפני שאתם מוותרים על חלק מהפיצוי או משלמים מכיסכם על נזק שאמור להיות מכוסה, כדאי לבדוק לעומק מה באמת מגיע לכם על פי הפוליסה.\n\nלייעוץ ראשוני ללא התחייבות לחצו על כפתור הוואטסאפ במודעה >>\n\n#אשניאורסוןזמיר #ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #משרדעורכידיןנזיקין #נזיקיןרכוש #תביעותביטוח #נזקלעסק #פיצויעסקי #תביעותביטוחרכוש",
+        "links": []
+      },
+      {
+        "ad_id": "3046962908847877",
+        "text": "מכתב דחייה מחברת הביטוח אינו סוף פסוק, אלא תחילתו של הליך שבמסגרתו נוודא שתקבלו את מלוא הפיצוי.\n\n🔍אנו מאתרים את כל פוליסות הביטוח הרלוונטיות ובונים אסטרטגיה למיצוי כל רכיבי הפיצוי:\n📑נזקי מבנה, קונסטרוקציה, שריפות, פריצות, הצפות ועוד.\n\n✅ליווי מלא: ניהול מו\"מ מול חברות הביטוח, איתור מומחים ובניית צוות מנצח עבורכם,\nובמידת הצורך- ניהול תביעה בבית משפט עד לקבלת הפיצוי המגיע לכם.\n\nמשרד עו\"ד א. שניאורסון זמיר | מומחים בתביעות ביטוח רכוש ונזיקין - מול כל חברות הביטוח.\n\n⭐ייעוץ ראשוני ללא התחייבות.\n💬שלחו וואטסאפ כעת >>\n\nלמידע נוסף - מוזמנים לבקר באתר שלנו:\nhttps://srnlaw.com/\n\n#ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #תביעותביטוח #תביעתביטוח #ייצוגבתביעתביטוח #שניאורסוןזמיר",
+        "links": []
+      },
+      {
+        "ad_id": "3046962908847877",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nא. שניאורסון זמיר - משרד עו\"ד\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 3046962908847877\nהתחילה לפעול ב-9 בפבר' 2026\nפלטפורמות\n​\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nא. שניאורסון זמיר - משרד עו\"ד\nממומן\nמכתב דחייה מחברת הביטוח אינו סוף פסוק, אלא תחילתו של הליך שבמסגרתו נוודא שתקבלו את מלוא הפיצוי.\n\n🔍אנו מאתרים את כל פוליסות הביטוח הרלוונטיות ובונים אסטרטגיה למיצוי כל רכיבי הפיצוי:\n📑נזקי מבנה, קונסטרוקציה, שריפות, פריצות, הצפות ועוד.\n\n✅ליווי מלא: ניהול מו\"מ מול חברות הביטוח, איתור מומחים ובניית צוות מנצח עבורכם,\nובמידת הצורך- ניהול תביעה בבית משפט עד לקבלת הפיצוי המגיע לכם.\n\nמשרד עו\"ד א. שניאורסון זמיר | מומחים בתביעות ביטוח רכוש ונזיקין - מול כל חברות הביטוח.\n\n⭐ייעוץ ראשוני ללא התחייבות.\n💬שלחו וואטסאפ כעת >>\n\nלמידע נוסף - מוזמנים לבקר באתר שלנו:\nhttps://srnlaw.com/\n\n#ארזשניאורסון #משרדעורכידין #עורךדין #עורךדיןמומלץ #תביעותביטוח #תביעתביטוח #ייצוגבתביעתביטוח #שניאורסוןזמיר\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nא. שניאורסון זמיר - משרד עו\"ד\nשליחת הודעת WhatsApp\nסגירה",
+        "links": [
+          "https://srnlaw.com/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://srnlaw.com/"
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -90,6 +220,24 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:36:27"
+    "discovered": "2026-09-27T09:36:27",
+    "filtered": "2026-09-27T09:37:46",
+    "qualified": "2026-09-27T09:40:57"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://srnlaw.com/",
+      "https://srnlaw.com/%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }
