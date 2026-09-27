@@ -1168,7 +1168,17 @@
       "https://jepeta.com/products/wrist-massager-3-1",
       "https://jepeta.com/products/heating-joint-massager",
       "https://jepeta.com/products/bp-monitor"
-    ]
+    ],
+    "freshness": {
+      "active_count": null,
+      "active_seen": 0,
+      "checked": "2026-09-27",
+      "newest_start": null,
+      "oldest_start": null,
+      "days_since_newest": null,
+      "stale": false,
+      "complete": true
+    }
   },
   "current_ads": [],
   "products": [],
