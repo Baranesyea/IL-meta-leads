@@ -15,7 +15,7 @@ COPY = {
     "hero_eyebrow": "תכשיטי אופנה · מזמינים היום, מקבלים מחר",
     "hero_title": ["ארבעה תכשיטים.", "199 ש״ח."],
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
-    "hero_bg_m": "/reports/billy/hero_m.webp", "hero_pos_m": "center bottom",
+    "hero_bg_m": "/reports/billy/hero_m.webp", "hero_pos_m": "center top", "hero_copy_m": "bottom",  # phone: necklace up top, words on the shirt
     "review": {
         "eyebrow": "עברנו על הקמפיין שלכם",
         "title": ["הקמפיין שלכם עובד.", "והוא יכול למכור הרבה יותר."],

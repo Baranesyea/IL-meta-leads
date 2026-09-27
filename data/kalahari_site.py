@@ -62,7 +62,7 @@ COPY = {
 
 if __name__ == "__main__":
     lead = json.load(open("data/leads/2026-09-25-002.json"))
-    e = export_lead(lead, SLUG, FOLDER, COPY, hero_img="ads_raw/hero.png")
+    e = export_lead(lead, SLUG, FOLDER, COPY, hero_img="ads_raw/hero_m.png")  # the portrait keeps all products left of the title on desktop
     m = OUTPUT / lead["lead_id"] / "ads_raw" / "hero_m.png"
     if m.exists():
         _webp(m, WEB / "public" / "reports" / FOLDER / "hero_m.webp", max_w=1200)

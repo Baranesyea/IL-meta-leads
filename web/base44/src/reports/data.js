@@ -9647,7 +9647,8 @@ export const REPORTS = {
   ],
   "hero_cta": "מה היינו משנים בקמפיין שלכם",
   "hero_bg_m": "/reports/billy/hero_m.webp",
-  "hero_pos_m": "center bottom",
+  "hero_pos_m": "center top",
+  "hero_copy_m": "bottom",
   "review": {
    "eyebrow": "עברנו על הקמפיין שלכם",
    "title": [

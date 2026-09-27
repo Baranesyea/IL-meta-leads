@@ -93,7 +93,10 @@ const CSS = `
 .bp .hero.light .go{color:var(--ink);border-color:rgba(23,18,13,.55);background:rgba(255,255,255,.35)}
 .bp .hero.light .go:hover{background:var(--ink);color:var(--paper)}
 @media (max-width:760px), (max-aspect-ratio:1/1){
-  .bp .hero.light .shade{background:linear-gradient(180deg,rgba(242,240,234,.7) 0%,rgba(242,240,234,.35) 26%,rgba(242,240,234,0) 44%)!important}}
+  .bp .hero.light .shade{background:linear-gradient(180deg,rgba(242,240,234,.7) 0%,rgba(242,240,234,.35) 26%,rgba(242,240,234,0) 44%)!important}
+  /* hero_copy_m "bottom": the product sits at the top of the tall photo, so all the words go to its calm lower part */
+  .bp .hero.copy-bottom .copy{top:auto;bottom:7svh}
+  .bp .hero.light.copy-bottom .shade{background:linear-gradient(0deg,rgba(242,240,234,.75) 0%,rgba(242,240,234,.35) 30%,rgba(242,240,234,0) 50%)!important}}
 
 /* call-to-action link used in the hero and after the review */
 .bp .go{display:inline-flex;align-items:center;gap:14px;padding:17px 30px;border:1px solid currentColor;color:inherit;
@@ -541,7 +544,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
       </header>
 
       {/* HERO — the brand's own campaign, full screen */}
-      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""} ${r.hero_theme === "light" ? "light" : ""}`} style={r.hero_bg_color ? { background: r.hero_bg_color } : undefined}>
+      <section className={`hero ${r.hero_cta_m === "bottom" ? "cta-bottom" : ""} ${r.hero_copy_m === "bottom" ? "copy-bottom" : ""} ${r.hero_theme === "light" ? "light" : ""}`} style={r.hero_bg_color ? { background: r.hero_bg_color } : undefined}>
         <div className="bg" style={{ backgroundImage: `url(${r.hero_bg})`, transform: `translateY(${y * 0.3}px)`, "--hero-m": `url(${r.hero_bg_m || r.hero_bg})`, ...(r.hero_pos_m ? { "--hero-pos-m": r.hero_pos_m } : {}) }} />
         <div className="shade" />
         <div className="copy">
