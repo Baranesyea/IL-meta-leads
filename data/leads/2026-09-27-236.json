@@ -1,0 +1,149 @@
+{
+  "lead_id": "2026-09-27-236",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100090793116030/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "100704436302728",
+    "page_name": "מוצרט Coffee&Bakery",
+    "active_ads_count": 1,
+    "search_keyword": "מגשי אירוח",
+    "sample_ads": [
+      {
+        "ad_id": "1187703722700171",
+        "link_title": "",
+        "body": "יש לכם אירוע בקרוב? המגשי אירוח של מוצרט זו הכתובת בשבילכם!\nאצלנו תוכלו למצוא מגוון ענק של מגשי אירוח עם חומרי הגלם הטובים והאיכותיים ביותר",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/528140326_612023508359473_3694217644586272077_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rwnesp8PP2IQ7kNvwFYCVef&_nc_oc=AdqphCyOEfOCfL2wSN1UNUfLFlUIIPTB6_vKOgG28CaxVYJQlXxaEuuSP1jUikDJMWU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQLD9pUIYQyxBdE3YvE5u7CI3AlfXqiK0cOqd2C49y2x_Q&oe=6ABECA91",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMU7FnGNwg21Stsl9G5Zop9DCEOh4dTk1yx3y2u95nPXsRWoBvdJcvgG5adKCIeeL5UtWTKYCM8OdxgcAnUePTlwgkKCI25pV7Y4vA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=z7XBQcoURNwQ7kNvwG-qu34&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MzU2MDg4NDI5OTIyMiwiYXNzZXRfYWdlX2RheXMiOjQ3OCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a56b6ca16a25e604&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC8zMDQyRDU3MjkzQ0I2NDBDN0E4MzRFMUUyQTRBQjZBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDYxOTk0NTUyNTI4NTQ1XzMxMjY2MjAwMTgwMzY1MDM4MDEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqyXkbn-v_QFFQIoAkMzLBdAOrMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1AGXmnQEA&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&_nc_zt=28&oh=00_AQJq9H-c8-7-DY5uk4YicdfZVD7hXQ9P4RIM3b8Rn5OXSw&oe=6ABECDCF"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1764835200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1187703722700171"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 1983,
+      "product_score": 0,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1187703722700171"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 1983,
+    "page_categories": [
+      "Coffee Shop",
+      "Bakery",
+      "Restaurant"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1187703722700171",
+        "page_id": "100704436302728",
+        "page_name": "מוצרט Coffee&Bakery",
+        "page_url": "https://www.facebook.com/100090793116030/",
+        "page_like_count": 1983,
+        "page_categories": [
+          "Coffee Shop",
+          "Bakery",
+          "Restaurant"
+        ],
+        "ad_creative_link_title": "",
+        "body": "יש לכם אירוע בקרוב? המגשי אירוח של מוצרט זו הכתובת בשבילכם!\nאצלנו תוכלו למצוא מגוון ענק של מגשי אירוח עם חומרי הגלם הטובים והאיכותיים ביותר",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1764835200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/528140326_612023508359473_3694217644586272077_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rwnesp8PP2IQ7kNvwE4v8fo&_nc_oc=AdqjTXJvlZRKleRlKEA9cNrki4xEAs3DV5b0Onl9O6jIXMrOM91I3BHpRBiPCozOXN4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-NBXR3NXRVMTTIjaFoB9Eg&_nc_ss=70289&oh=00_AQIwDndImdr1yxtc3460noQsanUuaI67maGl_38HN_WEAw&oe=6ABECA91",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMU7FnGNwg21Stsl9G5Zop9DCEOh4dTk1yx3y2u95nPXsRWoBvdJcvgG5adKCIeeL5UtWTKYCM8OdxgcAnUePTlwgkKCI25pV7Y4vA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=z7XBQcoURNwQ7kNvwFqdn6T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MzU2MDg4NDI5OTIyMiwiYXNzZXRfYWdlX2RheXMiOjQ3OCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a56b6ca16a25e604&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC8zMDQyRDU3MjkzQ0I2NDBDN0E4MzRFMUUyQTRBQjZBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDYxOTk0NTUyNTI4NTQ1XzMxMjY2MjAwMTgwMzY1MDM4MDEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqyXkbn-v_QFFQIoAkMzLBdAOrMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1AGXmnQEA&_nc_gid=-NBXR3NXRVMTTIjaFoB9Eg&_nc_ss=70289&_nc_zt=28&oh=00_AQJLVJfcThCHIfCEdKxrpU5eRJdPrqK0TM1Da2EDRBL9pQ&oe=6ABECDCF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1187703722700171"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:50:04",
+    "rejected": "2026-09-27T09:50:26"
+  }
+}

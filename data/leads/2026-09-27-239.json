@@ -1,0 +1,1108 @@
+{
+  "lead_id": "2026-09-27-239",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100063639547399/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972548868383",
+      "source": "https://www.facebook.com/ads/library/?id=1549119062967248",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "76106912317",
+    "page_name": "הבייגלה של סבא מרקו",
+    "active_ads_count": 25,
+    "search_keyword": "מגשי אירוח",
+    "sample_ads": [
+      {
+        "ad_id": "1549119062967248",
+        "link_title": "הבייגלה של סבא מרקו",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587308648_1149711707314760_8940076327862441438_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XYlkQZ_PoooQ7kNvwE6ExzN&_nc_oc=AdqMDpIMKtbzqw-femS8J7WlAVdjnlMqx0hVbqZSQZDTjJXi2uiHdhooc9qhhkqBiig&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQJwyzXw55g24xYPoe2Ccdy8-qD_7U7KExjTf9GzlEeTwg&oe=6ABED4B3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587255010_1174484824147599_3954585106065518736_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w6pbBYljxIwQ7kNvwGOV8hZ&_nc_oc=AdryPTdvWuUb_wOGXUkIBIHHClGkAsJFnrwKaH9-zbFIB0ckZzpV_o59C1cjRsdRQHY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQJ_yFyRtzMMCfhoqHq829MsjiG7RJcGCi9SmHROZYGFiQ&oe=6ABEAC57",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585361644_831679403184150_8098822512368001812_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kheWA7ymc-YQ7kNvwG1I7b1&_nc_oc=AdoyrB3BdzMwn0k3MufCF-_aGdB4_Vas3ASiHA63vODBdxEbqqWXKP2ouCBZTLJl21s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQIWoY98T3lvZjadYqXxWHXYb2BWDJLMkl_HdrSwu-QjtQ&oe=6ABEC985"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1763884800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1549119062967248"
+      },
+      {
+        "ad_id": "1364776045351811",
+        "link_title": "הבייגלה של סבא מרקו",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585356024_1727505697924188_4536623436261550676_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HJ7ZbDrkFb0Q7kNvwGUNP9p&_nc_oc=AdoL_3VrmSWKsymy1KvIH3rEjQDFuRn5rsiPayz0ehINlw036g8lIUUljHJhc3C7lJM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQJ1bwpEaa1E8OSjygR_0Rgelbk_8GoWnknGxvygCaY0IQ&oe=6ABEC243",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585411196_1519155626020462_4745177410085681787_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XPtzrT4XI7AQ7kNvwHLMF0U&_nc_oc=AdpJFsgWJMgf-yQ7QVSHijaWeqHx1R7OLwT_crTkRQ2NwIm6KoH-XtMFo84Prpmy8Yc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQK3wd3tG3fd6P1VZyVadQMBaTnFhSsiVeI1MefK8BOv1w&oe=6ABEAB26",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587702514_846384394452967_2649696139083685661_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lEclYM5fYRkQ7kNvwGjZb1D&_nc_oc=AdqhbjV5jbUF7OHtfIhHQKSNFabsDRDcPDLj73fbhcZzykYSrxzxZmHMZX1ZKg18voI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQKoBxXIURXJvYpcctX0eQ7HeKFpSdemoD7sgg41dKTjsQ&oe=6ABED03F"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1763884800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1364776045351811"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 25,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 6217,
+      "product_score": 1,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1549119062967248",
+      "1364776045351811"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 6217,
+    "page_categories": [
+      "Bagel Shop"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1549119062967248",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "הבייגלה של סבא מרקו",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1763884800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587308648_1149711707314760_8940076327862441438_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XYlkQZ_PoooQ7kNvwEH3nFT&_nc_oc=AdpyrKckJwKca7WjISlw7bJnhAVawhhokDsWcEkVH4vETg1E6hdEgi8XZQljlhtTfEs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLMbfKeuO2h7WiMLueDi_oxZ3ztFhxCFix6Fx81Rat6Qg&oe=6ABED4B3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587255010_1174484824147599_3954585106065518736_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w6pbBYljxIwQ7kNvwEYmHqH&_nc_oc=AdrN-bvTsn1xMdvZf-qHj-PRqWxe9cgzTT9ans3MUFYvxOZfgX2g_nn9dwPEbc0wClQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLsoHIOTmrC_2WJl3BRch7-g8AYhsLwn9T36FVAW6c7KQ&oe=6ABEAC57",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585361644_831679403184150_8098822512368001812_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kheWA7ymc-YQ7kNvwEKzL0X&_nc_oc=Adq094wAJpUts_oZ5im8iKaLhy9WsP17uyTBIWgJCzTTmRhBmvLvFltY1MJhIFtU3uQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIHmgrRbvvJJTi8h7xHl4uKQxwEMROgtHSfcOecJbRszQ&oe=6ABEC985",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587247300_875718411609814_329570909427547326_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AGAHvgrNzdUQ7kNvwGyAxhS&_nc_oc=AdopA9-x6hvy95kM1Hc4VfJSbbMheFYJWZ-01CBqywn6sb5Z4ykOiwOGv8m_fX_4LP8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIcxuxUTAI9fdti9pFkWV-xFjY9yCpJXJDD0xEovVvj6A&oe=6ABEA04A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585341513_1960928588031534_6642144937888930337_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QwhBYb63AuMQ7kNvwGv8NQI&_nc_oc=AdoGbbVzBSo8UJ8x5WqhMaiK4aFUpKRe8yhYmEfO4Q4miyoChM7nNySguMUFnG_pPmk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJ3t3HVPGYVucew1w4CFPwbt8ejWdANCLfVfQF_t_GzwA&oe=6ABEBB25"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1549119062967248"
+      },
+      {
+        "id": "1085478434178616",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 4,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/796573100_2215191072376881_2365364058109540962_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BPwNKrsiD3QQ7kNvwEqL97e&_nc_oc=AdpCmmyMby5PnQvDOZc47Jy9Gc0ZrmoTxdT_jyt-hVkaDeii_ULHeE8MO7IFaR_XXew&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQI-wEcu4GfOgs3i15e_FP5zN7nEHxyogJTdkogQdWZ2mQ&oe=6ABEC3D6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1085478434178616"
+      },
+      {
+        "id": "1085108090722047",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792237344_1809157753416366_2051342411149154671_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xMr-HggrntEQ7kNvwF73FC1&_nc_oc=AdpbO9gASzxoFGyJWqeNaqLV6tVF9t4Te7i93ONwBrIMOBsqPg7vBvnyGxYtsmjpKPk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJ-xuDCG9ID16nN9yOruVT2EgbtqjGoAXEmStjbMi4E1g&oe=6ABEC0D2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1085108090722047"
+      },
+      {
+        "id": "28907848138851367",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/797001618_1371733561290972_1223336647325102181_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sFJdhIv8VIIQ7kNvwEo60tG&_nc_oc=AdoG002Cg-w3AFTxxQhbetc2yOqKMYi9eTdHyfOb90r1sRD7Zq74DgOrckcP-AZS8ao&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIHgnGLeVEVw_TmFfryXdU8I3oF5GvD5H6u13zd8GV3EA&oe=6ABEC225"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28907848138851367"
+      },
+      {
+        "id": "3392248917643771",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798798533_1825463208614888_5850144611351781577_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GWZnIsFeiKUQ7kNvwHr3VU-&_nc_oc=AdqCSRZ5OfZceeBH_yA4c3SedFGNGxpA1q4EeZRgYXFgj2HPFVem3HMmj09APZI8plk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQINYmbM9SamlTnhDR793VGMT1Xvre9ktXxGsXH1c1FAPQ&oe=6ABEAB71"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3392248917643771"
+      },
+      {
+        "id": "1364776045351811",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "הבייגלה של סבא מרקו",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1763884800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585356024_1727505697924188_4536623436261550676_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HJ7ZbDrkFb0Q7kNvwFw2aGL&_nc_oc=Adoj211f0Jsvg8D2ZtxiKeT0C8Tlop6Yi72LQktasFu5VyMx6VQNHFgLY_z37TRRhc4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLCSaD3XC_zFy1IllhOFxdqkRS98xMAKNgf-Vbg-80NaA&oe=6ABEC243",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585411196_1519155626020462_4745177410085681787_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XPtzrT4XI7AQ7kNvwHnnpw-&_nc_oc=AdoSS1sG3iY9q__su512wh6gpFQ2v6mk6XfoNcul2ZQSjQvlJq7AzRQmMgUQ0uRrG30&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQKArwj4GWO74DyGSB4-JJCfsWvmR-vT4JnEEwXrLXTiHw&oe=6ABEAB26",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587702514_846384394452967_2649696139083685661_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lEclYM5fYRkQ7kNvwFUtI7o&_nc_oc=AdpCLigufqrFQCqSHsbU3z9YtJu9muTSzQI4zl1s--wvW4bXpgAYYeMSGCvnGbU40eU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJyb7GrVBOIYFe_q-8DFcCVBgto3j1z6dfID1NM7xGqdA&oe=6ABED03F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585489022_786469904443213_2308824470600955637_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yx0jo4n7P1oQ7kNvwGI6cpY&_nc_oc=Adodp0_CU-kGU8-1ycZKHoUzXd0KfbxPIz9ktgPNhqY0_7Zpt5_7u55vur6d6ePxwjM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIqOgNIV0K2cUb_CyQBoYLmGGiSEKlD_uPeKFHfGOnQvg&oe=6ABEC499",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/587797887_2037235587035345_3928099357444594613_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wy9adQnfS7EQ7kNvwE1pCxa&_nc_oc=AdqZCtS3z5mnDBVqocI3r6eqxfoqoeF3H5JOysptRNmkb2uVu_eJT1StT6Ug1QQ1PcA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIp_1Pb_PMaro457i_e7pr6L8FU14hDBfIFa6M6TY2Vtg&oe=6ABEC12E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1364776045351811"
+      },
+      {
+        "id": "1708134776561477",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "הבייגלה של סבא מרקו",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": " ",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1770537600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641342663_1183325603651895_3741778146073200288_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6_4Osne0qn4Q7kNvwH2Udcz&_nc_oc=AdrCf1XVmZTzf4YlUS2E_0pWtGOS6j9ueK3EM9anT1HHLDw3n5iKE0txZgqLgWhYyZI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJa0QLW1197LI5hCRmpZyfrk6Cbx2Dp7lPdvpOOpvn55g&oe=6ABEC0CC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/638432564_1613716039772480_8143079898976274204_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MAVJHlsKSr8Q7kNvwHC5tOI&_nc_oc=AdpEjuk5H0yhn_5_eIyW1d03q59HBN0WPNA37ti7ivQ2G8wd_OSAKuqOKaEIIJvw40g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJFOewlWXztT_MJnApu3jQb7WqBCsjrDRLhkWkW9UFc6g&oe=6ABEA6BC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/640972690_1594008058515844_7384473699671600214_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oGurYRE6xn0Q7kNvwEnEfWN&_nc_oc=Adr8OLFZFZzphYq-0h4tBw7cHZ-MlVSUXYmIccs9HYYCIzZY8ubH1KHZhE5INgTLEns&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJtUe-xFOIieVwg7xcSniBdYTvc0h0KiNozrVj_LO7ZqA&oe=6ABEA76B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/639918744_2687026388329977_9147635236712347485_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JBnENnlDi34Q7kNvwFmDQmu&_nc_oc=AdqG6JLgq0qoyRe2vY615lUc3Wf5ZHkD4miO6Nej_4YQgC7bjyLmIuHdlDXbVCqanEA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLvxQXPVc1Gk5aCjlsLEBQ-DFiKQ4vwWsZKtdvjNnd0GA&oe=6ABEC9B9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/641157005_1293872815887317_4304811299812773163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DUalyWjCfc4Q7kNvwG-TkyC&_nc_oc=AdoYCJGTVn0Uw22HxWQFoFogtSHm14xrJT9PSU6OCuNh9cJVd2XausiP03gVa1Qy2Uw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQL2-i0i2Tau1kCw4jxzEf5VanMZ9XA3PPZap25XOXJ9xg&oe=6ABEA07A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1708134776561477"
+      },
+      {
+        "id": "1278118434402877",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מאז 1932 האופנה השתנתה, הטכנולוגיה התקדמה והעולם מסביב התחלף כבר עשרות פעמים. אבל יש דברים שלא נוגעים בהם כשהם מגיעים לשלמות. הבייגלה שלנו עדיין דורש את אותה הכשרה אנושית מיוחדת, 95% עבודת יד ואותה אפייה קפדנית בתנור אבן מסורתי. כי איכות אמיתית לא צריכה להתקדם - היא פשוט נשארת הסטנדרט.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729736671_889816560125547_4924713057804287792_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mDK3FjIM6ugQ7kNvwGIvGVJ&_nc_oc=Adqo-D8UyVywc56MWv_6B6p-mQYGu-IbRsaLxfgJLBbll7Ftf2YyjLqy79drgqNFL_A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIZ3w-vjF1U60rvZSQxmSGXWygle4ZfqpBfL74gq6b5kA&oe=6ABECAF4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVm4fOKPEV6XsdHyVghOVRoyAKMPkhZhEvKo3jRCfgHomL68zJg3m5Q7kuuZrsca379XcnF-muTRrXen3Glpj2L9nQwyyOH-sZhiskQJ21Xw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=hUu7A5yNF0oQ7kNvwGIBARH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjcxNzM4Mjk3ODMxNjYsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=db44da7b0662e0fe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xOTRFNEM2OTI2RjM2OTc5NUY2MDA0RUJERjgwMTk5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VGNEJGNUExODJFRTNGMzMyNEJDMUM1QTQxNTM3QjgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8ufmzsY3TAxUCKAJDMywXQBRDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQLaM_BZhnk14RS98nur8_J7Mj70CXoVusL6D9dPMA_BxA&oe=6ABEB4E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1278118434402877"
+      },
+      {
+        "id": "928147773103887",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "מגשי אירוח  קייטרינג חלבי",
+        "body": "חוגגים אירוע בקרוב🎉✨ ישיבת צוות ,הרמת כוסית יום הולדת או סתם ערב בכיף  🎂 תנו לנו להפוך את החגיגה שלכם לחוויה בלתי נשכחת עם קייטרינג חלבי ממיטב המסורת של סבא מרקו עם מגוון מאכלים  שאתם אוהבים: מגשי אירוח מיוחדים,פסטות טעימות , סלטים רעננים, קינוחים מהממים 🤩ועוד! פנו אלינו ונתכנן יחד את התפריט המושלם במגוון של שילובים והבהתאמה אישית .\nכשר למהדרין  איסוף עצמי ומשלוחים",
+        "link_description": "",
+        "landing_url": "https://facebook.com/100063639547399",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1771488000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615339600_1981026546103533_1887574386511226345_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QpRlBf2QCZYQ7kNvwHFF5qF&_nc_oc=AdqllatOTEtX-XMZIK9iyeUr0-3jRiZxQZeSkATMGo-93ZxZlrux_c7VAX4PLuXQfws&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQKgtOjP7AID5hGVPqSzcJHlIfybIGTk3eE6u0NgUTRSpA&oe=6ABE9F73"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=928147773103887"
+      },
+      {
+        "id": "1358659196290193",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "לצפייה בתפריט והזמנות לחצו כאן  >>>",
+        "body": "חוגגים עלייה לתורה? מזל טוב! \nהאירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\nמגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לאירוע גדול.\nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641285574_2009652632924738_5100156246997939267_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tRbvdtf6fY0Q7kNvwFJBiMJ&_nc_oc=AdrNO5HjCaz-XuwS7VjH_0NhC20a4dsVgm1BfHZwNvh3dn360JcqXNkywOXm5Jbrmnk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIeO57EkFPZOQ3f-bw0r7WG_6pz9ePQjwt8s7YdgneqjA&oe=6ABEB3C8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPYu3DcvCQ8-UfXNUhGEQDken3Q0vrgVXyiq_aEyV57SHezA-41Hu5cdKSe9FgW-yeHX4rwKwfVxyStF6twN3P3nNFmaR9iqTOeYXSIY3-8gg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=mdB4GG4wiQ0Q7kNvwFbB38y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTk4NTAxMjk5MjAyMjMsImFzc2V0X2FnZV9kYXlzIjoyMTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9d3a67bdfb3c78dc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTRDMDEzOERCM0VEM0FEMUIyN0JFNDUzNzNDM0Y5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAxNDlCNUMzOTJDRUY1QUZGNDc0M0IwNzQ1QTAwNEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-w4bqk9aFBRUCKAJDMywXQDaiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJNW4jw-8FrtHZ6XAscKmIU_DyNyqdmb_FmXL4r1XHHrA&oe=6ABEB843"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1358659196290193"
+      },
+      {
+        "id": "1660127702069317",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770537600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/638704219_1326316789533683_6850548952494584516_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o78Zg15poG0Q7kNvwH-JJeG&_nc_oc=Adr5AwmxYAWE_WXW1N2HDClDnOpi4uTvQMkGT9aNX3RddyizGyWg84m6Mi_aM5mRB1Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLBsUmVi-30VrOJr6FFKYmdqpDDmb7twPuqHvPlI-0JpQ&oe=6ABEC6FD",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO5KGZsewFXcrEEQ15ReQ1ZBfvMbOF2kdYYU1H9FeGg3Qza55WSPDbvEcpuRa7mG3fjCWCM-i9n5eILeHLeP9pQlam2AgYSRBym1s4MJ6vWkQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lFpjXdHekscQ7kNvwGueQQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMTU2MDI2NTkyMzU4MDUsImFzc2V0X2FnZV9kYXlzIjoyMzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b5a7017d2915b76b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNjQyNEY3RkE0NjFDMDgwMzkwMzVFQzcwQzYzNjI4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNDdFQ0VGMTFGQzcyMkY4MDY5NjREMkNCMUFGQjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa63-qPpIjCBxUCKAJDMywXQEozMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQLGoMf5bGYemQbbTrpPxcjF5kdYKwaOvmKHX9WTJ5EefA&oe=6ABEC5DF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1660127702069317"
+      },
+      {
+        "id": "1454965099482313",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770537600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/637392146_1434864508311872_5398155025761194531_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zrv6BWA1Zm4Q7kNvwHZdIaO&_nc_oc=AdoNWNvqghS7HHiF0b3Ci8t4TB7FcB8k4vhR5gjK_7nK_e2IyEMzho9cat9GpSCeU2Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIsznpKHeVFGDMFf8c6zvau-5JbGD6akUrKQoQFqEnSPg&oe=6ABECF66",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO5KGZsewFXcrEEQ15ReQ1ZBfvMbOF2kdYYU1H9FeGg3Qza55WSPDbvEcpuRa7mG3fjCWCM-i9n5eILeHLeP9pQlam2AgYSRBym1s4MJ6vWkQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=lFpjXdHekscQ7kNvwGueQQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMTU2MDI2NTkyMzU4MDUsImFzc2V0X2FnZV9kYXlzIjoyMzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b5a7017d2915b76b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNjQyNEY3RkE0NjFDMDgwMzkwMzVFQzcwQzYzNjI4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JBNDdFQ0VGMTFGQzcyMkY4MDY5NjREMkNCMUFGQjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa63-qPpIjCBxUCKAJDMywXQEozMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQLGoMf5bGYemQbbTrpPxcjF5kdYKwaOvmKHX9WTJ5EefA&oe=6ABEC5DF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1454965099482313"
+      },
+      {
+        "id": "1030699986166185",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הביצהל'ה שלנו היא סוג של התאהבות קשה: בייגלה לוהט ושתי ביצי עין שרק מחכות לביס הראשון. זהירות, זה ממכר, זה מלכלך את האצבעות, וזה הדבר הכי טוב שתעשו לעצמכם הבוקר. 🤤🍳 תביאו מפית (או שפשוט תלקקו את האצבעות, אנחנו לא שופטים). מחכים לכם!",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "MESSAGE_PAGE",
+        "cta_text": "שליחת הודעה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728544143_1359929729353658_7502219077852792567_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nlOZpD1NCXYQ7kNvwFx7aGQ&_nc_oc=AdoL_tFf9SHCOUBqX_Lz4zKS_mLWhRdmmLbimHs0TDrtpdiP3rWJwTTvHztMWoVbT-c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIhg5qulMLp1JC5rTWiny3_RxCDoexv6LxPZ9-SxQ-Gpg&oe=6ABEC45E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPU_GzYqeMQcXCorfJFQWKwKNNf48J6sEO8sr3VRxmc_C0tg8_yKYzcwT49npkmqxD2FWm2EPF4a33e0fzc3_65Y3Vg8cKGJySUWL_OvYYCTQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=HH33SVPZQzkQ7kNvwHvvbbU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTY3MTM5ODE2NTQ0NjEsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7472fa108735db80&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjQwMjI1QUMyQTc2ODM1QTkyRDk0Q0M0MDhCMkJCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I3NDY5REZDNDlFRjUwMkEzN0VGRjc0MzA0RDdDNkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb61sui4MmDBhUCKAJDMywXQBRDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQLmeEQzLsDVxx1AMBVB3_NvuJ9pne2H6uxw_JdaMUKs3A&oe=6ABEB67F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1030699986166185"
+      },
+      {
+        "id": "922230576872563",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "לצפייה בתפריט והזמנות לחצו כאן  >>>",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770537600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/639177053_901761009498011_4669216862265039639_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86UCDKyBgWgQ7kNvwHiQqiu&_nc_oc=AdpsgXg8gityWL6DPr4M80ytus4SVRy5f_VokQ4OtFj9DHM72ZdZFNl-XACdDCedDHw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLsb0tLZyVO3_6WlYtrAG5SKNmK2gwCk6OzUPhSdbWpPQ&oe=6ABEBF85",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpLuYfMtQq3VDI2J_h-7yKyvUWHt6GIBBctzkoTsHNy56aTQ0B6BEj9KAuwGUqioCvKTyq5yxRYpzrUU2RqeYdM9lVCysQCO9UR0_x_3e1KQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=pkYRqPm4CPMQ7kNvwGrFytA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTM2NzMxNjA0NDk4NDcsImFzc2V0X2FnZV9kYXlzIjoyMzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d1b5c7088fcceb0b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjQ2MTgyRjczQjRCQ0VGOUIxMjFGN0Y3Q0FFNTJBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I2NDkzQzZEMEQwQ0UxNUE1NDNBQzdBRTk5MkIxQzg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbu_PToze6CBRUCKAJDMywXQECqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQLL99snCAkpr6sQarH3o_BMnQE5UU8anQNDBcavQGBjBQ&oe=6ABE9F94"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=922230576872563"
+      },
+      {
+        "id": "983798874419390",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "גם אצלכם במונדיאל הסלון מתמלא בחברים - יש לנו את הפתרון המדויק עבורך.\nמגשי האירוח של סבא מרקו מביאים אליכם מבחר עשיר של מאפים, בייגלה חם, פסטות וסלטים טריים שמספקים ארוחה מלאה במינימום מאמץ ובמקסימום איכות. האירוח המושלם לחברים, בלי שאף אחד מכם יצטרך לבשל.\nאל תחכו לרגע האחרון, שריינו תאריך: 04-8450850 📞",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728607176_1550939503199260_4532230499869145902_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z1w1eMWVQewQ7kNvwHTJIWo&_nc_oc=AdpWPS7eUWsN88fwKukuXqeKZKUrq5ElJlONYTPNxJOoYW8BviOSFJk5ATUGc4abd0Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQKyNxx94knudDHSe_PMe8lnGRNFOen3ID-PlfZnbacBVA&oe=6ABECF92",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNcw9ExYk1cLt5nF-rbVnYNM8ZD_dnYdG4YAGgnXJ-CHMQfkS5WdsDA4T0zSsKxni1iWQ3xYHf_nCIstYajnQoJ779RwtGbzhxuelOY5-LqlA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Cj1rqietNzkQ7kNvwEDEb_g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3NTg3ODA0MjEwMTU5OSwiYXNzZXRfYWdlX2RheXMiOjExMiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ef2db98672b98b68&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MjQyNkJCRDJFN0VBMDlGRUZGNDgyODA1ODJEOUVBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ2NDlEQkU2OTU4RTREM0U3NzUxRTU2MkE4NjdGQThBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-ndmAyuO7AxUCKAJDMywXQBRDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQIKWfVwLo1xBMHbCt4d_FAV5ICO6bo5VvpfruNHB901JQ&oe=6ABEC800"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=983798874419390"
+      },
+      {
+        "id": "2259080931546557",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "חנות בייגל"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כשחברות ענק כמו ג'ונסון אנד ג'ונסון, משטרת ישראל, רמב\"ם, בנק לאומי או הטכניון מארחות, הן לא לוקחות סיכונים. הן צריכות אוכל שיגיע חם וטרי.\nהחוק שלנו ברור, נאפה עכשיו - מוגש עכשיו. המאפים והסלטים מוכנים ממש לפני שהמשלוח יוצא לאירוע שלכם. הכל מגיע באריזות ממותגות שומרות חום, שמשמשות ככלי הגשה מרשימים. \nמתאים לישיבות צוות קטנות או לאירועים של מאות אנשים במשרד, בלי שום מינימום הזמנה!",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/767455955_1768592734451867_1480498034510030284_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PVu7IUEdHrIQ7kNvwGW__tT&_nc_oc=AdqkABhQm9KjFoMsQGBF2N250eSqGRaWErsLXjMcN1XMBP8t0pBmdo9Bab7HgHUWtXI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLjbbciryA4ySRw7As6p6WNORghbOf1XLpwoZLlphYcWA&oe=6ABECC74",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO5IGJGecBiPypefHzlkgeu8KsCYqV8rG7lxyUbJaqmh1-1FGsHiHyrnpUv88HcQE1SolZJjcrPqfvFmV1Nz_-wuekKRO21t2n9HhyP7GZ18A.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=L_Efa7BlF2IQ7kNvwFKDtjQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTAzNzgwMzQyMjQ3MjAsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=84a3d2707c154eec&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RjRBRjA1NjEzNzhEMkE2NTM3MURGNTQ5OUE5QUJCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhENDYxNEY5QjY4Njc1NDQ4ODM2RjNFNUNCQTQ1QTkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag-eCZhtTdAxUCKAJDMywXQBQhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJyln17nESPgZeVaYtYk_DqEEfHx69CJD4wv1xXfjvFDw&oe=6ABEBAF7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2259080931546557"
+      },
+      {
+        "id": "1515411043592202",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "חנות בייגל"
+        ],
+        "ad_creative_link_title": "",
+        "body": "צרפת זה כאן!\nהקראנץ' המשוגע בביס הראשון כבר יסביר לכם הכל. 🥐",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/767483334_1714718533170648_5875894008739093120_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2gan-WJHxH8Q7kNvwFk_fUj&_nc_oc=Adon_GRy5INrVQf30xGAKzPSbvGHaW-acF3pbvy0ORpK5ZW4VF2q5lJXnCY9YtMPQ_c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQKq9LQgInksYFhZnxKsYtZvo8RSYui0MzMitIn7FriG2A&oe=6ABEB2C5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOhmgG7zo4ZTPg-CwXuY51vqBO-JdyuK5CyKBg0eqxC5h55rbLIngrr0XJKiFUGeGEsmxe0o_clFCZHG4Lr5qfzMrk2nOIDNuvpkFCregKfbg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=iGCt70If8a8Q7kNvwGoCSCz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDczNTc4NjYzNTI2OTUsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=643e6037a1ad3bb1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMjQ4OEVEQjEzRDlGQkIyMTYyQzcxREIxNEE0MTM5Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU2NDYzQjkwQTQyN0FEMDY2QjY2MTkzRjFDNDM0QUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbugInH7JDtBRUCKAJDMywXQClEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJcX0jIX9rxQHohiS7VgeeAz10_DECw6lzdD4eQz1O0FQ&oe=6ABEB30A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1515411043592202"
+      },
+      {
+        "id": "1382422627148460",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הקרמשניט שאי אפשר לאכול בנימוס. יש כאלה שקוראים לו נפוליאון, יש כאלה שקוראים לו 'התמכרות'. אנחנו פשוט דאגנו לבצק עלים הכי פריך בעיר ולקרם וניל עשיר שלא נגמר. \nבואו להתמכר בבייקרי של סבא מרקו 📍 אתא 7, קרית אתא.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710742280_1314927234170239_87187608489678026_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IA86ViSZGz0Q7kNvwEiqbh7&_nc_oc=Adpb9lRaxeTEByQtRj9vf0DYsEjmNyY5JlF_gHEb8_KqfXJsMCzqorWh5oXbyvkgzsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLyK6JQCUbQOTnERQ68fR78XdSQm33rvs04EUHq0oGRuw&oe=6ABEC958",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPh2K2z2zmF2KKltv9oCK5WP9PnvDkEREio2pvDu-RLkmYYIaYz7ZvfFJeaG8ZajukVAmwOOd2xYU1Cu7kfZM8dP4mtUqXSSVPevWn3QzzgHg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=O8FiV_sk4IIQ7kNvwHSWw9L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzQ1Mjk4NzE5MzUzMDgsImFzc2V0X2FnZV9kYXlzIjoxMzgsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=47759005890c45fd&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC85NTQ4QUIwRTM3ODREMEYxRUEzQkJCNzYxMEE1M0RBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY3auv7u_eBBUCKAJDMywXQBQhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQIeyulS9Vfbq2MoUWy94Yw34cd3J2EjD_sgw8ZVQ1CJgw&oe=6ABEA73C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1382422627148460"
+      },
+      {
+        "id": "27849902671262351",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "חוגגים עלייה לתורה? מזל טוב! \nהאירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\nמגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לאירוע גדול.\nלהזמנת קייטרינג חם מהתנור >>",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/641319154_1868538103795487_695257226496278936_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vx_HEUnVJtgQ7kNvwGDi1mM&_nc_oc=AdrWFNNSW5xSXp_GAg_7X7fdf2vdbsPb6_pg1ItwShaah-UMMHwq7LuKGMXuZcPv9gw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQJE9H_H_yRhCnJt4gBZELIdr-se3Mlv8FpeAYq_lNlJ2Q&oe=6ABEC065",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNl49azU4XFEtoFXAufztGzb5daSgAEas1I-4biIoIt5-honPtt8s_miFCANX5L125Qpsz4QfVQX7_L9WzG1Xixy2plmm817Xw8J2vYSct4lw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ufZogYqzhloQ7kNvwG3ECo-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgwMzgyNjMyODY5Mjg0NywiYXNzZXRfYWdlX2RheXMiOjIxNSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=41df458e39c4569&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQzRCM0M0NTEzMUEwOTA2ODE0Q0NGNTkwM0I5ODRBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE2NDM0MzM2N0MxNjhFQ0FGMkZCRTkwNEY4QkJGQUJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbeocPs7MTtAhUCKAJDMywXQDaiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQKRTqpF4Vmg18eHb21sejOI-yDLzUU6P-wnGuETZruN6Q&oe=6ABEB5C0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27849902671262351"
+      },
+      {
+        "id": "1048096361277099",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הסרטון הזה הוא לא על הזמן שעובר, הוא על הזיכרון של הביס הראשון. 🎞️➡️🎨\nמ-1932, לא שינינו אפילו פסיק. אותו מתכון משפחתי מדויק של סבא מרקו.\nהמסורת מחכה לכם כאן >>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766071931_2120477651866915_2704904491351354649_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2W9scnyjmhkQ7kNvwGdlg1X&_nc_oc=AdqFgmgAawvXhgwQuIQzny4ryanv3d6NmPDXOedCNVSBjJUnVmL1o8q_cbgyxsmT8QA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQK3x81efC9owGfDiT_QplEYra_YQnzh8SZzm6YSwqQ6HA&oe=6ABEC010",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNPYItBL3-GF8HXNhgkm4F6C_sInf6oARQxjFS-K59UwgzV0y0S2oFvDJMN1JgPMwspFeHhtseni7IhDHzKhJZiyxbRdvNo6_85hbJzMo7rzg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dn_veaM21FQQ7kNvwGeEVtV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2NTcwMTkxNDQ3MTg2MDAsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=978a4ff60980cc1b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84ODRFRTc4RTUwMTBENDVGMURGMTkxNUM1Q0MyODBCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNDUwRTA0RjExQURBMzU1ODVDOTE4RUEwODhDNEEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQpMKk76K4CRUCKAJDMywXQCJ3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQKApncWYFI9u6CXrmSQwYgIzil9qjvuJtrPHHGPvVFctQ&oe=6ABEC44B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1048096361277099"
+      },
+      {
+        "id": "2237816903637240",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "למה לצאת לחפש חנייה כשאפשר לקבל את הבייגלה המפורסם והמאפים הכי טריים ישר לספה? טרי, חם ומוכן רק בשבילכם. \nמזמינים בקליק והשליח בדרך https://orders.beecommcloud.com/#/sites/init/678cc276c18b180384004baa",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782370800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711695633_2781083582265343_2128177995640501647_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sDdo0Nm3RF8Q7kNvwFR-_nz&_nc_oc=AdpyxhVDMRf6XluHo8hhig3nHxgnHtwKJH26MPuQVPcv2HB0lYd2XnVFDmJaMFjugNY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIKabC-sEmPEZEHq9l3UAMbwOyqojmqIYpgzmM7C58pAA&oe=6ABEC228",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP9jNUiOh0muxRx7hmJ4ZDQete0cR9VXm-RjGHgp1c5rv9qbniC3vOmT-IUKHYATabWOIITHBReHfxqBZegK35V5mNAjrB0chTUplHjJOEDoQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2DjGZsS7sYIQ7kNvwFRqCbx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzAxMDY5MjQwNDA2ODIsImFzc2V0X2FnZV9kYXlzIjoxMzgsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=34aa1574d88f5d07&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9DMzRFMkNERkI5RkExODU3QjdBQTNGOENFQzg1RTI5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbUh46fgr33BRUCKAJDMywXQBQhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJi9NAGp3zUTOTi0g5zWiF7Z0j0SAlsLeUgVvcOdnnFNA&oe=6ABEC339"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2237816903637240"
+      },
+      {
+        "id": "1721329199287953",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אתם יכולים להמשיך לחפש את העוגייה המושלמת, או שפשוט תגיעו לבייקרי. \nפריכות בטירוף, נמסות בפה ופשוט... עושות טוב על הלב. \nהפינוק שלכם מחכה כאן |📍אתא 7 , קרית אתא",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714949401_2021248185447301_8370218567264137409_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOAOGAaPkLgQ7kNvwG0ATv2&_nc_oc=AdrMYsExFlgoGSGsK1tZIyvlqJZ8iek-nZAL0unz91lC1FOiJJIYauWslgdklwESiRw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQKC-iIHf9OQF3rTMtJjtJYs29CKS8Zjd0z9klvE57UDXg&oe=6ABEB858",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMsbNt2fpRw2hMngRswqdcSad7zhuSjA2LFYU_7PpYrj9ieJLaqe9-w7c812mb4td7Qzk6pB2Phd8i4Y7SkJhpNkMGGmIMZ8y2h31O0sg4jjQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=11O2s0B7y1wQ7kNvwHcSmQo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc1ODE3NzAzMDYxOTU5MywiYXNzZXRfYWdlX2RheXMiOjEzOCwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3b277a548301f233&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9BMTRCNDk1NTRGRDc4RDVCNDc2RjUzMjZENjk3NjRBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSh7KJ2-PYAhUCKAJDMywXQBgAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQKDDbYk4wvS9-9bvJPPG0RnDR2Arh2k4iHITvpCjB93Cg&oe=6ABECF42"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1721329199287953"
+      },
+      {
+        "id": "1349441717380908",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "זה הזמן שלכם לעצור הכל וליהנות מהרגע. 🥨\n✨ בואו לבקר אותנו ברחוב אתא 6, קרית אתא.",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "CALL_NOW",
+        "cta_text": "להתקשר כעת",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725319480_27397410066579925_3440009570341365716_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ql1H4oahqI0Q7kNvwHQqGLb&_nc_oc=AdqBUdY29RvcUung424mxCHef2lTD4FS57cXfy0nxBRugW3U02SkOwUBum0Uy09kfkw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQIcLHH3bKCeCm6KwbgsyrINeE97AGxrZpEWdSfJG27L9w&oe=6ABEBFF2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO6RYFdUw9ak7uKfYUhmtFmPYTmrrcfAhTL2ynse6TP2U03RYQLiY2SrjGMgr6y04Jc8-X4OdCrrBZBPi5q--tj2OzorjJ8o33wQp8NCmXb8w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=mzr7P0Od7PcQ7kNvwHG3Ddb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3MzYxOTIwNTUzODU4OCwiYXNzZXRfYWdlX2RheXMiOjExMiwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=98afa31570ecd86c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GODQ5NENCRTU3OUFGN0FEQkIwQTAxOEMyNzAwQjNCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhGNEEyQUUxQzIwNDc2REIxODU0MUEwNkNGRjc4MzhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4jKSujOC6AxUCKAJDMywXQBIhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQI9DTt2FQbeOlSTanImSCDbBZT0YQKuV9h6fMCC25cGXA&oe=6ABEA22F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1349441717380908"
+      },
+      {
+        "id": "1562099055648664",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "ארוחת הצהריים הטעימה ביותר שתאכלו השבוע במשרד!\nמגשי האירוח של הקייטרינג של סבא מרקו היישר למשרד שלכם.\nלהזמנות לחצו כאן- https://sabamarko.co.il/dairy-catering-and-catering-platters",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/763926236_1741914357478087_1824213715480022624_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nGslRRab3ZsQ7kNvwEo1OlK&_nc_oc=Adpl7COg-YuPYMY8rn3f4yN2OpGwvnLGOqJlBRdjdUP7wGS4FwgJ4HdolhypxH2zzZY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQL2Ae3Gpdd26wvnSUyeI2oLPYw63I3CJ1Ph9yR-XsqoOA&oe=6ABEA066",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP8AnnYV1k-tK0KFzsGlefcZv61bUwgppxvGsXTZUunjQ-qg2OfRfyH34dt7BbBEZdenE5WuooJaxqn1LBsGWWOHr9lXBwSDyxQF17DDSwFgQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9yJFaeRRfWMQ7kNvwEsa-WC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NDM4MjY3ODk2MzA2MTksImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ccca89dad6046e70&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MDRFOUQ3OTA3NENCMDJGRDlFREJGNDI4OTMyMEU5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg0NEZDQTMyODRGNkY3M0U3M0U3RDc2QkFDN0U2NDk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2iuiUzvnzBhUCKAJDMywXQBiIMSbpeNUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJ8mXc_KNncOIlKRR6mWzydQDby0Vyq33kopSTQtHJGsw&oe=6ABECA77"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1562099055648664"
+      },
+      {
+        "id": "1083698061010603",
+        "page_id": "76106912317",
+        "page_name": "הבייגלה של סבא מרקו",
+        "page_url": "https://www.facebook.com/100063639547399/",
+        "page_like_count": 6217,
+        "page_categories": [
+          "Bagel Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "איזה כיף! הבייקרי של סבא מרקו עכשיו גם באונליין!\nהיכנסו עכשיו!\nhttps://marcobakery.co.il/",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785913200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763722757_964280566683897_6250260674579817266_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K-y1n0tVPF8Q7kNvwEVYcGG&_nc_oc=Adq7Y5hOQ_y1Sm3JtiWeaLwPYGDKovcJjjxxVApr-MmBhN5rlUiPLBhSPIMHS1n9FCM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&oh=00_AQLiwPs4pZ-iIn15MZHCj984yVSnei2nIBth23gohswspQ&oe=6ABEC06F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNlrYemnK3NjalKTAhEMUpfOcFNa3AGGU_sYOEVqCGzkXMR-q1qM7GRZp-HtTehCnUHxUspWew6Vy9_67lN3AcA8mv25Y4fMvKjuZ8La9DZyQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZTd-mZvQfAQQ7kNvwF9lXCL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMzA0MTIwNDQ0MzM3MzIsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ce890fdc208d0129&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9ENjQ1RkY4MkVERDc3NDkzM0VBRTNFMDk2RkZEOERCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaI5bXh6t-jCBUCKAJDMywXQBQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q_JEiBHAsOCP2EITRe6d6A&_nc_ss=70289&_nc_zt=28&oh=00_AQJ0ZKXn5fed-A_TLe9L9cM-2HPn8w5H29XDT2ArtvoiOQ&oe=6ABEA085"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1083698061010603"
+      },
+      {
+        "id": "1549119062967248",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      },
+      {
+        "id": "1364776045351811",
+        "body": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://facebook.com/100063639547399"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1549119062967248",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1085478434178616",
+        "text": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "links": []
+      },
+      {
+        "ad_id": "1085108090722047",
+        "text": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "links": []
+      },
+      {
+        "ad_id": "28907848138851367",
+        "text": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "links": []
+      },
+      {
+        "ad_id": "3392248917643771",
+        "text": "בואו לחוות את הקסם. קפצו אלינו לבייקרי, בחרו את המאפה שיעשה לכם את היום והקפה? עלינו! ☕✨\n\nלא צריך כרטיס טיסה לפריז כדי למצוא את האושר. ✈️🥐 אומרים שאושר מורכב מרגעים קטנים, אנחנו אומרים שהוא מתחיל בביס של קרואסון חמאה מושלם ושלוק של קפה מדויק.\n\nתעצמו עיניים, קחו נשימה עמוקה ותנו לריח של מאפי הבוטיק שלנו להכניס אתכם לאווירה של בולנז׳רי אירופאי קלאסי, ממש כאן בבייקרי. צוות הקונדיטורים שלנו ער מהשעות הקטנות של הלילה ואופה הכול בעבודת יד, מחומרי הגלם הכי טובים שיש. אנחנו אופים מאפים באהבה ובתשומת לב מלאה.\n\nמגיע לכם לעצור את המירוץ, לקחת פסק זמן אמיתי ופשוט... ליהנות מהרגע.\nוהפעם, אנחנו מוסיפים לכם גם קפה על חשבוננו: כל מי שרוכש מוצר בבייקרי ומשלים את השלבים הבאים, מקבל מאיתנו כוס קפה אחת במתנה! ☕\n\nאיך מקבלים? פשוט:\n\n❤️ עושים לייק לפוסט הזה\n 📸 מצלמים מסך כשהלייק מופיע\n 🥐 מגיעים לבייקרי ורוכשים כל מוצר שתבחרו\n ☕ מציגים את צילום המסך בדלפק ומקבלים כוס קפה אחת מאיתנו במתנה!\n📍 הבייקרי של סבא מרקו | אתא 7, קריית אתא\n\nההטבה ניתנת למימוש חד־פעמי בלבד, בכפוף למילוי התנאים המפורטים לעיל. כל צילום מסך מזכה בכוס קפה אחת לאדם. תוקף ההטבה: עד 05/10/2026.",
+        "links": []
+      },
+      {
+        "ad_id": "1364776045351811",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1708134776561477",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1278118434402877",
+        "text": "מאז 1932 האופנה השתנתה, הטכנולוגיה התקדמה והעולם מסביב התחלף כבר עשרות פעמים. אבל יש דברים שלא נוגעים בהם כשהם מגיעים לשלמות. הבייגלה שלנו עדיין דורש את אותה הכשרה אנושית מיוחדת, 95% עבודת יד ואותה אפייה קפדנית בתנור אבן מסורתי. כי איכות אמיתית לא צריכה להתקדם - היא פשוט נשארת הסטנדרט.",
+        "links": []
+      },
+      {
+        "ad_id": "928147773103887",
+        "text": "חוגגים אירוע בקרוב🎉✨ ישיבת צוות ,הרמת כוסית יום הולדת או סתם ערב בכיף  🎂 תנו לנו להפוך את החגיגה שלכם לחוויה בלתי נשכחת עם קייטרינג חלבי ממיטב המסורת של סבא מרקו עם מגוון מאכלים  שאתם אוהבים: מגשי אירוח מיוחדים,פסטות טעימות , סלטים רעננים, קינוחים מהממים 🤩ועוד! פנו אלינו ונתכנן יחד את התפריט המושלם במגוון של שילובים והבהתאמה אישית .\nכשר למהדרין  איסוף עצמי ומשלוחים",
+        "links": [
+          "https://facebook.com/100063639547399"
+        ]
+      },
+      {
+        "ad_id": "1358659196290193",
+        "text": "חוגגים עלייה לתורה? מזל טוב! \nהאירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\nמגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לאירוע גדול.\nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1660127702069317",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1454965099482313",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1030699986166185",
+        "text": "הביצהל'ה שלנו היא סוג של התאהבות קשה: בייגלה לוהט ושתי ביצי עין שרק מחכות לביס הראשון. זהירות, זה ממכר, זה מלכלך את האצבעות, וזה הדבר הכי טוב שתעשו לעצמכם הבוקר. 🤤🍳 תביאו מפית (או שפשוט תלקקו את האצבעות, אנחנו לא שופטים). מחכים לכם!",
+        "links": []
+      },
+      {
+        "ad_id": "922230576872563",
+        "text": "האירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "983798874419390",
+        "text": "גם אצלכם במונדיאל הסלון מתמלא בחברים - יש לנו את הפתרון המדויק עבורך.\nמגשי האירוח של סבא מרקו מביאים אליכם מבחר עשיר של מאפים, בייגלה חם, פסטות וסלטים טריים שמספקים ארוחה מלאה במינימום מאמץ ובמקסימום איכות. האירוח המושלם לחברים, בלי שאף אחד מכם יצטרך לבשל.\nאל תחכו לרגע האחרון, שריינו תאריך: 04-8450850 📞",
+        "links": []
+      },
+      {
+        "ad_id": "1549119062967248",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nהבייגלה של סבא מרקו\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1549119062967248\nהתחילה לפעול ב-23 בנוב' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nהבייגלה של סבא מרקו\nממומן\nהאירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>\nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nסגירה",
+        "links": []
+      },
+      {
+        "ad_id": "1364776045351811",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nהבייגלה של סבא מרקו\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1364776045351811\nהתחילה לפעול ב-23 בנוב' 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nהבייגלה של סבא מרקו\nממומן\nהאירוע שלכם זה האירוע שלנו!\nקייטרינג חלבי כשר למהדרין, מפנק וטרי!\n מגשי אירוח, בייגלה, כריכים, קינוחים, סלטים,פסטות, מאפים, קישים באריזות ממותגות שומרות על החום.\nכל הזמנה מוכנה בסמוך למועד האירוע, סלט טרי , מאפים חמים והכל מוכן להגשה.\nמתאים לאירוע קטן או לארגון גדול – עד 3,000 איש. \nלהזמנת קייטרינג חם מהתנור >>\nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nAPI.WHATSAPP.COM\nצ'אט איתנו\nSend WhatsApp Message\n \nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": [],
+    "freshness": {
+      "active_count": 25,
+      "active_seen": 25,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-06",
+      "oldest_start": "2025-11-23",
+      "days_since_newest": 21,
+      "stale": false,
+      "complete": true
+    }
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:50:04",
+    "filtered": "2026-09-27T09:51:02",
+    "qualified": "2026-09-27T09:52:12"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972548868383",
+      "source": "https://www.facebook.com/ads/library/?id=1549119062967248"
+    },
+    "missing": []
+  }
+}

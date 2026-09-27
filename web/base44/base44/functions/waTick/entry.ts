@@ -1,5 +1,5 @@
 // Runs every 10 minutes, 08:00-21:50 Israel time (workflow "WhatsApp tick", ~0.2 credits a run). Two jobs:
-//  1. send the scheduled messages that are due: at most ONE per run, so even a backlog goes out spaced;
+//  1. send the scheduled messages that are due (never on Shabbat, Friday 14:00 on): at most ONE per run, so even a backlog goes out spaced;
 //     a message more than 6 hours late is not sent (flagged instead), so nothing leaves in the middle of the night
 //  2. read the last incoming messages and mark the leads that replied (unread + status "replied")
 // The workflow passes {"key": TICK_KEY} in `with.args`; anything else is refused.
@@ -10,6 +10,13 @@ const api = (method: string, q = "") =>
   `${env("GREEN_API_URL")}/waInstance${env("GREEN_API_INSTANCE")}/${method}/${env("GREEN_API_TOKEN")}${q}`;
 const digits = (n: string) => (n || "").replace(/\D/g, "");
 const LATE_MS = 6 * 3600 * 1000;
+
+// no sending on Shabbat: from Friday 14:00 to Saturday night (Israel time). Replies are still read.
+function isShabbat(d = new Date()): boolean {
+  const p = Object.fromEntries(new Intl.DateTimeFormat("en-US", { timeZone: "Asia/Jerusalem", weekday: "short",
+    hour: "numeric", hourCycle: "h23" }).formatToParts(d).map((x) => [x.type, x.value]));
+  return p.weekday === "Sat" || (p.weekday === "Fri" && Number(p.hour) >= 14);
+}
 
 export default async function (req: Request): Promise<Response> {
   try {
@@ -37,7 +44,9 @@ export default async function (req: Request): Promise<Response> {
       if (l.msg1_at && !l.msg1_sent_at) due.push({ lead: l, which: 1, at: Date.parse(l.msg1_at) });
       if (l.msg2_at && !l.msg2_sent_at) due.push({ lead: l, which: 2, at: Date.parse(l.msg2_at) });
     }
-    const ready = due.filter((d) => d.at <= now).sort((a, b) => a.at - b.at);
+    const shabbat = isShabbat();
+    const ready = shabbat ? [] : due.filter((d) => d.at <= now).sort((a, b) => a.at - b.at);
+    if (shabbat) log.push("shabbat: nothing sent");
     for (const d of ready) {
       if (now - d.at > LATE_MS) {
         await db.update(d.lead.id, { [`msg${d.which}_at`]: null, send_error: `הודעה ${d.which} לא נשלחה: התזמון עבר לפני יותר משש שעות` });

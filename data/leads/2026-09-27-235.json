@@ -1,0 +1,443 @@
+{
+  "lead_id": "2026-09-27-235",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/the.bashan.bakery/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972502778881",
+      "source": "https://api.whatsapp.com/send?phone=972502778881&text=%D7%90%D7%91%D7%A7%D7%A9%20%D7%A9%D7%99%D7%97%D7%96%D7%A8%D7%95%20%D7%90%D7%9C%D7%99%20%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA%20%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F%20%D7%94%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7%20%D7%A2%D7%91%D7%95%D7%A8%20%D7%9E%D7%92%D7%A9%D7%99%20%D7%90%D7%99%D7%A8%D7%95%D7%97%20%D7%A9%D7%9C%20%D7%9E%D7%90%D7%A4%D7%94%20%D7%94%D7%91%D7%A9%D7%9F%20",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "no website; number from the ad's WhatsApp button"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "104410975929491",
+    "page_name": "מאפה הבשן - cafe & bakery",
+    "active_ads_count": 8,
+    "search_keyword": "מגשי אירוח",
+    "sample_ads": [
+      {
+        "ad_id": "1456445556245606",
+        "link_title": "",
+        "body": "מגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "NO_BUTTON",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/584535524_2777121172619676_6391887045719101374_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xkcuWtbXowYQ7kNvwHaExuq&_nc_oc=AdrIuuWt3LlSRqrXOz95F23LWq8c8CQUslblkjx01fP1TbKM8tBrSPpggP_tLOSQIpQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQImNHyXdSaS5htYGtCPbaH1h6x7skQpa4IjUa70yz6bRw&oe=6ABEA16A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585353246_1151513143845322_5005206850601032488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FYjnqo8wrr8Q7kNvwEc0Bft&_nc_oc=AdrH3JIlkCt8Enop6xOQZrmMDFq1DLp4_V0MJdrQVVEXA03IitMrQdsukLDd-FQJj-Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQLZrO2fqrNW6dluHFXxL809DvgS-QkU-kGZLgmU6aR9ew&oe=6ABEC82F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584644258_1339504087823122_433996199028907671_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z87pLGsgGoAQ7kNvwF9d1I8&_nc_oc=AdoPwcU8rhRs1P0dliSZQporU28P90jsaw0yKHYHNYnRCTBHwaHiQ8A8-10H1o1B0hw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQL89YHU7i9x7RusT9r4obdCLYvnuDkM9-Mw6MGoyoa7tQ&oe=6ABEC1D4"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1785135600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1456445556245606"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 8,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "NO_BUTTON"
+      ],
+      "page_like_count": 743,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1456445556245606"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "NO_BUTTON"
+    ],
+    "page_like_count": 743,
+    "page_categories": [
+      "Coffee Shop"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1656364448885328",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "יש דברים שפשוט אי אפשר להתווכח איתם. כמו הריח של בורקס שרק יצא מהתנור, הקראנץ' של הביס הראשון והמילוי הרך מבפנים... 🤤 בורקס תפוח אדמה הוא אולי \"קלאסיקה\", אבל אצלנו במאפה הבשן הוא מקבל יחס של מלך.\n\nבואו לקחת את הביס שסוגר את הפינה הכי טעימה ביום! מחכים לכם עם מגשים חמים. 🔥\n\n📍 יעקב פיכמן 22, חולון\n📞 לפרטים והזמנות: 03-5745454\n🕒 שעות פתיחה:\nראשון–חמישי: 6:00–21:00\nשישי: 6:00 ועד שעה לפני כניסת השבת\nמאפה הבשן – מרגישים את זה בכל ביס. �",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "NO_BUTTON",
+        "cta_text": "אין לחצן",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1770192000,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/624992947_1846744826045748_700301241615317374_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_CB7H90_3swQ7kNvwFjOJPn&_nc_oc=Adr2avGQ5FWxp-8ywe1MWysJUnTHOglM5PvIav4lifNoT8tXzwrNh8X0Ohg1-srn-UE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQKpEnxBk5z47lZMqnyAfLTHejGsboelWUCS8QChZqWm4A&oe=6ABEB342"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1656364448885328"
+      },
+      {
+        "id": "1456445556245606",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "NO_BUTTON",
+        "cta_text": "אין לחצן",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1785135600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/584535524_2777121172619676_6391887045719101374_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xkcuWtbXowYQ7kNvwG1c5BF&_nc_oc=AdqdA2lMOpma9c6SYAwTf7v7SGYiJVVYc-ncsHEgLqzagUrAGPGFZemc9qcHbifRkEk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQJypYFOJbcIVoJi0paPBt7WWQESNDdYjh89-v5y56tFTQ&oe=6ABEA16A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585353246_1151513143845322_5005206850601032488_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FYjnqo8wrr8Q7kNvwFBuG5A&_nc_oc=Adq8-fm1w9ySrBL1lbIlx10JqGeTN8s36KZHW31W5QvebCTbmtiYMRx9Xu6Ac1bFGA8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQJM2SBNPaLNs_iiNQy1Rpn4RiDQzsuGoz2Ylt-i0ie9rQ&oe=6ABEC82F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584644258_1339504087823122_433996199028907671_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z87pLGsgGoAQ7kNvwGgiki1&_nc_oc=AdpXOw0h4BcR6bwtk7O9JPaCZN1D9SHBFNeAGuyq8GpAXqUID5JPPjjPD_VMmWquLCg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQK9IWvG82Zz9LArN0P6-_5Gr2dv-szKqw3H7fZsp1d9PQ&oe=6ABEC1D4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584989958_1175039610703866_9128504452065381837_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m-DfC1Njh7oQ7kNvwHCtEKr&_nc_oc=AdqJalADowT5zu-PnTWkZYXDBDHO5wsDJfsOEJQETNnTlJUPKFOxd6NVW1F2KUnsMdw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQKUJX1PsfZWMmvCuAh4lCdqqRUpAJlsDuk-BHTnpBEgrQ&oe=6ABEC4CB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584879517_604948509342648_700458832797522766_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hbLtgDaLXRUQ7kNvwEmrhWV&_nc_oc=AdobvSdbA_ndSIYoBqR3-WrTyFeHK7-m35Unn4bU_6eNxQgMLhLg2J5a6OGu6TyXRec&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQI97Db-zijmKi7b-q1qXqsjB9_zclpaFuyrMrD1NdFIHQ&oe=6ABEAF94",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/584978331_1530010368306778_1064218120533584288_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kPY2zEUJQKMQ7kNvwG-6X8A&_nc_oc=Adoo08NaQuMUt9ElHc_1VWYZm290edK15o7hyDSfKVgcPdFD2h5EeMNQBgiaC43biN8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQIJp3ELhOlSam5m4-UF9tG4nEYqz94-B1QIo_JpH_agpA&oe=6ABECA9A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1456445556245606"
+      },
+      {
+        "id": "1362390635660430",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מאחורי כל מאפה במאפה הבשן\nיש ידיים עובדות, חומרי גלם איכותיים\nוהמון אהבה לאפייה 💛",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "NO_BUTTON",
+        "cta_text": "אין לחצן",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1770192000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/627037630_890898723798243_5370480288836224050_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SD_Mx0vEY-oQ7kNvwFNHD57&_nc_oc=AdoLHsf4OAnyO8emdWPvTMdod9FO50nOiIzNRqJMG6JGuUU0MKoZSWz91KOtkoWdHHw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQI0W6DObDVF6EODAiQr-QLDAdXlJTlDtOvIGYCoeeXSCg&oe=6ABEC2F8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m86/AQOj0Tal1DwvclFPX24jLRvus64cZJo8ByZ1wZ_pdcqb3dln4QrDhWRK8fFSGmllkuMJ_tBXz-_yQC0n1E8qeQG54Z3eC6_ef-8sOyM.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=C5qOzknpDToQ7kNvwEvPkZm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwODE5NjYyMDkzNDA0OTksImFzc2V0X2FnZV9kYXlzIjoyMzQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=18714d29a0aad073&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NTQ5MzgzNjFDNTdENDU3RDk2MTNEQkU4MDVBNUM5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ1NERBQTg4RURDMTg2NkQ0OUU5NzVCMTE3MUQzRkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACam0fzL-tyeQBUCKAJDMywXQDqiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIfcewRoRZ_MlnuOYVL3FDhmAynYpaus2Xe6Vso9D_2uA&oe=6ABADE43"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1362390635660430"
+      },
+      {
+        "id": "1075766624851446",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מגשי אירוח עשירים ומפנקים במאפה הבשן!\nהכול טרי, איכותי ומוכן באהבה – כדי שאתם תיהנו מאירוח מושלם בלי להתאמץ.\n\n📍 מאפה הבשן - יעקב פיכמן 22, חולון\nטרי. איכותי. טעים. 🤎\n\n📞 להזמנות ופרטים: 03-5745454",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790945197_1127567203274738_5004874503515449808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gAJsyMJoaZsQ7kNvwFK5Lxj&_nc_oc=AdoSnGB9U1FGNk1qNf3FVsr4uOsKEM0QQ215L_EndDJiQ3pCsGVtDX9_mwqcwDiiwjA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQLeQe_ov58MMIyJCbifwdRiZFogsycu0Z7GzROlX4rqwg&oe=6ABEC8BD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOhiIHrJgkc4CPcU4yYQ52EvLWq4UwlzrNWH6OV1VC7kcTZ4s4sWI7-Gq7gzo-M56dnGpV8gfqjHPG-DToMebqX6tmRwrQXejxbGyJW1sqhOg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oJxgmTGj-pkQ7kNvwHwKRFJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMjEzOTI1OTE5NTU5NDgsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a58d5c342699df3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDQ4NzlDRkFDRDhEMTYwOEZBQkM4OTAyODBEOUM5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNEQxMzUzNUU2RjExMTlEMkZBRTUxREU1Mzk4QkEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYn5_N6tKfCBUCKAJDMywXQEpiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&_nc_zt=28&oh=00_AQI_JuZ6st770l6btzoMAdQFvMo-6BzEWC96fgupeVN1Mg&oe=6ABEBA8A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1075766624851446"
+      },
+      {
+        "id": "1047073048310618",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מגשי אירוח עשירים ומפנקים במאפה הבשן!\nהכול טרי, איכותי ומוכן באהבה – כדי שאתם תיהנו מאירוח מושלם בלי להתאמץ.\n\n📍 מאפה הבשן - יעקב פיכמן 22, חולון\nטרי. איכותי. טעים. 🤎\n\n📞 להזמנות ופרטים: 03-5745454",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790025319_1800177938065480_4724821132649391547_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eii2saJqH5EQ7kNvwGnTYkH&_nc_oc=AdpbZLsp0--YFTkNQxeGSnFYDJaj5ZYY5RkTlrKVLlvSPtpwBkRvdeDVLeZLb5zG7Wk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQL2P4Sg4-OdIMFO3O87TUN366KdCO7S3OL4QstRf0oadQ&oe=6ABEBFD4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOhiIHrJgkc4CPcU4yYQ52EvLWq4UwlzrNWH6OV1VC7kcTZ4s4sWI7-Gq7gzo-M56dnGpV8gfqjHPG-DToMebqX6tmRwrQXejxbGyJW1sqhOg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oJxgmTGj-pkQ7kNvwHwKRFJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMjEzOTI1OTE5NTU5NDgsImFzc2V0X2FnZV9kYXlzIjoyNSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a58d5c342699df3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDQ4NzlDRkFDRDhEMTYwOEZBQkM4OTAyODBEOUM5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNEQxMzUzNUU2RjExMTlEMkZBRTUxREU1Mzk4QkEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYn5_N6tKfCBUCKAJDMywXQEpiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&_nc_zt=28&oh=00_AQI_JuZ6st770l6btzoMAdQFvMo-6BzEWC96fgupeVN1Mg&oe=6ABEBA8A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047073048310618"
+      },
+      {
+        "id": "1007309178993563",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 3,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/818959845_1520363186522803_939834216743599750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AS0DV7GhzUoQ7kNvwGaYe6b&_nc_oc=Adpc5wr4ESmN_qQTPcT1zmDZELD7vv8qqq5fjDBg9zuvZqSgRxMIgwXOEuPZqJmXtvA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQJEUweVCZTB9vnVOjjD9yWSqnbbn4wvQ1UfW-kPXJKt4Q&oe=6ABEC355"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1007309178993563"
+      },
+      {
+        "id": "1619610976223074",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796527973_2367128737283278_8203456767434792732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XjEvybilHAgQ7kNvwHAyFex&_nc_oc=Adoey7MJpqqXysIDpNqDksfYqWsKChDowtaBxMd-fzhC7PSjutQZXyYhgTEyRy3Kh0o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQJKp_xIi9A7P2P0FprvOv2IOICfU3fRZ10WdGOr8SAcIA&oe=6ABED280"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1619610976223074"
+      },
+      {
+        "id": "1074000015234069",
+        "page_id": "104410975929491",
+        "page_name": "מאפה הבשן - cafe & bakery",
+        "page_url": "https://www.facebook.com/the.bashan.bakery/",
+        "page_like_count": 743,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "",
+        "body": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1790233200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796402264_2196211701275120_5894024193560398451_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yXOWA4DTh4UQ7kNvwFPJfRr&_nc_oc=AdqZULwvS5sDjnwDdZUjkNzbiBkHrM_Lpjp5Bk097QeBSr_JOmy1KQNaq70NU4Wx79Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cqpXxOE0SCWI70GT5REOrQ&_nc_ss=70289&oh=00_AQLO1pLIuumflEs3Fp1n9-nSjBdYTbwRSSimcL_CpgIPiA&oe=6ABEC453"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1074000015234069"
+      },
+      {
+        "id": "1456445556245606",
+        "body": "מגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send",
+      "https://api.whatsapp.com/send?phone=972502778881&text=%D7%90%D7%91%D7%A7%D7%A9%20%D7%A9%D7%99%D7%97%D7%96%D7%A8%D7%95%20%D7%90%D7%9C%D7%99%20%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA%20%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F%20%D7%94%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7%20%D7%A2%D7%91%D7%95%D7%A8%20%D7%9E%D7%92%D7%A9%D7%99%20%D7%90%D7%99%D7%A8%D7%95%D7%97%20%D7%A9%D7%9C%20%D7%9E%D7%90%D7%A4%D7%94%20%D7%94%D7%91%D7%A9%D7%9F%20"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1656364448885328",
+        "text": "יש דברים שפשוט אי אפשר להתווכח איתם. כמו הריח של בורקס שרק יצא מהתנור, הקראנץ' של הביס הראשון והמילוי הרך מבפנים... 🤤 בורקס תפוח אדמה הוא אולי \"קלאסיקה\", אבל אצלנו במאפה הבשן הוא מקבל יחס של מלך.\n\nבואו לקחת את הביס שסוגר את הפינה הכי טעימה ביום! מחכים לכם עם מגשים חמים. 🔥\n\n📍 יעקב פיכמן 22, חולון\n📞 לפרטים והזמנות: 03-5745454\n🕒 שעות פתיחה:\nראשון–חמישי: 6:00–21:00\nשישי: 6:00 ועד שעה לפני כניסת השבת\nמאפה הבשן – מרגישים את זה בכל ביס. �",
+        "links": []
+      },
+      {
+        "ad_id": "1456445556245606",
+        "text": "מגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1362390635660430",
+        "text": "מאחורי כל מאפה במאפה הבשן\nיש ידיים עובדות, חומרי גלם איכותיים\nוהמון אהבה לאפייה 💛",
+        "links": []
+      },
+      {
+        "ad_id": "1075766624851446",
+        "text": "מגשי אירוח עשירים ומפנקים במאפה הבשן!\nהכול טרי, איכותי ומוכן באהבה – כדי שאתם תיהנו מאירוח מושלם בלי להתאמץ.\n\n📍 מאפה הבשן - יעקב פיכמן 22, חולון\nטרי. איכותי. טעים. 🤎\n\n📞 להזמנות ופרטים: 03-5745454",
+        "links": []
+      },
+      {
+        "ad_id": "1047073048310618",
+        "text": "מגשי אירוח עשירים ומפנקים במאפה הבשן!\nהכול טרי, איכותי ומוכן באהבה – כדי שאתם תיהנו מאירוח מושלם בלי להתאמץ.\n\n📍 מאפה הבשן - יעקב פיכמן 22, חולון\nטרי. איכותי. טעים. 🤎\n\n📞 להזמנות ופרטים: 03-5745454",
+        "links": []
+      },
+      {
+        "ad_id": "1007309178993563",
+        "text": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "links": []
+      },
+      {
+        "ad_id": "1619610976223074",
+        "text": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "links": []
+      },
+      {
+        "ad_id": "1074000015234069",
+        "text": "קינוחי פירות מדליקים במבחר טעמים!🍓🍏 \n\nצבעוניים, מיוחדים ובעיקר טעימים -\nמבחר קינוחי פירות בעיצובים וטעמים שכל אחד פשוט חייב לטעום!\n\nמחכים לכם במאפה הבשן ❤️\nבואו לבחור את הטעם והקינוח שהכי עושה לכם חשק!",
+        "links": []
+      },
+      {
+        "ad_id": "1456445556245606",
+        "text": "מגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1456445556245606",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nמאפה הבשן - cafe & bakery\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1456445556245606\nהתחילה לפעול ב-27 ביולי 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nמאפה הבשן - cafe & bakery\nממומן\nמגשי אירוח במאפה הבשן חולון – כל מה שצריך לאירוח מושלם!\n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\n🌟 בחרו ממגוון מגשי האירוח שלנו לכל אירוע וטעימה 🌟\n\n🍞 מגשי כריכים:\n   - מגש כריך ביס: מבחר כריכים קטנים במילויים מיוחדים.\n   - מגש פיתה ביס: פיתות אישיות עם תוספות מפתיעות.\n   - מגש קרואסון ביס: קרואסונים קטנים במילוי סלט ביצים, סלט טונה, גאודה, בולגרית ופסטו, חביתה, סביח או טונסאי.\n\n🥐 מגש קרואסונים וכריכונים עם סלמון: קרואסונים טריים עם מילוי סלמון קלאסי.\n\n🍅 פלטות מגוונות:\n   - פלטת ירקות טריים – מבחר ירקות טריים וחתוכים להנאת כל האורחים.\n   - פלטת פירות – מבחר פירות עונה טריים וצבעוניים.\n   - פלטת גבינות – מגוון גבינות איכותיות לצד פירות יבשים.\n\n🥗 סלטים מיוחדים:\n   - סלט שורשים, סלט יווני, סלט קיץ, וסלט קפרזה – צבעוני, מרענן ומושלם לכל אירוח.\n\n🍕 מגש קישים – מבחר קישים בטעמים עשירים.\n🥖 מגש לחמי מחמצת – לחמים טריים וטעימים בליווי חמאה, ממרחים וגבינות.\n🍪 מגש עוגיות – עוגיות ביתיות במבחר טעמים.\n🍰 מגש עוגות שמרים – עוגות שמרים רכות וטעימות בטעמים קלאסיים.\n\n🥟 מגשי מאפים:\n   - מגש מאפים מלוחים – בורקסים, פוקצ'ות ומאפים מלוחים אחרים.\n   - מגש מאפים מתוקים – מאפים מתוקים ומפנקים.\n🍨 מגש קינוחים – פטיפורים, קינוחי כוסות וקטנטנים מתוקים.\n🍝 פסטה ברטבים משתנים – פסטה מבושלת טרייה עם מבחר רטבים לפי העונה.\n\n✨ מבצע מיוחד: על כל הזמנה של 3 מגשי אירוח – מתנה של 1 ק\"ג בורקסים + 1 ק\"ג קרואסונים ומאפים מתוקים! \n\n📞 צרו קשר להזמנות ופרטים נוספים ישירות בוואצ אפ  בלינק הבא >> https://did.li/1jBIw\nמאפה הבשן | כתובת - פיכמן 22, חולון \nכשר בד\"ץ \nטלפון >> 03-574-5454\nשעות פעילות \nראשון עד חמישי 6:00 -21:00 \nשישי  6:00 עד שעה לפני כניסת שבת\nסגירה",
+        "links": [
+          "https://did.li/1jBIw"
+        ]
+      }
+    ],
+    "landing_urls": []
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:50:04",
+    "filtered": "2026-09-27T09:50:15",
+    "qualified": "2026-09-27T09:51:31"
+  },
+  "qualify": {
+    "whatsapp_from_ad_button": {
+      "number_e164": "+972502778881",
+      "source": "https://api.whatsapp.com/send?phone=972502778881&text=%D7%90%D7%91%D7%A7%D7%A9%20%D7%A9%D7%99%D7%97%D7%96%D7%A8%D7%95%20%D7%90%D7%9C%D7%99%20%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA%20%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F%20%D7%94%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7%20%D7%A2%D7%91%D7%95%D7%A8%20%D7%9E%D7%92%D7%A9%D7%99%20%D7%90%D7%99%D7%A8%D7%95%D7%97%20%D7%A9%D7%9C%20%D7%9E%D7%90%D7%A4%D7%94%20%D7%94%D7%91%D7%A9%D7%9F%20"
+    },
+    "missing": []
+  }
+}

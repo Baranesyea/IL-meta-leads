@@ -21,7 +21,8 @@ from . import db, web
 from .common import get_logger
 
 log = get_logger("outreach")
-EXCLUDE = {"2026-09-27-150": "car dealership chain", "2026-09-27-171": "car service center (urgent)"}
+EXCLUDE = {"2026-09-27-150": "car dealership chain", "2026-09-27-171": "car service center (urgent)",
+           "2026-09-27-075": "international brand (Kryolan)"}
 
 
 def candidates() -> list[str]:

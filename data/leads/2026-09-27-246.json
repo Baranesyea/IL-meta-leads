@@ -1,0 +1,118 @@
+{
+  "lead_id": "2026-09-27-246",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61558593261478/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "263070506895223",
+    "page_name": "3D.Planted - שימור זרי כלה וסדנאות מסגרות פרחים מיובשים",
+    "active_ads_count": 2,
+    "search_keyword": "זרי פרחים",
+    "sample_ads": [
+      {
+        "ad_id": "1076960118425440",
+        "link_title": "לפרטים על הסדנה שלחי הודעה",
+        "body": "סדנת מסגרות פרחים מיובשים\nבואי ללמוד את סודות שימור הפרחים וליצור מסגרת משלך!",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/762688945_4542971772695039_2918305283727651455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AF3tyJ-UBKAQ7kNvwEsX-_1&_nc_oc=Adqt6951xhrFFyPwjWvFgIpmPFAAXEB2FlvdHHD4znO0VJ396J0VnMjLUlb7Hnxhfuk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQIvELRWzWBPiSAa9bAE2_x667bQxyp8SoIgAZrK7mKMFg&oe=6ABEC592",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMis8TNdzmVlqYnpoPLgDo8UKMRnvC6Zacn58LqHOH8tZTWr7sUZrPR0KFILJv7Hs23Fsqk3IY7SaimxHvh55581oAtLK-sGNIeHwn8yPNs2g.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8_ZljuaRNKEQ7kNvwGLo9w1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc1NzUxNzI1MzY4MDI0OCwiYXNzZXRfYWdlX2RheXMiOjIyNywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1f530a6c74cbcaf6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMzRFMDJBMEJFRjJBM0NGQUNEOURFMUE0RjNCNjA4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlBNEJCNTgzRENBNjRFMzc3N0MwNzZGN0M1OEJFRjhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbw8Yitp73YAhUCKAJDMywXQDCqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&_nc_zt=28&oh=00_AQKTKlU5OoZt00x9ZDzcGfjRSTWpS09igCDzYa73NFvtOA&oe=6ABEB46B"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1789628400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1076960118425440"
+      },
+      {
+        "ad_id": "1614827540307007",
+        "link_title": "יצירת אומנות מזר הכלה שלך",
+        "body": "שימור זר כלה — הזר מהיום הכי מאושר בחיים שלך לא צריך להיגמר כעבור שבוע. בתהליך שימור מקצועי אנחנו הופכים אותו ליצירת אומנות שנשארת אצלך — כי היום הזה מגיע פעם אחת.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763255309_1371425008514774_6328754899924067031_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YL7niwJIq4kQ7kNvwGqWKd9&_nc_oc=Adq3fpe15AIBReKZculjiOSwitg3V11dg1dxziH8fBlGZFtAtYRv-uln5HsTzFckSn0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQKD-QllbjiGjgYY04UkcOrkr2f-fm4SYoxV1sFxwx2DHw&oe=6ABEB816",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMkx21PM62_j59CDY56oNG4_QS8M_fKpTp44KHBhpohhbfkq6LZiQxZoyYWkvGx0snrUpN6TskJcxkPblP6owfAJhxwkacQWcnWNn0LsB2cQA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=7brf6PDADY0Q7kNvwEAAf7_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MjU2NjkyOTkzOTEzNTEsImFzc2V0X2FnZV9kYXlzIjo1OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1912c04dcbcb0fbe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMTRFQjhBNUEyMEZCOEEzQjFCNkFENUJERUVERkVBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBENEVBM0Y0ODJCNDdGQ0VBQzhFMDQxQjFGOEM4NDgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACburcKC8KiIBRUCKAJDMywXQDd3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&_nc_zt=28&oh=00_AQIJqvhwqZ5qczt6kMzt9oNMqchk8axyCIiC7dbxX3B7Gg&oe=6ABEB2FD"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1789628400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1614827540307007"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1076960118425440",
+      "1614827540307007"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 602,
+    "page_categories": [
+      "Art Studio",
+      "Art",
+      "Florist"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:54:05"
+  }
+}

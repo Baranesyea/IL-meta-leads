@@ -896,7 +896,110 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 20,
+      "seen": 20,
+      "newest_start": "2026-08-26",
+      "oldest_start": "2024-06-24",
+      "days_since_newest": 32,
+      "longest_running_days": 825,
+      "distinct_texts": 13,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          17
+        ],
+        [
+          "VIEW_INSTAGRAM_PROFILE",
+          2
+        ],
+        [
+          "SEE_DETAILS",
+          1
+        ]
+      ],
+      "videos": 14,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          17
+        ],
+        [
+          "instagram.com/dr.mosherosen",
+          2
+        ],
+        [
+          "drmosherosen.co.il",
+          1
+        ]
+      ],
+      "landing_status": {
+        "instagram.com/dr.mosherosen": "fail",
+        "api.whatsapp.com/send": "whatsapp",
+        "drmosherosen.co.il": "ok"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2025-04-24",
+          "cta": "VIEW_INSTAGRAM_PROFILE",
+          "title": "דר משה רוזן רפואה אסתטית-Dr Moshe Rosen",
+          "body": "✨ היופי שלך לא נעלם – הוא פשוט משתנה עם הזמן.\nטיפול פיסול פנים עדין ומדויק, שמחזיר את הרכות, החיוניות והאיזון למראה הפנים – בלי לוותר על הטבעיות.\n\nזה בדיוק הזמן לדאוג לעצמך, בקצב שלך ובאופן שמתאים לך 💖\n📍 אבחון וטיפול אישי בקליניקה מקצועית בתל אביב או בירושלים\n📞 שלחי הודעה או התקשרי ונדבר",
+          "landing": "http://instagram.com/dr.mosherosen"
+        },
+        {
+          "start": "2024-07-01",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "דברי איתנו עוד היום!",
+          "body": "פיסול פנים עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2025-04-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2025-02-05",
+          "cta": "VIEW_INSTAGRAM_PROFILE",
+          "title": "",
+          "body": "טיפול פיסול פנים אצל ד”ר מיכאלה קסל \n📞051-5335110\n\n#antiaging #רפואהאסתטית #חומצההילורונית",
+          "landing": "http://instagram.com/dr.mosherosen"
+        },
+        {
+          "start": "2024-07-18",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "למה את מחכה? דברי איתנו עוד היום!",
+          "body": "פיסול אף ללא ניתוח באמצעות חומצה היאלורונית בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלאף ישר וסולד\nחומצה היאלורונית פרימיום 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2024-06-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "דברי איתנו עוד היום!",
+          "body": "מילוי שקעי עיניים בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה צעיר ורענן\nתוצאה מחזיקה לשנתיים ויותר🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2024-07-01",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "דברי איתנו עוד היום!",
+          "body": "בקליניקות של ד״ר משה רוזן האווירה נעימה ולא לוחצת, המטופלים נכנסים עם חיוך ויוצאים עם חיוך גדול יותר. \nכל זה בזכות צוות איכותי, רופאים מהשורה הראשונה, ויחס אישי בלתי מתפשר!\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2024-07-01",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "דברי איתנו עוד היום!",
+          "body": "פיסול קו לסת עם חומצה היאלורונית פרימיום בטכניקה המיוחדת של ד\"ר משה רוזן \nטיפול קצר וללא כאבים בכלל\nלמראה טבעי ורענן 🤩\nלפרטים נוספים שלחו לנו הודעה\n\nסניפים בירושלים ותל אביב\nזמינים במספר 051-5335110 וואצאפ או טלפון לכל הפרטים",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

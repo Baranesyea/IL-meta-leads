@@ -604,7 +604,124 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 8,
+      "seen": 8,
+      "newest_start": "2026-09-21",
+      "oldest_start": "2022-06-04",
+      "days_since_newest": 6,
+      "longest_running_days": 1576,
+      "distinct_texts": 6,
+      "ctas": [
+        [
+          "SHOP_NOW",
+          3
+        ],
+        [
+          "ORDER_NOW",
+          3
+        ],
+        [
+          "MESSAGE_PAGE",
+          1
+        ],
+        [
+          "",
+          1
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "welovecoffee.co.il/tags/10012",
+          2
+        ],
+        [
+          "welovecoffee.co.il/items/2707230-%d7%9e%d7%91%d7%a6%d7%a2-3-%d7%a7-%d7%92-%d7%91-199-%d7%a9-%d7%97-%d7%9e%d7%92%d7%95%d7%95%d7%9f-%d7%a1%d7%95%d7%92%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%94",
+          1
+        ],
+        [
+          "welovecoffee.co.il/items/3323434-3-%d7%a7-%d7%92-%d7%a4%d7%95%d7%9c%d7%99-%d7%a7%d7%a4%d7%94-%d7%91%d7%a7%d7%9c%d7%99%d7%99%d7%94-%d7%9e%d7%a7%d7%95%d7%9e%d7%99%d7%aa-%d7%98%d7%a8%d7%99%d7%99%d7%94",
+          1
+        ],
+        [
+          "welovecoffee.co.il",
+          1
+        ],
+        [
+          "welovecoffee.co.il/items/8522121-%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%a7%d7%a4%d7%94-gaggia-classic-e24-%d7%9e%d7%98%d7%97%d7%a0%d7%aa-%d7%a7%d7%a4%d7%94-df54",
+          1
+        ]
+      ],
+      "landing_status": {
+        "welovecoffee.co.il/items/2707230-%d7%9e%d7%91%d7%a6%d7%a2-3-%d7%a7-%d7%92-%d7%91-199-%d7%a9-%d7%97-%d7%9e%d7%92%d7%95%d7%95%d7%9f-%d7%a1%d7%95%d7%92%d7%99%d7%9d-%d7%9c%d7%91%d7%97%d7%99%d7%a8%d7%94": "ok",
+        "welovecoffee.co.il/tags/10012": "ok",
+        "welovecoffee.co.il/items/3323434-3-%d7%a7-%d7%92-%d7%a4%d7%95%d7%9c%d7%99-%d7%a7%d7%a4%d7%94-%d7%91%d7%a7%d7%9c%d7%99%d7%99%d7%94-%d7%9e%d7%a7%d7%95%d7%9e%d7%99%d7%aa-%d7%98%d7%a8%d7%99%d7%99%d7%94": "ok",
+        "welovecoffee.co.il": "ok",
+        "welovecoffee.co.il/items/8522121-%d7%9e%d7%9b%d7%95%d7%a0%d7%aa-%d7%a7%d7%a4%d7%94-gaggia-classic-e24-%d7%9e%d7%98%d7%97%d7%a0%d7%aa-%d7%a7%d7%a4%d7%94-df54": "ok"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2026-01-19",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.welovecoffee.co.il/items/2707230-%D7%9E%D7%91%D7%A6%D7%A2-3-%D7%A7-%D7%92-%D7%91-199-%D7%A9-%D7%97-%D7%9E%D7%92%D7%95%D7%95%D7%9F-%D7%A1%D7%95%D7%92%D7%99%D7%9D-%D7%9C%D7%91%D7%97%D7%99%D7%A8%D7%94"
+        },
+        {
+          "start": "2024-06-17",
+          "cta": "MESSAGE_PAGE",
+          "title": "",
+          "body": "המרכז הארצי לקפה ☕ We Love Coffee\nמזמינים אתכם להגיע לחנות שלנו בראשון לציון לחגיגת מבצעים על מגוון מוצרי קפה איכותיים! 🎁\nמבצעים מיוחדים בחנות בלבד❗️\n❗️חומר ניקוי למכונת קפה במתנה למגיעים לחנות דרך מודעה זאת❗️\n\n☕️ מכונות קפה מכל הסוגים\n☕️ פולי קפה מקלייה מקומית ואיטלקית\n☕️ קפסולות קפה לכל המכונות\n☕️ מגוון אביזרי קפה \n\nהגיעו לפני שייגמר! \nשעות פעילות: \nראשון עד חמישי - 10:00-18:00\nימי שישי 9:00 - 1",
+          "landing": ""
+        },
+        {
+          "start": "2026-01-09",
+          "cta": "ORDER_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.welovecoffee.co.il/tags/10012"
+        },
+        {
+          "start": "2025-12-18",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://www.welovecoffee.co.il/items/3323434-3-%D7%A7-%D7%92-%D7%A4%D7%95%D7%9C%D7%99-%D7%A7%D7%A4%D7%94-%D7%91%D7%A7%D7%9C%D7%99%D7%99%D7%94-%D7%9E%D7%A7%D7%95%D7%9E%D7%99%D7%AA-%D7%98%D7%A8%D7%99%D7%99%D7%94"
+        },
+        {
+          "start": "2022-06-04",
+          "cta": "",
+          "title": "",
+          "body": "בואו לבקר בגן שעשועים לאוהבי קפה!\nאולם התצוגה הגדול והמקצועי ביותר בארץ למוצרי קפה ברחוב אבא אבן 18, הרצליה פיתוח. בואו לשחק ולטעום ממגוון המכונות ולשתות איתנו קפה באווירה של אירופה עם ניחוחות מרעננים ומעוררים ☕\nבחנות תמצאו פולי קפה משובחים מקלייה מקומית ואיטלקית, מכונות קפה של כל המותגים המובילים, קפסולות לכל המכונות ומגוון אביזרים משלימים. \nחנייה חינם צמודה לחנות.",
+          "landing": ""
+        },
+        {
+          "start": "2025-03-08",
+          "cta": "SHOP_NOW",
+          "title": "{{product.name}}",
+          "body": "מבצעים חסרי תקדים על מגוון מוצרים אצלנו באתר!\nכל מוצרי הקפה האיכותיים ביותר במקום אחד! ☕\nהטבות מיוחדות לרוכשים דרך האתר 🎁\nהזמינו כעת ותהנו ממשלוח מהיר עד הבית!",
+          "landing": "http://www.welovecoffee.co.il/"
+        },
+        {
+          "start": "2026-08-26",
+          "cta": "ORDER_NOW",
+          "title": "קרנבל מבצעי שבועות באתר ובסניפים",
+          "body": "בית קפה אצלכם במטבח ועכשיו במחיר מיוחד!\nכי גם לכם מגיע בוקר מפנק☕😍\nהמבצע בתוקף עד 30.09.26 או גמר המלאי. לפחות 30 יח' במלאי.",
+          "landing": "https://www.welovecoffee.co.il/items/8522121-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-GAGGIA-CLASSIC-E24-%D7%9E%D7%98%D7%97%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-DF54"
+        },
+        {
+          "start": "2026-09-21",
+          "cta": "ORDER_NOW",
+          "title": "קרנבל מבצעי שבועות באתר ובסניפים",
+          "body": "מגוון ענק של מוצרים בהנחות מיוחדות, במבצעי קנה קבל מפנקים או עם קוד קופון מיוחד אשר מחכה לכם בעמוד המוצר.\nכי גם לכם מגיע בוקר מפנק☕😍",
+          "landing": "https://www.welovecoffee.co.il/tags/10012"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

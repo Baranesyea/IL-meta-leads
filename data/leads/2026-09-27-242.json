@@ -1,0 +1,91 @@
+{
+  "lead_id": "2026-09-27-242",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/nofargan/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "428744853894332",
+    "page_name": "משתלת נופר",
+    "active_ads_count": 1,
+    "search_keyword": "זרי פרחים",
+    "sample_ads": [
+      {
+        "ad_id": "901610999449583",
+        "link_title": "",
+        "body": "עכשיו במשתלת נופר, זרי פרחים לכל שמחה ואירוע.\nמבחר רחב של פרחים טריים, שזורים בסגנונות שונים. \n\nלימי הולדת, לשבת, לחגים, לימים מיוחדים וגם סתם כדי לשמח.\nעיצוב מוקפד ואפשרות להתאמה אישית.\n\n 💐למידע והזמנות בקרו אותנו או התקשרו, צומת יסוד המעלה, 04-6931014.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/615405123_1370362237634090_7206998240089058755_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cilbrgCGK_UQ7kNvwGl_ylg&_nc_oc=AdrJiJzYOmXUbKOy8G3ck0EqSw8x2VMmUQRPrJVrtZk_AMm5Baszd5fZJx0uGmjzzik&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQKZa4inouryhH-hRbVlSNWE0OjCBEUJ9bLfsB4iz-CT_Q&oe=6ABEA6D8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/615586780_1302005145091934_308219501248443613_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nC-1TNoQKekQ7kNvwHrnyhV&_nc_oc=Adp6Y6xx3cC-oIkggQ6gY9dOsdxwBIGrNAPsysUm_pBGsYfqzIp5xBGjG7MnArpx7sc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQIoX172o3NOFHCfurCNbjRT2lbKgDjmzRBluufL9qf6vw&oe=6ABEA155",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/616809208_1214492207464697_6224239828449799978_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IKQcWKmcvX0Q7kNvwHHc4BJ&_nc_oc=AdoIu3MlyjoqXA4JvVCLispxYSXdsKkvmwbtAGLCiMkPwTtpeyu1dOQGLgj5SH8hXT4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQLxZz9o27sQKQ3jRiUTYas8j2NusyvbsS7DZ5lS9PuZAw&oe=6ABEB328"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788159600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=901610999449583"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "901610999449583"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 6199,
+    "page_categories": [
+      "Home & Garden"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:54:05"
+  }
+}

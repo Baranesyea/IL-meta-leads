@@ -1,0 +1,232 @@
+{
+  "lead_id": "2026-09-27-237",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://moncherry.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "moncherry2023@gmail.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61573827882727/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/moncherry_fruits/",
+      "source": "https://www.moncherry.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972542886662",
+      "source": "https://www.moncherry.co.il/",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "gmail / hello@ inbox",
+        "the only phone on the site"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "599733586562020",
+    "page_name": "מון שרי - פירות וירקות טריים משלוחים ומגשי פירות",
+    "active_ads_count": 2,
+    "search_keyword": "מגשי אירוח",
+    "sample_ads": [
+      {
+        "ad_id": "1541727657309523",
+        "link_title": "",
+        "body": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747513139_1005731025406822_4114842172018872735_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2pi8sK1xj8gQ7kNvwEY-f8-&_nc_oc=AdqCv5OQRsYezcz1jw6E_ketlDJl9Ix31a3lxpO-AwIUthYsQnKl1Gl74g6XkVZIBEY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQKyD9UOwhwjl0h_EyP31Ac0p-h-2IuWYThrSurPXOm_mw&oe=6ABEB341",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/744822534_1297243749158414_7332831294953265997_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W-BWjqKYQ3oQ7kNvwHiy5Gf&_nc_oc=AdpcZS4UEyS2zWfDLqbuF0Dz0g9QzB5phOfqhYZoWIvCR17OoMViEvWyI00y1C3vy-c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQJni7xDi4PjFDaYEzOIgQUxUaHC4H67SQD9Li4eXBz9nA&oe=6ABEB25E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747548905_896459250212548_8974540840905536242_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zS8sfBv8tjcQ7kNvwEK7HlJ&_nc_oc=AdoVIqmDHHYqrTjWILNilLixHyuUGzlpAiWQ-L6T6b4ujrPbgRY7OyW7xYOBDMIOqGs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ixVHGcOILVpiAx9H_bPTBg&_nc_ss=70289&oh=00_AQINmWk14uMK03Sf9bt9Jr4lZ8ZbQhETY5MtNBlNtMdYEw&oe=6ABEC8C3"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1783839600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1541727657309523"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 144,
+      "product_score": 2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1541727657309523"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 144,
+    "page_categories": [
+      "Grocery Store"
+    ],
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1541727657309523",
+        "page_id": "599733586562020",
+        "page_name": "מון שרי - פירות וירקות טריים משלוחים ומגשי פירות",
+        "page_url": "https://www.facebook.com/61573827882727/",
+        "page_like_count": 144,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1783839600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747513139_1005731025406822_4114842172018872735_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2pi8sK1xj8gQ7kNvwGYXudG&_nc_oc=AdqwAzUmJxv7QW1nXcB35Q58LUUYTMDRt8xNc90eNhI_oWdOHDes5N7EEbQVX0b6Vas&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQLhdcg-2Gs8Ou2TIlEW8sVfSohMpCA_BO1WCwTB_qId0w&oe=6ABEB341",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/744822534_1297243749158414_7332831294953265997_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W-BWjqKYQ3oQ7kNvwEIkviH&_nc_oc=Adr9C167foePmeRr1b0QrPP-yWWAL12A6xKhav50agG4ySaGVrva-wEGJ7K2vl2z6dY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQIkvMrVXO0PFatp_pxw-x-UmhILLlWZxeyhP_wHe1Y0nQ&oe=6ABEB25E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747548905_896459250212548_8974540840905536242_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zS8sfBv8tjcQ7kNvwHc8frf&_nc_oc=AdoIZIbnd6eTGuTMHvwm0sG6EToVeMj1O-y_IeD3OGkDqbyZPy9TH7Gzk_yKKd5xwb8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQJbYx26XCT4dtrtcFmagQptoAqZmVPt4YYebAexEGykTA&oe=6ABEC8C3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744490708_3236362276552895_6422986081501869663_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAd0emxvuTEQ7kNvwHacJ18&_nc_oc=Adrlq4Ex-fUbYXyuyjkQVnQADs3hQgiyK29JFRQLeVrL9B3lRaI-MoaDEohRJxM-NpM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQK0F3uaQE1znJwDJYOuJ2sip4u0Q8ThzoGLPXr2tNcDcA&oe=6ABED2E2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747468430_1337684371260401_4081395026808735221_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DgSn-uH-N-IQ7kNvwH-jT0B&_nc_oc=Adr_Xnwy3BfbcshC7G7cZgLAEN2yKzG1ryF9636O2HHFoaMn_jjnOlHvYtjyJa8mQzs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQImX3n7-7z1o_uZ-g1au0myie4iE3rNER0SSP1R_g7XuA&oe=6ABEBE05",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/744490708_1016822037924513_5894340614890090589_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BKFERUiOUTcQ7kNvwFm7rjl&_nc_oc=AdqcBjpuJJgRNvxlBAGPGgiPJG12jt9OZhliBZnYi-OKYSiiI-d7iM_3pJWtPJAu5AQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQLTChAX_ujlMUpXTX6Ib1Hgbay46uW6q5ussWBgPESQnA&oe=6ABEADD4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747536100_1716944456289679_1359033861760681077_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e9QkfNK19tgQ7kNvwE0bkoS&_nc_oc=Adq3mhksup7egEugNl5dcfc4CpMkRl0LwU1lvVEKfE_cnFbBxjDdKpLHMGJImNhev78&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQKGUBy8EAQxy1KGpGK48llK7gteOxpky-ZkZT0UwDFKcg&oe=6ABEAE6E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1541727657309523"
+      },
+      {
+        "id": "1591560729077411",
+        "page_id": "599733586562020",
+        "page_name": "מון שרי - פירות וירקות טריים משלוחים ומגשי פירות",
+        "page_url": "https://www.facebook.com/61573827882727/",
+        "page_like_count": 144,
+        "page_categories": [
+          "Grocery Store"
+        ],
+        "ad_creative_link_title": "מון שרי - פירות וירקות טריים משלוחים ומגשי פירות",
+        "body": "משלוחים מהיום להיום בנתניה והסביבה 🚚\nפירות וירקות פרימיום, לצד מוצרים משלימים כמו יינות, פיצוחים, פירות יבשים, רטבים, ריבות ועוד.\n\nתוצרת טרייה, איכותית, וכזאת שמחזיקה לאורך זמן - עד דלת הבית.\n\n📍 שדרות טום לנטוס 26, נתניה\nא'-ה' | 7:00-20:00\nשישי | 7:00-15:00",
+        "link_description": " ",
+        "landing_url": "https://www.moncherry.co.il/",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777165762_1062153396705054_2672458975252211640_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fRVZ5hl_N4oQ7kNvwFHyF9l&_nc_oc=Adqjsu4RBQQmYBiCxeg7KO69zMW8mSx44fFg0kAnnseK3rhWrIf6nN1Qb__nFYgdfdg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQJeoxiX-g-0EvjjbzxQU6GQmBDGP_fhwM89Joaho6x5YQ&oe=6ABEC854",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773901186_4252465054897809_846779099670430963_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KZNfG5M1W-wQ7kNvwHGswS9&_nc_oc=AdrGr0nxN0rLNxoZFTyLr09DjKB7nVkBg8OvRpwBXw3G0S8vRHMErfJHa5r4gPAhrUs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQJ8eir0rtGgNZlh029A9S0ZqA_uO2xmmRIE6C0TgEEpzg&oe=6ABEB19F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/779932045_1832984350999952_3454074122109183652_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8N3k58ysdzkQ7kNvwEpD8PC&_nc_oc=AdrWYPPbZXtkImNiZ4JwLGFuJMFnKMyed3rSTIKoRliniEqXdMpNBr2TyPp1ly54zFc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQLXmSTPHehbTBzdJ5NmbU8umC_oY7RTKhrKulfGVav2gw&oe=6ABECBA0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773572669_1359369852998485_5969411694503481988_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kc3o4e8CFIcQ7kNvwHxfMFd&_nc_oc=AdqkWa51tvAxSNBcf0yR_esHeedGZIqyGkxFnJ1cEr024-XJpprXRYL4UoA8tTKpYt4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ESZQsl_zOecT5sq49bXXlg&_nc_ss=70289&oh=00_AQI--jsMjTWRkB_gEkJD1F_6XPy7r_OOBF8RK0UXGs5cPQ&oe=6ABECEE1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1591560729077411"
+      },
+      {
+        "id": "1541727657309523",
+        "body": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1541727657309523",
+        "text": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1591560729077411",
+        "text": "משלוחים מהיום להיום בנתניה והסביבה 🚚\nפירות וירקות פרימיום, לצד מוצרים משלימים כמו יינות, פיצוחים, פירות יבשים, רטבים, ריבות ועוד.\n\nתוצרת טרייה, איכותית, וכזאת שמחזיקה לאורך זמן - עד דלת הבית.\n\n📍 שדרות טום לנטוס 26, נתניה\nא'-ה' | 7:00-20:00\nשישי | 7:00-15:00",
+        "links": [
+          "https://www.moncherry.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1541727657309523",
+        "text": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.moncherry.co.il/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:50:04",
+    "filtered": "2026-09-27T09:50:38",
+    "qualified": "2026-09-27T09:51:54"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.moncherry.co.il/"
+    ],
+    "store_signals": [],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

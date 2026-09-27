@@ -1210,7 +1210,17 @@
         "links": []
       }
     ],
-    "landing_urls": []
+    "landing_urls": [],
+    "freshness": {
+      "active_count": 32,
+      "active_seen": 30,
+      "checked": "2026-09-27",
+      "newest_start": "2026-09-25",
+      "oldest_start": "2026-09-17",
+      "days_since_newest": 2,
+      "stale": false,
+      "complete": false
+    }
   },
   "current_ads": [],
   "products": [],

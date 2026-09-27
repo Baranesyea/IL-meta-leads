@@ -1,0 +1,94 @@
+{
+  "lead_id": "2026-09-27-245",
+  "status": "discovered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Gal.Flowers.Design/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "469511959581011",
+    "page_name": "Gal Flowers Design",
+    "active_ads_count": 1,
+    "search_keyword": "זרי פרחים",
+    "sample_ads": [
+      {
+        "ad_id": "1248221881718864",
+        "link_title": "Gal Flowers Design",
+        "body": "מחפשים מתנה שאי אפשר להישאר אדישים אליה?💐\nהקולקציה החדשה שלנו נוצרה בדיוק לרגעים שרוצים להפתיע בגדול, עם זרים ומארזי פרחים בעיצוב יוקרתי. \n\n🌷 זרי ג'יפסי, מעטפות פרחים גדולות, מארזי לב, תיקי פרחים ועוד.\n🌷 אפשרויות למגוון שידרוגים ופינוקים.\n🌷 מושלם לימי הולדת, יום נישואין ולכל חגיגה מרגשת.\n✨ משלוחים מאשקלון ועד תל מונד\n\nלהזמנות שלחו וואטסאפ >>\n*המחיר לא כולל משלוח.\n*ההטבה ניתנת לשינוי בכל עת לפי שיקול בית העסק | ט.ל.ח | בכפוף לתקנון",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799770522_1606164341112486_6498348530167281142_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-xi60VIoblwQ7kNvwH6qbpX&_nc_oc=AdpO6KEw4CAbL3Rnn8hlII9r6HME2GINn13XS9TuH_bhjZO76XTLdCElyLnRQPikn6I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQJrEkhmuJf10mVZu1gGFffTLahQgLl6VJrI-41sTIlHvw&oe=6ABEA617",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800066057_1827048195130377_6967616713808634739_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oy-0xMGegBsQ7kNvwGIXDC_&_nc_oc=Adp-VdLmQmpCKNnYun1DqXesximWzAgV0eabA_TnoZvIgkYV-Ybih3kpYWU7fNuFz2c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQKcZsXfGd_psDTRl-kYvoOCcz_2HVSAPDMaw55nV0ZuEA&oe=6ABEC3D8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799910330_1018421601246393_3928605815357555897_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IMgFH1HhPMEQ7kNvwH29TlK&_nc_oc=AdoSEVrCxC2dp7nK2u71oEgiSn-0PnF1HOxLrXcaCpSp6Kc-Y55qbdkSoeQCtVayfzM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=_9iKqyoBFU6L8N9aCcbzzg&_nc_ss=70289&oh=00_AQLZCVeiSCc1HB_p6Xl8P8JLFf72Z3z79G38j6kXPsIh-A&oe=6ABEB93A"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788850800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1248221881718864"
+      }
+    ],
+    "filter": {},
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1248221881718864"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 436,
+    "page_categories": [
+      "Florist"
+    ],
+    "track": "wa"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T09:54:05"
+  }
+}

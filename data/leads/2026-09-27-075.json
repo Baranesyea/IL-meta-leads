@@ -805,7 +805,105 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 17,
+      "seen": 17,
+      "newest_start": "2026-08-16",
+      "oldest_start": "2025-03-04",
+      "days_since_newest": 42,
+      "longest_running_days": 572,
+      "distinct_texts": 7,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          11
+        ],
+        [
+          "",
+          4
+        ],
+        [
+          "ORDER_NOW",
+          2
+        ]
+      ],
+      "videos": 17,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          8
+        ],
+        [
+          "malika.co.il/product/med-moisturizing-lotion-200ml",
+          2
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp",
+        "malika.co.il/product/med-moisturizing-lotion-200ml": "ok"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2025-03-04",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ גרמני \nDERMA COLOR\nלהצערה מספר אחד בעולם!!! ערכה לעור חלק מושלם ללא כתמים קמטוטים  \nעמיד בכל התנאים!!! לרכישה חייגי כוכבית 5396 שלחי ווטסאפ למאפרות המושלמות שלנו, הגיעי לחנות המושלמת בת״א(VNRS 29) או כנסי לאתר והמוצרים הנדירים אצלך. \nאיפור KRYOLAN\nקוסמטיקה מושלמת מגרמניה LAMARIN מבית LAMER גרמניה",
+          "landing": ""
+        },
+        {
+          "start": "2025-06-30",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ גרמני \nDERMA COLOR\nלהצערה מספר אחד בעולם!!! ערכה לעור חלק מושלם ללא כתמים קמטוטים  \nעמיד בכל התנאים!!! לרכישה חייגי כוכבית 5396 שלחי ווטסאפ למאפרות המושלמות שלנו, הגיעי לחנות המושלמת בת״א(VNRS 29) או כנסי לאתר והמוצרים הנדירים אצלך. \nאיפור KRYOLAN\nקוסמטיקה מושלמת מגרמניה LAMARIN מבית LAMER גרמניה",
+          "landing": ""
+        },
+        {
+          "start": "2025-07-19",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ גרמני \nDERMA COLOR\nלהצערה מספר אחד בעולם!!! ערכה לעור חלק מושלם ללא כתמים קמטוטים  \nעמיד בכל התנאים!!! לרכישה חייגי כוכבית 5396 שלחי ווטסאפ למאפרות המושלמות שלנו, הגיעי לחנות המושלמת בת״א(VNRS 29) או כנסי לאתר והמוצרים הנדירים אצלך. \nאיפור KRYOLAN\nקוסמטיקה מושלמת מגרמניה LAMARIN מבית LAMER גרמניה",
+          "landing": ""
+        },
+        {
+          "start": "2025-10-29",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ מצעיר בטירוף הכי טבעי ועמיד בעולם!!!  אני כבר מצאתי את ערכת המייק אפ מס 1 בעולם מגרמניה!!!\nדרמה קולור מבית KRYOLAN \n📲לחצי על הווטס להתאמה והזמנה\nחייגי 5396* \nהגיעי לחנות המהממת או כנסי לאתר MALIKA והמוצרים המושלמים בדרך אלייך",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2025-10-30",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ מצעיר בטירוף הכי טבעי ועמיד בעולם!!!  אני כבר מצאתי את ערכת המייק אפ מס 1 בעולם מגרמניה!!!\nדרמה קולור מבית KRYOLAN \n📲לחצי על הווטס להתאמה והזמנה\nחייגי 5396* \nהגיעי לחנות המהממת או כנסי לאתר MALIKA והמוצרים המושלמים בדרך אלייך",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-02-22",
+          "cta": "",
+          "title": "",
+          "body": "עפרונות ג׳ל לעיניים של פעם בחיים!!!  שחור של פעם וחום שוקולד מוצר מדהים  KRYOLAN גרמניה\nהכנסי עכשיו לאתר והמוצרים שלך!!\n\nhttps://malika.co.il/product/%D7%A2%D7%99%D7%A4%D7%A8%D7%95%D7%9F-%D7%A2%D7%99%D7%A0%D7%99%D7%99%D7%9D-%D7%92%D7%9C-%D7%90%D7%99%D7%99%D7%9C%D7%99%D7%99%D7%A0%D7%A8/",
+          "landing": ""
+        },
+        {
+          "start": "2026-05-20",
+          "cta": "",
+          "title": "",
+          "body": "עפרונות ג׳ל לעיניים של פעם בחיים!!!  שחור של פעם וחום שוקולד מוצר מדהים  KRYOLAN גרמניה\nהכנסי עכשיו לאתר והמוצרים שלך!!\n\nhttps://malika.co.il/product/%D7%A2%D7%99%D7%A4%D7%A8%D7%95%D7%9F-%D7%A2%D7%99%D7%A0%D7%99%D7%99%D7%9D-%D7%92%D7%9C-%D7%90%D7%99%D7%99%D7%9C%D7%99%D7%99%D7%A0%D7%A8/",
+          "landing": ""
+        },
+        {
+          "start": "2026-02-22",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מייק אפ רגליים מטורף מבית KRYOLAN גרמניה\nחובה לכל אישה שרוצה רגליים מושלמות תוך שתי דקות. להזמנות והתאמות מושלמות שלחי ווטס או חייגי 5396* למאפרות שלנו והמוצר הנדיר שלך♥️",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

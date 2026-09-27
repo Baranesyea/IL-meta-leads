@@ -224,10 +224,26 @@
       "track": "wa",
       "advertisers": 8,
       "at": "2026-09-27T09:46:48"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "מגשי אירוח",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 7,
+      "at": "2026-09-27T09:50:04"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "זרי פרחים",
+      "source": "playwright",
+      "track": "wa",
+      "advertisers": 6,
+      "at": "2026-09-27T09:54:05"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
-  "wa_next_index": 14
+  "wa_next_index": 16
 }
