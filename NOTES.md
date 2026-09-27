@@ -324,3 +324,11 @@
   opens), or the ad links straight to wa.me / api.whatsapp.com. That number wins over numbers found on the site.
   No website needed on this track; without a site the owner/service kind stays "unclear".
 - First run (6 keywords): 57 advertisers → 16 qualified (vs 7 of 142 on product keywords). 2 look like the owner.
+
+## 2026-09-27 — first WhatsApp message, v2 (Eran)
+- No link in the first message. Short: one observation, "I prepared a few things that fix it, including 20 new ads
+  with your products. OK if I send them? Completely free, no email, no signup." Then the intro line, last,
+  because the work matters more than who he is:
+  "אני ערן, איש מוצר, חוויית לקוח ומומחה בקריאייטיב מדוייק. אני עושה את זה כבר 17 שנים."
+- The page link goes in the second message, after a yes (the CRM row still has the page link).
+- `data/crm/seed.py` holds the template; all 13 LeadCRM rows were updated.
