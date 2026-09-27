@@ -15,9 +15,18 @@ export default async function (req: Request): Promise<Response> {
   try {
     let body: any = {};
     try { body = await req.json(); } catch { /* no body */ }
-    const key = body?.key || body?.args?.key || new URL(req.url).searchParams.get("key");
-    if (!env("TICK_KEY") || key !== env("TICK_KEY")) return Response.json({ error: "forbidden" }, { status: 403 });
+    // the workflow wraps its payload (args / payload / input...), so look for "key" a few levels down
+    const findKey = (o: any, d = 0): string | undefined => (!o || typeof o !== "object" || d > 3) ? undefined
+      : typeof o.key === "string" ? o.key : Object.values(o).map((v) => findKey(v, d + 1)).find(Boolean);
+    const key = findKey(body) || new URL(req.url).searchParams.get("key");
+    if (!env("TICK_KEY") || key !== env("TICK_KEY")) return Response.json({ error: "forbidden",
+      body_keys: Object.keys(body || {}), nested: Object.fromEntries(Object.entries(body || {}).filter(([, v]) => v && typeof v === "object").map(([k, v]) => [k, Object.keys(v as object)])),
+      headers: [...req.headers.keys()].filter((h) => !/cookie|authorization/i.test(h)) }, { status: 403 });
 
+    if (body?.dry) {  // health check: secrets readable, Green API reachable; nothing is sent or written
+      const st = await fetch(api("getStateInstance"));
+      return Response.json({ ok: st.ok, state: st.ok ? await st.json() : st.status });
+    }
     const base44 = createClientFromRequest(req);
     const db = base44.asServiceRole.entities.LeadCRM;
     const leads: any[] = await db.list("sort_order", 500);
