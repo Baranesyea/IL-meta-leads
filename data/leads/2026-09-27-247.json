@@ -1,6 +1,6 @@
 {
   "lead_id": "2026-09-27-247",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "1606547669563002",
     "page_name": "פרחי מישל",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "זרי פרחים",
     "sample_ads": [
       {
@@ -63,8 +63,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1124275016693151"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2339,
+      "product_score": -2,
+      "urgent_hits": []
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1124275016693151"
     ],
@@ -76,7 +92,115 @@
     "page_categories": [
       "Shopping"
     ],
-    "track": "wa"
+    "track": "wa",
+    "page_ads": [
+      {
+        "id": "1124275016693151",
+        "page_id": "1606547669563002",
+        "page_name": "פרחי מישל",
+        "page_url": "https://www.facebook.com/Michelflowers07/",
+        "page_like_count": 2339,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "שלחו הודעה כאן >",
+        "body": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818365257_1441582941244207_3039116980794300426_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kyMxkbDDTqcQ7kNvwElc8uK&_nc_oc=AdqfQlbSW8LajXSSMY-yBHP3kUSx3xZnjiUapb18SAQoilmRYpei-mj_pljP1kZr9Tc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=F77wgveYlJURtsx1LexZ-A&_nc_ss=70289&oh=00_AQJ6Q7-0q6e_LPYSfN4efYvNzCZlj2T2F5-L0XbJyjeotg&oe=6ABED115",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP6yL90O6gosxErLqg4CyONbReE0jQaLpYXhal5CNCAldP7hx5vriX4lBCMF5QrLEnpNPcNDSY1mHu9gboIGK6R-eWIL9UMOJj5FbYhJk-C9A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=K4IduOvbMT4Q7kNvwGOvQI9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDc4NjU2NDU1MzE3MTIsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f6c33486a95525fe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yOTRBNzgwNUY2RDdDMzgxRUU1NzQ3MzRCNDU2MzJBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdENEE1MjE3Rjk4OTFBMjlDQUM5OUQwQzU1NEI5QTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAiZakoub3AxUCKAJDMywXQDn1gQYk3S8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=F77wgveYlJURtsx1LexZ-A&_nc_ss=70289&_nc_zt=28&oh=00_AQJfPcbzm-O62AMZ_NF_SNyYEUZF3OJS8p6k8ya9sdiT7Q&oe=6ABEA31B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1124275016693151"
+      },
+      {
+        "id": "911560645081177",
+        "page_id": "1606547669563002",
+        "page_name": "פרחי מישל",
+        "page_url": "https://www.facebook.com/Michelflowers07/",
+        "page_like_count": 2339,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "שלחו הודעה כאן >",
+        "body": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/816310133_1627175042525757_6711287309965683567_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YGcRYwurz2sQ7kNvwEHsOnY&_nc_oc=AdruwH7hw6CzmD3rjJAlP-nNf67WHtUFZhq8upESn0_o_PgdP2SQJWHi1_gnSKogx_o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=F77wgveYlJURtsx1LexZ-A&_nc_ss=70289&oh=00_AQK6Py1uZ87KETJPJMHOlB0WQsqeRIcq5lkUNaj4xQ9zDQ&oe=6ABEBE64",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNd88a7ifIICl49U0-bT4BgC37OEOznWXt1NuXK4Abervuq_zq72m8zKQg_3WnZchukHYuzmKq12jvJA27Zc2TaOvCvv0y0cUSVzyPugkhSpA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dehth7Yiet0Q7kNvwEJm3jM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzk3OTMxMzE2NzgzODgsImFzc2V0X2FnZV9kYXlzIjoyNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e5f9190cd0554664&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTQzMUY3QjFBRDY3Mjc0RDNBMkI1RkZFQ0ZGMEY5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc0NDg3M0JCQjZGRUE5QjFEQTU3NzNENDMzNjI1OThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACboqv3anKLhBBUCKAJDMywXQDVjU_fO2RcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=F77wgveYlJURtsx1LexZ-A&_nc_ss=70289&_nc_zt=28&oh=00_AQIWgTSYXFG_H_miFoqh953qLhLEVjeb2sV7oAWV8hGjzQ&oe=6ABEC0C0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=911560645081177"
+      },
+      {
+        "id": "1124275016693151",
+        "body": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "landing_url": "https://api.whatsapp.com/send"
+      }
+    ],
+    "social_landings": [
+      "https://api.whatsapp.com/send"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1124275016693151",
+        "text": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "911560645081177",
+        "text": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1124275016693151",
+        "text": "בפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.",
+        "links": [
+          "https://api.whatsapp.com/send"
+        ]
+      },
+      {
+        "ad_id": "1124275016693151",
+        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nפרחי מישל\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1124275016693151\nהתחילה לפעול ב-21 בספט' 2026\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nפרחי מישל\nממומן\nבפרחי מישל – לא קונים סתם פרחים, יוצרים רגעים שאי אפשר לשכוח.\n\nהזרים שלנו לא רק יפים – הם אומרים משהו.\nאהבה, תודה, סליחה או פשוט “חשבתי עלייך” – אנחנו יודעים איך לעצב את זה הכי נכון.\n\n🌸 זרים בעיצוב אישי\n🌿 עציצים מעוצבים\n👰‍ זרי כלה וקישוטי רכב לחתונה\n🎁 מתנות קטנות עם לב ענק\n\nוכל זה – מפרחים טריים שמגיעים אלינו כל בוקר!\n\nרוצים להרשים מישהו שחשוב לכם?\nשלחו לנו הודעה ונכין לכם את הזר שיגיד בדיוק מה שאתם מרגישים.\n0:00 / 0:00\nAPI.WHATSAPP.COM\nשלחו הודעה כאן >\nשליחת הודעת WhatsApp\nסגירה",
+        "links": []
+      }
+    ],
+    "landing_urls": []
   },
   "current_ads": [],
   "products": [],
@@ -89,6 +213,17 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T09:54:05"
+    "discovered": "2026-09-27T09:54:05",
+    "filtered": "2026-09-27T09:55:13",
+    "unqualified": "2026-09-27T09:55:36"
+  },
+  "qualify": {
+    "phones_in_ads": [],
+    "missing": [
+      "website",
+      "instagram_page",
+      "owner_instagram",
+      "whatsapp"
+    ]
   }
 }
