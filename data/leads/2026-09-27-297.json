@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-297",
-  "status": "qualified",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "product (back support), not a clinic",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -1435,7 +1435,8 @@
   "timestamps": {
     "discovered": "2026-09-27T15:36:31",
     "filtered": "2026-09-27T15:40:10",
-    "qualified": "2026-09-27T15:47:42"
+    "qualified": "2026-09-27T15:47:42",
+    "rejected": "2026-09-27T16:39:28"
   },
   "qualify": {
     "pages_checked": [
