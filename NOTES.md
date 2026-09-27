@@ -299,3 +299,7 @@
 - Client page: new `hero_copy_m: "bottom"` puts all hero words on the calm lower part of the phone photo when the
   product sits at the top (Billy). Kalahari uses its portrait `hero_m` on desktop too, so no jar sits under the title.
 - Billy's phone hero was outpainted downward (Higgsfield `outpaint_image`, 9:16) from the cropped portrait.
+- Eran on Kalahari: don't pitch around a seasonal sale ("your Sukkot campaign just started") — it reads as if we only
+  looked at one moment. Look at the ads before the sale too. **Limit:** the Ad Library (web and the Meta MCP, status
+  ALL) shows only currently active ads for Israeli commercial advertisers; ads that already stopped are gone. So we
+  never claim "you didn't advertise before"; we talk about "the ads running now" and mention the season only in passing.
