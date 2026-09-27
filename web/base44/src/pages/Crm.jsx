@@ -5,8 +5,8 @@ import { useAuth } from '@/lib/AuthContext';
 // Eran's private outreach CRM. Behind Base44 login + admin role; the LeadCRM entity has
 // admin-only RLS, so nobody else can read the rows even through the API.
 // WhatsApp goes through Green API in the backend function `waApi` (send, chat history); the
-// workflow "WhatsApp tick" runs `waTick` every 5 minutes: it sends what is scheduled (one message
-// per run) and marks the leads that replied.
+// workflow "WhatsApp tick" runs `waTick` every 10 minutes, 08:00-21:50 Israel time: it sends what is
+// scheduled (one message per run) and marks the leads that replied.
 const STATUSES = [
   { id: 'new', label: 'חדש', color: '#8a8177' },
   { id: 'ready', label: 'מוכן לשליחה', color: '#1f7a4a' },
@@ -279,7 +279,7 @@ function Scheduler({ leads, onSave }) {
   return (
     <div className="panel">
       <h2>תזמון רצף</h2>
-      <p>כל הלידים בסטטוס "מוכן לשליחה" מקבלים זמן שליחה להודעה הראשונה, אחד אחרי השני, עם כמה דקות הפרש אקראיות. המערכת שולחת הודעה אחת בכל פעם, ובודקת כל 5 דקות.</p>
+      <p>כל הלידים בסטטוס "מוכן לשליחה" מקבלים זמן שליחה להודעה הראשונה, אחד אחרי השני, עם כמה דקות הפרש אקראיות. המערכת שולחת הודעה אחת בכל פעם, ובודקת כל 10 דקות בין 8:00 ל־22:00. הודעה שמתוזמנת לשעות הלילה לא תצא.</p>
       <div className="row">
         <span>התחלה</span>
         <input type="datetime-local" value={start} onChange={(e) => setStart(e.target.value)} />

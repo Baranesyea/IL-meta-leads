@@ -1,8 +1,8 @@
-// Runs every 5 minutes (workflow "WhatsApp tick"). Two jobs:
+// Runs every 10 minutes, 08:00-21:50 Israel time (workflow "WhatsApp tick", ~0.2 credits a run). Two jobs:
 //  1. send the scheduled messages that are due: at most ONE per run, so even a backlog goes out spaced;
 //     a message more than 6 hours late is not sent (flagged instead), so nothing leaves in the middle of the night
 //  2. read the last incoming messages and mark the leads that replied (unread + status "replied")
-// Called by the workflow with {"key": TICK_KEY}; anything else is refused.
+// The workflow passes {"key": TICK_KEY} in `with.args`; anything else is refused.
 import { createClientFromRequest } from "npm:@base44/sdk";
 
 const env = (k: string) => Deno.env.get(k) || "";
@@ -19,9 +19,7 @@ export default async function (req: Request): Promise<Response> {
     const findKey = (o: any, d = 0): string | undefined => (!o || typeof o !== "object" || d > 3) ? undefined
       : typeof o.key === "string" ? o.key : Object.values(o).map((v) => findKey(v, d + 1)).find(Boolean);
     const key = findKey(body) || new URL(req.url).searchParams.get("key");
-    if (!env("TICK_KEY") || key !== env("TICK_KEY")) return Response.json({ error: "forbidden",
-      body_keys: Object.keys(body || {}), nested: Object.fromEntries(Object.entries(body || {}).filter(([, v]) => v && typeof v === "object").map(([k, v]) => [k, Object.keys(v as object)])),
-      headers: [...req.headers.keys()].filter((h) => !/cookie|authorization/i.test(h)) }, { status: 403 });
+    if (!env("TICK_KEY") || key !== env("TICK_KEY")) return Response.json({ error: "forbidden" }, { status: 403 });
 
     if (body?.dry) {  // health check: secrets readable, Green API reachable; nothing is sent or written
       const st = await fetch(api("getStateInstance"));
@@ -66,7 +64,9 @@ export default async function (req: Request): Promise<Response> {
     }
 
     // 2. replies
-    const r = await fetch(api("lastIncomingMessages", "?minutes=30"));
+    // 12 hours back, so the first run of the morning also catches the replies that came in overnight;
+    // last_reply_at makes it idempotent
+    const r = await fetch(api("lastIncomingMessages", "?minutes=720"));
     const incoming: any[] = r.ok ? await r.json() : [];
     const byNum = new Map(leads.filter((l) => l.msg1_sent_at || l.msg2_sent_at).map((l) => [digits(l.whatsapp), l]));
     for (const m of incoming) {
