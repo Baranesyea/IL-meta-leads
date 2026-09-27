@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-050",
+  "status": "rejected",
+  "reject_reason": "lead-gen CTA only (BOOK_TRAVEL)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61559667102504/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "331263306732666",
+    "page_name": "קפה מאייר - Cafe Mayer ",
+    "active_ads_count": 1,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "1566978914476686",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://ontopo.com/he/il/page/47209479",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/528211622_1403640754084999_6743610972580883213_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8bB0mG2wNP4Q7kNvwEQ3J5O&_nc_oc=AdodHO2P2Bn3HcE96MeuTkRtbOIIiac7dqIkhTHYxKG_HcPSX6Vd1JFSwbqMZz9F4vw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQIOoY72OiT5jNVGE8kqfmuV0IIeLnCvv4owj57-0tQsQg&oe=6ABE3618",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPD3voTofZ3JqStMtjajuesU8kticEf34y54-Y0qd2PrtR_2xdJfsSko17JSydi6xUWxX-j0SaykehJD5iwwSJbDX3fbo-rxHfiuJtl0XaETg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=LyFELXbWwSIQ7kNvwGZZH1b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5Mzc0OTY5OTM3NzUyNTYsImFzc2V0X2FnZV9kYXlzIjo0MTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=55d348bc4681fa64&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRTQxRkEyREI1M0UyOUY5RTc4NUM3RjY5NTBGODBBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE4NDY0QTUxRUQxQzVBQzY3MENFM0E1NzQ2M0I2MEEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw-onBlYnxBhUCKAJDMywXQDEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLwv8QUmYnoddYNAEtTA-wJJnoLaRNTHy7CCRr6wdGfiA&oe=6ABE32B6"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1762934400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1566978914476686"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 327,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1566978914476686"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 327,
+    "page_categories": [
+      "Restaurant"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "rejected": "2026-09-27T01:40:13"
+  }
+}

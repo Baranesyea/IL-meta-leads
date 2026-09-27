@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-017",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://depot365.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "Motti@depot365.net"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/worldofcolorseilat/",
+      "source": "https://www.depot365.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,15 +28,20 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972502324441",
+      "source": "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A",
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "labelled 'שירות לקוחות' next to the number",
+        "2 landline(s)"
+      ]
     }
   },
   "meta": {
     "page_id": "1436047476611468",
     "page_name": "עולם הצבעים - הדף הרשמי",
-    "active_ads_count": 1,
+    "active_ads_count": 15,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -61,8 +66,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1806669460353010"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 15,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 5192,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1806669460353010"
     ],
@@ -73,6 +91,675 @@
     "page_like_count": 5192,
     "page_categories": [
       "Tools/Equipment"
+    ],
+    "page_ads": [
+      {
+        "id": "1097155866228322",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "מכונת שטיפה בלחץ GPT HL312PRO של סמיקום",
+        "body": "מחיר באילת: 479 ₪ בלבד! 💥\nמכונת שטיפה בלחץ GPT HL312PRO של סמיקום - לניקוי חזק, מהיר ויסודי של רכבים, חצרות, מרפסות, שבילים ומשטחים חיצוניים.\nעם לחץ מים של עד 195 בר, מנוע 2500W וזרימת מים של עד 8 ליטר בדקה - היא מתמודדת בקלות עם לכלוך קשה, בוץ ומשקעים.\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ See less",
+        "link_description": "מכונת שטיפה בלחץ 195 בר GPT HL312PRO – עוצמה לניקוי יסודי לרכישה בעולם הצבעים אילת, המרכז המקיף לכל צורכי הבית והבנייה. פתרונות מקצועיים ומגוונים תחת קורת גג אחת",
+        "landing_url": "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785602876_1385296410481062_2401428033044013483_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tb39lnjGfH0Q7kNvwH5N-AQ&_nc_oc=AdpDLsjIMRhEc-Ih9GuEAPLJmT3CEEC_rW7ZhloUbvtoanTMlrlTDkrBVtd9X2NHZ-o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLr3fvvBUA6NOQd1-eqJCov8tIV7ueL6zqN4h2BbG3t7Q&oe=6ABE52E1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1097155866228322"
+      },
+      {
+        "id": "1046330894575267",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.depot365.co.il/?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563566_919952651142740_5346183012807610842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBAFeX5yJK4Q7kNvwHAQCI4&_nc_oc=AdrZEe2EdNcqwZYNPEE-zVx8BCsjuTUecnEEnmqaX8jRIgA-uHnocVoCv4uC_YDJWNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJnVckxzMBTAeNiUmT-XyksKfhAJo4NpoJ4tFph1qq_Rg&oe=6ABE39EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751202361_1573499334432704_907045499400783065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o1aDOKP1uqIQ7kNvwHxucVd&_nc_oc=Adr0eRcUCf7hOVLKkJFAfQelsyQ5tp-VMapGCnehvQp48qcwI7wO6aAAN8wl9hW5pH0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK4za7QIuYZm9g_tLK3xwGXCSOUv-HhHjsFEtoP4zSaqA&oe=6ABE41F9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752723626_1683499122941411_7068466454087592744_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7P8lV-amJiEQ7kNvwG2dv5j&_nc_oc=AdpYHo4wml8mzPUst6unUJ_YiyczWLBquOSqEif0sWuraJgHG9EF-_vLkH8TcBLQjrU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJJtNGwG4zj6kh4Ml_61_KAS6Gq45nzAumMuiFZzHLLEg&oe=6ABE2A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751643166_1573888707722803_2932978252585734216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Znu8V4FFIicQ7kNvwHg8RoY&_nc_oc=AdqT8asyue0YLEfhQbRoAsAuaHz0couOGuCvDn7OY7Qp5g12s9wEpZSZkS-Ks04hS9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqJL9NFGdlq5RO2V66Oniuqkup0iayd1xjHWRzBonupQ&oe=6ABE499B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563566_919952651142740_5346183012807610842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBAFeX5yJK4Q7kNvwHAQCI4&_nc_oc=AdrZEe2EdNcqwZYNPEE-zVx8BCsjuTUecnEEnmqaX8jRIgA-uHnocVoCv4uC_YDJWNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJnVckxzMBTAeNiUmT-XyksKfhAJo4NpoJ4tFph1qq_Rg&oe=6ABE39EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751202361_1573499334432704_907045499400783065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o1aDOKP1uqIQ7kNvwHxucVd&_nc_oc=Adr0eRcUCf7hOVLKkJFAfQelsyQ5tp-VMapGCnehvQp48qcwI7wO6aAAN8wl9hW5pH0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK4za7QIuYZm9g_tLK3xwGXCSOUv-HhHjsFEtoP4zSaqA&oe=6ABE41F9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752723626_1683499122941411_7068466454087592744_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7P8lV-amJiEQ7kNvwG2dv5j&_nc_oc=AdpYHo4wml8mzPUst6unUJ_YiyczWLBquOSqEif0sWuraJgHG9EF-_vLkH8TcBLQjrU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJJtNGwG4zj6kh4Ml_61_KAS6Gq45nzAumMuiFZzHLLEg&oe=6ABE2A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751643166_1573888707722803_2932978252585734216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Znu8V4FFIicQ7kNvwHg8RoY&_nc_oc=AdqT8asyue0YLEfhQbRoAsAuaHz0couOGuCvDn7OY7Qp5g12s9wEpZSZkS-Ks04hS9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqJL9NFGdlq5RO2V66Oniuqkup0iayd1xjHWRzBonupQ&oe=6ABE499B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563566_919952651142740_5346183012807610842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBAFeX5yJK4Q7kNvwHAQCI4&_nc_oc=AdrZEe2EdNcqwZYNPEE-zVx8BCsjuTUecnEEnmqaX8jRIgA-uHnocVoCv4uC_YDJWNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJnVckxzMBTAeNiUmT-XyksKfhAJo4NpoJ4tFph1qq_Rg&oe=6ABE39EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751202361_1573499334432704_907045499400783065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o1aDOKP1uqIQ7kNvwHxucVd&_nc_oc=Adr0eRcUCf7hOVLKkJFAfQelsyQ5tp-VMapGCnehvQp48qcwI7wO6aAAN8wl9hW5pH0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK4za7QIuYZm9g_tLK3xwGXCSOUv-HhHjsFEtoP4zSaqA&oe=6ABE41F9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752723626_1683499122941411_7068466454087592744_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7P8lV-amJiEQ7kNvwG2dv5j&_nc_oc=AdpYHo4wml8mzPUst6unUJ_YiyczWLBquOSqEif0sWuraJgHG9EF-_vLkH8TcBLQjrU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJJtNGwG4zj6kh4Ml_61_KAS6Gq45nzAumMuiFZzHLLEg&oe=6ABE2A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751643166_1573888707722803_2932978252585734216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Znu8V4FFIicQ7kNvwHg8RoY&_nc_oc=AdqT8asyue0YLEfhQbRoAsAuaHz0couOGuCvDn7OY7Qp5g12s9wEpZSZkS-Ks04hS9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqJL9NFGdlq5RO2V66Oniuqkup0iayd1xjHWRzBonupQ&oe=6ABE499B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563566_919952651142740_5346183012807610842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBAFeX5yJK4Q7kNvwHAQCI4&_nc_oc=AdrZEe2EdNcqwZYNPEE-zVx8BCsjuTUecnEEnmqaX8jRIgA-uHnocVoCv4uC_YDJWNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJnVckxzMBTAeNiUmT-XyksKfhAJo4NpoJ4tFph1qq_Rg&oe=6ABE39EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751202361_1573499334432704_907045499400783065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o1aDOKP1uqIQ7kNvwHxucVd&_nc_oc=Adr0eRcUCf7hOVLKkJFAfQelsyQ5tp-VMapGCnehvQp48qcwI7wO6aAAN8wl9hW5pH0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK4za7QIuYZm9g_tLK3xwGXCSOUv-HhHjsFEtoP4zSaqA&oe=6ABE41F9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752723626_1683499122941411_7068466454087592744_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7P8lV-amJiEQ7kNvwG2dv5j&_nc_oc=AdpYHo4wml8mzPUst6unUJ_YiyczWLBquOSqEif0sWuraJgHG9EF-_vLkH8TcBLQjrU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJJtNGwG4zj6kh4Ml_61_KAS6Gq45nzAumMuiFZzHLLEg&oe=6ABE2A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751643166_1573888707722803_2932978252585734216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Znu8V4FFIicQ7kNvwHg8RoY&_nc_oc=AdqT8asyue0YLEfhQbRoAsAuaHz0couOGuCvDn7OY7Qp5g12s9wEpZSZkS-Ks04hS9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqJL9NFGdlq5RO2V66Oniuqkup0iayd1xjHWRzBonupQ&oe=6ABE499B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751563566_919952651142740_5346183012807610842_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QBAFeX5yJK4Q7kNvwHAQCI4&_nc_oc=AdrZEe2EdNcqwZYNPEE-zVx8BCsjuTUecnEEnmqaX8jRIgA-uHnocVoCv4uC_YDJWNk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJnVckxzMBTAeNiUmT-XyksKfhAJo4NpoJ4tFph1qq_Rg&oe=6ABE39EA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751202361_1573499334432704_907045499400783065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o1aDOKP1uqIQ7kNvwHxucVd&_nc_oc=Adr0eRcUCf7hOVLKkJFAfQelsyQ5tp-VMapGCnehvQp48qcwI7wO6aAAN8wl9hW5pH0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK4za7QIuYZm9g_tLK3xwGXCSOUv-HhHjsFEtoP4zSaqA&oe=6ABE41F9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752723626_1683499122941411_7068466454087592744_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7P8lV-amJiEQ7kNvwG2dv5j&_nc_oc=AdpYHo4wml8mzPUst6unUJ_YiyczWLBquOSqEif0sWuraJgHG9EF-_vLkH8TcBLQjrU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJJtNGwG4zj6kh4Ml_61_KAS6Gq45nzAumMuiFZzHLLEg&oe=6ABE2A4C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751643166_1573888707722803_2932978252585734216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Znu8V4FFIicQ7kNvwHg8RoY&_nc_oc=AdqT8asyue0YLEfhQbRoAsAuaHz0couOGuCvDn7OY7Qp5g12s9wEpZSZkS-Ks04hS9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqJL9NFGdlq5RO2V66Oniuqkup0iayd1xjHWRzBonupQ&oe=6ABE499B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/752708419_2200003883905752_4445942257455148139_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M1RlfcSGRFEQ7kNvwEur-Pp&_nc_oc=Adr_2IYlO1yfwgNsRnGwqfDziEwcmZxoVHkEnCooFnGfvzgkG_tecRJH171DYB-l1XI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKSfgU7q6oLSmeMv4JymqieP9PVDpXcuBGnkucuje8RNw&oe=6ABE3387",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751202233_4419371394970434_6654895412282180392_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQHMSwZKXzMQ7kNvwHL9I-I&_nc_oc=Ado-XhLpHjxcn9KESPJ_qbApiyjzXhvh1noZ8o2f6egREd3Bw1x6FT31yU2xzM5Rf80&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIIaOgqnNwn3IvcbIyHb5aXKaZARO6KW6h4YPDpKHdc0w&oe=6ABE3748",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/744141412_1788329765493661_1539427375380674815_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PqZLOT9WzVgQ7kNvwG3MmGO&_nc_oc=Ado9ZQwEjdhBsMfPl4HagE3I4Xymvu4F2Zz2cO406jqpxBB50WL_57GPRJvmZrDCBVc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJLYOrVxxxm_oga00uBG-bHuJuvhzUxZlSgCVxN-hfqtA&oe=6ABE3506",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751156030_1392138752790774_479634030129307132_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4qC6LD08K8Q7kNvwHVSlJ2&_nc_oc=AdpR0WxRUPtcRqpR89hiF50aHmdbPo6tf22ICoMb_pWBhBCt8jPJU3cTMySEJkNPehU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIJFSgkqPPsnqeplIeT6ym1RJD-8RC2JgFADSzveteZSg&oe=6ABE3EA5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1046330894575267"
+      },
+      {
+        "id": "1806669460353010",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://fb.com/messenger_doc/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708394918_1538127381243564_1572282290127943775_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r0Zf2XiZ2SMQ7kNvwG_LSBJ&_nc_oc=AdrDPs4S5xjYACPmLL2X0cpuY_XQFQ-fx4vadTjTtc_b-btuJIaljlmjlzr-KexuXQE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIIfqEe_b6BP0HhbDK86IyzNTNIgvrf01P7eSYbyEepFg&oe=6ABE38F7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707694963_1726809192777554_6679414424828029391_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N9TXax8TFOsQ7kNvwHtWgUO&_nc_oc=Adq0eCeaKBnm3x9sXderYfTU-FLXlYJ6K4KgZH0mVE6YrqLpqx269h7vUOK1-3ZYXAs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLA08B1ce5_0szTp_XgH9rn_gknY3tlp2ARCMHpHIpZQA&oe=6ABE5E53"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1806669460353010"
+      },
+      {
+        "id": "1401641675348517",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.depot365.co.il/193412-%D7%9C%D7%93%D7%A8%D7%9E%D7%9F?q=%D7%9C%D7%93%D7%A8%D7%9E%D7%9F&utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731761824_2024528184817320_6321093166619946269_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ThPyo_Gf6TwQ7kNvwEAj4Ut&_nc_oc=AdrIrUV166FrPJTj9zwfoddZHTRco7fYV-JdE6SjgMPVlmhYLsrPxYgiNcyVINucQZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLGO858OS-nxucQqXwMYWp2bWgYvyHkRoaI-v9OCza4Dg&oe=6ABE54B5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwnxv-MXRXY9uhf5Dr0qEF3KCI8y6bcVeO01hAV4mJi8SttGuOL8CBa-oxQeHnXDcr8yq17E8W47p1SIh4ggWusIneUi3XL1dmXEj0ifTy6Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZFayVxq3QMQQ7kNvwEJ4x5v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Njk1NjU0MzA0ODY5OSwiYXNzZXRfYWdlX2RheXMiOjkwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f4af1b1788af10f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NTQ4RjgyOTVCMDZGMzk2NDA1NEE1N0E5N0Q5REJCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNEI2MDc5NThCMUJBQTVDQjFGNjIyN0Q1Qzg2QkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb279aJwa7FAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLJ8lFLNUUaJb1ZSRvrim_IksEzHbhv0JgxTspdsl_m2g&oe=6ABE5F9C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731423411_1559503632406950_3561753667986562769_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yUXsebtbUvcQ7kNvwHfh1Yh&_nc_oc=AdqfQNXDVl2VKbMhK9uHVYdvLUeDhPDu1mTf8hfT9vjxLHuNPlqVtWNsjxD34mxKjy0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQI2pWbZepBH1zFt7uD2kdhIAlwpGgqDwAWUxikQ6WgtNw&oe=6ABE3F31",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNf8rMnZ-MckeUclTpM9OBHdAU_7ykQ_79i0OmTKuSpX2a9sKb-ZGL1NXVffmgi9NeLe-n-3v3fAxPY5GLiOXxLJXTiC_RkpFEg38Mtuc170w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oakeRT4udPEQ7kNvwGbsNdI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTc5OTkyOTY3NDk2NDMsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c9563a1907081bc6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQwQTRBQjZFQTg2QTQ3N0RDMTQyNjRDRTJGNUY4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCNDQ4RTM1QzgxQ0U2NEQwMjBGRTVCNkNFRDc4RDlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWga3-063XBBUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeXCS_U8RitWicamQpbv1ZSYV5-s_7_oMGroXaAsWhbQ&oe=6ABE4BD8"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731760955_1497241561566799_2215167651113938632_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l_XVl7SI30YQ7kNvwEUtWO3&_nc_oc=AdqY8TAjsrQDwE5-AKcCcvpklRvRqJ8azAAaCES6Itfc5YwTesqqbWhiQtRn2p4U2w8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqeKzBUE-3mk6iSkHnpMe8CmqhufZ3y2sbxPBHwLgejA&oe=6ABE3F7A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQObrBPT3IDINy75fbUsod4ojBbNmLuYPqBJlg4lJKTZUQRtkfZbKM6joYbRiPPFf-NlKj76Ntcq2GsB9XU9x00SFN5oJtECng5JQ1BZFEmejA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ja0FbrDfh8YQ7kNvwFi955j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODkwMTI1NTk0NTQzNzMsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8198a6a4ed08541c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTQ5QkJEQTY0OTRENkExODZFQjhGMDYyOTlDODhBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdGNEREQUEwQkMzQTc5RjlFNzI4ODI3RDc4MDU4QUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKgrOS2szSBRUCKAJDMywXQBM3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ7KDbhOglli6JaK3brZ6KgR5th5snikQM1KiSBHw11eg&oe=6ABE38C7"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731983688_2312593312814258_2651018099586865828_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PRUcxRrR220Q7kNvwGDWJF8&_nc_oc=Ado-SYKBGY-UdYIq21802WiDaDc33RlqaCwYRcFDcKoMDlBYKRFCQa_bzKmzj9TN4Wk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIZ1sMgycgqx62Ui5ACF6Rw42snD9qHMMvvOo-rKiz3hg&oe=6ABE35F2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN5Ox_an3mB4L0NAClD8WWrGwxRQ3Hek2fMMLPrYrF0HgGt6pM7aIYm8ugyXkNQdWEbdkCud4CmbDBxo30DVivJok402odMSGL1OsJ75aCnww.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zw6Xr3R7k-gQ7kNvwELsCb8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTk3MjgwMTA4MDcxNjQsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6a88a4c2505239c0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTRGMkZFNjQxM0Y3OTQ1RjcwMUVENTI0N0JENTZCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNEUwOEVGRTY1MEI0MTQ2MUE3NzA0Q0M1MDlCMEI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4ndDd_dvPAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJUp4rk0pQr6RZLwOGLLWfAt5av6pUpCcXv6CbQUgCVCQ&oe=6ABE49C5"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731761824_2024528184817320_6321093166619946269_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ThPyo_Gf6TwQ7kNvwEAj4Ut&_nc_oc=AdrIrUV166FrPJTj9zwfoddZHTRco7fYV-JdE6SjgMPVlmhYLsrPxYgiNcyVINucQZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLGO858OS-nxucQqXwMYWp2bWgYvyHkRoaI-v9OCza4Dg&oe=6ABE54B5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwnxv-MXRXY9uhf5Dr0qEF3KCI8y6bcVeO01hAV4mJi8SttGuOL8CBa-oxQeHnXDcr8yq17E8W47p1SIh4ggWusIneUi3XL1dmXEj0ifTy6Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZFayVxq3QMQQ7kNvwEJ4x5v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Njk1NjU0MzA0ODY5OSwiYXNzZXRfYWdlX2RheXMiOjkwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f4af1b1788af10f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NTQ4RjgyOTVCMDZGMzk2NDA1NEE1N0E5N0Q5REJCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNEI2MDc5NThCMUJBQTVDQjFGNjIyN0Q1Qzg2QkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb279aJwa7FAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLJ8lFLNUUaJb1ZSRvrim_IksEzHbhv0JgxTspdsl_m2g&oe=6ABE5F9C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731423411_1559503632406950_3561753667986562769_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yUXsebtbUvcQ7kNvwHfh1Yh&_nc_oc=AdqfQNXDVl2VKbMhK9uHVYdvLUeDhPDu1mTf8hfT9vjxLHuNPlqVtWNsjxD34mxKjy0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQI2pWbZepBH1zFt7uD2kdhIAlwpGgqDwAWUxikQ6WgtNw&oe=6ABE3F31",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNf8rMnZ-MckeUclTpM9OBHdAU_7ykQ_79i0OmTKuSpX2a9sKb-ZGL1NXVffmgi9NeLe-n-3v3fAxPY5GLiOXxLJXTiC_RkpFEg38Mtuc170w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oakeRT4udPEQ7kNvwGbsNdI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTc5OTkyOTY3NDk2NDMsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c9563a1907081bc6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQwQTRBQjZFQTg2QTQ3N0RDMTQyNjRDRTJGNUY4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCNDQ4RTM1QzgxQ0U2NEQwMjBGRTVCNkNFRDc4RDlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWga3-063XBBUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeXCS_U8RitWicamQpbv1ZSYV5-s_7_oMGroXaAsWhbQ&oe=6ABE4BD8"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731916804_1024506280035357_2383433490718993551_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nqBDK08cJAIQ7kNvwFRM0XR&_nc_oc=AdrO5Es7BhyI-hde0_ynJZJHDTTJ7bTSatTBIQuLsBAg-iZlyyXIUxN9-BWehmu_aL0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKX6uVOIwsi-dtPRggdhmELbO5_Q9RkXPN19-xiZavtzQ&oe=6ABE4A4A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOWTVZdjqG3_TCVj8DlrxW4lW-uh41bcitj7vqMPlllxcdQUfl9tKFkRDjX5jLGJY4pAf_X2yjdhEArJieFnW6dMh4a-KGEL6KnoQCaHasAaw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uMc6oKjQVm0Q7kNvwE2kab-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTA5MTM4NzQ5NzQ1MzAsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=53bdac69e7d1b045&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MzQwODIwRjc4MEVCQzNFODA1NzE3MUIwODU5MzBCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzNEU1RTNCNjc2NDJDRENEODA5MEYwOTYzRjg0RDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE3dSm99rLAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLnG6WmOBaGDBUrDOd6COv5EQre_HgX8lsQ8s9ptQdVrw&oe=6ABE418B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731983688_2312593312814258_2651018099586865828_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PRUcxRrR220Q7kNvwGDWJF8&_nc_oc=Ado-SYKBGY-UdYIq21802WiDaDc33RlqaCwYRcFDcKoMDlBYKRFCQa_bzKmzj9TN4Wk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIZ1sMgycgqx62Ui5ACF6Rw42snD9qHMMvvOo-rKiz3hg&oe=6ABE35F2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN5Ox_an3mB4L0NAClD8WWrGwxRQ3Hek2fMMLPrYrF0HgGt6pM7aIYm8ugyXkNQdWEbdkCud4CmbDBxo30DVivJok402odMSGL1OsJ75aCnww.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zw6Xr3R7k-gQ7kNvwELsCb8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTk3MjgwMTA4MDcxNjQsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6a88a4c2505239c0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTRGMkZFNjQxM0Y3OTQ1RjcwMUVENTI0N0JENTZCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNEUwOEVGRTY1MEI0MTQ2MUE3NzA0Q0M1MDlCMEI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4ndDd_dvPAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJUp4rk0pQr6RZLwOGLLWfAt5av6pUpCcXv6CbQUgCVCQ&oe=6ABE49C5"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731761824_2024528184817320_6321093166619946269_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ThPyo_Gf6TwQ7kNvwEAj4Ut&_nc_oc=AdrIrUV166FrPJTj9zwfoddZHTRco7fYV-JdE6SjgMPVlmhYLsrPxYgiNcyVINucQZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLGO858OS-nxucQqXwMYWp2bWgYvyHkRoaI-v9OCza4Dg&oe=6ABE54B5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwnxv-MXRXY9uhf5Dr0qEF3KCI8y6bcVeO01hAV4mJi8SttGuOL8CBa-oxQeHnXDcr8yq17E8W47p1SIh4ggWusIneUi3XL1dmXEj0ifTy6Q.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ZFayVxq3QMQQ7kNvwEJ4x5v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Njk1NjU0MzA0ODY5OSwiYXNzZXRfYWdlX2RheXMiOjkwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f4af1b1788af10f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NTQ4RjgyOTVCMDZGMzk2NDA1NEE1N0E5N0Q5REJCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCNEI2MDc5NThCMUJBQTVDQjFGNjIyN0Q1Qzg2QkI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb279aJwa7FAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLJ8lFLNUUaJb1ZSRvrim_IksEzHbhv0JgxTspdsl_m2g&oe=6ABE5F9C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731423411_1559503632406950_3561753667986562769_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yUXsebtbUvcQ7kNvwHfh1Yh&_nc_oc=AdqfQNXDVl2VKbMhK9uHVYdvLUeDhPDu1mTf8hfT9vjxLHuNPlqVtWNsjxD34mxKjy0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQI2pWbZepBH1zFt7uD2kdhIAlwpGgqDwAWUxikQ6WgtNw&oe=6ABE3F31",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNf8rMnZ-MckeUclTpM9OBHdAU_7ykQ_79i0OmTKuSpX2a9sKb-ZGL1NXVffmgi9NeLe-n-3v3fAxPY5GLiOXxLJXTiC_RkpFEg38Mtuc170w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oakeRT4udPEQ7kNvwGbsNdI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTc5OTkyOTY3NDk2NDMsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c9563a1907081bc6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQwQTRBQjZFQTg2QTQ3N0RDMTQyNjRDRTJGNUY4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCNDQ4RTM1QzgxQ0U2NEQwMjBGRTVCNkNFRDc4RDlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWga3-063XBBUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeXCS_U8RitWicamQpbv1ZSYV5-s_7_oMGroXaAsWhbQ&oe=6ABE4BD8"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/731916804_1024506280035357_2383433490718993551_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nqBDK08cJAIQ7kNvwFRM0XR&_nc_oc=AdrO5Es7BhyI-hde0_ynJZJHDTTJ7bTSatTBIQuLsBAg-iZlyyXIUxN9-BWehmu_aL0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKX6uVOIwsi-dtPRggdhmELbO5_Q9RkXPN19-xiZavtzQ&oe=6ABE4A4A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOWTVZdjqG3_TCVj8DlrxW4lW-uh41bcitj7vqMPlllxcdQUfl9tKFkRDjX5jLGJY4pAf_X2yjdhEArJieFnW6dMh4a-KGEL6KnoQCaHasAaw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uMc6oKjQVm0Q7kNvwE2kab-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTA5MTM4NzQ5NzQ1MzAsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=53bdac69e7d1b045&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MzQwODIwRjc4MEVCQzNFODA1NzE3MUIwODU5MzBCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzNEU1RTNCNjc2NDJDRENEODA5MEYwOTYzRjg0RDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE3dSm99rLAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLnG6WmOBaGDBUrDOd6COv5EQre_HgX8lsQ8s9ptQdVrw&oe=6ABE418B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731983688_2312593312814258_2651018099586865828_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PRUcxRrR220Q7kNvwGDWJF8&_nc_oc=Ado-SYKBGY-UdYIq21802WiDaDc33RlqaCwYRcFDcKoMDlBYKRFCQa_bzKmzj9TN4Wk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIZ1sMgycgqx62Ui5ACF6Rw42snD9qHMMvvOo-rKiz3hg&oe=6ABE35F2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN5Ox_an3mB4L0NAClD8WWrGwxRQ3Hek2fMMLPrYrF0HgGt6pM7aIYm8ugyXkNQdWEbdkCud4CmbDBxo30DVivJok402odMSGL1OsJ75aCnww.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zw6Xr3R7k-gQ7kNvwELsCb8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTk3MjgwMTA4MDcxNjQsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6a88a4c2505239c0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRTRGMkZFNjQxM0Y3OTQ1RjcwMUVENTI0N0JENTZCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNEUwOEVGRTY1MEI0MTQ2MUE3NzA0Q0M1MDlCMEI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4ndDd_dvPAxUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJUp4rk0pQr6RZLwOGLLWfAt5av6pUpCcXv6CbQUgCVCQ&oe=6ABE49C5"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731823710_2195743704612110_2998509322781848027_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U_RJaDNEjjwQ7kNvwE-vZF2&_nc_oc=AdpCei616UCNaPJ9_GNfyqepNNI1GVTi0PgVoooGRY6eVlgEojEl-HPtnO8Yhfpvt4s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLhhDtpMY10pBp_ZaTuKWFYZoEDl1SPzvV8ivYjYlmVfg&oe=6ABE4E18",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPJBBjBn_Djz1fR6iAVn-qtkdwKGkj22bscVAlNQH9y1sb-Fe4vS2ofx-RkUKMyGbkvgEOIkzCWsaXUaNFJHS54ABJQYGqJpU-JaqEEwADrWQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=BWURSzbQxQ8Q7kNvwHFZtxy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MzY5ODU4OTMzOTMwNjEsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4331ed9bffc38743&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQTRGODc4QkU4RjA3NEExMjkwOUVCRDlEQkI0MkRCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDkxMTAwOTlCNTAwQkQwMkM2RTI4REFFNjlBNTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKyvznn5vUCBUCKAJDMywXQBAEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKCnATpfIUmzwT1wIhV_ktNPR6fTgAgJ4iHnoViRrTJ_A&oe=6ABE4247"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731808893_1565171445181631_1793884303027243976_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UOmzRj843rsQ7kNvwEngoKD&_nc_oc=AdqnfoYvS7Wd9y1nWNtwwKVFEQX0u0DaqVXJURFgKGPRt4ezTsqjht0cVoCEYjYCBOk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK_JIFzvPlcVlCbGXddBasOBCNezFOPRFu990V3AmL6vg&oe=6ABE2D86",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPAJJlNX2gswSaq-qWk1aRfY9QrOaxRXU5G1p3znvT7UYek3eSr2H-L5XGLl86Y4WVkjDM7duahQWX4juONVWeBaollWjUcC_EmUxOmYL_bXw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ywf6Os7k0NkQ7kNvwFgz3zz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxMDA1OTEyNjM0Njc2NDksImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=861ccb84e96fec8d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERTRCRjRDNTQ3QUYxN0U0MTU0QTQzQjBGM0YxQTg5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzVCNDJCQ0NGQjlCQTRFRTIyRDU5RUQyQjY5Nzg0Qjk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCotKNlf6BCxUCKAJDMywXQBDQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL4kNvcLU48STiPWt-w4LeQWvaK3G1aQXjG1-uHWZQbkQ&oe=6ABE289B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/731760955_1497241561566799_2215167651113938632_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l_XVl7SI30YQ7kNvwEUtWO3&_nc_oc=AdqY8TAjsrQDwE5-AKcCcvpklRvRqJ8azAAaCES6Itfc5YwTesqqbWhiQtRn2p4U2w8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKqeKzBUE-3mk6iSkHnpMe8CmqhufZ3y2sbxPBHwLgejA&oe=6ABE3F7A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQObrBPT3IDINy75fbUsod4ojBbNmLuYPqBJlg4lJKTZUQRtkfZbKM6joYbRiPPFf-NlKj76Ntcq2GsB9XU9x00SFN5oJtECng5JQ1BZFEmejA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ja0FbrDfh8YQ7kNvwFi955j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODkwMTI1NTk0NTQzNzMsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8198a6a4ed08541c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMTQ5QkJEQTY0OTRENkExODZFQjhGMDYyOTlDODhBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdGNEREQUEwQkMzQTc5RjlFNzI4ODI3RDc4MDU4QUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKgrOS2szSBRUCKAJDMywXQBM3S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ7KDbhOglli6JaK3brZ6KgR5th5snikQM1KiSBHw11eg&oe=6ABE38C7"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732018738_1014180831199051_4513224915700360464_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=foo3yAfReYEQ7kNvwGOHXii&_nc_oc=Adr80SaneUoGIvqXYq_AhVTihr372EwHY1AZ0OymRgoxPL1g4cNBNGoAWcdo0Smnhrg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQKsar_uAtf6PCeQgTooiT2mTfNtw15QyytzWvwAX7jATA&oe=6ABE515F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMAGgFkj7Ej0BugHNitPzJ3VnhAvnswdrUYyrzz1zP990PRz9cfAeIA8d8p_zeN1bkrjAwkin5b6djMF-kRUC1gKe_8AwOpHfCn67K4-alnJg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5jRNsv-KUTAQ7kNvwE8lhtX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzI2NTk4MTYzNTczMDAsImFzc2V0X2FnZV9kYXlzIjo5MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=14d87c083c4e1c3d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzQ2NkQ2Mzk1MDU1NEE0Rjg1OTcxOUI3NzY5RDc5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I3NEJENkVGNUNBOTFBNjAwRERFQTY4MUU0N0E4MEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbo9riY28zVAxUCKAJDMywXQBSvGp--dskYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIC8M0pseWf8dMpnUekXcB3rlSXQjQg8eHsr_EZRaLJYA&oe=6ABE2B0A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1401641675348517"
+      },
+      {
+        "id": "38381596508150569",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רוצים להחזיר לרכב, לחצר או למרפסת את המראה הנקי באמת? 💦\nמכונת השטיפה בלחץ GPT HL312PRO  עושה את העבודה מהר, חזק ובלי מאמץ מיותר.\nמניקוי רכבים ועד הסרת לכלוך עקשן משבילים, משטחים וחצרות - זה הפתרון שכל בית צריך כדי לשמור על סביבה נקייה, מסודרת ומרשימה יותר.\nפשוט מחברים, שוטפים ורואים את ההבדל.\n\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "",
+        "landing_url": "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820479466_1105551805201696_4057414375925218573_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pUFKm0v1SrEQ7kNvwGt8_gg&_nc_oc=AdpoUnaIh8_kYGXMuAlkzR4A85bXSYU1on42Uhfvy30JKfCMPT3IzeBt_iOzhqqX95k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLQYlbUns2L1NOzoxQc1Vi5FPlDfkuHgDMzbGrm-wWvNw&oe=6ABE5B4F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3ENfgMP7gl69rTCG2jOSJXrj_x3bwH-hksW_D0V9Q7e-lysLTFoEZupLyRhg6iupn5MUwOO1K4VrshoUo34Icx0GwS2BJWhrCUTKFJdMVfw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WxnwJzrwOfEQ7kNvwHxJ3Oq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjI0MTAwMDIzMDU3MzYsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4b8989fcd73178b7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMjRGQjA3Rjk1ODhEQ0JEMTUzQTMyMjdBMDE5RjhCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZCM0I5Njg4OUZBMDQ0REVBREVCNDZDNjZCRUZGNDM4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQy_LSncDGBRUCKAJDMywXQEXAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKpwqkQTgwOptE07UNnnXoiQub1OmbmWPsHv6YQNjgafw&oe=6ABE4E48"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=38381596508150569"
+      },
+      {
+        "id": "1711393823301884",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "כלי עבודה במחירים סופר משתלמים - בעולם הצבעים אילת! 🔧\nהזמינו עכשיו גם מהצפון וגם מהרכז ואספו אצלנו!\nלבחירה והזמנה >> https://bit.ly/4b0FPwg\n\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "",
+        "landing_url": "https://www.depot365.co.il/191714-%D7%9B%D7%9C%D7%99-%D7%A2%D7%91%D7%95%D7%93%D7%94?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749315048_1779909653155360_1442058282704739921_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UtINST5kZnoQ7kNvwHNLOX3&_nc_oc=AdqkIr3gt17Cid-XmwPqF-f5wwP7SVX2Mh2uqXEEl00zxbDzF1sZ197EGIJa0guFMPM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQK7esP_Y62xJauyZpMQ5K8l00WABF5diY_Lqlz-VIIbzg&oe=6ABE5E9B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNn4DeUDnN1pROi9x03t8UVeZ08AiR8lBVCUZPb6saE3ORZf3ytEbEXHrc9QQiGW7cNtO6DXq-oivDFOBo-WmbMbta9aU-rOG36PqOHk5a4NQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8UFkyoS9BQwQ7kNvwEQW1ij&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg3MDc5MTQ0OTA5NTY3NiwiYXNzZXRfYWdlX2RheXMiOjY4LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3549434605e2d969&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRDQ2NzdDQkI3MTU2NTI2NjUzQ0E1RjMyQjgwQUU4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI2NEVBMkUxN0Q0NkU5QzlCQ0RDNEIyMjA3NDVDNUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4t_nv3f6LAxUCKAJDMywXQE3d0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKaJbAPpKKUpQA7iezipactb6O0DNPabnpYjYLuOUY-Uw&oe=6ABE3AA3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1711393823301884"
+      },
+      {
+        "id": "1882699872712749",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "שואב האבק המשולב UV של Kärcher",
+        "body": "ניקוי עמוק שמרגישים באמת‼️\nשואב האבק המשולב UV של Kärcher נועד לניקוי יסודי של מזרנים, ספות, כריות ומשטחי טקסטיל, ומסייע בהתמודדות עם פשפש המיטה, קרדית האבק, אלרגנים וטפילים מבעלי חיים.\nהשילוב בין אור UV, רטט עוצמתי ויניקה חזקה עוזר לשחרר לכלוך וחלקיקים מתוך סיבי הבד ולשאוב אותם ביעילות למיכל ייעודי.\nפתרון חכם לבית נקי יותר, בריא יותר ונעים יותר.\nלהשיג עכשיו בעולם הצבעים >> https://bit.ly/4xUBqUG\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "פתרון חכם לבית נקי יותר, בריא יותר ונעים יותר",
+        "landing_url": "https://www.depot365.co.il/items/9266759_admin_version_1787732624?utm_source=fb+karcher&utm_medium=fb+karcher&utm_id=fb+karcher",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/788261062_1033925996138818_1651399042550613949_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LNjiFrGO540Q7kNvwF-wAD0&_nc_oc=AdoARquoPSh_M4RaWv2giNYN-rEiT3J-AvDeaTXSBvPVw0LCJ146KdRpGMAcuJQDBKg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJLmZnwlrh4MyefxeTdvLQHsr7-aIgoQP8FjCge8OGL2Q&oe=6ABE2887"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1882699872712749"
+      },
+      {
+        "id": "1878893786419345",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שמשיית צד טורינו בקוטר 3 מטר היא פתרון מושלם לגינה, למרפסת, לבריכה או לפינת האירוח שלכם.\nהשמשייה כוללת בסיס פלסטיק, מעניקה כיסוי רחב ונוח, ומתאימה במיוחד ליצירת אזור מוצל ונעים בימי הקיץ החמים.\nעיצוב צד פרקטי מאפשר ליהנות מצל מבלי שהעמוד יפריע במרכז פינת הישיבה - פתרון נוח, יפה ושימושי לכל חצר או מרפסת.\n\nמחיר מיוחד: 629 ₪ בלבד\nלרכישה: https://shorturl.at/11rvD",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/768452872_918865267395747_1725597095158119309_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bfkXqnudVxkQ7kNvwFG_RPJ&_nc_oc=Adquq52I9UVP8uRTyl9oDsc8ZIGcvx_1pHcKgtsedslGh80s5OxrGCmaOSF9bh97Xak&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJ4f7e1cKG47JwST0jBnQrxTUdb9g8v5tsp2JI7iYBqBw&oe=6ABE5FA3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN5OkhwbDNP_VczOTQ603LLvVI1goZlUZIF65uCaCP3T4ZI4xhELSAGsShmkseoWo8tkcM40GhvjK9kzXPEvePqIc6aWzVxBhQfJMZ9gICjLQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_rfSMqx6RWoQ7kNvwE_MQRF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MzExNjI5NjUwOTI0OTksImFzc2V0X2FnZV9kYXlzIjo0NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7e72a6f46b33445d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENTRENTEzRkI1NEY2OTk4NUZGMzhFNUIyQjY1RTI4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU0NEUwRDE2NjA1OEFBMDk1Q0MzMTlERjFEODI5MjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamoteRl-LlBRUCKAJDMywXQEBmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK9K9tBZpG7g4Rn8r6pLgQ-Xp7UrXsg1IcfSJGTJveY1g&oe=6ABE4CE4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1878893786419345"
+      },
+      {
+        "id": "2106837623525279",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מחיר אילת: רק 249 ₪! 💥\nמכונת ניקוי ריפודים ושטיחים Gold Line ATL-2330 עושה לכם ניקוי עמוק בבית וברכב בקלות - לספות, שטיחים, מזרנים וריפודי רכב.\nעם שאיבה עוצמתית, שטיפה יסודית, שני מיכלים נפרדים למים נקיים ולכלוך, ועיצוב נוח לנשיאה ושימוש - זה הפתרון המושלם לריענון הבית לפני החגים.\nמנקים, שוטפים ומחזירים לריפודים מראה רענן ונקי יותר.\nלהשיג בעולם הצבעים >> https://bit.ly/464QyD7\n\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798646550_2172337126957577_2248969319824967853_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hWYvddtrzoYQ7kNvwH-SgTp&_nc_oc=AdpphcdlyY5gayCt6LN6cMEo-V7tXo_xeOGqdIQO1v4Ge7dGyCUpoqwBFdEx7UAxtY8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLt1mNYQCI3gp4LaiqfVbaleQTCicAssRqSrgarUexlDg&oe=6ABE3185",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOON4TKz4swLzYES8iDDFXRp2HXpPhYI2zld7goJLU5ZtdQeVXG1M6euASQ9QxTZlyg9JqvjLOJ_KsmQDK2SUp74FpMfZn8oL5dDxOgXh3HGA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lgNLCRrSZNMQ7kNvwGTl_26&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDU3MTczOTMzMjYwMjQsImFzc2V0X2FnZV9kYXlzIjoyMCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjM4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8f657ebf087cb1e8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNDQ4RkNDRDFBRTdEOTNBNjhDMkU4M0RFQjk3MTI5NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MxNDFCOUM1MTBFNTJFQjRBQUVDQzMzQ0M1OTY0RUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQ_9uRkO6ZBhUCKAJDMywXQEMEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL_1gENM8DmbLTvjuMvrq9A_SxrVZh0H0KXRhBdefbu4Q&oe=6ABE34A3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2106837623525279"
+      },
+      {
+        "id": "1329176346025860",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מחלקת ריהוט הגן שלנו התרחבה 🌿\n\nכל מה שצריך כדי לשדרג את החוץ של הבית מחכה לכם עכשיו באתר:\nריהוט גן, מטבחי חוץ, פתרונות לבריכה ועוד מגוון מוצרים שיהפכו את הגינה, המרפסת או החצר לפינה הכי שווה בבית.\n\nעכשיו זמין באתר עולם הצבעים. לבחירה הזמנה: https://bit.ly/4fbvD6t\n️ 🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ!",
+        "link_description": "",
+        "landing_url": "https://www.depot365.co.il/?utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782889200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/735705011_3012859158919333_8338776449079489321_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tDV3_7UVMFQQ7kNvwFkmLk9&_nc_oc=AdoO8gDVeRV31eOaezEt8eEj4SBMDU1UEEjNtKZEFliT6mHUspzsGx3W1du-HISoeZI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQLXbqQFxVACYM4IOaQiY8Q8YFPheEmqJWDMsYtLp2BvYQ&oe=6ABE3B45",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOotOL6LizefAp-MoMF2vt2VgxAN5giuAG9rFmD0oQzTRwmJm7oG6OjP_g766i3mPgTwPO_HEd6yRpbOfCAom_2nc7XOWKJogHL8cLule1mVQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=rJWFzvntjHcQ7kNvwGWATCW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzkzNDE4NjExODE0NjYsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1ea2c5a877214c66&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MDQwQUY2MDg2QUU2MEI4MDFENTVFODRDODM5RTVBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NEM1QjJGRDY0OTY2OEQ0RDZENDBCNjAyREQ4MjgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa04JbNvoG8BRUCKAJDMywXQEIEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZSeAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKXrTkYVafmRrGZaFVfP7X8D9dc5l05NG-B_wqhyR0pYg&oe=6ABE4B72"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1329176346025860"
+      },
+      {
+        "id": "1002753649476914",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "יש פיצה… ויש פיצה שיוצאת מטאבון אמיתי 🍕\nטאבון Gozney Dome XL מביא את חוויית הבישול בחוץ לרמה אחרת - עוצמה, דיוק, עיצוב פרימיום ותוצאה שקשה להישאר אדישים אליה.\n\nלפיצות קריספיות, מאפים, בשרים, ירקות וכל מה שהופך ארוחה רגילה לחוויה שלמה.\nכי כשיש טאבון כזה בבית, כל אירוח מרגיש כמו מסעדה פתוחה אצלכם בחצר.\nלרכישה: https://shorturl.at/21fQW",
+        "link_description": "",
+        "landing_url": "https://www.depot365.co.il/items/8617218-gozney-dome-xl-black-gas-wood-oven?utm_source=FACEBOOK&utm_medium=FACEBOOK&utm_campaign=FACEBOOK",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/777800975_2111709299768329_8533159787071802036_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h8uSonhJbF8Q7kNvwHbZYwV&_nc_oc=AdomsOtIY66Z8mKYgaUv3YyVhsfhF9QVC0F_35o1EeXJ3wmLAv49RT5qHmeOfwK4Rr0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJW3_yrCB_cvNepMWuSWvBIiFHAJlQvcbQrjdx3RI0_4w&oe=6ABE4CBD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMNua9nF8A-WivIwkfReBl0EV98bfh5QDjfoemFOnnA2VUL6j3g_Baj1hkPt9M1tC8ldFavbKArDbL1kuwg5caDnMBg2in2ro6tv1VXZQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=B1rkldHXi7gQ7kNvwHFHGQV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODA0NzY1NDg5NzgwMzAxMSwiYXNzZXRfYWdlX2RheXMiOjM5LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIxDnSwe1kez2UE7i8XquJOt6yPaxCiNmhlI9pY751VIA&oe=6ABE4D56"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002753649476914"
+      },
+      {
+        "id": "1037932755961252",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "ברגע שהקמפינג קורא לכם - אתם רק צריכים להיות מוכנים 🏕️\nאוהלים, כיסאות, שולחנות, צידניות, תאורה וכל מה שהופך יציאה לשטח להרבה יותר נוחה, מסודרת וכיפית מחכה לכם עכשיו בעולם הצבעים.\nמתכננים לילה במדבר, פיקניק ביער או סופ״ש בכנרת?\nהציוד שלכם מתחיל כאן >> https://bit.ly/3UgCl3f\n\nמזמינים אונליין בקלות ויוצאים להרפתקה הבאה מוכנים יותר.",
+        "link_description": "",
+        "landing_url": "https://www.depot365.co.il/191670-%D7%A6%D7%99%D7%95%D7%93-%D7%A7%D7%9E%D7%A4%D7%99%D7%A0%D7%92?utm_source=fb+CAMPING&utm_medium=fb+CAMPING&utm_id=fb+CAMPING&fbclid=IwY2xjawUEj7RwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVBMcFNFU25adzhITTRzMHNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegiA7YOWtni6hnabm4fVl2Bu71ASOp7ZXhOqQK50W3BfvFDhy8g_HmIH8-ZA_aem_OuP-r_8chtB4IQQ4JIWtpw",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790208630_1752212309351357_3487415644493514196_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ge4F_f23r9oQ7kNvwHUJvA7&_nc_oc=AdrxQ-q-V0VG3Xg5uBhIYanNbdE-UPbKHqMIyN-FlkUP88OdCmO8ShC9Qd_RXCWPA5I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJkAxo19cKkIsmzqV-PMBBknpnbFHXfu1RBvF_lyTjghA&oe=6ABE2C0C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN2gRuR8Ow8vOJ3OJeIQcIhymoxZ_qT9t_rLayt-qnNFWtxUDkchrWWVTcRq7mrafcCjjvfBRGqfaPlQQ1RxJjqKXSY8TlKHjbbAkEgs609Ow.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VP3Df7iVsdcQ7kNvwFrZcdY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Njk5MjU0NzQ0NTk0ODYsImFzc2V0X2FnZV9kYXlzIjozMCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45639a089da3d9a8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zODRFMjA0RjRCNzMxMkNENEIyRTJFRkQ2ODE1M0U5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QwNEY5NDY4NkIyODcxMEI5MzBENkMxOEU2NjgyQjk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8_fiynO-kBhUCKAJDMywXQCuqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIs3JKwWbAzA0NlLA3jGptlGVz6GpVTNbIgrKbLqOwMsw&oe=6ABE47FF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037932755961252"
+      },
+      {
+        "id": "1619700173199680",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אוהבים לארח? זה הזמן לשדרג את החצר 🍽️\nמטבח חוץ אורגון משלב עיצוב מרהיב עם תפקוד מקצועי - פתרון מושלם למרפסת, לגינה או לחצר הבית.\nהמטבח עשוי פלדת אל-חלד SUS430 בשילוב פלדה מגולוונת, עמידה וחזקה לתנאי חוץ, כולל כיור ומקרר לנוחות מקסימלית בזמן האירוח, ומשטח עליון עשוי גרניט פורצלן למראה יוקרתי ועמידות גבוהה.\nכל מה שצריך לחוויית אירוח נוחה, איכותית ומרשימה - במקום אחד.\n\nלהשיג בעולם הצבעים: https://bit.ly/3TUZjfY\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789801200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/764844857_2398262891006895_7400853649734509073_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nxmmqyTzdI0Q7kNvwG_tAst&_nc_oc=Adoa6dOe3lhnbyiQ7vgBfZ_6kZ89WHCBEYK2fgKwR6-KpT9AszdX9QLbE_c5LTLmEGw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQJs08ykDIMlft2KhZl3HjdQKt5dced0MKj9uyDMmp3ePg&oe=6ABE3725",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQQR7YZh_g400kUEKLkhWu39hOtJVy4z-edFf5qQH8wQUrh2jS6qA9vUDf4HmpzyJjCKFesieEBAmjK4j_0jmmczAkpnkrqDGiRKKCukgwTw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_416cVJD0LEQ7kNvwG2QPpw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NTg4MjA2MjU2MTQyMDMsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fa7c72d57123f713&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRTQ1RjhEMEEyN0Y2QkFBMkJCMEM2MENGMjg2OTE5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NDlFQ0FDREI2ODc3NEUyNTNGRUY0ODdCMjdBMkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2lcTapu_EBRUCKAJDMywXQEDZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKW78gCO8_62lKJHZ1lWeGfL_Tg3pW5Eonobih_9aedBg&oe=6ABE4D60"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1619700173199680"
+      },
+      {
+        "id": "4176112276021282",
+        "page_id": "1436047476611468",
+        "page_name": "עולם הצבעים - הדף הרשמי",
+        "page_url": "https://www.facebook.com/depot365.co.il/",
+        "page_like_count": 5192,
+        "page_categories": [
+          "Tools/Equipment"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הגיע הזמן לתפוס קצת שמש בסטייל ☀️\nמיטת שיזוף דגם ניס היא בדיוק מה שהגינה, המרפסת או אזור הבריכה שלכם צריכים - עיצוב מינימליסטי, נוחות גבוהה ומראה אלגנטי שמשתלב בקלות בכל פינה.\nקלה להזזה, פשוטה לניקוי ועמידה לתנאי חוץ, כדי שתוכלו ליהנות מרגעי מנוחה בלי יותר מדי התעסקות.\nמניחים, נשענים לאחור ונותנים לקיץ לעשות את שלו.\nלהשיג בעולם הצבעים >> https://bit.ly/3SRSdbW\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802561370_2128386421108547_1192893167638725498_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YwI36LIEVS0Q7kNvwGAN4pP&_nc_oc=Adp5m_AZH_Y2HPuReR1ANb2v9RWkREtb5Ms-LvapdPjiL2kN4AN4qL3-vMiguGK-JMc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&oh=00_AQIpt5B-9cvKPcXs-NFUIW5_TZIXkGJyLsC86FXHi8erqw&oe=6ABE5C48",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPtaQxeV8B0heCnGVhkW4I0iFw3km7F-9ij9kiT0SAyFftDpFy9npVURPjloCpXjZ32WPo1MlCrP4lMJUCNyWbV_8fXvutmppbs89fkZpR8lQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=M-bhd4lE4oQQ7kNvwGEYu1S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODEwNzMzOTA4NTg4NDQsImFzc2V0X2FnZV9kYXlzIjoxNiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=432ef671cc920b8f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQwRkM5MjNEMTZCMTdGNUUzNDU3NzcxQzZEQjRCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NCNDlGRUI0QjQ1MDY3REJGMTNBNjIzODgwRUNGNTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4yffNhoX0BBUCKAJDMywXQD4IcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=g6zxC02HUYao7oFBJj7YeQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKekL4FTMb-8-Hr1NO_cEemtFnQ7jl1r3zOPrZKM4bImA&oe=6ABE4CD0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4176112276021282"
+      },
+      {
+        "id": "1806669460353010",
+        "body": "{{product.brand}}",
+        "landing_url": "https://fb.com/messenger_doc/"
+      }
+    ],
+    "social_landings": [
+      "https://fb.com/messenger_doc/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1097155866228322",
+        "text": "מחיר באילת: 479 ₪ בלבד! 💥\nמכונת שטיפה בלחץ GPT HL312PRO של סמיקום - לניקוי חזק, מהיר ויסודי של רכבים, חצרות, מרפסות, שבילים ומשטחים חיצוניים.\nעם לחץ מים של עד 195 בר, מנוע 2500W וזרימת מים של עד 8 ליטר בדקה - היא מתמודדת בקלות עם לכלוך קשה, בוץ ומשקעים.\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ See less",
+        "links": [
+          "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A"
+        ]
+      },
+      {
+        "ad_id": "1046330894575267",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.depot365.co.il/?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB"
+        ]
+      },
+      {
+        "ad_id": "1806669460353010",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://fb.com/messenger_doc/"
+        ]
+      },
+      {
+        "ad_id": "1401641675348517",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.depot365.co.il/193412-%D7%9C%D7%93%D7%A8%D7%9E%D7%9F?q=%D7%9C%D7%93%D7%A8%D7%9E%D7%9F&utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+"
+        ]
+      },
+      {
+        "ad_id": "38381596508150569",
+        "text": "רוצים להחזיר לרכב, לחצר או למרפסת את המראה הנקי באמת? 💦\nמכונת השטיפה בלחץ GPT HL312PRO  עושה את העבודה מהר, חזק ובלי מאמץ מיותר.\nמניקוי רכבים ועד הסרת לכלוך עקשן משבילים, משטחים וחצרות - זה הפתרון שכל בית צריך כדי לשמור על סביבה נקייה, מסודרת ומרשימה יותר.\nפשוט מחברים, שוטפים ורואים את ההבדל.\n\nלהזמנה אונליין באתר עולם הצבעים >> https://bit.ly/3UjDtDh\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": [
+          "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT"
+        ]
+      },
+      {
+        "ad_id": "1711393823301884",
+        "text": "כלי עבודה במחירים סופר משתלמים - בעולם הצבעים אילת! 🔧\nהזמינו עכשיו גם מהצפון וגם מהרכז ואספו אצלנו!\nלבחירה והזמנה >> https://bit.ly/4b0FPwg\n\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": [
+          "https://www.depot365.co.il/191714-%D7%9B%D7%9C%D7%99-%D7%A2%D7%91%D7%95%D7%93%D7%94?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB"
+        ]
+      },
+      {
+        "ad_id": "1882699872712749",
+        "text": "ניקוי עמוק שמרגישים באמת‼️\nשואב האבק המשולב UV של Kärcher נועד לניקוי יסודי של מזרנים, ספות, כריות ומשטחי טקסטיל, ומסייע בהתמודדות עם פשפש המיטה, קרדית האבק, אלרגנים וטפילים מבעלי חיים.\nהשילוב בין אור UV, רטט עוצמתי ויניקה חזקה עוזר לשחרר לכלוך וחלקיקים מתוך סיבי הבד ולשאוב אותם ביעילות למיכל ייעודי.\nפתרון חכם לבית נקי יותר, בריא יותר ונעים יותר.\nלהשיג עכשיו בעולם הצבעים >> https://bit.ly/4xUBqUG\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": [
+          "https://www.depot365.co.il/items/9266759_admin_version_1787732624?utm_source=fb+karcher&utm_medium=fb+karcher&utm_id=fb+karcher"
+        ]
+      },
+      {
+        "ad_id": "1878893786419345",
+        "text": "שמשיית צד טורינו בקוטר 3 מטר היא פתרון מושלם לגינה, למרפסת, לבריכה או לפינת האירוח שלכם.\nהשמשייה כוללת בסיס פלסטיק, מעניקה כיסוי רחב ונוח, ומתאימה במיוחד ליצירת אזור מוצל ונעים בימי הקיץ החמים.\nעיצוב צד פרקטי מאפשר ליהנות מצל מבלי שהעמוד יפריע במרכז פינת הישיבה - פתרון נוח, יפה ושימושי לכל חצר או מרפסת.\n\nמחיר מיוחד: 629 ₪ בלבד\nלרכישה: https://shorturl.at/11rvD",
+        "links": []
+      },
+      {
+        "ad_id": "2106837623525279",
+        "text": "מחיר אילת: רק 249 ₪! 💥\nמכונת ניקוי ריפודים ושטיחים Gold Line ATL-2330 עושה לכם ניקוי עמוק בבית וברכב בקלות - לספות, שטיחים, מזרנים וריפודי רכב.\nעם שאיבה עוצמתית, שטיפה יסודית, שני מיכלים נפרדים למים נקיים ולכלוך, ועיצוב נוח לנשיאה ושימוש - זה הפתרון המושלם לריענון הבית לפני החגים.\nמנקים, שוטפים ומחזירים לריפודים מראה רענן ונקי יותר.\nלהשיג בעולם הצבעים >> https://bit.ly/464QyD7\n\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": []
+      },
+      {
+        "ad_id": "1329176346025860",
+        "text": "מחלקת ריהוט הגן שלנו התרחבה 🌿\n\nכל מה שצריך כדי לשדרג את החוץ של הבית מחכה לכם עכשיו באתר:\nריהוט גן, מטבחי חוץ, פתרונות לבריכה ועוד מגוון מוצרים שיהפכו את הגינה, המרפסת או החצר לפינה הכי שווה בבית.\n\nעכשיו זמין באתר עולם הצבעים. לבחירה הזמנה: https://bit.ly/4fbvD6t\n️ 🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ!",
+        "links": [
+          "https://www.depot365.co.il/?utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+"
+        ]
+      },
+      {
+        "ad_id": "1002753649476914",
+        "text": "יש פיצה… ויש פיצה שיוצאת מטאבון אמיתי 🍕\nטאבון Gozney Dome XL מביא את חוויית הבישול בחוץ לרמה אחרת - עוצמה, דיוק, עיצוב פרימיום ותוצאה שקשה להישאר אדישים אליה.\n\nלפיצות קריספיות, מאפים, בשרים, ירקות וכל מה שהופך ארוחה רגילה לחוויה שלמה.\nכי כשיש טאבון כזה בבית, כל אירוח מרגיש כמו מסעדה פתוחה אצלכם בחצר.\nלרכישה: https://shorturl.at/21fQW",
+        "links": [
+          "https://www.depot365.co.il/items/8617218-gozney-dome-xl-black-gas-wood-oven?utm_source=FACEBOOK&utm_medium=FACEBOOK&utm_campaign=FACEBOOK"
+        ]
+      },
+      {
+        "ad_id": "1037932755961252",
+        "text": "ברגע שהקמפינג קורא לכם - אתם רק צריכים להיות מוכנים 🏕️\nאוהלים, כיסאות, שולחנות, צידניות, תאורה וכל מה שהופך יציאה לשטח להרבה יותר נוחה, מסודרת וכיפית מחכה לכם עכשיו בעולם הצבעים.\nמתכננים לילה במדבר, פיקניק ביער או סופ״ש בכנרת?\nהציוד שלכם מתחיל כאן >> https://bit.ly/3UgCl3f\n\nמזמינים אונליין בקלות ויוצאים להרפתקה הבאה מוכנים יותר.",
+        "links": [
+          "https://www.depot365.co.il/191670-%D7%A6%D7%99%D7%95%D7%93-%D7%A7%D7%9E%D7%A4%D7%99%D7%A0%D7%92?utm_source=fb+CAMPING&utm_medium=fb+CAMPING&utm_id=fb+CAMPING&fbclid=IwY2xjawUEj7RwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMVBMcFNFU25adzhITTRzMHNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegiA7YOWtni6hnabm4fVl2Bu71ASOp7ZXhOqQK50W3BfvFDhy8g_HmIH8-ZA_aem_OuP-r_8chtB4IQQ4JIWtpw"
+        ]
+      },
+      {
+        "ad_id": "1619700173199680",
+        "text": "אוהבים לארח? זה הזמן לשדרג את החצר 🍽️\nמטבח חוץ אורגון משלב עיצוב מרהיב עם תפקוד מקצועי - פתרון מושלם למרפסת, לגינה או לחצר הבית.\nהמטבח עשוי פלדת אל-חלד SUS430 בשילוב פלדה מגולוונת, עמידה וחזקה לתנאי חוץ, כולל כיור ומקרר לנוחות מקסימלית בזמן האירוח, ומשטח עליון עשוי גרניט פורצלן למראה יוקרתי ועמידות גבוהה.\nכל מה שצריך לחוויית אירוח נוחה, איכותית ומרשימה - במקום אחד.\n\nלהשיג בעולם הצבעים: https://bit.ly/3TUZjfY\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": []
+      },
+      {
+        "ad_id": "4176112276021282",
+        "text": "הגיע הזמן לתפוס קצת שמש בסטייל ☀️\nמיטת שיזוף דגם ניס היא בדיוק מה שהגינה, המרפסת או אזור הבריכה שלכם צריכים - עיצוב מינימליסטי, נוחות גבוהה ומראה אלגנטי שמשתלב בקלות בכל פינה.\nקלה להזזה, פשוטה לניקוי ועמידה לתנאי חוץ, כדי שתוכלו ליהנות מרגעי מנוחה בלי יותר מדי התעסקות.\nמניחים, נשענים לאחור ונותנים לקיץ לעשות את שלו.\nלהשיג בעולם הצבעים >> https://bit.ly/3SRSdbW\n🛒 מזמינים בכל מקום בארץ | 🌴 אוספים באילת | 💰 ונהנים ממחיר ללא מע\"מ",
+        "links": []
+      },
+      {
+        "ad_id": "1806669460353010",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://fb.com/messenger_doc/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A",
+      "https://www.depot365.co.il/?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB",
+      "https://www.depot365.co.il/193412-%D7%9C%D7%93%D7%A8%D7%9E%D7%9F?q=%D7%9C%D7%93%D7%A8%D7%9E%D7%9F&utm_source=FB+EXTRA&utm_medium=FB+EXTRA&utm_id=FB+EXTRA+",
+      "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT"
     ]
   },
   "current_ads": [],
@@ -86,6 +773,30 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:27:31",
+    "unqualified": "2026-09-27T01:31:37"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.depot365.co.il/",
+      "https://www.depot365.co.il/items/9500460-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%91%D7%9C%D7%97%D7%A5-195-%D7%91%D7%A8-GPT-HL312PRO-%D7%A2%D7%95%D7%A6%D7%9E%D7%94-%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%99%D7%A1%D7%95%D7%93%D7%99-%D7%A1%D7%9E%D7%99%D7%A7%D7%95%D7%9D?utm_source=fb+GPT&utm_medium=fb+GPT&utm_id=fb+GPT&fbclid=IwY2xjawUA9R5wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXNnQlIzb0gxall4cFIyZUxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeRA4FUtZqc5F3KR93mY6c--QgMPWaUI7aN_INhNrWWohJf-9jbpzNDz7NxaA_aem_f1jI7XCYaDhf-sUqZx8g4A",
+      "https://www.depot365.co.il/?utm_source=july+FB&utm_medium=july+FB&utm_id=july+FB",
+      "https://www.depot365.co.il/about",
+      "https://www.depot365.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "konimbo",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "owner_whatsapp"
+    ]
   }
 }

@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-27-033",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/andjoy/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "255445476065",
+    "page_name": "אנד ג'וי - כדי לתת",
+    "active_ads_count": 1,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "1808755120514672",
+        "link_title": "לרכישה לחצו כאן",
+        "body": "לעיתים אין מילים שיכולות לנחם, אך יש מחווה שיכולה לבטא השתתפות אמיתית בצער.\nבסטודיו AndJoy תמצאו זרי אבל, גלגלי אבל ומארזי ניחומים – כולם מעוצבים בכבוד ובאהבה ונארזים ע\"י אנשים עם מוגבלויות.\n🕯 להזמנה מכבדת ומשלוח עד הבית",
+        "landing_url": "https://www.andjoy.co.il/consolation-giveaways?utm_source=facebook&utm_medium=cpc&utm_campaign=nihumim&utm_content={{campaign.id}}",
+        "cta_type": "ORDER_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/571781261_770978105985394_5903723020574258549_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BRobSy78wAkQ7kNvwEryqig&_nc_oc=AdqbeA-Krfig-ZxYfKnAS8TIy_Dnz2uuEfJg_nBaBJtsch2yEX3GU-vYt9qavdXCJbw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQJZ9_Dasl3uzurfRtZHs_nnapXiFbje1mlnxR_MVqPr9Q&oe=6ABE59F7"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1761721200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1808755120514672"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "מארז",
+        "סט",
+        "לרכישה",
+        "להזמנה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "ORDER_NOW"
+      ],
+      "page_like_count": 24333,
+      "product_score": 7
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1808755120514672"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "ORDER_NOW"
+    ],
+    "page_like_count": 24333,
+    "page_categories": [
+      "Organization"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "rejected": "2026-09-27T01:34:07"
+  }
+}

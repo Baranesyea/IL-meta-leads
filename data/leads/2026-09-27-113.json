@@ -1,0 +1,125 @@
+{
+  "lead_id": "2026-09-27-113",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/galenleather/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1539570609667966",
+    "page_name": "GalenLeather",
+    "active_ads_count": 2,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "985329216034826",
+        "link_title": "Check out all our five star reviews!",
+        "body": "You love us, we love you. What are you waiting for?! Our artisans would love to handcraft you something special for yourself or a loved one.",
+        "landing_url": "https://www.galenleather.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/123709210_1903373403134536_8165351648801632591_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U_23OlflqvEQ7kNvwEWkviv&_nc_oc=Adp_B6ko8zA8d5Ht7F7ZdRYPBSOgQJIxClIFvk8qc32P5apK3hzq7RdVL6ZAhfLtDWA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQLVLGwcnSHak8jWi4PVpwVuh5tHf-vJ8udT0y_SH3c7qw&oe=6ABE4685"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1698130800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=985329216034826"
+      },
+      {
+        "ad_id": "364714725898960",
+        "link_title": "8k+ Product reviews!",
+        "body": "\"Outstanding quality - Moleskine cover is beautiful and well-constructed - it is one of those products that should provide a lifetime of pleasure\"",
+        "landing_url": "https://www.galenleather.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/130770913_181854877010605_7898378266372213967_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HtiXqyZuP48Q7kNvwFIIBPb&_nc_oc=AdoBb69uePjDRJSuyvsp0yiPQA7s-jn_Oq8WGf7yQfPxRigaTjpfjQuwAxVsXr8q-CU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQIDZA4t_LdmHKX7k7YWZnlcKcYBZuQDrJmaf2fA9t9lPA&oe=6ABE5CC5"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1698130800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=364714725898960"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 23572,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "985329216034826",
+      "364714725898960"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 23572,
+    "page_categories": [
+      "Website"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

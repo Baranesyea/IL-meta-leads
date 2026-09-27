@@ -1,0 +1,105 @@
+{
+  "lead_id": "2026-09-27-079",
+  "status": "rejected",
+  "reject_reason": "28,857,963 page likes — too big",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Alibaba.comGlobal/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "22437985072",
+    "page_name": "Alibaba.com",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "1549488932906628",
+        "link_title": "{{product.name}}",
+        "body": "Enjoy great profits on global product sourcing and choose from one of the world's leading B2B ecommerce platforms.",
+        "landing_url": "https://m.alibaba.com/?src=cpm_fb",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/517368139_1065191535716110_3632206109137935026_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o3aUraubf2AQ7kNvwEs-4pj&_nc_oc=AdrU0UTaOR78rvGCQpqbF4jDifvmzXhxVvGWdh65DBJNI_R2uO3LQ3FoA_JDIfBfIfQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLOdLCAxYEgx5PQGgG_gx2RY1D-1nqd1yvmQtlJL4Ah8Q&oe=6ABE4CEF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/516396882_1079037970248138_1763633438688401710_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oKCDamHqcnMQ7kNvwG7YFfU&_nc_oc=AdqKBy5GnEzHvyq72ozaA-AA6wuJ7ZWI-TMO3clt6U9NDSitOCiJNfCYBOBeh-Gtmt0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQIX98KPC9SyMJX8pwqSOujuAccOTWlhpKB9QfbSBZJ3kA&oe=6ABE5D33",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/515838363_650316954729192_8732436785838971253_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qsMa-1NqrdcQ7kNvwHSanKw&_nc_oc=AdrZN40fkKUN5EcRYZhZTLKEdZaF6zQB2qv8nrp2fZTqEzmYMp74nlqk0g_jSNwzRjc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLZqEok6oglfEvzeAj-QtJzwO9733ESUh1Gp_cjIfIF8w&oe=6ABE64D4"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1788159600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1549488932906628"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 28857963,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1549488932906628"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 28857963,
+    "page_categories": [
+      "Product/service"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

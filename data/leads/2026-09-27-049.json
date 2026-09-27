@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-27-049",
+  "status": "rejected",
+  "reject_reason": "400,725 page likes — too big",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/LOR.Espresso.IL/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1334913926608169",
+    "page_name": "L'OR Espresso",
+    "active_ads_count": 1,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "1142326094606374",
+        "link_title": "",
+        "body": "כשהאביב בפתח יש לנו רק דבר אחד בראש: קפה קר מרענן עם מלאאא קרח ואספרסו איכותי 🧊😍",
+        "landing_url": "https://www.lor-espresso.co.il/?utm_source=FacebookBM-AUB-Facebook-Instagram&utm_medium=paid_brand&utm_campaign=isr-2025-lor-retail-alwayson-tmb-0000699-cid-416138-singleserve-nespressocompatibles-buy-drs-prospecting&utm_content=fb3-Reach-16x9",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/491223451_565095786098714_1064144493689209369_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=60qaYBGl8zsQ7kNvwHRVKd0&_nc_oc=AdrQjGskp2zwJHKwQCyD0HagZI03mwOlHZFov6RvVM2xMXMmx8oQ-Fr0US8t8B-qdc0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQLxwoM3BGIY3V6wt0vo_EM3qmQfqetBrnQ9KC0w-sURRA&oe=6ABE47FC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP0vpuyWhLQMqBooN0FqdY4OjZAt0XSUGp6wUz9EjtlOgSXhYUeQLrlXiKMnmapKiAHhu3fZMJtYIqORVHPL6P0.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FVLpEwTl2jgQ7kNvwHGGrxV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMjYxNDMyMzQyODA1Nzg2LCJhc3NldF9hZ2VfZGF5cyI6MTY1LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK4ZEiPznuKeql24iIPeBnt_KuQNEZwc4c_8zk1Qh4WUw&oe=6ABE539D"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1744873200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1142326094606374"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 400725,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1142326094606374"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 400725,
+    "page_categories": [
+      "חברה"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "rejected": "2026-09-27T01:40:13"
+  }
+}

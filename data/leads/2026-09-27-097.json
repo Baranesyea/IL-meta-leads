@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-27-097",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/tomadecom/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "549486538562928",
+    "page_name": "TOMADE.COM",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "991359218299918",
+        "link_title": "TOMADE.COM",
+        "body": "Wholesale Hip Hop Jewelry For Your Sale, Premium Quality, No Minimums On Order, Bling! Bling!! Bling!!! Look >>",
+        "landing_url": "https://www.tomade.com/factory/teem-men-jewelry/10171-20",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/203532506_212465350730713_4886985694031517862_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=42kQ-PxETC4Q7kNvwEkRPOn&_nc_oc=AdrtOng8NdRqEWi5oqBRgMKQkL762pPBoF5wlotFgH3k-YrmdkjNgezB8ixcA_TAzes&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQKjn6mg_mjVRnAissMYKfKznCAoQWnbK-usKBcbzuBmcQ&oe=6ABE3DCC",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/204203824_554779805691560_4886722277837241967_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6J4HnMFPJP0Q7kNvwE-0vYn&_nc_oc=AdrDViiUL0V6VDEaHhN1mkMBjzCfrdcNLOwfyigVp0tAZRs0KERSy82H4f-S_p89JtA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQJm4nDbExPm9-ThnWFAiE7rSk6n2WeZY2yEaH1Uzkezbg&oe=6ABE36B2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/205064083_941194613134485_3489830303943123974_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iQtU4dfjqVsQ7kNvwE20goK&_nc_oc=AdqAJ3zZJoPSXzjdl_AYDXqb3WzibEZ9q-tkSiedJfhnTXVspNfwxomS5eVDCRseXa8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQKoadw3Qzq_8Unu_qmElYRMtdPRBsu6plaOljbZDWG0HA&oe=6ABE52C8"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1626332400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=991359218299918"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 23228,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "991359218299918"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 23228,
+    "page_categories": [
+      "Jewelry/Watches",
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

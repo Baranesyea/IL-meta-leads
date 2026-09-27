@@ -1,0 +1,104 @@
+{
+  "lead_id": "2026-09-27-036",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: עו\"ד, משרד",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61583977731181/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "884333238097021",
+    "page_name": "אור גל און משרד עורכי דין",
+    "active_ads_count": 1,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "1664874188227494",
+        "link_title": "מסמכים או אמון בתא המשפחתי - שאלות ותשובות, משפחה ושות' עם עו\"ד אור גל-און ב-102 תל אביב, יום שלישי, 6 בינואר, 2026",
+        "body": "והפעם בתוכנית - הפער בין הקרבה והאמון במשפחה, לבין המחלוקות המשפטיות הרבות שמתעוררות בתא המשפחתי.\nהאזינו לתוכנית המלאה 👇\nhttps://www.102fm.co.il/משפחה-ושות/318746",
+        "landing_url": "https://www.102fm.co.il/משפחה-ושות/318746",
+        "cta_type": "NO_BUTTON",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/618356169_33581176828163364_7423238743710734484_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yRbGxqEf2rgQ7kNvwGIgGgy&_nc_oc=Adp0KPF3bjLVmQiOzjp78g-oZ1X-ySNA8UMFHV0qLLh2qCP-WrW_23pWyNxJmWlu1vY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQKO_HXcMERZQP_uyA26u5hzseLqhzJdocX3q5Qdq7L8Hw&oe=6ABE3759"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1769414400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1664874188227494"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "עו\"ד",
+        "משרד"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "NO_BUTTON"
+      ],
+      "page_like_count": 17,
+      "product_score": -4
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1664874188227494"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "NO_BUTTON"
+    ],
+    "page_like_count": 17,
+    "page_categories": [
+      "Lawyer"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "rejected": "2026-09-27T01:34:27"
+  }
+}

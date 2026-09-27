@@ -1,0 +1,753 @@
+{
+  "lead_id": "2026-09-27-058",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://tanahiyot.com/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "hello@tanahiyot.com"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Tanahiyot/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/tanahiyot/",
+      "source": "https://tanahiyot.com/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972553075757",
+      "source": "https://tanahiyot.com/contact-us/",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "gmail / hello@ inbox",
+        "the only phone on the site"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "105635292556658",
+    "page_name": "Tanahiyot",
+    "active_ads_count": 15,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "3098395847022802",
+        "link_title": "מתנה לגבר שאוהב לטייל",
+        "body": "סנדל תנכי איכותי שמחזיק שנים, לא מתנה שנזרקת אחרי קיץ.\nעור איכותי 100% שמתרכך לרגל שלו ונהיה שלו.\nהולך איתו מהשביל למרפסת ובחזרה, בלי להישבר.\nתנכיות, המתנה שהיא באמת צריך.\nמשלוח מהיר לפני החגים.",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728226310_2260362951442072_1975131646458015064_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qr4itrvEaYMQ7kNvwGREZe_&_nc_oc=AdoHP70JzjYsekf4x_nn5aiG2GR2iAQ-JOfdvw9-RTbhKyymwS8LRmfqDddQD3LMwXc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQKanfSNZ26xmVV5SPMauW2vME_iAmaIbw0jyaU8RMCVYg&oe=6ABE32E6"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1782111600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3098395847022802"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 15,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 1110,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "3098395847022802"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 1110,
+    "page_categories": [
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "3098395847022802",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מתנה לגבר שאוהב לטייל",
+        "body": "סנדל תנכי איכותי שמחזיק שנים, לא מתנה שנזרקת אחרי קיץ.\nעור איכותי 100% שמתרכך לרגל שלו ונהיה שלו.\nהולך איתו מהשביל למרפסת ובחזרה, בלי להישבר.\nתנכיות, המתנה שהיא באמת צריך.\nמשלוח מהיר לפני החגים.",
+        "link_description": "מהסמטאות של אירופה ועד לשבילים של המדבר – תנכיות מעוצבות לאלו שלא מפסיקות לזוז. שילבנו את העוצמה של המקור עם שיק מודרני, כדי שתוכלי ליהנות מנוחות מקסימלית בלי לוותר ...",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728226310_2260362951442072_1975131646458015064_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qr4itrvEaYMQ7kNvwGREZe_&_nc_oc=AdoHP70JzjYsekf4x_nn5aiG2GR2iAQ-JOfdvw9-RTbhKyymwS8LRmfqDddQD3LMwXc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKx7US2Pb_hYHNJUOpAxTxZdGU3VjZy9JtRVuKTSNTKaw&oe=6ABE32E6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3098395847022802"
+      },
+      {
+        "id": "750344141345864",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מוצר שני ב־50% הנחה על סנדלים 🎁",
+        "body": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1774162800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/655097245_2227960827607737_505593650535248374_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ijdZh9ZfDIAQ7kNvwEWe5fA&_nc_oc=Adrv5dY9OYYts6EnE2VzRc8rys4YeoTzp4TPtQGJyMvxBxo9ceDENAE1l53WYt0qkUY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQJslD-wvtUit7UGX1Pc65IOIOyGYG38i6GKe0Xc3Ldmig&oe=6ABE3A45"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=750344141345864"
+      },
+      {
+        "id": "978728068062462",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "המוצר השני ב־50% הנחה לזמן מוגבל.",
+        "body": "סנדלים טובים אמורים לתת יותר מלוק יפה.\nהם צריכים להרגיש איכותיים, להיראות נכון,\nולבוא עם ראש שקט בקנייה.\nבדיוק בשביל זה יש תנכיות —\nעכשיו עם מבצע השני ב-50% הנחה",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776409200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/673829927_2543947136003446_8792467956057528617_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z07vCxyPkYUQ7kNvwFYlspo&_nc_oc=AdoU67x1m2k-ciHuxgc55vLT54m6KOt44UH-1l8RUZ1Up5mD3tyRffxl3j3sJIkLZqs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQK_LPHQUVJ7X-3NUZ_Ghp7YiIDLlQQae8QDW97uVGNrHA&oe=6ABE58F5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=978728068062462"
+      },
+      {
+        "id": "1264261239127338",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מוצר שני ב־50% הנחה על סנדלים 🎁",
+        "body": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1776063600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/672673268_1699516458153910_8075371184665189391_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ZionvRT--UQ7kNvwHWKAiy&_nc_oc=AdoMDdw5lAGkM_HZlHbzH90c2Yi02TvU-BjQSP8yCHSk4M1TTrmwt_ubROs6WECb7ZM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQIXTmtpa6AZsNvWu_MRyhB9SfVTDXO3yRPEqwX5eLtPuA&oe=6ABE384D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1264261239127338"
+      },
+      {
+        "id": "2120693672128387",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/61580899426454/",
+        "page_like_count": 12,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "עור איטלקי אמיתי בעבודת יד",
+        "body": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "link_description": "",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/771678028_1407990071233425_9086318280195396076_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IfDPTOye6XoQ7kNvwEAxDX3&_nc_oc=AdqRGhTueHs2rTBHVmv3I7-wnYIwhmnxTSm94m1OWU9TBtal-YgkEAaeRGqtYMZfmEk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLMo18O5_4u_0cIfFwlq5zV07nX6Rl9iOb1eY2xi86TbQ&oe=6ABE467F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOaNvMXUBjCwzuYYpo8MkuUoadfZpo_Vk364cyKBKFue1bmImee5SBZcWhL-Yu5EPU6FeT9c20QAvFx38Ai5QNsm03ra6yCXPDMXDno8CxpRQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6dvIA_w73KoQ7kNvwH79Ncm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzg4MTMwNzg0MTM4NzIsImFzc2V0X2FnZV9kYXlzIjo0NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=482f5792b9a50633&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80ODQ1N0IyQkQ1RkRCQzAzODg5QkY4NjM5OTlCMjVCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCNEUwNzY0REY4NTcwRDg3NTBDRUZCQzMzQkYxQzgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgiK3flungBBUCKAJDMywXQDiAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&_nc_zt=28&oh=00_AQI8ayN-4vab2s7jF8c3Vvr31lDaza_8qaFdnqd-qDIk-w&oe=6ABE481D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2120693672128387"
+      },
+      {
+        "id": "1086958746964415",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Tanahiyot",
+        "body": "יש רגע כזה בכל שנה שבו מרגישים שהעונה מתחלפת.\nהימים מתחממים, פסח מתקרב,\nופתאום מתחילים לחשוב מה באמת נלבש בקיץ הקרוב.\nואז מגיעה השאלה הקבועה:\nאיזה סנדלים קונים הפעם?\nכאלה שיהיו גם יפים, גם נוחים, וגם איכותיים מספיק כדי ללוות אתכם באמת.\nבדיוק בשביל זה בחרנו דגמים מעור אמיתי,\nעם משלוח חינם, אחריות ל-3 חודשים, החזרים קלים אם צריך,\nוארגונית מתנה בשווי 35₪ על כל מוצר.\nועכשיו? מוצר שני ב-50% הנחה.",
+        "link_description": "מוצר שני ב-50%",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1773817200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/655398984_2399725247163290_2653965020880908840_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=btv5eRLxtyQQ7kNvwGGeW5y&_nc_oc=Adq8MBVWN2rSr8qpZwaYoWzC2DrpjVzoZ_RLbwBOCD7VTRterJrxaS9yZoqRTJn6ZTo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLKc3zwRxa622Sss8p8qAJsBF0OSqaCLjvdIvripS87Hw&oe=6ABE3C73",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653712449_975925651616909_906777635812702801_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eEsl8IauduMQ7kNvwHz5NuP&_nc_oc=Adp1uTbnEKNFKo_8UFVJEY3eO9smPWKphyxf0mhzKNnhgAS2gKb2tMHJjf908R4v5P4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLH_pz4ZfIad5GjBbgQX6PmtWE6QGKa52_Fc41EJCmzow&oe=6ABE2C06",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653710111_895518123356476_783717320980190355_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JkHQjo-3pbEQ7kNvwEJ2g30&_nc_oc=AdrDY2A0WFGJJEBgKwJc67h2YmvNf5h1BTSG26OBHsGNVNBCw59AGFkl9TM063KQioM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQJfBTnnSfEXZJU8G5sTfwCwAhqwU6wo0Y2-fpy-S9Ai7A&oe=6ABE5A25",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/654808651_950576224585261_6717031276804359049_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NEzcB4EuE5IQ7kNvwFxKuVu&_nc_oc=AdqmCUzjcl9ABpfpNaxBnHP4c_rzvfcdr644YbyuwT56aoaA-ynicqBzdUque7XVsnU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKrFWHEB6k6ulfYe2qzALhVrJzNzBaeMOOMcGzAWRInvw&oe=6ABE2AEC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653704924_812256888578226_2146003632373791643_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iBzMdtcUp-4Q7kNvwH4QxIw&_nc_oc=AdoYnqMESWeQ9WWKkkoFeUGKSTUMkjPjBCP8WjKrJuvvSh8e4dkqW_a1mfF4vnORjz8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKs9iSFqE_PGwdQFQEK85MOfrEvfR4LhGH4CvxG1XY8Rw&oe=6ABE32FC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653705884_1224072713228089_778992247400111744_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CA6ZmsFHZeYQ7kNvwEvJ7Gl&_nc_oc=Adpe4L_AcL3fLOwFX_xoHNDNfGvEvznSemVRYjG1ZiJoDg3_erSuRjmNZgK_AKWlGa0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQJAsnow8E0dj0mjiIgs3V2Z7U3HMHKn8yE1DyIELAPtkQ&oe=6ABE410F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1086958746964415"
+      },
+      {
+        "id": "4518917558364368",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "עור איטלקי אמיתי בעבודת יד",
+        "body": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "link_description": "",
+        "landing_url": "https://tanahiyot.com/he/shop/yair-barefoot/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786863600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774284045_1068717355692630_4069720068550008807_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tHKEkj7U1JsQ7kNvwF7KNoD&_nc_oc=Adq7RDcLtlvVpnG7r2e6C09NGkYGmc6IifEeuB1e4gNi-sn4HZ2Y9rQySz2jYRBf-N8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLP5e8oCqw0tu0l7UWk_CfBIpuEMHbnJsP-cOmAKDiTdQ&oe=6ABE5EEF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOWkJCWqvpFZ0d7BlK3-R4mQi0z1qgn7YsbwHhi_dZgoQPrVZ7al0VGx3VfQOFBprLggWWvQuukHzA73NlutciPT8mZZSOGIyv_BKyQmhhWng.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=2UUhnztP5qQQ7kNvwGGkjNk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMzQxMTIyODc0NTQyMTgsImFzc2V0X2FnZV9kYXlzIjo0NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d6d45f17f851cfde&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjQ1M0Y0NjA3NjI0Njk1ODRCMjcyMDNDRTkwODQ5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I4NEJENUIzRUZBQTdCMTc3NDIzMjhFMUUyRTkzNjkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU0O_M173KBxUCKAJDMywXQEb7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6vcAR6YwoAC4S5muhZNHsw949r90vWZXIgrEfzjO0vw&oe=6ABE45DC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4518917558364368"
+      },
+      {
+        "id": "2005778950077573",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "גלו את Tanahiyot",
+        "body": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799334036_1402912525350714_6121313185237407766_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T7Jibdt2PCYQ7kNvwG0CzHl&_nc_oc=Adq8OTXjRX7-a7FmtLQFESIj796IoEDeptnc6DEROFqFrRosOlVLRaytnLb0Vy3oLq8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKc6Ypt92_rWOZ7gge7CsNu4Mfwx0xIm9-ud-H5vCs4rw&oe=6ABE3B2D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2005778950077573"
+      },
+      {
+        "id": "1561124828754057",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/61580899426454/",
+        "page_like_count": 12,
+        "page_categories": [
+          "Digital Creator"
+        ],
+        "ad_creative_link_title": "עור איטלקי אמיתי בעבודת יד",
+        "body": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "link_description": "",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/770732704_1610420247084327_5011901930125691471_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rCyQS6HvvbYQ7kNvwGbCKjV&_nc_oc=Adrig6e-oiUAWn2gCZRLXF_6dD_Tc-dOoI7rF1GYMg7MFL0GRsMlZKHILliZxU9O1P8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLn1k7HTK1bgHqZfSROqRNnDxnLSIlSbILhflhAxSIVgA&oe=6ABE501C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNOvDkJcmfkttOCBFIEDQp5WI9faO38ADVuFJHZx7BUj40RUvijiRcnjZAGXN7JVJgg7tfvHQq3IF6XG8Dbq0fD65vfW7yZeL4gG3vLdiY97w.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Zgjy21TdiywQ7kNvwFwHdT6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3ODMyMDg4MDYxNzEzNDUsImFzc2V0X2FnZV9kYXlzIjo0NiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e53ec065f1450f33&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzQyNTgyMUI0MTNCRDIxOTVDQzBERDc4OUIwNjk4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk3NDE2ODg0NkY0MkY4QjNBODc1OENEQTZERkQxNDhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaii573tPSqBhUCKAJDMywXQEAiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&_nc_zt=28&oh=00_AQJdy45do5pVb1zXkvFffUbJCVtdmhl6Tft3KqeXDZCRAw&oe=6ABE2ECC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1561124828754057"
+      },
+      {
+        "id": "1093146969874788",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "גלו את Tanahiyot",
+        "body": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818980090_2159366265001137_5821367363538505644_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PXsTeogl_gUQ7kNvwGVjB1K&_nc_oc=AdoRmejfJR5pQ8XMDJU3lBaK0_Dxp48Ud-nlQCi5fSgTl4HqPaVTnK_tCNeUIRkunug&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLLbRXeJJBwqAXFChexD6CB73iWJckbGD-Sz3M4dSJSYQ&oe=6ABE3976"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1093146969874788"
+      },
+      {
+        "id": "1269463218493315",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "Tanahiyot",
+        "body": "יש רגע כזה בכל שנה שבו מרגישים שהעונה מתחלפת.\nהימים מתחממים, פסח מתקרב,\nופתאום מתחילים לחשוב מה באמת נלבש בקיץ הקרוב.\nואז מגיעה השאלה הקבועה:\nאיזה סנדלים קונים הפעם?\nכאלה שיהיו גם יפים, גם נוחים, וגם איכותיים מספיק כדי ללוות אתכם באמת.\nבדיוק בשביל זה בחרנו דגמים מעור אמיתי,\nעם משלוח חינם, אחריות ל-3 חודשים, החזרים קלים אם צריך,\nוארגונית מתנה בשווי 35₪ על כל מוצר.\nועכשיו? מוצר שני ב-50% הנחה.",
+        "link_description": "מוצר שני ב-50%",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "CAROUSEL",
+        "ad_delivery_start_time": 1773817200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/652619636_1875306939790527_6385884546391593851_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vwZ7wd4uu2gQ7kNvwFpeUQG&_nc_oc=AdorSn4Zpb2AQtw8YhEcj930Osa_p2jzEtYE3qgbt1fSZiCXLX9p2yHzkB2XuzAuKCY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKf9eStj9p2CSIoUzO0r5n5cuolZFMfhHDqRbxlUyV4Ug&oe=6ABE36A1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/653074049_1426771431993320_8994973675781307274_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xbHU6T7ZEgcQ7kNvwElQ_r1&_nc_oc=AdrZ0j4hLNgHesqiOom7nTcjSigQjJMM3E5X2JIV095wdVwInr3HrP6m8fMDwVLqBxg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLcfKlAKNLf0fefYOU4yftsk_l15CZ7IA3EvyUt9fdJww&oe=6ABE4F4E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/652677987_1266042924852834_473643193256546336_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CC5hJ9GIGrgQ7kNvwGOi9oU&_nc_oc=AdoXYe2cVUVOh9LIRQfrEvgQGRFL_9-UZHHVPirKD0Qi7qFZa8a0wFG-WU6BLapO7Ug&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQJ_aoIQ9k3iexARZ_eNfMC5fpxzYUzdQ_dnjCNcl-W8QQ&oe=6ABE2DD6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/651877552_899908912883479_228769633600927296_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PJYvifo8GQgQ7kNvwFFdPr-&_nc_oc=AdqMWPO6lpsyAy6CXvB2V6GJ1mLpNmCYjK8gLU3dABJGAZ4GIhX93TQkKU2uaG1iKNM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLlTMmH22zsOBRAQBj816i4Re9oNbj6YuW3Ld_IAlPf7A&oe=6ABE6271",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653938782_1466393695017190_1692655717778620633_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q6eWxIAV3v4Q7kNvwEabpbt&_nc_oc=Ado0eS5xXCrgrvBi-dQk5bxmTNyiYi2tEvAxptmRxuepU3AGXRd1ZpZMXfaJvRXDtPA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQKwyzwHCCLE9v8eLw6iYE1emjb5XctzUr0M3z7Injc_Lg&oe=6ABE2E82",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653444067_1600209764602579_9176562237117168935_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gjaI_JosfqcQ7kNvwFuxOzr&_nc_oc=AdrvKcMVqO6-Iq59a97P0jYmcYG40uzmlRBrF07NRIvzqtknkuEgQtZxQ4IUYv77RUA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLjlVq6OcUnucyptOxXy2-OndMh67YN8aZc0kOR8T1Bjw&oe=6ABE4B1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1269463218493315"
+      },
+      {
+        "id": "2293231451215228",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "גלו את Tanahiyot",
+        "body": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/818384429_2234976357085100_1713368292865770313_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=01u1g-yFTSYQ7kNvwEPrXaa&_nc_oc=AdqLDNDeXrAje6gMCx8ZEa-ECRBpMs6DNYmALcvjXi4VkcdWHh3UsrWFsvyE7NYVZPQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLIQnrZlHsrYJDUKPPEdG4GwH57xUVHG1wKcPu89FHWUQ&oe=6ABE3258"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2293231451215228"
+      },
+      {
+        "id": "1898005184169929",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מוצר שני ב־50% הנחה על סנדלים 🎁",
+        "body": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "link_description": "כל המוצרים מתאימים לגברים ונשים כאחד. החלוקה לקטגוריות היא בגדר המלצה על בלבד.",
+        "landing_url": "https://tanahiyot.com/he/store/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1779346800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/703811972_2314476539386267_4982707885797433011_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S3AoRi6HoUYQ7kNvwGqKZb8&_nc_oc=AdoEi55GQ9Exp7LdE295WQ3rY0ltgeK-5I5ypdI5NJq0D1BME-Su3F-eb0YuHg53Gtk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQK8v2qIGeTwivgz6vb-buSA8UTK9o7WKSeJL9xEeQiQ-w&oe=6ABE4291"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1898005184169929"
+      },
+      {
+        "id": "1357965479731494",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הסנדל היחיד שלא צריך זוג גיבוי",
+        "body": "כי הוא פשוט לא נקרע.\nרוב הסנדלים מחזיקים קיץ ואז הרצועה נתלשת לך באמצע.\nתנכיות נשאר איתך שנים, לא עונה.\nעור איכותי 100% ותפירה בעבודת יד, לא הדבקה שנפתחת.\nקונה אחד, וגמרת.",
+        "link_description": "מהסמטאות של אירופה ועד לשבילים של המדבר – תנכיות מעוצבות לאלו שלא מפסיקות לזוז. שילבנו את העוצמה של המקור עם שיק מודרני, כדי שתוכלי ליהנות מנוחות מקסימלית בלי לוותר ...",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/728555732_1876937307044979_1960152807971796054_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IRADuDkTdeIQ7kNvwG1p78I&_nc_oc=Adp18dTN71P0vxpLJfIZ8walj4TgIPfZozfkfjzjfewAWWfjYd3sGHd3VNS2PJnVAq8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQJzeORjFiWWGLetlvT-CIUyUVTsoSL6WzFStn1AzluhFw&oe=6ABE5A12"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1357965479731494"
+      },
+      {
+        "id": "1002666125988768",
+        "page_id": "105635292556658",
+        "page_name": "Tanahiyot",
+        "page_url": "https://www.facebook.com/Tanahiyot/",
+        "page_like_count": 1110,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הסנדל הישראלי שחזר",
+        "body": "✅ עור איטלקי אמיתי - לא סינטטי\n✅ עבודת יד מדויקת\n✅ 3 חודשי אחריות יצרן\n✅ משלוח חינם לכל הארץ\n✅ החזרים קלים ונוחים\n✅ המוצר השני ב-50%\n\nקנה את שלך עכשיו!",
+        "link_description": "מהסמטאות של אירופה ועד לשבילים של המדבר – תנכיות מעוצבות לאלו שלא מפסיקות לזוז. שילבנו את העוצמה של המקור עם שיק מודרני, כדי שתוכלי ליהנות מנוחות מקסימלית בלי לוותר ...",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725112551_1310641574109952_4489222605832263703_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QEdxFi4j8u4Q7kNvwGK61Ls&_nc_oc=AdrkLc0H4SAOGf6QyZST5og5_ZdaAaVqJhcFKxaWXHKRvG0FGF3_dZL3K1UzC6aXJPI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ZxeEIm3E8rjEuvMP-YW5OA&_nc_ss=70289&oh=00_AQLXMMvAEhEQWDdO3_mWp2KyUAq-wV5mHRIV-KejTQbCrg&oe=6ABE5900"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1002666125988768"
+      },
+      {
+        "id": "3098395847022802",
+        "body": "סנדל תנכי איכותי שמחזיק שנים, לא מתנה שנזרקת אחרי קיץ.\nעור איכותי 100% שמתרכך לרגל שלו ונהיה שלו.\nהולך איתו מהשביל למרפסת ובחזרה, בלי להישבר.\nתנכיות, המתנה שהיא באמת צריך.\nמשלוח מהיר לפני החגים.",
+        "landing_url": "https://tanahiyot.com/he/product-category/classic-sandals/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "3098395847022802",
+        "text": "סנדל תנכי איכותי שמחזיק שנים, לא מתנה שנזרקת אחרי קיץ.\nעור איכותי 100% שמתרכך לרגל שלו ונהיה שלו.\nהולך איתו מהשביל למרפסת ובחזרה, בלי להישבר.\nתנכיות, המתנה שהיא באמת צריך.\nמשלוח מהיר לפני החגים.",
+        "links": [
+          "https://tanahiyot.com/he/product-category/classic-sandals/"
+        ]
+      },
+      {
+        "ad_id": "750344141345864",
+        "text": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "978728068062462",
+        "text": "סנדלים טובים אמורים לתת יותר מלוק יפה.\nהם צריכים להרגיש איכותיים, להיראות נכון,\nולבוא עם ראש שקט בקנייה.\nבדיוק בשביל זה יש תנכיות —\nעכשיו עם מבצע השני ב-50% הנחה",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "1264261239127338",
+        "text": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "2120693672128387",
+        "text": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "links": [
+          "https://tanahiyot.com/he/product-category/classic-sandals/"
+        ]
+      },
+      {
+        "ad_id": "1086958746964415",
+        "text": "יש רגע כזה בכל שנה שבו מרגישים שהעונה מתחלפת.\nהימים מתחממים, פסח מתקרב,\nופתאום מתחילים לחשוב מה באמת נלבש בקיץ הקרוב.\nואז מגיעה השאלה הקבועה:\nאיזה סנדלים קונים הפעם?\nכאלה שיהיו גם יפים, גם נוחים, וגם איכותיים מספיק כדי ללוות אתכם באמת.\nבדיוק בשביל זה בחרנו דגמים מעור אמיתי,\nעם משלוח חינם, אחריות ל-3 חודשים, החזרים קלים אם צריך,\nוארגונית מתנה בשווי 35₪ על כל מוצר.\nועכשיו? מוצר שני ב-50% הנחה.",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "4518917558364368",
+        "text": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "links": [
+          "https://tanahiyot.com/he/shop/yair-barefoot/"
+        ]
+      },
+      {
+        "ad_id": "2005778950077573",
+        "text": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "1561124828754057",
+        "text": "הסנדלים הקלאסיות שלנו עשויות מעור איטלקי משובח בעבודת יד מדויקת. כל תפר ורצועה נבנו להחזיק שנים, לא עונה אחת.\n\nאיכות שמרגישים כבר בלבישה הראשונה - ורק משתבחת עם הזמן. זו ההשקעה שמלווה אותך כל קיץ, כל שנה.\n\nקנה עכשיו עם 3 חודשי אחריות מלאה.",
+        "links": [
+          "https://tanahiyot.com/he/product-category/classic-sandals/"
+        ]
+      },
+      {
+        "ad_id": "1093146969874788",
+        "text": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "1269463218493315",
+        "text": "יש רגע כזה בכל שנה שבו מרגישים שהעונה מתחלפת.\nהימים מתחממים, פסח מתקרב,\nופתאום מתחילים לחשוב מה באמת נלבש בקיץ הקרוב.\nואז מגיעה השאלה הקבועה:\nאיזה סנדלים קונים הפעם?\nכאלה שיהיו גם יפים, גם נוחים, וגם איכותיים מספיק כדי ללוות אתכם באמת.\nבדיוק בשביל זה בחרנו דגמים מעור אמיתי,\nעם משלוח חינם, אחריות ל-3 חודשים, החזרים קלים אם צריך,\nוארגונית מתנה בשווי 35₪ על כל מוצר.\nועכשיו? מוצר שני ב-50% הנחה.",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "2293231451215228",
+        "text": "יש הרבה סנדלים בחוץ 👣\nאז למה לבחור תנכיות? 🤎\nכי אצלנו זה לא רק איך הם נראים.\n🤎 100% עור אמיתי\n👐 עבודת יד\n🇮🇱 מותג ישראלי\n📦 משלוח חינם\n🎁 ארגונית מתנה בשווי 35₪\nוכדי להוריד את החשש מקנייה אונליין — יש סרגל מידות באתר 📏\nואם המידה לא בדיוק מתאימה? אפשר להחליף בקלות 🙌🏼\nועכשיו גם המוצר השני ב־50% הנחה 🔥",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "1898005184169929",
+        "text": "יש את הרגע הזה בשנה שבו פתאום נהיה חמים…\nואתם יודעים שזהו — הגיע הזמן להוציא את הסנדלים 👡☀️\nאבל אם כבר מתחדשים, אז לבחור נכון.\nסנדלי עור איכותיים שמתאימים ליום־יום, לטיול, ליציאה, ולכל הקיץ הישראלי 🇮🇱\nהם נראים טוב, מרגישים נכון, ומגיעים עם יתרונות שעושים את הקנייה קלה יותר:\nמשלוח חינם 🚚\nאחריות ל־3 חודשים ✅\nהחלפות קלות אם צריך 🔁\nומוצר שני ב־50% הנחה + ארגונית מתנה לכל מוצר 🎁\nככה נכנסים לעונה חכם וגם בסטייל.",
+        "links": [
+          "https://tanahiyot.com/he/store/"
+        ]
+      },
+      {
+        "ad_id": "1357965479731494",
+        "text": "כי הוא פשוט לא נקרע.\nרוב הסנדלים מחזיקים קיץ ואז הרצועה נתלשת לך באמצע.\nתנכיות נשאר איתך שנים, לא עונה.\nעור איכותי 100% ותפירה בעבודת יד, לא הדבקה שנפתחת.\nקונה אחד, וגמרת.",
+        "links": [
+          "https://tanahiyot.com/he/product-category/classic-sandals/"
+        ]
+      },
+      {
+        "ad_id": "1002666125988768",
+        "text": "✅ עור איטלקי אמיתי - לא סינטטי\n✅ עבודת יד מדויקת\n✅ 3 חודשי אחריות יצרן\n✅ משלוח חינם לכל הארץ\n✅ החזרים קלים ונוחים\n✅ המוצר השני ב-50%\n\nקנה את שלך עכשיו!",
+        "links": [
+          "https://tanahiyot.com/he/product-category/classic-sandals/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://tanahiyot.com/he/product-category/classic-sandals/",
+      "https://tanahiyot.com/he/store/",
+      "https://tanahiyot.com/he/shop/yair-barefoot/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "filtered": "2026-09-27T01:41:40",
+    "qualified": "2026-09-27T01:46:52"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://tanahiyot.com/",
+      "https://tanahiyot.com/he/product-category/classic-sandals/",
+      "https://tanahiyot.com/he/store/",
+      "https://tanahiyot.com/contact-us/",
+      "https://tanahiyot.com/about-us/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

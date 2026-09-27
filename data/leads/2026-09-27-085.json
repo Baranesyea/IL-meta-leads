@@ -1,0 +1,102 @@
+{
+  "lead_id": "2026-09-27-085",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/systemakvile/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "182620055830894",
+    "page_name": "System Akvile",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "1742223390350111",
+        "link_title": "",
+        "body": "Big pores? Inflamed pimples? Rough skin? 😩 \n\n#pimsy #pimple #pimples #skincareroutine #skincare",
+        "landing_url": "",
+        "cta_type": "",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763129212_1093696016548871_8791761804297793512_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hqW8cxWelgkQ7kNvwEqDi8s&_nc_oc=Adp_k_ZsFeyyq21O3PuTKXEQAjloxAIJJHUwG0A-swZH8ijrxefS5MiB0uc6BIHRTrs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLA8CZ2bpUpoQEMJfO7Btvc9phwoce-Jd_qBz6pybsvyQ&oe=6ABE56D3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNF9LaKgK-2sYU7qIAU8VQdXmbDQ7PlfyH6ZoQWUpTT07eKSrZxwdIt_HVM_vq8QB1TWsHIbOIL44yIuGKqX-Xg4hH_q4rbXValBtFxgQ.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=I9JnemSJ-u4Q7kNvwGht3vi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyNjM4OTM5MDA5ODMzODk4LCJhc3NldF9hZ2VfZGF5cyI6OTksInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&_nc_zt=28&oh=00_AQKtdplGFx-rEpctxyIvlDq6Hn0uWSVOlxZeyhimmzDgWQ&oe=6ABE5CA1"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1785740400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1742223390350111"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [],
+      "page_like_count": 228,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1742223390350111"
+    ],
+    "currencies": [],
+    "cta_types": [],
+    "page_like_count": 228,
+    "page_categories": [
+      "Health & Beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

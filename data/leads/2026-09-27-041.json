@@ -1,0 +1,533 @@
+{
+  "lead_id": "2026-09-27-041",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://masabemilim.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "Hagit@www.masabemilim.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/masabemilim/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/hagit_elmakiyes_writing/",
+      "source": "https://www.masabemilim.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "567331849981735",
+    "page_name": "מסע במילים",
+    "active_ads_count": 9,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "3516394178493617",
+        "link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475096080_933609745567003_1047428070787331260_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rce7lPWHs9wQ7kNvwE8cz82&_nc_oc=AdquwJN1PdMzBY1Wk9mjAXEuQRyxLY3lEGM4sxO2Dj6Dq6kXGQw6mcah4Z1ee2TQrRQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQJDalx2wQHKYIl79GXBywxzHG-9-L1WAJnh7Edcpn8gNA&oe=6ABE3830",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0S9MxRG4xyMliZYt5GuMOP-i7LRljrc6PcB4ELWr5d93zlxaNRkApT32DsYjAJ8iBHK_hGlEvmPfVmSB7GR8VHPPE9EEB5RPYKLHssKS0zA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SUoFlkcGphkQ7kNvwGeD_Qa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTU0NjA5ODQ1MTc1MTEsImFzc2V0X2FnZV9kYXlzIjo2MTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d4a393bae338216a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDREOUQ4RDIxOTE2Q0IwMTY0M0U4MDMxOTQzMENCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLSl9SeHpUSFIyU0syVURBQk1sM2xqVE4wSnFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOzrPb6ICDBhUCKAJDMywXQEEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&_nc_zt=28&oh=00_AQIiAnkezf1_59jw_JLJ3vTIqEbZylIJBGQP8nk_Bzx4_Q&oe=6ABE35E4"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1737792000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3516394178493617"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "לרכישה",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 9,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 11491,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "3516394178493617"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 11491,
+    "page_categories": [
+      "Local business"
+    ],
+    "page_ads": [
+      {
+        "id": "3516394178493617",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1737792000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/475096080_933609745567003_1047428070787331260_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rce7lPWHs9wQ7kNvwHzZktj&_nc_oc=Adr-e8GxJwjmMBMllEEs_bAKrdRg9--ZbZJ4YkJ4_a69mhdkO2R6NXaQ43Hnm4e2XhQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQKp-qYJIpd0Q17vCjo5ZbekWq4j_u9mfE2EhV2JEQk59A&oe=6ABE3830",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0S9MxRG4xyMliZYt5GuMOP-i7LRljrc6PcB4ELWr5d93zlxaNRkApT32DsYjAJ8iBHK_hGlEvmPfVmSB7GR8VHPPE9EEB5RPYKLHssKS0zA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SUoFlkcGphkQ7kNvwHfkqG7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTU0NjA5ODQ1MTc1MTEsImFzc2V0X2FnZV9kYXlzIjo2MTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d4a393bae338216a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DRDREOUQ4RDIxOTE2Q0IwMTY0M0U4MDMxOTQzMENCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLSl9SeHpUSFIyU0syVURBQk1sM2xqVE4wSnFidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOzrPb6ICDBhUCKAJDMywXQEEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQKzRnSfu-DpWapOxuc2H5WcnJIQH-SZVEJz6FpfUC8YSg&oe=6ABE35E4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3516394178493617"
+      },
+      {
+        "id": "8637892862983932",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1738137600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/475452221_541630221557130_1479005885681967688_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4IPLOfjIXukQ7kNvwFSo_BI&_nc_oc=Ado0yHe2oNx_BGwZ6XR70Cg7y7uFNW7pBhZoEWlDWvypQGXRSoACZ0j2V2yb2Vhbtfo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQJ1D5M1-4foqhOqXGmaPBZrHd-pC_DkTgVZ9l2L-Jxh9A&oe=6ABE37C3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO518fVe4Si0SUlNBLFk-nbkEWzTFzgBXHzD7rewPjJcNumdeOIb9VrENkXkaDrG3FrmzQeFKzZVaHG8C45WqTkTtrnaS6KUeXQDQm6dS4L3A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Q-UsNISikgAQ7kNvwFfpzPv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU3NzAyNDIwNTMzNTIwOSwiYXNzZXRfYWdlX2RheXMiOjYwNSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=45e4c03e921b3615&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDRFMzA2RENCMTQ2NUI1MjgwOEUyQzUzNDg3RTA4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPS1dVUnd1REdnMEtoc0dBT2dJU09uQ1hTa1lidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSqsmsnbOGAhUCKAJDMywXQE0ul41P3zsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_t9uvDNRh8R8dYvicoY02VeF9NqRlp7oemU9n01mErQ&oe=6ABE5519"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=8637892862983932"
+      },
+      {
+        "id": "688988510157986",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758006000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/547907156_24385565551071388_1434405175767150941_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W_pGLJbGcuYQ7kNvwHWKJBP&_nc_oc=AdrchW7QXh09ciqYCs90gqtXQpYKdX2QJGhieAwniD6KYmLvcKWLZ-ADo69axadoDM4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQKCOZcd-u5vfl-PRBYTiNowA2rxEMaK9WD9oQeAV4XwLw&oe=6ABE30FC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNK1yWlwB4fUTAcF1z0KCtAhOvT-Cz63LB2bz5B6UKZifYRS7NOT4pkDM-Sj-rk0kE-gUjU7n-01_Zb5McVueUzTUzh-DzfeVlJJE5E3tIeyQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=MPK0JUYEzIkQ7kNvwGHMuqp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY1MDAyOTI1MTUxNDA5NiwiYXNzZXRfYWdlX2RheXMiOjM3NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=79ea819b50a1bd3c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MzQzRjBEMjI3Q0I3QkJDOUM2OThGOEM5MjY2RUVBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U1NDVCOUM2Q0Q0RkZBNzE0MjIwMjM3QjNCNzQyMEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgu4qq18ynAhUCKAJDMywXQEFVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQKQdxJJOZhuIpr6Y_m9Y_pj5ybHf0l1o7vrpccdCQuH2w&oe=6ABE4A5D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=688988510157986"
+      },
+      {
+        "id": "1629040732151851",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "קופסת כתיבה – מסע במילים 365 | לרכישה >>",
+        "body": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!\nקופסת הכתיבה של מסע במילים תאפשר לך לכתוב את עצמך בשפע דרכים – כל יום מחדש!\n\nבואי לפתוח את היום שלך עם תרגיל כתיבה לצד הקפה של הבוקר. \n\nהקופסה כוללת 10 מוצרי מסע במילים + משלוח עד הבית חינם!\n\nמדריך כתיבה \"מסע במילים\" המכיל 365 תרגילי כתיבה, מחברת \"הרשימות שלי\" עם 250 תרגילי רשימות, מחברת \"רשימאמי\" לרשימות קטנות, יומן אישי \"יומיומאני\", מחברת \"היי נהר\" גדולה ומחברת \"היי נהר\" קטנה עם ציטוטי השראה לכתיבה. \nוגם עט, עיפרון, מחק ומחדד עם כיתובים. \n\nזו העת לקחת עט, מחברת או יומן ולהתחיל לכתוב וליצור אותך ואת החלומות שלך,\nכי המסע שלך מתחיל במילים!\n\nלרכישה >>\nניתן לשלוח קופסת כתיבה במתנה לאנשים אהובים עם תוספת ברכה 😊",
+        "link_description": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!",
+        "landing_url": "https://www.masabemilim.co.il/shop/complete-writing-box",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810868472_1079408461497317_6372760922272256494_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=htuRpCItuyAQ7kNvwGoW8W5&_nc_oc=AdrWHKfFiP90grWkcSWYgnev13NeIwAM06KwhbpMBYNuIpoBgZEECTYXzqyzdfORyCc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQIxDNOquj0vt50d2lHKdSKnfNC2WeTG0n0kahkzoKxN1w&oe=6ABE53A0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuEZdwb5i2XkNiCyZXmKi39yXzt7hL1w9dA1gcaFSYJ0vJ25nWinc_UlmjZ3UDcfMxOb3or-MDW4Bp2n9EGz298RrZRZdgiY0lJ-OQC77PPg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=3BNniXNE7AYQ7kNvwE3pV7c&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NzEyNTQzMDczNDgwNzAsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b28b041fb90bd277&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTQyMkY3QkU4QjAxREIyREQyMUMwRTJDNUZCNDNBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdFNEQ3MEYyRTE2MjNEQUVGMDBBQTMxRTgyRDIyMjhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbM-d78yLylBhUCKAJDMywXQEQIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQJx2zAFCjTaMELEecNt6cAtcwUjxHF1nXqSsdskoJ-Y-g&oe=6ABE428D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1629040732151851"
+      },
+      {
+        "id": "1631771005006432",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/811137970_1613415143767538_830054675857722627_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mrISKcN3ZcoQ7kNvwFQxu61&_nc_oc=Adp0r6KVYbmpa27hEKjpuZ1imLeBjdRb-bTMal8vr7rBAB-XEIWWP3WO_tZDvCJhZUA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQIu8Phs71cLyS_mjDJpHnst-dbs6KK-SCfHuKyms6Y7uQ&oe=6ABE37A3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNfepY_b3IlpuNI-g4O1Hw0dJRK5JjV46qscy8ujExuR3opA-dXodBx1Hfz2EiUAPl97bBflGWlBemrcQau-HxbVKwIex7aN4rKgvQn45N52w.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=Isxsb3IFe5UQ7kNvwEi3Gcc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MzMxMTcwOTE4MjQ2MzAsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=648b124ba97c8444&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMzQ1MTI5Q0Q3MDQzNDlBMDg2MDZFMzU1MTE3QkY4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VDNENBMkI5QTBBQ0U3MDI2RTNBNTBGRDc3OEMyNjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsj5TC9tPmBRUCKAJDMywXQD0zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQJUitOj_D4WS0HzjyRGC4SmirjxSYDRrFJmxdB9hXNXQw&oe=6ABE462F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1631771005006432"
+      },
+      {
+        "id": "1239046651375081",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1777705200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688822954_2060654058182562_7409762892625334136_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IhAe2Hy5h28Q7kNvwEHK1bA&_nc_oc=AdrbR07gCtodu42lwnKkbqu4m2E_XieJgL9puajv7hqYHS-tWcU5QZS2u16b7v-pVrg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQJAGloA9DuU76lTnPv7vllOWkx8P17doT_kbC3ILnuADg&oe=6ABE5601",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPLWJcJOZW5TcJ4nQv2fIB2hHc09ipWqRDj4mpmTVhIOdkUftDPQPCtrjKkHG4NEoZn9lFjoIUIZPz0_u0Qh1qSOnkQ-7scd3pY45QUYbFuBA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ym96Jie6jI8Q7kNvwEqvdQz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTI5MjQ2NDM0Mjk0MzEsImFzc2V0X2FnZV9kYXlzIjoxNDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2aebfb6ab580f530&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NDQwRkU2NEQyNEMzMUIyNTcyRDY2MDQ3ODk0QjdBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YzNERBRDY0MTBDNzU0MjE0NTY4MjI1REQ3NDQ2OEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbusNSd7_LlBhUCKAJDMywXQEdmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQInftyeK6yMV-IkJhent9p6cRJRm8ufR9CIwhv7LpEquA&oe=6ABE3EDE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1239046651375081"
+      },
+      {
+        "id": "2169050443640621",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "קופסת כתיבה – מסע במילים 365 | לרכישה >>",
+        "body": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!\nקופסת הכתיבה של מסע במילים תאפשר לך לכתוב את עצמך בשפע דרכים – כל יום מחדש!\n\nבואי לפתוח את היום שלך עם תרגיל כתיבה לצד הקפה של הבוקר. \n\nהקופסה כוללת 10 מוצרי מסע במילים + משלוח עד הבית חינם!\n\nמדריך כתיבה \"מסע במילים\" המכיל 365 תרגילי כתיבה, מחברת \"הרשימות שלי\" עם 250 תרגילי רשימות, מחברת \"רשימאמי\" לרשימות קטנות, יומן אישי \"יומיומאני\", מחברת \"היי נהר\" גדולה ומחברת \"היי נהר\" קטנה עם ציטוטי השראה לכתיבה. \nוגם עט, עיפרון, מחק ומחדד עם כיתובים. \n\nזו העת לקחת עט, מחברת או יומן ולהתחיל לכתוב וליצור אותך ואת החלומות שלך,\nכי המסע שלך מתחיל במילים!\n\nלרכישה >>\nניתן לשלוח קופסת כתיבה במתנה לאנשים אהובים עם תוספת ברכה 😊",
+        "link_description": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!",
+        "landing_url": "https://www.masabemilim.co.il/shop/complete-writing-box",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810051494_1097176602819830_4359755492642728362_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rdvFntsG2oMQ7kNvwEMg1qA&_nc_oc=AdqdzbBMM8sy1Njmxz7y-UOlDPyjtB5FqcTLclcutdgfaJQ4HY-3Juv9oSNAHGrEnPY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQLVm7DyJifvoXQRARViv4J9KlFkk_DTEppkm6iRIfeb7g&oe=6ABE49EC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQgp78G21E5oIxc9bWkDCF7aaF0C6LJDKZWM2E8ydscG_NWXFi8cl1Lwy0tIRWtlLJk2brWOfc1pFjwOnmM9J8ZO3jq1YhETZlBPLM6ScVQQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=spOeHapHs1oQ7kNvwEkOy9g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDI2Mjg4NDY5NTQ1NzksImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e4c4d51dacd3b5c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NjQ1RTU1NTU4ODRBMEU1MzlFM0Y4MjJGNjZBMDU5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NDY1OTE1NkRBQzBDRDEzQzIzRjVFOTM0RENEMUI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamoa_WrLqYBhUCKAJDMywXQEfMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQLatmu_Xy94Rcb271uL9qKiD_ow5-yLRUXtdvJiznL_FQ&oe=6ABE2D34"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2169050443640621"
+      },
+      {
+        "id": "28787916324228229",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811304430_4598697903790154_1151483472627672659_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_X1tqCru4sQQ7kNvwE4c0sW&_nc_oc=AdpAR1Fugl56pVdLSsE2KCPS1WjFEW12LKuPLYF70XfdjXIngzIgZNwp2yjP2OBLIOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQL7ewtYVdxkz1BoWN0gM2GnkH_v0OkZ0WCEl1vh8XJguQ&oe=6ABE4CC3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOxi3dKg5jYTk86LwmYZRJWaEg1F3TnIyp2SLs8yXyDaJZlFPYV1u8xMbbe14uZZj1QXyDjsDV-ZTRFEUv9G4U_1YTo13LmeHCEtZ9JZzfXIA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ag4W7YUc0hwQ7kNvwGx97D1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDMzODg0Mjg0NjMxMTMsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f1f3d773f227c07f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzQzQjFEMjMxNUFFRjUxMTc4QkYyODc3ODlBNUVBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNDhDQTQzNkM3N0UyNEJFMTZCRDJEM0MwMkFEOEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSsKHKmb3aAxUCKAJDMywXQD33S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQJrUStToZo5RdH6ZdUQ-9c2D7Xz6GV90YMCATKD95xTWQ&oe=6ABE362E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28787916324228229"
+      },
+      {
+        "id": "1074239778710652",
+        "page_id": "567331849981735",
+        "page_name": "מסע במילים",
+        "page_url": "https://www.facebook.com/masabemilim/",
+        "page_like_count": 11491,
+        "page_categories": [
+          "Local business"
+        ],
+        "ad_creative_link_title": "יומן מסע במילים 365 | לרכישה >>",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "link_description": "מדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800035090_3651680201665041_6784591438117418311_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QruEt7JGnx0Q7kNvwHQF7_c&_nc_oc=AdrDF9QFsYuF5ASQvLGJvQTt1qLaiP8XG6Kzhizr13p7eosbvQTo1QQQk-4B5q4nbiE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&oh=00_AQJ5slkI_p9IbAYi-CgwJ5Yzmu6O3jFQ90UxmHUC7tU83Q&oe=6ABE4518",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPKUvEtl06iaAwDwOFE5vfN4feSfPd7cuNbNI2WcGgSosr4bPsaPBAprj7UjEIA-_Fzk6NuyPHs2iFVXBeqyv34i_RYXTxsicRwatNpi9Lx-A.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=nB9gslkYtU8Q7kNvwHuQAor&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNzI4NTU1NzEwOTQ5NCwiYXNzZXRfYWdlX2RheXMiOjExLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=97cd58abd0f6b451&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QjQyNTU3RkI2NjVEMjExMUFBQkMyNzcwNUU4NDI4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NERGNjY0ODg2MDhFMjBGQjMxRDYzODUxMUFFMzg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsi5PcrZr4AhUCKAJDMywXQEJu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=p55UnAtGNg8xSGUx4wtJFg&_nc_ss=70289&_nc_zt=28&oh=00_AQIxQDcMfNAy2yplrSKobjgSla2wjokDky0YKjbFlG4qkQ&oe=6ABE539F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1074239778710652"
+      },
+      {
+        "id": "3516394178493617",
+        "body": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "landing_url": "https://www.masabemilim.co.il/shop/writing_journal_365"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "3516394178493617",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "8637892862983932",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "688988510157986",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "1629040732151851",
+        "text": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!\nקופסת הכתיבה של מסע במילים תאפשר לך לכתוב את עצמך בשפע דרכים – כל יום מחדש!\n\nבואי לפתוח את היום שלך עם תרגיל כתיבה לצד הקפה של הבוקר. \n\nהקופסה כוללת 10 מוצרי מסע במילים + משלוח עד הבית חינם!\n\nמדריך כתיבה \"מסע במילים\" המכיל 365 תרגילי כתיבה, מחברת \"הרשימות שלי\" עם 250 תרגילי רשימות, מחברת \"רשימאמי\" לרשימות קטנות, יומן אישי \"יומיומאני\", מחברת \"היי נהר\" גדולה ומחברת \"היי נהר\" קטנה עם ציטוטי השראה לכתיבה. \nוגם עט, עיפרון, מחק ומחדד עם כיתובים. \n\nזו העת לקחת עט, מחברת או יומן ולהתחיל לכתוב וליצור אותך ואת החלומות שלך,\nכי המסע שלך מתחיל במילים!\n\nלרכישה >>\nניתן לשלוח קופסת כתיבה במתנה לאנשים אהובים עם תוספת ברכה 😊",
+        "links": [
+          "https://www.masabemilim.co.il/shop/complete-writing-box"
+        ]
+      },
+      {
+        "ad_id": "1631771005006432",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "1239046651375081",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "2169050443640621",
+        "text": "ארזנו לך בקופסת כתיבה כל מה שאת צריכה כדי לכתוב אותך בשנה החדשה!\nקופסת הכתיבה של מסע במילים תאפשר לך לכתוב את עצמך בשפע דרכים – כל יום מחדש!\n\nבואי לפתוח את היום שלך עם תרגיל כתיבה לצד הקפה של הבוקר. \n\nהקופסה כוללת 10 מוצרי מסע במילים + משלוח עד הבית חינם!\n\nמדריך כתיבה \"מסע במילים\" המכיל 365 תרגילי כתיבה, מחברת \"הרשימות שלי\" עם 250 תרגילי רשימות, מחברת \"רשימאמי\" לרשימות קטנות, יומן אישי \"יומיומאני\", מחברת \"היי נהר\" גדולה ומחברת \"היי נהר\" קטנה עם ציטוטי השראה לכתיבה. \nוגם עט, עיפרון, מחק ומחדד עם כיתובים. \n\nזו העת לקחת עט, מחברת או יומן ולהתחיל לכתוב וליצור אותך ואת החלומות שלך,\nכי המסע שלך מתחיל במילים!\n\nלרכישה >>\nניתן לשלוח קופסת כתיבה במתנה לאנשים אהובים עם תוספת ברכה 😊",
+        "links": [
+          "https://www.masabemilim.co.il/shop/complete-writing-box"
+        ]
+      },
+      {
+        "ad_id": "28787916324228229",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "1074239778710652",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      },
+      {
+        "ad_id": "3516394178493617",
+        "text": "איך תרצי לפתוח את השנה שלך?   \nעכשיו זה זמן מושלם לצאת למסע במילים,  \nלכתוב את השנה שלך ואת עצמך - מחדש!\n \nמדריך כתיבה \"מסע במילים - 365 ימים\" הוא סדנת כתיבה אישית שנתית: \nמרחב המזמין אותך לכתוב כדי להתקרב לעצמך בתהליך עדין ומובנה, \nלהעז לכתוב אותך ואת החלומות שלך, \nלבטא רגשות, תחושות ומחשבות. \nלהפוך את המסע שלך ליצירה!\n\n4 שערים על פי 4 העונות. \n12 חודשים - בכל חודש נושא לכתיבה ברוח העונה. \n365 תרגילי כתיבה, תרגיל מיוחד לכל יום. \nלכתוב כדי לנקות, לכתוב כדי לשנות ולהתחדש. \nלכתוב כדי לאהוב, לכתוב את הטוב! \nלכתוב כדי לשמוח, לספר, לחלום, להיות... \n\nהמדריך בנוי בצורה מעגלית ומחזורית, כך שניתן להתחיל ולכתוב בו בכל יום בשנה. \n\nועכשיו במבצע מיוחד: \nברכישת מדריך כתיבה מסע במילים, תקבלי שפע מתנות: \n☀️עט בצבע כסף עם חריטה: \"יש דבר מה המבקש להיכתב מתוכי\" \n☀️עיפרון של מסע במילים \n☀️מחק עם כיתוב \"עת לכתוב ועת למחוק\"\n☀️משלוח עם שליח עד הבית חינם! \n\nלרכישה >>",
+        "links": [
+          "https://www.masabemilim.co.il/shop/writing_journal_365"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.masabemilim.co.il/shop/writing_journal_365",
+      "https://www.masabemilim.co.il/shop/complete-writing-box"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "filtered": "2026-09-27T01:35:11",
+    "unqualified": "2026-09-27T01:38:49"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.masabemilim.co.il/",
+      "https://www.masabemilim.co.il/shop/writing_journal_365",
+      "https://www.masabemilim.co.il/shop/complete-writing-box",
+      "https://www.masabemilim.co.il/about",
+      "https://www.masabemilim.co.il/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "mobile_not_labelled_whatsapp": {
+      "number_e164": "+972526226277",
+      "source": "https://www.masabemilim.co.il/"
+    },
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

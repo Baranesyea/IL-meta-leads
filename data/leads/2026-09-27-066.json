@@ -1,0 +1,104 @@
+{
+  "lead_id": "2026-09-27-066",
+  "status": "rejected",
+  "reject_reason": "lead-gen CTA only (BOOK_TRAVEL)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/hadassa.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1851320288423486",
+    "page_name": "הדסה ביימל רוקחות וטבע בע\"מ",
+    "active_ads_count": 1,
+    "search_keyword": "שוקולד",
+    "sample_ads": [
+      {
+        "ad_id": "1106150094465994",
+        "link_title": "הדסה ביימל רוקחות וטבע בע\"מ",
+        "body": "הדסה ביימל רוקחות וטבע בע\"מ היא החברה המובילה בארץ לפיתוח, ייצור ושיווק אבקות העשרה למגוון צרכים תזונתיים: העשרה בחלבון, העשרה לטבעונים, פתרונות הסמכה, פתרונות העשרה בקלוריות, פתרונות לחוסר תיאבון, פתרונות לקשיי בליעה ועוד.\nלצפייה במגוון הפתרונות ומוצרי החברה: https://bit.ly/2OC2SGE\nכל המוצרים בכשרות מהודרת",
+        "landing_url": "https://bit.ly/2OC2SGE",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/540442812_24571735795754753_7400351108870017766_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kq9oItOMo0IQ7kNvwFsesA5&_nc_oc=Adrg6Ng27ehBz2n7Umc5UGi47Q1k4CK4eAVxcuCoWx8HW6SMHvXoULshGd4oarEXbGg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQKVT1JwNm0N34htLTbwa8OdQrl-jNAOLK5ej52PO4e_tg&oe=6ABE3EDF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/540486312_1195631762325929_2693969834845672522_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfDNhQrGvYMQ7kNvwFJOX5B&_nc_oc=AdqrnKEJC5JSzseROvRUvyfd0SsOqzJjcmErEtv64pQYizwKXnEO7iv4lO5e3InyxVw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQKENshgVABuPylH_EMuLyVCcl9p-XU3RSqFkbM6gzC3sA&oe=6ABE5DCA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/540467264_1325860955997671_4004886059799930739_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W2vtEudw2Y4Q7kNvwFh77ZQ&_nc_oc=AdpN8PftATwny3SYWhhKHuNGUfpI0z2LJUP1HwjD5B0d7-CU8Y0VuIC5zQuiLrdfjOI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLt7eeWWTfGZoIe22vHGZxUTSyEZH-qY495r4zGjSoezA&oe=6ABE4CBA"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1756623600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1106150094465994"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 1125,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1106150094465994"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 1125,
+    "page_categories": [
+      "Vitamins/supplements"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:47:51",
+    "rejected": "2026-09-27T01:48:23"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-27-078",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/sheryldavismakeup/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "114551658280160",
+    "page_name": "Sheryl Davis",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "1172337828283311",
+        "link_title": "Buy 1 Get 1 Free ❤️",
+        "body": "Our Beauty Balm delivers sheer-to-light coverage with powerful skincare benefits. Hydrate, plump, and achieve a radiant glow—all in one effortless step. 💧✨",
+        "landing_url": "https://covebalm.com/blogs/adv1",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/558890426_1311213373821244_6052951396269109021_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ftm1C7HPClEQ7kNvwEwCFoG&_nc_oc=AdpIjbai8JqU1rRQfd7vt0gJWvrhvgqplSgA0-_D_K7-0mNa9pvGs-Ty86H6aZrRI04&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLbak1lLG5uUsRVOQQ2_VHWq95XVJbBf4vv736des9UIQ&oe=6ABE376C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcq88809f3RRWmdDJRJofH0y9Cm9sesGXgLLnFAHnHImJvoIZjOVLCaQ2Djhp99Tv8_cQczOzAJuak_3_wLdKfh88hx3o5OTr1blmKIkJkfA.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=wTGTT-FjH44Q7kNvwEcbM4v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0ODI0MzQ0MjcwNTM4MzY5LCJhc3NldF9hZ2VfZGF5cyI6MzYwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8495b68d1b8262f8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDQ2REI3NkNFOTEyMTkwMDZGODMzRUYyNzQ3NzBBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0RFNDRGRDFCOENBQkFGMjNDMzEwNzEwRUIyREI0REFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCmrjggeeYWBUCKAJDMywXQEFvGp--dskYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&_nc_zt=28&oh=00_AQK4aS5gfpu4gsA37Se0gEShX7B8r7obCjpkhwEc6EoXoQ&oe=6ABE4457"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1759906800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1172337828283311"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2342,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1172337828283311"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 2342,
+    "page_categories": [
+      "Maternity Clothing"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

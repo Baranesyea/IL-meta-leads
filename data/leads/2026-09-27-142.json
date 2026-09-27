@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-142",
+  "status": "rejected",
+  "reject_reason": "247,591 page likes — too big",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/HorusStraps/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "355302134628835",
+    "page_name": "Horus Watch Straps",
+    "active_ads_count": 1,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "648647921282414",
+        "link_title": "Horus Watch Straps",
+        "body": "Shop premium rubber straps for Rolex from Horus Straps - the leader in watch strap innovation since 2014.",
+        "landing_url": "https://fb.com/canvas_doc/1436243907750367",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/485907477_1168881340950194_419430770114687678_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TndBx_raHmUQ7kNvwH0wtaF&_nc_oc=Adr9T009K6WAZMf9OmdZ95u92X8qn0agS16NWZyoaWBYhhy_5sR0eQA_8SNOzjElAo4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQLxW0D9uy7H-OrM_QI7lxOfyL_GQyGmDA1P3aGuKn6QAQ&oe=6ABE5EBB"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1742626800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=648647921282414"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 247591,
+      "product_score": 1
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "648647921282414"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 247591,
+    "page_categories": [
+      "Jewelry/watches"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "rejected": "2026-09-27T01:55:08"
+  }
+}

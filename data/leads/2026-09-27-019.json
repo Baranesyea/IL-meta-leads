@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-019",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -60,8 +60,23 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=3292240427597414"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "לרכישה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 167,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "3292240427597414"
     ],
@@ -72,6 +87,39 @@
     "page_like_count": 167,
     "page_categories": [
       "Games/toys"
+    ],
+    "page_ads": [
+      {
+        "id": "3292240427597414",
+        "page_id": "223851684146799",
+        "page_name": "ינשופי - למידה חוויתית",
+        "page_url": "https://www.facebook.com/61556235333651/",
+        "page_like_count": 167,
+        "page_categories": [
+          "Games/toys"
+        ],
+        "ad_creative_link_title": "כדור בומרנג מעופף FLYING שכבש את הרשת! לרכישה>",
+        "body": "ביקשתם - קיבלתם!\nכדור הבומרנג המבוקש חזר למלאי שלא תרצו לפספס.\nהשילוב המנצח של שני גאדג׳טים ממכרים - הספינר והרחפן שחוברו יחדיו לגאדג׳ט מטריף ומיוחד עם אורות לד מרהיבים 💫",
+        "link_description": "",
+        "landing_url": "https://yanshoofi.co.il/product/%d7%9b%d7%93%d7%95%d7%a8-%d7%91%d7%95%d7%9e%d7%a8%d7%a0%d7%92-%d7%9e%d7%a2%d7%95%d7%a4%d7%a3-flying/?fbclid=IwAR14WB-6J24qD-G4EIT7Hj2pIU9hPo2b-E_w7o_7XzguC3tlPpT3_OFgNJ4",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1752562800,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/417397262_819336703152087_2050162717196466730_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xor5660JSNEQ7kNvwHksK8Y&_nc_oc=Adq_NqUoZ4xP8RCqnMTLr45mOSrGmlzJ1_PlOhf1xn4wMED7sa49jpCbkqWle6V3tZY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=5xP3A6enpNayOxSHdqLzpg&_nc_ss=70289&oh=00_AQJyMJsqfFx8tRMj_Fz-2JmLQjGBKRZF0hjr4itJ7QhrsQ&oe=6ABE3CB7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP5QhW42Rx2QFxq40xLrIwjkBnxR_9Ijl4KiXIs6Ge0WfQq9tWvGSmfkfxTlzT4acFBsbspEygLHTiB7pNm-ApP.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=dBE_0aeBmcAQ7kNvwF6IIOZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMjE3MTEyOTUwNTY1NTk2LCJhc3NldF9hZ2VfZGF5cyI6MjMwLCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=5xP3A6enpNayOxSHdqLzpg&_nc_ss=70289&_nc_zt=28&oh=00_AQJMQtGfzwf329_BW2iS8_P9c9VFBK8Ss8jLLawQTC6WbQ&oe=6ABE4936"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3292240427597414"
+      }
     ]
   },
   "current_ads": [],
@@ -85,6 +133,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:27:54"
   }
 }

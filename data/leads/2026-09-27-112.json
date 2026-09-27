@@ -1,0 +1,109 @@
+{
+  "lead_id": "2026-09-27-112",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Girotti.Shoes/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1174043756018390",
+    "page_name": "Girotti Custom-made shoes",
+    "active_ads_count": 1,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "28215454944723830",
+        "link_title": "{{product.name}}",
+        "body": "🔥 Take advantage and get your unique custom-made shoes and bags! 🔖\nHurry up, the offers are limited! ⚡️",
+        "landing_url": "http://girotti.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727519960_1031040156550466_6973224266067680441_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iw60ixnn-uIQ7kNvwFPqVIl&_nc_oc=Adr60hcy7oMXUTZQ6Px6AYtLSlKRPnBoMaZGsPwgjLNdqkQ0CF5vAUkixdF2WfHZzG0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQKsYAS6SZwRsyC635Dmtn58fnM1J7PgF6s1jyp5slp0dA&oe=6ABE4D2C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725560114_1487073569406160_7926568722603901917_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t-VLR6w0Gh0Q7kNvwHXNPnm&_nc_oc=Adq4ZJ0vM7axxqKhc57L_vReREHdsn-psinHGi-Nyw4mYoB3kNdckZVEaB7G9gqQl1M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQIwDAJdByu5Er07xGnLcEzg7TJI1uZehpnsQ4YMB-4hwA&oe=6ABE452C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/726969995_1026396810332162_1807173974346073381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rub80Jfi4poQ7kNvwHs2kKL&_nc_oc=AdrWMIdC7g-eHKqZG28MWO5H3gNZn6-OtpzVTgTc46ewEaU0G5H579VtaM_gSyLhWlA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQI0t8xzCuS7JnCxx8yit5uIKH5ym6YlLFTrQSpHuIEveA&oe=6ABE46C5"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1781852400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=28215454944723830"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 155082,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "28215454944723830"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 155082,
+    "page_categories": [
+      "Shoes",
+      "Website",
+      "Bags & Luggage"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

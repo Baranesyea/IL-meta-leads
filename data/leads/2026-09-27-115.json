@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-115",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/DavidOutwear/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "101947817982704",
+    "page_name": "David Outwear",
+    "active_ads_count": 1,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "1429381127639179",
+        "link_title": "Try Risk Free! Easy Returns & Exchanges.",
+        "body": "Classic silhouette. Handmade stitch. Tailored Fit. Shop jackets → davidoutwear.com/jackets",
+        "landing_url": "http://davidoutwear.com/jackets",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/380800715_5906760116093813_3369257488825735404_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kaPlNAW23WUQ7kNvwF2lZ67&_nc_oc=Adq2xUK_pXSOnNge036rEVS6kpvDqEOD3nVZbJcwWyC87KKuvKlveb5iAelgphKQwMM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQLeQyetIEH87UsUh_QgSoOvciA0dpkQXfDZ4XoUWhYSWg&oe=6ABE4E92"
+        ],
+        "videos": [],
+        "collation_count": 3,
+        "start_time": 1697439600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1429381127639179"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 119715,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1429381127639179"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 119715,
+    "page_categories": [
+      "Clothing (Brand)"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

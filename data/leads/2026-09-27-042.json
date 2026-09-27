@@ -1,0 +1,128 @@
+{
+  "lead_id": "2026-09-27-042",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: מלון, חופשה",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/ManoCruise/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "76876188070",
+    "page_name": "מנו ספנות Mano Cruise",
+    "active_ads_count": 2,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "2498954363785075",
+        "link_title": "מלון קראון פלאזה חיפה",
+        "body": "הצפון מתעורר - חופשה בכרמל",
+        "landing_url": "https://haifacp.co.il/",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/489930920_1415569186279914_4142768957994752068_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yaUdzqY8q8wQ7kNvwEhr-mJ&_nc_oc=Adrp-eJ98PbQNKs-M9pAGTy4YZgu__2POg6-i4b_VZvqcDa7EDY08fYw6JPHdmkYeBU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQLlMktEFw9NbFxMOeWjxAiAURttWC4_Xf7J0ZGWMXcyRQ&oe=6ABE4642"
+        ],
+        "videos": [],
+        "collation_count": 0,
+        "start_time": 1744182000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2498954363785075"
+      },
+      {
+        "ad_id": "648662297771267",
+        "link_title": "מלון קראון פלאזה חיפה",
+        "body": "מתחם ספא יוקרתי במלון קראון פלאזה חיפה",
+        "landing_url": "https://haifacp.co.il/",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/491938115_1329943001454293_6476204148409467145_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vRAg0tyObmoQ7kNvwFfRvLu&_nc_oc=AdotuBvmdPLoLkzfeymtJd8qFJ5yKnYxfPfjpK6RRLblsXavdZW5na85cpFps2O4sWM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQLBCaCmZ4A9W54GDIXGee6gKEBzwq9b1IsMl_FqzEafiA&oe=6ABE3C02"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1744700400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=648662297771267"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "מלון",
+        "חופשה"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 163100,
+      "product_score": -4
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2498954363785075",
+      "648662297771267"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 163100,
+    "page_categories": [
+      "Cruise Line"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "rejected": "2026-09-27T01:39:23"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-105",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100088851339479/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "109975408631874",
+    "page_name": "Shop FabuLove",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "1564817970853806",
+        "link_title": "50% OFF",
+        "body": "This will be your last chance to get your jewelry piece while its still 50% OFF! ❤️",
+        "landing_url": "https://fabulove.co/collections/jewelry",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/496151148_1059953416080782_338604846793903636_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7K-FWE8XlhcQ7kNvwHLspa7&_nc_oc=AdoiWW0ZHquVwwGZJG0xuNP98ho3JX0RthpjqVcNHK2B4Q6DoqTzubkdSHVu4THy8cg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQI8a0BQBDnQNr3WcUPEUDDCqtbgAuOlMRzar9Ix031AMQ&oe=6ABE42E2"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1746860400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1564817970853806"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 30727,
+      "product_score": 1
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1564817970853806"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 30727,
+    "page_categories": [
+      "Gifts"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

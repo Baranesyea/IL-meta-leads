@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-27-107",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/FaithHeartJewelry/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "107960581452079",
+    "page_name": "FaithHeart Store",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "512937581819528",
+        "link_title": "FaithHeart Men's Jewelry",
+        "body": "✨FaithHeart |It is designed for the most dynamic, trendy, and modern men&women✨\nThe Norse and Germanic people first used the runic alphabet as their means of written communication. Runes functioned as letters but were considered much more than that. Each rune was a pictographic symbol of a cosmological principle.\n#mensjewelry #mensearrings #mensaccessories",
+        "landing_url": "https://faithheart-jewelry.com/products/norse-viking-runes-hoop-earrings",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/334059402_759940195855053_9109457615682638611_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WBhcvONADYMQ7kNvwEU-AYu&_nc_oc=AdosEHYs7KT0I4p1gR55jROLmBELkdzXdZWWY6PyQlXqSGkrvGhsE-J4vm3dzkMQEHw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQJ4ux5YyB_f9QsaZ2AVdoUzg2Ia6jYUZupM3p_wbU6r4A&oe=6ABE5182"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1738742400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=512937581819528"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "store"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 92617,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "512937581819528"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 92617,
+    "page_categories": [
+      "Jewelry/watches",
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

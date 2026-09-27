@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-111",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/BerkComposites/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "280701971943529",
+    "page_name": "Berk Composites",
+    "active_ads_count": 1,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "1305270891444608",
+        "link_title": "Berk Composites",
+        "body": "The finest selection of handmade Carbon Saddles 🚲\n\n➡️ https://www.berk-composites.com/saddles",
+        "landing_url": "https://www.berk-composites.com/saddles",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/651321591_719797854455752_3689367188241170871_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EIs4wFK8IcAQ7kNvwGw8G0z&_nc_oc=AdrGM7FV540YQheNLgoOXjCx5-4xozEgM_YY2QMd7S_n9IrYi6XwfPUmFZaEYPdUYPc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQJN4F0acekiFFn1j-FhBrEgJGS2ebVHom_5t0pWuj7HQw&oe=6ABE4093",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/652139427_1455726739618842_554172515102102098_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xSctrhXopcsQ7kNvwH-9zwj&_nc_oc=Adq5NaK4BS1hb4iRkaBdca-XAr_8h7Fi9-mfYo8qh4FKuYTsNCWE2VDA87KjtyHtdIY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQLo9ADRLBlnKBz-4GgnCq6jhFPYwXRApzb09wJ6CdP2VQ&oe=6ABE417A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/653109410_1634601717456004_3377465198613181221_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cb_cFS_wubIQ7kNvwHEyRRR&_nc_oc=AdrE-sB7Td8MPcjo9vsOUAZHr4L1zMzFeAgf2cc7yx1FZA33i_QZvbWRah3PAJ7V9-A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQIJUfY_2xb6owGv1RiPi_EEZyFBxhKCaTV5UjUmGTFJdw&oe=6ABE2EA0"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1773817200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1305270891444608"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 13523,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1305270891444608"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 13523,
+    "page_categories": [
+      "Company"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

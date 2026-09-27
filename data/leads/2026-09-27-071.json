@@ -1,0 +1,103 @@
+{
+  "lead_id": "2026-09-27-071",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/franui.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "111717868531794",
+    "page_name": "Franui Israel",
+    "active_ads_count": 1,
+    "search_keyword": "שוקולד",
+    "sample_ads": [
+      {
+        "ad_id": "1589133412453954",
+        "link_title": "Franui Israel",
+        "body": "{{product.brand}}",
+        "landing_url": "https://facebook.com/franui.il",
+        "cta_type": "",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/707632629_2896083394100053_2312903700390277258_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yTOkebVuyzcQ7kNvwEnycUs&_nc_oc=AdposVNYmM7r6RwC2ornlV-xk7UWrsbza5KFV2V033pfWCtVsvRxTlR5Hx87LL80qwg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLMQVr53bJ7W_XPusOg7NA4LK3HOrc1SElWCufFj0uB3A&oe=6ABE53E4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709760162_1479047143996852_2496646897754044391_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lV88Q4Wd3MIQ7kNvwExROlN&_nc_oc=AdoR7k2EFbuOaNF02vtrbSr-hEsfiXxabQCFQbOKaFC4lNfg_mdU_0JQS8bFUT1aegc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQKS4ixg9R8khvitjYITR6bbxDPt2IDvnprM5mScpOx0eQ&oe=6ABE329B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708136528_948747114814175_1084569542374541107_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C3OhFfu4xpwQ7kNvwFzv8h8&_nc_oc=AdoY6xmJpKzeKprcKedEF6fkrBFVoIHZcx4nnQ4RSYzYUA24Wlhe4HDEn7qOB6CNPNE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLTyIYBLYav27u6WMBacNMI68aDlr5fGA1BjMseeJAouw&oe=6ABE3A13"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779951600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1589133412453954"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [],
+      "page_like_count": 423,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1589133412453954"
+    ],
+    "currencies": [],
+    "cta_types": [],
+    "page_like_count": 423,
+    "page_categories": [
+      "Food & Drink"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:47:51",
+    "rejected": "2026-09-27T01:49:03"
+  }
+}

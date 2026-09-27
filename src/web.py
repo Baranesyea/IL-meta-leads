@@ -42,7 +42,7 @@ def get(url: str) -> tuple[str, str] | None:
     _sleep()
     try:
         r = _client.get(url)
-    except httpx.HTTPError as e:
+    except (httpx.HTTPError, ValueError) as e:  # ValueError: a broken redirect such as "/contact@site"
         log.warning("GET %s failed: %s", url, e)
         return None
     ctype = r.headers.get("content-type", "html")

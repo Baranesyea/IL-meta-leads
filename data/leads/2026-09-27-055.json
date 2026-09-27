@@ -1,0 +1,612 @@
+{
+  "lead_id": "2026-09-27-055",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://creama.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "contact@creama.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/CreamaPlus/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/creama_plus/",
+      "source": "https://creama.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "461059414095301",
+    "page_name": "קרמה פלוס • Creama Plus",
+    "active_ads_count": 11,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "1592409732320718",
+        "link_title": "{{product.name}}",
+        "body": "הטעם המדויק של קפה איכותי על הבוקר עושה את כל ההבדל. ☕️\nהמותגים הבינלאומיים שאתם אוהבים מחכים לכם. \nמארומות עמוקות ועשירות ועד לבלנדים העדינים והמאוזנים ביותר. זה הזמן לשדרג את הקפה של הבוקר. והצהריים...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784419885_1315136820499680_5440860460845776692_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5tKp7jAXpkoQ7kNvwFW2_oq&_nc_oc=AdpVec2IAU4Dc-DUG3rCQyujShkjZkHfxR7ktJDmLT4-kHJkeHqKGY_J1DZpRa9XY2w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQLAE0PtayRZdUgqddBA8ehm3tVJq2tcIuml4hjgzpFcpA&oe=6ABE3A33",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784694468_1728445845029218_5540303481352503712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hope1Z5xnP8Q7kNvwFaz2Sz&_nc_oc=AdrYO-ebbCvtXutc2uZpAu50_H6-hJ7UKQxR_ARWCsz-gsyfyoP0w4Tm6BERhwiIX8k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQITROzZQzhFEDMUCtiQit62PdAaS5NEl_XZy0L1DIpLYQ&oe=6ABE2F4E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784797446_1110101891345491_3570407425395272999_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JuNSHTkuoAEQ7kNvwH9I67e&_nc_oc=AdqglBqQ5AsotjoqvG5F6_ykPa7RWOgMORfFhrkn0HG_qEgyxQ_5d9zGJKmCJToP27o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQJQD6L6K77jbB1xfYL0eJCDWt3WDPKIFyMkGrZNYYD88A&oe=6ABE2B47"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787468400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1592409732320718"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 11,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 6516,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1592409732320718"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 6516,
+    "page_categories": [
+      "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "1592409732320718",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הטעם המדויק של קפה איכותי על הבוקר עושה את כל ההבדל. ☕️\nהמותגים הבינלאומיים שאתם אוהבים מחכים לכם. \nמארומות עמוקות ועשירות ועד לבלנדים העדינים והמאוזנים ביותר. זה הזמן לשדרג את הקפה של הבוקר. והצהריים...",
+        "link_description": "מחפשים מכונת קפה? קרמה+ מציעה לכם חנות קפה איכותית ומגוון גדול של מוצרי קפה במחירים נוחים, מכונות קפה ביתיות, קפסולות, אביזרים ועוד...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784797446_1110101891345491_3570407425395272999_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JuNSHTkuoAEQ7kNvwE2-Y1I&_nc_oc=Adr5GbI2T8U3CEZCRd01vm5NMRRX8lqqbWursAJTj-xg-a8XAy_eLI1NtmA_8MB9bz0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLiR4woi8AEi35P9nhgYqHCtr2hDdbcMj_Q2z50gQe6gQ&oe=6ABE2B47",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784419891_1052578797389975_2313186332152104218_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i8IOwqIRV50Q7kNvwG5Obku&_nc_oc=AdpLWIUtbevb4oEwlQUax37h6rXpMil7xmYJU-61W5LKlRKEKh4fNjGVwI_OSykmuZU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQKUrlbRxfFq_UVK-CRVoivT5I2UA4OucKhh6u1UwlD4bQ&oe=6ABE307D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784694468_1728445845029218_5540303481352503712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hope1Z5xnP8Q7kNvwG126km&_nc_oc=Ado2tXtFjwWORny2sFdoPEdIXuvhI5p56_SLd_FjVaICtluVzNe5XAom9DlX7NB2wO0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQKPoU5C1e1G2P0SuGosR6LhrCZ8PPXiANhwnywilH9KGg&oe=6ABE2F4E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784419885_1315136820499680_5440860460845776692_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5tKp7jAXpkoQ7kNvwFUTbDh&_nc_oc=Adrsuqi4uqgBnJLplPKwBuM-vQk4-O3mHSVW8ERkWeuxCk4SoBHgNKo4CybRejA7lvk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLFDl80D3z2D-z5wLR3q7ZchTvxB1Yv8VFHkt9kr8jSDA&oe=6ABE3A33",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784433113_4696870850635806_7929913094907015793_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vaozPTcw0g4Q7kNvwEb8If2&_nc_oc=Ado0R09m3eQaxOM6UrsJIptwWj-z39YJ6wAJ05rFCqmMIvHIdfYOVkKjDCzraBRTu08&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQK8yFm-igvna9HpaO7XbcUDmTUeTvkc7Z1mZLQA5AsBKw&oe=6ABE2B9D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784774812_1250761850498711_2315618471911043218_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-lEeyRJHPuEQ7kNvwElmQ6G&_nc_oc=AdqLA1cn1T6YnYkpcl_F1yuo_tmqKpza5cKklQeSj_4JQJRKaPMEWKXgqye3ZHKyN18&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJUaEf4j6A3Jd6QRTO18JqiBeh5KbYFI9ScHAe8MsjyjQ&oe=6ABE2D7D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1592409732320718"
+      },
+      {
+        "id": "1525076822981137",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מקלייה מקומית ועד בלנדים בינלאומיים. \nכל מה שצריך לקפה מושלם מחכה במקום אחד- קרמה+ ☕️",
+        "link_description": "מחפשים מכונת קפה? קרמה+ מציעה לכם חנות קפה איכותית ומגוון גדול של מוצרי קפה במחירים נוחים, מכונות קפה ביתיות, קפסולות, אביזרים ועוד...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/783857710_2842541766115215_5149860994437653415_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RAVdHEzkLssQ7kNvwETTsa0&_nc_oc=AdpyniGjFSnxSu8A8H_kJ7vpSOXssF-4uS93pspG0xmvTQVde8cFN4okT7YyldF-i2g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJPlN_6a2yzmSvjUn7joJBnYlETc_8bQjUSeQ1-A2Kstg&oe=6ABE33CB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783857709_1687942812306434_5699129075268152463_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q3755ArSXZgQ7kNvwFvxays&_nc_oc=Adq4hP9qI90dU76mxUPLRDRqgtGuPdAJn0_nWVp6PTEKKivsIT46qGxbqMsSBGJGzAg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJwDRPIQDHOSkirmZoZrCh2I_yzaiNFdKisQvXnxGt13w&oe=6ABE4467",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783755213_1533401138063997_4889330730507266055_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BOj_cs31y5YQ7kNvwGxrBRc&_nc_oc=AdpKUBxABEwOJS8QN2wc_Ba10biXZEq2KtyySOsREr-0BdYgO8qwfFwSiQNH6p33A3s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJAU2v7zJAJO4CDiznE_7EtRSDJ2dk7bWbbpz6eQCgmMA&oe=6ABE5682",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783510664_2689698471487535_4232534328750218219_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R5dobOuAmYAQ7kNvwFc8K-r&_nc_oc=Adro61hDJWjCK5_TqpYrnY5S-6Zv0irTmjhQfXnXPghrWENLGfpD4SWATtb-OZI2tVk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQI_7bKeguNDo0SrL2tIZe8S2RB2Jkr4u6L6UDlRKTL6MQ&oe=6ABE5D05",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784432931_2087491538562783_7159304007894151420_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QWdurIE19Z8Q7kNvwGkI8t6&_nc_oc=Adrv06CBrxzI7ITCrgmq0E72n0w4Y-B75tVm23xkwPOSYATtwBNJyzPNft6h9Zvo5Ik&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJiAzmbtI0rtFmlp5SIxBv4_j3CBCSffgI6Jj_aDr_Aew&oe=6ABE3AE1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785858332_1354336890223540_6336413690784382778_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LloWpD54XB0Q7kNvwEQd2e4&_nc_oc=AdojIRGwIIyJSC2C-8uUhgv_oF2_TYf0-xnxYHH8-tRSL6hODym3TOXiDsSbdUxj2sM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLS0VaBsyEdxJAOmR4tNKDOpgVjrvvEpriGeIoBqMRItw&oe=6ABE55EC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1525076822981137"
+      },
+      {
+        "id": "1474164394309507",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "פולי קפה טריים בקלייה מקומית, לבית שאוהב קפה באמת.\nגליל, ערבה, לוינסקי, 6AM וקלאסיק אספרסו של קרמה+ - בלנדים מדויקים, לכל אחת אופי משלה, וכולן מגיעות כפולים שלמים.\nעם משלוח סופר מהיר וקאשבק, עכשיו הרבה יותר קל לבחור את התערובת שלכם.\nזה הזמן להכניס הביתה קפה טרי, מאוזן ומלא אופי.",
+        "link_description": "מחפשים מכונת קפה? קרמה+ מציעה לכם חנות קפה איכותית ומגוון גדול של מוצרי קפה במחירים נוחים, מכונות קפה ביתיות, קפסולות, אביזרים ועוד...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1774422000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/658053398_1402230638582952_3458073778918452249_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X7q9i6EpxF8Q7kNvwE0reWP&_nc_oc=Ado-sfhiW1er4rFDj_kX2FSpbdUfzFsaITAy7uj2RBe9RVRBAGklWmRsU4nueeqyf3k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQK5nSnuKDWJ8h2x9DWuCwoDayGq5cky3uJZJjfcW7j8Ww&oe=6ABE5763",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/659545354_1289244513068902_5336482497030336168_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nojwh9QKQagQ7kNvwFrjeaW&_nc_oc=AdrQ18ooUIxHWTmy_ei0Durj8VPd5dqTK640Iy45Wuw3sMHuRexrAa1ialJT0izYXSA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQIZIG7NyoIQF5zgdT4WYy3iILDwT0OookY7siTBuUOGdA&oe=6ABE589F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657380557_912991951602106_501234643499442820_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OYdXgBWj6T4Q7kNvwHBUmRO&_nc_oc=AdoUPfI8srEBQWqeg5KEoJhQWjno6mOROZj50W14eZtwxTy-CoijA1mPnYktcZR8iKI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJkPJc39lZVCOPdd8UTqaydS_LCE9YD_6izdzZrQDtmLg&oe=6ABE5619",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/658092059_1865409384172297_2386561529739836742_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hcal9dEovzsQ7kNvwFWlXpW&_nc_oc=Adph6edq3NbTVa3ibS8fwfa7pkQ-2HLIXAcQLLOoqdT_pHbV3JyzIspQz443pKHwoV8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJ30-6oQX7RMMvIc-mmPguuCQh2ACOXGBPtjuY1weLw4A&oe=6ABE3BD8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/659034173_1872853216727822_960136953500356415_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A36CZQe4bJEQ7kNvwGmXo6c&_nc_oc=Adog0ExyknWtgY0mgCu3ZyJVOaKTscQzIxbD5TLLytY24Ppc_i_TgL3gu6EzY9ENYm0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQKFvT6e7RIw19AUcs1_m7whL-oDcHtCDrmmef3lwiL4mw&oe=6ABE4A68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657759426_1575183233551006_4503677973854715301_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tOlL5qHdLlYQ7kNvwH0Gzlo&_nc_oc=AdovY7sSVZP0e-kNUu9bbqBiNj09i_c8Wsv-t5XLvQ-3P9OjcnKOts-hwUDdZ99IqXw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQIAPPohmTiCw0PI7UpLJ4vqVURIkotFlIPk5uZRFl7RjA&oe=6ABE591F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1474164394309507"
+      },
+      {
+        "id": "854240690987699",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "אין כמו התחושה הזו שפותחים תערובת האוסברנדט חדשה והארומה ממלאת את כל החדר... ☕️\nכל מה שצריך לקפה מושלם מחכה במקום אחד- קרמה+ ☕️",
+        "link_description": "מחפשים מכונת קפה? קרמה+ מציעה לכם חנות קפה איכותית ומגוון גדול של מוצרי קפה במחירים נוחים, מכונות קפה ביתיות, קפסולות, אביזרים ועוד...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787468400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780395556_2278903772938197_9111316439843305120_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FDqaN71i1tcQ7kNvwF6wdcR&_nc_oc=Adp8m-CTuAn7pF5uaVTtzTr0g2d7S5opmqAXPhvN2ONboeUgL_raGJ9ZkYhRp1vPtVU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQK2-tlKsl2IYTn_a6cmaTEzooCrOae4r3gQ_a5iU8sDCg&oe=6ABE541E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784240400_1466611261959745_7574028553984355065_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T361HYBYk9wQ7kNvwGH3RYV&_nc_oc=AdoWPwcvXUThHCb9CeX95wvRpi4LFoO2qmOV7FdDHMrPyGJVd5_HvI6UURTz5LvXNMg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQKvwDgXM4bpbzRUrdzwHWEuV_opw-VC78zVSR2sZwC-rQ&oe=6ABE4B66",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784751072_1641474054063650_6476932233686592139_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UyrmDz1jDKsQ7kNvwG_RPHq&_nc_oc=AdpIsDo-7BaApwa2eMUpWaa5xY1om59k3DuCC-CbV-IGq3lmxhj-p68EC5EVLXJWscI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLM0NHiK4X8eM5UZBqm35X2Z_3mZYZZ6Bw4FY-h7vUiwA&oe=6ABE3D6C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780388984_4519337215007110_6689003503529656334_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GR0ypgvYRy8Q7kNvwGJaTy3&_nc_oc=AdpiDurUFCfHU8_J7o0GJl2NH4GoXRqeczsVG6w3cjnRZdqGC9Bj2OlkB9VHerawpjE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJR2p4zlELMbo7oAC4cZIuH0TjzhYR3v6F0f1wter4kOw&oe=6ABE3559",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780917556_925089236739281_8238162087016943775_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SoWKAQjgNzoQ7kNvwHFF3DD&_nc_oc=Adpf4cwU61MY7nlMoBq2FtTiUUd1uVyEqfO__RizdOlTtUCa2sgkYPj6ElUa53HGI9w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQIhwPf_oecNFcZywziV_dRJPuGuWjh2Fbz8hRzYoXYiNQ&oe=6ABE45B0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780257779_1314715845053343_1451097067072442115_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uIYm11W0vfwQ7kNvwHqLa4K&_nc_oc=AdpSiS7kKiEx3ByO2gTu9xQ4QKqRcVTBHXEuEI6bwzd0euZgA2A9doxKAiwOX-4iv84&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQI5S_6s1-h_81Bk5aQtynpbtiMCE78Ek81pMSkZxQXFmg&oe=6ABE3030"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=854240690987699"
+      },
+      {
+        "id": "1368667238629405",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קפה לוינסקי | תערובות הבית בקלייה מקומית",
+        "body": "יש טעמים שפשוט נשארים איתך.\nהטעם של שוק לוינסקי.\nהקפה של סבא.\nהריחות, הטעמים, והחום של זיכרון שלא עוזב.\n\nמתוך המקום הזה נולדה תערובת הבית החדשה שלנו - קפה לוינסקי.\n\nפולי קפה בקלייה מקומית וטרייה, באריזות חצי קילו, עם גוף מלא, מתיקות מאוזנת ונגיעות של שוקולד, קינמון ויין.",
+        "link_description": "",
+        "landing_url": "https://creama.co.il/products/levinsky",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1773558000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/651052829_1224655343163938_6223128197707369093_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tuNfQwp7E5UQ7kNvwELR3Ug&_nc_oc=Adpti2tTaDhJkz0UOZRoTqEU4iLl-Uhcx66w0rRQihnomCDixMb5-ZZiD0o6w456u1I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLSvvevTTG8Fnqk-V_UnOvZ0tcM03CTlr3iyea1d5dF1A&oe=6ABE3305",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOl6ZrnC-3bvlwwtPNQiRHSaNdoHIJkRRtoOjpqwuwBH2Kt0jkV0hp4jQlBwzg7wR3OUeP2d6JyUdpZZSmMfXtyJr6Q6Vn4X-T7uIc_YYXT7g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=nMort-xKiuYQ7kNvwH24s-g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNTgzOTkzODQ2Njk0ODEsImFzc2V0X2FnZV9kYXlzIjoxOTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ee5155724474af67&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RDQzM0EzNDkxODczNDYxNDUzOTQwNjFEQzA5OEJBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNEEwRkVGRjhFNERCNjcwOEJDOTNCMjNDRDZFN0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbStP7Y9LywCBUCKAJDMywXQC4hysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&_nc_zt=28&oh=00_AQLRlUEAl8Z8Jo0hONYkeTfU9tixjnwvG326SzcS-YdzlA&oe=6ABE3AEE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1368667238629405"
+      },
+      {
+        "id": "1688136955893878",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קפה לוינסקי | תערובות הבית בקלייה מקומית",
+        "body": "יש טעמים שלא מחפשים במעבדה.\nהם מחכים בזיכרון.\nבשבילי, שוק לוינסקי הוא קודם כל סבא לולי.\nהגעגוע ליוון שלא באמת עזב אותו, הגופייה הלבנה, הרדיו הקטן ברקע, הבורקס החם בשישי, דוכני הפירות, והריח של השוק שמתערבב עם הקפה.\nמתוך הזיכרון הזה נולדה תערובת הבית החדשה שלנו - קפה לוינסקי.\n\nפולי קפה בקלייה מקומית וטרייה, באריזות חצי קילו.\nעם גוף מלא, מתיקות מאוזנת ונגיעות של שוקולד, קינמון ויין.\n\nזמין עכשיו באתר קרמה+",
+        "link_description": "",
+        "landing_url": "https://creama.co.il/products/levinsky",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1773558000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/651192886_1587775369116693_2329780695800811403_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wZNjssoxLWAQ7kNvwECI93J&_nc_oc=AdoE1Kjyup4ZAlEnP29Dic7Q8Mx9TY_jjd0xkjvpDzewS5rkNFfIKbPX6dyyKTKosmQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQIjJzNJCqj8R9RE9jxzi3s4BgzllnWRwzizR_rvAOt6iQ&oe=6ABE59C1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOl6ZrnC-3bvlwwtPNQiRHSaNdoHIJkRRtoOjpqwuwBH2Kt0jkV0hp4jQlBwzg7wR3OUeP2d6JyUdpZZSmMfXtyJr6Q6Vn4X-T7uIc_YYXT7g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=nMort-xKiuYQ7kNvwH24s-g&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNTgzOTkzODQ2Njk0ODEsImFzc2V0X2FnZV9kYXlzIjoxOTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ee5155724474af67&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84RDQzM0EzNDkxODczNDYxNDUzOTQwNjFEQzA5OEJBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNEEwRkVGRjhFNERCNjcwOEJDOTNCMjNDRDZFN0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbStP7Y9LywCBUCKAJDMywXQC4hysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&_nc_zt=28&oh=00_AQLRlUEAl8Z8Jo0hONYkeTfU9tixjnwvG326SzcS-YdzlA&oe=6ABE3AEE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1688136955893878"
+      },
+      {
+        "id": "2468012090379434",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קלאסיק אספרסו. הבלנד החדש שלנו נחת! 🇮🇹",
+        "body": "קלאסיק אספרסו : הבלנד החדש שלנו בקלייה מקומית במארז 500 גר' לטריות מקסימלית !\n\nתערובת קלאסיק אספרסו מבוססת על מסורת הקלייה האיטלקית ומוגשת כאן בגישה עכשווית ומוקפדת.\n\nיצרנו בלנד עוצמתי עם גוף מלא וקרמה עשירה, המביא טעמים עמוקים של קקאו ואגוזים קלויים המשתלבים נפלא גם במשקאות חלב.\n\nההרכב המסורתי 70% ערביקה ו-30% רובוסטה זוכה כאן לקלייה מקומית שמחדדת את האופי האיטלקי המוכר ומוסיפה לו רעננות ואיכות מקומית שמורגשות בכל לגימה.\n\nבלעדי באתר קרמה+\nלרכישה >>",
+        "link_description": "",
+        "landing_url": "https://creama.co.il/collections/house-blend/products/classic-espresso",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779174000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702255334_2485326541905176_5020824889490344987_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ONavie0p8owQ7kNvwHpXW8h&_nc_oc=AdrRFjddvZikWxkhUYPE_T4FpNme1SvQjxzvIGxDWGFBcGE8HyEYpPxLkfST2yNmsFw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQLhDI8dh7P9BkktL1i1SGbf35o6QGfFcZbCWBxCI10FwA&oe=6ABE49B9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOkT2LLXBWG1uuFtkppvpPkl0khn71_sJKQBcDFBK6ClWWQQr-Y3jt2ltcwR5xaG2xToG_bKCWGlrvGoq0EmU1JC5VBv8TE0Ng6yuZZB7yRmA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=11-gSjCJePcQ7kNvwFtyVUh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2Njk4MzE1NTc2Nzg0ODIsImFzc2V0X2FnZV9kYXlzIjoxMzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3da3bc60626967b1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDQ1QUIwNzBEMDUwRDVFQ0QxMEJDNzYwRDBEMjNBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEM5Nzg4NEI3RENCMDk3Njk2RUE4QTEzMkRGOEFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaklqTN_qz3BRUCKAJDMywXQCQU_fO2RaIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&_nc_zt=28&oh=00_AQL09xxlbSlpARf5cNfsQqx_TH3A6mL_AqwGwzO0Wj1xsg&oe=6ABE3C44"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2468012090379434"
+      },
+      {
+        "id": "1690842318780597",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קפה 6AM | תערובות הבית בקלייה מקומית | 0.5 ק״ג",
+        "body": "יש אנשים של בוקר, ויש אנשים של הקפה של הבוקר. \nבשבילכם יצרנו את 6am ✨\n\nתערובת הבית החדשה של CREAMA+ היא לא עוד קפה. \nהיא חווייה. 100% ערביקה בקלייה מקומית, ארומה משכרת ואיזון טעמים מדויק שיגרום לכם להתעורר לפני השעון המעורר😉.\n\nחדש באתר שלנו!",
+        "link_description": "מועדון הקפה של קרמה+ גאה להציג:קפה 6AM - תערובת הבית החדשה שלנו! קפה 6AM נוצר מתוך המחשבה על הרגע שבו היום נפתח. הריח של הקפה הראשון, האור שנכנס למטבח והשקט הזה - רגע לפני ש....",
+        "landing_url": "https://creama.co.il/collections/house-blend/products/6am",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1779260400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/704367222_1498225158473251_6742557496497019420_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i7uPOIo_vhoQ7kNvwE5omya&_nc_oc=AdqQ0-OWOv80R2IQiW9YaJkB6xVEPToP9GmQPPYOZp6V_qPpDGPLSPOM_oPjkek6Qx4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQIesDL_xSlDYSlPWNy1432g1u63IDs_mwEXQpnBAAuO2w&oe=6ABE41F0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1690842318780597"
+      },
+      {
+        "id": "1069537592724919",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "1.5 ק״ג פולי קפה - מיקס חצאים בקלייה מקומית",
+        "body": "הקפה שלך לא צריך להיות אותו הדבר כל יום.\n\nיש בקרים של אספרסו חזק. יש רגעים של קפה נקי ומאוזן. ויש ימים שאנחנו פשוט מחפשים משהו שונה.\nמארז מיקס תערובות הבית של קרמה+ נותן לך את שלושתם — 1.5 ק\"ג, בקלייה מקומית, עם 3 אופיים שונים לגמרי.\nכי קפה טוב זה לא מוצר. זה הרגל.",
+        "link_description": "",
+        "landing_url": "https://creama.co.il/products/1-5kg-local-roast-mix",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/817543319_1477513347768019_3504393475563360882_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MO8CZ16KrvcQ7kNvwGY9a9r&_nc_oc=AdrXCqXXINN8p7qQsxQ9uIMkvg_UzBySiyh-p_uSap5DXVYuu0zvWLCYhSNqMNLZfus&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJngni2qenO10iw6e2B_9UM0B1ivDtiU6SazbHkLVO6vA&oe=6ABE3939",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/815768296_1612097604037291_4294881721782310569_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2cWtP7jTC1gQ7kNvwHjW4My&_nc_oc=AdoR8KYlBNEsRTlsK8cIIa41Wh18zUC09CJrYcUzdjI--PnV7b8XBWJ-UOen1X-I7vo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJwxLZ1EFvWleduedHS-MJHRLj7Uhx8TESIYqrwY0rAIQ&oe=6ABE4690"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1069537592724919"
+      },
+      {
+        "id": "940809655763667",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "קפה 6AM | תערובות הבית בקלייה מקומית | 0.5 ק״ג",
+        "body": "יש אנשים של בוקר, ויש אנשים של הקפה של הבוקר. \nבשבילכם יצרנו את 6am ✨\n\nתערובת הבית החדשה של CREAMA+ היא לא עוד קפה. \nהיא חווייה. 100% ערביקה בקלייה מקומית, ארומה משכרת ואיזון טעמים מדויק שיגרום לכם להתעורר לפני השעון המעורר😉.\n\nחדש באתר שלנו!",
+        "link_description": "",
+        "landing_url": "https://creama.co.il/collections/house-blend/products/6am",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/800880810_1390338759978271_6956159871849942950_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4xdEgR2C6scQ7kNvwF1G9DY&_nc_oc=Adr9UJjNQlh8KXF3rpM2YK6gb9V4RPD-iiLnamxJ5exx4_PSZNo1K4wzroUp2dbRavg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQKobfsS2WedSRM61eDCgtMoR0mty1AEc85MrPvmTquILg&oe=6ABE31E7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796276606_1672794361125810_3013458361535990334_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rdiFTJ53cS8Q7kNvwHg2Ecm&_nc_oc=AdrTTwLqJNTFVjJ2ef7yDCwJDow_k80f-VydCGiMpSyFjjNwjqoYTucoRTCvB4IwBX8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJshJT4UHKjyrXrJHyBzN0Z886HkwwthMm8d-qYLkwclg&oe=6ABE4C0C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=940809655763667"
+      },
+      {
+        "id": "1340044587961101",
+        "page_id": "461059414095301",
+        "page_name": "קרמה פלוס • Creama Plus",
+        "page_url": "https://www.facebook.com/CreamaPlus/",
+        "page_like_count": 6516,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הקפה שלך לא צריך להיות אותו הדבר כל יום.\n\nיש בקרים של אספרסו חזק. יש רגעים של קפה נקי ומאוזן. ויש ימים שאנחנו פשוט מחפשים משהו שונה.\nמארז מיקס תערובות הבית של קרמה+ נותן לך את שלושתם — 1.5 ק\"ג, בקלייה מקומית, עם 3 אופיים שונים לגמרי.\nכי קפה טוב זה לא מוצר. זה הרגל.",
+        "link_description": "מחפשים מכונת קפה? קרמה+ מציעה לכם חנות קפה איכותית ומגוון גדול של מוצרי קפה במחירים נוחים, מכונות קפה ביתיות, קפסולות, אביזרים ועוד...",
+        "landing_url": "http://creama.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1776582000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/674152941_1679327829923146_8118509178098850846_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PxixrKl34roQ7kNvwEv03Go&_nc_oc=AdrBYx50IaZKWN7I0ZFnYdxV_f29LhzxXcP_iih4weiGeyp8XQ6fSYAM5ARt0Ah_Pko&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=u1o114WvVJemhvHY4mSCTw&_nc_ss=70289&oh=00_AQJcfZxoGCYd8s2imx9jA6QbWgOZyJti0wL_CytfiBiKKA&oe=6ABE4BD3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1340044587961101"
+      },
+      {
+        "id": "1592409732320718",
+        "body": "הטעם המדויק של קפה איכותי על הבוקר עושה את כל ההבדל. ☕️\nהמותגים הבינלאומיים שאתם אוהבים מחכים לכם. \nמארומות עמוקות ועשירות ועד לבלנדים העדינים והמאוזנים ביותר. זה הזמן לשדרג את הקפה של הבוקר. והצהריים...",
+        "landing_url": "http://creama.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1592409732320718",
+        "text": "הטעם המדויק של קפה איכותי על הבוקר עושה את כל ההבדל. ☕️\nהמותגים הבינלאומיים שאתם אוהבים מחכים לכם. \nמארומות עמוקות ועשירות ועד לבלנדים העדינים והמאוזנים ביותר. זה הזמן לשדרג את הקפה של הבוקר. והצהריים...",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1525076822981137",
+        "text": "מקלייה מקומית ועד בלנדים בינלאומיים. \nכל מה שצריך לקפה מושלם מחכה במקום אחד- קרמה+ ☕️",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1474164394309507",
+        "text": "פולי קפה טריים בקלייה מקומית, לבית שאוהב קפה באמת.\nגליל, ערבה, לוינסקי, 6AM וקלאסיק אספרסו של קרמה+ - בלנדים מדויקים, לכל אחת אופי משלה, וכולן מגיעות כפולים שלמים.\nעם משלוח סופר מהיר וקאשבק, עכשיו הרבה יותר קל לבחור את התערובת שלכם.\nזה הזמן להכניס הביתה קפה טרי, מאוזן ומלא אופי.",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      },
+      {
+        "ad_id": "854240690987699",
+        "text": "אין כמו התחושה הזו שפותחים תערובת האוסברנדט חדשה והארומה ממלאת את כל החדר... ☕️\nכל מה שצריך לקפה מושלם מחכה במקום אחד- קרמה+ ☕️",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1368667238629405",
+        "text": "יש טעמים שפשוט נשארים איתך.\nהטעם של שוק לוינסקי.\nהקפה של סבא.\nהריחות, הטעמים, והחום של זיכרון שלא עוזב.\n\nמתוך המקום הזה נולדה תערובת הבית החדשה שלנו - קפה לוינסקי.\n\nפולי קפה בקלייה מקומית וטרייה, באריזות חצי קילו, עם גוף מלא, מתיקות מאוזנת ונגיעות של שוקולד, קינמון ויין.",
+        "links": [
+          "https://creama.co.il/products/levinsky"
+        ]
+      },
+      {
+        "ad_id": "1688136955893878",
+        "text": "יש טעמים שלא מחפשים במעבדה.\nהם מחכים בזיכרון.\nבשבילי, שוק לוינסקי הוא קודם כל סבא לולי.\nהגעגוע ליוון שלא באמת עזב אותו, הגופייה הלבנה, הרדיו הקטן ברקע, הבורקס החם בשישי, דוכני הפירות, והריח של השוק שמתערבב עם הקפה.\nמתוך הזיכרון הזה נולדה תערובת הבית החדשה שלנו - קפה לוינסקי.\n\nפולי קפה בקלייה מקומית וטרייה, באריזות חצי קילו.\nעם גוף מלא, מתיקות מאוזנת ונגיעות של שוקולד, קינמון ויין.\n\nזמין עכשיו באתר קרמה+",
+        "links": [
+          "https://creama.co.il/products/levinsky"
+        ]
+      },
+      {
+        "ad_id": "2468012090379434",
+        "text": "קלאסיק אספרסו : הבלנד החדש שלנו בקלייה מקומית במארז 500 גר' לטריות מקסימלית !\n\nתערובת קלאסיק אספרסו מבוססת על מסורת הקלייה האיטלקית ומוגשת כאן בגישה עכשווית ומוקפדת.\n\nיצרנו בלנד עוצמתי עם גוף מלא וקרמה עשירה, המביא טעמים עמוקים של קקאו ואגוזים קלויים המשתלבים נפלא גם במשקאות חלב.\n\nההרכב המסורתי 70% ערביקה ו-30% רובוסטה זוכה כאן לקלייה מקומית שמחדדת את האופי האיטלקי המוכר ומוסיפה לו רעננות ואיכות מקומית שמורגשות בכל לגימה.\n\nבלעדי באתר קרמה+\nלרכישה >>",
+        "links": [
+          "https://creama.co.il/collections/house-blend/products/classic-espresso"
+        ]
+      },
+      {
+        "ad_id": "1690842318780597",
+        "text": "יש אנשים של בוקר, ויש אנשים של הקפה של הבוקר. \nבשבילכם יצרנו את 6am ✨\n\nתערובת הבית החדשה של CREAMA+ היא לא עוד קפה. \nהיא חווייה. 100% ערביקה בקלייה מקומית, ארומה משכרת ואיזון טעמים מדויק שיגרום לכם להתעורר לפני השעון המעורר😉.\n\nחדש באתר שלנו!",
+        "links": [
+          "https://creama.co.il/collections/house-blend/products/6am"
+        ]
+      },
+      {
+        "ad_id": "1069537592724919",
+        "text": "הקפה שלך לא צריך להיות אותו הדבר כל יום.\n\nיש בקרים של אספרסו חזק. יש רגעים של קפה נקי ומאוזן. ויש ימים שאנחנו פשוט מחפשים משהו שונה.\nמארז מיקס תערובות הבית של קרמה+ נותן לך את שלושתם — 1.5 ק\"ג, בקלייה מקומית, עם 3 אופיים שונים לגמרי.\nכי קפה טוב זה לא מוצר. זה הרגל.",
+        "links": [
+          "https://creama.co.il/products/1-5kg-local-roast-mix"
+        ]
+      },
+      {
+        "ad_id": "940809655763667",
+        "text": "יש אנשים של בוקר, ויש אנשים של הקפה של הבוקר. \nבשבילכם יצרנו את 6am ✨\n\nתערובת הבית החדשה של CREAMA+ היא לא עוד קפה. \nהיא חווייה. 100% ערביקה בקלייה מקומית, ארומה משכרת ואיזון טעמים מדויק שיגרום לכם להתעורר לפני השעון המעורר😉.\n\nחדש באתר שלנו!",
+        "links": [
+          "https://creama.co.il/collections/house-blend/products/6am"
+        ]
+      },
+      {
+        "ad_id": "1340044587961101",
+        "text": "הקפה שלך לא צריך להיות אותו הדבר כל יום.\n\nיש בקרים של אספרסו חזק. יש רגעים של קפה נקי ומאוזן. ויש ימים שאנחנו פשוט מחפשים משהו שונה.\nמארז מיקס תערובות הבית של קרמה+ נותן לך את שלושתם — 1.5 ק\"ג, בקלייה מקומית, עם 3 אופיים שונים לגמרי.\nכי קפה טוב זה לא מוצר. זה הרגל.",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1592409732320718",
+        "text": "הטעם המדויק של קפה איכותי על הבוקר עושה את כל ההבדל. ☕️\nהמותגים הבינלאומיים שאתם אוהבים מחכים לכם. \nמארומות עמוקות ועשירות ועד לבלנדים העדינים והמאוזנים ביותר. זה הזמן לשדרג את הקפה של הבוקר. והצהריים...",
+        "links": [
+          "http://creama.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://creama.co.il/",
+      "https://creama.co.il/products/levinsky",
+      "https://creama.co.il/collections/house-blend/products/classic-espresso",
+      "https://creama.co.il/collections/house-blend/products/6am"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "filtered": "2026-09-27T01:41:05",
+    "unqualified": "2026-09-27T01:55:56"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://creama.co.il/",
+      "https://creama.co.il/products/levinsky",
+      "https://creama.co.il/pages/our-story"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

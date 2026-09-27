@@ -1,0 +1,105 @@
+{
+  "lead_id": "2026-09-27-098",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/calmioff/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "106013455736970",
+    "page_name": "Calmi",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "2875378652797378",
+        "link_title": "100,000 Women Are Loving This Menopause Relief!",
+        "body": "Struggling with Menopause Symptoms?\n\nMeet Calmi, the ring designed to naturally ease menopause discomforts. More than just jewelry, it's a wellness solution!\n\n✅ Reduces bloating & Meno Belly\n✅ Supports hormonal balance\n✅ Helps with hot flashes & night sweats\n✅ Enhances sleep & relaxation\n\nTake control of your well-being today. Order now and enjoy 40% OFF today !",
+        "landing_url": "https://mycalmi.com/products/calmi-ring-relieve-menopause-naturally",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/572106338_833379272469875_3549812775450301270_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AOPGw5teC1UQ7kNvwFPcCGL&_nc_oc=AdqSL3X_gGsND91hwdXpRie-qt_GuLwhWAqsGDP7_yXKciLA5dB4GNBVCA_BpDjpIO4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQLtw8PpW4DaBAUXyex_wHyClzRJ9DskDLuwZbqoc3cQIw&oe=6ABE5440"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1780729200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2875378652797378"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 9821,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2875378652797378"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 9821,
+    "page_categories": [
+      "Retail company"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

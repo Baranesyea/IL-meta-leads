@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-27-103",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/elegatto.shop/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "667199517129704",
+    "page_name": "Elegatto",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "1010444211371466",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://elegatto.com/products/pelagus-aegean-blue-bracelet",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725601209_1586922823148654_3675683072068204732_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XGEi486rMr0Q7kNvwGuW4Hv&_nc_oc=AdpqDiks_vW-d31TOROop6yN0GiKBBRozuFondA7n4imV0YlYH81cqTh9kIYV7gGqkU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQK7lI27ziuZ5cANFImnGmDevJRTHdSpIMXU6o5PLPxW5g&oe=6ABE564C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNfRs6PqV4IuY7T4nE-1U3VafoXZy920V7tg8gtWjKVYwqzzEdXlXuSg4hpYCDit12xizNu2e1bI_2EmurXp8lfDJ0e1PWghjNiachb7Bud_Q.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WLaIEWt-dCcQ7kNvwG4yAKm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjU1NTk3NzE3NzEwNzU4NCwiYXNzZXRfYWdlX2RheXMiOjUyNSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d5493d1f88b82c39&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTQxOEZCRDMwQzczREJFQkQ4NUZFNkI2MzU5NTc5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dKOWNTeDFCalFwMXRLc0VBQjRtVEdERzFhb1VidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAsqjikOr8ARUCKAJDMywXQDH52yLQ5WAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIpdr_3yi2h8tezgeqBpiwwKurJ38Q2jZtoyq78_tTjrQ&oe=6ABE4B4E"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1781766000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1010444211371466"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 44702,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1010444211371466"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 44702,
+    "page_categories": [
+      "Jewelry/watches"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

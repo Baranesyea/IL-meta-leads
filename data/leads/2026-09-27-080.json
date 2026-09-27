@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-27-080",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/noyskincarenyc/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "341065345905180",
+    "page_name": "Noy Skincare",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "3945402552170705",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://shop.noyskincare.com/collections/kits",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/143371869_1302643223442626_3795450010705031787_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ylCre49BHXQQ7kNvwGgIanf&_nc_oc=AdoAVkwtnRaFmbGI4P7hrr805IBKU6jH4qxeyjPff4ehdMnz9MY_vgYYRq5LV4xIVyk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQKNnG4F0kdnZzaAlwjw9-5ygdsaQeNbj3vadPTQMhym3Q&oe=6ABE3A04",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/142510312_1708434879349835_468778618602933825_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NQ0MwVXa4koQ7kNvwEGznis&_nc_oc=Adpyi6FjAgPJBpSBkkg1Xhex91s_kMhAbKs88XjQFxYlq1B_oiWDXbvS0Adpe1nHwEk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLNF5DXKP-OWvpVZUhGfiNL8vmGf5J3oXSUa0vadhkC1Q&oe=6ABE5789",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/142836532_239014194455385_8489670910855827412_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nvABWQeDsAcQ7kNvwHzoOUt&_nc_oc=AdrSsvdg6dxn8zG3icOOa78B83vgsyKg1q2B1CFeOPlxTt2bhrw6yuHb9XTR1cGz6aI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQK87Ai1NzAjoGfOvileaz1Lc_h-5LwBFVlKmjhvQaYDpw&oe=6ABE6415"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1611820800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=3945402552170705"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 17328,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "3945402552170705"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 17328,
+    "page_categories": [
+      "Health & Beauty",
+      "Spa"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

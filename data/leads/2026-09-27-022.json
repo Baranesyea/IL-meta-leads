@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-022",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://amit7c14.minisite.ms/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "492686693937860",
     "page_name": "עולם המשחקים-משחקים שכולם אוהבים",
-    "active_ads_count": 1,
+    "active_ads_count": 3,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -62,8 +62,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1749130889729201"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 266,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1749130889729201"
     ],
@@ -75,6 +88,150 @@
     "page_categories": [
       "Games/toys",
       "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "1749130889729201",
+        "page_id": "492686693937860",
+        "page_name": "עולם המשחקים-משחקים שכולם אוהבים",
+        "page_url": "https://www.facebook.com/61573108655563/",
+        "page_like_count": 266,
+        "page_categories": [
+          "Games/toys",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "\"אבא... אמא... משעמם לי!\" – המשפט שגורם לכל הורה לרצות לנעול את עצמו בשירותים לחמש דקות של שקט. 😅",
+        "body": "בואו נודה באמת: המסכים מנצחים אותנו, הצעצועים מהחנות נשכחים אחרי 4 דקות, והרעיונות לתעסוקה נגמרו איפשהו ב-2023.\nבדיוק בגלל זה פתחתי את \"עולם המשחקים\" ✨\nקהילת וואטסאפ שקטה שמביאה לכם קיצור דרך להורות שפויה:\n✔️ גאדג'טים ומשחקים שבאמת מדביקים את הילדים (ומעיפים אותם מהמסכים).\n✔️ רעיונות לפעילויות קלילות בלי להפוך את הבית למעבדת יצירה.\n✔️ המותגים הכי שווים במחירים שעושים נעים באשראי.\nבלי חפירות, בלי ספאם – רק ההמלצות שעובדות.\n\nלחצו כאן והצטרפו לקהילה השקטה שלנו בחינם ⬇️",
+        "link_description": "הצטרפו לקהילת \"עולם המשחקים\" ותתחילו לקבל את המציאות הכי טובות ברשת לפני כולם!",
+        "landing_url": "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789582731_2519845171867130_6738330020645101643_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YEPB1KpEuycQ7kNvwHmFyfh&_nc_oc=Adr0um4luOrPjGQKdxyQKcMRlp1zu4hH0svAd_1L3mLXIhYz4NmR5DTTlP4_ZYLASwI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=3JuNujM_zCKZT20aXvLFWw&_nc_ss=70289&oh=00_AQL11gXHcsSLmbvKTOH6iCCuJ2Kin7LqdO8aonkOmZG4yw&oe=6ABE3CFB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1749130889729201"
+      },
+      {
+        "id": "897867453117988",
+        "page_id": "492686693937860",
+        "page_name": "עולם המשחקים-משחקים שכולם אוהבים",
+        "page_url": "https://www.facebook.com/61573108655563/",
+        "page_like_count": 266,
+        "page_categories": [
+          "Games/toys",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "הם לא יזכרו את הסרטון ביוטיוב, הם יזכרו את מה שבניתם יחד 📱🚫",
+        "body": "בואו נדבר רגע בכנות – המסכים הם פתרון קל. הם שם כשצריך להכין ארוחת ערב, כשהאנרגיה בבית עולה על גדותיה, או כשהם מחפשים תעסוקה בזמן שאי אפשר לצאת החוצה. אבל עמוק בפנים, כולנו מכירים את תחושת ה\"פספוס\" כשאנחנו רואים אותם שוקעים בתוך האור הכחול שעות על גבי שעות.\nקהילת \"עולם המשחקים\" הוקמה בדיוק כדי להיות הגשר הזה – בין הדיגיטל למציאות, בין המסך למגע של חומר בידיים.\nאנחנו כאן כדי להחזיר את הניצוץ לעיניים (ולא מהשתקפות של טאבלט):\n\n🎨 יצירה שהיא חוויה: במקום לצפות באחרים יוצרים, אנחנו נותנים לכם מדריכי DIY להכנת סליים, תיאטרון מגנטי או יצירות מקרטון שמעסיקות אותם שעות.\n🧩 משחקים שבאמת עובדים: אני מלקטת עבורכם משחקי באלנס מעץ, פאזלים וערכות הרכבה שמפתחים ריכוז וסבלנות – בדיוק ה\"שרירים\" שהמסכים לפעמים מנוונים.\n🌿 זמן איכות אמיתי: הקהילה שלנו מציעה דרכים פשוטות ונעימות ליצור זמן משמעותי יחד, ללא צריכה מיותרת ובטון רגוע שמתמקד בערך התפתחותי.\nהצטרפו למאות הורים שכבר גילו איך הופכים אחר צהריים \"רגיל\" לחוויה מהנה, מרגשת ונעימה.\n\nבואו נניח את הטלפון ונשחק באמת:\n\n הקליקו להצטרפות לקהילה השקטה שלנו:👇",
+        "link_description": "הצטרפו לקהילת \"עולם המשחקים\" ותתחילו לקבל את המציאות הכי טובות ברשת לפני כולם!",
+        "landing_url": "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791687961_4392540627629571_6777502045894426490_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w2z8zDpBNVIQ7kNvwEHP8F2&_nc_oc=Adq3Om64aVUAVrvaqTT0ifAHhcUc_5Jwwv92J5rjaQ92DJADTmLCcHswJ-SB62HFVEQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=3JuNujM_zCKZT20aXvLFWw&_nc_ss=70289&oh=00_AQKkfYNpwInXVfn157wvZ-BqoNMLzEj9k4ZEN65VXrrb6A&oe=6ABE54C1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=897867453117988"
+      },
+      {
+        "id": "1095583476296555",
+        "page_id": "492686693937860",
+        "page_name": "עולם המשחקים-משחקים שכולם אוהבים",
+        "page_url": "https://www.facebook.com/61573108655563/",
+        "page_like_count": 266,
+        "page_categories": [
+          "Games/toys",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "\"רק עוד 5 דקות במסך...\" 📱",
+        "body": "כולנו מכירים את המבט המהופנט הזה, את הוויכוחים לכבות את הטלוויזיה ואת רגשות האשם שמגיעים מיד אחר כך.\n\nאבל האמת? ילדים לא באמת רוצים להיות מול מסכים כל היום. הם פשוט צריכים גירוי שינצח את הבהוב הפיקסלים.\n\nבדיוק בשביל זה הקמנו את \"עולם המשחקים\":\nקהילה סגורה ושקטה של הורים, שבה אנחנו מסננים את כל הרעש ברשת ומשתפים ברעיונות מקוריים, משחקים מפתחים וגאדג'טים שגורמים לילדים לעזוב את הטלפון מעצמם – ולשחק שעות בעניין ובסקרנות.\n\n🧸 רעיונות למשחק משותף ועצמאי\n💡 צעצועים וחומרי יצירה שנבדקו באמת\n🎁 המלצות ודילים במחירים הכי משתלמים ברשת\n\nההצטרפות פתוחה וללא עלות 👇",
+        "link_description": "הצטרפו לקהילת \"עולם המשחקים\" ותתחילו לקבל את המציאות הכי טובות ברשת לפני כולם!",
+        "landing_url": "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/793212379_28705480929059682_7874808206034268481_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C_dZfK2dyk0Q7kNvwEGa-Td&_nc_oc=AdomC8WqCxibxdVK_6EU4kPhAywgoUnlzNId_M4SpKzFUgvhwta9NtGJ8g5BqiPNBHs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=3JuNujM_zCKZT20aXvLFWw&_nc_ss=70289&oh=00_AQLsjD6OuMIt_vXGCCNym48XE-OPIjgBV-TlwYD5Zg_c9Q&oe=6ABE2CBC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1095583476296555"
+      },
+      {
+        "id": "1749130889729201",
+        "body": "בואו נודה באמת: המסכים מנצחים אותנו, הצעצועים מהחנות נשכחים אחרי 4 דקות, והרעיונות לתעסוקה נגמרו איפשהו ב-2023.\nבדיוק בגלל זה פתחתי את \"עולם המשחקים\" ✨\nקהילת וואטסאפ שקטה שמביאה לכם קיצור דרך להורות שפויה:\n✔️ גאדג'טים ומשחקים שבאמת מדביקים את הילדים (ומעיפים אותם מהמסכים).\n✔️ רעיונות לפעילויות קלילות בלי להפוך את הבית למעבדת יצירה.\n✔️ המותגים הכי שווים במחירים שעושים נעים באשראי.\nבלי חפירות, בלי ספאם – רק ההמלצות שעובדות.\n\nלחצו כאן והצטרפו לקהילה השקטה שלנו בחינם ⬇️",
+        "landing_url": "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1749130889729201",
+        "text": "בואו נודה באמת: המסכים מנצחים אותנו, הצעצועים מהחנות נשכחים אחרי 4 דקות, והרעיונות לתעסוקה נגמרו איפשהו ב-2023.\nבדיוק בגלל זה פתחתי את \"עולם המשחקים\" ✨\nקהילת וואטסאפ שקטה שמביאה לכם קיצור דרך להורות שפויה:\n✔️ גאדג'טים ומשחקים שבאמת מדביקים את הילדים (ומעיפים אותם מהמסכים).\n✔️ רעיונות לפעילויות קלילות בלי להפוך את הבית למעבדת יצירה.\n✔️ המותגים הכי שווים במחירים שעושים נעים באשראי.\nבלי חפירות, בלי ספאם – רק ההמלצות שעובדות.\n\nלחצו כאן והצטרפו לקהילה השקטה שלנו בחינם ⬇️",
+        "links": [
+          "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+        ]
+      },
+      {
+        "ad_id": "897867453117988",
+        "text": "בואו נדבר רגע בכנות – המסכים הם פתרון קל. הם שם כשצריך להכין ארוחת ערב, כשהאנרגיה בבית עולה על גדותיה, או כשהם מחפשים תעסוקה בזמן שאי אפשר לצאת החוצה. אבל עמוק בפנים, כולנו מכירים את תחושת ה\"פספוס\" כשאנחנו רואים אותם שוקעים בתוך האור הכחול שעות על גבי שעות.\nקהילת \"עולם המשחקים\" הוקמה בדיוק כדי להיות הגשר הזה – בין הדיגיטל למציאות, בין המסך למגע של חומר בידיים.\nאנחנו כאן כדי להחזיר את הניצוץ לעיניים (ולא מהשתקפות של טאבלט):\n\n🎨 יצירה שהיא חוויה: במקום לצפות באחרים יוצרים, אנחנו נותנים לכם מדריכי DIY להכנת סליים, תיאטרון מגנטי או יצירות מקרטון שמעסיקות אותם שעות.\n🧩 משחקים שבאמת עובדים: אני מלקטת עבורכם משחקי באלנס מעץ, פאזלים וערכות הרכבה שמפתחים ריכוז וסבלנות – בדיוק ה\"שרירים\" שהמסכים לפעמים מנוונים.\n🌿 זמן איכות אמיתי: הקהילה שלנו מציעה דרכים פשוטות ונעימות ליצור זמן משמעותי יחד, ללא צריכה מיותרת ובטון רגוע שמתמקד בערך התפתחותי.\nהצטרפו למאות הורים שכבר גילו איך הופכים אחר צהריים \"רגיל\" לחוויה מהנה, מרגשת ונעימה.\n\nבואו נניח את הטלפון ונשחק באמת:\n\n הקליקו להצטרפות לקהילה השקטה שלנו:👇",
+        "links": [
+          "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+        ]
+      },
+      {
+        "ad_id": "1095583476296555",
+        "text": "כולנו מכירים את המבט המהופנט הזה, את הוויכוחים לכבות את הטלוויזיה ואת רגשות האשם שמגיעים מיד אחר כך.\n\nאבל האמת? ילדים לא באמת רוצים להיות מול מסכים כל היום. הם פשוט צריכים גירוי שינצח את הבהוב הפיקסלים.\n\nבדיוק בשביל זה הקמנו את \"עולם המשחקים\":\nקהילה סגורה ושקטה של הורים, שבה אנחנו מסננים את כל הרעש ברשת ומשתפים ברעיונות מקוריים, משחקים מפתחים וגאדג'טים שגורמים לילדים לעזוב את הטלפון מעצמם – ולשחק שעות בעניין ובסקרנות.\n\n🧸 רעיונות למשחק משותף ועצמאי\n💡 צעצועים וחומרי יצירה שנבדקו באמת\n🎁 המלצות ודילים במחירים הכי משתלמים ברשת\n\nההצטרפות פתוחה וללא עלות 👇",
+        "links": [
+          "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+        ]
+      },
+      {
+        "ad_id": "1749130889729201",
+        "text": "בואו נודה באמת: המסכים מנצחים אותנו, הצעצועים מהחנות נשכחים אחרי 4 דקות, והרעיונות לתעסוקה נגמרו איפשהו ב-2023.\nבדיוק בגלל זה פתחתי את \"עולם המשחקים\" ✨\nקהילת וואטסאפ שקטה שמביאה לכם קיצור דרך להורות שפויה:\n✔️ גאדג'טים ומשחקים שבאמת מדביקים את הילדים (ומעיפים אותם מהמסכים).\n✔️ רעיונות לפעילויות קלילות בלי להפוך את הבית למעבדת יצירה.\n✔️ המותגים הכי שווים במחירים שעושים נעים באשראי.\nבלי חפירות, בלי ספאם – רק ההמלצות שעובדות.\n\nלחצו כאן והצטרפו לקהילה השקטה שלנו בחינם ⬇️",
+        "links": [
+          "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
     ]
   },
   "current_ads": [],
@@ -88,6 +245,25 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:28:17",
+    "unqualified": "2026-09-27T01:32:17"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://amit7c14.minisite.ms/",
+      "https://amit7c14.minisite.ms/worldofgames?fbclid=IwY2xjawUDq2VwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6IEFAxz2yiO2283DCM2yooQ1y7XZo_7dqBdEMhmyk-smITNfuS5d4AWKApOQ_aem_saDBthJu9cgZCyVsiSsKZQ"
+    ],
+    "store_signals": [
+      "cart"
+    ],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
   }
 }

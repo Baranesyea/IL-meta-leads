@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-132",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/treatmedy/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "109699905229885",
+    "page_name": "Treatmedy",
+    "active_ads_count": 1,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "1511554006421180",
+        "link_title": "FREE Shipping & 90-Day Results or Refund Guarantee",
+        "body": "Forgot to checkout? 50% OFF Sale Ends Today!\n⭐️⭐️⭐️⭐️⭐️ \"I have been suffering from bunion discomfort for years.\n\nNothing has helped until I tried this Bunion Fix! I spend 10-12 hours a day standing at work and this has been a lifesaver! ” - Sherri T.\n\nGet yours now >> https://shop.treatmedy.com/bunion/ps-2-50\n\n✅ FREE Shipping & 90-Day Results or Full Refund Guarantee",
+        "landing_url": "https://shop.treatmedy.com/bunion/ps-2-50",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/454489230_1224076992371931_5253692479748615192_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7v5NAbTAiJIQ7kNvwFnwYbg&_nc_oc=Adoq_XXFCmROQd-iO2cAs58vqQEAYSkIj7XviLt56qGsF70qUXEC-UPRLgb33oUT_OQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQLXisxKfcCTUPxtLKAhiKNfyMqCrJvjcsT6b3tYzdINkA&oe=6ABE3A34"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1723014000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1511554006421180"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 13888,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1511554006421180"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 13888,
+    "page_categories": [
+      "Health & wellness website"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "rejected": "2026-09-27T01:55:08"
+  }
+}

@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-009",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "website is not a store (no cart / store platform)",
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://lp.smoove.io/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "427406163800525",
     "page_name": "עיצוב הבית והמטבח",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -63,8 +63,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2227744721375630"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 223,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2227744721375630"
     ],
@@ -75,6 +88,109 @@
     "page_like_count": 223,
     "page_categories": [
       "קניות"
+    ],
+    "page_ads": [
+      {
+        "id": "2227744721375630",
+        "page_id": "427406163800525",
+        "page_name": "עיצוב הבית והמטבח",
+        "page_url": "https://www.facebook.com/61569433883864/",
+        "page_like_count": 223,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "להצטרפות לקהילה לחץ כאן >>",
+        "body": "אוהבים לבשל? לאפות? מתרגשים מכל חידוש שיכול לשדרג לכם את המטבח? 🤩.\nאם כן, אתם חייבים להיות איתנו!\nפתחנו קהילת וואטסאפ מיוחדת שבה תמצאו את כל מה שצריך כדי להפוך את המטבח שלכם למגרש משחקים אמיתי – עם דילים חמים, גאדג'טים שימושיים וסיילים שלא תרצו לפספס!\n\n🔗 מצטרפים עכשיו ומתחילים ליהנות! 👇\n🫶 מחכים לכם בקבוצה!",
+        "link_description": "קהילת וואצפ לדילים שווים לבית ולמטבח.",
+        "landing_url": "https://lp.smoove.io/1ibs",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/716670177_1392046589423964_6384227067683841263_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bzaPBItXR84Q7kNvwG85VHg&_nc_oc=AdowzSgawHxi22tO6oEBMs9Vpu9m0-QI2nz2FCvq_IU0IfIoPaFbMOqi1f4HTGD3AXc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=DNaQSWzDstcd5p9281Rg-A&_nc_ss=70289&oh=00_AQLZRkLKCZS7-BN4aCGkykpORbOFhONTMR_hJOTzWL8rDA&oe=6ABE2E83",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMtoc1Yp57FGYrlmRMc45FjXhpJxqwEWXn2bAkrFX4ihmWLQRqH6pm5Z1glYDLQAd3AhvkZEPjrtUXS2CisVXgB99Qc4C659hoa6w8rEONM8A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=GhjNd_v65eYQ7kNvwHt8GnR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzk5OTU5MTQyNjMyMTUsImFzc2V0X2FnZV9kYXlzIjo1ODAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2abfb1ca5ce08c0e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzQzRDE0Qjk5NTZCRDg2MjNDQUQ0NDI4MDEwQkY4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPLURzaHpXQUZZN3RqQUNBTHJHMUJHZmtvUTRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbe6p64v7SGBBUCKAJDMywXQDjVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DNaQSWzDstcd5p9281Rg-A&_nc_ss=70289&_nc_zt=28&oh=00_AQLyDybsMSV1YmUP9-K6MmXZXPWv6LCeqvc05XOQWiVQVA&oe=6ABE3462"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2227744721375630"
+      },
+      {
+        "id": "1482291320313815",
+        "page_id": "427406163800525",
+        "page_name": "עיצוב הבית והמטבח",
+        "page_url": "https://www.facebook.com/61569433883864/",
+        "page_like_count": 223,
+        "page_categories": [
+          "קניות"
+        ],
+        "ad_creative_link_title": "להצטרפות לקהילה הווצאפ שלנו לחץ כאן >>",
+        "body": "הצטרפו עוד היום לקבוצת הווצאפ הגדלה שלנו   🤩.\nשבה תוכלו להנות מדילים לבית ולמטבח \nשיחסכו לכם הרבה כסף \nוישדרגו לכם את החיים והעבודה בבית.\n\nבקבוצה יהיו מוצרים : \n- לשדרוג הבית\n- לעיצוב הבית\n- לעבודה במטבח \n- גאדטים חדשים \n\nהצטרפו עוד היום ותהנו מהנחות קופונים \nלינק לקבוצה >>",
+        "link_description": "קהילת וואצפ לדילים שווים לבית ולמטבח.",
+        "landing_url": "https://lp.smoove.io/1ibs",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714650834_980285914587333_5203347351921828161_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QjMce1eCbZoQ7kNvwEKcwja&_nc_oc=AdpBTr8R6ArvLTp5pbIQuxiVPd7WGRAfFk0l72C0iP1MMUpRLQh7J0AyLJjM8Hi--mI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=DNaQSWzDstcd5p9281Rg-A&_nc_ss=70289&oh=00_AQJKuKU1tUNXHbv6H9x96unDvLjKiSkLkSUv-LGomWJ7Yg&oe=6ABE3856",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMvdydcz8oPbrXrLL_31qCXurQNDevQ1pNVs2uauF4iJe7AKB9BLPCeujWHbahlfIWou6jEZ6EnAR_HK9ORi-nRUwvZqyYZ-ZPWrLp6NYkD5Q.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bpGmZ02G6bEQ7kNvwHQfEh_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjM1ODk3ODk3NDQxNjIsImFzc2V0X2FnZV9kYXlzIjoyNDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f43361ae2c98699&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTQ5NDU1NUFDRUU3MURGQTE1MEZDNDc3RUE1MzVCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q5NDY4NDNFRENGMjI2MkE2MDlGQjNBMTA4REM0OTkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE8NOkxPn-AxUCKAJDMywXQDkZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=DNaQSWzDstcd5p9281Rg-A&_nc_ss=70289&_nc_zt=28&oh=00_AQL_h1XepkoxMRejONnsrBVWKbb7Rt73HWP7f5JnUjDCIw&oe=6ABE2E9A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1482291320313815"
+      },
+      {
+        "id": "2227744721375630",
+        "body": "אוהבים לבשל? לאפות? מתרגשים מכל חידוש שיכול לשדרג לכם את המטבח? 🤩.\nאם כן, אתם חייבים להיות איתנו!\nפתחנו קהילת וואטסאפ מיוחדת שבה תמצאו את כל מה שצריך כדי להפוך את המטבח שלכם למגרש משחקים אמיתי – עם דילים חמים, גאדג'טים שימושיים וסיילים שלא תרצו לפספס!\n\n🔗 מצטרפים עכשיו ומתחילים ליהנות! 👇\n🫶 מחכים לכם בקבוצה!",
+        "landing_url": "https://lp.smoove.io/1ibs"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2227744721375630",
+        "text": "אוהבים לבשל? לאפות? מתרגשים מכל חידוש שיכול לשדרג לכם את המטבח? 🤩.\nאם כן, אתם חייבים להיות איתנו!\nפתחנו קהילת וואטסאפ מיוחדת שבה תמצאו את כל מה שצריך כדי להפוך את המטבח שלכם למגרש משחקים אמיתי – עם דילים חמים, גאדג'טים שימושיים וסיילים שלא תרצו לפספס!\n\n🔗 מצטרפים עכשיו ומתחילים ליהנות! 👇\n🫶 מחכים לכם בקבוצה!",
+        "links": [
+          "https://lp.smoove.io/1ibs"
+        ]
+      },
+      {
+        "ad_id": "1482291320313815",
+        "text": "הצטרפו עוד היום לקבוצת הווצאפ הגדלה שלנו   🤩.\nשבה תוכלו להנות מדילים לבית ולמטבח \nשיחסכו לכם הרבה כסף \nוישדרגו לכם את החיים והעבודה בבית.\n\nבקבוצה יהיו מוצרים : \n- לשדרוג הבית\n- לעיצוב הבית\n- לעבודה במטבח \n- גאדטים חדשים \n\nהצטרפו עוד היום ותהנו מהנחות קופונים \nלינק לקבוצה >>",
+        "links": [
+          "https://lp.smoove.io/1ibs"
+        ]
+      },
+      {
+        "ad_id": "2227744721375630",
+        "text": "אוהבים לבשל? לאפות? מתרגשים מכל חידוש שיכול לשדרג לכם את המטבח? 🤩.\nאם כן, אתם חייבים להיות איתנו!\nפתחנו קהילת וואטסאפ מיוחדת שבה תמצאו את כל מה שצריך כדי להפוך את המטבח שלכם למגרש משחקים אמיתי – עם דילים חמים, גאדג'טים שימושיים וסיילים שלא תרצו לפספס!\n\n🔗 מצטרפים עכשיו ומתחילים ליהנות! 👇\n🫶 מחכים לכם בקבוצה!",
+        "links": [
+          "https://lp.smoove.io/1ibs"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://lp.smoove.io/1ibs"
     ]
   },
   "current_ads": [],
@@ -88,6 +204,18 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:28",
+    "rejected": "2026-09-27T01:29:29"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.smoove.io",
+      "https://lp.smoove.io/1ibs"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false
   }
 }

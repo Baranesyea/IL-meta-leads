@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-008",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://olivier-il.com/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/uski.olivier/",
+      "source": "https://olivier-il.com/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,15 +28,21 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972505269666",
+      "source": "https://olivier-il.com/",
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "office hours next to the number",
+        "labelled 'שרות לקוחות' next to the number",
+        "1 landline(s)"
+      ]
     }
   },
   "meta": {
     "page_id": "459278637610804",
     "page_name": "אוליבייה כלי בית איכותיים Olivier",
-    "active_ads_count": 1,
+    "active_ads_count": 9,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -64,8 +70,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1090073553694189"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "לרכישה",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 9,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "ORDER_NOW"
+      ],
+      "page_like_count": 11227,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1090073553694189"
     ],
@@ -76,6 +98,367 @@
     "page_like_count": 11227,
     "page_categories": [
       "Household supplies"
+    ],
+    "page_ads": [
+      {
+        "id": "1090073553694189",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מבצעי החגים של אוליבייה שאסור לכם לפספס!\n▪▪▪▪▪▪▪▪▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.\n🔸 🔸 🔸\nלרכישה ישירה באתר: https://olivier-il.com/\n#שואבאבק #ניקיון✔️ #מטבח #גאדגאטיםלמטבח #תבניותאפיה",
+        "link_description": "",
+        "landing_url": "https://olivier-il.com/",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1786863600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/773614786_2515281878971368_7902963468853477541_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4NB8lVXTZw8Q7kNvwEb3xYL&_nc_oc=Adr-pskLoiSkmVATuwjwhrFSf2QhbbNToHXy8F-5Nh2IG4cNT6QPfrX0xSGf99jgL-0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQLmJg-fR9ubFPrq65KV75EG7dQUvpLC65okgMJjcHh8pQ&oe=6ABE2FD7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/774779575_1528816381850874_4313439918352598679_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fHbxKm0iJCYQ7kNvwEAQ7La&_nc_oc=Adr_Od_FpdvAusya0DNdw0ukVW4mNQ-ZBU1D_8_xiytWc-6zHzEdGBS_k9o3HKjTeR8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQJ55sUYcddExg-M3uhHsEW-IwhposAz4UwW5P6l--rLKQ&oe=6ABE2F4E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/775471459_1789546802045336_7148529680259148963_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q8h-63BY6CsQ7kNvwGQvfK8&_nc_oc=AdpWhXgIvnLnTiG0iYn-RmfAxypXtMp053O6yrmI-k0yMlgObmiwC3_E6d9g1JOXBRg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQKkrDbW0kZGSb0Rvp_RE9Yc8VFiA5ExM0i-p30u-AeIKw&oe=6ABE3593",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774099739_1542779597598991_5117906884877661105_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hNc1UZvU9-sQ7kNvwHiSUR9&_nc_oc=AdqM__zxhZCBECgQEj6BZ8sM3T9x6PrnSGou92cy2iHrVzQlBmQBMASgP4N81KzvmNY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQIqMAVbLPM0ttgfWAcBicVRQ5yY4NzU8Dw2jXjak3VqpA&oe=6ABE432E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1090073553694189"
+      },
+      {
+        "id": "2889807914726915",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "ציוד למשק בית"
+        ],
+        "ad_creative_link_title": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "body": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "link_description": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.\nמתאים לבתי ספר, בתי חולים, בתי מלון, סופרים ומרכזים מסחריים שדורשים רמת ניקיון גבוהה, עבודה רציפה ועמידות לאורך זמן.\nNumatic מציעה מכונות שטיפה מתקדמות, קלות לתפעול וחסכוניות, עם איכות ייצור בריטית שמוכיחה את עצמה בשטח יום אחרי יום.\n\nרוצים רצפה נקייה יותר בפחות זמן ועם פחות תקלות?\nהשאירו פרטים ונשמח להתאים לכם את הפתרון הנכון למוסד שלכם.\n\n#Numatic\n#ניקיון_מוסדי\n#מכונות_שטיפה\n#ניהול_אחזקה\n#מנהלי_רכש\n#בתי_ספר\n#בתי_חולים\n#בתי_מלון\n#ניקיון_מקצועי\n#ציוד_מוסדי",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782889200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733747130_1577181477364325_1419711757525394794_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qPn_njn8nWgQ7kNvwGM1tL8&_nc_oc=AdrrzVfASlRCBFtLJK0mbyNFOQ8SkB_xL4zUV6MrxJ4EHh5t6CKYQm-poB3MCSjhZyM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQLb_-igmznFy-fz4UBY5G27yJIDx0nNpSCrngO_pokwkg&oe=6ABE39C0",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPqURRebjJqtVK__gRgdYOWND5GAS8wVeX5bum5qZhMS0rZlkSnIE17LjKwi02_YxuIgVFX8HCVhbVO732ffQ01gLeZCquUxvNBj7QPOCPvGw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=CA2khyl3groQ7kNvwHJrGaF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTk0MTgxOTgxNTk3NjI3LCJhc3NldF9hZ2VfZGF5cyI6MjY0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e472baf6840533f8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQzRCQTBDRTUzMkFEMTA1MTk4ODAxQ0ZEMEVGOTQ4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QyNERBQ0JEREU3QjQ3MDA5OEExQzFEQzJEMkQwRTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2vsOrzfnUBRUCKAJDMywXQE4ZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&_nc_zt=28&oh=00_AQJ7wDxahx09SF64aKqNEtZnEswspEvLLmA7-_1zr0O7ZQ&oe=6ABE318D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2889807914726915"
+      },
+      {
+        "id": "1087123793972024",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "♻️נמאס לכם מהריח בלובי הבניין. יש לנו הצעה בשבילכם♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/782511328_1744950749882608_311459408016416793_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LyZYGCQQcCwQ7kNvwEd87_U&_nc_oc=AdqgNpMkuxr0m0QbB68TbUTwXTbCEn4-kbF_F0GdpTVCEyoDYiZllbuJwodWL3KdGtM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQKp9oeUDETwICSkv7Inj5XpUnqe3ypgH9RDJscvjzu91Q&oe=6ABE5A41"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1087123793972024"
+      },
+      {
+        "id": "1360938995968511",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "body": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "link_description": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.\nמתאים לבתי ספר, בתי חולים, בתי מלון, סופרים ומרכזים מסחריים שדורשים רמת ניקיון גבוהה, עבודה רציפה ועמידות לאורך זמן.\nחברת Numatic מציעה מכונות שטיפה מתקדמות, קלות לתפעול וחסכוניות, עם איכות ייצור בריטית שמוכיחה את עצמה בשטח יום אחרי יום.\n\nרוצים רצפה נקייה יותר בפחות זמן ועם פחות תקלות?\nהשאירו פרטים ונשמח להתאים לכם את הפתרון הנכון למוסד שלכם.\n\n#Numatic\n#ניקיון_מוסדי\n#מכונות_שטיפה\n#ניהול_אחזקה\n#מנהלי_רכש\n#בתי_ספר\n#בתי_חולים\n#בתי_מלון\n#ניקיון_מקצועי\n#ציוד_מוסדי",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727519303_1945635526151964_1670278698849737364_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWPiQ-yFkeQQ7kNvwHVVwnr&_nc_oc=AdoBS7O979Q1hVG802HVpHHwkWZm5LIsZgDzsAuCynaBVTRDDNKRYHHkDNgWNhBSo_E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQISDX4ZrxGVxFqtdnrKre-BSNHcLM7xPFeyUSCwxB0nhA&oe=6ABE453B",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOkag_ZKJKIUhXoEXvreKzRB5NTGv_78oHAy5oR3vhEoauDmJkXmqmIHYz8HT_VmDfqggWyGza8XyY56nUHp7sbeLaw5bDEmPRq08y3xo4U6w.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=ecrUrpkYU3oQ7kNvwEUWnQ2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo4NjEwNzUxMjAwNDg2MzIsImFzc2V0X2FnZV9kYXlzIjoyNjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6874e09c1f77d2c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RDRENDUzMDVDNjU4Nzc5RTRDN0E4QUM5NzJCMzVCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q0NEVDQjc0RkFBQTdGNDRFOTlDMUFFQzQ5QTVGNjlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwp77KlcmHAxUCKAJDMywXQEtcKPXCj1wYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&_nc_zt=28&oh=00_AQLHtRMzFT9-GYG89MG09nQr8RsFaLYBhRGEyKU1xFImUA&oe=6ABE404B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1360938995968511"
+      },
+      {
+        "id": "971549122534012",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "ציוד למשק בית"
+        ],
+        "ad_creative_link_title": "מכשירי ניקוי מוסדיים מבית numatic",
+        "body": "מכונות השטיפה של המותג הבינלאומי numatic",
+        "link_description": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.\nמתאים לבתי ספר, בתי חולים, בתי מלון, סופרים ומרכזים מסחריים שדורשים רמת ניקיון גבוהה, עבודה רציפה ועמידות לאורך זמן.\nחברת Numatic מציעה מכונות שטיפה מתקדמות, קלות לתפעול וחסכוניות, עם איכות ייצור בריטית שמוכיחה את עצמה בשטח יום אחרי יום.\n\nרוצים רצפה נקייה יותר בפחות זמן ועם פחות תקלות?\nהשאירו פרטים ונשמח להתאים לכם את הפתרון הנכון למוסד שלכם.\n\n#Numatic\n#ניקיון_מוסדי\n#מכונות_שטיפה\n#ניהול_אחזקה\n#מנהלי_רכש\n#בתי_ספר\n#בתי_חולים\n#בתי_מלון\n#ניקיון_מקצועי\n#ציוד_מוסדי",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/727903938_1349466717148141_7970061888525381218_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UWDBxXpyHo4Q7kNvwHRlEeJ&_nc_oc=Adop6armLctPK4vjLb4ObgJiZm4aVqqRxXNWJJIJIfdpg5vCdxn8YRDbn9lLudrcPZk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQKamEg8pl2OE4tr5VG3a1ni9Ejm9AFGDQgVini5mQiMyQ&oe=6ABE4260",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPuuwiYhPRyf4G5p2C6XbgLF96OeUxtRtN_pFiW2S6gcDE8gbSXkslwSjn5j0RkHhtI5_3F2iRFGCdZCUO1d8VAsIU67sQXUmrzCfKzlXssVA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=q0Nd4NOdhxgQ7kNvwEtsGZw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozOTEzNDYyMzk4OTUxOTE2LCJhc3NldF9hZ2VfZGF5cyI6MjY0LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9b632bbb0030d1c9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NzQ1QTI5QzQ2RkFEQzNGMUVCRDVCOTY2QTAzNjI5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNDUwNDlCNkM5OEFCNDRFOERCRDQwNzIxNDZDQTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYh42Cv9HzDRUCKAJDMywXQE7hR64UeuEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&_nc_zt=28&oh=00_AQKNyuEwWlQedS6zAGIBHNYsU-1r6_K2tlw9w-icDV9ZMg&oe=6ABE4C9F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=971549122534012"
+      },
+      {
+        "id": "1806546617201208",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "♻️נמאס לכם מהריח בלובי הבניין. יש לנו הצעה בשבילכם♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788213035_1090479239985622_5280668047364954972_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sb7-89iUe64Q7kNvwEiEPZR&_nc_oc=AdpWYI2EDjZzPVrxOA40sBh_OO4eqqH3oVuGBmDSA9p3e_sQGqyx07yKq5xZS71jVe8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQL5jn4GgIGUaSTFktJTLNnFWxDZ8K0bQ7-r30dRDm3Ivw&oe=6ABE3195"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1806546617201208"
+      },
+      {
+        "id": "2339747769892093",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "♻️ בעלי עסקים - הגיע הזמן שגם העסק שלכם יריח כמו העסקים המובילים בעולם ♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790945198_1007977658961670_5316129443678340445_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YU-DHVQzCHEQ7kNvwEtjgKW&_nc_oc=Adq15a3F19upijYAGium_f217ic8cbLueg5YzV1PQpp41zEkV1hjuxTyhxuulcJjMww&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQKX5LzkOKtO-IbKPHmJbqCWN7a5e-UXHCR84bbTunEK_w&oe=6ABE5968"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2339747769892093"
+      },
+      {
+        "id": "1991098984888416",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "",
+        "body": "♻️ בעלי עסקים - הגיע הזמן שגם העסק שלכם יריח כמו העסקים המובילים בעולם ♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790434554_2124222278478536_5858843009802544956_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3iJkzYk0iTwQ7kNvwFVxY2z&_nc_oc=Adp1u-uvb0HqcsbU7ygRqsFkvWJFMGf9hVUyPNheUuhcHpS1agCKWDVjPnZi0ViXf0w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=g2_n_I00Eb1qsHrONUeFIA&_nc_ss=70289&oh=00_AQJP972X2GzYrxFhy5JiiQkzOvb6eamLMpZ3XcH0jGCRBw&oe=6ABE4DC9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1991098984888416"
+      },
+      {
+        "id": "993476666733275",
+        "page_id": "459278637610804",
+        "page_name": "אוליבייה כלי בית איכותיים Olivier",
+        "page_url": "https://www.facebook.com/OLIVIER.CO.IL/",
+        "page_like_count": 11227,
+        "page_categories": [
+          "Household supplies"
+        ],
+        "ad_creative_link_title": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "body": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "link_description": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.\nמתאים לבתי ספר, בתי חולים, בתי מלון, סופרים ומרכזים מסחריים שדורשים רמת ניקיון ...",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_QUOTE",
+        "cta_text": "קבלת הצעת מחיר",
+        "display_format": "TEXT",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=993476666733275"
+      },
+      {
+        "id": "1090073553694189",
+        "body": "מבצעי החגים של אוליבייה שאסור לכם לפספס!\n▪▪▪▪▪▪▪▪▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.\n🔸 🔸 🔸\nלרכישה ישירה באתר: https://olivier-il.com/\n#שואבאבק #ניקיון✔️ #מטבח #גאדגאטיםלמטבח #תבניותאפיה",
+        "landing_url": "https://olivier-il.com/"
+      }
+    ],
+    "social_landings": [
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1090073553694189",
+        "text": "מבצעי החגים של אוליבייה שאסור לכם לפספס!\n▪▪▪▪▪▪▪▪▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.\n🔸 🔸 🔸\nלרכישה ישירה באתר: https://olivier-il.com/\n#שואבאבק #ניקיון✔️ #מטבח #גאדגאטיםלמטבח #תבניותאפיה",
+        "links": [
+          "https://olivier-il.com/"
+        ]
+      },
+      {
+        "ad_id": "2889807914726915",
+        "text": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1087123793972024",
+        "text": "♻️נמאס לכם מהריח בלובי הבניין. יש לנו הצעה בשבילכם♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1360938995968511",
+        "text": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "971549122534012",
+        "text": "מכונות השטיפה של המותג הבינלאומי numatic",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1806546617201208",
+        "text": "♻️נמאס לכם מהריח בלובי הבניין. יש לנו הצעה בשבילכם♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "2339747769892093",
+        "text": "♻️ בעלי עסקים - הגיע הזמן שגם העסק שלכם יריח כמו העסקים המובילים בעולם ♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1991098984888416",
+        "text": "♻️ בעלי עסקים - הגיע הזמן שגם העסק שלכם יריח כמו העסקים המובילים בעולם ♻️\nריפרש מובילה את מהפכת הריחות בתחום מפיצי הריח עם קולקציית ריחות ייחודית שאתם חייבים להריח. \nמפיץ הארומה מיצר אווירה של מלון יוקרה בבית ובעסק. מיועד למי שמחפש חוויית ריח ברמה הגבוהה ביותר. המכשיר משלב טכנולוגיית פיזור ארומה מתקדמת, עיצוב מינימליסטי ונוכחות אסתטית המתמזגת בקיר באופן מושלם.\nמתאים לשימוש בבתי מלון, משרדי הייטק, חנויות יוקרה ובתים בעיצוב מודרני.\n▪▪▪▪▪▪▪▪▪▪▪\n▪▪ ייבוא ושיווק אוליבייה כלי בית | olivier-il.com ▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "993476666733275",
+        "text": "מכונות השטיפה המוסדיות של Numatic נותנות פתרון מקצועי, חזק ואמין לניקיון יומיומי במוסדות.",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1090073553694189",
+        "text": "מבצעי החגים של אוליבייה שאסור לכם לפספס!\n▪▪▪▪▪▪▪▪▪▪\n▪אוליבייה כלי בית- יבואן כלי בית מהמותגים הטובים בעולם▪\nבניהם ליפהייט, הנרי, פושפאן, סונלה, היילו, רולר, אקווהפלאסק ועוד...\nכלי נקיון, ייבוש כביסה,בקבוקים תרמים, שולחנות גיהוץ, כלי מטבח, תבניות\nאפייה, ייבוש כלים, פחי אשפה, סולמות, משקלים פתרונות אחסון\nומגוון גאדג׳טים לבית.\n🔸 🔸 🔸\nלרכישה ישירה באתר: https://olivier-il.com/\n#שואבאבק #ניקיון✔️ #מטבח #גאדגאטיםלמטבח #תבניותאפיה",
+        "links": [
+          "https://olivier-il.com/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://olivier-il.com/"
     ]
   },
   "current_ads": [],
@@ -89,6 +472,26 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:16",
+    "unqualified": "2026-09-27T01:29:21"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://olivier-il.com/",
+      "https://olivier-il.com/about-us/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "owner_whatsapp"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-018",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -62,8 +62,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1015204514902842"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 50,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1015204514902842"
     ],
@@ -74,6 +87,41 @@
     "page_like_count": 50,
     "page_categories": [
       "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "1015204514902842",
+        "page_id": "899160866605099",
+        "page_name": "ציידי הדילים",
+        "page_url": "https://www.facebook.com/61582400871065/",
+        "page_like_count": 50,
+        "page_categories": [
+          "Shopping"
+        ],
+        "ad_creative_link_title": "מוצרים איכותיים בחצי מחיר - המלאי מוגבל!",
+        "body": "מחפשים מוצרים מנצחים במחירים שאי אפשר להאמין? אפשר להפסיק לחפש! 🎯🔥\n\nהצוות שלנו צד עבורכם כל יום עשרות מוצרים איכותיים, אמינים ושימושיים - בהנחות ענק!\n⚽ ספורט ואקססוריז\n🔨 מוצרים לבית ולגינה\n👦 צעצועים ומוצרי ילדים\n📱 טכנולוגיה, גאדג'טים ועוד!\n\nלחצו כאן עכשיו כדי לגלות איך מצטרפים לקהילה שלנו ומתחילים לחסוך בגדול 👇",
+        "link_description": "AI שכותב מודעות בעברית, יוצר קישורי שותף, ושולח לטלגרם ולוואטסאפ — אוטומטית, ממקום אחד.",
+        "landing_url": "https://www.alideals.site/l/alideals",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/793158919_1023293454065560_4389004328372760395_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iFT2q_DkPO4Q7kNvwFd-u83&_nc_oc=AdqHl_zGOk7wA998BlukTz6Ltan4akFtCoHg5HM3XX6TrM_9cm9-5xVFqtN3YiDbRz8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=5ox_hurxcm6LaO96grkHhQ&_nc_ss=70289&oh=00_AQKPnPrNvr2btjWAnm8EV7blB8XMpV6rh4L1WDhDQFXj1w&oe=6ABE3C21"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1015204514902842"
+      }
     ]
   },
   "current_ads": [],
@@ -87,6 +135,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:27:43"
   }
 }

@@ -1,0 +1,102 @@
+{
+  "lead_id": "2026-09-27-106",
+  "status": "rejected",
+  "reject_reason": "211,731 page likes — too big",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/greisjewelers/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "173937522663286",
+    "page_name": "Greis Jewelers",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "2097208627890567",
+        "link_title": "instagram.com",
+        "body": "Get updates on current jewelry trends to make smart investment choices.",
+        "landing_url": "http://instagram.com/greisjewelers",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/743374094_927433630367004_6143340993448386877_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SCivzHPSNVMQ7kNvwFRvoob&_nc_oc=Ado0FmQAChm_G7ymeF05rHUcvHkJGur8kWTcZFUOOxcwsCeNnhVo0Z9PMtazy7CxWa8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQIeMn_0nUZiOne2w-k5lzEgTQ_NME7TdaEi8bMi4ItgHg&oe=6ABE488C"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1784098800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2097208627890567"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "VIEW_INSTAGRAM_PROFILE"
+      ],
+      "page_like_count": 211731,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2097208627890567"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "VIEW_INSTAGRAM_PROFILE"
+    ],
+    "page_like_count": 211731,
+    "page_categories": [
+      "Business"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

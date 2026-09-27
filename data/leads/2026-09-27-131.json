@@ -1,0 +1,103 @@
+{
+  "lead_id": "2026-09-27-131",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61585112035045/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "922790957579307",
+    "page_name": "StPaddy Shop",
+    "active_ads_count": 1,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "1754510758567345",
+        "link_title": "StPaddy Shop",
+        "body": "🍀 Get Lucky in Style This St. Patrick’s Day! 🍀\nCelebrate the luck of the Irish with our exclusive St. Patrick’s Day collection! Whether you're hitting the parade, enjoying a pint with friends, or just spreading the festive spirit, this shirt has you covered.\n💚 Featured Design: A playful leprechaun with a pint of beer, surrounded by shamrocks—perfect for adding a touch of fun and charm to your St. Paddy’s celebrations.\n✨ Why You’ll Love It:\n• Soft, comfortable fit for all-day wear\n• Vibrant colors that pop with St. Patrick’s Day cheer\n• Fun and festive design that will turn heads\n🎉 Limited Time Offer: 50% OFF + Free Shipping on orders over $59!\n👕 Tap Shop Now to get your lucky shirt before it's gone!\n🍀 Wear your luck. Live the fun. Celebrate St. Patrick's Day in style! 🍀\n#StPatricksDay #LuckyInGreen #LeprechaunStyle #ShamrockVibes #StPaddys #BeerAndLuck #StPatricksDayFashion #CelebrateInStyle",
+        "landing_url": "https://www.facebook.com/922790957579307",
+        "cta_type": "LIKE_PAGE",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/598689158_1407067944459429_6160094295359087837_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uQeQ3tfNQDIQ7kNvwGAockW&_nc_oc=AdoOryBR4hk6Ujp7pejnoHDirtTpKlWlPSreP6B682Fdn2-L1Qyb_7koehi1M_CPOfk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQISmOP62z66k1i8UcfB5S_q6CI-y4aRTSHWrvmezf_qnQ&oe=6ABE5302"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1765526400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1754510758567345"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LIKE_PAGE"
+      ],
+      "page_like_count": 129022,
+      "product_score": 1
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1754510758567345"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LIKE_PAGE"
+    ],
+    "page_like_count": 129022,
+    "page_categories": [
+      "Clothing"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "rejected": "2026-09-27T01:55:08"
+  }
+}

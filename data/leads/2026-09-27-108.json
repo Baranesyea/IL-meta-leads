@@ -1,0 +1,107 @@
+{
+  "lead_id": "2026-09-27-108",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/BlackDiamondIronDoors/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "105668831385649",
+    "page_name": "Black Diamond Iron Doors",
+    "active_ads_count": 1,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "1364388651069791",
+        "link_title": "Wrought Iron Doors Steel",
+        "body": "Increase Your Home Value!!\n\nBlack Diamond Iron Doors Has The Largest Selection Of In-Stock Wrought Iron Doors & Steel French Doors In The US. \n\nOur Handmade Iron Doors Are Durable & Built To Last A Lifetime. \n\nShop Custom Steel Entry, Interior, Patio, Bi-fold, Pocket, Office, Pivot and Sliding Doors.",
+        "landing_url": "http://www.blackdiamondirondoors.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/341063658_617469973580266_6658322389242719091_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gWzvsKm3qeAQ7kNvwHklpW3&_nc_oc=Adovb3LkcWUNG4dQgYeUSthuUu-APq2Rb_uYiPqxHbB6kzHgorJ6Ij6B36WlNgr8FR4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQLLtqTucyzpo3aPEYPpXukgnkIKvGmPvVV5ofEPxOQ47Q&oe=6ABE4152",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/341547673_155536497171399_3139928382437508920_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A42rJlBEjCIQ7kNvwFzNPwk&_nc_oc=AdrX4Z3H5SAtIH7bhlYPbecI4kZErdnyHNoOJOujsgTSUaBte3ypMwZmwDXXoXEqzqQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQKZ8f-4HByK1x4yfvoMZY3fWHeAfphcxg3vwi_XwYVnkg&oe=6ABE4B30",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/341169700_1475433906329898_6868888330345842746_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JOzKI__pWr0Q7kNvwHMUxH4&_nc_oc=Adr2-0eetvPWzcY3cmUhS0RehW-arF-9_akTQrVjXcl2WW80mFQAvILfo7i9X09mCKQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQJ5leUEjuTkpJh7cFrb4g-W7O5QoBIIBdWYta0RU4niIA&oe=6ABE6273"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1681455600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1364388651069791"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "shop"
+      ],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2158,
+      "product_score": 3
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1364388651069791"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 2158,
+    "page_categories": [
+      "Website",
+      "Home Repair"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "lead_id": "2026-09-27-038",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/clubhub.co.il/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "118892014536717",
+    "page_name": "קלאב האב - הטבות הנחות דילים וקופונים",
+    "active_ads_count": 1,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "4468029916779497",
+        "link_title": "קבלו מתנות הצטרפות כספיות ופטור מדמי טיפול 🚀",
+        "body": "קחו 20 שניות ותגלו איך אפשר להרוויח יותר. חברי ClubHub נהנים מתנאים שוברי שוק:\n🎁 מענק כספי למצטרפים חדשים\n💸 0 דמי טיפול\n📉 עמלות מסחר מינימליות בארץ ובחו״ל",
+        "landing_url": "https://www.clubhub.co.il/invest/comparing-investment-houses",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799971998_1392162149671866_5580658722950240626_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BV42-CL2lZ0Q7kNvwFy1Bl7&_nc_oc=Adpr8XaPRq0GSJ-5MDMbb4f7UpvIZPpQZmnLPOmfIYQpX-eRXbINm7cbZmJXay4q9Jw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQKj5ztVlEQHeaggxxMR42CZ-8whnLGfJ2aXzJeguYXI0Q&oe=6ABE36C6"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1788764400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4468029916779497"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 239,
+      "product_score": -2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "4468029916779497"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 239,
+    "page_categories": [
+      "Financial Service",
+      "Software",
+      "Discount Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "rejected": "2026-09-27T01:34:36"
+  }
+}

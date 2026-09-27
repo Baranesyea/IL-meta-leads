@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-020",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: רכב",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -84,7 +84,25 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=964435743160765"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "רכב"
+      ],
+      "product_hits": [
+        "הנחה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE",
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 1627,
+      "product_score": -1
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1457005289213991",
@@ -111,6 +129,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:27:54"
   }
 }

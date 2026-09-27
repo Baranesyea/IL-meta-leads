@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-014",
-  "status": "discovered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://magnus-shop.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "stock@magnus-israel.com"
   },
   "contact": {
     "facebook_page": {
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/magnus_israel/",
+      "source": "https://magnus-shop.co.il/",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,15 +28,19 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972533817131",
+      "source": "https://magnus-shop.co.il/pages/contact",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
     }
   },
   "meta": {
     "page_id": "118796876194103",
     "page_name": "magnus_israel",
-    "active_ads_count": 1,
+    "active_ads_count": 20,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -59,8 +63,23 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1041647581802684"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "לרכישה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 20,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 4971,
+      "product_score": 3
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1041647581802684"
     ],
@@ -71,6 +90,755 @@
     "page_like_count": 4971,
     "page_categories": [
       "Product/service"
+    ],
+    "page_ads": [
+      {
+        "id": "1369458327934337",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://magnus-shop.co.il/products/%D7%9E%D7%AA%D7%A7%D7%9F-%D7%99%D7%99%D7%91%D7%95%D7%A9-%D7%9B%D7%9C%D7%99%D7%9D-%D7%91%D7%92%D7%95%D7%95%D7%9F-%D7%97%D7%95%D7%9D",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785222000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/757934178_1395434185780265_6454137290228660372_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ytfd7OLFVyAQ7kNvwEUOhS4&_nc_oc=AdpbooM52hnlP9MOwh_5_HLgK4LLwWhqK8oEk0MlQUGtif1L8FSAX1WDpKFPAvg-OYg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJKcZr2CF0oa7NJ9cFPnmKYW-bScnsuRXmpiCabkDt3Hg&oe=6ABE3AD6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0Ky7xo1NmsN9nkSsUywWtYjlpJPVkpWnV4ttgxLRcW0vh1M64XAyNKRLdE3ZRzHOgMhN61pl4Jq1k_q1gq0dyi5bV3PF0JbALos-tsM9GUg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5xjIcPuYSXcQ7kNvwEtWrR_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzMyMTYyNDYwODE5MTIsImFzc2V0X2FnZV9kYXlzIjo2MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4e331a3505911d37&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTRCNUVDMkU1MTA4OEMyMTBGQzE3NzVDQzE5OEJCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFCNDZBQTI4N0QzQTIzQ0Q5RkQ0RDYzMkI2ODNBNjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwpZf1jO3VAxUCKAJDMywXQD1mZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQLUpAj-8E9kvWX-dQnMDevUF8KX5sHLuqzDDNcr1HIEQA&oe=6ABE421B"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/757602820_1260651402715072_614590238853181031_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=borXNVMEiFoQ7kNvwFnz3k2&_nc_oc=Adqy6M5H_zq5RTVhTw-jIDit6O484S3yFZw0GCLXq4K0dbRodWtXy33kPlI0MA3pij0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKksMcwENjjbP6grVX_y5aWYkh5Cx-VAnfXlFcy57y54w&oe=6ABE4767",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP0Ky7xo1NmsN9nkSsUywWtYjlpJPVkpWnV4ttgxLRcW0vh1M64XAyNKRLdE3ZRzHOgMhN61pl4Jq1k_q1gq0dyi5bV3PF0JbALos-tsM9GUg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=5xjIcPuYSXcQ7kNvwEtWrR_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzMyMTYyNDYwODE5MTIsImFzc2V0X2FnZV9kYXlzIjo2MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4e331a3505911d37&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQTRCNUVDMkU1MTA4OEMyMTBGQzE3NzVDQzE5OEJCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFCNDZBQTI4N0QzQTIzQ0Q5RkQ0RDYzMkI2ODNBNjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwpZf1jO3VAxUCKAJDMywXQD1mZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQLUpAj-8E9kvWX-dQnMDevUF8KX5sHLuqzDDNcr1HIEQA&oe=6ABE421B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1369458327934337"
+      },
+      {
+        "id": "1071610129186888",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\nהמכשיר שולט בדיוק של מעבדה בהתססת השמרים \nוהתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם \nבזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\nמתרגשים לצאת איתכם לדרך חדשה\nלרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790528900_1755777302191851_7391344449704363235_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A1taousdE6wQ7kNvwENIIaJ&_nc_oc=AdrZoFADVaYb4c-LMUnBx90TIXCPpTYL8E3eVaYP58HSQXog2CvGCwt7Yyqsy4zgxLo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQLVhF_UPK3mWQTgLoDbzC0MS4Wqlhiy5noYlalDfYthUA&oe=6ABE44E1",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO_KXFpUHVd1uEs7HmnrLy10fPL-er4qIavvNiS3qUhP47kXSGVG4zqkX-wnexSQS1o6vrJTjL7bk2Yuy8uULAIdso4tVH1wUiPI2HM5mqUIA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ezR0YwWwsoIQ7kNvwEIeN2P&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTI3OTYzNTgzOTEwOTcsImFzc2V0X2FnZV9kYXlzIjozMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4be0196fb3bbf929&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EODQ5MTExRjI0NUJDMzIwREZDNTI4ODhEMEQ4RUZBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MxNEM4MDQ0MkFDQTBENDMwQUNFQTkzNDNGRTI5NEJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACby1MXhvaKvBhUCKAJDMywXQEPEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQJUVZogsDtPQMK5TSd8-DIrGmVY84SkBwMIANoZkbxr0w&oe=6ABE5D51"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1071610129186888"
+      },
+      {
+        "id": "1469679251566895",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "שדרגו את חוויית הבישול שלכם לסטנדרט של מקצוענים",
+        "body": "הסוד למטבח מקצועי מתחיל בכלי מטבח מדויקים. \nמחבתות הנירוסטה החדשות של Magnus נחתו באתר!\n\nאם אתם מחפשים את השילוב המושלם בין עמידות בלתי מתפשרת לתוצאות בישול מדויקות - המחבתות האלו בשבילכם. מחבתות הנירוסטה החדשות שלנו מעוצבות כדי לעמוד בטמפרטורות גבוהות, לפזר חום בצורה אחידה ולהחזיק מעמד לשנים קדימה.\nמגיעות ב-2 מידות - 26 ו30 ס״מ \nלמה הן הולכות להיות המועדפות עליכם במטבח?\n✅ עמידות בתנור: עמידות בטמפרטורה של עד 250 מעלות.\n✅ התאמה מלאה: מתאימות לכל סוגי הכיריים, כולל אינדוקציה.\n✅ תחזוקה קלה: ידיות ידידותיות למדיח הכלים.\nדרגו את חוויית הבישול שלכם לסטנדרט של מקצוענים. \n\nלהזמנות באתר >",
+        "link_description": "עכשיו באתר >>",
+        "landing_url": "https://magnus-shop.co.il/search?q=%D7%9E%D7%97%D7%91%D7%AA+%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775458800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/663296690_1748839376077868_5638928833053637993_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=buR2kqsbbHcQ7kNvwG97x0y&_nc_oc=AdqiaKk4DvSa4qR5y1ZECbPca0X5ai1-sA9VU-qIxrjFk3DY1-n-ZtF60nlzSl_wAl8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJQPpQtit34GQrYVnSkh0rgQO1wBWjzAnckPpKcYAVrnQ&oe=6ABE36CE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMftPdnZqMWmIauoDpnhgZdA1aHt6xACnZJeapGeH35BR7Fo9Q8qs6_PrVeKcChKwJ4b1j57jU3Uf1jXfSeFNs5im2DMalo0VZ0JIK2ehzyHA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ed69tSyeSqcQ7kNvwGxR2Ak&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNTE2NTY3MzkwMzk0MzAsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c2c9cea1740493a7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTRFOTZDOTI2MkE3Q0RDRjRGMUYwOTZFMEFENEI4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NFNDRDNUY4MTlCODBBRjMzRjVBOUJBOUYzQTJDNkJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMo43ykf6kBxUCKAJDMywXQDnEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQKmtEnwNBoxOxCST3SOlTeBqEiahYThtuJ1ZVkdbPkBIA&oe=6ABE4A1E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1469679251566895"
+      },
+      {
+        "id": "1681208706729225",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "הדור החדש של הציפויים כבר כאן ✨",
+        "body": "השדרוג המושלם למטבח 🙌🏽\n\nכך נראה כשאיכות ועיצוב נפגשים: סט 3 מחבתות נירוסטה CERAMIC מבית Magnus !\n\nציפוי קרמי מתקדם בפיתוח Magnus (PST): המחבר את הנון סטיק לגוף המחבת - חזק ועמיד לאורך זמן, בטוח ובריא לשימוש.\n\nטכנולוגיית כוורת ייחודית: מונעת הידבקות ומבטיחה צריבה מדוייקת.\n\nעמידות לחום גבוה (עד 350°C): מעולות לבישול על כל סוגי הכיריים והאינדוקציה וגם ולתנור.\n\nעיצוב יוקרתי: ידיות יצוקות בגוון רוז גולד ותחתית אינדוקציה מלאה.\n\nהקפצה,צריבה וצמצום רטבים; \nמניוקי נימוח ועד דג צרוב - \nהתוצאה יוצאת מקצועית בכל ארוחה.\n\n👉 לרכישה לחצו כאן",
+        "link_description": "עכשיו באתר >>",
+        "landing_url": "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787102096_1537241244336546_1651135759698018724_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ASJRN_cx9SkQ7kNvwHfib0e&_nc_oc=Adr0ro2QQYMswwilM002K8JbFIlRgdCa2sUSm_QZcu6M6zxQgkxk9cMWKz-_baogRpE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQI8wYAefTd21ihF1X7YiIQX7e7DWBMxQUaUd30OE0vUPQ&oe=6ABE3C95",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMd6YY8NBxkV2cuQyMwwDMf1bopr2FG4dM9t5loiEkwVLMhcuIXsq-McoOP4OfjOO1Y0DUXCNStPVuaqJ0bH1cLv0IqJ68vh81L_kL4T2Dkhw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3wnVlblc8jcQ7kNvwHfWBZt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNTMxMDMwMTIyNDg4OTAsImFzc2V0X2FnZV9kYXlzIjozNCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=13157dadc6f715bc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMDQyODUwMjBGNjU3Q0JDNzg0NjkxQjQ2QkIyRkJBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q2NENGMzg0RTZCMkMyNTUyNjJBNjEzMEE2RDVBODhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb09K3Di4_TBxUCKAJDMywXQDuAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQJPbUZALjq1vR2VLzoCYR3CabbPHZIInacke1kUc-LLOQ&oe=6ABE36BA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1681208706729225"
+      },
+      {
+        "id": "1037267705786977",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "magnus_israel",
+        "body": "ספטמבר SALE במגנוס ✨\nמתחדשים לקראת החגים עם מוצרים נבחרים למטבח ולשולחן במחירים מיוחדים.\nכד נירוסטה, סיר מרובע, סט הצלחות MYKONOS ועוד מוצרים שווים מחכים לכם בקטגוריית ה־SALE.",
+        "link_description": "ברכישה מעל 999₪, קבלו במתנה בוצ'ר וסכין איכותיים (יצורף במחלקת אריזה, לא יופיע בסל)",
+        "landing_url": "https://magnus-shop.co.il/collections/salee",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788246000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790341071_1393615399386264_3666468841510007158_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XzQlMgh3gRkQ7kNvwFLfKyU&_nc_oc=AdpAjJ92HTPjb0O_gA0EKP0_5p36RvvpWNzDnHTA6nWdFVegcP-WVfgt8QoPtLXGFlw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQILC4p0xO_SSc8uqEsG5Qgg0lHe4muTeoEcXqEL-eKLKw&oe=6ABE4364",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790580271_1726158178597420_5896657519009316863_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yHzI0SCaZxwQ7kNvwECKxLV&_nc_oc=Adrv83VFmo175CD9JtpYP9VN14JLjSL5ElIL5gbOZHMWG9ZsAQa8NoqzTCm0H--H_30&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJACCGyjEkrn2mVKtQjbsC9iS8TQ_LU8McmcAiuEAUNWQ&oe=6ABE44FB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785290731_2550585622111172_3317929474734363897_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EbYwY23bUMQQ7kNvwG9jhah&_nc_oc=AdpfuVUv4OZssJHjQCs-gIAHIGYEhkmfOBlrKc51QXO_M_WHEcJPFYP8pr7Hr3Aanmo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJbJ6kbl5yndb43yxx7mEUrdJP6w-g5mDJa-bfZS9myEA&oe=6ABE4DD1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790150150_1777926490062131_3662534558290211788_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ik5Cmib7kTYQ7kNvwEUdw9_&_nc_oc=AdrudCHMF_lRgj-zJfZqXK1VqOan1K3jqki6dQsXJRkO-poBEPTWtuELqZkPStrU5pQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQLu6A9ID5OMHMXxw7SAXUWMbMekaiuRT8xAN1syyFyrWQ&oe=6ABE30E4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792213699_1752135939378563_997972576391876484_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VenmM63eSHUQ7kNvwGxl8-a&_nc_oc=AdqUYJ2P5jxddc0PBAFwvm_r7gBK7tWE0mTLhtU9qJAFXodZxsDFp7iN-5NgeqBXb8g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKBpvU51tdu_UCwODgk-SLEBfVJYq0osgHQmXjI-PnPWA&oe=6ABE34CB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/790058822_1356337693150899_7426500919357386064_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WVpJUMHK4SgQ7kNvwHJZC_-&_nc_oc=AdoCvcgWVCsfuEboE64p-Q9DuEDLaM-PMHobadBTqlxLWwsGnyUmijO1HFoJZ-8C0dY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQIw1ZXIGz-Y565TShjjKsZgrHJT3ZZOvB0tIj4Z2NZ83Q&oe=6ABE4582"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037267705786977"
+      },
+      {
+        "id": "1041647581802684",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "הכירו את הדור החדש של כלי הבישול",
+        "body": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "link_description": "ב- Magnus תמצאו מגוון כלי מטבח איכותיים - סירים, מחבתות, מוצרי אפיה, גאדג׳טים כלי הגשה ועוד. כולם נבחרים בקפידה ומשלבים איכות, פונקציונליות ועיצוב אלגנטי לחוויית בישול מ....",
+        "landing_url": "https://magnus-shop.co.il/search?q=black%26gray",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1785826800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/763700977_3963398357288103_4815336500767518889_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7wTAoqn0tRsQ7kNvwEfp5s0&_nc_oc=AdpVNHa_6CJAowQVqP2NHamkQWDhLGMw92-rI1I7B_tpJYB6YUng36xRztbPJthwzj8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQL4VTwP6WJ9ZOhXaPLHPx6zMI7tEZdgdW4oo1zd-8LIFA&oe=6ABE5F8C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1041647581802684"
+      },
+      {
+        "id": "2168745470352381",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "נהנים מ־18% הנחה באתר",
+        "body": "ספטמבר מתחיל עם סיבה טובה להתחדש 🤎\nנהנים מ־18% הנחה באתר וברכישה מעל 999₪ מחכה לכם גם אחסון לסכו\"ם EGG במתנה.\nכי לקראת החגים, כיף לקבל קצת יותר.\n\nהמבצע בתוקף עד 30.9 בהזנת קוד קופון בלבד | אין כפל הנחות | המתנה מגיעה בשלושה צבעים ותשלח רנדומלית, לא ניתן לבחור צבע | ללא כפל קודי קופון, ההטבה אינה תקפה על מוצרים המשתתפים SPECIAL PRICE | בכפוף לתקנון | ט.ל.ח",
+        "link_description": " ",
+        "landing_url": "https://magnus-shop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1788332400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792915459_27731374983232050_2980380795952873856_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2hDmjQ-cAaMQ7kNvwFSeyny&_nc_oc=AdqMUwz2aSjo5XdrggsuzWvMvMCbMdMeh_w4xsf3_DtSED5659XMM49dW4EbhL8hOvg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKdNjO_Zfm_Dj3HpJkYvD1jx4fvLcTlJFi_WggGa80mmw&oe=6ABE3DD0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/792718375_1121728313698870_2542617228526326260_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qyym2JKc2z4Q7kNvwE1cG9n&_nc_oc=AdpzvVhKeQ-yY2EFSzBnYjrYuvruqHbSjuGTtbRQmQfyzEIKA5ZvKLvCbhGG9h2g7wQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQIUVdipexmlT1jdZqSHrOsQioQ5eQA31vqwiUg3ktjQsg&oe=6ABE3BFC"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2168745470352381"
+      },
+      {
+        "id": "883160444853295",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "הדור החדש של הציפויים כבר כאן ✨",
+        "body": "הדור החדש של הציפויים כבר כאן ✨\n מגנוס משיקה -\n ציפוי Non-Stick קרמי מתקדם בטכנולוגיית PST -\nבישול נוח יותר, ניקוי קל יותר, עמידות בחום עד 350°C וללא PFOA/PFAS.\n\nטכנולוגיית ה- PST במוצר משנה את חוקי המשחק. \nמדובר בפיתוח מתקדם שבו הציפוי מונע הידבקות! \nהחומר ממנו עשוי הציפוי בפיתוח הנ״ל מותך על גבי המחבת והופך לחלק בלתי נפרד מגוף המחבת עצמה.\n\nציפוי הדור החדש - רק 599.90 ₪\nהתמונה להמחשה בלבד | ט.ל.ח",
+        "link_description": "עכשיו באתר >>",
+        "landing_url": "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783926000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/744955131_987844810918311_3037885888331417867_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=f5hUPlufLygQ7kNvwHo90wP&_nc_oc=AdoZrmlrO8hMQ6mvXA1p4mt-BNTKrN04H7eSDcwtpVQyVRxS2z0i6VmbBwThsIFCgrY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJY-wLH72xA7SOGlQYeloJYvMoshoS376IJvOutrVMmiQ&oe=6ABE47FC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOR-FbWM_vxgoPwfL_1n88TIRVZa8_LheRBnsDOK0OMq6hlDeHYWgD-VoAYZEque_uwWr2zzmeKYld7TtzbAswKTmv8hl4w9MT8ys3IpBkrIg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zO05t3P_rBkQ7kNvwF9Ffj7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjg5MzgxNzY2NTgwNjAsImFzc2V0X2FnZV9kYXlzIjo3NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=974ae7e9841a7649&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MjRDNTAwRjZBRUNCRDhBRjZFOEUzNTFCM0EwNDdBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM4NEM3NkIwNjcyNTkyN0E2RDg2QTBENkZFOUQ5REJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY6p_oivTTAxUCKAJDMywXQDeiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQLx_GQdF1N_GEIkWsdR3WYh6esrwaUhiF3Ugm3ckBaF2w&oe=6ABE5338"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=883160444853295"
+      },
+      {
+        "id": "2233871674128674",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מסירים את הלחץ מסיר הלחץ 😌",
+        "body": "הגיע הזמן להסיר את הלחץ מסיר הלחץ!💨\n\nעם סיר הלחץ החדש של Magnus, נהנים מבישול מהיר בבטיחות מקסימלית ושקט נפשי מוחלט!\n\nחוסכים זמן במטבח:\n✔️ סלק רך ב-20 דקות\n✔️ חומוס נימוח ללא השריה - ב-50-60 דקות\n✔️ עדשים עשירות ב-10 דקות בלבד\n\nנפח מדויק של 7 ליטר | מתאים לכל סוגי הכיריים (כולל אינדוקציה) | מנגנוני בטיחות מתקדמים",
+        "link_description": "עכשיו באתר >>",
+        "landing_url": "https://magnus-shop.co.il/products/%d7%a1%d7%99%d7%a8-%d7%9c%d7%97%d7%a5-by-magnus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787986800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788766563_1010399885364253_4857914109720630399_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TW_Fyjz-I38Q7kNvwFj16bF&_nc_oc=AdoZj4mMVSTgNAAhZAcogeDcY93OTveL_gG0Goa46HKqPf-MKJm5dHAzAVtZ8sQIKwE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQLeg3PtWWn2tYqCzzXsPjVI1O2FpGkVlQGAsIiGK_M2pg&oe=6ABE4814",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOSOEMUC1FfMXbzHafUHtV7vLCQfVnNu5Z10zThl5JoRy2g8Kj5NwuWOHg7eewRA-1pM5uCrvCw8XhwMzI05c9wfK08ufrv247o1VxQhjIlcg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_a7EOcNaktQQ7kNvwFLMkHI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MTc1MTczMDY5NDUxNTQsImFzc2V0X2FnZV9kYXlzIjoyNywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=62b37e904f858384&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTRFQ0UwQjUwOTBEMkE0ODc3NUIyRUIzRDJCQjRCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDRCRjAyQjdCQjk2QkI5QUFGMDZCNTM1RDhDQzk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE-tj4rs6EBRUCKAJDMywXQEEzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQLW5Zam89XXE3jzrNpLX-TO8mlDgKHd7-EuEq_XFPEebQ&oe=6ABE4998"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2233871674128674"
+      },
+      {
+        "id": "1769276631054248",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "פטנט רשום ייחודי לראשונה בישראל>>",
+        "body": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\n\nהמכשיר שולט בדיוק של מעבדה\nבהתססת השמרים והתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם בזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\n\nמתרגשים לצאת איתכם לדרך חדשה\n\nלרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/pages/about-us?view=d-bakeraid-new",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/789327271_1049282308027773_6621441359143329882_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wtVfQ9eJiFIQ7kNvwGrfrhA&_nc_oc=AdoHjqKJSlZN3sphGmzI6bccb_iBJnebwzBMdDbQJAiRindIDWi0t2ZswGUZULb858o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKLZ9figk4rs2KWnFA0NriXI2A6fNj3jVAgexgWvX1bvg&oe=6ABE5D76",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQP3u2bDloCqtPOdyqjeCaSPW8yaJqGs4opjKDKMlESkCu5ovhB_bfLcMMjD4ixHiVRrstNylOuNek6M-xzJKeOoUy6Jqrk05Q5OmvjU9ZbJ2Q.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=B9_pbl-DP-EQ7kNvwHUQMbS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDgzNDY5MTA3NzY1MzQsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dc3a90b2511c0141&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QTRFMEJGOEJBRUY5Q0UyRjc2RDlCMEFEOENBODU4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFFNDI1MTFERDEyMDY1NzU5QUM1ODhCMDc2RjgzOTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas87Sqj5TlBBUCKAJDMywXQEd3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQLTIZptPXPTT68dyvNFDqqrCUe7J6AvRSvgJen4tKu-GQ&oe=6ABE3109"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1769276631054248"
+      },
+      {
+        "id": "4005367679764833",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "הכירו את הדור החדש של כלי הבישול",
+        "body": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/search?q=black%26gray",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809585698_1797162814818278_7727022373496314917_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uRvHQpY5GGYQ7kNvwFMn_Yx&_nc_oc=AdrpdQsKDuxu79dCY2NRh1ay9efhC6DKSTrWiCZtchUhO_QRHjM1RnUN3l2B9j87nCc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKAMZ44Pq7RmcNP4ZIY8bV75JLQujE7veSGmfujXPMXLQ&oe=6ABE39EC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQObwLZGXV9NtjEYULhiFMtLCd0ea6ag-itTiXi56feKcr6k5DDSgi46ew6Bq8Kd8UzJ6fYyxn05FcXJTWr9jiWEaz9Q-ha76oVeeeWFwuSnvA.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1Q59kl7rVcIQ7kNvwFPpGYt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NjI1MDQyNjQyNDg2ODcsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9c479b9b7cf13c6f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MjQwNTUwQzYzQzE5NEMwODBDQTZENEExMTNFNjg5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5NDRFOTIwOEQxMTZEQTRBREZCN0E4MDJDRDRFNDkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbetb_GsKWNCRUCKAJDMywXQEQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQKi9moS88ugcjSOiFwGNeNWEi3dzIClXFdGWZQgy_BUqA&oe=6ABE5926"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4005367679764833"
+      },
+      {
+        "id": "1591636122609304",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "סט 3 מחבתות נירוסטה CERAMIC",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787209200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780255607_1086511510396613_8457684239803687341_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IFRcV-W3JwIQ7kNvwECvzw3&_nc_oc=AdpT6nVGJmS0r_StpsrmNwQFL4OKZY-EMNvu4z-akGNhXE4GJxUtxlQGet02QaGo5ak&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKlx3_NwqZLBzdj9fXVZ1qOGNDvRsQ07mqJwTfguSNWrw&oe=6ABE3076",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/781712713_2179629776261392_3726628538994574929_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dxCbriFOifUQ7kNvwHsIqzZ&_nc_oc=AdoikGfnKI-9oRhv5IA8HvLyFhUCRO2OJV9GY8lEs5GKFm579xJe4F-KrWhVo5wbIxk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJZaLzLKuJY5fCZWeRnolQ2xQN0Ry-CfXsf7S8Gj30miA&oe=6ABE4DC9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/780255607_1086511510396613_8457684239803687341_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IFRcV-W3JwIQ7kNvwECvzw3&_nc_oc=AdpT6nVGJmS0r_StpsrmNwQFL4OKZY-EMNvu4z-akGNhXE4GJxUtxlQGet02QaGo5ak&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKlx3_NwqZLBzdj9fXVZ1qOGNDvRsQ07mqJwTfguSNWrw&oe=6ABE3076"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1591636122609304"
+      },
+      {
+        "id": "2230871297838914",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מוכנים להכיר את ה-MY PAN החדש שלכם?",
+        "body": "מוכנים להכיר את ה-MY PAN החדש שלכם? המחבת, הסיר והסטימר שאי אפשר להוציא מהכיריים ✨\n\nרטבים, מוקפצים, בשר, דגים או אידוי וסינון של ירקות ובאן - הכל קורה ב-MY PAN בקלות ובמינימום מאמץ.\nזה הרגע שלכם לבשל בריא יותר, מהר יותר ובסטייל.\n✅️בישול בריא: ציפוי קרמי איכותי מונע הדבקה. \n✅️נוחות מקסימלית: ידית סופט-טאץ' מבודדת חום.\n✅️עיצוב מנצח: זמינה בשני גוונים שמשדרגים כל מטבח.\n\nזמינה לרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/search?q=MY+PAN",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799677081_28420371804289167_2915723728813032926_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vRjpSFivKiYQ7kNvwEA7Plj&_nc_oc=AdpH9qEx95qQSKaOGr00SCPIE1m3YaOf2zq0QqJc5DljNmjz1HT8ra5PGE7UpZg90Ew&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJYN2vA-4_WPHjbzTSoj9bTIV4Wjz7Imwq0WnbQXK2t_g&oe=6ABE479F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMuCyGqyyJ8BO46M6MDAnujfPQW4qfk8YvDCFxAbHdtxwGoo7UoCx1ph-GlIEJG4c2fetOEx9_0NZlBOYT_sE23TvvjUAj0tdHi8GH3VM-s9g.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=P90Os-GVbTUQ7kNvwGXJuba&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTY5MzQ4MzU2NjI5NzgsImFzc2V0X2FnZV9kYXlzIjoyMTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ecad4545216c5c0c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDRFQkE4MTQwNDBCNTM1MTAyQjdGOTBBQjI3NDFBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NFNEFEMUVEQTM1N0NEQkY4MEQ1QzNDMTFEQUU1QzlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEwunCxePNBBUCKAJDMywXQEvzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQIfOi1Kg3XIYm8aNarp5UnVWfpkRLz3asWNZ-6EYkGlrw&oe=6ABE44F3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2230871297838914"
+      },
+      {
+        "id": "2066269847383515",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מסירים את הלחץ מסיר הלחץ 😌",
+        "body": "מסירים את הלחץ מסיר הלחץ 😌 \nהכירו את סיר הלחץ החדשני של Magnus – עם חלון בטיחות לאיזון לחץ, שסתום ויסות לחץ, נעילת מכסה בטוחה והפעלה בלחיצת כפתור. בישול בטוח, פשוט ונוח יותר מתמיד.\nסיר לחץ Magnus – רק 749.90 ₪\n התמונה להמחשה בלבד | ט.ל.ח",
+        "link_description": "עכשיו באתר >>",
+        "landing_url": "https://magnus-shop.co.il/products/%d7%a1%d7%99%d7%a8-%d7%9c%d7%97%d7%a5-by-magnus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/807727412_3033831663631674_7169682054510494446_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hiylJrqAXvcQ7kNvwGeG_3W&_nc_oc=AdrbZXjX5jwmPhupsOF1UPyBPS-pb_kHOJenMHOsUkKTdkbpuTBrVJ-BxitBWj4Bkr4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQI6mOmtNLGYO4qPCwvNcHUbhEDymD6oCI6QejV_pF6THw&oe=6ABE3772"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2066269847383515"
+      },
+      {
+        "id": "1088357580376671",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "המוצר הכי שימושי במטבח שלכם עכשיו במחיר מיוחד",
+        "body": "מוכנים להכיר את ה-MY PAN החדש שלכם? המחבת, הסיר והסטימר שאי אפשר להוציא מהכיריים ✨\n\nרטבים, מוקפצים, בשר, דגים או אידוי וסינון של ירקות ובאן - הכל קורה ב-MY PAN בקלות ובמינימום מאמץ.\nזה הרגע שלכם לבשל בריא יותר, מהר יותר ובסטייל.\n✅️בישול בריא: ציפוי קרמי איכותי מונע הדבקה. \n✅️נוחות מקסימלית: ידית סופט-טאץ' מבודדת חום.\n✅️עיצוב מנצח: זמינה בשני גוונים שמשדרגים כל מטבח.\n\nמחיר מבצע מיוחד: רק 249 ₪ (במקום 349 ₪)! 🎁\nזמינה לרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/search?q=my+pan+%D7%91%D7%92%D7%95%D7%95%D7%9F",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789887600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819031609_1143752618079109_2505137513969550765_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T7j0IKh_Sm4Q7kNvwFaSVfc&_nc_oc=Adqzw0yaAQoEzpWopDvB5kaM8-blJgylHFefqTr0wnCV1qKFKVM1PyQvUJwlzrjsfZQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQIO7YLw2nrI681Kb28lf9S5Imh6sHKVPeSzDZbCOJl8xg&oe=6ABE3E3B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/795188577_935306309173041_2021087934833993280_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m6KAfB5WZS0Q7kNvwGNUCii&_nc_oc=AdqFQlAd6C0vWqlDxRf-dHutnvt1AZWrghQl11wNgnBpaMEd_tYMaVFYVVzRiw9ZPro&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKt8nctaEUU9wN6FNuRKJltbiSKc2RO-NZJWG8D8b5jew&oe=6ABE298A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1088357580376671"
+      },
+      {
+        "id": "1465343395353207",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "⁨\tהכירו את  D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\n\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר  משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\n\nהמכשיר שולט בדיוק של מעבדה\nבהתססת השמרים והתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם בזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\n\nיתרונות עיקריים:\n-מקצר משמעותית את שלבי ההתפחה וההכנה לאפייה\n-מאפשר אפייה ללא צורך בהתפחה נוספת לפני אפייה\n-תוצאה יציבה בכל אפייה, בלי מזל ובלי תנאי מזג אוויר חיצוניים\n-פחות לישה, פחות התפחות ,תהליך אפייה פשוט ומדויק\n-מתאים גם לאפייה ללא גלוטן\n-מתאים להתפחת בצקי מחמצת\n-מאפשר לכל אדם להגיע לרמה מקצועית\n\nבמארז מקבלים:\nאת מכשיר ‏D’BaKerAid\n2 קערות - 1 להתססת שמרים ו-1 להתפחת בצק\nקערת בן מארי, אביזר ליצירת אדים בתנור, חורץ לחם, כף ערבוב, 2 סינרים בגוונים שונים, כבל חשמלי מותאם, חוברת הדרכה ומתכונים.\n\nמתרגשים לצאת איתכם לדרך חדשה\nהצלחה בכל אפייה - bake it happen ✨⁩",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790003287_1093171980324975_8578689236810501479_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QIKcz8bHNw4Q7kNvwGbeR4o&_nc_oc=Adp5EG397jGPDe0BBWApshVb4Aif5SYCE_llJ9l0kt2ayGhmuPrNeU0icbG0QCJS_jQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQL09-IyhGG_yIkaPvw0WwDvKeS5avlep7GIP0j7Zn6Zvg&oe=6ABE594A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQPGa2pT9UKNOLbmiF9JEJzGIqC6larm1lngTGpcXLzrzLNHpyhyyRHejaRfsV-KwIhHyEAPiy6dvK5H6qAUzVUJIu1epQNU2--ml-0.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8pdczAV32hgQ7kNvwE86zZ6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ5MjA5MDM0NTI1MzkyNiwiYXNzZXRfYWdlX2RheXMiOjM4OSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjg4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=eecdb02430633021&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRjQyQjVGNjVBNkFFREM0RjlENUU2RkM3OTU1Njg5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNDY0NDg0OTM0NzczMDc2XzI4NTcwMDE0NzgzNzA3NTE4MTQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsywg7CLw6YFFQIoAkMzLBdAVhEGJN0vGxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1AGWswQEA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQJpYko9z2uECmkq1D56y9uCx7Etb_TDnVEnOXEpW2iNAw&oe=6ABA552E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1465343395353207"
+      },
+      {
+        "id": "1357379583047380",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "פטנט רשום ייחודי לראשונה בישראל>>",
+        "body": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\n\nהמכשיר שולט בדיוק של מעבדה בהתססת השמרים \nוהתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם \nבזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\n\nמתרגשים לצאת איתכם לדרך חדשה\n\nלרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/pages/about-us?view=d-bakeraid-new",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790268232_835530366239372_5643304787799410001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IOAkXtwVcrsQ7kNvwFdrx1i&_nc_oc=AdpQ2xG2L20MOag1139kvCv7QRUlnwDrL_KoaA7XmbjeqQcoq44KDbV5GsyD9C0q2Gk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJQU8hvZrJ1UJNOV4HD759BPkg23Ox9ohmazuvNMEEfsA&oe=6ABE2E8E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMViiLazdXP-igC1P2Sdk8S6LlkRsu5AVvaV2qJwGY9Qfo6YLvx3nk3-eM3PzbWcE23VfvyQ5Nz0W88yXA9E9v1Efw9EQoxJ9_I4Pbg9xD1Uw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=PIUsmZflGKMQ7kNvwFKm47H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMjM2NzE1NjE2OTc4MzksImFzc2V0X2FnZV9kYXlzIjo3MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e7437f97bb511802&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMzREQ0FGQzEzMDJCRUQzOEZEOUNERTE4NDU3QTM5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc1NDI2MkEyQUZEMkZGRTc4NjlCNDYxNUFCQzFBNkJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbe6O-Q-t3FBxUCKAJDMywXQEfd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQIHATzXCxdrp1Ga9uGT61hhMnpd99K4IEq9HFgyGLAeZQ&oe=6ABE38DB"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1357379583047380"
+      },
+      {
+        "id": "2150440815902505",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\nהמכשיר שולט בדיוק של מעבדה בהתססת השמרים \nוהתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם \nבזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\nמתרגשים לצאת איתכם לדרך חדשה\nלרכישה באתר >>",
+        "link_description": "",
+        "landing_url": "",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/790325988_959853017139505_7123783368779530998_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ziPeH6tsNMQ7kNvwHWOIzj&_nc_oc=AdpNnXaFKwQw7P5t1gBfetbDOG1zK9zLBZTtw590BuA1xDR0BSxz4WVN2RZpYVG5yKM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQKB7WsMAziALcZF2iw0tyYotzkJ09DSqbfwvzcn-pLwbA&oe=6ABE2F19",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPchXZEX3lEDOaLngOS4m_oBekxfKo1vaMmEYVSr9TeuYPXrTe8iV1E-EdcZYVmIaP8oyTX4_mA2aHnF6VQEpSz2MGzTVVYX-N38DIMUHugMQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=xKOzUdWlijgQ7kNvwGFM6Il&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTYxNDcxOTE2ODEzMjEsImFzc2V0X2FnZV9kYXlzIjozMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d76c3e79c97a7a52&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NzQzNDMzOTlEODI2QjZGNDhCNTgxNDFCRkE0RDA5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NCNDgxNUVFRjlCNzhDRURDNzQ2Qzg4ODVEMUE4MTg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSxMat4aiDBhUCKAJDMywXQEd3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQILTqbf0hp3G8irW2uIVvkaiCbZLNop1n-vbYqPHK5zBg&oe=6ABE5F0A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2150440815902505"
+      },
+      {
+        "id": "1837442824283274",
+        "page_id": "118796876194103",
+        "page_name": "magnus_israel",
+        "page_url": "https://www.facebook.com/100063444049091/",
+        "page_like_count": 4971,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מתכון לשבלולי פרג וקרם לימון:\n\nאופן הכנה:\n\n1. התססת השמרים: מערבבים את החלב הפושר, השמרים, הסוכר וכף מהקמח ומתסיסים לפי סוג השמרים ובהתאם לתוכנית של D’BaKerAid(אם לא על המכשיר אז כ-30 דק,או עד שהשמרים תוססים)\n2. הכנת קרם הלימון: מבשלים את החלב, מיץ הלימון, הסוכר, הקורנפלור, החמאה וקורט הכורכום תוך כדי טריפה עד להסמכה. מצננים היטב וטוחנים לקרם חלק.\n3. הכנת הבצק: מעבירים לקערת המיקסר את תערובת השמרים שתססה יחד עם יתרת הקמח, הפרג, המלח, החמאה והביצים, ולשים כ-12 דקות עד לקבלת בצק חלק וגמיש.\n4. התפחה: מעבירים את הבצק לקערת התפחה ומתפיחים כ-45 דקות לפי תוכנית D’BaKerAid(אם לא על המכשיר אז עד הכפלת הנפח).\n5. הרכבה ועיצוב: מרדדים את הבצק, מורחים שכבה אחידה מקרם הלימון, מגלגלים לרולדה, פורסים לשבלולים ומסדרים בתבנית. מתפיחים פעם נוספת להתפחה לפני אפייה כ-20 דק.\n6. אפייה: אופים בתנור שחומם מראש ל-180°C במשך 25–30 דקות.\n\nלרכישה לחצו >>",
+        "link_description": "",
+        "landing_url": "https://magnus-shop.co.il/pages/about-us?view=d-bakeraid-new&fbclid=fbclid",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788159600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784732686_1711588853248503_7578042765396917799_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VnYpUXSFfBwQ7kNvwFqM-k8&_nc_oc=Adq1-vm-I16gCAOK1V5BOc08w9nZzKTUFdMadLXezPZW00j3y9evBvGbeAyyImrLyK0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&oh=00_AQJ11FTv8RFUx8hF3S2B5HZQGkyC6vQvnwOMIPowMUyZbQ&oe=6ABE59BC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOkXIU2U9hKpcGrRz3aecn_QL2uZZU1heR77Ws4YBThIaLVCv-yVoulUm4pN4Grv2tXPzj6XBxbC2DNn1lap3zeAz5hzvquojm1Bl1mg5ScMg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BuRO17IhfZIQ7kNvwFxdc_M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjcyOTY1NjU4NDA3MzMsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a31852e4db8650b2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMDQ1RTZDNDIzNzA0ODNDMDg1QzE4MzdFQTYyMkZBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc1NEQzMkQ0OEE3RUQ5MEQ1NkFBRDBBMTIyQUQxQkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6reqK66zlAxUCKAJDMywXQFLMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=RDiAWwnmJ2WALxtW8BUSKA&_nc_ss=70289&_nc_zt=28&oh=00_AQJhXA62DiNU0Sp0b_gg-1uu98rShuob1AIEOra3cAC11w&oe=6ABE3282"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1837442824283274"
+      },
+      {
+        "id": "1041647581802684",
+        "body": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "landing_url": "https://magnus-shop.co.il/search?q=black%26gray"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1369458327934337",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://magnus-shop.co.il/products/%D7%9E%D7%AA%D7%A7%D7%9F-%D7%99%D7%99%D7%91%D7%95%D7%A9-%D7%9B%D7%9C%D7%99%D7%9D-%D7%91%D7%92%D7%95%D7%95%D7%9F-%D7%97%D7%95%D7%9D"
+        ]
+      },
+      {
+        "ad_id": "1071610129186888",
+        "text": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\nהמכשיר שולט בדיוק של מעבדה בהתססת השמרים \nוהתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם \nבזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\nמתרגשים לצאת איתכם לדרך חדשה\nלרכישה באתר >>",
+        "links": []
+      },
+      {
+        "ad_id": "1469679251566895",
+        "text": "הסוד למטבח מקצועי מתחיל בכלי מטבח מדויקים. \nמחבתות הנירוסטה החדשות של Magnus נחתו באתר!\n\nאם אתם מחפשים את השילוב המושלם בין עמידות בלתי מתפשרת לתוצאות בישול מדויקות - המחבתות האלו בשבילכם. מחבתות הנירוסטה החדשות שלנו מעוצבות כדי לעמוד בטמפרטורות גבוהות, לפזר חום בצורה אחידה ולהחזיק מעמד לשנים קדימה.\nמגיעות ב-2 מידות - 26 ו30 ס״מ \nלמה הן הולכות להיות המועדפות עליכם במטבח?\n✅ עמידות בתנור: עמידות בטמפרטורה של עד 250 מעלות.\n✅ התאמה מלאה: מתאימות לכל סוגי הכיריים, כולל אינדוקציה.\n✅ תחזוקה קלה: ידיות ידידותיות למדיח הכלים.\nדרגו את חוויית הבישול שלכם לסטנדרט של מקצוענים. \n\nלהזמנות באתר >",
+        "links": [
+          "https://magnus-shop.co.il/search?q=%D7%9E%D7%97%D7%91%D7%AA+%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94"
+        ]
+      },
+      {
+        "ad_id": "1681208706729225",
+        "text": "השדרוג המושלם למטבח 🙌🏽\n\nכך נראה כשאיכות ועיצוב נפגשים: סט 3 מחבתות נירוסטה CERAMIC מבית Magnus !\n\nציפוי קרמי מתקדם בפיתוח Magnus (PST): המחבר את הנון סטיק לגוף המחבת - חזק ועמיד לאורך זמן, בטוח ובריא לשימוש.\n\nטכנולוגיית כוורת ייחודית: מונעת הידבקות ומבטיחה צריבה מדוייקת.\n\nעמידות לחום גבוה (עד 350°C): מעולות לבישול על כל סוגי הכיריים והאינדוקציה וגם ולתנור.\n\nעיצוב יוקרתי: ידיות יצוקות בגוון רוז גולד ותחתית אינדוקציה מלאה.\n\nהקפצה,צריבה וצמצום רטבים; \nמניוקי נימוח ועד דג צרוב - \nהתוצאה יוצאת מקצועית בכל ארוחה.\n\n👉 לרכישה לחצו כאן",
+        "links": [
+          "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94"
+        ]
+      },
+      {
+        "ad_id": "1037267705786977",
+        "text": "ספטמבר SALE במגנוס ✨\nמתחדשים לקראת החגים עם מוצרים נבחרים למטבח ולשולחן במחירים מיוחדים.\nכד נירוסטה, סיר מרובע, סט הצלחות MYKONOS ועוד מוצרים שווים מחכים לכם בקטגוריית ה־SALE.",
+        "links": [
+          "https://magnus-shop.co.il/collections/salee"
+        ]
+      },
+      {
+        "ad_id": "1041647581802684",
+        "text": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "links": [
+          "https://magnus-shop.co.il/search?q=black%26gray"
+        ]
+      },
+      {
+        "ad_id": "2168745470352381",
+        "text": "ספטמבר מתחיל עם סיבה טובה להתחדש 🤎\nנהנים מ־18% הנחה באתר וברכישה מעל 999₪ מחכה לכם גם אחסון לסכו\"ם EGG במתנה.\nכי לקראת החגים, כיף לקבל קצת יותר.\n\nהמבצע בתוקף עד 30.9 בהזנת קוד קופון בלבד | אין כפל הנחות | המתנה מגיעה בשלושה צבעים ותשלח רנדומלית, לא ניתן לבחור צבע | ללא כפל קודי קופון, ההטבה אינה תקפה על מוצרים המשתתפים SPECIAL PRICE | בכפוף לתקנון | ט.ל.ח",
+        "links": [
+          "https://magnus-shop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "883160444853295",
+        "text": "הדור החדש של הציפויים כבר כאן ✨\n מגנוס משיקה -\n ציפוי Non-Stick קרמי מתקדם בטכנולוגיית PST -\nבישול נוח יותר, ניקוי קל יותר, עמידות בחום עד 350°C וללא PFOA/PFAS.\n\nטכנולוגיית ה- PST במוצר משנה את חוקי המשחק. \nמדובר בפיתוח מתקדם שבו הציפוי מונע הידבקות! \nהחומר ממנו עשוי הציפוי בפיתוח הנ״ל מותך על גבי המחבת והופך לחלק בלתי נפרד מגוף המחבת עצמה.\n\nציפוי הדור החדש - רק 599.90 ₪\nהתמונה להמחשה בלבד | ט.ל.ח",
+        "links": [
+          "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94"
+        ]
+      },
+      {
+        "ad_id": "2233871674128674",
+        "text": "הגיע הזמן להסיר את הלחץ מסיר הלחץ!💨\n\nעם סיר הלחץ החדש של Magnus, נהנים מבישול מהיר בבטיחות מקסימלית ושקט נפשי מוחלט!\n\nחוסכים זמן במטבח:\n✔️ סלק רך ב-20 דקות\n✔️ חומוס נימוח ללא השריה - ב-50-60 דקות\n✔️ עדשים עשירות ב-10 דקות בלבד\n\nנפח מדויק של 7 ליטר | מתאים לכל סוגי הכיריים (כולל אינדוקציה) | מנגנוני בטיחות מתקדמים",
+        "links": [
+          "https://magnus-shop.co.il/products/%d7%a1%d7%99%d7%a8-%d7%9c%d7%97%d7%a5-by-magnus"
+        ]
+      },
+      {
+        "ad_id": "1769276631054248",
+        "text": "הכירו את D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\n\nהמכשיר שולט בדיוק של מעבדה\nבהתססת השמרים והתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם בזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\n\nמתרגשים לצאת איתכם לדרך חדשה\n\nלרכישה באתר >>",
+        "links": [
+          "https://magnus-shop.co.il/pages/about-us?view=d-bakeraid-new"
+        ]
+      },
+      {
+        "ad_id": "4005367679764833",
+        "text": "רוצים לשדרג את המטבח ולחסוך מקום במגירה או בארון? הכירו את \nסדרת Black & Gray \nמבית מגנוס - סירים ומחבתות איכותיים עם ידיות נשלפות בקליק!\n\n🩶אחסון חכם: נערמים בקלות וחוסכים המון מקום.\n\n🩶מהכיריים לתנור: מנתקים את הידית ומכניסים ישר לתנור\n (עד 250°).\n\n🩶ציפוי פנימי קרמי בפיתוח ייחודי: האוכל לא נדבק, הניקוי בשניות.\n\n🩶מתאים לכל סוגי הכיריים ולמדיח.\n\n🩶מבשלים, מאחסנים ומנקים בקלות.\n\nלרכישה לחצו",
+        "links": [
+          "https://magnus-shop.co.il/search?q=black%26gray"
+        ]
+      },
+      {
+        "ad_id": "2230871297838914",
+        "text": "מוכנים להכיר את ה-MY PAN החדש שלכם? המחבת, הסיר והסטימר שאי אפשר להוציא מהכיריים ✨\n\nרטבים, מוקפצים, בשר, דגים או אידוי וסינון של ירקות ובאן - הכל קורה ב-MY PAN בקלות ובמינימום מאמץ.\nזה הרגע שלכם לבשל בריא יותר, מהר יותר ובסטייל.\n✅️בישול בריא: ציפוי קרמי איכותי מונע הדבקה. \n✅️נוחות מקסימלית: ידית סופט-טאץ' מבודדת חום.\n✅️עיצוב מנצח: זמינה בשני גוונים שמשדרגים כל מטבח.\n\nזמינה לרכישה באתר >>",
+        "links": [
+          "https://magnus-shop.co.il/search?q=MY+PAN"
+        ]
+      },
+      {
+        "ad_id": "2066269847383515",
+        "text": "מסירים את הלחץ מסיר הלחץ 😌 \nהכירו את סיר הלחץ החדשני של Magnus – עם חלון בטיחות לאיזון לחץ, שסתום ויסות לחץ, נעילת מכסה בטוחה והפעלה בלחיצת כפתור. בישול בטוח, פשוט ונוח יותר מתמיד.\nסיר לחץ Magnus – רק 749.90 ₪\n התמונה להמחשה בלבד | ט.ל.ח",
+        "links": [
+          "https://magnus-shop.co.il/products/%d7%a1%d7%99%d7%a8-%d7%9c%d7%97%d7%a5-by-magnus"
+        ]
+      },
+      {
+        "ad_id": "1088357580376671",
+        "text": "מוכנים להכיר את ה-MY PAN החדש שלכם? המחבת, הסיר והסטימר שאי אפשר להוציא מהכיריים ✨\n\nרטבים, מוקפצים, בשר, דגים או אידוי וסינון של ירקות ובאן - הכל קורה ב-MY PAN בקלות ובמינימום מאמץ.\nזה הרגע שלכם לבשל בריא יותר, מהר יותר ובסטייל.\n✅️בישול בריא: ציפוי קרמי איכותי מונע הדבקה. \n✅️נוחות מקסימלית: ידית סופט-טאץ' מבודדת חום.\n✅️עיצוב מנצח: זמינה בשני גוונים שמשדרגים כל מטבח.\n\nמחיר מבצע מיוחד: רק 249 ₪ (במקום 349 ₪)! 🎁\nזמינה לרכישה באתר >>",
+        "links": [
+          "https://magnus-shop.co.il/search?q=my+pan+%D7%91%D7%92%D7%95%D7%95%D7%9F"
+        ]
+      },
+      {
+        "ad_id": "1465343395353207",
+        "text": "⁨\tהכירו את  D’BaKerAid - עוזר האפייה האישי שלך🧑🏽‍🍳\n\nפטנט רשום, ייחודי וחדשני - לראשונה בעולם כאן בישראל!\nהמכשיר  משלב מדע וטכנולוגיה כדי להבטיח תוצאות אחידות ומקצועיות בכל מאפה.\n\nהמכשיר שולט בדיוק של מעבדה\nבהתססת השמרים והתפחת הבצק,\nמתאים טמפרטורה ולחות לכל סוג קמח ושמרים בכל פעם בזמן זהה ואחיד,\nומבטיח מאפים אווריריים, קרום מושלם וערכים תזונתיים משופרים.\nבנוסף, הוא כולל פונקציית בן מארי מובנית ומשקל מטבח מקצועי לנוחות מקסימלית.\n\nיתרונות עיקריים:\n-מקצר משמעותית את שלבי ההתפחה וההכנה לאפייה\n-מאפשר אפייה ללא צורך בהתפחה נוספת לפני אפייה\n-תוצאה יציבה בכל אפייה, בלי מזל ובלי תנאי מזג אוויר חיצוניים\n-פחות לישה, פחות התפחות ,תהליך אפייה פשוט ומדויק\n-מתאים גם לאפייה ללא גלוטן\n-מתאים להתפחת בצקי מחמצת\n-מאפשר לכל אדם להגיע לרמה מקצועית\n\nבמארז מקבלים:\nאת מכשיר ‏D’BaKerAid\n2 קערות - 1 להתססת שמרים ו-1 להתפחת בצק\nקערת בן מארי, אביזר ליצירת אדים בתנור, חורץ לחם, כף ערבוב, 2 סינרים בגוונים שונים, כבל חשמלי מותאם, חוברת הדרכה ומתכונים.\n\nמתרגשים לצאת איתכם לדרך חדשה\nהצלחה בכל אפייה - bake it happen ✨⁩",
+        "links": []
+      }
+    ],
+    "landing_urls": [
+      "https://magnus-shop.co.il/products/%D7%9E%D7%AA%D7%A7%D7%9F-%D7%99%D7%99%D7%91%D7%95%D7%A9-%D7%9B%D7%9C%D7%99%D7%9D-%D7%91%D7%92%D7%95%D7%95%D7%9F-%D7%97%D7%95%D7%9D",
+      "https://magnus-shop.co.il/search?q=%D7%9E%D7%97%D7%91%D7%AA+%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+      "https://magnus-shop.co.il/products/%D7%A1%D7%98-3-%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+      "https://magnus-shop.co.il/collections/salee"
     ]
   },
   "current_ads": [],
@@ -84,6 +852,28 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:57",
+    "qualified": "2026-09-27T01:30:56"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://magnus-shop.co.il/",
+      "https://magnus-shop.co.il/products/%D7%9E%D7%AA%D7%A7%D7%9F-%D7%99%D7%99%D7%91%D7%95%D7%A9-%D7%9B%D7%9C%D7%99%D7%9D-%D7%91%D7%92%D7%95%D7%95%D7%9F-%D7%97%D7%95%D7%9D",
+      "https://magnus-shop.co.il/search?q=%D7%9E%D7%97%D7%91%D7%AA+%D7%A0%D7%99%D7%A8%D7%95%D7%A1%D7%98%D7%94",
+      "https://magnus-shop.co.il/pages/about-us",
+      "https://magnus-shop.co.il/pages/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }

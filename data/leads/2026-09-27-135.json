@@ -1,0 +1,106 @@
+{
+  "lead_id": "2026-09-27-135",
+  "status": "rejected",
+  "reject_reason": "lead-gen CTA only (BOOK_TRAVEL)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100052786107181/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "105378110926711",
+    "page_name": "Yakelos olijfolie",
+    "active_ads_count": 1,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "27017669321163138",
+        "link_title": "Yakelos Organic Extra Virgin Olive Oil",
+        "body": "🌿 De nieuwe oogst is er! 🌿\n\nMet trots delen we dat onze nieuwe oogst Yakelos biologische olijfolie binnen is ✨\nVers geperst, puur natuur en van onze geliefde Chemlali-variant.\n\n💚 Zacht en fruitig\n💚 Rijk aan antioxidanten\n💚 Heerlijk voor salades, brood, groente en warme gerechten\n\nDit is olijfolie zoals het bedoeld is: eerlijk, gezond en vol smaak.\nDankbaar voor de oogst en voor iedereen die kiest voor kwaliteit en natuur.\n\n👉 Proef de nieuwe oogst en beleef het Yakelos-moment.\n\nVoor 16:00 besteld = Vandaag verzonden\n\nGratis verzending vanaf 40,-\n\nOnze Biologische Olijfolie is perfect om mee te koken\n\nwww.Yakelos.nl \n\n#Yakelos #NieuweOogst #BiologischeOlijfolie #Chemlali #ExtraVierge #PuurNatuur #GezondGenieten",
+        "landing_url": "http://www.yakelos.com/",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/702065227_1361293026049648_4917444398670896564_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7K5ZGDXxJDkQ7kNvwELF2xh&_nc_oc=Adpw9-YRDCIm2ty73lJdItiwdNOQi-mPkCYVYJecRLnTIuscqlYSl1RdgF_MGzdRKlE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQJja17Yp2ere_gifQmuOTpPgflk8j0pJgagKU-YK2hWJQ&oe=6ABE3A7B"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1779001200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=27017669321163138"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 1914,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "27017669321163138"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 1914,
+    "page_categories": [
+      "Shopping"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "rejected": "2026-09-27T01:55:08"
+  }
+}

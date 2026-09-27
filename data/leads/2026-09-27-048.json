@@ -1,0 +1,1172 @@
+{
+  "lead_id": "2026-09-27-048",
+  "status": "rejected",
+  "reject_reason": "160 active ads — too big",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61569363655962/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "469331732934477",
+    "page_name": "AudioFeel אודיופיל",
+    "active_ads_count": 160,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "2030234161224343",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661075822_1264244645163873_8898251213118257978_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aeUbe8L0L8UQ7kNvwHR72Ci&_nc_oc=AdrFtrxHls-fGNxkY8JEFkCRxnLIHKrOjpaDFuOaDlZNPeAAXVKGvIFJ3rm-U4jFsWg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQLuSjSlEmpk1XQvejmdGtjxndZJgQeDTKrJdyHpEvQJIg&oe=6ABE4091",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/663316520_26311576668509858_349756975359942426_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOwsakgCg1UQ7kNvwGZwAKF&_nc_oc=AdqaO4M52E592s2IX604cAy0Mxuwb1mtWTtzwL5XZebMOR0c9mASVABS5zGdkv_0tyw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQIx2NRo1imRfvLKGr_jPFzD_ncMTgxokKvZvXhnphl8oA&oe=6ABE423B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661660551_812455094690560_4314044492501639105_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uo_XFiPkYUsQ7kNvwGRqi2p&_nc_oc=AdpJ_UxZvlFAICcqw9wwqPYWIWs0ioNHI8v4p8poMX6XTxf1W33BEVTlZgANud0WqW0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQIW1ZjyvJeXWbUmXfnV4NNIV7kguoi5CWLaf0gwo1V_qQ&oe=6ABE442E"
+        ],
+        "videos": [],
+        "collation_count": 0,
+        "start_time": 1775372400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2030234161224343"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 160,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 500,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "2030234161224343"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 500,
+    "page_categories": [
+      "Accessories"
+    ],
+    "page_ads": [
+      {
+        "id": "2030234161224343",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1775372400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661075822_1264244645163873_8898251213118257978_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aeUbe8L0L8UQ7kNvwHWtfix&_nc_oc=Adprr7PvtMrq56XmbB0chwaLzcz_mmbP-d9F-k0kTbmuzBbCoUkFBOjJ_0eTOZkvNhE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLd22-vmOUgbf8y4Ocbq5YwNXF5P00NeFR2zdQvl5g1tA&oe=6ABE4091",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/663316520_26311576668509858_349756975359942426_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oOwsakgCg1UQ7kNvwGKupWP&_nc_oc=Adr5H94hRFWFyXQ3RdqXybzNkRl3BRbDyysuBbMmjjGFl8AQESjTlD8wMmSljfBGxhw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKcYH23rFsc-krJZsWJg-uds5Kww4GMb-bos60HfI-ERg&oe=6ABE423B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/661660551_812455094690560_4314044492501639105_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uo_XFiPkYUsQ7kNvwGMGrqj&_nc_oc=Adqa6HvQf0PQrLrLI2XagXDBwTbXa67g1zvw4qXy-5MM4H6ob54pKdCoB1AJDqBOFO0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLkK2ZbxfVDM2ikXGN69SXjYGMg0N8YCfl6GJ3xzn1aWQ&oe=6ABE442E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2030234161224343"
+      },
+      {
+        "id": "1541600816982937",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 5000 אוזניים מרוצות!",
+        "body": "😱 \"ניסיתי את האטמים החדשים במסיבה ופשוט וואוו!\" - עדויות אמיתיות מהשטח\nהפתרון שמשאיר אותך עם המוזיקה בלי לפגוע בשמיעה - כמו שהלקוחות שלנו מעידים! 🎵\nאטמי אודיופיל לייב מדורגים 4.8 על ידי לקוחות אמיתיים:\n✓ שומעים את המוזיקה בצורה מושלמת\n✓ ״מקבלת מחמאות בלי סוף״\n✓ \"נשארתי איתם כל המסיבה\"\nאם אתם עדיין מנסים פתרונות מאולתרים\nהגיע הזמן לחוויה אמיתית!\n30 ימי ניסיון ללא התחייבות + משלוח מקומי מהיר + משלוח חינם לנק׳ איסוף 💯\nהצטרפו לאלפי הלקוחות המרוצים שלנו >> 👇",
+        "link_description": "",
+        "landing_url": "https://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1765267200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/562351904_1350301126816340_824172063022391552_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3TYOZz1WPRcQ7kNvwFx2ile&_nc_oc=AdompOXj-9XN_SFEEW_e4H36oRmZulThHwj2MfuUbdf9gIP4K5QrFsuoIOxo-ExthEU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQL4pjyICr8ZkExgxhPqZh7cSrs60RRzLg-PeBeGQvKN6A&oe=6ABE62A4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMyuQdOgKB_OOR5Hbm-np-_5OrxueHp33hTxhWR-HkMaEXXx6_BXE3ZX6eaKc4-iuqwyS3sNU3hq59naZ4rhi0NQgMPmpqFVz7xlIG7C9o_sw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IdyYrBZiFEYQ7kNvwGhLN7H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjcyNDQyNDcyNjY3ODE0OCwiYXNzZXRfYWdlX2RheXMiOjUwMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6f80baedebae066b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRTQ3NDk2QTA5RkZFRUU2MjIyQzhCQzhBNjNBRDM4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIVU5sUjFIQ1VSMEVPa0dBQ1dvVW9tZldHTS1idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIqoDoiLfJAhUCKAJDMywXQC7dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQLpQ-wZXtdrCfDsZKx5NCCLTXcUZ3SrxmnumRYW99Mgog&oe=6ABE6288"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1541600816982937"
+      },
+      {
+        "id": "1574908404185434",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1786950000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/777868122_1848987146257586_6610594916521011191_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2G3PV5Bp_3kQ7kNvwGQUk08&_nc_oc=AdoIg8uVUCWpSCJ1A1L1yPzEoiropp03u4fNBoW3fTDG12a5_-xdgIYUC6iaEygVV3Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKaMN8ou12riIDKQk6f42kkcSa0JyAfIE2N3AjnF7PTnw&oe=6ABE542B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPgvZCTaSKNDv4vJj0sSdVoPOs6irC1L0Oz9Dpps_ATUOWi5BRONqmyh-v8vxamtaq8_9mfJ6EaxnPCeBDG3gEe2SQQha0_crtb1pLwfY9gdg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xhpY0X8BuLUQ7kNvwGsHcwZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg5OTYyMTMwOTQ3MzgzMiwiYXNzZXRfYWdlX2RheXMiOjQwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=29457b3c8f61f791&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRDQ0QjAyOUZCRUEzMjg5QjYxMzZEODI0NUJFNTA5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcxNEQ3QjA4MjRFODk0OUM0MzQ2MEYwOTVEMTU4OTgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQkKuJ7YyZAxUCKAJDMywXQE67peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJMk_704q00cVVd6ECeduwKiLMwJeqM_szb5GO4lAp1FQ&oe=6ABE45F5"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778957764_1967897050559787_738957692470627561_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=egcCR_fFg7kQ7kNvwEFFMup&_nc_oc=Adqr36_UJB97eBx8TCL4S_Ja4aazQ5kKAiOUwEy0aLR1DilmXxp5eXlqA39-gNlLcJA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQI02NVpXnAK4EI77MravTMnbBhHuoVAVdyWCa7DlKaaUQ&oe=6ABE2FD6",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6lv91W98NFoA4tjwqhdaloEQkVq9yNmA2uyBZo5Tu0MothO_6pn-PHX-Thv1ltKY2wOt1rv4btMpFmAju_qBWd8YA910msyEP34bt_eQ-Qg.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1aYpSr70DjoQ7kNvwHxxluF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTIzODkwMDkxODE1ODAyLCJhc3NldF9hZ2VfZGF5cyI6NDAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=28566d65ed3a867a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQwNUNBQjNBRjYzMEY3ODA2MTJDQTg4MDlDOTU4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E4NEM0RUIzRjgxRkRBRkVFNDI5NTk4MzFERjA1RDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0zben1urFBxUCKAJDMywXQE67peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ3EcfSQf03GttA7k2cF-aePiwliX_S8N9EQ6VKy8YMBQ&oe=6ABE32F1"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/778958125_2307890873329383_670668776386773847_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o7oPsGAl5RUQ7kNvwEwGOAH&_nc_oc=Adq-vXz6aN0aYz7NF1R3v0qsYQo6U8UzNTj17QJt9iiuG0r9CyQE2nK4fzaUhqFnC4w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJ1UMpIyI76uXJArmhasBjwV6dPbs_MdAXJEiE5zJHL4w&oe=6ABE33F5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMaFqCJ7MB2Kb9h5tSb78DAIlPHlOT-FWIj6pEizEb72KHjX1WUnBKmP18HmkCqmlnE7XlWZBVrqEHF6TuXbKXBiJgWQ-SbWDLLijqZKt8zdA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tRIZNrxrQ1cQ7kNvwGlkjn4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2ODQxNDM1MDMzNDEwNzgsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjYxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4f8e44de1a0c2895&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NTQ3QUM1QzkyRjc4NTMyM0Y3ODFCMDUyOUY0MzQ5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZFNEFBQkFCNTA2REIyN0ZFNjE5Rjg3RDBBOEMxMDg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACas2KP0hu79BRUCKAJDMywXQE7AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJirX6-fTK7QlidcUg0YOJkTVWb2UoxFQy_70txRD2BYg&oe=6ABE3998"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1574908404185434"
+      },
+      {
+        "id": "2502054496916655",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מסנני רעש שעוזרים למיזופוניה >>",
+        "body": "להפחית את כל הרעשים המיותרים - תכירו את דגם ZEN של אודיופיל!\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\n\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nזמין עכשיו באתר במחירי השקה!\n\nקליק וזה אצלך >>",
+        "link_description": "אטמי אוזניים איכותיים של אודיופיל מיועדים לשמירה על השמיעה ללא פגיעה באיכות הצליל. מושלם למסיבות והופעות, מגיע עם קייס נשיאה קומפקטי | משלוח מהיר עד הבית",
+        "landing_url": "https://www.audiofeel.co.il/products/audiofeel-zen",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1774854000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658150650_1441627690792303_1884127786434906015_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9rh1e-7iAGkQ7kNvwHjGh_4&_nc_oc=AdpmY5jX8UzEEDMf3eVmldpFGtM0wzQQ9SlNtN8hGZ1K7xmKRvYnKG2Q16E1Dg5B4Fk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJAZUQahg839Y1H9BNDzZEAOh_4EixBZRwxVi1NNqtbyw&oe=6ABE5845"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2502054496916655"
+      },
+      {
+        "id": "1250929046882705",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1766649600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605966029_1259456646009524_1130547639201322985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m3MbCBxE_FMQ7kNvwH3UMyB&_nc_oc=AdozfMxfm8c0ozssPtr2iEpc2ielmWIMHgadVIqdpZtuZMo8tsrAp_-NnFP5kx_yICM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJeA6hlBKfYvynfEhTBTIoeuZGQL2pwHY24WO1buh-Dvw&oe=6ABE6085",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605611951_2701918536817326_8547573298763549325_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RYK95Lf-ya4Q7kNvwFAeQmO&_nc_oc=Adrb-RbV4GkAKwWaaucQw8HGOlNyf4l9SxE1SmNZTqcDPmMYWqB4CsZZjCOSQVaU2ZM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIBXiWjDyw9UI2erRoqDLF20EPvI2ql1TaDBcv4IoP-Fg&oe=6ABE57CB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605195545_1244822857459277_7826219546417649405_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d6_dik5oik0Q7kNvwG-nuR3&_nc_oc=AdphWYREiYTkdgtUxTvjE7VqQ3K22gTUShoXEjfPFFTQtaE-posnBPmICqezfx4OmGw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJCwz1gjKKnCVE9gkcHnA1Ij0CdOTd2c54SsKg6REytAA&oe=6ABE3D56",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605625366_2577694352601458_6523566259134378713_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zT_MDT7XyXkQ7kNvwGnq19l&_nc_oc=AdpjjoAVmvHxh4l9vICBUKoaBOsbXxdHUhOebfFwOg_zCxB8ERmr-7TuGt5U0VIPdu4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJN27w5wQn5PjfGYe_Yn97lnCnYghI5jM6tvuVQrRnM9A&oe=6ABE4C1B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1250929046882705"
+      },
+      {
+        "id": "838091065695589",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/587120985_1494807141751132_6337636494692140413_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XIGLXRl974IQ7kNvwG_Tj_7&_nc_oc=Adr-34cDo58Z-XbyX7GH29D9jH1rIPDP-jYLYsjBg-hxEdm3yrAbQawTSJWjld56Ols&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLueGkwh4Yzubqe87Ut6aHCOJQbiWVRugdZV5l-J0kQKw&oe=6ABE3097",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN2Ha4u-pbIDiDgBNPqYy6V8cpAqukmTBRa1ZXa5UJXxX0WKGXjk-dlQpV8QkbfvUZzEXhdsMbVhzlxXULCz6lGTLOoVyfiXTUnz-QRB2eduw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=naLWHB1L3D0Q7kNvwHyEnNA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNzk0OTk2MDIwNTY5NiwiYXNzZXRfYWdlX2RheXMiOjMwOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a65a8a580bb2b9dc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMDQwQ0Q1QTNDODM2MTZBMEZEOTEyOUNEOUUwMDQ4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDdBNzM0MDExQzY0NEE5NUREODgwNUM1NzhCM0EzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaA1qj0g8H4AhUCKAJDMywXQEY3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQKgXPhkRojGXnzSyEObe7IafRY180sdmat08A8_E6INsg&oe=6ABE3836"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/585547896_4209770339241322_6088401264559110452_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UzceFI0Hl9gQ7kNvwHo03GE&_nc_oc=Adpww0DAO03kPtYV4NoA3x9Xp9-OzGzn53wCOgso8kqxDjdv_Z11UAkULucm-WkT5IY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIo0qOobMRDUcRrHA53zXi-DNLTwftYrzd9LZV5DwBJng&oe=6ABE2FB9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPJ8FmtV8T7cPqNI7jGptuLZoTEW1OrRop3hfo7AjhTjwUhkAzpPqJjsv4j8Abw0ZJqrcziAMn46RuJ8yc0HrPylx055tCpD9bjS2kI0WvPBg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=DbKp5skFZowQ7kNvwGF3Tgq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzI1MjUwMTM4OTE4NDgsImFzc2V0X2FnZV9kYXlzIjozMDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d0a258e3c01246c7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xOTQwNzMzOTJGNDVFQTBBOTMzMjQ5QkNCNDlENDZBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJENDJDNEIyQTQwRTBENEExNjg5NzE4NUU3QzU1MjhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQ7L3Gh573BxUCKAJDMywXQEY3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQKKYrmEyIJISZqaplF7wptSPaedpXwVbpUQGU9GPNc9CA&oe=6ABE467C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=838091065695589"
+      },
+      {
+        "id": "978687868537684",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/729716407_1551532266633893_2036154412304769771_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=39nKVlQkCksQ7kNvwGk-IKX&_nc_oc=Adp2YEHiso0yx6RYm6fWd8U9kscX_AMZuLKIuyy1vTihzKCTMKQj1SHNh6dTuwLtEUQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKJEN7x84h9cc7pVmyXyBkPhBVFvoC1kKgxkISWQ296SQ&oe=6ABE5D5F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPxU6KkAQ5kLqMzt5kBRop2-oI-TSDBWq6bvCLYlWWwe2VvqDOfckghPg2sssJbCbbbDT4OpRfRPi5mLpseqWBrE5jOnIt5Mv11QG6HdJJdzQ.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-TUOsiDAOAUQ7kNvwGVjEp6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzA3MzIwNTkwOTA2NjgsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7dd3aa2305f19533&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ3RUFGQ0YyREIzNDY1QkE4M0UyNTdBRTM2QUNBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNDk0MDg1QjBGQTYzOURERjQ1OTBCQkM1RjI1ODgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY-4bKqoy4BRUCKAJDMywXQE23bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJD6dPYu0Gbm2S6TvNitW8FquERuP8ElFPVZbwuYCFDow&oe=6ABE5AC3"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729736769_1745694226589293_6368892584660782612_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PB7b7HzocoYQ7kNvwGXfbIS&_nc_oc=Adq3SMO0dgLfI5n8U093g8zG6-ElKRlLLjPFrcy6gF351s3vfPO2-ZPcewDkaN5Cjtw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIrM2JZO-X2xzd8PaIaujytsIguDV7ChwRcN8NMBeWM_w&oe=6ABE5528",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNnkWMtznOsfAOBCp1f9AXAcu9KRr2vJ7jm7xi3aPOjjMVxi37__R2GbBcCQPOo1Cw5Pa9WdSr2ERNqdsuFbe5fcO6kNPIKHN_tWYqZAvphxQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=98AR9PYXX0MQ7kNvwHUKnCp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTAwNzg3ODEwODczODE1LCJhc3NldF9hZ2VfZGF5cyI6OTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9a08809d0fdc8635&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODRGRTEyRjUzQjJDMkM4QkJEMDE0MDMyMzhFMkNBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNEYzQjVENUQxMTQyMkFDQTdGNEFFODUxQ0QyMUJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaux7nz-Km7BxUCKAJDMywXQE23bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJIMOLctCb6F-ropXxmmfrWCI0FmSD_0EMs8BnYLbWXbg&oe=6ABE3614"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729746771_1927422891196226_8170154918065175844_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E6ZrU63v6B4Q7kNvwEvgp5A&_nc_oc=Adr5168bQG7JIZ9MVoN2YRhUpuG1pRLMv1v8bA6ArqMW5aMCX0UmyGNe_8gSvi23Fvs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJUsF1lPjpMwawJ3njkpy55lG4fDk7nGCXODBrqh56NsQ&oe=6ABE5F5B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQODnSuhSRZHDnQZj7ZCnKJIyXQSMzEZR2-zRcZj8C4RyMywPJdfWC8kRYUGvKu2wdkXyEYPo-CqR9m_eemrdoEW1jQvta6gVXJ9TZx2UMKW2w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BNTIOqD9YAYQ7kNvwFImKCe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQxMTY1MzUwMjUzMDUyMDYsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=84f0c70e7a2493b9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTQ5NjIyOTEwMEU5NEJDNEFDOEI2ODFGNTg1MjZBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QxNDUyMEQ2RTM3Njk3NzQ5MDNCMzc3MjlFNEVCREI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsmZz-7_3PDhUCKAJDMywXQE23bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ2GgP_JS9F4ziceMGfLuBh1bjValMdlJR1jGUAsbSBRg&oe=6ABE2EF4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=978687868537684"
+      },
+      {
+        "id": "1489126549487306",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777359600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/681669007_1509719910538339_7566598588848736774_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5vxl2_XlQ-4Q7kNvwER8ZcH&_nc_oc=AdpbQMwogpPzm1Z-zDgvlrxUQQNqdV6oJfReG0u9LuDifv2nWMa-nT0wO8PmoiQVjh4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJEvzrRrT_GtYhibFt_FYydmcMI7pwsfb1iltuDjlqKWQ&oe=6ABE381A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNxD54mgLl_YtRPCTZl90-phyq-TMuQXYrOw_5O6LPHsqwryv58916ShKIguHlgG85gnluHEGtj3r6jdBvoELNKoW7ReqEZ-BNR1oB98jjAWw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=GORJ2J5MBGwQ7kNvwFaG9KV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg2MDE0NzE3Mzc1Njc5NSwiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e11fecd1a1a304dd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xOTQ5MkIyNDc4QjRGNTk2MDhCNEQyMTAwMTdBNzQ4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I4NDRCNUVFNTQxQkNGM0JBQjlEQzE5Q0VGREQxNDhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2vfjrk5OHAxUCKAJDMywXQEJMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ3YhIEp4x-6ojin02Bunikkss0bQa90WnT8gPkDTh97A&oe=6ABE585B"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/683717606_1256060640074897_1124535095022606940_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mxmMCICxLZUQ7kNvwE2XcqT&_nc_oc=Ado97J25sLiovw9r_mxBt9ihIj4mYm6Hn7WaVzr8SPJeEP1wJyK2BXX2Twul8_FwlWY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLdLPVvuH_awxe3T34eTlwdIVGzaSK0YITVauNM8-TgWw&oe=6ABE50CA",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOd2nz5tCe-4AqyyMRxs99BVbmLlhiI261VrdarNDXZB0rJcLGgirxwkujsHoE0fGRvEC8rKcnAXdK0Eg0Y74_ftPcYqAVyOCGVcXklTc9COA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=vpt6u9KVvnQQ7kNvwHx86XS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTQ1MDE5NjcwNjAwNDI5LCJhc3NldF9hZ2VfZGF5cyI6MTUxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1cdf6855a4b0152d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTRFMDY2NEQzRDJBMDhFMDlDQjE1REZGQjNFNUY4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJGNDYxMzYzNkREMTAwMDQ2MDVDOTgwQTg3ODcyOEExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACba65jK_cu-BRUCKAJDMywXQEJMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQLNfldgBPjgkeV6nOy7AqaghATM95g2TtkD_zI9mrrHeQ&oe=6ABE6222"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/685408705_818045514254937_8889255892916271479_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=coXb_DeamjoQ7kNvwFzLEFp&_nc_oc=AdpBSSdnfu9lWeFNspwoOlvXFxR6Sh01DhXyjA5NqFmlRP5c1V8w58BO96fYzGyDGXw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIgQ3tmrtiykPCKq-GYWvUKR3pHEYu3BsLpWTPvxs279Q&oe=6ABE3248",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMEsSYmnHRQHXr3J74jz1HCVhRjGyp9n1fPGl0BkwL4hWg3k386ubjw3rUl6bf0kcIAzk5wswWuk98B0eh6qa0mQGmK-3iUHm2R907a-FcwPA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hcraRfV2LTsQ7kNvwFKPmoQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNzM3NjgyNzk3NzU0ODMsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=71d6091d33c73e22&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDQyQ0Y3NjBCRTExOTVCOUJENkE2RkM3RTA4ODI4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRGNEU1REYzRTlCQUQ5N0JCOThGQTQ0QUQxMzgxRThFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb248Lxv7u3CBUCKAJDMywXQEJMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQIR0CgwJ3MfS15NRJhym8ymPF42CDSlLyBxGySW_Z48ew&oe=6ABE41A4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1489126549487306"
+      },
+      {
+        "id": "2548105888961292",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מסננים להפחתת רעשים >>",
+        "body": "מסנני הרעש של אודיופיל נוצרו כדי לתת לכם יותר שקט בכל הרעש מסביב.\n\nדגם הלייב האגדי - יציל לכם את השמיעה בכל המקומות שהסאונד בהם גבוה מדי, בלי שבכלל אתם יודעים (מסיבות, פסטבלים, הופעות וכו׳)\n\nדגם הזן (החדש!) - יעזור לכם להוריד רעשי רקע מיותרים ויעזור לכם ביום יום. בין אם יש לכם מיזופוניה ורגישות לרעשים או שאתם פשוט רוצים להתרכז יותר במתחם העבודה המשותף או להצליח לישון בנסיעות.\n\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nהם שומרים על הסאונד ומסננים רק את הרעשים המיותרים, בלי לנתק אתכם מהסביבה.\n\nכל הדגמים זמינים ב-3 צבעים שונים ומגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית.\n\nיש לכם 30 ימי ניסיון איתם - לא מתאים? תחזירו!\nבלי שאלות, בלי בעיות.\n\nבאנדלים בהנחה ושליח עד הבית >>",
+        "link_description": "אטמי אוזניים מתקדמים ייחודיים לחוויות מוזיקה מושלמות במסיבות, פסטיבלים חתונות ואירועים שמרו על השמיעה ותהנו מסאונד איכותי. 🌟 האוזניים שלכם יודו לכם",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784530800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/750814879_1932158440822038_5013765615147809234_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-LXcPYZWmrIQ7kNvwFUE7nx&_nc_oc=AdrLTc5B86GEUC09nEr87xJThFdcUlskHO-KNItY2Ug6o4EZXALTQXr7kIOqurx8MgE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJjkhlE18NPfAl50__8gYWS6TPflgC-UFpqjA4btxACCA&oe=6ABE454F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2548105888961292"
+      },
+      {
+        "id": "1666832671007599",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 5,000 לקוחות מרוצים ⭐⭐⭐⭐⭐",
+        "body": "פסטיבלים, מסיבות וגם חתונות - אנחנו מוקפים כל הזמן ברעשים שמזיקים לשמיעה שלנו.\n\nבטווח הקצר אנחנו שומעים צפצופים באוזניים, אבל בטווח ארוך - אנחנו יוצרים נזק בלתי הפיך לשמיעה שלנו.\n\nזו הסיבה שהקמנו את אודיופיל - מסנני רעש עם טכנולוגיה ייחודית (פיתוח ישראלי כוחל-לבן) ששומרת על איכות הסאונד, וגם על האוזניים!\nמה זה אומר? שאפשר להגן על השמיעה שלנו, בלי להתפשר על הסאונד והחוויה - וכל זה בעיצוב חדשני שמשדרג כל לוק✨\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1778482800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/691532432_1471154115054649_2862907598637982912_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QgaWSri2upUQ7kNvwHrIi2u&_nc_oc=AdodGUPTm5Bc2sPaurhRoyfld8CtBr8g7UaFZlMNTl46z7W_lh3X5JQB2m9DXQ6MvGI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIGK062_npTj_yac4JkAQOOv9XMTZdxXHckLB4ybRSAzA&oe=6ABE36D7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOodabz9PNBsXxIju9E8TU3o-WwDJ5b59ToG8Uehg392PUW_3Hzo8j9YPMJmyZ7l9o5s97mb1iFE2Wz0JslbbUmMBrX4TsRMSs11C5Ol1FFbg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wFM0XQafSIkQ7kNvwFNMrxe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNDM2MjI2NjMxNjgyODcsImFzc2V0X2FnZV9kYXlzIjoxMzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3a89ed0523becf6f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTQ5OTI3OEVDNTFCQjU5OEJGM0Q3QzAxNUFGRTY4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNEEzRTg2RTIyN0UzMTZCOTcyNTA0M0Y4QkEzNkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-hKWuv6qhBxUCKAJDMywXQEWqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQKNgbmB7c67LwcmX4Pok2bikdl3-_4XvBaC9D9qob0IZw&oe=6ABE4E38"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1666832671007599"
+      },
+      {
+        "id": "1499184951724545",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/products/audiofeel-zen",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1774854000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/659146289_1737033017626224_1475326994635257300_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PHxqoC_Fw0UQ7kNvwExUuSY&_nc_oc=AdqKkqaH3niCBNPjoue-VPVP0YexAApMiLKbhUd2zAW31xk49sXu9v8TtOKVL-4kpj8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIlDHb90ksFP3lEiNGpya1vsj9zgDCt_TK14PHb4Popag&oe=6ABE4E1A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/659780594_987913473803673_6218478241365261342_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LsuUlXlWkRMQ7kNvwGaljzT&_nc_oc=AdqKBngbRFOLxvWfT1U-n_bNC6umWyQeHCVq7Xu09I1K5KlHbjsQdq46t83JZ6XZYCU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQK6ZAr5axfrlPBiPlVp9VTxvD2juWB9x67i1mRYQFIQLg&oe=6ABE4269",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658847808_2642649666114340_1516617106807848328_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KEClloGAtlIQ7kNvwEXtbCn&_nc_oc=Ado7v5hYzSKT16JH-7hmZG21zctDPHB3h3sfw1WO_Z5oDicrGZCMkJiJwN93TjzN1-8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIYf2X-i-v8Uf9a6DZNje-lrlMrwKtRm_hv2kPF0vgMdw&oe=6ABE3375"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1499184951724545"
+      },
+      {
+        "id": "1381420940288663",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1766649600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605178760_1378668190603518_2376686296420737160_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wvIfE5k4M9YQ7kNvwFpctYc&_nc_oc=Adqtb0UOzO3hUXOv00m3Yk7d0aRYdFMLCXQoINUD5Ic1ZRp-2-SFneJw_c38_0qlV4g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKuwX9JYW2VWauAgVjE0TtF9JWDPqD2zqzvLuHJ_bQXUA&oe=6ABE31E6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605294993_1193556005623311_985704804959573167_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MVEG2w-KrroQ7kNvwHQkIHb&_nc_oc=AdqsibXeC9mpvqvh8ajdQ8qvFXWc92MPo4Vn0X9tUHTG8x9r4r2-dk4XeXsoBtzThPQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQL_znY1MwnNXJk0dl0J8k0gpxPX9EGek9KWNSQsICqinA&oe=6ABE2CE7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605203283_1378864787234191_3897233203566242693_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VAaheTJ_p7AQ7kNvwF1a4_A&_nc_oc=AdrqRbwE6QlJllVvIJyHmu5FwFOJo45zoZOP7JYT9UG9KkOAHk_9h13_IaYOOnmSpeU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQK8aGFTocucDB4Zn4s6KRVhKMEG56u_bQ-qDbS5fC8yTA&oe=6ABE352D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/605257652_1260573699454682_605816600023364755_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vKErHCX-NaIQ7kNvwHkVTWM&_nc_oc=Adq0xXCvHwyoUN-Xm8lgMDA_LdEfX2kBb_6-b7H4zGVWON-LEzvAyLWJ0Zni3mYWIP8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJdNRuirnIuMr77m2MN8g1vweXjYoiPWM8Xf4Fx_88LfA&oe=6ABE2D02"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1381420940288663"
+      },
+      {
+        "id": "1158021256416721",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 5,000 לקוחות מרוצים ⭐⭐⭐⭐⭐",
+        "body": "חתונות, מסיבות, פסטיבלים ואפילו רעשי בניה מהרחוב - אנחנו מוקפים כל הזמן ברעשים שמזיקים לשמיעה שלנו.\n\nבטווח הקצר אנחנו שומעים צפצופים באוזניים (וגם זה לא תמיד), אבל בטווח ארוך - אנחנו יוצרים נזק בלתי הפיך לשמיעה שלנו.\n\nזו הסיבה שיצרנו את אודיופיל - פיתוח ישראלי למסנני רעש עם טכנולוגיה ייחודית ששומרת על איכות הסאונד - וגם על השמיעה.\n\nמה זה אומר? שאפשר להגן על האוזניים שלנו, בלי להתפשר על החוויה - וכל זה בעיצוב חדשני שמשדרג כל לוק✨\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "אטמי אוזניים מתקדמים ייחודיים לחוויות מוזיקה מושלמות במסיבות, פסטיבלים חתונות ואירועים שמרו על השמיעה ותהנו מסאונד איכותי. 🌟 האוזניים שלכם יודו לכם",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/590770778_853030453759261_160421294302256427_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=USUydv5rWTIQ7kNvwE6jWrf&_nc_oc=AdoYWzB_S5JZCRNJjSBHnj15tAVBGpnc-9UpD1iUdLB4f_sjL8iZ0sJ1J1Os3Nbepic&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQK5A-Qpv58di3Vb_owzUwLMq-hTFtJrEeiMYIIJUZ0bpQ&oe=6ABE3066"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1158021256416721"
+      },
+      {
+        "id": "855771010185842",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 5,000 לקוחות מרוצים ⭐⭐⭐⭐⭐",
+        "body": "חתונות, מסיבות, פסטיבלים ואפילו רעשי בניה מהרחוב - אנחנו מוקפים כל הזמן ברעשים שמזיקים לשמיעה שלנו.\n\nבטווח הקצר אנחנו שומעים צפצופים באוזניים (וגם זה לא תמיד), אבל בטווח ארוך - אנחנו יוצרים נזק בלתי הפיך לשמיעה שלנו.\n\nזו הסיבה שיצרנו את אודיופיל - פיתוח ישראלי למסנני רעש עם טכנולוגיה ייחודית ששומרת על איכות הסאונד - וגם על השמיעה.\n\nמה זה אומר? שאפשר להגן על האוזניים שלנו, בלי להתפשר על החוויה - וכל זה בעיצוב חדשני שמשדרג כל לוק✨\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "אטמי אוזניים מתקדמים ייחודיים לחוויות מוזיקה מושלמות במסיבות, פסטיבלים חתונות ואירועים שמרו על השמיעה ותהנו מסאונד איכותי. 🌟 האוזניים שלכם יודו לכם",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/594057630_2318724838554396_6872150978941450051_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5kAx46GOc-cQ7kNvwFdFXi_&_nc_oc=AdozqIjoDgxI2sGa04U_kf5QwE6XdmbDr46cnsuE7-w3GeTMSxw06foCOx8LeR7GgPI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQICmbh9NzZ66d0bzJlsFF3Y_aC1lh1Spl9r4if3QY_Ikg&oe=6ABE43C4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=855771010185842"
+      },
+      {
+        "id": "2163163817829498",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777186800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/678779221_852803263754025_9209096765421401104_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jD_YCuTTRSwQ7kNvwFWuTry&_nc_oc=AdpIiIIu6BBC8ERidZF-7vmx88vB3KogbpV7OpMLLp54UWYwBTCC2RSEt_GDilOJFf8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLJbW_da9coLtR3WUJdBgtSY4rqA6ax_OtebazU8zXhRg&oe=6ABE547C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/680143200_967442079023812_8718840504743536443_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L9p5gqUfeYMQ7kNvwG_8a1s&_nc_oc=AdrLARJyoT9hihAifyytUhH6r3v3_tBxR8GKm7Ck91BAf9uJEvlk8ShgmoS6TmoXAcA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLAvIGbN0k5TDMeCbz8qmFzS9yg5_26M5P_h5j2YdLewA&oe=6ABE5F12",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/679575811_1592751651840396_2478761618686920700_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K9RVA0vcl-EQ7kNvwFkeYgc&_nc_oc=Adosecgz9cSkh68Ff4XF7vK5E9Mfs3_ssasDdB_rbgYuWA20dlKMJUzv1PeeM_J5JIM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJ6ULMxP_949xTVjZsk1W2FMO1cshgH2vPSlVTGSfn0eA&oe=6ABE464F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/678565161_1592564665147378_7683858540113265150_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JpZt-lK7vz4Q7kNvwHpaZSZ&_nc_oc=AdpKS7J5N1ulkPnGXM_VBpTWSBsRHe0nDiv0bvZvAe51teCntCekZr3rTz84uJxiNYk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKBnCSlj5o3soIqjsBS9yfvitgZB3PuF6iFq9aAo98F4Q&oe=6ABE3E56"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2163163817829498"
+      },
+      {
+        "id": "1443896990398748",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://theisraelinews.com/new-enjoy-music-in-festivals-with-audiofeel/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1777791600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/688360743_992684580165947_908599504960477145_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GqjGJkxqWnMQ7kNvwEq9Iwx&_nc_oc=AdrTaTPg8QqR-cJYO-FcGjVzvIdD17Xh-GDiQCfYsKOrPMqkbq8pnn8cZeIlcPw4SY8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIKLlUZpb_cyN1sYCkuSpq6nsOFpaO1eoCPhQPJVaFhfA&oe=6ABE4967",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/689176097_823140870455299_1644466979148742179_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jbBBzYtBnrEQ7kNvwExyKRd&_nc_oc=AdpXX-9-SurVpVBUDhGk2lR5PKuXATwCJJA7z3MtFkQZkuaU_OiZ9NDys0IlbqWuclU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJrMARPk7Izy7PZqUpLNevCG0MF9koTO_s8ZM31fUaXDg&oe=6ABE58B2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686217322_977004971395359_813898850803195482_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i2PZYTYktpsQ7kNvwHxsh6f&_nc_oc=Adqt820x0wEi7nBm9pX0IAUTA6HedORVZVdGe-OeD8zXGMZZrFBLu8ILYEcyGDnekNU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIl2oHjfKcIPb-rBJ-GXUsYytAbLucSC-n_xdrEvoaYqw&oe=6ABE2FDA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1443896990398748"
+      },
+      {
+        "id": "1586932146256875",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "30 יום ניסיון + משלוח חינם >>",
+        "body": "מספיק 15 דקות במקום עם סאונד של מעל 85 דציבל כדי ליצור נזק בלתי הפיך לשמיעה.\n\nחוזרים עם צפצופים באוזניים אחרי הפסטיבל? הגוף התחיל לסמן לכם שמשהו לא בסדר.\n\nזו בדיוק הסיבה שיצרנו את מסנני הסאונד של אודיופיל - פיתוח ישראלי עם טכנולוגיה ייחודית ששומרת על איכות הסאונד - וגם על השמיעה.\n\nמה זה אומר? שאפשר לרקוד כל הלילה, ליהנות מכל ביט - בלי לשלם את המחיר למחרת. \n\nוכל זה בעיצוב חדשני שמשדרג כל לוק ✨\n\nמזמינים פעם אחת, ואתם מוגנים לתמיד :)\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "",
+        "landing_url": "https://www.audiofeel.co.il/products/audiofeel-live-1",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1788937200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801504015_1722614075483940_9036317981350167171_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAO23Huko-AQ7kNvwEf4uM_&_nc_oc=AdrpJWHN-Co7nPx3Y4sWtVKsuGUdFYcGxb0LE1ybOaOkoNP_9evJ8UMFQFXQEi7PB0U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJ5I1R_709pcMJHcKMftd6ON_i5UC0y-271gCiGJ4V6Cg&oe=6ABE4DF6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPi21oWHZpqdwK--Bwdf_StjWJt_GQ5_-PHl_Lhh-7ZQxSp7_J4zf7NSiB3whspR7Dr50XOePCumXGFxB82O9t-7RDWdVdYnzikHvGRobWKZg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VsxWSgjM-BYQ7kNvwFiWvPA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MjEyOTU1Mjc1MDI0NjQzLCJhc3NldF9hZ2VfZGF5cyI6MTcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ad2177e5a1f436ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xODQ3MkQ0Q0JGOEYxMDFEQjJDOUUxREVDNTgwMTY4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNEZFNTIwRDlDQjBEQkQ0NUFGQjUzOEMyRThBMDlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG5NqTkeKdZBUCKAJDMywXQDEAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQLJvxrNqEQwO62R_lJ3H_0fQ5a-xTq9TxUZhQhiisij_A&oe=6ABE3FF8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1586932146256875"
+      },
+      {
+        "id": "2255929191477689",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "הדגם החדש של אודיופיל זמין לרכישה >>",
+        "body": "להפחית את כל הרעשים המיותרים - תכירו את דגם ZEN של אודיופיל!\n\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nזמין עכשיו באתר במחירי השקה!\n\nקליק וזה אצלך >>",
+        "link_description": "אם אתם מרגישים שרמת הסבלנות שלכם נגמרת הרבה לפני שהיום מסתיים, אתם לא לבד – והבעיה היא לא באופי שלכם, היא בביולוגיה שלכם. הנה 5 עובדות על הקשר בין רעש, סטרס והורות, ואי....",
+        "landing_url": "https://theisraelinews.com/your-kids-scream-hurt-you-audiofeel/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784703600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701216566_955920894006628_7631634944331021212_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HmUQqZUmjWsQ7kNvwHhSIaz&_nc_oc=AdrLYuDa0-O7rjzK9JiCTEX5uyvAVbwLcw_dRl6Wts_k7dTkBgs14Ci5bjAXBycuhHw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJnJFTl-t_w3vL0fCBjmKJWHKtwmnSgMs_RQYIjgXs-Dg&oe=6ABE335D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2255929191477689"
+      },
+      {
+        "id": "2386693135183176",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/561072944_2396869654082412_4918436768511870961_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J5crCoA0rsQQ7kNvwE_3nFc&_nc_oc=Ado41puchpQ0tgDOtFEQtEedQ5wdwJYW32lmAJFuu_67FU_Biqz7LpH5R4scmhIoOyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJOGDVj5uYJhooZnIYRtshz-ZLNMHFqtVO9JiSanb4iyw&oe=6ABE4A0F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/561072944_2396869654082412_4918436768511870961_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J5crCoA0rsQQ7kNvwE_3nFc&_nc_oc=Ado41puchpQ0tgDOtFEQtEedQ5wdwJYW32lmAJFuu_67FU_Biqz7LpH5R4scmhIoOyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJOGDVj5uYJhooZnIYRtshz-ZLNMHFqtVO9JiSanb4iyw&oe=6ABE4A0F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/561351941_2238828573228986_6708103150226818103_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JCkrDn2oRc0Q7kNvwE0iLMf&_nc_oc=AdrK4T8C6OakUlvgI9NTZVwzEYFA8OJEt-vUrBE9T6fGeBXX0_GSX3RVMnzPzI4MM1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIzvyIze5a1FoIj9qbASDX2Uok5Ai3nZuak5cIEXqj1aQ&oe=6ABE3782"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2386693135183176"
+      },
+      {
+        "id": "845502398186319",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1765180800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/595111481_9459679994155791_4234206098430914255_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-WMqYvyD64wQ7kNvwG3vkad&_nc_oc=AdrfT1cFyOWlqc9L7bya8TqmvwP2dSAc_lhF7u41yyxDRvUXYrDruZ8dZ74QvglK7dI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIpweLUk9FXl3mXJQUlaLASOXt6MWA4UlJdCgrxXNwULg&oe=6ABE4455",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/594074790_2110472983114999_7601786741664635185_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cPv_oL06kd4Q7kNvwEyMIyU&_nc_oc=AdonUYeyBFKbKrz0MeE4vn_xnOZ_CtogyG9nqdrNxzZK7zA4Fwv78ItAUoooFRpl0IM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLy0IWTxpJGWDTpq2vHkg6C7twcpR7RsDm1Sth9Se1nFQ&oe=6ABE5DF3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/594050509_1883072678991655_6241064049539554279_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P8wZ_TNaVw0Q7kNvwHAUhsV&_nc_oc=AdqvJv4Glp8tjiw4fSE9OsV63_o4QybD7qPGA9jU0FU5RNms2B8gRxr1FOYbw4uQUes&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIFw-ZaBqSg1sIpZxnn2TNy5EihUbR8DSKBFh3b9VB-sw&oe=6ABE4C54",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/594050509_1883072678991655_6241064049539554279_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P8wZ_TNaVw0Q7kNvwHAUhsV&_nc_oc=AdqvJv4Glp8tjiw4fSE9OsV63_o4QybD7qPGA9jU0FU5RNms2B8gRxr1FOYbw4uQUes&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIFw-ZaBqSg1sIpZxnn2TNy5EihUbR8DSKBFh3b9VB-sw&oe=6ABE4C54"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=845502398186319"
+      },
+      {
+        "id": "1564614375121477",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/727323229_961646110257207_904773785578975249_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R2NMoZkfArUQ7kNvwGaMOWC&_nc_oc=AdpjEccFvZRPuJS9xlD2RssgcOALkfKz6jfEUPDvsdkzMsW1DrHIGvxRSmRfxFjoY4I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLe-rugOp_3Z424BNYyRwvu6C1pzuMrjig20AJZCD0a-g&oe=6ABE40A7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMTf9i7adIXWiYCxyVO7aeTd_RLOzJJrbAxVlCdPjoEJu0EU142P_ArGBR2HpLM5WwGuwwvjAM5ESq-183avrmWRcMQd_eypmL2bjV-H8qRCw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IWI2wP7j4TYQ7kNvwGJ1w8E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNzMyNTAwMzgyMjE2MjksImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bd04124beb5041fd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjRDODBEMzM4REY1RDg3Q0ZBMkZEOEU2QjZBRTc4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRGNDQ4RTVGMUEwRjc2MDQ4RUQ1NjFCQjlEMTk5RjlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6rOiD9IDDBBUCKAJDMywXQEtqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQI6unT39p2c8NNKmp9lDvT_ZuJgCD5twx4aWHqCaZT4dw&oe=6ABE60A3"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/729768936_1368843801814357_3968352921345823275_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iCOULJ-5G2YQ7kNvwEqMAno&_nc_oc=Adqb82AsirHDe_u7-HRbZT2k7oDXSmsGdOLNbAYgbHNf7wEhehWO1wDygGR2oUTPdLU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLIbYBlisujjBpyZRawk8_G4XaEVnG21Sgu0hdq8y33qg&oe=6ABE3F13",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOud9qLbgdvPoSKujBN2Kfj0fjHU1rdDqKILFAzQyfNkgOXgU3cg9cKyGI9hC0vukOcLnzvUYd3_iHaWJRmwEUjh8mYHEtgMeWnjYvqp5ZMOQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=FI_TKpjH4JcQ7kNvwE-ydMi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDIyNjU1Mzg2OTM2NDQwLCJhc3NldF9hZ2VfZGF5cyI6OTUsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8a2460d8c7e9d3d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ERTQ2Nzk4MTA2RUYxQjJBOTY1M0Y0QjZFQkIxM0M4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEzNDNENUZBNjFFQTk5RDY0MEIwMzM3NDIwQTc0MjhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwkYexsIbRAxUCKAJDMywXQEtqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJAA3HTfJtN1nptyOq9M6HatA6XttzaGph1V9NM8xLdRQ&oe=6ABE3DA8"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/728558044_1691684152044604_6038370824560992945_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bbLmrndveFwQ7kNvwFg11WW&_nc_oc=AdqOEUAm0bvftmmGKVhF9ArDF2Q8D96JabKHX7UDEcZN618lDMNea9ykbYzPvmsQjnI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJQD7XT90elcb0hK_A7Wu2EKoFnMM4FZGwtKpv9Lmfc5Q&oe=6ABE50F9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPG2vMFXT5-zymnSxUcgThl9JVdZK1j_Fvsn6F6g23jrtE531bawOxVNi_c3Pn4TLYFjAKuy_qMoWL4lQQ0NgUAOzeDaj0gjr0eO820YlRNgg.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=9kruuFaW1-wQ7kNvwGGO0Pu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNzc4MzI3MjQ0OTU1MjUsImFzc2V0X2FnZV9kYXlzIjo5OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3db9628201e9d8ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTRFMUQ1MDVFMkVCMjM1MTIyRDlDRTY2NUI4MDQ4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDcwMTkyRjMzM0ZGQUNGNUIxRDNCRUY3QTZGNThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbK8tPhtcjyBBUCKAJDMywXQEtqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQIgDBd8x3TEkq8PZQ8s25mmGR4cZzBcCBtDxavkngRhKw&oe=6ABE4D80"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1564614375121477"
+      },
+      {
+        "id": "27436484946033246",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 10,000 לקוחות מרוצים ⭐⭐⭐⭐⭐",
+        "body": "מספיק 15 דקות במקום עם סאונד של מעל 85 דציבל כדי ליצור נזק בלתי הפיך לשמיעה.\n\nחוזרים עם צפצופים באוזניים אחרי הפסטיבל? הגוף התחיל לסמן לכם שמשהו לא בסדר.\n\nזו בדיוק הסיבה שיצרנו את מסנני הסאונד של אודיופיל - פיתוח ישראלי עם טכנולוגיה ייחודית ששומרת על איכות הסאונד - וגם על השמיעה.\n\nמה זה אומר? שאפשר לרקוד כל הלילה, ליהנות מכל ביט - בלי לשלם את המחיר למחרת. \n\nוכל זה בעיצוב חדשני שמשדרג כל לוק ✨\n\nמזמינים פעם אחת, ואתם מוגנים לתמיד :)\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785740400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/761559649_1404279324885490_1744841762132031883_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4dqlhjvHPhYQ7kNvwGnyuC7&_nc_oc=AdoMDUaiUy7MhQ75pn83JK99djgWDFvbNWh6WHk3-HHd9cA6HZqiRTyHtFpaGJVz-kc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLKkFocqdMPhBGoCeZ-EI0Cq7wZ_yXX7iXkevxc0E2RDw&oe=6ABE314D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOyS2agqa0bm2_JxrGeMpaeDZSZTtPbgSvgaGqoxSoA2UIViZldEjQZyZC39QsHbC1JwrRADsgsxcGCw5AnBIo4p1LLG--uL8-DGFlYX9DEPA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=9gKD_2fNlh8Q7kNvwGi9prc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODUzMDIyNjM1NDE1NTQsImFzc2V0X2FnZV9kYXlzIjo1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=39660ee25c06d4f6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRCREI3RDEzMzBENjlBRkU2NjNEMTAzREEyMkE5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzMyNDU4RDYwMjM1MkUzMzEyRkJDMjJFQzE0MkFCQ0I1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbkvJmVmvv1BBUCKAJDMywXQDxmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQKj6qG-W0oTQmb6JrshUbeds970iYj_bmiYZrp558PNkw&oe=6ABE37A3"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27436484946033246"
+      },
+      {
+        "id": "1137805878891016",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1772006400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/642839441_876729068713111_8406529787750250288_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dG3IdG3bZvAQ7kNvwEKlVip&_nc_oc=Ado2BXQR4k-HtK38vfBR2HFe6xlRv58wevbq6UqdKxKcRcvXl2-kqxQCeyxG93CNIZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQKgEqUspJLd51PSz8sJ_G3UFVZhpZyab_zuacQHu6QJXA&oe=6ABE5A48",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/643321358_1204040325232775_1762282576789245062_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ji_IcnRlUEAQ7kNvwGbhFU9&_nc_oc=AdppAKYxVgNrQtVG2-qQxYBn9R2_xO5v1IG7krWupMposUmIlyyvuUsFqaHcChOj7SM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQL6eB1KmM4GbBUVIrLJVVjWWxd0qac32k7hCVJ1zxMiyA&oe=6ABE62A5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1137805878891016"
+      },
+      {
+        "id": "1416706983827636",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "הדגם החדש של אודיופיל זמין לרכישה >>",
+        "body": "להפחית את כל הרעשים המיותרים - תכירו את דגם ZEN של אודיופיל!\n\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nזמין עכשיו באתר במחירי השקה!\n\nקליק וזה אצלך >>",
+        "link_description": "אם אתם מרגישים שרמת הסבלנות שלכם נגמרת הרבה לפני שהיום מסתיים, אתם לא לבד – והבעיה היא לא באופי שלכם, היא בביולוגיה שלכם. הנה 5 עובדות על הקשר בין רעש, סטרס והורות, ואי....",
+        "landing_url": "https://theisraelinews.com/your-kids-scream-hurt-you-audiofeel/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1784703600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702283207_1461086045230793_3362965249933560537_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yvFxkHMOfdYQ7kNvwHQ-_uL&_nc_oc=AdrXWGLceUCV3myg_pp-FMrcooarop5Ko5YFp0iOzyzhQuvB5qb8KJkKL5XsXP6q2fY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJBX6zFOb-_Udk1IGAdvBpge2bQHZ_DV6PKhuFVBq3yWw&oe=6ABE5065"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1416706983827636"
+      },
+      {
+        "id": "2227884724687927",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "הדגם החדש של אודיופיל זמין לרכישה >>",
+        "body": "האמת היא שאף אחד לא מכין אותנו לעוצמה האמיתית של להיות הורים לילדים קטנים. לא רק לחוסר השינה ולא רק לעייפות – אלא לרעש. \n\nהרעש המתמיד, החודרני, שלא באמת נגמר אף פעם. צרחות, בכי, ויכוחים בין אחים, מוזיקה של צעצועים שמתנגנת בלופ, \"אמא! אמא! אמא!\" 300 פעמים ביום.\n\nחקרנו את הנושא לעומק, והגענו לכמה תובנות שכל הורה חייב להכיר – כי למה שאתם חווים יש השפעה אמיתית על הגוף שלכם, על הנפש שלכם, ואפילו על איך שאתם מתפקדים כהורים.\n\nיש מוצר שנקרא ״מסנני רעש״ שעוזר (בין היתר) גם למצבים כאלה. \n\nתכירו את דגם ZEN של אודיופיל!\n\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nקליק וזה אצלך >>",
+        "link_description": "אם אתם מרגישים שרמת הסבלנות שלכם נגמרת הרבה לפני שהיום מסתיים, אתם לא לבד – והבעיה היא לא באופי שלכם, היא בביולוגיה שלכם. הנה 5 עובדות על הקשר בין רעש, סטרס והורות, ואי....",
+        "landing_url": "https://theisraelinews.com/your-kids-scream-hurt-you-audiofeel/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778742000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/699860154_4002888510008617_4304236146535271572_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nxoOk0cf2CkQ7kNvwFTaOqw&_nc_oc=Adraw5BxqjbHVXKPo22y8PTAXUZnyuobBAJVf02TeklhXnYXI5_fhxr0mHIfKOOcnMI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQI5Elt3O23v7d1pb6zQk3wDSX3n7dmI2KUSpcfhyglVjA&oe=6ABE3B3E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2227884724687927"
+      },
+      {
+        "id": "4608595512704527",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61580827800323/",
+        "page_like_count": 4,
+        "page_categories": [
+          "Record label"
+        ],
+        "ad_creative_link_title": "",
+        "body": "גם לכם מפריע ללכת למסיבות או להיות בסביבה רועשת שאתם מרגישים שהיא פוגעת לנו בשמיעה ? \nאז אם זה מדבר אליכם אתם לא לבד והסרטון הזה הוא בדיוק המענה הנכון בשבילכם. \nבין אם אתם מוזיקאים יוצרים או אנשיי מוזיקה ומסיבות אי אפשר להתכחש לסכנה שנוצרת לאוזניים שלנו עקב חשיפה לסביבה רועשת. \nתודה לאל שיש את חברת אוודיו פיל שדאגה לנו הכי טוב מכולם 🤍! \nחברת אוודיו פיל המציאו שיטה משלהם לעשות אטמים בשיטה סגנונית עם טכנולוגיה אמיתית. \nאז מה בעצם מיוחד באטמים האלה ? \nמה שמיוחד זה שהם פועלים ומסננים תדרים ספיציפים שפוגעים לנו בשמיעה 😯🔥\nברגע שאנחנו נשים את האטמים האלה אנחנו מיד נרגיש את ההגנה שהיא נותנת לנו ונוכל לדבר עם חברים בלי להרים את הקול ממש בקלות ! (ממש מין בועה כזאת שמגנה עלינו). יש לי המון חברים בתעשיית המוזיקה ואני מכיר המון אנשים שמשתמשים במוצרים של חברת אוודיו פיל ולא סתם הייתי מקדיש על זה סרטון שלם.\nתודה ענקית לחברת אוודיו פיל על שיתוף הפעולה הזה. אל תדאגו לא השארנו אתכם בידיים ריקות דאגתי לכם לקוד קופון שהוא זמין רק לעוקבים שלי 😉🔥\nVibeMusic33 זה הקוד תרשמו אותו ותקבלו הנחה על הקנייה שלכם 😮‍💨💯🔥\nתודה על כל ההזדמנויות החדשות שפשוט באות לי מקווה שהצלחתי להפיץ טוב וערך כדי לשמור עליכם 🙏🤍!\n#מוזיקה #הפקהמוזיקלית #מוזיקאים #וייבמיוזיק",
+        "link_description": "",
+        "landing_url": "https://www.audiofeel.co.il/products/audiofeel-live-1",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784980291_1606596184532728_885714217745453695_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DID_jXijEfAQ7kNvwHGcaYd&_nc_oc=AdphHT9v9VEoHqhH6eU9_7sWKXoXuG_oZV8wJFpM2YGmttm8kLu9pb-IrYPQbxevknY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIvTwU5hJoRpX4JbWw13oWeY6oeAigCRuoBeM14La3T1A&oe=6ABE5628",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQONiUnScKC204kM2OTx5dtjG7s_U9O15KHCNc3ZFfd6CrZx29MdylSEjYXSCNyO1LCdiUqPVyYrI3oM2zds8I6mcpzsq61fe5am7tzIog.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=orTc1PKBKzUQ7kNvwGJrhyJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo4ODgxMTk2NjQwOTQ1MjMsImFzc2V0X2FnZV9kYXlzIjozOSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJwz5eucx4XAmSUaolsKuVieHm8qJf3ZeSWJc5_sAaNbw&oe=6ABE2CB2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4608595512704527"
+      },
+      {
+        "id": "2009355959612771",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://audiofeel.co.il/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1771401600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/637807841_3818916448243036_7100089209748927476_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RdmlB_gZpMoQ7kNvwFampdJ&_nc_oc=AdqvS07Fw0vvgDybncPW3gtX9vmaBNCsotvOkGlnJK34tAw1VZsWCHKSrXA6oLhCeso&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLGRLkP_VQzda_5UnrhpeEYf5wPKcIIJk_VJS2s0PcVMQ&oe=6ABE625B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMyBg92FNE5oizESC_4xgEftek0dttLw4Qz2Zc003eW6DiVZl1sO9AcA3XT1eLPM6yGh6LOvmKPBM_DafDeOJgFKimILPR4IPzvyNcZTJnLmw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=L3mBSYIHN5YQ7kNvwHnZUeM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1ODgwMjI4Njg4MjcxOTY4LCJhc3NldF9hZ2VfZGF5cyI6MjIwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8096857f2b23154c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CRjQyRTg2MDBFQzJERjE4RTg2MjNGQzlEN0NCMTBBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NDBCMTdCOTIxNUZFRDY5MDBCOTk2RDE3MUE0RjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbA6dzayfv4WxUCKAJDMywXQE5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJSQqT6-7FhbnNCuhOER0wFgMDpC4o8stfcGNsJVQCBKg&oe=6ABE4840"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/637305683_1570109604295753_5894617651861429180_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5tYeei2LeIsQ7kNvwEhiJkg&_nc_oc=AdqfUY4jF2nVTg8QHeYOwQzsutYlyI5V5fonrod689nfVYlqSDzZiRDUw_Ym67IVdls&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQIT6xhlL5wiB05MB6SUVoZ3Wjv1WnLRhyIBauJ4BXOGgA&oe=6ABE4576",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOvqDhMokfbc5RY3zMljUL8OijMNLQLAkldgkQ4fn5X7lFAe2EGiTjgJeJHWAjGTbRjW90CyyBA9VEXd_U_B6DFHO_N-6l2tS7tev9D9XoySA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=kVbge3aQ0KsQ7kNvwEG57hT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTA4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODMzOTk0MjQwNjQwNjMwLCJhc3NldF9hZ2VfZGF5cyI6MjIwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4c6460e0ece7f862&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84ODQ0NzM2Qjk3NjcwQ0IyNDVCODA4NUFGMzlCQjU5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkyNEE2NTAxRjQ1RTFBNjE1MTNGNEExNjhCMEVBMjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsmd7zwYDCBhUCKAJDMywXQE5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ4vwll1F-0WQpQstmrdNTvD93UjuQ0esHHEWzsghAZBA&oe=6ABE5743"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636245059_1695566111409384_7198371405235525497_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8044Y7WuveMQ7kNvwGauzge&_nc_oc=AdpHitXZ9MV7UYJbCiu-Dkcxa3HrhJ2Njm5aCcRMD0UjiBGxL7BkEi87Ar5BESEOsm0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLey4czn_3_uw-9TarSF6rYJu4sC7Bc0ZvTCSjqaIuHag&oe=6ABE3054",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM6sjXuHqOwfvk1UdICPlqQTgsaYHH7b_nWPWsoGIUA0xGhLSzeIuhqhvTFX0LG3m0IHB0S-zKNH3ECsiybBynLqJkz37grdht1YO3cQYznTw.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-11OtZuViSkQ7kNvwEe4eRy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MDQxNjUwNzAyNjgwMTYsImFzc2V0X2FnZV9kYXlzIjoyMjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=defa13f6766e381b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MDRERjIwMTFDRjYzQzFDNjNDNUUyN0NBQjQ2MUM4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUxNEE4Rjk2QUNCNDA2OTFEQTQ4NjQ2NTgyOEQyMUE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgmYminbi0BhUCKAJDMywXQE5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQIPpg46Kg15YeirVDthI9gAYrTcbwLSLa79L8VO8O5gsA&oe=6ABE4A89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2009355959612771"
+      },
+      {
+        "id": "1259549322990708",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "הדגם החדש של אודיופיל זמין לרכישה >>",
+        "body": "להפחית את כל הרעשים המיותרים - תכירו את דגם ZEN של אודיופיל!\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\n\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nזמין עכשיו באתר במחירי השקה!\n\nקליק וזה אצלך >>",
+        "link_description": "",
+        "landing_url": "https://www.audiofeel.co.il/products/audiofeel-zen",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775458800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/667901644_956180030655547_2465224182858474354_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PDJ9vqFOii8Q7kNvwGBtta_&_nc_oc=AdryJlTb1nEN7UeAEJWDmbnc_N1UwA5M8IOqNILAMm3ReeOpFdUwe9N4BRUQsKCOEyQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJgrxG9sT7k2uDFn_m8gsQT55OVkK8sKehG-QR0lmixNg&oe=6ABE437C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM1afCsPLKLpUFtUr3NgvLt3zgyxPqhfs6xvG6FrQaaOA7BZucStHuEXdJPKQxL7cIVBebIwO99t5r1M0tLRzm8i8orsAAxgnLUrKncRkRmxA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=215uCIQMgHIQ7kNvwGWA08c&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkwNDc3NjQ4MjU2MjIyMCwiYXNzZXRfYWdlX2RheXMiOjE3MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjExOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=601d31d1ac9be851&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83QzQzNkRBRDMzMDQyMEEzRTdBN0U2MTA1QjM5OTU5Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk3NDkxODI0REE5MzM3MEMwQjU1ODYwMkFFNTA0RUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYgsGN9ribAxUCKAJDMywXQF27tkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&_nc_zt=28&oh=00_AQKWel1wnkXRVJhfme5LuSuqQPfv9SiNN40TadteaRcyow&oe=6ABE542D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1259549322990708"
+      },
+      {
+        "id": "897747546652312",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "הדגם החדש של אודיופיל זמין לרכישה >>",
+        "body": "האמת היא שאף אחד לא מכין אותנו לעוצמה האמיתית של להיות הורים לילדים קטנים. לא רק לחוסר השינה ולא רק לעייפות – אלא לרעש. \n\nהרעש המתמיד, החודרני, שלא באמת נגמר אף פעם. צרחות, בכי, ויכוחים בין אחים, מוזיקה של צעצועים שמתנגנת בלופ, \"אמא! אמא! אמא!\" 300 פעמים ביום.\n\nחקרנו את הנושא לעומק, והגענו לכמה תובנות שכל הורה חייב להכיר – כי למה שאתם חווים יש השפעה אמיתית על הגוף שלכם, על הנפש שלכם, ואפילו על איך שאתם מתפקדים כהורים.\n\nיש מוצר שנקרא ״מסנני רעש״ שעוזר (בין היתר) גם למצבים כאלה. \n\nתכירו את דגם ZEN של אודיופיל!\n\nמסנני רעש לשימוש יום יומי שמפחיתים בממוצע 23 דציבלים של רעש ויעזרו לכם להתרכז יותר טוב, להפחית חרדה או פשוט להצליח להתנתק מרעשי רקע מיותרים, ולשמור רק על הסאונד שחשוב.\nאו כמו שהלקוחות שלנו אומרים... הם פשוט ישפרו לכם את החיים :)\n\nבין אם אתם סובלים ממיזופוניה, רוצים להצליח לעבוד מבית קפה רועש או פשוט לישון נסיעה שלמה בטיסה בלי לקום מכל רעש... דגם זן הוא בדיוק בשבילכם.\n\nזה פתרון פשוט ואפקטיבי, בלי הקרינה של אוזניות משתיקות רעשים או חוסר הנוחות של אטמי ספוג רגילים.\n\n✅  מושלמים לשימוש יומיומי - הפחתת רעשים מציקים, לימודים, עבודה בחללים משותפים ובתי קפה, נסיעות, טיסות, תחב״צ, אופנועים ועוד\n\n✅ מסננים בממוצע 23 דציבל של רעשים\n\n✅ שומרים על סאונד ומסננים רק את רעשי הרק המיותרים - כך שתוכלו להישאר ממוקדים בכל סביבה (לעומת אוזניות משתיקות שמנתקות אותנו לגמרי)\n\n✅ מגיעים עם 4 מידות שונות להתאמה מלאה לכל אוזן ונוחות מקסימלית\n\n✅ זמינים בשלושה צבעים ניטרליים ושימושיים ליום יום: לבן פנינה, שחור מט ושקוף\n\nקליק וזה אצלך >>",
+        "link_description": "אם אתם מרגישים שרמת הסבלנות שלכם נגמרת הרבה לפני שהיום מסתיים, אתם לא לבד – והבעיה היא לא באופי שלכם, היא בביולוגיה שלכם. הנה 5 עובדות על הקשר בין רעש, סטרס והורות, ואי....",
+        "landing_url": "https://theisraelinews.com/your-kids-scream-hurt-you-audiofeel/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778742000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/699850750_2031077004500921_1687577549205435901_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gEW0q61fpcAQ7kNvwGElXkc&_nc_oc=Adp2SkCk2JQjD2rUH7EPl9ydWFdGGsh4HdVqez5Dxvz4tkRWkYkfHofw6IjoEVLMS28&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQLq0cQFxepF1zBmcqbt9sFG6RDMG0Rki9gKBRLxzqZypQ&oe=6ABE6037"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=897747546652312"
+      },
+      {
+        "id": "26167750199568637",
+        "page_id": "469331732934477",
+        "page_name": "AudioFeel אודיופיל",
+        "page_url": "https://www.facebook.com/61569363655962/",
+        "page_like_count": 500,
+        "page_categories": [
+          "Accessories"
+        ],
+        "ad_creative_link_title": "מעל 10,000 לקוחות מרוצים ⭐⭐⭐⭐⭐",
+        "body": "פסטיבלים, מסיבות וגם חתונות - אנחנו מוקפים כל הזמן ברעשים שמזיקים לשמיעה שלנו.\n\nבטווח הקצר אנחנו שומעים צפצופים באוזניים, אבל בטווח ארוך - אנחנו יוצרים נזק בלתי הפיך לשמיעה שלנו.\n\nזו הסיבה שהקמנו את אודיופיל - מסנני רעש עם טכנולוגיה ייחודית (פיתוח ישראלי כוחל-לבן) ששומרת על איכות הסאונד, וגם על האוזניים!\nמה זה אומר? שאפשר להגן על השמיעה שלנו, בלי להתפשר על הסאונד והחוויה - וכל זה בעיצוב חדשני שמשדרג כל לוק✨\n\nעכשיו עם 30 יום ניסיון + משלוח חינם >>",
+        "link_description": "אטמי אוזניים מתקדמים ייחודיים לחוויות מוזיקה מושלמות במסיבות, פסטיבלים חתונות ואירועים שמרו על השמיעה ותהנו מסאונד איכותי. 🌟 האוזניים שלכם יודו לכם",
+        "landing_url": "https://www.audiofeel.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715061834_969128632402560_7832773784919193278_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0EHeZg4ZgLgQ7kNvwGdgSDY&_nc_oc=AdpOZrzhP9KCM_iSRLJ14_dun8JZvRTy7v6jsU403huQ5abjn3IkUqpA3ooGs2I2Wvs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=-uXLCD9aSAp0gJvxPQfb2g&_nc_ss=70289&oh=00_AQJiAzRSi7Nv4NArh_1rLaG4Lu0AZ_Fm9MCkFRECPNlaEw&oe=6ABE5469"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26167750199568637"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "rejected": "2026-09-27T01:40:13"
+  }
+}

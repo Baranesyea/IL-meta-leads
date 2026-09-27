@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-023",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "website is not a store (no cart / store platform)",
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://hotdeals.edigi.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "301345603070011",
     "page_name": "דילים והנחות מאלי אקספרס",
-    "active_ads_count": 1,
+    "active_ads_count": 4,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -62,8 +62,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1484873129785343"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 951,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1484873129785343"
     ],
@@ -76,6 +89,230 @@
       "Shopping",
       "Discount Shopping",
       "Shopping Mall"
+    ],
+    "page_ads": [
+      {
+        "id": "1052728270027490",
+        "page_id": "301345603070011",
+        "page_name": "דילים והנחות מאלי אקספרס",
+        "page_url": "https://www.facebook.com/HotDealFinds/",
+        "page_like_count": 951,
+        "page_categories": [
+          "Shopping",
+          "Discount Shopping",
+          "Shopping Mall"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://hotdeals.edigi.co.il/fit-sport-2/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1743058800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/487240809_1635358780437456_2083793379042562348_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U2ccofEwpRsQ7kNvwHpa-GN&_nc_oc=Adrjxv-yjeNkL4rg-OIvu5XiteMM-7yRCdO6dLoD077hAKnMjk-PlxWLzUJox4U0W-M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQIZe-nli0ztRo8aqX9YpBbkqnuaZ9jo8YIwlwEiBFxLow&oe=6ABE3CBD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOFDnmAr9D1dD0OHS0616GlOYuo8sZi4yytK8pov1_ZZcnwjHl1eyltVoL3aNHRgVan703peb1H3WBq1DnfPcab.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_pqU72_TSjsQ7kNvwECIy1N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoyNjc3MTg0OTQyNjc4MTEzLCJhc3NldF9hZ2VfZGF5cyI6MTY3LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQJr0TxAxgBuz9NQOe-L9sCLdnDaHfk6TrW-gQuoBf8qfw&oe=6ABE35A9"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487312787_1166551058444889_5412949620070636056_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hu-c-INDVI4Q7kNvwHobjFa&_nc_oc=Adpx57xXga1UNha6XuzR6UsBPrq67fK_9ZWDbwYkyyn2fVMCtdUv4sfwhiPctDsvlAU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQJmp6VVEdz1TcSroKDO8pMRGhuyRiJL6RSgtyhVEmdhaA&oe=6ABE47C9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOhxnrM1QEzGWpnpBbdOa8OK2WH3lNdewlJ-jHIr-NV3knWCxIJDDpx-y1RVbKYxS7N1J-1XZq7MG9vHv208-L6.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Kml38tZrw50Q7kNvwFZo5IV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxNDcyNjQ0ODU3Nzg5Mzg2LCJhc3NldF9hZ2VfZGF5cyI6MTY3LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQJLbivzXWjuVKg8jMLqj5-oJzIwu6NtrrQoQqv14I_NRw&oe=6ABE287E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/487086262_9590667454388077_4541880445934754437_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sJ-e8kRw5moQ7kNvwHDRIAW&_nc_oc=AdqshW_rbVK3Rg7j1HJoRi0InAPAQxzFqMfPUTtH0z_zE5XAIGZjBCDXPzBUoqdsA9Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQKLH147q75-A2i0LZnZ5OGqEGmJgFYaNqZIbCZB7X_-yg&oe=6ABE3DB5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFB4uDB7IGBa0-WgxmBxbMqXUTxhkfVdPVtA8z_yVQvOyekHEvnVjo6xwVjWxWVvIhS5ZrN03TqF9xUrNK_KoEr8gn89PTbNqJWIMvh8FTsg.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BIf4M2OiV7wQ7kNvwEfQDzs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxMDE2Mzk1ODY2NDEwMDQsImFzc2V0X2FnZV9kYXlzIjo1NDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=83c7613d88c14f9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FQjRDNjExMzM0MzA1NEZEREY1MTEwOTY4MkUwRDdCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCT0QteHdiekRQV2ZIY0hBRkZVZ1RLN0hLc2xidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbY0cPcl7uCCxUCKAJDMywXQDEiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQJngfbIznvtKWK8GrkCOdl0euZJEy5rgNx45LJFQDQKEg&oe=6ABE3ABC"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1052728270027490"
+      },
+      {
+        "id": "1715164695698780",
+        "page_id": "301345603070011",
+        "page_name": "דילים והנחות מאלי אקספרס",
+        "page_url": "https://www.facebook.com/HotDealFinds/",
+        "page_like_count": 951,
+        "page_categories": [
+          "Shopping",
+          "Discount Shopping",
+          "Shopping Mall"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://hotdeals.edigi.co.il/tools/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1740470400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/473521723_645532397817102_8411613987597151633_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kfxpnySyvBIQ7kNvwEVRH3y&_nc_oc=AdqJWgpyGZmH9OkpNamEtDfygY6IBqirFDxTVvE-zz-MDwaXjSgLJbHeOXsiokQtU_g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQKCukaeAtyWv8PFn-Wl1727QE5EsuISv6nr3Xyw6ZUyMA&oe=6ABE5414",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m560/AQPhP1xV3KkyD9FXbcCX4U0vX5FUNtYxCMscm4re45j27MC2CzvH9FsPnHiYFG_cOxvu6LwKtbw_IVrReOTu36Xcrl_xI_fZnIc.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=kAkMnWs13fgQ7kNvwFCTVf2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMjk5NTg2MjY4OTcyNjYyLCJhc3NldF9hZ2VfZGF5cyI6MTM5LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQLTdzK0yl1VhzHgqGRqogRLkRDkVr_uTz-PycCQGNEzmg&oe=6ABA5611"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/473574617_1610316599596454_1085662349862137909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4KF69dSi8hwQ7kNvwFqwtVW&_nc_oc=AdpVWEk2XmiNjySM9MhOeLNKZfvhkojr_Xud7JFFUqBI6P67iFOJSe1Rdybt1FA-3qI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQLMjV39wiptNte46ViYNORIs3Zu3_MFNtB35zG724FdkA&oe=6ABE3EAD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m560/AQNV3liPMFhK53nwTKs3NsgLHkIyFTflKQZsQScLtiQpr5pcczj-psxKDTfhvdokv8ruAvaP9ZbRu7-1_xEGSz2r2pGW0vqQLvk.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BipG_1P6eCgQ7kNvwFodyN5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo0MTcwMjQ2NzkzMjg4MjEyLCJhc3NldF9hZ2VfZGF5cyI6MTM5LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQJQSEijoqSZuFY31IwtNsDd7qqyBN8Vxf2S7LtOXJppJQ&oe=6ABA67C8"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/473581092_936252198632048_1662535334929193478_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9mERPlHEL40Q7kNvwEdSq6f&_nc_oc=AdqHi-MjMylgMSdWHruWVmINPckExu66YhZm_6rMj2Q9KiQZPv-gSkwDjnAkatLiNBk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQJBeXazlhMI9uwPPGGAzGAhuXAesfMKgrD_fPYuOMABtg&oe=6ABE45A0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmn4IgB4RGfX48un1xusQoWFYtSiiGaI_6PcvcfhqpNTFmzVp-8CWv5rzw7gdw70rEMtaPEK1PJKkvdcJiMI0OUkQOkQkFnZud5dt1sEVPLA.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=gR9_WpP2jzMQ7kNvwE_mhYo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg1MTIzMjUzMDM3MDQ4NiwiYXNzZXRfYWdlX2RheXMiOjYxOSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ee95df7155b0585&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NTRDMjc5OTEzNzBGN0Q0NDcyOEUzMjc1NEExNTJCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dDTWZPeHpIR0o4TnpsRUNBSkZhX3dYNDZKcy1idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsvsDJoIyDAxUCKAJDMywXQC2IMSbpeNUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQIvrXY4SHdpQZoH9Os1AoFmVOGP9YLQCQdIkEc2KguZEg&oe=6ABE554F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1715164695698780"
+      },
+      {
+        "id": "3886056634980759",
+        "page_id": "301345603070011",
+        "page_name": "דילים והנחות מאלי אקספרס",
+        "page_url": "https://www.facebook.com/HotDealFinds/",
+        "page_like_count": 951,
+        "page_categories": [
+          "Shopping",
+          "Discount Shopping",
+          "Shopping Mall"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://hotdeals.edigi.co.il/shopping/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1752044400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/517296210_1257670945734091_6740569530647799435_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5QkAO-vNiycQ7kNvwH-I-Gv&_nc_oc=AdqNAW1z4uHXl0GoJeATbTtEk1AngpP9OvHMYJ_ARHELv3NZXrU1yEXccGsDlBt4eUQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQJ5C7z6vYcXLfgMJ98bjQsJ220h2hEfNxP75suaz5rhkg&oe=6ABE57C5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQNXhoOXh0E_CrMenuwLPFm8Ncs1vll8MOq6pCX6FCWTFtfShgfUSF-dXXDm79-j1x_GHnc4IKo4qkW2i6wxQixB.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PItmO0GmBDkQ7kNvwGOnI62&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjoxMzIwNTU2MjM2NTU0NjI4LCJhc3NldF9hZ2VfZGF5cyI6MTY5LCJ2aV91c2VjYXNlX2lkIjoxMDY4MCwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQItXgA0x9u6qs52h0qvCCwauCN2YYhI6YOB7scSnk90vg&oe=6ABE58D3"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/517289533_1438477970610811_3345355197757470581_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GFtczNkWjeYQ7kNvwGEhdFh&_nc_oc=AdrVJKG32_AVdgDVQbx3KpnpNSgXXwi6CmeeCTLbCFO2QjYwUO-5S7mwRie4e8Qbo7w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQLxZiCyaw5oBhEf6HAGvvS2aBHhSopr4Jmv37WDAtDm1Q&oe=6ABE45EC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNxNxMgXM5rsNYDizBCn4sX_2kFVKlh27jRBTssaQ0Pn-RPujoULJRF_b_RevhZRaspyXlQEg9NuM2rN9HYtZNP.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=NJOBLWv4sZ4Q7kNvwEah7tC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmFzaWNfaHEyX2hkX3Byb2dyZXNzaXZlIiwieHB2X2Fzc2V0X2lkIjo5ODMxODYyODQzNzE4NTUsImFzc2V0X2FnZV9kYXlzIjoxNjksInZpX3VzZWNhc2VfaWQiOjEwNjgwLCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQLK_cDvBOztT4ltUZi0gc35MDag-JjZLeBKPtqK7BpbIQ&oe=6ABE4C1C"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/516876786_1269864234860117_9168190003233155956_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ocYnuXsyTegQ7kNvwH2AdKb&_nc_oc=AdoBKuuWcEMmU0NwtvPxvKY0zjKMZm_Yc_fOniyT4x2zI0GUJT4WVeswCpvLW3rq28M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQLJK3JHUBd9iUGuG30s3h6F7rw-1CtZO-CSJp99rUcArg&oe=6ABE3DCC",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN512AoFXObYuS9ogbxmqQ3OBos0axvaXLHn9LMfpxT0alEg02UDCQ8bS0xTCZutholF3Xi1bpCkMNXcH2uuQF4RO2rP5FrzN6Qp3z463uFew.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=mRTQgPhaJPgQ7kNvwF3peA4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjYyMTEyNzIwNzIwMzYsImFzc2V0X2FnZV9kYXlzIjo0OTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8abec2073a747e1a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRjQwNEYwRTkxMzc4QkFBQzRCRDNENUY2NTNCRjY4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dDaVd6aDBsMGN6Yzc5VUVBRjRYYWItTjlMZzRidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI7YSC1e3kAxUCKAJDMywXQDPEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQK5sfVakL2cA_Q9HqnuiaofcH4dRz_0l1QknQ465Ci4tw&oe=6ABE4EDF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3886056634980759"
+      },
+      {
+        "id": "1484873129785343",
+        "page_id": "301345603070011",
+        "page_name": "דילים והנחות מאלי אקספרס",
+        "page_url": "https://www.facebook.com/HotDealFinds/",
+        "page_like_count": 951,
+        "page_categories": [
+          "Shopping",
+          "Discount Shopping",
+          "Shopping Mall"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://hotdeals.edigi.co.il/tech-gadgets/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782198000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714404851_836791915780677_6933740695932830562_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bSJ275MUhKwQ7kNvwFbPx5N&_nc_oc=AdqjgWKHklwuyvxBkxh0qWovTIbgyQURfUrAl9snGKs1oKqhJ0hIZJRKg7WMra8eYDk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQKs0OxxslX8bEJU19B3oHtBECYNSRutCyLEyfrlTxlzWw&oe=6ABE3B75",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOvO64ni7VlTb3tAi2NRLW7I1vxNQj-cu-6fnvYudwO6pSMNdPDe8rdsrKSSarUOQ0yQSS-MdbjyeBAAOsWeFEAN3W2ZCAeh-SNiNQjZDA6zg.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=YhALu99USTEQ7kNvwHrmJCl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNTMyNjEyMjE3NjA2NjYsImFzc2V0X2FnZV9kYXlzIjo0OTMsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a5f1d75f88de3063&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84ODQ4QkRCN0EwREQ1MERDNjE0NzFEMzIwMTEyNUM5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhgxZmJfcGVybWFuZW50LzcxNDMwODY2MTE1Nzc0MF85MTI0ODc3MTU1Mzg5MDgwLm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0uqyriNWACBUCKAJDMywXQDOiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQKbipiuJ3hTmLX4NqS9LYEUkdyKX1GI3JZ5niuN0AyRCQ&oe=6ABE4B96"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712664187_2205820236939366_9052691485552406363_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PkoKPKtGegEQ7kNvwGGNOEF&_nc_oc=Adp6nOLUxHt74nzpxzIer8FDZ1DUD-mxl-MnD48kpbJ2UeQH4479CR1j76V_gon1p4E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQJQ4xLvqjAmTjheZQAnf19DiuQz6GCOwRcM1XiVeFaEfA&oe=6ABE3E55",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPUyKBG36y7zYsJ-Sht96TpFNZxrMtaBJwyEwrUJwUs8IpRkxEPY-lxhIoyY-IGZcDMF2vOcl8R2jwXoQlOCv_y0EE2QuPi67W1PP5YeM8ThA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=pLdTC2g5AmEQ7kNvwGQRnvD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY4NTU3MDM1MDg3NzY4NywiYXNzZXRfYWdlX2RheXMiOjQ5MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e7a00e16f4563d98&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MDREQzFDM0VENzg4NDBDMzk0NUUyNDIxMkY5OTBCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyMDAwMDkwNjQ5MzM3NDNfMjM4MTU2MjYzMzgwMDk5OTc4Ny5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7q_ck7nhtwIVAigCQzMsF0AzogxJul41GBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGW2ngEA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQKyavBmF7JHdA0qc3aX6PM7mP-_Mlo16qV2-kv66U3doQ&oe=6ABE47CC"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/712644400_1006990148358621_87213346244372651_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yi6A1mXOwrwQ7kNvwFKPniJ&_nc_oc=AdqND807y338RPZvB4RQuWACzS59HF2HRgqaaH6MMLyx3DYIrovye4OWyRlUwJ-te48&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&oh=00_AQISNGw6xkNqY6vQtAUMQx6wQ3kGlNSf2Bu7FwHuz5KTxA&oe=6ABE4FC6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNEVbCTGbLOD653Xc3kpgCCz_lqGqQ0q24ZQt2DH-FYZ0zxDSqGmvvBvKfOhvt2EtPGI6XoSCrK1SMA6uKK15MfP4QXmOy5pQZ4h6BkD0rjew.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=O8w8P8baKa4Q7kNvwGv7LJ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjY3MDc0NDQzNTcyODMwOSwiYXNzZXRfYWdlX2RheXMiOjQ5MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d9dbb183825e1945&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ1NDdDQTZCRTU2NDI1OEMzMzdDQ0UzODc5MUFCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dPaGJ2aDBfWjdDY0FVUUVBS29lZ2FLOVlNVldidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq_py9u4KxAhUCKAJDMywXQDOiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=Zy6gfXUKoAJG70KWghjTrA&_nc_ss=70289&_nc_zt=28&oh=00_AQI-8c3-e0EkA6e06hFs4U45cNSOT1it-n74FzZ_hIKNuA&oe=6ABE366E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1484873129785343"
+      },
+      {
+        "id": "1484873129785343",
+        "body": "{{product.brand}}",
+        "landing_url": "https://hotdeals.edigi.co.il/tech-gadgets/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1052728270027490",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://hotdeals.edigi.co.il/fit-sport-2/"
+        ]
+      },
+      {
+        "ad_id": "1715164695698780",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://hotdeals.edigi.co.il/tools/"
+        ]
+      },
+      {
+        "ad_id": "3886056634980759",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://hotdeals.edigi.co.il/shopping/"
+        ]
+      },
+      {
+        "ad_id": "1484873129785343",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://hotdeals.edigi.co.il/tech-gadgets/"
+        ]
+      },
+      {
+        "ad_id": "1484873129785343",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://hotdeals.edigi.co.il/tech-gadgets/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://hotdeals.edigi.co.il/fit-sport-2/",
+      "https://hotdeals.edigi.co.il/tools/",
+      "https://hotdeals.edigi.co.il/shopping/",
+      "https://hotdeals.edigi.co.il/tech-gadgets/"
     ]
   },
   "current_ads": [],
@@ -89,6 +326,19 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:28:29",
+    "rejected": "2026-09-27T01:32:27"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://hotdeals.edigi.co.il/",
+      "https://hotdeals.edigi.co.il/fit-sport-2/",
+      "https://hotdeals.edigi.co.il/tools/"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false
   }
 }

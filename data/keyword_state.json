@@ -1,5 +1,5 @@
 {
-  "next_index": 17,
+  "next_index": 24,
   "history": [
     {
       "date": "2026-09-25",
@@ -63,6 +63,55 @@
       "source": "playwright",
       "advertisers": 24,
       "at": "2026-09-27T01:25:32"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "מתנות",
+      "source": "playwright",
+      "advertisers": 17,
+      "at": "2026-09-27T01:33:01"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "קפה",
+      "source": "playwright",
+      "advertisers": 20,
+      "at": "2026-09-27T01:39:23"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "שוקולד",
+      "source": "playwright",
+      "advertisers": 16,
+      "at": "2026-09-27T01:47:51"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "skincare",
+      "source": "playwright",
+      "advertisers": 15,
+      "at": "2026-09-27T01:53:09"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "jewelry",
+      "source": "playwright",
+      "advertisers": 15,
+      "at": "2026-09-27T01:53:45"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "handmade",
+      "source": "playwright",
+      "advertisers": 14,
+      "at": "2026-09-27T01:54:22"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "free shipping",
+      "source": "playwright",
+      "advertisers": 21,
+      "at": "2026-09-27T01:54:56"
     }
   ],
   "ingested_files": [

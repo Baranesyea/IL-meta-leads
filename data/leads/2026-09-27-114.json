@@ -1,0 +1,101 @@
+{
+  "lead_id": "2026-09-27-114",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/FatFellaSoupDumplings/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1183351671519553",
+    "page_name": "Fat Fella Soup Dumplings - 胖漢湯包",
+    "active_ads_count": 1,
+    "search_keyword": "handmade",
+    "sample_ads": [
+      {
+        "ad_id": "933601456416014",
+        "link_title": "Fat Fella Soup Dumplings - 胖漢湯包",
+        "body": "Love authentic Taiwanese street food?\nFollow Fat Fella Soup Dumplings for juicy soup dumplings, fresh-made goodness, night market vibes and all the delicious moments behind the steam. 🥟✨",
+        "landing_url": "https://www.facebook.com/1183351671519553",
+        "cta_type": "LIKE_PAGE",
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/737543888_1530837215405034_2411586530969225410_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wvcadT0cIXYQ7kNvwFrqcke&_nc_oc=AdrO2Wokt0jJArooNY-FtMY6rVsJmuLJthcGj9_JCO-PwzOeSXk0Leey-tzK3rWN1yA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=HGDmCnRFhOiiTykTY04ZEA&_nc_ss=70289&oh=00_AQIY2EzOx9KsOTy-A6hKaejylXb1kd5K13a2kNi-Qf3b_Q&oe=6ABE5A41"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1783062000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=933601456416014"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LIKE_PAGE"
+      ],
+      "page_like_count": 73518,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "933601456416014"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LIKE_PAGE"
+    ],
+    "page_like_count": 73518,
+    "page_categories": [
+      "Restaurant"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:22",
+    "rejected": "2026-09-27T01:54:22"
+  }
+}

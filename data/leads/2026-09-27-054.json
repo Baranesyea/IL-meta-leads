@@ -1,0 +1,818 @@
+{
+  "lead_id": "2026-09-27-054",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://almacafe.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/Almacoffeeplace/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/cafealma.il/",
+      "source": "https://www.almacafe.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1778746095724092",
+    "page_name": "קפה עלמה",
+    "active_ads_count": 18,
+    "search_keyword": "קפה",
+    "sample_ads": [
+      {
+        "ad_id": "1494716151658837",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724442515_1901688794014691_3482261231949854231_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=trX-avQFDPwQ7kNvwFYjT4x&_nc_oc=AdoERF1Ixk82lWOUm-M4m7LxpRWzIlVwMmBPBj2675WWCdPpW83wXcUIZ75Z_jf-ocw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&oh=00_AQIvbO0wMzT-1oiVDdJGXAc0Fp9uT4rQ-aKzXryzL5GRdQ&oe=6ABE3A53",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNWC-m1qS4x9L7Lx_ZrklZCGLgiOrS0eccNtRHB4bxn3dEGQqgopjvnLRh8DesgSzhYIl_ygsqFAcqWXEmjV0XzUoY-UcwkQxdyas09brJrug.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=leGIU48FJnQQ7kNvwExiY7a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Njc2MjIyNjQxOTkwMCwiYXNzZXRfYWdlX2RheXMiOjEwMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5535c6e42cc0e120&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjQ2MTBCNzQxMDc1MTNCODBEMDdCMUY4RTAyNjZBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkzNDUxRUZGQjFDMTE2NjFBRjRGMjY4RTRBNTgxRDgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4ovOmmaPFAxUCKAJDMywXQC-ysCDEm6YYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=O_jtEQwvcqAA_N2B1gWRUQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKIe8bTOkyNTbyczGtYfdU315PHCizF1gFyUQVALyxmMw&oe=6ABE5CEC"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1781506800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1494716151658837"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 18,
+      "active_ads_count_exact": true,
+      "cta_types": [],
+      "page_like_count": 4994,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1494716151658837"
+    ],
+    "currencies": [],
+    "cta_types": [],
+    "page_like_count": 4994,
+    "page_categories": [
+      "Coffee Shop"
+    ],
+    "page_ads": [
+      {
+        "id": "1494716151658837",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724442515_1901688794014691_3482261231949854231_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=trX-avQFDPwQ7kNvwFYjT4x&_nc_oc=AdoERF1Ixk82lWOUm-M4m7LxpRWzIlVwMmBPBj2675WWCdPpW83wXcUIZ75Z_jf-ocw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLjwW0MrMbJ8wJ4Itiv-loUDZJbSAox5UIC_gQpogzMRQ&oe=6ABE3A53",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNWC-m1qS4x9L7Lx_ZrklZCGLgiOrS0eccNtRHB4bxn3dEGQqgopjvnLRh8DesgSzhYIl_ygsqFAcqWXEmjV0XzUoY-UcwkQxdyas09brJrug.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=leGIU48FJnQQ7kNvwExiY7a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5Njc2MjIyNjQxOTkwMCwiYXNzZXRfYWdlX2RheXMiOjEwMywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5535c6e42cc0e120&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjQ2MTBCNzQxMDc1MTNCODBEMDdCMUY4RTAyNjZBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkzNDUxRUZGQjFDMTE2NjFBRjRGMjY4RTRBNTgxRDgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4ovOmmaPFAxUCKAJDMywXQC-ysCDEm6YYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKDeexubz4iC7bu1yXyHFQgR-XThxUZMgjQqcD9OP5FZg&oe=6ABE5CEC"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725069401_2094232254835007_737326345140962133_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7ks344RjUdwQ7kNvwFRIlc6&_nc_oc=AdpXnjzzTioFdx2maf3sSwIubCRrjlgmK-_DheacirLLjxmhdfpCPZlwDpg15w1Hb5o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKERzsX1_tGdxPgvoMhJvXqCH9gp0eBb8PR-er0ZV0wqg&oe=6ABE37ED",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMIBrRiNCwYmVp8ucvP3fMdjk7GX5kJyWNzJmYbBnV-7-r4mn1GpBXHuFzjZyYdq0H18bjrF3a0roR2JRED3MKxMqsj1LaTei82T5HNZ2a_oA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=cQNwKrwJoTUQ7kNvwFIwBKs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MTM5MzQzMTE4OTg3MTgwLCJhc3NldF9hZ2VfZGF5cyI6MTAzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1360a8fbe90dc2ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMjQyN0YwNzVBQTZDQ0RFNEY5NTVFQzczM0MxRkY5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNDdDOUI0OTlCREU1NUE4NTU1N0E1MkQ2QkFDRkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYvo_tq6X8YxUCKAJDMywXQC-ysCDEm6YYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQI6jnZH2VJK5usEdv6nz7ssokJVbsjGnvc3a8HXKklc0A&oe=6ABE4C61"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724731714_1530427098590271_336451814589452555_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SMWm4rXGBQYQ7kNvwFTQEMU&_nc_oc=Adq-Ad9R1cqSkof0AvbQ-XcstcsHDNDquZbVh7RinZwQ85qTyTzcZSfGzIiBLpjAkY0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLR-ZfNp9LIjlEXhe1-ZRbPbESoipZV7nYNlbYHHNEiDg&oe=6ABE4611",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMIBrRiNCwYmVp8ucvP3fMdjk7GX5kJyWNzJmYbBnV-7-r4mn1GpBXHuFzjZyYdq0H18bjrF3a0roR2JRED3MKxMqsj1LaTei82T5HNZ2a_oA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=cQNwKrwJoTUQ7kNvwFIwBKs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MTM5MzQzMTE4OTg3MTgwLCJhc3NldF9hZ2VfZGF5cyI6MTAzLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1360a8fbe90dc2ea&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMjQyN0YwNzVBQTZDQ0RFNEY5NTVFQzczM0MxRkY5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNDdDOUI0OTlCREU1NUE4NTU1N0E1MkQ2QkFDRkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYvo_tq6X8YxUCKAJDMywXQC-ysCDEm6YYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQI6jnZH2VJK5usEdv6nz7ssokJVbsjGnvc3a8HXKklc0A&oe=6ABE4C61"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1494716151658837"
+      },
+      {
+        "id": "913375871760126",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.almacafe.co.il/ourplaces/rehovot",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710079016_1445236414021960_4201298284995570580_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xjcccUsW6z8Q7kNvwEy1Isi&_nc_oc=AdolmKOE73ls1arw5L1uA-K6_RklmJ1ztRxktZsMz6KEBuz9F0GKeTKouu4ZnTl68I8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIdAbFeq7ePQW9NIKSMFKBaK9sKhdL4TAOoo1spkcSZGw&oe=6ABE3088",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPG3RvC8fmvvucog81n1mwCfWzfrn0e8eojGPHgYYWV9-UhziiU5uo8HM5ywpMzBtSvdhmQqYn9qssABQG8G7E9WDmGYKRtwm7cVLyaEOdusw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SLdIM8spU68Q7kNvwEnCs6m&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1Mjk3OTg2NTg1MzUyODcsImFzc2V0X2FnZV9kYXlzIjoxMjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=78a32f815abfd52f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMzREOTFBNTcwRDI3Q0NDQjBCMkM0NzVFNDg5NDU5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhBNEIxRkUxMzZBMEUwNUVDNzJBMjYzRDg0MUU1NTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbuvfWZgNa3BRUCKAJDMywXQCzMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQI5QIXVluMIJdcS2tn06iTstBtJ8WYAbD_3HKwO4zjP3A&oe=6ABE3ED7"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710598212_1482895916857073_8732917910134341216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-HlSW8dihZQQ7kNvwEZzyHz&_nc_oc=AdphKJyUGCSRlPwuk5SiDUEhKsQewOGVp2shr26X8uw4Fgj63yvAuQG_b-Bk42Z4_hQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLruZNwmS9aeuUQbuyKP5M20DlU6vJarbO0IHSDAQDRMw&oe=6ABE5E24",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP9I0CIvqeMnMAJfzX2fS2kucpkYSJ6_gxakDElbmG_u8krTFMd7nUrPa1_99_p3V1WULeQ3wxOZJ3dLOnvQH-bIId2F0hKI6Rg7Ss03Y3JFg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=YYLdD0FmVWYQ7kNvwE7jxF7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTA1NzUxODY3NTYzNzYsImFzc2V0X2FnZV9kYXlzIjoxMjEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=925c75b7affed7bc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzQwMTA1NTk5Q0M3MkI3MUQ5RTMzNjg4MzREQzg5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAyNDZDNEU2REUxQ0M3NUNFNjZGNzBDNzIwQjhDOEJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawjNCry9KTBRUCKAJDMywXQCzMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKV4OYhiPUn8JZp1whpRJso2oUHTREdmw0f-5BLIIialA&oe=6ABE3B6F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=913375871760126"
+      },
+      {
+        "id": "2052449926148615",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://ontopo.com/he/il/page/76720585",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781766000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/718597679_975193005128107_5521716823064563471_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oNp-DlkwXyMQ7kNvwHiQCFo&_nc_oc=AdphisuRpFK8ntvvvfVu2XJnrcCyeRhve1qhD7NMbSrp-njSDB-tohITL-NrRiKCkWo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIBi_rIwZ5bWREr0_gBr9ss5x0zVoM2v0QmEqJ4YCKNUg&oe=6ABE571E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/720416596_1688631392471817_3132703107846266631_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WeO8VTDK2IYQ7kNvwHermHJ&_nc_oc=Adpr1ZPhaIyVPiyZZR9HvhuOmPdvmEvcXE6cIwharagbSImQC2Ymw6aDcIvAmWn-f9w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLUmC_-oGz4wrXDD_jsiUvefjnm7Ey51OkFTkYZ3__UHQ&oe=6ABE616A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2052449926148615"
+      },
+      {
+        "id": "820726221104986",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778655600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/683116958_2013784762551936_1311550718798022738_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mh0v5XDaEdYQ7kNvwEm0RcN&_nc_oc=AdqQnQBM29TXsNTDYKj8OZ8I9bcCIIjd3W_XHakpOrLVmtugFpYSJpSgtSPnk-udt-Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKFMs6onoA5wmD-qxAZw9v4cMueuzslC6dQDrivk0TaoA&oe=6ABE36C6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/682574724_2418329511921810_2985662930807542038_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=61muB3DkuJQQ7kNvwEr50lY&_nc_oc=AdoPYibYY83-7Sqepugi1gyxcCw7biL0M4XezCXsKH0DC3Hy-ijnsHGGjWGSEOp2ySM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQImDL5eANhwpqK8sORorRSVYcHj3_4Hp0gF-m6OPHXN5A&oe=6ABE4C4B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=820726221104986"
+      },
+      {
+        "id": "907004081744205",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783839600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/744316636_2435596183602332_1944028941126752529_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6vl_lWetnnYQ7kNvwGrTyX4&_nc_oc=AdpACTvPTMCs6knKTDqUSeWKfWzru-Sbe0yBLjIp5Y2r9o6QQShRLgrI8VCX_7DuUMI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJ2Be1dZTY6BY_iCQKRtzbYYFlx42pZzuuJ5kYDTWXFpQ&oe=6ABE57FB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/743841624_1361655809251792_7970514428896525612_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aMEWGUfARUAQ7kNvwG3Wxad&_nc_oc=AdpuaBQyX_pJye3_IAay6XPqO9ECCXkdvE2jeYGU7wPpFFCO4WnDsRhqxCiSvQo57mY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKyoApUYJErX8IVeXJaabxkQ4bvN0xfT36_ab118ydbog&oe=6ABE465C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=907004081744205"
+      },
+      {
+        "id": "1379510070705659",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783839600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/742241588_1586845836117534_2842519446791139311_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IdHvEQBWYWUQ7kNvwGlCTyU&_nc_oc=AdpxQxlSQkqtEenEG8hgoQwtUJL9npVrag-vgbNhY_GMXcRuR0lfodRyYrerDGlAz9M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQK-48ZkvKrqqgOwIaGqbhlfCmf92kPpyMPrI8Cx8cZ00g&oe=6ABE44AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/746528460_27496068370054201_3594646564171440925_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1pzwFA3B4TEQ7kNvwGcT27X&_nc_oc=AdpqLNYZ-IAiNKucvEDPmndJ0RLDo33m--QY6QiwcUrFOc6b7G82ZWyUdbp4Wx09bT8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJ_tM3PSt5oN-VaXnXEznwdT9Yb_UCzH0L-yhj9B0EYPw&oe=6ABE59E1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1379510070705659"
+      },
+      {
+        "id": "1312327350253908",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781852400,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/682023694_1281738564112296_8003710200227171363_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hicp1zNT0x8Q7kNvwHVCkoh&_nc_oc=AdqD32lXZ37XpwhxDBfvqlnJyyHdpo9YXo3PfwKJCWFYMismF9M898GUp47t5CIs5f8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJGhKmG5rAikCFoQy4jkJ8peyAFL3Y5N9zoU2d7Xz-wOA&oe=6ABE4196",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/682127507_1332102905638923_628575364458810376_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9_Eksp0B70AQ7kNvwED9hil&_nc_oc=AdqWjZ6sLLzmY20oM1XwBM9L9OvarqY9T28GhyC8JLCdDxmLXCq4Up_aFWERMHkT2L4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJgOFDnsGU64BYJ1k9WY2SDXJmq2d1vl7ZmsCFPZuN0Mg&oe=6ABE5D45"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1312327350253908"
+      },
+      {
+        "id": "1739794617339034",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778742000,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/681241810_1663538211656209_3141450967748601243_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n_bMw1IzyaMQ7kNvwFrzDfN&_nc_oc=Adp2SERMa2J5uKJqDwFLeJegCJp3aqxrBlB3EFP6XycqYp9ywj5rJWDtYB0DnLTDgc8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKwU2fFscMHwhTiOHbt_tl5KfE5xjvcV9MQ_1AT2nWdBA&oe=6ABE4D90",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCwR_aeEQUHY_yjoGWKqr5Wy8C_W9CPih6wit6kaaP2kLB52XJtDX-1bNGIht0G0bUWCQhrrlH9bc316R-OK0p7DPHWIiM2yT1S_HNjSLXcg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=WBs9iepLPooQ7kNvwGPXfZd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2MzMzMzM4MzMyNTk4NCwiYXNzZXRfYWdlX2RheXMiOjE1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4e154491f10668d0&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC82MDRFQTgxMEIwMkI1OEY0Mjk0RkUwQzMyNUY1NUI4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbApOiBsYm2AxUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIouy6rw8vw-VJcLMre5mUjbC_kvKKgFpIjgSLCpWNqeQ&oe=6ABE5296"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/680473421_1468075004443712_6154109900702217298_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cs6PM2-Xy3wQ7kNvwFOwUlj&_nc_oc=AdrZuY5vvpCBAAqmJQb4QBfUiH7CrkUglubkBK2O1dGwZaEU_PECL_jGp4BHMUJRphI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQK-tCIvIVYdSJRXZFEwheBt90X1CqI5XJBuP_FrvSSsug&oe=6ABE5E12",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPUkWbZM4hVTsrGL7YoplXBdE6gU_YwkCiCDb-HZJeelCDzg2KzsVfhil4qe83GtbcNP5SEIB-s9YQo1LeGGlo1_vcSRuMjQM32VuD_N5PEVw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ELwJxZoKNXoQ7kNvwGknpIv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDY2NTU2MTk5MzAxODUsImFzc2V0X2FnZV9kYXlzIjoxNTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8f6c0f18e02f6c88&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8zRDQxNkI2QzU3Mjk3MThCNUNFNUYyMjM4OUQzNjg5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS4di0_OfsBRUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLPwhRxRowUcXK1K4uDV3EWzNKInh49L1MZ0l9CZOmB0Q&oe=6ABE3DD4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1739794617339034"
+      },
+      {
+        "id": "26890147980638464",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778655600,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/682623567_3037030413353688_7872468137569402260_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BzFZma3jXyAQ7kNvwGSdztB&_nc_oc=Adqpc1XqbGimZskpGPpvWsqeqwHbzPrDAQ7ySaNDJ96_k5g1-P2yQQnKPSGtLg9ToVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIjt2XyBhxoxYzA7DQR8CpxhLpFdMriDwynI5Y49olK5g&oe=6ABE306F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCwR_aeEQUHY_yjoGWKqr5Wy8C_W9CPih6wit6kaaP2kLB52XJtDX-1bNGIht0G0bUWCQhrrlH9bc316R-OK0p7DPHWIiM2yT1S_HNjSLXcg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=WBs9iepLPooQ7kNvwGPXfZd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2MzMzMzM4MzMyNTk4NCwiYXNzZXRfYWdlX2RheXMiOjE1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4e154491f10668d0&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC82MDRFQTgxMEIwMkI1OEY0Mjk0RkUwQzMyNUY1NUI4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbApOiBsYm2AxUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIouy6rw8vw-VJcLMre5mUjbC_kvKKgFpIjgSLCpWNqeQ&oe=6ABE5296"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/680513446_1274306214883451_601772396850858127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BWUN2X1bAUIQ7kNvwGrqv9i&_nc_oc=Adpr__U347mYpPtL9_-cvwcmi_98iZqwPQ-oae61WnAPrApUgUiTvKdWHfKPwbkiV2M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIG_SQ6ioW9MrYuPlcck9MOWFK5CE7RZDlxiw7u_qBF7w&oe=6ABE4A9D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPUkWbZM4hVTsrGL7YoplXBdE6gU_YwkCiCDb-HZJeelCDzg2KzsVfhil4qe83GtbcNP5SEIB-s9YQo1LeGGlo1_vcSRuMjQM32VuD_N5PEVw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ELwJxZoKNXoQ7kNvwGknpIv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDY2NTU2MTk5MzAxODUsImFzc2V0X2FnZV9kYXlzIjoxNTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8f6c0f18e02f6c88&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8zRDQxNkI2QzU3Mjk3MThCNUNFNUYyMjM4OUQzNjg5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS4di0_OfsBRUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLPwhRxRowUcXK1K4uDV3EWzNKInh49L1MZ0l9CZOmB0Q&oe=6ABE3DD4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=26890147980638464"
+      },
+      {
+        "id": "1843748079655586",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778742000,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/682623567_3037030413353688_7872468137569402260_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BzFZma3jXyAQ7kNvwGSdztB&_nc_oc=Adqpc1XqbGimZskpGPpvWsqeqwHbzPrDAQ7ySaNDJ96_k5g1-P2yQQnKPSGtLg9ToVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIjt2XyBhxoxYzA7DQR8CpxhLpFdMriDwynI5Y49olK5g&oe=6ABE306F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNCwR_aeEQUHY_yjoGWKqr5Wy8C_W9CPih6wit6kaaP2kLB52XJtDX-1bNGIht0G0bUWCQhrrlH9bc316R-OK0p7DPHWIiM2yT1S_HNjSLXcg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=WBs9iepLPooQ7kNvwGPXfZd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2MzMzMzM4MzMyNTk4NCwiYXNzZXRfYWdlX2RheXMiOjE1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4e154491f10668d0&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC82MDRFQTgxMEIwMkI1OEY0Mjk0RkUwQzMyNUY1NUI4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbApOiBsYm2AxUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIouy6rw8vw-VJcLMre5mUjbC_kvKKgFpIjgSLCpWNqeQ&oe=6ABE5296"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/680513446_1274306214883451_601772396850858127_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BWUN2X1bAUIQ7kNvwGrqv9i&_nc_oc=Adpr__U347mYpPtL9_-cvwcmi_98iZqwPQ-oae61WnAPrApUgUiTvKdWHfKPwbkiV2M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIG_SQ6ioW9MrYuPlcck9MOWFK5CE7RZDlxiw7u_qBF7w&oe=6ABE4A9D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPUkWbZM4hVTsrGL7YoplXBdE6gU_YwkCiCDb-HZJeelCDzg2KzsVfhil4qe83GtbcNP5SEIB-s9YQo1LeGGlo1_vcSRuMjQM32VuD_N5PEVw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ELwJxZoKNXoQ7kNvwGknpIv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDY2NTU2MTk5MzAxODUsImFzc2V0X2FnZV9kYXlzIjoxNTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8f6c0f18e02f6c88&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC8zRDQxNkI2QzU3Mjk3MThCNUNFNUYyMjM4OUQzNjg5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS4di0_OfsBRUCKAJDMywXQBxDlYEGJN0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLPwhRxRowUcXK1K4uDV3EWzNKInh49L1MZ0l9CZOmB0Q&oe=6ABE3DD4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1843748079655586"
+      },
+      {
+        "id": "1641321647100619",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1778742000,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/699227568_1400633668750062_3557830193507189927_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nia7ewG3UhEQ7kNvwFwM2Dj&_nc_oc=Adpogj0OfWYn_JwtlPEhyqXMY9xTSmALh622GVOYWMPF5Y3CMHz7gpGjNT6Nwa1CUIM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKaTiivujVxjQoiSlgI-vg683VvGf61qaHu88B_-NWtTQ&oe=6ABE31B4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698939354_1367025721904637_1421948320515398464_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kkUYSXygy00Q7kNvwGwzqL8&_nc_oc=AdprEZVGEgp3EElUBk2H2Gp4IS-fAsunUQUEbNjDjbLUcxnsIao_Ks2wUKbuXBUEJos&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKeYcR6NAZyex1BW-Hc2wEt6LXPBpkhbQ4X9U2ldgJELg&oe=6ABE31AB"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1641321647100619"
+      },
+      {
+        "id": "1024319910191738",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1783839600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/745314164_959983640413580_2196397088700166743_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zybjMOheJv4Q7kNvwE-ZvoX&_nc_oc=Adox9Txq5gKJUi-hjIrTDwbLpq6eSOhBdVhbYhyK9S-1qyYEIPJTm45Xoe1RjTQ5c08&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIeg0V5jWhLSAgjWWII_wYDeWWjoxH-HC9YjYThrOp5Iw&oe=6ABE3B06",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/745477045_1001770792656645_5678819009512084633_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GYvq1ZIHPG8Q7kNvwH1hHUR&_nc_oc=Adrt5zqKDvV7r-8snToDLZ7oq0w8ZcTOfRw3FC3X4KAvdJuvoTP06CZi0_IzDUM1juA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQI9cmXR2lO9R6T8wXoYuHlVvwGajiFGxZcMRo-dtwvAJA&oe=6ABE37B9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1024319910191738"
+      },
+      {
+        "id": "4037358043153267",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "cta_text": "להגיש עכשיו מועמדות",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1779001200,
+        "platforms": [
+          "FACEBOOK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/700429384_1625967911991296_6262153256850065117_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e_P_j4STAe8Q7kNvwEq_pRU&_nc_oc=AdpJ31_dmx0EtPR44Aym7TpeZN20Jd3WMIc95BVjIZIMXDEM3HkzRInXvyLhFF3WexQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQK_rHt8LuaLV6ZdbVPvIEkG2YrQzm3zvV_DQZ2-8t0ftQ&oe=6ABE2FC5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQP5U3ep4QnuYCix7NVWyd4uVFt4m3VnRj9gJ-Zl9XZHlvvLs62KpmBzkAJdpl_zFTOVQmFU7pFKo3opiunsSjpCUYQjcEmLYZ8u6sxUYrpV2A.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1emh-NU9Nq4Q7kNvwEVIVfS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTExODgyNjQzMTk5NjcsImFzc2V0X2FnZV9kYXlzIjoxMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8d99b5d4212b3834&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84ODRCRDIwODZBQkExMDIwNDJGMjI1OEMxRjdERTA4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzEwNEEyODgzODYwQ0E0Njc2Q0JFREQ3M0I5OTUzNjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-74Hkt-SmBBUCKAJDMywXQCQQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&_nc_enc=QYGQ4xAZktomTrnl-d0Ie4H0eLD_37xFa8imf3q72Rp9SZB6Hf54r_tdnyZHeo8lvRgjUBJIvBjU7GBS28Rc9UlM5Uc3w70AoAYc4CAkzUbnR64uJKny3IL5kJM&oh=00_AQLGD2M9FDU_yZjg0mn8GoKRLBCCUFUQCUgsUjHSNVVYvA&oe=6ABE4C7D"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702223562_841488038508184_7797951926412740760_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E88AHjL0HKYQ7kNvwE1dQct&_nc_oc=AdrbJAHpYse_rDnnY-Gczcoc1F2d3__AifgkLuU4LAYzOOlx85RAD7oMrqC4db9LfMU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLiquiuDZ90kAz_ng4oKHIZXl5MhOpHakpKe5_bQbab1w&oe=6ABE358E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOhiC50DSQH3XinodTgvFqInrmH-7v8lfui38vPEMsvoMDJ2l6JifcZAac46ncob7R-A5QtX94RiQpOEf6cACzGQQeS-L4yAMEv_7JGUKl3dQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uUCyECz6xCwQ7kNvwE4Xiwj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzNTU1MjI3MTQ3MDU2ODEsImFzc2V0X2FnZV9kYXlzIjoxMzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=80774be92be7275f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MjQzQzkwMjYzQzk1REVFMkUzMjE3OUEwN0JEQzhCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc5NEJDQ0VGNkU1OUMzRTRCREYyQkIzMjE5MzlERjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai_MSD5dS8DxUCKAJDMywXQCQQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK8nqfogicAV4JdxA7UUrtU3HYckZcn7lZXXXTHLCC6oQ&oe=6ABE60AD"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4037358043153267"
+      },
+      {
+        "id": "1314374470804013",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780210800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/704108166_1573992754453335_8603945691285077478_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6A5a3-GDoDsQ7kNvwHlzFLq&_nc_oc=AdoLpi75g9g29oapwwd7NgRLVWJ82MXNv3F3i9vHXux2njAuU_Xk7ehfIAvUTkxB9r4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQI-FthQ-dNNtaSyf_KK53Cepbe_InG8Nq1asMrsF37G5g&oe=6ABE4699",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/705269885_1632784694620944_851774005454625104_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-wo5Eaft5JsQ7kNvwEIsRcK&_nc_oc=AdoKXu_kGRhkmwafi8Slr8DzFvTxffw7xgi_dc5CnwDqxfFZi-bH9GMSTn6gCpeuUwM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQI19-KTCMEHmDAGUllRY4QTcL8nBYcvnmb1gYilu4mrtQ&oe=6ABE59E9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1314374470804013"
+      },
+      {
+        "id": "1330730302351586",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724535167_3399690580195919_4480283976905462039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mjAb7sUhX_oQ7kNvwESoui1&_nc_oc=AdrWZcUR3cXYUKv7EXIrRkgN21kOCT8qxe1LFFLsNmr8AzW5C7zdNMu9gba8_u01E_U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJINKY9odILCAFGTQSI1c-7fneUd7PJacpUm-2hLiPQzw&oe=6ABE5B01",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724097972_1333543442075163_680938542733030069_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qmx5JVFGOIAQ7kNvwEHk4ay&_nc_oc=AdrdkY_DjnpbvGci86U4EZELio0Plpoxf5KVFyWV8SjyiOi7oeXBomQJcQxlXXBKEtc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLFZpKkf9orV2XRIpICym1VmIGnzsioEhoE2JKBhJ8UpQ&oe=6ABE4CFD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1330730302351586"
+      },
+      {
+        "id": "1364196982258536",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1784012400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708794339_1322008086558623_2007555693846306086_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5iFTmDSyRVgQ7kNvwGVoxe2&_nc_oc=Adpco3TrI81PWljT-IN6eLkwMSvsXWoUCGh0u5Zzu6Rjr8S9vKnX2c-ltyK6id0hpAI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQLd364DERfc27vT0UOKRoid8YUpyo1VXFRGBc1hUMyQvg&oe=6ABE61B1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/708655143_967873709370983_6764001890501954166_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R61Oyn4oqrAQ7kNvwE2-vKp&_nc_oc=AdotQXxiAuNT_BNy46OUEZX9DYABbXM6O-2mVjJR2iZcC1e3qWgv__43UTgD4EYk9eI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJlgf2ADqlrtnvpkNdcuI2BBbOOynKJq1lOdRRvJUhZdQ&oe=6ABE623A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1364196982258536"
+      },
+      {
+        "id": "1962108694429167",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782370800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724169971_2512492545934146_870494884867183171_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IV6NwuOPN9YQ7kNvwF-4nB1&_nc_oc=Adr2J3Zs-u8HordXgzYtBoXLbT2wQm7LWHO3oy0z9e7-rArWNB8Y_YeSEN1wSj3fd5Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKcBjpkJ6AssL1g-y2OAZpdMhds1N51IbsB5lfjaJfogg&oe=6ABE4307",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724559008_1560082412435029_5692382588239226334_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iPrs9QL60RYQ7kNvwGcyRc3&_nc_oc=AdrQLQgBJrGBiUcaPcWQGwYT1_xCFliGfu5tVT94t7fPR0nWqYPfykB7tphAAuySFqQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQIm__i6TsaSvUH61V71d9RLzW6qRDaE1zmEAjDwb7xTfA&oe=6ABE5720"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1962108694429167"
+      },
+      {
+        "id": "3838368832971778",
+        "page_id": "1778746095724092",
+        "page_name": "קפה עלמה",
+        "page_url": "https://www.facebook.com/Almacoffeeplace/",
+        "page_like_count": 4994,
+        "page_categories": [
+          "Coffee Shop"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "",
+        "landing_url": "http://almacafe.co.il/",
+        "cta_type": "",
+        "cta_text": "",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782025200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725159851_889563756765250_5487715083978034189_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tz2yTRkqM9AQ7kNvwFgTzPo&_nc_oc=Adq-t_k-ynqiL71BVtCgnTCsSLaCEAvPa-ANqIBXbyvnJ6GbCiiqnxDpDr4TtAYuM0k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQJkxovgV5vSi8QNanmAE1uuu5bHFcentC6SwlpWughQgA&oe=6ABE32E5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724185307_1329565062605330_5458736238468517158_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7tKDwacNgQ4Q7kNvwGJUk8_&_nc_oc=AdrJrvRxsG52oOiQJPMu8L62T8lOPa_TjOmfImcHG4JFuBlctyaueIwzvqmwmrKZGqM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=cfdbrLq0I7TayCXDzy1WbQ&_nc_ss=70289&oh=00_AQKhgnZpEdvHlHmLC31n-JzRYZ6nNni0eEdZQZpW8pmGCA&oe=6ABE3569"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3838368832971778"
+      },
+      {
+        "id": "1494716151658837",
+        "body": "{{product.brand}}",
+        "landing_url": "http://almacafe.co.il/"
+      }
+    ],
+    "social_landings": [
+      "http://fb.me/"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1494716151658837",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://almacafe.co.il/"
+        ]
+      },
+      {
+        "ad_id": "913375871760126",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.almacafe.co.il/ourplaces/rehovot"
+        ]
+      },
+      {
+        "ad_id": "2052449926148615",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://ontopo.com/he/il/page/76720585"
+        ]
+      },
+      {
+        "ad_id": "820726221104986",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "907004081744205",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1379510070705659",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1312327350253908",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1739794617339034",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "26890147980638464",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1843748079655586",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1641321647100619",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1024319910191738",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "4037358043153267",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://fb.me/"
+        ]
+      },
+      {
+        "ad_id": "1314374470804013",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://almacafe.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1330730302351586",
+        "text": "{{product.brand}}",
+        "links": [
+          "http://almacafe.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.almacafe.co.il/",
+      "https://www.almacafe.co.il/ourplaces/rehovot",
+      "https://ontopo.com/he/il/page/76720585"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:39:23",
+    "filtered": "2026-09-27T01:40:54",
+    "unqualified": "2026-09-27T01:45:01"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.almacafe.co.il/",
+      "https://www.almacafe.co.il/",
+      "https://www.almacafe.co.il/ourplaces/rehovot",
+      "https://www.almacafe.co.il/ourstory",
+      "https://www.almacafe.co.il/contact"
+    ],
+    "store_signals": [
+      "woocommerce"
+    ],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

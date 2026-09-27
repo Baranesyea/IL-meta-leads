@@ -1,0 +1,104 @@
+{
+  "lead_id": "2026-09-27-134",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/KittySpout/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "102825741868911",
+    "page_name": "KittySpout",
+    "active_ads_count": 1,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "4276675992581866",
+        "link_title": "Get 50% Off + 5 Free Gifts! Limited Time Only!",
+        "body": "This is the only cat fountain that ticks all of the boxes! 😻\n\n✅ Super quiet\n✅ Easy to clean\n✅ Vet-recommended\n✅ Made of stainless steel\n✅ Holds enough water for 2 weeks\n\nGet yours for 50% OFF and 5 FREE gifts! (Limited time only)",
+        "landing_url": "https://www.kittyspout.com/products/2-2l-fountain",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/636739605_1424793282359218_6980365994098600788_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dPVnS1llEREQ7kNvwHR5vq2&_nc_oc=Adr2jo3aHpDN9Klowvs6RFmO09RPRtXokqJtVWO5c4a9qpLXny6tKt1L6v3VX9OKmTA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQImAa2an6deZV6DnRyxpO9ij_obXbnZI-lWf9ZX_c9sWA&oe=6ABE3894"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1773817200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=4276675992581866"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 97755,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "4276675992581866"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 97755,
+    "page_categories": [
+      "Website"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "rejected": "2026-09-27T01:55:08"
+  }
+}

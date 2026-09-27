@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-021",
-  "status": "discovered",
+  "status": "qualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://bendastore.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -18,9 +18,9 @@
       "confidence": "high"
     },
     "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
+      "url": "https://www.instagram.com/miracase.il/",
+      "source": "ad landing URL (Ad Library)",
+      "confidence": "high"
     },
     "owner_instagram": {
       "url": "",
@@ -28,15 +28,19 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972504834699",
+      "source": "https://www.bendastore.co.il/",
+      "confidence": "high",
+      "kind": "unclear",
+      "kind_signals": [
+        "1 landline(s)"
+      ]
     }
   },
   "meta": {
     "page_id": "1263988970135988",
     "page_name": "MiraCase",
-    "active_ads_count": 2,
+    "active_ads_count": 13,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -86,8 +90,24 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=3013643895655141"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 13,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE",
+        "VIEW_INSTAGRAM_PROFILE"
+      ],
+      "page_like_count": 66,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1770227354416871",
       "3013643895655141"
@@ -100,6 +120,577 @@
     "page_like_count": 66,
     "page_categories": [
       "Tech"
+    ],
+    "page_ads": [
+      {
+        "id": "2259066668187916",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "צילום טוב מתחיל ביציבות 📸\n\nבין אם אתם מצלמים תוכן לרשתות החברתיות, וולוגים, סרטוני מתכונים, שיחות וידאו או תמונות מקצועיות - חצובה טובה עושה את כל ההבדל.\n\nהחצובות של MiraCase מעניקות יציבות, נוחות והתאמה למגוון שימושים, כך שתוכלו לצלם בדיוק כמו שתכננתם - בכל מקום ובכל זמן.\n\n✔️ יציבות מקסימלית\n✔️ קלות לנשיאה ולקיפול\n✔️ מתאימות לסמארטפונים ולמגוון שימושים\n✔️ מושלמות ליוצרי תוכן ולשימוש יומיומי\n\nכי כשהמצלמה יציבה - גם התוצאה נראית הרבה יותר מקצועית. 🎥👌\n\n#miracase #חצובה #חצובהלטלפון #צילום #יוצריתוכן #יוצר_תוכן #סמארטפון #צילוםוידאו #tiktoks #בנדאסטור #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "https://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/769318071_968326902943218_4149977392482071674_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MlqHhj7T0-gQ7kNvwEQDl2W&_nc_oc=Adq1tGD8uxYP50d3dSJh9BXNRDogurU5E7b95WI3ZmuGh_ZulW8315wa-i3daQng5OY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQJdAzlyBniEOSDvgf7MVuHcYR5PqT2tf354VxuKlUKwrQ&oe=6ABE4371",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNuaaoMiVBu6BPbkv1qIYjweGyan_4-Al-60rCny3uUgGvbm9fMExGzT49jHut2ko1LJrM2_GUKLjf6FskHdjZDN9fXpoTeIZUTFReFNA.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=MjLbH56WoaEQ7kNvwEkFrPT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMjIyODQ4NzAxODQ3MzMzLCJhc3NldF9hZ2VfZGF5cyI6NTUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKSlR6szSoIDLOWsunzOWdFfvHgNuJtwt-cD_nuavgQrQ&oe=6ABE46E1"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2259066668187916"
+      },
+      {
+        "id": "1770227354416871",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "http://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/766797901_1058543649874988_5098549890279986266_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=46xP5Ut8EzQQ7kNvwHMWhS7&_nc_oc=Adp-zer6LtRfqh-DCOhEbfElRdq5duqHZXTHsbfH9Uov3DKhlDtqvycQ_CpcCXJYv3s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQKEplYHt_KN9s-CtgU8yBmjYbb9aYKqvnJjmJrvfNissw&oe=6ABE2930",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQP2J26rF83H1QiHEXYYUqDvhZWHBk1xYFxAI5YvW7qgqT5zEAceqatxsXy47UwzlQ0-08pQnaTeDVnImtWlDlgR2MpBhPLNWiPrYgguEQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4nzE44aEcTUQ7kNvwERME77&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozNTk2NjY2NjkwNDgxMDAxLCJhc3NldF9hZ2VfZGF5cyI6NjcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJV1GpUF_26gCTPChFKnXwjIKyG8_BKjUunIhpIvVUhww&oe=6ABE42D8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1770227354416871"
+      },
+      {
+        "id": "3013643895655141",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787641200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406318_2108486826727273_6330137508008082981_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IR8_3rZ9Hc0Q7kNvwG2IP6f&_nc_oc=AdrzMciTk4GUvVjshIPL-25UQBmp_qwYmlDEcl-jBS5Bom767jqpM429EE8vGgXMXGI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQJgMSE37lBQT5Rlsxoeqcs0ulDGiSI7Ynpay1jS3ChjFQ&oe=6ABE35B2",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQP2J26rF83H1QiHEXYYUqDvhZWHBk1xYFxAI5YvW7qgqT5zEAceqatxsXy47UwzlQ0-08pQnaTeDVnImtWlDlgR2MpBhPLNWiPrYgguEQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4nzE44aEcTUQ7kNvwERME77&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjozNTk2NjY2NjkwNDgxMDAxLCJhc3NldF9hZ2VfZGF5cyI6NjcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJV1GpUF_26gCTPChFKnXwjIKyG8_BKjUunIhpIvVUhww&oe=6ABE42D8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3013643895655141"
+      },
+      {
+        "id": "1006139125554026",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "ה-Summer Must Have שהולך להציל לכם את הקיץ! ☀️🌬️\n\nנמאס לכם להגיע לכל מקום מזיעים? הכירו את המאוורר הנייד של Miracase:\n\nמגנטי - מתחבר בקלות לגב של הטלפון 📱\n\n>> טעינת USB פשוטה ונוחה 🔋\n\n>> כמה עוצמות אוורור לבחירה בהתאם לעומס החום 💨\n\n>> מעמד/טבעת בגב להנחה נוחה על השולחן\n\n>> ושומר על האיפור שלכם שלא ינזל! 😉\n\nבדרך לעבודה, אחרי אימון או סתם בהליכה בחוץ - שולפים מהתיק ונרגעים.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש ✨\n\n👇 רוצים להישאר קרירים? היכנסו לאתר בנדא סטור או הגיעו לחנות שלנו - המשכית 26, הרצליה",
+        "link_description": "",
+        "landing_url": "http://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/765886871_940254339093136_8022684146977747994_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7KQBQVp7vQwQ7kNvwFyn3AC&_nc_oc=AdpjJR7mVTE1kvGTS3gqnaxX775LFtMjTRNwuQTFlv2qvaUkh-hPfrZdEfvspX6X8Nw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLYG1noZFaYOTXn8x9-YOAkMmrcno3yaJXDgstsxosaRg&oe=6ABE5B78",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQObdRjiYNXdYXiQJrZW0UR5C_L8aX9wXqoE1NjuGwo-FAY8g_xQRn9nqSPcF363Udqjp2vcbS33Ak-AXlYUhEY02hum7Pm-GBHAwErElg.mp4?_nc_cat=108&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=cZAjuVAWmAgQ7kNvwGiNnI_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzI2MDczODE2MzYwOTI3LCJhc3NldF9hZ2VfZGF5cyI6NjcsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIoaiqQ8aqDZNfx7Bv58a5CGGgJuSgTomlnaFP7J_m58g&oe=6ABE4DFA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1006139125554026"
+      },
+      {
+        "id": "1095076806512673",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "link_description": "",
+        "landing_url": "https://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/771795671_1049931254670494_6335676813596421842_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=29qeJjHxSR8Q7kNvwFAGZvu&_nc_oc=AdouR0DIl1O2n4dEEBo1JVpgAwkr_7fqHgng23E8SY49XdQ3X-tppqEBjsrdtETcelQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQJsOytwMFjfrxGfab3_AWWV8QaLzerwbARImynZIfwQWg&oe=6ABE42B0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQM05LjCDcjBEKvKrx4oZBZHyibyYEQtomhBpaqm7bGehZdSmoobReT26Iqkp2l1UqqEUuf6xUQ1ptBG_DOr-9lkhhGgBcIbswLZyRAoog.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=rxjeFe2whEIQ7kNvwGjlvTQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDQ0MDgwMjQ4MDMwMzY5LCJhc3NldF9hZ2VfZGF5cyI6NTQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLuuL6Wk_xSItSfcrvmbDXH2UuehaEe9gI1Pii36NMO9Q&oe=6ABE2ED8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1095076806512673"
+      },
+      {
+        "id": "2520204641818267",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787641200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786778275_1073185548579044_2779086824546304042_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sYIvn2IfJ2kQ7kNvwHI6fvj&_nc_oc=AdrqC7CKVspp_Z8ST838NvhYXiZ3FT0FOA5DwZjI0ntdlraHi2wp5HSw0ibGkg3vkcQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLwuhtBp3tQ4mNxsWSy2PypfFZTFYCjT-nv896WisTEQQ&oe=6ABE38F4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQM05LjCDcjBEKvKrx4oZBZHyibyYEQtomhBpaqm7bGehZdSmoobReT26Iqkp2l1UqqEUuf6xUQ1ptBG_DOr-9lkhhGgBcIbswLZyRAoog.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=rxjeFe2whEIQ7kNvwGjlvTQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDQ0MDgwMjQ4MDMwMzY5LCJhc3NldF9hZ2VfZGF5cyI6NTQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLuuL6Wk_xSItSfcrvmbDXH2UuehaEe9gI1Pii36NMO9Q&oe=6ABE2ED8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2520204641818267"
+      },
+      {
+        "id": "1047041191200623",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "link_description": "",
+        "landing_url": "http://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1785999600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766979868_1039811475438223_3873431606714104959_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZKtt30MwOkQ7kNvwF83aUR&_nc_oc=Adon0ohJS9W-fowCFdZsas2xo69fbXagfWZyI-S6wsoPC_Ti-1TDhb1Q4_y6XZ1KLL4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLeWuiJRhJlfFB1vPzzgSMo3dk31LH9SBBoEgB2Sqa5kQ&oe=6ABE4BFD",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQM05LjCDcjBEKvKrx4oZBZHyibyYEQtomhBpaqm7bGehZdSmoobReT26Iqkp2l1UqqEUuf6xUQ1ptBG_DOr-9lkhhGgBcIbswLZyRAoog.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=rxjeFe2whEIQ7kNvwGjlvTQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDQ0MDgwMjQ4MDMwMzY5LCJhc3NldF9hZ2VfZGF5cyI6NTQsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQLuuL6Wk_xSItSfcrvmbDXH2UuehaEe9gI1Pii36NMO9Q&oe=6ABE2ED8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1047041191200623"
+      },
+      {
+        "id": "1420655063253940",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מכירים את החבר/ה הזה בערב שדואג/ת לכולם? אז זאת אני, והערכה שלי לקיץ 🔥\n\nכשכולם נתקעים על 1% סוללה או בלי מוזיקה - שולפים את ה-Miracase:\n🔋 מטען אלחוטי מתקפל 3 ב-1\n⚡ סוללת גיבוי 50,000mAh שמטעינה הכל (גם מחשבים ניידים!)\n🔊 רמקול אלחוטי מגנטי שמתחבר ישר לגב של הטלפון\n\nMiracase - הבחירה הנכונה, כל פעם מחדש.\n\n🛒 רוצים להתחדש? היכנסו לבנדא סטור",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787814000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784242508_1905976224120834_4091371042526872240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DiyJKdjhLuwQ7kNvwHJcUx4&_nc_oc=AdogrSJ0oHlP6324ZNpl8MEhh1y-8lTO8N3tFBNXvP2GOi9nVYoe54x2REIAHwk9Vto&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLmRjFIc3c9iLF__lHXD6B54GaYcsamvul7XJSpyvXQNw&oe=6ABE2A84",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOeCfL79vQTKq2XLNrRCmIFGiMpRxtva22oK5YCGtpNWPD0owHM1mrGLrORLCqDLF7_R-YLuk_mPWE-GchkDx7iIZM1vXFDShuG9oN_OKpO1Q.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3W9DrWfTDwQQ7kNvwG19lxo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Mzg3MTc1MTcxNjkwODcsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6b1d9f673c621217&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MDREOTg1Q0UyMTlGRDRCMTRDMzkyRUZDN0JFQ0RBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAzNDk2NEJGQjA3RUUwOEZCODgwRDk3Rjk3NjFEQkIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-hs7_1taWBhUCKAJDMywXQElZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIGYE8QhPLl7E8MSOG5mQeiMUVW9hABgvCU937ugpDJNw&oe=6ABE5567"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1420655063253940"
+      },
+      {
+        "id": "1548671690326760",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "מכירים את החבר/ה הזה בערב שדואג/ת לכולם? אז זאת אני, והערכה שלי לקיץ 🔥\n\nכשכולם נתקעים על 1% סוללה או בלי מוזיקה - שולפים את ה-Miracase:\n🔋 מטען אלחוטי מתקפל 3 ב-1\n⚡ סוללת גיבוי 50,000mAh שמטעינה הכל (גם מחשבים ניידים!)\n🔊 רמקול אלחוטי מגנטי שמתחבר ישר לגב של הטלפון\n\nMiracase - הבחירה הנכונה, כל פעם מחדש.\n\n🛒 רוצים להתחדש? היכנסו לבנדא סטור",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784818090_1586825023117559_3892427143583555594_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M-PLEQHACNEQ7kNvwGh9XlY&_nc_oc=Adr_b04XbFEaOrWKz6FeRx0h2GHz1KXWmzuNKZBjnexm84Xsja6Dvp4MyjqZ814YUwE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQKe_XbUGJ36Im-mPcJRVr-0a6LZcCPOJqOKaoPz6Y9OQQ&oe=6ABE3A94",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOeCfL79vQTKq2XLNrRCmIFGiMpRxtva22oK5YCGtpNWPD0owHM1mrGLrORLCqDLF7_R-YLuk_mPWE-GchkDx7iIZM1vXFDShuG9oN_OKpO1Q.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3W9DrWfTDwQQ7kNvwG19lxo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3Mzg3MTc1MTcxNjkwODcsImFzc2V0X2FnZV9kYXlzIjo1MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6b1d9f673c621217&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MDREOTg1Q0UyMTlGRDRCMTRDMzkyRUZDN0JFQ0RBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAzNDk2NEJGQjA3RUUwOEZCODgwRDk3Rjk3NjFEQkIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-hs7_1taWBhUCKAJDMywXQElZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIGYE8QhPLl7E8MSOG5mQeiMUVW9hABgvCU937ugpDJNw&oe=6ABE5567"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1548671690326760"
+      },
+      {
+        "id": "1436582508350298",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רוצים שהתוכן שלכם ייראה כמו מיליון דולר? הכל מתחיל בתאורה! 💡✨\n\nהרינגלייט של Miracase במידה ענקית של 21 אינץ' (54 ס\"מ) פשוט משנה את כל התמונה:\n\n>> 560 נורות LED לתאורה חזקה, אחידה ובלי צללים מיותרים בפנים\n\n>> שליטה מלאה בגוון האור – מחם לקור, בהתאם לשעה ולמצב הרוח 🎨\n\n>> תפסן גמיש לטלפון המאפשר צילום במגוון זוויות (ואפילו לכמה אנשים יחד!)\n\n>> חיבורי USB מובנים לטעינה קלה ונוחה תוך כדי צילום 🔌\n\nפשוט מוצר חובה לכל מי שיוצר תוכן, מצלם סרטונים או סתם רוצה את הסלפי המושלם.\n\nMiracase – הבחירה הנכונה, כל פעם מחדש. 📸\n\n👇 רוצים לשדרג את התאורה שלכם? היכנסו לאתר בנדא סטור או הגיעו לחנות שלנו בהרצליה - המשכית 26\n\n#miracase #רינגלייט #ringlight #יוצריתוכן #תאורהלצילום #רילס #סלפי #אביזריםלסלולר #אביזרים_לסלולר",
+        "link_description": "",
+        "landing_url": "https://instagram.com/miracase.il",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787554800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786107383_28995632573372047_2042410102852879430_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5WXPW_jR_KAQ7kNvwHd2Ldp&_nc_oc=AdrIpnhu-VQuxDVh7IBBzA_Qkg45_2-p8sJh2Clb06TWfFDTpRDdYDomT0yQG8fJekg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQK5vzeQY0qnAHoYWHYkgr7YXr0bXIFTU237YLlwI8Dksw&oe=6ABE4FE5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNNqgoFkQdLt_k0RMx3giFNlPU9PGRl08ROVydf3MowBF3rJv1oLNxVKtzwTpVpLrP_MOe8qra5hJoDkoZ7HZpDGZS1Y3AaQHtssdwt-w.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_jW-P5ypMDoQ7kNvwEzlM7h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo5Nzk3MTM5MzE3Nzk3NTIsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQL1Hr2qeO1WTFNa19UOGSq1j3VGSBW6wPGjrSRPJnpDtg&oe=6ABE3034"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1436582508350298"
+      },
+      {
+        "id": "2884959838534561",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787814000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 3,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778985469_2261679237962726_363795581025384339_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0GIlBE12bsQ7kNvwEFC4PA&_nc_oc=AdqFM-r4ylrHFWbHZ8zu5qvK3UUc2I2i9enHZ_e6wF_6OJr9PzGGJsGqKgZJrOvXjao&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLm6W8dQRlpxhH3Qr1ERbxB7vri0pTEo3mB4zixKi1soQ&oe=6ABE2845",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMD0WhH07ZKt3wHokuqnVY6AGlEFevlYM2Wn4Us11l4kv-nTxdVTm7KCaIn4Cg2E5_7SkcIq2ed9XYsARm_9zniGaACz9zw6wPLg8NiAg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=b9G7t8hS2GYQ7kNvwFPyJgJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NjI3MzkxNjU3NTQ3NTQ5LCJhc3NldF9hZ2VfZGF5cyI6NTUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK5FFwKe8w0Qx4-Bzf1HGJ3Hv1X9czdw9IIqCjkEXrb0Q&oe=6ABE584F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2884959838534561"
+      },
+      {
+        "id": "2425158247978034",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787641200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787367674_2286384925516490_7038441259110516233_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RRrgGXTS9DQQ7kNvwHqOfrZ&_nc_oc=AdomOt-8QAowXpzxCPqCDqu4W-IdyPsKiqVLDrGenTgr54BWrw36U7t6IPaQy8i34u4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQJzAed6Xz6iQ1UiSbhf_avYy2ADYYZWSPX8JBg9eLxcmg&oe=6ABE3CA8",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMD0WhH07ZKt3wHokuqnVY6AGlEFevlYM2Wn4Us11l4kv-nTxdVTm7KCaIn4Cg2E5_7SkcIq2ed9XYsARm_9zniGaACz9zw6wPLg8NiAg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=b9G7t8hS2GYQ7kNvwFPyJgJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NjI3MzkxNjU3NTQ3NTQ5LCJhc3NldF9hZ2VfZGF5cyI6NTUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK5FFwKe8w0Qx4-Bzf1HGJ3Hv1X9czdw9IIqCjkEXrb0Q&oe=6ABE584F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2425158247978034"
+      },
+      {
+        "id": "1940317309971235",
+        "page_id": "1263988970135988",
+        "page_name": "MiraCase",
+        "page_url": "https://www.facebook.com/61592476005797/",
+        "page_like_count": 66,
+        "page_categories": [
+          "Tech"
+        ],
+        "ad_creative_link_title": "",
+        "body": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "link_description": "",
+        "landing_url": "https://instagram.com/miracase.il",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "cta_text": "ביקור בפרופיל אינסטגרם",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786431600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/768586321_1709383590282158_9200289876354965299_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yQNLLpzw55gQ7kNvwHFrhUV&_nc_oc=AdoM2_V8I8Ut32yzWeGwdg9aupvUGPvEvxDUleX-ctqbZlIL_NcWKvBDhHapV7eNiCA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&oh=00_AQLcSlKd2u2xDDR0ETp7Z3b-bdr6d-GyaWg0-Od5PlHBKA&oe=6ABE27AF",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMD0WhH07ZKt3wHokuqnVY6AGlEFevlYM2Wn4Us11l4kv-nTxdVTm7KCaIn4Cg2E5_7SkcIq2ed9XYsARm_9zniGaACz9zw6wPLg8NiAg.mp4?_nc_cat=111&_nc_sid=ef5aa3&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=b9G7t8hS2GYQ7kNvwFPyJgJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NjI3MzkxNjU3NTQ3NTQ5LCJhc3NldF9hZ2VfZGF5cyI6NTUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo2NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=WqK9qdgpQNdstGBKgDt5pQ&_nc_ss=70289&_nc_zt=28&oh=00_AQK5FFwKe8w0Qx4-Bzf1HGJ3Hv1X9czdw9IIqCjkEXrb0Q&oe=6ABE584F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1940317309971235"
+      },
+      {
+        "id": "1770227354416871",
+        "body": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "landing_url": "http://instagram.com/miracase.il"
+      },
+      {
+        "id": "3013643895655141",
+        "body": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "landing_url": "https://www.bendastore.co.il/miracase-main/"
+      }
+    ],
+    "social_landings": [
+      "https://instagram.com/miracase.il",
+      "http://instagram.com/miracase.il"
+    ],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2259066668187916",
+        "text": "צילום טוב מתחיל ביציבות 📸\n\nבין אם אתם מצלמים תוכן לרשתות החברתיות, וולוגים, סרטוני מתכונים, שיחות וידאו או תמונות מקצועיות - חצובה טובה עושה את כל ההבדל.\n\nהחצובות של MiraCase מעניקות יציבות, נוחות והתאמה למגוון שימושים, כך שתוכלו לצלם בדיוק כמו שתכננתם - בכל מקום ובכל זמן.\n\n✔️ יציבות מקסימלית\n✔️ קלות לנשיאה ולקיפול\n✔️ מתאימות לסמארטפונים ולמגוון שימושים\n✔️ מושלמות ליוצרי תוכן ולשימוש יומיומי\n\nכי כשהמצלמה יציבה - גם התוצאה נראית הרבה יותר מקצועית. 🎥👌\n\n#miracase #חצובה #חצובהלטלפון #צילום #יוצריתוכן #יוצר_תוכן #סמארטפון #צילוםוידאו #tiktoks #בנדאסטור #bendamagnetic #bendastore",
+        "links": [
+          "https://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "1770227354416871",
+        "text": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "links": [
+          "http://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "3013643895655141",
+        "text": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "1006139125554026",
+        "text": "ה-Summer Must Have שהולך להציל לכם את הקיץ! ☀️🌬️\n\nנמאס לכם להגיע לכל מקום מזיעים? הכירו את המאוורר הנייד של Miracase:\n\nמגנטי - מתחבר בקלות לגב של הטלפון 📱\n\n>> טעינת USB פשוטה ונוחה 🔋\n\n>> כמה עוצמות אוורור לבחירה בהתאם לעומס החום 💨\n\n>> מעמד/טבעת בגב להנחה נוחה על השולחן\n\n>> ושומר על האיפור שלכם שלא ינזל! 😉\n\nבדרך לעבודה, אחרי אימון או סתם בהליכה בחוץ - שולפים מהתיק ונרגעים.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש ✨\n\n👇 רוצים להישאר קרירים? היכנסו לאתר בנדא סטור או הגיעו לחנות שלנו - המשכית 26, הרצליה",
+        "links": [
+          "http://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "1095076806512673",
+        "text": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "links": [
+          "https://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "2520204641818267",
+        "text": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "1047041191200623",
+        "text": "הכירו את המקלדת שתשדרג לכם את כל חוויית העבודה והגיימינג ⌨️\n\nעיצוב קומפקטי, תאורת RGB מרשימה, מקשים נוחים ומראה שמשתלב בצורה מושלמת בכל עמדת מחשב.\n\nבין אם אתם עובדים שעות מול המסך, לומדים או פשוט נהנים ממשחק טוב - זו המקלדת שתעניק לכם נוחות, דיוק וסטייל בכל הקלקה.\n\n🎮 קומפקטית ונוחה\n🌈 תאורת RGB מרהיבה\n💻 מתאימה לעבודה, ללימודים ולגיימינג\n\nמחפשים לשדרג את הסטאפ שלכם? זה הזמן.\n\n#מירהקייס #miracase #מקלדת #keyboard #gamingsetup #DeskSetup #worksetup #gaminggear #techlovers #computeraccessories #setupgoals #worksmart #bendastore #בנדאסטור #עמדת_עבודה #גיימינג #אביזרי_מחשב",
+        "links": [
+          "http://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "1420655063253940",
+        "text": "מכירים את החבר/ה הזה בערב שדואג/ת לכולם? אז זאת אני, והערכה שלי לקיץ 🔥\n\nכשכולם נתקעים על 1% סוללה או בלי מוזיקה - שולפים את ה-Miracase:\n🔋 מטען אלחוטי מתקפל 3 ב-1\n⚡ סוללת גיבוי 50,000mAh שמטעינה הכל (גם מחשבים ניידים!)\n🔊 רמקול אלחוטי מגנטי שמתחבר ישר לגב של הטלפון\n\nMiracase - הבחירה הנכונה, כל פעם מחדש.\n\n🛒 רוצים להתחדש? היכנסו לבנדא סטור",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "1548671690326760",
+        "text": "מכירים את החבר/ה הזה בערב שדואג/ת לכולם? אז זאת אני, והערכה שלי לקיץ 🔥\n\nכשכולם נתקעים על 1% סוללה או בלי מוזיקה - שולפים את ה-Miracase:\n🔋 מטען אלחוטי מתקפל 3 ב-1\n⚡ סוללת גיבוי 50,000mAh שמטעינה הכל (גם מחשבים ניידים!)\n🔊 רמקול אלחוטי מגנטי שמתחבר ישר לגב של הטלפון\n\nMiracase - הבחירה הנכונה, כל פעם מחדש.\n\n🛒 רוצים להתחדש? היכנסו לבנדא סטור",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "1436582508350298",
+        "text": "רוצים שהתוכן שלכם ייראה כמו מיליון דולר? הכל מתחיל בתאורה! 💡✨\n\nהרינגלייט של Miracase במידה ענקית של 21 אינץ' (54 ס\"מ) פשוט משנה את כל התמונה:\n\n>> 560 נורות LED לתאורה חזקה, אחידה ובלי צללים מיותרים בפנים\n\n>> שליטה מלאה בגוון האור – מחם לקור, בהתאם לשעה ולמצב הרוח 🎨\n\n>> תפסן גמיש לטלפון המאפשר צילום במגוון זוויות (ואפילו לכמה אנשים יחד!)\n\n>> חיבורי USB מובנים לטעינה קלה ונוחה תוך כדי צילום 🔌\n\nפשוט מוצר חובה לכל מי שיוצר תוכן, מצלם סרטונים או סתם רוצה את הסלפי המושלם.\n\nMiracase – הבחירה הנכונה, כל פעם מחדש. 📸\n\n👇 רוצים לשדרג את התאורה שלכם? היכנסו לאתר בנדא סטור או הגיעו לחנות שלנו בהרצליה - המשכית 26\n\n#miracase #רינגלייט #ringlight #יוצריתוכן #תאורהלצילום #רילס #סלפי #אביזריםלסלולר #אביזרים_לסלולר",
+        "links": [
+          "https://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "2884959838534561",
+        "text": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "2425158247978034",
+        "text": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      },
+      {
+        "ad_id": "1940317309971235",
+        "text": "את ממש לא חייבת להוציא אלפי שקלים כדי להתחיל ליצור תוכן ברמה מקצועית! 🎬\n\n3 המוצרים שמשדרגים כל סרטון בשנייה:\n\n1️⃣ תאורת סלפי 40MLC - כי גם המצלמה הכי טובה צריכה אור נכון! מגיעה עם כמה מצבי אור ורמות בהירות, מסתובבת לכל זווית וקומפקטית במיוחד.\n2️⃣ מוט סלפי 20AI MAITP - מעקב פנים חכם מבוסס AI! מושלם לצילום עצמאי, עם סיבוב של 360° ושלאט אלחוטי עד 10 מטר.\n3️⃣ מיקרופון אלחוטי 750MWMC - כי סאונד טוב זה 80% מהסרטון! חיבור Plug & Play מהיר, סינון רעשים, טווח של 20 מטר וערכה של 2 מיקרופונים שמעולה גם לראיונות.\n\nאת כל המוצרים האלה ועוד המון אביזרים שווים תוכלו למצוא באתר של BendaStore או בחנות - רח' המשכית 26 בהרצליה 💫\n\n#יצירתתוכן #יוצרתתוכן #טיפיםלצילום #ציודצילום #Miracase #רילז #אינסטגרםישראל #סלפי #מיקרופוןאלחוטי #תוכןאיכותי #bendamagnetic #bendastore",
+        "links": [
+          "https://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "1770227354416871",
+        "text": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "links": [
+          "http://instagram.com/miracase.il"
+        ]
+      },
+      {
+        "ad_id": "3013643895655141",
+        "text": "נמאס לכם מהבלאגן של הכבלים והמטענים על השולחן או בבית? 🔌🤯\n\nקבלו 4 מוצרים קטנים מבית Miracase שעושים הבדל ענקי בסביבת העבודה והטעינה שלכם:\n\nמפצל USB-C (8 in 1): לחיבור מסכים, זיכרונות וטעינה מהירה במקביל.\n\nכבל חכם 240W: העברת קבצים מהירה במיוחד וטעינה עוצמתית.\n\nסוללה מגנטית: נצמדת לגב הטלפון ומצילה אתכם כשיוצאים מהבית.\n\nמטען קיר GaN (70W): עוצמתי עם כבל נשלף וצג חכם, שמחליף עומס של מטענים בשקע אחד.\n\nMiracase - הבחירה הנכונה, כל פעם מחדש. ✨\n\nהיכנסו לבנדא סטור\n\n#miracase #פינתעבודה #גאדגטים #מטעןחכם #טכנולוגיה #אביזריםלסלולר #bendamagnetic #bendastore",
+        "links": [
+          "https://www.bendastore.co.il/miracase-main/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.bendastore.co.il/miracase-main/"
     ]
   },
   "current_ads": [],
@@ -113,6 +704,24 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:28:05",
+    "qualified": "2026-09-27T01:32:11"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.bendastore.co.il/",
+      "https://www.bendastore.co.il/miracase-main/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
   }
 }

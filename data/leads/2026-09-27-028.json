@@ -1,0 +1,131 @@
+{
+  "lead_id": "2026-09-27-028",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/8sense.io/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "853030914565309",
+    "page_name": "8sense",
+    "active_ads_count": 2,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "1022732566818136",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.8sense.io/",
+        "cta_type": "USE_MOBILE_APP",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723947209_1546793903899093_484242260422524867_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GIYYJ3C8dDgQ7kNvwGCbzqg&_nc_oc=AdqaL1F7qyWwBDsVPlOIYv86Uc-9r2gR5CpAFaUMe0osuoa3Ffj5cakNTSzsqi_5J5E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQJkij40k3DgoIKNqDl7B2EOKZGiK-jqWRma1d4DW3AHJQ&oe=6ABE3E65",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/725067725_2214861949292318_9212040126853590640_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n2xVgrswF6MQ7kNvwF24T9N&_nc_oc=AdoHzi6vWE4NMFxTJflEj4ibwVPyH-Rri_9fbSYo_yL1zdwcQnM_v0GozAzDseg8jmA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQIxL2P2bnzXUFx_azrhiuLa4HI10eg-7S1sD12XqEj3FQ&oe=6ABE3258",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/723779161_4477530845901784_6481480954849152110_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3jSjoc3vZocQ7kNvwFEUq51&_nc_oc=AdqEUQ8f3YuAVInwgXaykp01Vop8aZKWlkdw8NZfENyM81y_V5cUQI4bl0q-a-UPwjA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQLlcEkstyXpb7UY_sYz5NCc0Bjbm2PlsnjlftJp8tnBnA&oe=6ABE4A9F"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1781506800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1022732566818136"
+      },
+      {
+        "ad_id": "1544055950702182",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.8sense.io/",
+        "cta_type": "USE_MOBILE_APP",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/722998805_1541456684316745_7124472357287022807_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nZZTCSoEjVMQ7kNvwGHpouK&_nc_oc=Adq5QEUznpKOmosnCsjMmjHAENPQBiz5eP9ompIKgQUHUQ9qN09H6dyexrA-OBKFPUk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQLIDGex7_0fxLAnHZZgyB0aH4zMLQCbLB9nVbT1nmSuCQ&oe=6ABE450B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724119693_995763606701442_7566852100642444570_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=71JrGUdhZ-sQ7kNvwHnKwgU&_nc_oc=AdoI72UzgQSCwqxbzyhuQortsDuBq8884XB9dUBop5m8Dk4VavXSw62cELAXKT7j4EM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQLmX-AMs3c0zblLjucpwbHvDdR0w8tKbpplzLr_qWnrAw&oe=6ABE3B14",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724114428_1036789375580562_3676288056350953173_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gqlJYyvgbJAQ7kNvwFiFP8f&_nc_oc=Adr9FA0airpzpChGYmi2n7ltgzQ0ufyb9O7aZnwUSOGCPH0QIMhr2OoDC-i0OlY_WuM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQIzGK0vk3WPJg3dnfvskA2OeA11Pcbr8XNlOP3st-YA7A&oe=6ABE4CFF"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1781506800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1544055950702182"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "USE_MOBILE_APP"
+      ],
+      "page_like_count": 372,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1022732566818136",
+      "1544055950702182"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "USE_MOBILE_APP"
+    ],
+    "page_like_count": 372,
+    "page_categories": [
+      "Internet company"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "rejected": "2026-09-27T01:33:29"
+  }
+}

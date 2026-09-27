@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-27-099",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/milacantesofficial/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1093516977525685",
+    "page_name": "Mila Cantes",
+    "active_ads_count": 1,
+    "search_keyword": "jewelry",
+    "sample_ads": [
+      {
+        "ad_id": "26874227825543364",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://milacantes.com/products/lima-luxe-my-baby",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699738400_924965383870825_4097969482640379664_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GWIB4nDCjfwQ7kNvwFo_5iH&_nc_oc=Adr_z4kMnvjDWvVPF8eMSn-1AzI5qsA9wdC62BRwsZQbXWK78r_UJI-EbOLoLlGUms4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQLEl-CUhO-NMkOY2E4nc8rMY_9QwFUA2kG70toRXK7rrQ&oe=6ABE3A50",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699738400_924965383870825_4097969482640379664_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GWIB4nDCjfwQ7kNvwFo_5iH&_nc_oc=Adr_z4kMnvjDWvVPF8eMSn-1AzI5qsA9wdC62BRwsZQbXWK78r_UJI-EbOLoLlGUms4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQLEl-CUhO-NMkOY2E4nc8rMY_9QwFUA2kG70toRXK7rrQ&oe=6ABE3A50"
+        ],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/698209761_1528178015702837_4158449142447550580_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KoP-GRegx1IQ7kNvwFg_PGQ&_nc_oc=AdobNOzbZrxYZqYZtTHJ9ogF49ny0pxfr_p9KnlYDK1tkgDEUNvrGclVdGb-VSwtCyQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&oh=00_AQIp2pPH_tldcD5wARSBJlRzOwrivoXX-fpYlwcVSuMTRA&oe=6ABE5746",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPzpBmXJG9umVNPUff7ZkXJueCwhll8idQuyWi036n6nrI9nADkIpSX9fGeuPHX2iSlaBKb1nqsSZVECObyBC-P0taUvIBqCmBnIEXBNHTdlA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=xGUCXjXSki0Q7kNvwG2T804&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNTg5MDI1Njc4ODA0NzMsImFzc2V0X2FnZV9kYXlzIjo0NzgsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e1abea3867270956&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNTRBOEM5QUY4Rjk4NUVCMUI4QkExQ0RGMEZGM0JBOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyMzc0NTIxMDc5NzM5NzRfNDQzOTY4NTg5NzczODU3MDMxNy5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmspyg0redgwgVAigCQzMsF0Aou2RaHKwIGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWqwQEA&_nc_gid=aD5xGOjX_giCwmavftLIrQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKkON9E5gwVhihxOU51sEl67vUj41QkSGE2FwoSJ-ILQA&oe=6ABE4855"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1778655600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=26874227825543364"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 53980,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "26874227825543364"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 53980,
+    "page_categories": [
+      "Jewelry/watches"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:45",
+    "rejected": "2026-09-27T01:53:46"
+  }
+}

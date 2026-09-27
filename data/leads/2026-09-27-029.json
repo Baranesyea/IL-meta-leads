@@ -1,0 +1,1342 @@
+{
+  "lead_id": "2026-09-27-029",
+  "status": "qualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://angelsbrick.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/angelsbrick/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/angels.brick/",
+      "source": "https://angelsbrick.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "+972559727041",
+      "source": "https://angelsbrick.co.il/product/i-love-you/",
+      "confidence": "high",
+      "kind": "owner",
+      "kind_signals": [
+        "the only phone on the site"
+      ]
+    }
+  },
+  "meta": {
+    "page_id": "224372197422128",
+    "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+    "active_ads_count": 51,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "1434653841560907",
+        "link_title": "מתנה מושלמת שתישאר לנצח! 🎁",
+        "body": "יש מתנות שמפתיעות, ויש כאלה שנכנסות ישר ללב.\nהמארז שלנו נולד כדי לרגש. לא לרגע – לנצח.\n3 בלוקים מעץ, עם רגעים שלכם, עטופים כמו תכשיט.\n\n\"היא אמרה לי: זה הדבר הכי אישי שמישהו עשה בשבילי.\"\nוזה שווה הכל.\n\n✔️ בלוקים אישיים מעוצבים אחד-אחד\n✔️ ברקוד לשיר/הקלטה שתבחר\n✔️ עטיפה אלגנטית, פרחים, שרשרת מתנה\n✔️ משלוח אקסטרה מהיר\n✔️ מענה אנושי מהיר לכל שאלה\n✔️ תוצרת כחול-לבן – איכות ישראלית מהלב\n\n📦 שלח 3 תמונות – אנחנו נעטוף את זה ברגש\n📲 הזמן עכשיו >>",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548186227_1162837208990996_2223253829380805533_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kyzi0tENxHcQ7kNvwGFYDTt&_nc_oc=Adr2V_nJh2khOPyOBvOQ1L4amSZjJ8ZObgjrU6Y7x0sKYiVsYTPDBx7FElW8rKCyz1Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQIqYpA1JzqkWH1MGaw-9Cx52tM7l3HEXZB6mfilwqVB0w&oe=6ABE396F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOeIQQCqRLjzlPb2dyHz9IvoRoJYmCKuHqMicofUp6GkEPqsj8iNFJlZaYutgalvbnmE78_amTsct9B0kUxPbHEYq1koHzIIUJxOEeC_BkdUg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5Ds4wpZP-JoQ7kNvwGAZQGZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjU3ODc5NjU4NDg5NjIsImFzc2V0X2FnZV9kYXlzIjo2NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c0270d05d04ba2c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRDRjQ5RDI0Q0IyQjM0MURBOTE4QzQ5MjQ4MzhBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJdXpBeHlidXZ1eTRRRUVBQm1zYmJIaGZqUWxidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE9t_8vfn_AxUCKAJDMywXQC2IMSbpeNUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&_nc_zt=28&oh=00_AQI6AC7Y-FJUkqlpNpJ7s1zrJv_QFaFYEmHA5CzswsOFrw&oe=6ABE4715"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1766217600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1434653841560907"
+      },
+      {
+        "ad_id": "2316533438871630",
+        "link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/679615214_2806290663084359_6220843226856885076_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9CGhnW84ntUQ7kNvwENzLUk&_nc_oc=AdoZemID4m8D-ZUM3-PEnM-33eEiYQpaELoW8oQ5zeZ6ynS6rNRCH50-TF-akGYw6BA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQLA6ZmenjfA8nrCJzHH_IHSiUmfAqzmHZbn0jNQvM6P0g&oe=6ABE34B6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOu_0of0bMyisMvsfHWzI9FHfDAQeizulBUrX3WYhtmLPj8jxA7Tn-dZawSmbN5VXVuXrv9WsIw2D_X1hKSvs-5OGju6r5DDb3TIgnkIsBu8Q.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bXCYmf5i6gMQ7kNvwGCp3Ox&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNjk5MDAwOTkyODU5OSwiYXNzZXRfYWdlX2RheXMiOjE1NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fafd502086eb9ae8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzQ5QjE3ODdEMDY2RjI4MzI2RTFDREQ3MzVEQTBCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YzNDNBMjczQzhBNjFGRTQxRUYxNTQwNzQ2OEQ0NzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaurrLck4n4AhUCKAJDMywXQEaAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&_nc_zt=28&oh=00_AQLJyvvCkMHom3YtdLr07qKLkgciLPAwL0IMa309EOEOIA&oe=6ABE4281"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1776927600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2316533438871630"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "מארז",
+        "סט",
+        "להזמנה",
+        "קוד",
+        "תכשיט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 51,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 145,
+      "product_score": 8
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1434653841560907",
+      "2316533438871630"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 145,
+    "page_categories": [
+      "Product/service"
+    ],
+    "page_ads": [
+      {
+        "id": "1434653841560907",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מתנה מושלמת שתישאר לנצח! 🎁",
+        "body": "יש מתנות שמפתיעות, ויש כאלה שנכנסות ישר ללב.\nהמארז שלנו נולד כדי לרגש. לא לרגע – לנצח.\n3 בלוקים מעץ, עם רגעים שלכם, עטופים כמו תכשיט.\n\n\"היא אמרה לי: זה הדבר הכי אישי שמישהו עשה בשבילי.\"\nוזה שווה הכל.\n\n✔️ בלוקים אישיים מעוצבים אחד-אחד\n✔️ ברקוד לשיר/הקלטה שתבחר\n✔️ עטיפה אלגנטית, פרחים, שרשרת מתנה\n✔️ משלוח אקסטרה מהיר\n✔️ מענה אנושי מהיר לכל שאלה\n✔️ תוצרת כחול-לבן – איכות ישראלית מהלב\n\n📦 שלח 3 תמונות – אנחנו נעטוף את זה ברגש\n📲 הזמן עכשיו >>",
+        "link_description": "משלוח מהיר עד הבית 🕒",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1766217600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/548186227_1162837208990996_2223253829380805533_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kyzi0tENxHcQ7kNvwG7lKd4&_nc_oc=Adry49wBPAlc114l1VvFQXkylrpYrl_RVrwF2ndDhWVIPv5tOiSKa7-XoaYvaVuwJw4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQIf9M78Ricutepl81-w9MBSzoU9cvJ3lWm5Ql63JLHxUw&oe=6ABE396F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOeIQQCqRLjzlPb2dyHz9IvoRoJYmCKuHqMicofUp6GkEPqsj8iNFJlZaYutgalvbnmE78_amTsct9B0kUxPbHEYq1koHzIIUJxOEeC_BkdUg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5Ds4wpZP-JoQ7kNvwH-GOPn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjU3ODc5NjU4NDg5NjIsImFzc2V0X2FnZV9kYXlzIjo2NTUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c0270d05d04ba2c1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjRDRjQ5RDI0Q0IyQjM0MURBOTE4QzQ5MjQ4MzhBRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJdXpBeHlidXZ1eTRRRUVBQm1zYmJIaGZqUWxidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaE9t_8vfn_AxUCKAJDMywXQC2IMSbpeNUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLbtx00KFlsfBmn_DUrOadife-5SWzS_qUweK0CfkeL9Q&oe=6ABE4715"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1434653841560907"
+      },
+      {
+        "id": "2316533438871630",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776927600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/679615214_2806290663084359_6220843226856885076_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9CGhnW84ntUQ7kNvwFvIKcT&_nc_oc=AdrvmG8wKAtc03Y_wz48W3vcSdoOPxsyeUU5CFbXl8gXDTA3tjwMg4VDxqnzOPF6Kd8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKaY4iplZ9IhnRp32K_w_6nlCWY0zbofst5FoIpCxuuiQ&oe=6ABE34B6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOu_0of0bMyisMvsfHWzI9FHfDAQeizulBUrX3WYhtmLPj8jxA7Tn-dZawSmbN5VXVuXrv9WsIw2D_X1hKSvs-5OGju6r5DDb3TIgnkIsBu8Q.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bXCYmf5i6gMQ7kNvwGF1FDj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjgyNjk5MDAwOTkyODU5OSwiYXNzZXRfYWdlX2RheXMiOjE1NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fafd502086eb9ae8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQzQ5QjE3ODdEMDY2RjI4MzI2RTFDREQ3MzVEQTBCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YzNDNBMjczQzhBNjFGRTQxRUYxNTQwNzQ2OEQ0NzlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaurrLck4n4AhUCKAJDMywXQEaAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQKEeJTRBh8_SC0FKlS0_TD98UHopLzM9Mf3LXgiWJpIuQ&oe=6ABE4281"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2316533438871630"
+      },
+      {
+        "id": "900942215606431",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1767945600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/611839220_1179181060868731_6513735899700941769_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jcBYyLScqSIQ7kNvwEeVYjD&_nc_oc=AdrxsN6E7TJjhe3WdsVbO7kCVIyUYtOJQLxFdJRnb2tp8_jL01QTInxJqOmVlert8Z8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKfLv9u_Q5KvbJF8UGPM4o-k8tPJBGruu8i9giGNMYc2A&oe=6ABE4F2E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOi2KsYZtgmmR_b0JsUX78ExGQQYUa6W2ziLbPJDEp6iPhTVrnoVXyqChHxd7tkDbmo9dFlBxd-Yyzbz8wz1QZ7clKVv6NwLZPrhM6eoh3srQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=cZj8GdmOCPgQ7kNvwGDpBrR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzODIyMjU2ODY5Mzc5MDgsImFzc2V0X2FnZV9kYXlzIjoyNjAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1322850a9dbb73e1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MDQ3QkJFNjFBRDFCQzYwN0E2NzcwMTA1MzZDRjRBNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU1NDYzMTk2NkE3Q0IzMTZGNkMwMzc5RjlEMjBBNEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbohI7xj8j0BBUCKAJDMywXQD5R64UeuFIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQJR6U6qZ5bvNhWkQZa7fR29wen6i-3KNxsV9sgYmoUY5A&oe=6ABE5127"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=900942215606431"
+      },
+      {
+        "id": "2499034953892686",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אני לא עוזבת את הדובי הזה 🥹 #מתנהמקורית #דובימדבר",
+        "link_description": "דובי אישי עם הקלטה – מתנה מרגשת ורומנטית עם מסר אישי מוקלט. לחצו על הדובי לשמוע את ההקלטה וליצור רגעים בלתי נשכחים. מושלם לזוגות, ימי נישואין וימי הולדת.",
+        "landing_url": "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717154704_1656901352304107_1605770661701816273_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xofRy1TaBz8Q7kNvwGhERbZ&_nc_oc=AdrhGSMmW4KNyvJEu14OYB7N8DQAXdqYI_Gas4oDTv4xEt3nS0gNTHoSy3TN_KPlQAU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLDw8FcsJnKRgN5T5V1P5Iie-iGOgrzYrzEGUnwm9pZSQ&oe=6ABE3E59",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOe61UW-CrY5dBOHqYrOFpOGB1bRZmUMyFc8jjtPltyEhCAJb_22-8IawY5HLKu-i_Kyl007ii5oC2hv20M85MmFHtN19uNy-pMPiY.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=tNNk2DGUMSIQ7kNvwGRwwgO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NDQwODkzNTY4NjAzMjExMywiYXNzZXRfYWdlX2RheXMiOjEyNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2cadd78b140f7b64&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNTRFQjdCNzdDQzZBRDcyRTREMjNCMDc3NDM5N0VBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I2NEI3NzkwRDc1QjYxRkJGNDk2QjMyNENCMEYyMDhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbiq7rW6vnUDxUCKAJDMywXQCJEGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQI9bgt-hUBB8SQ2V_MPnnsJBqm5jUvpJZWSeMfxtICFPg&oe=6ABA4D12"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717154704_1656901352304107_1605770661701816273_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xofRy1TaBz8Q7kNvwGhERbZ&_nc_oc=AdrhGSMmW4KNyvJEu14OYB7N8DQAXdqYI_Gas4oDTv4xEt3nS0gNTHoSy3TN_KPlQAU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLDw8FcsJnKRgN5T5V1P5Iie-iGOgrzYrzEGUnwm9pZSQ&oe=6ABE3E59",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQOe61UW-CrY5dBOHqYrOFpOGB1bRZmUMyFc8jjtPltyEhCAJb_22-8IawY5HLKu-i_Kyl007ii5oC2hv20M85MmFHtN19uNy-pMPiY.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=tNNk2DGUMSIQ7kNvwGRwwgO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NDQwODkzNTY4NjAzMjExMywiYXNzZXRfYWdlX2RheXMiOjEyNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2cadd78b140f7b64&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNTRFQjdCNzdDQzZBRDcyRTREMjNCMDc3NDM5N0VBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I2NEI3NzkwRDc1QjYxRkJGNDk2QjMyNENCMEYyMDhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbiq7rW6vnUDxUCKAJDMywXQCJEGJN0vGoYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQI9bgt-hUBB8SQ2V_MPnnsJBqm5jUvpJZWSeMfxtICFPg&oe=6ABA4D12"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2499034953892686"
+      },
+      {
+        "id": "1439031067713907",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775026800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658356302_1473505220836497_8593751853411576725_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i_H-eqYcDswQ7kNvwHX73_q&_nc_oc=AdremfS8yKEtIwbM7MREpnv1ZJGuP9AvSsRCwTx74mkZ-nzlwx4buA-7HoyUx0nylJM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKjwFXLlh4V78WVxPax0NZaDoNBTfsd8AZZHeKHkTLuXg&oe=6ABE5729",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNz1G6o2HbFeB6itD4CMxtw-h5YoB5hd07qnwyUbKG4ln8omRYBvbenCqlnBBCgtzOcIT5aV25ca30DUU5q6upz1w8K-XM-n0FQFL5NKZJ5rg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ymTXUAcbGAEQ7kNvwEtNPJj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNDQ5NjUxNzMwNjU0MDUsImFzc2V0X2FnZV9kYXlzIjoxNzksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=59f033cdffeedd63&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83OTQ1NTZEOTU2NkVCNTZDN0Y4NDM1MjIzRDM1OUM4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzExNDNFMzA4QkY1MTk0QjE4RkI4OUE1Mjc5Rjk5MTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb62r_r0fihBxUCKAJDMywXQDtVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQK8KvYpvx3s2gbQrkmUuByAY03Q5WSujK9cTpiR1W3c-w&oe=6ABE2BE5"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1439031067713907"
+      },
+      {
+        "id": "855999570494884",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1767081600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/607727826_1349160296953639_751131052347465661_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lSF_4IGbiUgQ7kNvwFtf8tU&_nc_oc=AdppdjgXlq5Z2TI7vJqhlD1Znzh0A2drfcvxTBC3aby4F5XxYSNUwjX56QrlL5stUyY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQJm2BLcxTG0RIpLoxSrq2WNx6q4umADp32wq3ppMAWnnA&oe=6ABE5C27",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMW0oazPpAQomRf-FK_82JZfPOm9_eCCEhRMrIMyoSnvOJprfoB6V7_YZt4zeahO1t7_aZvM933ZuvFgvgpt9pbHiJ-wH-7Gs2hL5PYoSZsJw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=qZMBjHUpWPMQ7kNvwHbW2bA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg0NTk0MDc5NDkzMjEwOCwiYXNzZXRfYWdlX2RheXMiOjI3MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a80b46c609dad22e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNTQyMjk4RTYxQjg4M0U0MkM0QUYyODcwMjUzODlCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwNEYxNDVDMUFGNTM4RjM5QjkyNjMxNDQxNUY4RDg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY7qmJntiAAxUCKAJDMywXQDTMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQK88f_aIJbJOe0b_ztbMKsH7EXyS9X2_KYnOcbQNBjDEA&oe=6ABE5D7C"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/608096993_2038770403573204_7023505719727104086_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CDCkfABKm2wQ7kNvwFQejio&_nc_oc=AdpYQqXnDCidV5jHgAlb9huyKLev6clP7_aM1iMeDP__RZzh9Yq3ilYFDTy5yRct-18&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLl7FM8sq0XtsNZFvx0BmhWdPSZFUumHQsb33AB2pXeyQ&oe=6ABE5770",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN1ycTv7Wi1bgess12NqYL9BpUP_TJabb_r7Qk3LPQ-bW1YcAKrrbolhhF8naLdCMjCKK9NwFo1Q2X_JASJknFxMqfpMELM1deTk5yNRicSNA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=eI7ewQeIN5cQ7kNvwGA76sE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxNDkwODQ0MDU2MjYwNjQsImFzc2V0X2FnZV9kYXlzIjoyNzAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=22b224eb963d0f65&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTQ5NjUwREU1OTczMjJEM0U0QzhFOTJCMkJGNTk4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I3NDk5NjA3MTg3NTgxMzMyQTEzMTI4MDBBMTZBQUI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag07fJlqXRBxUCKAJDMywXQDTMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQJUZp5LEzZxMyayR3Ll3W1I-ttHE6xJT6Kt9XJyBcS1fQ&oe=6ABE2FB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=855999570494884"
+      },
+      {
+        "id": "2129105401251265",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1767600000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/611166931_1191898795899660_3660236663655846281_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ZS00kI4Ks8Q7kNvwFlP8vi&_nc_oc=AdqnYh7aIA7v8eLxnZI3v8xeoQP6yYLBoo6vY2GkAdkbi887fJgj1tu4eADhlaYfVI8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKXr9drOpL_veC08VORzhBYQ8-encZmEIlxF2EZU6eHWg&oe=6ABE55F1",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOlweCnaV16YW-17EjcjrAsVuyMf3l2UkHUUxXRq8irhOXc_VFJ2Vu5JooEYOPWSj9x4bUxGbNDLuwUErzllJh0BrKZ7leNtcHdAzqEYq7qHw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=EEnVDbR-81MQ7kNvwFBevdV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc1NjQ1NTk4MDI1NTQxNywiYXNzZXRfYWdlX2RheXMiOjI2NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cb6ef1aebd857e34&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QTQzODJCODREOTk4RjEzNUYxMDA4Mjk1MDcwMjE4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MwNDU0NDZBMTI3Rjg4REM4RUQwQTZFMkZBRDFBMTkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbyou6fxP_XAhUCKAJDMywXQDSZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQJgQ9vX2aL__AdevnkBVflvWEB9GFsU0847FQ1Bt1WfVA&oe=6ABE42BF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2129105401251265"
+      },
+      {
+        "id": "1379698760274305",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "אני לא מפסיקה לבכות זה הדבר הכי חמוד בעולם #מתנהמקורית #דובימדבר #מתנה",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766724103_1576707690747868_8033674793719034846_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fJPEgzIEeRUQ7kNvwEuXnl2&_nc_oc=Adp410dpHgqNjHDGyT7FwVjUL7lfpK0EtrUek7I115KZKqB85DMmSiKNht-dPzh3hU4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQK9h3Qv6bXoc933ntb6YBKTy9L3gVMCdcHV5scPdo0peQ&oe=6ABE2FC9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNAmNn1tBs_b5rk2pNZuuDbTY7WEKDS9Xgad7FtcyLfu2CiF3DyyKjPBAk9QSclZ5-b-i5khQ9FnQN6yvw9_JnQI3PqrEC6l_I6fgJLPw.mp4?_nc_cat=104&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=11wZUW-bLt8Q7kNvwH5I53f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNjA4NTA0NTk0MjE4Mzg3LCJhc3NldF9hZ2VfZGF5cyI6NDksInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQL0nHMmA1Jl243M5e7QVq6Hn9lzyS2iB2eN44RkIXyG5Q&oe=6ABE5C4A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1379698760274305"
+      },
+      {
+        "id": "779495134824623",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1773039600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/649733279_4341546452752105_4256173816292834824_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iiZq-ZivK-EQ7kNvwHqvZJk&_nc_oc=Adrc4teDS2bn611jpqN9vzdMQyM_dcpyS179oSsC6RfJN9jMnoYdBnreBWYrjUtACmQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQJRWcHSzFV1Tl9wGLLfvPIT1QW6yQE0h_Iy0Gt9GWq5nQ&oe=6ABE3C96",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOOnqzK0uNTnib8dnwm3M_mJEOIcXMMzborW8QY6uQ-5O-EoxukZ-t4Mwajo0MaUSOg0N6hDtYfp1Ih5eDTLQyP7whUmElpWdg8KWu2kXzPpw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5ZGi-Q_cLKEQ7kNvwGunbJQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDYxMDM2MTA4Nzk2MzMsImFzc2V0X2FnZV9kYXlzIjoyMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6d7f6ea281a2c583&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTQ0OUE1M0M3MTA1QzE5NEI3NEFCRTREMzY1N0VCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4NENGRDg3MzQzRDkwNjJBOEZDNEEyMTlGNEFENTgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaiutGpgZiJBBUCKAJDMywXQCkhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLOYaBhhRuMc33-ySRHNWY9r7CYEOV5qii2XRj4P3pNyA&oe=6ABE56E0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=779495134824623"
+      },
+      {
+        "id": "1087753710482000",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1787036400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/778710822_1072298498669235_6657906752172032249_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Tdg1TeSWlsQ7kNvwGe6UHs&_nc_oc=AdrGA-3uIJF-c4IVK02rZNYOmRinHJidmzhnqWhtx2itZjRmGB3frnf-7z1fJEsxh5M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQI4OfqePmK6-yHNPiW2Vmtt6Bo6NqC06kde4BeVAf1AmQ&oe=6ABE36E4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPYCttYI7gVsSr6YXx-PVMYDOeX1gDONo8rmx37eHz7C5rZ2xFBLolW-zm2h2cDhejsSP2ebf2J-fVPgtRq8ofSVBe7peULMGVkAVE6Q3a7sA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=eGQHIlFnm9AQ7kNvwG6_5oN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MjAyNTIzMzkyNjkyNTQxLCJhc3NldF9hZ2VfZGF5cyI6MzksInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fe33883b5778b685&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRTQ3OTFDMzY3N0VGNUE1NjgyMDcwMzQxNzk1MURBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ4NDY3MzVDN0EyOUJERkVGM0VGRURBQzI3MkU2Q0I3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6xLrJ9YKZZBUCKAJDMywXQEZzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLtT14GLcHzwcnlaCqIXuNBwwp_6qob6llyAZgEXXzxPw&oe=6ABE3576"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1087753710482000"
+      },
+      {
+        "id": "987328317354292",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מתנה מושלמת שתישאר לנצח! 🎁",
+        "body": "לא צריך יום הולדת בשביל להפתיע אותה. דווקא המתנה שמגיעה ביום רגיל, סתם ככה, היא זאת שהיא לא תשכח.\n\nמארז אישי עם התמונות שלכם, דובי מוורדים ופרחים אמיתיים. ומאחור ברקוד קטן שהיא סורקת, והשיר שלכם מתחיל לנגן. הרגע שלכם, חי, בכל פעם מחדש.\n\nוזה לא נובל כמו זר פרחים, זה נשאר על המדף שלה ומזכיר לה כל יום כמה היא אהובה.\n\n🔥 מלאי מוגבל\n📦 משלוח עד הבית תוך 1 עד 3 ימי עסקים\n\nתפתיע אותה היום, בלי לחכות לסיבה 👇",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717215793_2105749183656090_3066478100886072731_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oFHm_SqVM2oQ7kNvwHHhh1J&_nc_oc=AdqTYUX2dRzgimzdzRfaMg4SWYGVcqqIxOaw_JzgyzNbySYijmFf6smDi0M3l0bsgdc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKojmLxAl_abL74QmO9th5O6s1LmMcmG8Fy6D-GWZ38iQ&oe=6ABE492B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMcIeirC-88mFOd_kOuKj03KeIYYGpQ6DGGkEGF_bTk-5ycIQPFqbsehXLpmR0OCaUbJZHbtWuQqjh6gg5wZhw1vtciixM-wG6oS_4QPHgMkA.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=kCnHqT9YEzMQ7kNvwH7yJcB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDI5MjE0NDQ3MDU1NTAsImFzc2V0X2FnZV9kYXlzIjoxMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2d369dd5de506e8e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTQyODYxQTlEMERDMTU3MDlGNUZGNDI0QThCNzdCN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzNDk4REQ5MUQ4OUUzM0YwQ0JEMUU4RjMyODU1NjkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaclL6r5N6HBBUCKAJDMywXQDXmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIIfKyXB-UUkwoJbIOnKjW1tYI_HOimdpunIgfY9Ww3xQ&oe=6ABE2A7C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=987328317354292"
+      },
+      {
+        "id": "27540957615501183",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\nהמארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ ברקוד לשיר שלכם / הקלטה קולית\n✅ אריזת יוקרה + פרחים - תיתן ישר\n✅ משלוח מהיר לכל הארץ\n\n👉 להזמנה לחץ כאן",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779433200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/703502909_1728700604788321_1321248198924976471_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nl_fLoGm7Y8Q7kNvwG8JMJT&_nc_oc=Adq9_HLf3tdzqokY8CgUv9wFJNfqkfJ_laWtA2PjIytyndItZtOY4l8wQvqPrXWAOfA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLoQiLd4iaVVvSE1bIT1eVibRtcFbXW2hd-3RFNgZJv3Q&oe=6ABE5376",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOU1L5VL7AhZuaQQGLBUxMaDmpmgJo3AZYkTPbPlwG-y0i6T4zu9760-V2NGVWHX94_ro4C3cWZuW3S52Qk4EcehNB-TcagEpLc5fqY7_Kt8A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=fIzg8ZFX76QQ7kNvwGxji4h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTM4MjI1MTkxNzEzMzYsImFzc2V0X2FnZV9kYXlzIjoxMjcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2af4b24760c146d5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTQyRjJEQTlERkNCQzM3NjJGRjAxMzQzMENCQzBCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJGNEU3NURENzFERDlCMzMzMTIzNjhDOTRFQTM0M0IyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQ5JSCk-v5BBUCKAJDMywXQEyu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIE2djZxcueG_sKCRkiC8xLey_ZzQKhjhyNPXYdlpKp4Q&oe=6ABE559E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27540957615501183"
+      },
+      {
+        "id": "1487422262770848",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775804400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/669999996_1927914424762391_1134449511183922665_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J7NhFRpOZ4AQ7kNvwEqd8Gw&_nc_oc=Adql37isqG66NNhlozX30FpIEDgVX0I39KNJMQ1ixhC5JXGEpO_DDfnpF4VF1y4XLd8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLabHu97paZ1OrwQ4UR1V08LjBei3iYKvjNn8r5THG17g&oe=6ABE3875",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNtc2NK30WQEkcPLYiH_8Q95hckVt2bnGc5LZQ86o_8nEMIw9LeriH4qOyhtrc_hatLFk185S-vjOugugHFct6a-Pvp52jkOltaZvampo8Exg.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=eqVjbc_chRwQ7kNvwHQ8sST&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1ODU0ODUwMDIxMzY0MSwiYXNzZXRfYWdlX2RheXMiOjE2OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f2fa1cf20108385a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMTRBNzY1QTJGRkE2Qjc1RjI4Q0Y5MjFFM0RERDRCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJENEYzQzREMkRGMDZENDA4MzFDNzIyMDdFREY1MkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaSvtft7vKzAxUCKAJDMywXQCxEm6XjU_gYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQJ8smOVVSB87JNu9YJdlBy1ZpeAiSH0GNeOy791uDppoA&oe=6ABE4473"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1487422262770848"
+      },
+      {
+        "id": "985766610998566",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776409200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/673349268_825761553329104_6329303150671966853_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CrntW13PYxMQ7kNvwH6U2uM&_nc_oc=AdrBD5fLhv1MV2u-meo73DZL2uSfFL5BjD45or25Lx3Ih6AQLyTJAbzcYptDO3ZOR1o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQIWKX3SgdXvKqh4E9cHF6am2YCprWK7BPKQCYTHWB0NJg&oe=6ABE5DC7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO5kdWEWDJKCR3GuBUtDLzdbADGbTmsf3bxiKfsau_0Gn64oZFTL3MGjbKcBBq8JSiZw3xDCJndlyO9tdrJ7mVm6hbRRICc-3It2-9i3qV6Jg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9c_LDQcIbooQ7kNvwF-slO1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDIyODA4MTc5MDIxNDEsImFzc2V0X2FnZV9kYXlzIjoxNjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=35584810412c9631&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTQ3MDg2NkMwN0M4MDg4OTBDOEYyODBGMDMwRTRBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y1NDBBMTYwN0U3NTIwRDFGNjAyMzdERDc4MDZGQTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6iNzEx6y9BRUCKAJDMywXQDa7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLxusKRRJisPIbI0Re5d_9TpNS61P5-xukITweYaCSUkQ&oe=6ABE499D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=985766610998566"
+      },
+      {
+        "id": "2013220986262413",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776409200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671830149_1501729518333598_8680966843415314865_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BOQutGDtWTQQ7kNvwH8OK9r&_nc_oc=AdrfYQMdjnfjekCIUutjKphaSBjGHa39P4I-OY-eUJkAkSZyUp7eMwCOlSj0euFAf9o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKEdopJ75--NkuBpiCOI6KNlWxu__bf7bza4ZRK_Bcs8w&oe=6ABE5D77",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM2niaxTIG8I4plOLCWeGlY9ZlG--U1acKr5gdL7xmWaI5kdhCd_sX0nyoL122XjgACxCdBU7Pk45rf5yw9ASLBWyzGka3Ed9hbCWeRS95I9w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=VtQM76jLdoEQ7kNvwFETC7R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNjg2MzQ3MDgxNzU5MzcsImFzc2V0X2FnZV9kYXlzIjoxNjIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=82d63eca69819e00&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NjQ0MkM5NDc0MEM3MjRCRDUxOUM5MDJGNjJDREQ5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFBNEM1NEE1NzhGRDMzRjNBODQ5MUI5NjZCRkQ5MTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCsYuSofTABBUCKAJDMywXQDVMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIv1DM9xm8sxNgBlCWcYqLDeGx74WqbQt7EJc2x3tRcvw&oe=6ABE5ED8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2013220986262413"
+      },
+      {
+        "id": "1490584088695468",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מארז אהבה אישי – המתנה הכי מרגשת שתקנה השנה ❤️",
+        "body": "יש מתנות יפות.\nויש מתנות שנכנסות ללב ❤️\n\nמארז האהבה הוא דרך אחרת להגיד \"אני אוהב אותך\" –\nעם התמונות שלכם, השיר שלכם, והרגעים שלכם – בעיצוב יוקרתי ומלא רגש.\n\n✨ מה תקבלו במארז:\n\n3 בלוקים אישיים מעץ איכותי עם התמונות והכיתובים שלכם\n\nפרחים מיובשים אמיתיים ואריזה יוקרתית בצלופן\n\nאפשרות להוסיף שיר אהוב עם ברקוד סריקה\n\n🎁 שרשרת “I LOVE YOU” במתנה – שבתוכה מסתתר \"אני אוהב אותך\" במאה שפות\n\nמשלוח מהיר מהארץ (תוך יומיים–חמישה ימים בלבד!)\n\nאלפי זוגות כבר גילו את המתנה שגורמת לאושר אמיתי\nוהתגובות? “וואו, היא פשוט בכתה מהתרגשות 😍”\n\nאם אתה מחפש מתנה עם משמעות,\nכזאת שתגרום לה להבין כמה היא חשובה לך –\nזה בדיוק זה.\n\n💌 הזמן עכשיו >> ותן לאהבה שלך להיראות כמו שהיא מרגישה.",
+        "link_description": "תמונות שלכם, שיר אהוב ושרשרת מתנה – הכל באריזה יוקרתית אחת.",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1766217600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/565310871_1790300244955013_6120093775432946166_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d5VwlavYM9oQ7kNvwGA_ucM&_nc_oc=Adq_p-v2IM3Yf8zPQJcxkWgwI5HTYlPKBCfh1OAiSar1Vr-Q0ODHwi_FiFkvOMBU7s8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKP8R7DrBvse-vgRIxlPAFArTXC3PF-KaWpqpkcZX-DUQ&oe=6ABE424C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMXLhKgYTmSJHag-11QWM7Jz-OZVeMBnds05mfMaMJs0L8tE-pV5of-8uI3O1QHv-tdNwghlUGBYhBh5flEv0NNr_Xu8UYNq1n1PYZVmGg5hQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=34M0tWrLt0AQ7kNvwE-HPKm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDkxNDM4OTMzODQ3OTYsImFzc2V0X2FnZV9kYXlzIjozNDAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=94418f691b9df471&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MDQ2NEUzMEI5ODQ4MjZERjZBQzk3RkVDNTBCQUQ4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U0NDE0ODY5MEJENDA0OTVFRTVCOEZBMkI1NkZERjkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4-fyY_ciKBBUCKAJDMywXQD5u2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQJMrqVxDGYMxVYnVctm0MgJrZhkEtI16t5MzJEeqIK0DA&oe=6ABE33E4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1490584088695468"
+      },
+      {
+        "id": "2473830299734425",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מתנה מושלמת שתישאר לנצח! 🎁",
+        "body": "לא צריך יום הולדת בשביל להפתיע אותה. דווקא המתנה שמגיעה ביום רגיל, סתם ככה, היא זאת שהיא לא תשכח.\n\nמארז אישי עם התמונות שלכם, דובי מוורדים ופרחים אמיתיים. ומאחור ברקוד קטן שהיא סורקת, והשיר שלכם מתחיל לנגן. הרגע שלכם, חי, בכל פעם מחדש.\n\nוזה לא נובל כמו זר פרחים, זה נשאר על המדף שלה ומזכיר לה כל יום כמה היא אהובה.\n\n🔥 מלאי מוגבל\n📦 משלוח עד הבית תוך 1 עד 3 ימי עסקים\n\nתפתיע אותה היום, בלי לחכות לסיבה 👇",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780556400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/715516646_2466341793837092_3997340056422321208_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F_UTjwzdfCcQ7kNvwG23wJy&_nc_oc=AdpGWh3WHHtJhmC-B9yz1iq0-5j8zdmipmRkae7RVQdFHECGtRHrJaRnxwBW3VpW1m0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQIAhWuIGya0rNhPof-TFQvQdcXoLZL8we0CTIVlgNtGrw&oe=6ABE5880",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNgmhh-HR5hit5CqWaYg2Y93oYI8qSr7d6qs6Y8LKK3Lwak-0WWCPiMTR3flq3y757SmIeUjnaQ9e3UAhNSX8JwCFyGoOa8VFxLporKyoTrnQ.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=X71VVncPGWwQ7kNvwHHfrby&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3NTk0MTYwNTI4MTMwOCwiYXNzZXRfYWdlX2RheXMiOjExNSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e3c5285b7d39d115&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzQxOEQxNzk2MDFEM0Y5NDdFOEExNTBDODM5NEU5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAzNDM1M0EwODBDMDgyMEI4QjYzQzhENjlENkRBMDlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4uKLLo-e7AxUCKAJDMywXQFBkOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLzITd392fZMuiLRx6LIfD0MTzlljipV_soHhmK9enUnQ&oe=6ABE29D7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2473830299734425"
+      },
+      {
+        "id": "1452498579946290",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1774940400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/660132270_1486676399717176_8064190293320184231_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aNHsYGlQz9oQ7kNvwGFQpd6&_nc_oc=AdpiBJYq1r8zZo2Z20ok-qScGdoD8IremP9IZPd9fBkr7DHhr9UHz-YnwKMMaFHX47g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQK9zuqX3CIBc5zYXjjnuQqn0sqJI3JGDFcJ5jwq0J1ZhQ&oe=6ABE3953",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLZXRMqZTIGkgQ534C-QHGOJ7_-omaSeDYp3yzbFqhbHTUKCkX-hU4dJ6gABgdZvj7RH272ucbfgh92UxeKM-MmCRsbxTzmYSa6zL-H9J8Cg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=in1BRf7XXoAQ7kNvwEaK-IK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4MTQ5OTQzOTg4NTUzMDQsImFzc2V0X2FnZV9kYXlzIjoxNzksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=63fd9ed45ed8e647&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNzQ3NThCRkRGNjRDRTgwNEQ5RDEwNkRBRTU3MkNBNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JCNDUxMTY1ODVGMDEzNzY2MjdEMDQxODNEOTEyN0JBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQgoLTno6AChUCKAJDMywXQDtVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIDelXXuwTBGNz-gGCOmiWPLua0I1UJgH4xUpytrD13PQ&oe=6ABE5665"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1452498579946290"
+      },
+      {
+        "id": "2456575934800373",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1774940400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/657589104_1408639601278393_779070401874260227_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lA7eXvjmun8Q7kNvwEgK-Ch&_nc_oc=AdrRNPLuHivjgEh8penA3adx0NtKboNPWP-c_3QC5Of2C8eE7EAeC9HIHpesGVKgT3U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLGY9nbYDC58gIvjbBRbUU_5qGUBWm59q7cEV2ecqe_Xg&oe=6ABE609E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOqxPYw4ahaEjUpCD5ZqyyxFO7H6QOT7xCQRinBP2lpccHfSOdwOc49G3kPc5Ba6Jv9QqBH2jSjLb3QypyVR8amEEnS5NZBuyu8l0XEfg4jYA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=qWMvw6KoDOEQ7kNvwHV82N-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3Mzc0MTI1ODU1Njk1MCwiYXNzZXRfYWdlX2RheXMiOjE3OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=17c05c51dd56a924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQzMDM5MUI3NURFNUE0REI0N0FDNTgyQzZGOEVBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDRGNjI3OTg0RkRBMTE4OUQ5MzYxMUZDRERBOEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasmI7dmee6AxUCKAJDMywXQDbMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQK6mFbXU9YYUPlKNJ3KW54gZpT8bURNz6EnTNHdql2E0w&oe=6ABE5F11"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/658908979_742801445466014_6403758458841524910_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HQKzgdpbUhQQ7kNvwGF3zjW&_nc_oc=AdrWIWfhP1-RLarw7c_-sVMoPHNtGwbrMtoWXh2VJWbBlKIaotfZ7uaTrx2GwPaXtrk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKBEVeI3l6QHpLNu3ygk4aHn-L3AlZ-GuPGhDTzwfeZTw&oe=6ABE4129",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOqxPYw4ahaEjUpCD5ZqyyxFO7H6QOT7xCQRinBP2lpccHfSOdwOc49G3kPc5Ba6Jv9QqBH2jSjLb3QypyVR8amEEnS5NZBuyu8l0XEfg4jYA.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=qWMvw6KoDOEQ7kNvwHV82N-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3Mzc0MTI1ODU1Njk1MCwiYXNzZXRfYWdlX2RheXMiOjE3OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=17c05c51dd56a924&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQzMDM5MUI3NURFNUE0REI0N0FDNTgyQzZGOEVBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAwNDRGNjI3OTg0RkRBMTE4OUQ5MzYxMUZDRERBOEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasmI7dmee6AxUCKAJDMywXQDbMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQK6mFbXU9YYUPlKNJ3KW54gZpT8bURNz6EnTNHdql2E0w&oe=6ABE5F11"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2456575934800373"
+      },
+      {
+        "id": "2073412156812112",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 \"לא צפיתי בחיים שהוא יביא לי את זה ?\"\nהיא אמרה את זה כשהיא בכתה על המארז.\nזה מה שקורה כשאתה נותן מתנה שמראה כמה השקעת בה 💎\n\n🎁 המארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעוצבים מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה להענקה + פרחים מיובשים\n✅ 📱 תצוגה מקדימה בוואטסאפ - מאשרים שיצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה המתנה המושלמת?\n✨ נראה כאילו השקעת שעות (גם אם לא)\n💎 ייחודי רק לכם - התמונות והמסר שלכם\n🏆 יוצר את רגע הדמעות שהיא תספר עליו לכולם\n\n👉 לחצו כאן להזמנה → https://angelsbrick.co.il/product/i-love-you/\n⏰ הזמינו עכשיו - 83% סיכוי שיגיע מחר!",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1766908800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/605470005_896497532870383_4918212413049786503_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wMpCkNGh-cEQ7kNvwGYOdMF&_nc_oc=Ador7Clfni5OeAPhWNozJbPmsGM5yGvU-hefbU0-z_73I0W1gHEreJdEQPfBR0ysZjk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLQ5KZowYUzw_wQvTphY6Vm5MVw3Yk47z3S2ukeBsmR8w&oe=6ABE6016",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMYBISXwYK7yDLBgfXXEsQdDWYepfVNvdJ0laIKpMbf7-hwS9EDQT471Pt4q8CAa0gbpT2OWyj2XzbGQ0EB1ZYsv6Lptq0d5hmd26Efuiq5rw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=WauhOast9ocQ7kNvwHy7H6O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNDI4MjQ5NzQzNTk4MjksImFzc2V0X2FnZV9kYXlzIjoyNzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9671a17b9f539feb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RTREQkIzMjNDNTYxREE0QjAxRENBNTdBNDFCNjc5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNEQwOEI0Nzc4QTc5QkJEMUI0QTREOEE0ODlDNkE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq9OrR95W1BBUCKAJDMywXQDLVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIFgWZgsDdw8MfaJnGadnCcLICFv5j0ceXNppelNgoPlg&oe=6ABE5D14"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2073412156812112"
+      },
+      {
+        "id": "1197806355749832",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1769068800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/619995499_863051966538115_4867827617470187221_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i27s23Zao1YQ7kNvwG0k26G&_nc_oc=AdpG5UsCNZKtOgH8qK8_uxecvF5zYSxVGJrXsWxqqkl9D5Cpl66tSI_MCD93d2rH498&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKoenFUjFISlWq4m-jWq0jbwV4f4hLDeslTCTE_Ch1HXQ&oe=6ABE333D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOVIWAltYpEGisSN8PRiqhuDQDeo_ZlZc5IPqwqUYRTG0_7qv9eb9ySnrhNbOx5YhMkfHjeEYNSmp_TkwJXimoQ1_XZiKwDPV0ng-EBbdMNuw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=p6Jst1phLtwQ7kNvwFrRcbg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MDU1MjQyMjY1ODQyNzksImFzc2V0X2FnZV9kYXlzIjoyNDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=70c60ad677296879&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RDQ1QUYxMDlFRDMwN0JGQjgxNTc5RDIwRURGNTI5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U3NDcyRkI5RDFERTUwNDc3OTcxMTgwQkI2ODYyNUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauu7GQ-PPFCBUCKAJDMywXQCzMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIdXkhFLpj6iThzcaefIPOCbnblVd6Ax24XhicYV60HRA&oe=6ABE5D78"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1197806355749832"
+      },
+      {
+        "id": "834066009625924",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 \"לא צפיתי בחיים שהוא יביא לי את זה ?\"\nהיא אמרה את זה כשהיא בכתה על המארז.\nזה מה שקורה כשאתה נותן מתנה שמראה כמה השקעת בה 💎\n\n🎁 המארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעוצבים מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה להענקה + פרחים מיובשים\n✅ 📱 תצוגה מקדימה בוואטסאפ - מאשרים שיצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה המתנה המושלמת?\n✨ נראה כאילו השקעת שעות (גם אם לא)\n💎 ייחודי רק לכם - התמונות והמסר שלכם\n🏆 יוצר את רגע הדמעות שהיא תספר עליו לכולם\n\n👉 לחצו כאן להזמנה → https://angelsbrick.co.il/product/i-love-you/\n⏰ הזמינו עכשיו - 83% סיכוי שיגיע מחר!",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1766908800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/601824845_1704348050522833_5734268359780863456_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-3tZu5TlZ4Q7kNvwG3Mt9f&_nc_oc=Adqa2M-iGP4rozK0haXk--YDyv2-ob8ICw-CATGiev0tLgYsLPFTzod2noZbLSoe5dI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQKb3290LUHNRkMEqRMhA_3ZZdqF7VjzaDQ93z0S5l6Glw&oe=6ABE2ACE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMJNSEEp2i4xLIdJ7eNTWZMJ-QmGfXAcwsKfdfENKP2UYBGmzN5UUFM8b3uy_K_h9Q_69KcPT9SFNjZEuYDCyIzNZCON9dxeXDnO2Io9en7zg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=l8Ox44EJtqgQ7kNvwFvw3ba&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNjM5MDAwNjE5NDQ4ODAsImFzc2V0X2FnZV9kYXlzIjoyNzIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c9bfd673955f1469&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMDQxQzcwMEQ2Mzg3OTQ3MjQyMDIyNzFBREFEMTRCRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0NEYwNEMwQjY4RDY1NTEwMzRCNzk0Q0U3QzIwQTgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgsJyrt53sBBUCKAJDMywXQDOWBBiTdLwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQL-AHTaqJRfE_XNcCuLD5SX5YPW0ZcO7vPiTvzCXTf6IA&oe=6ABE5886"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=834066009625924"
+      },
+      {
+        "id": "5252114421680750",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "המתנה הכי מרגשת שתיתן אי פעם 🎁🔥",
+        "body": "מכיר את זה שאתה קונה לה מתנה ליום הולדת או יום נישואין, וכשהיא פותחת אתה מיד מרגיש שבחרת לא נכון?\nעוד זר פרחים שהיא כבר רגילה לקבל, או בושם שהיא מחייכת באילוץ כשהיא מקבלת אותו.\n\nהפעם תדמיין אחרת:\nהיא פותחת קופסה, מוציאה 3 בלוקים מעץ איכותי,\nועל כל בלוק תמונה שלכם ומשפט קצר מהלב – משהו אישי, שהיא תרגיש שחשבת עליו במיוחד בשבילה.\n\nאבל זה לא הכל – בכל בלוק יש ברקוד קטן,\nוכשהיא סורקת אותו, מתנגן השיר שלכם.\nהשיר שמחזיר אותה לרגע הכי יפה שלכם, שמזכיר לה בדיוק למה היא התאהבה בך.\n\nהפעם, במקום להרגיש לחוץ אם תצליח לרגש או לא, אתה יכול להיות רגוע.\nהחיוך שלה כשהיא תסרוק את הברקוד יהיה שווה הכל.\n\n✅ למה זה עובד כל כך טוב?\n🇮🇱 מיוצר בישראל בעיצוב אישי\n🚚 משלוח אקסטרה מהיר תוך 3 ימים\n🎶 כולל ברקוד עם שיר או מסר אישי\n🎁 ארוז ומוכן להענקה\n💬 אלפי לקוחות אומרים שזה הדבר הכי מרגש שנתנו אי פעם",
+        "link_description": "🚚 משלוחים אקסטרה מהירים",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1766217600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/508829028_1287115196176791_9218357654211042285_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iaxRuM-CzE0Q7kNvwGb51-v&_nc_oc=AdoXxxDckE5alNcC6UlhWcoiPysEJH0blT_LMj5XG3Sj3myKLApFryaxCA9CRvEjjlo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLTDZgsIEyswz1Vt40OYUQsLm5l8rHRsl11JVE4xQLUHg&oe=6ABE5DF6",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOvyrW0JAm6EN9l8ZQOOzyhEr9WlbigxBAvg1MekBkDxgCZrfZQCzsB7cdM0v6zjLIRsKuK_tYSLnoKJFyxq8PDuNsAuMplt2U_k86AEOxGow.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=ryAbnMU5z_AQ7kNvwHg0-kN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MTY2MjAxMDU1ODkzNjgsImFzc2V0X2FnZV9kYXlzIjo0NjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8efb72796fcdff81&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTQ5NjMxREIzQjQ2OTYxODcwMENFOUY4NjI3NDU5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dObm9UeDZ3enVJMnZ0Y0VBTWRKYks4cGpXb19idjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwia_Bmo26BhUCKAJDMywXQEL7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQLToedePzl6mwFg7mYLsjkJn141WVCJJnQCX5WcubmaqQ&oe=6ABE2E89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=5252114421680750"
+      },
+      {
+        "id": "2233614580376795",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "מתנה מושלמת שתישאר לנצח! 🎁",
+        "body": "לא צריך יום הולדת בשביל להפתיע אותה. דווקא המתנה שמגיעה ביום רגיל, סתם ככה, היא זאת שהיא לא תשכח.\n\nמארז אישי עם התמונות שלכם, דובי מוורדים ופרחים אמיתיים. ומאחור ברקוד קטן שהיא סורקת, והשיר שלכם מתחיל לנגן. הרגע שלכם, חי, בכל פעם מחדש.\n\nוזה לא נובל כמו זר פרחים, זה נשאר על המדף שלה ומזכיר לה כל יום כמה היא אהובה.\n\n🔥 מלאי מוגבל\n📦 משלוח עד הבית תוך 1 עד 3 ימי עסקים\n\nתפתיע אותה היום, בלי לחכות לסיבה 👇",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/715398465_2416284782185120_2211597244926709364_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MpwPbyCFqyUQ7kNvwEocAZd&_nc_oc=AdovSefzuReJbVCn3BoNspvgdd_GLYOXASIGkrwEdrro6Ypn13vGmOuT_knmr-1LVfg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQIXoXpw4xur-XKoeuVMuEa5xawWJAv1TOEd0n5ktNuoTA&oe=6ABE5F49",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMG1Nwo-aNDpffRpTSw0HwH5x2Q9CM9ymjYu1Zw2rSTXydF8gxkPY6YhA8GRxEpXj6OKnE2yyAjY7rkRlsMek5h9uR081iMHE5r5VNssXvadw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=h1028JZDocAQ7kNvwHnO5hj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NDUxMzA4OTcxNzM1MjUsImFzc2V0X2FnZV9kYXlzIjoxMTMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2e6ae102a661d444&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQTQ0MTg4QzQ1Q0ZGOTFDMkY0Njg0QjA0NjlBN0E5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBFNDIyNzdGQTI4ODQ0MzE5MTBCN0NCNTVCMkQzODhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaqsI-kutK-BRUCKAJDMywXQE4MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIWz-ZZIfBcxFZMcgWf_ympcH5tBsfUHcXaPQalS_Co0A&oe=6ABE45A7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2233614580376795"
+      },
+      {
+        "id": "1348217080478828",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "כל גבר אומר \"אני אוהב אותך\".\nרק חלק מראים. 💔\n\nיש לך 3 דקות להפוך את עצמך לחלק הזה.\n\n⭐ 4.9 | 2,847 לקוחות מרוצים\n\n🎁 המארז \"אני אוהב אותך\":\n\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 הקלטה קולית שלך - היא תשמע אותך\n   אומר \"אני אוהב אותך\" בכל סריקה\n✅ 💝 אריזת יוקרה + פרחים מיובשים\n✅ 📱 תצוגה מקדימה בוואטסאפ לפני ייצור\n✅ 🚚 83% מקבלים תוך יומיים\n\nזה לא עוד \"פרחים ביום שישי\".\nזה הזיכרון שתיצרו ביחד.\n\n👉 צור את הסט שלכם תוך 3 דקות:\nhttps://angelsbrick.co.il/product/i-love-you/\n\nתראה לה. 💝",
+        "link_description": "מארז מיוחד הכולל שלושה בלוקי עץ 10X15ס\"מ, עטופים בצלופן עם פרחים, דובון ורדים ושרשרת עם תליון המציג \"אני אוהב אותך\" במאה שפות שונות. מתנה מושלמת עם מסר אישי",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/692816456_947554597910077_8276839489393820062_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p3qlihwWIhAQ7kNvwGMRH_O&_nc_oc=AdopZPYe5hSHS8F0wR-U4lBjvKiNKR13TOI3PdLVxbmd4DgN8boIV2rOFv3VTIkqhBQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLjK471IiVGUSz2EsisesHHX8DO-35-2GoGVf2hoMeAow&oe=6ABE4A9F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1348217080478828"
+      },
+      {
+        "id": "1534687302003650",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "המתנה שתגרום לה להתאהב מחדש 💝",
+        "body": "לא צריך יום הולדת בשביל להפתיע אותה. דווקא המתנה שמגיעה ביום רגיל, סתם ככה, היא זאת שהיא לא תשכח.\n\nמארז אישי עם התמונות שלכם, דובי מוורדים ופרחים אמיתיים. ומאחור ברקוד קטן שהיא סורקת, והשיר שלכם מתחיל לנגן. הרגע שלכם, חי, בכל פעם מחדש.\n\nוזה לא נובל כמו זר פרחים, זה נשאר על המדף שלה ומזכיר לה כל יום כמה היא אהובה.\n\n🔥 מלאי מוגבל\n📦 משלוח עד הבית תוך 1 עד 3 ימי עסקים\n\nתפתיע אותה היום, בלי לחכות לסיבה 👇",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "ORDER_NOW",
+        "cta_text": "הזמן עכשיו",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786172400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/766762707_1084204267605708_612235416660786750_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZD5yr-eqIzcQ7kNvwFi_7Rt&_nc_oc=AdqUuuH1NBclhD9J-epnW5m8C97tijz4NUkteuxmbLtrgHzHOEnqKvgvMlMnblZeJHg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQJ1u7pPIQGqqJzxfCEMB2SqeCvdQ5rRz-nRFaVwoQJpww&oe=6ABE429A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNPXcbGhFR4Pfq4EL-ZIaY9bbLBhYb8BTwzMwmW3-7LomAQEEECJK2wLoPDahjORFokQzJm2q2ukUVvRN660Hai7PKYIPS3av4TXEiM3rQP3g.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=vm2nuWA0mN8Q7kNvwEtKm52&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIxMDgwMjg0NjY4MTYyOTEsImFzc2V0X2FnZV9kYXlzIjo0OSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f9573e55cb8e2a79&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81OTQ5Qzg1MDc4RTY1M0EzNkE0Q0FFNjI3NzhFNkVCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IyNDMxQUQ1MjEwMDM3MUIyQkYzMTQ3NTM3QTM4MTk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGlIf_s8--BxUCKAJDMywXQEE3bItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQI7cDY2Au-6lAFd5VsRP1mSKBUKLFmPzyqS8Gi1iRFH7g&oe=6ABE4F63"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1534687302003650"
+      },
+      {
+        "id": "1239403648356204",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1775804400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/669071808_26779234991670325_3484323658794660317_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHgZkXpxEJkQ7kNvwGsg8zZ&_nc_oc=AdojoIM-dhHiNQQA67vvfRnCBW4hFp7MywLCwZosAsBv9jrK3S0aZzGYwmDV31MW1aI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQL7EgGYEopa6vb86bFgJ6SP4WDSXJuaVS0WQo_rcX0KWQ&oe=6ABE436B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOl26JvArbosfA-0eiUgXwPAhppxKhckh2THuybKrF-sMZR3jNocuQT6JD3ck1YcXOQzc0qjgsI12EhUP26WumfmHGnmIQxben2Aw27lOeAYQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oqIHxiWbL3IQ7kNvwHdq0Lx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDU0ODcwNzgxMTEyNTksImFzc2V0X2FnZV9kYXlzIjoxNjksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fb158a19e4565faf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRCNTE3Mzk2MkNENTM3QUVDNkU4OTJBMzQzMTdBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg3NDgxNDU0RUYwMkIyM0Y1Qjg0RDBCMUFEQUIzOUFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa24OXYrNXRBBUCKAJDMywXQCxEm6XjU_gYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQKrPYeuIPXDXQ853oUpHkGYJmx0UNH97YjoPVtAsc5n2Q&oe=6ABE405C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1239403648356204"
+      },
+      {
+        "id": "932331615936684",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1773039600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/649300804_804196229376289_6128598297068269839_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mMj-_rLu6ZIQ7kNvwG9_9lu&_nc_oc=AdrNiUpkN2imh8Stg4id49kRlvg-kL3Wae4S8GAdk0Pfy6sSf__QojJc1fmxs0htJ3s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQLnER2q01vfnXbNIzCwZ_dwD4pxnswpBfEdC0K4Ka90Zw&oe=6ABE35C5",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPhQEMby71b5TZziGHQVGzFCiCjwWxtRsLTU9tVbMpaOFRifC9ECqhHkYW3VejKQPb6ww0GzLktn7uj3j1HSah2i7r8kOab2Dj34oDDPwIedg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=K51AKomAyIcQ7kNvwGSR6FQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDY5NDg4MjYzMjk4NzYsImFzc2V0X2FnZV9kYXlzIjoyMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d43755f0995215c2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RDRBRTEzOEI4RUNFMEYwNUM3QTlGMzE4QUUxNkY5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkzNDJFNzc1RUY3MEI0RUJBQTFGMDE0QzBDMEEyRUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaozI38hPnsBRUCKAJDMywXQCkhysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIo7-x6KLsID7NIjKUTlyEvQyKJPiv5U1VSvFg2G4HMeg&oe=6ABE2DB4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=932331615936684"
+      },
+      {
+        "id": "1391127256297615",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\nהמארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ ברקוד לשיר שלכם / הקלטה קולית\n✅ אריזת יוקרה + פרחים - תיתן ישר\n✅ משלוח מהיר לכל הארץ\n\n👉 להזמנה לחץ כאן",
+        "link_description": "",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773544658_2196859404502722_6620826448634744293_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0OBgO9gJmOwQ7kNvwErehyV&_nc_oc=AdrRPBbIyUwLnGCZHmv_pYz_16MUDiRuFSNKh3hCSvKQ7p-pWSD7zB0iJCPqP29thP8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQK8hajlhyHmG0bJnYS7YIatU02LziJvZe8iFNNWsNCpvQ&oe=6ABE33FA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPu6Mypj3PqcSGiKt7UEu93P5a9laJ8simmAtjIvY7DeLDxTVzENglN2MnhWDGfh8fd4qz6-QLbCbi94sq8bqvdv2FNSNtH-VeEXLXh5uhgYg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=OMNQbmB4M04Q7kNvwGaNobp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzEzNzg5ODg3NTY5MTgsImFzc2V0X2FnZV9kYXlzIjo0NCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6fe32a2062d3298b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRjRDMkZENkNFMTQ2NUREM0EzOEZENjIyNkM2QzZCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcyNDhCMUVGMTlBOUYwOUE4MDgxOUE4QTVGMERCRkE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbsvtvAu5rnAxUCKAJDMywXQEzVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&_nc_zt=28&oh=00_AQIWDdWHtZn15t2SuI6Jml5YoFVkeapmv3cSzKgv9p9tSA&oe=6ABE4045"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1391127256297615"
+      },
+      {
+        "id": "1316831890414209",
+        "page_id": "224372197422128",
+        "page_name": "אנגלס בריק - מתנות בעיצוב אישי",
+        "page_url": "https://www.facebook.com/angelsbrick/",
+        "page_like_count": 145,
+        "page_categories": [
+          "Product/service"
+        ],
+        "ad_creative_link_title": "😭 המתנה שתגרום לה לבכות (מהסוג הטוב)",
+        "body": "כל גבר אומר \"אני אוהב אותך\".\nרק חלק מראים. 💔\n\nיש לך 3 דקות להפוך את עצמך לחלק הזה.\n\n⭐ 4.9 | 2,847 לקוחות מרוצים\n\n🎁 המארז \"אני אוהב אותך\":\n\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 הקלטה קולית שלך - היא תשמע אותך\n   אומר \"אני אוהב אותך\" בכל סריקה\n✅ 💝 אריזת יוקרה + פרחים מיובשים\n✅ 📱 תצוגה מקדימה בוואטסאפ לפני ייצור\n✅ 🚚 83% מקבלים תוך יומיים\n\nזה לא עוד \"פרחים ביום שישי\".\nזה הזיכרון שתיצרו ביחד.\n\n👉 צור את הסט שלכם תוך 3 דקות:\nhttps://angelsbrick.co.il/product/i-love-you/\n\nתראה לה. 💝",
+        "link_description": "מארז מיוחד הכולל שלושה בלוקי עץ 10X15ס\"מ, עטופים בצלופן עם פרחים, דובון ורדים ושרשרת עם תליון המציג \"אני אוהב אותך\" במאה שפות שונות. מתנה מושלמת עם מסר אישי",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1778050800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/686935823_1494122042118628_3774629262684002780_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5_6ugMmNWJIQ7kNvwGVwgyt&_nc_oc=AdrKQK44vUacARb8SacgWiLMta-inTW80VPFAq5dejcyCWsiLoZbcFMSpvj_9zLx4MI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rs16bD2Ik2Co5hBh85D9Ug&_nc_ss=70289&oh=00_AQJHX4VnvnxI1-bV7LXQJqX8GDKlI-w_nAFYg3B43IVZjg&oe=6ABE38A1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1316831890414209"
+      },
+      {
+        "id": "1434653841560907",
+        "body": "יש מתנות שמפתיעות, ויש כאלה שנכנסות ישר ללב.\nהמארז שלנו נולד כדי לרגש. לא לרגע – לנצח.\n3 בלוקים מעץ, עם רגעים שלכם, עטופים כמו תכשיט.\n\n\"היא אמרה לי: זה הדבר הכי אישי שמישהו עשה בשבילי.\"\nוזה שווה הכל.\n\n✔️ בלוקים אישיים מעוצבים אחד-אחד\n✔️ ברקוד לשיר/הקלטה שתבחר\n✔️ עטיפה אלגנטית, פרחים, שרשרת מתנה\n✔️ משלוח אקסטרה מהיר\n✔️ מענה אנושי מהיר לכל שאלה\n✔️ תוצרת כחול-לבן – איכות ישראלית מהלב\n\n📦 שלח 3 תמונות – אנחנו נעטוף את זה ברגש\n📲 הזמן עכשיו >>",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/"
+      },
+      {
+        "id": "2316533438871630",
+        "body": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "landing_url": "https://angelsbrick.co.il/product/i-love-you/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1434653841560907",
+        "text": "יש מתנות שמפתיעות, ויש כאלה שנכנסות ישר ללב.\nהמארז שלנו נולד כדי לרגש. לא לרגע – לנצח.\n3 בלוקים מעץ, עם רגעים שלכם, עטופים כמו תכשיט.\n\n\"היא אמרה לי: זה הדבר הכי אישי שמישהו עשה בשבילי.\"\nוזה שווה הכל.\n\n✔️ בלוקים אישיים מעוצבים אחד-אחד\n✔️ ברקוד לשיר/הקלטה שתבחר\n✔️ עטיפה אלגנטית, פרחים, שרשרת מתנה\n✔️ משלוח אקסטרה מהיר\n✔️ מענה אנושי מהיר לכל שאלה\n✔️ תוצרת כחול-לבן – איכות ישראלית מהלב\n\n📦 שלח 3 תמונות – אנחנו נעטוף את זה ברגש\n📲 הזמן עכשיו >>",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "2316533438871630",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "900942215606431",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "2499034953892686",
+        "text": "אני לא עוזבת את הדובי הזה 🥹 #מתנהמקורית #דובימדבר",
+        "links": [
+          "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "1439031067713907",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "855999570494884",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "2129105401251265",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "1379698760274305",
+        "text": "אני לא מפסיקה לבכות זה הדבר הכי חמוד בעולם #מתנהמקורית #דובימדבר #מתנה",
+        "links": [
+          "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/"
+        ]
+      },
+      {
+        "ad_id": "779495134824623",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "1087753710482000",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "987328317354292",
+        "text": "לא צריך יום הולדת בשביל להפתיע אותה. דווקא המתנה שמגיעה ביום רגיל, סתם ככה, היא זאת שהיא לא תשכח.\n\nמארז אישי עם התמונות שלכם, דובי מוורדים ופרחים אמיתיים. ומאחור ברקוד קטן שהיא סורקת, והשיר שלכם מתחיל לנגן. הרגע שלכם, חי, בכל פעם מחדש.\n\nוזה לא נובל כמו זר פרחים, זה נשאר על המדף שלה ומזכיר לה כל יום כמה היא אהובה.\n\n🔥 מלאי מוגבל\n📦 משלוח עד הבית תוך 1 עד 3 ימי עסקים\n\nתפתיע אותה היום, בלי לחכות לסיבה 👇",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "27540957615501183",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\nהמארז \"אני אוהב אותך\":\n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ ברקוד לשיר שלכם / הקלטה קולית\n✅ אריזת יוקרה + פרחים - תיתן ישר\n✅ משלוח מהיר לכל הארץ\n\n👉 להזמנה לחץ כאן",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "1487422262770848",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "985766610998566",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      },
+      {
+        "ad_id": "2013220986262413",
+        "text": "💔 מתי בפעם האחרונה גרמת לה לבכות מהתרגשות?\n\n🎁 המארז \"אני אוהב אותך\":\n✅ שרשרת מתנה בכל רכישה \n✅ 3 בלוקי תמונה מעץ אמיתי - מיוצר בארץ\n✅ 🎵 ברקוד סריקה לשיר/הקלטה קולית שלכם\n✅ 💝 אריזת יוקרה מוכנה + פרחים - תיתן ישר\n✅ 📱 תצוגה מקדימה בוואטסאפ - יוצא מושלם\n✅ 🚚 83% מהזמן מגיע מהיום למחר\n\n⚡ למה זה עובד?\n✨ מראה שהשקעת מחשבה ולב\n💎 התמונות והרגעים שרק לכם\n🏆 דמעות של אושר - מובטח\n\n👉 לחצו כאן להזמנה →https://angelsbrick.co.il/product/i-love-you/",
+        "links": [
+          "https://angelsbrick.co.il/product/i-love-you/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://angelsbrick.co.il/product/i-love-you/",
+      "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "filtered": "2026-09-27T01:33:37",
+    "qualified": "2026-09-27T01:35:58"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://angelsbrick.co.il/",
+      "https://angelsbrick.co.il/product/i-love-you/",
+      "https://angelsbrick.co.il/product/%d7%94%d7%93%d7%95%d7%91%d7%99-%d7%94%d7%9e%d7%93%d7%91%d7%a8/",
+      "https://angelsbrick.co.il/about-us/",
+      "https://angelsbrick.co.il/contact-us/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": []
+  }
+}

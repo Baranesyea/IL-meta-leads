@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-024",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -60,8 +60,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2557099601478841"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 504,
+      "product_score": 0
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2557099601478841"
     ],
@@ -73,6 +86,41 @@
     "page_categories": [
       "Shopping",
       "Shopping"
+    ],
+    "page_ads": [
+      {
+        "id": "2557099601478841",
+        "page_id": "945272495343228",
+        "page_name": "אל תהיה פראייר - דילים שווים",
+        "page_url": "https://www.facebook.com/dontbefrayer/",
+        "page_like_count": 504,
+        "page_categories": [
+          "Shopping",
+          "Shopping"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://www.dontbefrayer.com/join",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1789369200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809812567_1082424894252273_2852439320165234998_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VQzLCMFGfSQQ7kNvwGmM81M&_nc_oc=AdpCsU196m8DNTi9jS44Ikl78p5bye10VIxeffZqS31Y-EZLVTA3EF08HYMSbZ4F6Lo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4YFH4-ay8F7f-wWSRXwhiQ&_nc_ss=70289&oh=00_AQJZ6KiSHNXRIpZaGfChwZEA8MHBXACD4x5wVXtXthQCSA&oe=6ABE4771",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809766919_1850752912576563_6564063508006339691_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x2DlqBSaRO0Q7kNvwGskJfM&_nc_oc=Adqx6bR5FdGnEtCALoXdmkUbqc4chAhBiwfVFAEvP3VcRbw31Y1Dwa5F0IbO8ZBIf4E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4YFH4-ay8F7f-wWSRXwhiQ&_nc_ss=70289&oh=00_AQJ0KzzV_cDbNN21Nns0g7EvR0Fh5aDNqrrpI3TPgwe5_g&oe=6ABE3CB2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/809910046_2318312498968902_8263527135736107280_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4sfkadjVrC0Q7kNvwGbEzSX&_nc_oc=AdrQbRa28z-zcxy6hrribhIRT5YJzRUgx9ut7Sc3tlFQ8a_vm0X9QMeZQmGJHgwZGTA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4YFH4-ay8F7f-wWSRXwhiQ&_nc_ss=70289&oh=00_AQJohmg2ulTuyKMAiJPj0SIE-pcVnVvuq9pl4_N-fWlj3w&oe=6ABE39D3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/810215421_2148555552754761_3825512584809258922_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nQo8Yleyyl4Q7kNvwG3uz5K&_nc_oc=Adp9P9rZ_gYFAwkKU9tS6h1dv0ICTBg4qxGEiprg30WyzwMGrLYyOv3mWswm1g3fkZI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=4YFH4-ay8F7f-wWSRXwhiQ&_nc_ss=70289&oh=00_AQIhPzEs5B1XsK80xTz5MRRE1hvj7nmzQKQOk8qgVcBZdw&oe=6ABE5DF5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2557099601478841"
+      }
     ]
   },
   "current_ads": [],
@@ -86,6 +134,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "rejected": "2026-09-27T01:28:40"
   }
 }

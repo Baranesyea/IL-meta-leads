@@ -1,0 +1,149 @@
+{
+  "lead_id": "2026-09-27-027",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/hellolittlepenguin/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "334493747327616",
+    "page_name": "Little Penguin",
+    "active_ads_count": 1,
+    "search_keyword": "מתנות",
+    "sample_ads": [
+      {
+        "ad_id": "1702090170445326",
+        "link_title": "{{product.name}}",
+        "body": "הגעתם למקום שמבין תינוקות 🧸\nב־Little Penguin תמצאו את כל מה שצריך כדי להרגיש בטוחים, עטופים ונינוחים –לתינוק שלכם.\n💛 מוצרי טקסטיל איכותיים\n🧷 פתרונות בטיחות יצירתיים\n🎁 מתנות לידה מהממות\n🌟 משלוח מהיר ושירות אישי",
+        "landing_url": "http://www.littlepenguin.co.il/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/542497223_632338019932774_4389333326151561864_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WEB3fEAIEgMQ7kNvwGjR6T8&_nc_oc=AdoqQNEooqMcUIwBZaeKzSfX9OU4FAW8j_DZbPlAZ_2GSSFmJunaglAPl7Tqz2hZOgA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQIORzfi7ar8hRNPLVipzHI4ICVzffEfWqhYHU0giXxyyA&oe=6ABE2BCB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541617986_24720508560879214_8831805667795771871_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4eTckWEYlVMQ7kNvwH4t-Ok&_nc_oc=Ado4gOoTflGAMsszpytbibPqE-gAcKE-Q4gH63NkvY-_R6_rQ-Qq__EsVelxEmggWMI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQI8jrmaZ_1j6V0_kMaUgInZktdd79WdAnD0ftsO_7Gdgg&oe=6ABE5254",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/541282245_754400567577656_8398683872443493044_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5W4K_jucvv4Q7kNvwERsi71&_nc_oc=AdoUlVm5ZWB4rJvJiDTZNm5ZVPIQzke5mg3ZEutvO4cLAM8Nay0LyCJVTk2auxWO6U8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=ryVLbIII_hyRkZqSpcjd_Q&_nc_ss=70289&oh=00_AQKCYZtG0ku62bRMLoRu_kll8zOKhlKQMj0Cg66Fr16TPA&oe=6ABE4DCD"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1759042800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1702090170445326"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 3291,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1702090170445326"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 3291,
+    "page_categories": [
+      "Baby goods/kids goods"
+    ],
+    "page_ads": [
+      {
+        "id": "1702090170445326",
+        "page_id": "334493747327616",
+        "page_name": "Little Penguin",
+        "page_url": "https://www.facebook.com/hellolittlepenguin/",
+        "page_like_count": 3291,
+        "page_categories": [
+          "Baby goods/kids goods"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הגעתם למקום שמבין תינוקות 🧸\nב־Little Penguin תמצאו את כל מה שצריך כדי להרגיש בטוחים, עטופים ונינוחים –לתינוק שלכם.\n💛 מוצרי טקסטיל איכותיים\n🧷 פתרונות בטיחות יצירתיים\n🎁 מתנות לידה מהממות\n🌟 משלוח מהיר ושירות אישי",
+        "link_description": "קנו מוצרי תינוקות, צעצועים, בגדים ואביזרים איכותיים בליטל פינגווין. מבחר רחב של מוצרים חיוניים לתינוקות, עם משלוחים בכל רחבי ישראל.",
+        "landing_url": "http://www.littlepenguin.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1759042800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/542497223_632338019932774_4389333326151561864_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WEB3fEAIEgMQ7kNvwE2z3_p&_nc_oc=AdoByaJcLah52DlPlesudT4tOIuPRW0KOy4Tn6Xw_PS6F1FlyatPt8BwLaGSiTNDCCg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQLevcKb5tOzL2Eh6ckEa46zQsW9dhy_dfCk3V4ndgTEAg&oe=6ABE2BCB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/541702993_1703997636929018_3933958394386310846_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pdu_VdA9SNsQ7kNvwHXNeOR&_nc_oc=AdoDOMxNK_o0EFrlk9cw7Et_4AmkizJtqvVsiZLeGH19ckPqs1YZPjFJ9ug5b5oBSY8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQKscVZicBgujYkJYZkNAUqdLT4DDGGnrg8PUhN0Znuwaw&oe=6ABE487C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541617986_24720508560879214_8831805667795771871_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4eTckWEYlVMQ7kNvwGMopsw&_nc_oc=AdqsCDdGxznrMp9_F5BIcvUDpcHsnfKsuBWEYYrODd8PIFpcNGGE9LUKpM8MmwD6_ME&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQKnLanZ3_Ige3QjzkFBi73g-uA-0Ir3YVJaeT2__SXtuw&oe=6ABE5254",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/541282245_754400567577656_8398683872443493044_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5W4K_jucvv4Q7kNvwEciPOM&_nc_oc=Adq90925516sJ9gRH3iu_iwKrwbbjYT7QYGaXfM5z6hRQ_TxBu9nM76vLkLvCHfQbw8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQJj_ngxxUHTPNxKkUyFe2DRLzdYb9fhnHrvov9f0VV7hA&oe=6ABE4DCD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/541679518_1313988350369847_1202382852170744236_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iDIEd6ocvBAQ7kNvwH3JMzw&_nc_oc=AdqkkecvU0EXKYjPyJ8q7bINEH3rEyGX5LRh4bHj7WNNLFUTL6GB5EhEcImlXAYb83o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQKUoaX-s4hKNqauk1XK4VCr012hnboANsukom-yl5JDvw&oe=6ABE4415",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/540660442_1437396730803966_717245399021701692_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h6zOBKHjvlkQ7kNvwHtEyWp&_nc_oc=Adp1_KQfiE0PT0d5r3yCnmaxMraHfWjIatRj4wIPqhKxJSkBzvapwEci7bm8skhwqOU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=hpsgmqNMEOjFDLsZysY20g&_nc_ss=70289&oh=00_AQLUjew0ctwN37PKRe4KD-Y6rEKIGFBNtnMgtdhPB8stuw&oe=6ABE56A8"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1702090170445326"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:33:01",
+    "rejected": "2026-09-27T01:33:29"
+  }
+}

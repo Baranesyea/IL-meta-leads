@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-016",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "website is not a store (no cart / store platform)",
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://itayzz7744.minisite.ms/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "705419259320213",
     "page_name": "Mega deal - משלמים פחות,מתאמנים יותר",
-    "active_ads_count": 1,
+    "active_ads_count": 2,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -65,8 +65,23 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=28182097754784821"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 2,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 405,
+      "product_score": 1
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "28182097754784821"
     ],
@@ -77,6 +92,113 @@
     "page_like_count": 405,
     "page_categories": [
       "חברה למוצרי ספורט וטיולים"
+    ],
+    "page_ads": [
+      {
+        "id": "28182097754784821",
+        "page_id": "705419259320213",
+        "page_name": "Mega deal - משלמים פחות,מתאמנים יותר",
+        "page_url": "https://www.facebook.com/61577706673411/",
+        "page_like_count": 405,
+        "page_categories": [
+          "חברה למוצרי ספורט וטיולים"
+        ],
+        "ad_creative_link_title": "להצטרפות לקבוצה לחצו כאן>>",
+        "body": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "link_description": "",
+        "landing_url": "https://itayzz7744.minisite.ms/68",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/773249383_3163043733895355_429418316599081645_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-lxHJ36rM4AQ7kNvwFEYynI&_nc_oc=AdqO58dkNeMFe5eqDmNJK_MaELjn6JeN0P2-i8CCzo-PDhC8X1v8J3EObVJFbRvUneY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=rYjMsS_7cF_NFYWp1gOiuw&_nc_ss=70289&oh=00_AQKf07BYMr4cjaja7kAm4s4l9YoEbOQZ_OzZ8xDTbvMJPg&oe=6ABE4C25",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNtS7Bv_Tgy6LN2pn3I5hxtgM1hI11t2YtE0r96MUohp9TDpzBNEAjnBqV1Qc2lc17IgGSoq3NKSX1TPQLU3TnVsUt0hCvtFOR0D0ky2LALXQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=hipfrmjXWSwQ7kNvwHD6Bnm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0OTIwNDg4NDc4NzQ2NDAsImFzc2V0X2FnZV9kYXlzIjo0NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=dc4e701d59606556&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DOTRDMTBFMTQwMkVCMzQ4OTNFQzRERDJEQThFN0M4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNCNDFDNDg2RTU3MUE4MzkzQ0REQ0E1ODIyMTVFOThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACagqbnlqqDtCBUCKAJDMywXQDAQ5WBBiTcYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rYjMsS_7cF_NFYWp1gOiuw&_nc_ss=70289&_nc_zt=28&oh=00_AQLcNxQpvuy628ISS3yRVP1PzuU4kII2U2uO9e9CE4pe6Q&oe=6ABE5998"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28182097754784821"
+      },
+      {
+        "id": "1523607539069904",
+        "page_id": "705419259320213",
+        "page_name": "Mega deal - משלמים פחות,מתאמנים יותר",
+        "page_url": "https://www.facebook.com/61577706673411/",
+        "page_like_count": 405,
+        "page_categories": [
+          "חברה למוצרי ספורט וטיולים"
+        ],
+        "ad_creative_link_title": "להצטרפות לקבוצה לחצו כאן>>",
+        "body": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "link_description": "",
+        "landing_url": "https://itayzz7744.minisite.ms/68",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1786604400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772795874_1561843785483598_4512806934117854303_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IdyHKWEiMnwQ7kNvwHpitUz&_nc_oc=AdotsHGFtoAOcmrEo_vUcku5PvK3UZwYQeBJ00hGwZrI6Dk35ASVwYVsBTB3zPeXdxw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=rYjMsS_7cF_NFYWp1gOiuw&_nc_ss=70289&oh=00_AQJ6mCkU-Cw3l0llo5bvZi5dHito4TdYfEvAL_RHRaKUNQ&oe=6ABE521E",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMI05kvh514H2GFzgLeMES7e1UVck749ctuZwFGyv6dP8Sva_iURbdEmYm_8vt5z1qHwm9yDhOi8VHHb9FP5ek6W0dmOXe8MfzFE462rFQo2Q.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=9rhlQJmI2SEQ7kNvwH9XLCp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDc4NDMzOTA1MDI2NDIsImFzc2V0X2FnZV9kYXlzIjo0MzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=68c375279716612b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQjRDQjE2Nzc1OEEyM0VCRDk1Q0YyQzMyNjlCQUQ4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA4NDM1MUU3N0FEM0M3MUY4Q0NGNjI1NTU1OEU3RTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk24XTopuABRUCKAJDMywXQDEAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rYjMsS_7cF_NFYWp1gOiuw&_nc_ss=70289&_nc_zt=28&oh=00_AQKxPRAroRmXFbxcmYK1dmM49F4Gi7lAYUUgCPw-2cHVmw&oe=6ABE3F18"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1523607539069904"
+      },
+      {
+        "id": "28182097754784821",
+        "body": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "landing_url": "https://itayzz7744.minisite.ms/68"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "28182097754784821",
+        "text": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "links": [
+          "https://itayzz7744.minisite.ms/68"
+        ]
+      },
+      {
+        "ad_id": "1523607539069904",
+        "text": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "links": [
+          "https://itayzz7744.minisite.ms/68"
+        ]
+      },
+      {
+        "ad_id": "28182097754784821",
+        "text": "לא נמאס לכם לקרוע את הכיס על ציוד לאימונים ?\n\nפתחתנו קבוצת ווצאפ שבה אנו מפרסמים כל יום המלצות ודילים שווים בטירוף מאלי אקספרס שיטיסו את האימונים שלכם לנקסט לבל! \nמה יהיה בקבוצה ?\n✔.קופונים והטבות בלעדיות לחברי הקבוצה\n✔.גאדגטים חכמים לאימונים\n✔.תוספי תזונה\n✔.ביגוד ומוצרי ריצה \n✔.אקססוריז וכו..\nאז לחצו על הקישור למעלה ונתראה בפנים!",
+        "links": [
+          "https://itayzz7744.minisite.ms/68"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://itayzz7744.minisite.ms/68"
     ]
   },
   "current_ads": [],
@@ -90,6 +212,18 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:27:19",
+    "rejected": "2026-09-27T01:31:02"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://itayzz7744.minisite.ms/",
+      "https://itayzz7744.minisite.ms/68"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false
   }
 }

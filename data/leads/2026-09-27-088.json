@@ -1,0 +1,105 @@
+{
+  "lead_id": "2026-09-27-088",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61590640233132/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1143781202160613",
+    "page_name": "Lola's Beauty",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "1303332751995026",
+        "link_title": "Top 5 At-Home IPL Hair Removal Devices of 2026",
+        "body": "✨ We tested 21 IPL hair removal devices to find the ones that truly stop hair growth — safely and for good. 💖 Here are the 5 best at-home IPL devices of 2026. 🔍🏆",
+        "landing_url": "https://lolaschronicle.com/blogs/news/top-5-ipl-hair-removal-devices-in-2025?fbclid=fbclid",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724053470_1027803829807041_4981289345912044586_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0a7r776gkDAQ7kNvwHAgHKL&_nc_oc=AdrFK4Z_m79tQ_cx-6Y0nCh2rmvEJeOy-2izdfLRqCkk65aiYbzW4EsZ4X8igHLZVpk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQIPy91d9-oafn7OyrGXof2MyOJeIzT8jysYOjSC6xf0qg&oe=6ABE46E3"
+        ],
+        "videos": [],
+        "collation_count": 6,
+        "start_time": 1781334000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1303332751995026"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 6591,
+      "product_score": 0
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1303332751995026"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 6591,
+    "page_categories": [
+      "Health & Beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

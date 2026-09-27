@@ -1,0 +1,979 @@
+{
+  "lead_id": "2026-09-27-072",
+  "status": "unqualified",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://jackmonsonego.co.il/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": "info@jackmonsonego.co.il"
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100083099778145/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "https://www.instagram.com/jackmonsonego/",
+      "source": "https://jackmonsonego.co.il/",
+      "confidence": "high"
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "104240362283617",
+    "page_name": "ג׳ק מונסונגו",
+    "active_ads_count": 21,
+    "search_keyword": "שוקולד",
+    "sample_ads": [
+      {
+        "ad_id": "1089111097201886",
+        "link_title": "{{product.name}}",
+        "body": "ניו באלנס במחיר הכי טוב בישראל רק ב ₪499\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "landing_url": "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141556_2960254174326114_5624626322281558105_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ajD8SzUP8BUQ7kNvwE9C4DM&_nc_oc=Adr5O6Mqoagk15hj1S4U9bxnX3-AhrgixW0kT-vnOIfN8coWUQJeHkvc7Eg0yViH73U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLHSixdg718jepqhaaZT2Fe0T2o8qRxSssymd4fXH_lvQ&oe=6ABE5857",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786213329_2161983434353619_8557171130355080365_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7i_8GOdweCIQ7kNvwGRSKqe&_nc_oc=AdqxUKe0RcmZr0wq2nbEShs7E5ioZ_7fdwTLnzHh0Tkmk8hea_Jnz2lKZHdYw-CnxcU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLaNuAPwCk6maWphpaKWmSMVb7yOjuuYhuX8_FzpGB3GQ&oe=6ABE5C76",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141559_1506661007884687_2046911413397346147_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K7RQ6grj76kQ7kNvwF1QYis&_nc_oc=Ado9a8Dm6VnMVcTGd_sOtcYRHc_ikmXnUYvVK8uRxWn0rECpDcfwEfrOaK_QuJG3N9I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=kefzZ79jCcx3BgxbIpGYSw&_nc_ss=70289&oh=00_AQLRwyOeJZYETXl7q0Czr-4l5V-jVAv5UPyzdpFgthkFWg&oe=6ABE3C05"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1787727600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1089111097201886"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 21,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 28266,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1089111097201886"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 28266,
+    "page_categories": [
+      "Clothing"
+    ],
+    "page_ads": [
+      {
+        "id": "1089111097201886",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ניו באלנס במחיר הכי טוב בישראל רק ב ₪499\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "נעליים אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786213329_2161983434353619_8557171130355080365_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7i_8GOdweCIQ7kNvwGnr8dv&_nc_oc=AdqyYL8q5pVEGmKp6gmyIXffO1t2OeSZRuxWH-WoiiOyXukocKybmh0FjJ8IAkbSwD8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLmXBQMYeeV5Cq3Z9Bx_sdMMIh8rlXsBSDPObmChRygXA&oe=6ABE5C76",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783671997_1625278562561529_1178445783018922971_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jZgPVwz3oGoQ7kNvwGQISxv&_nc_oc=Adr8L-8AeU2dsvXtFI9_snBIEiU7FyIvKvJl_6757gXZocZcfy7XaG4M3Vg-id8A_lQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQL57Q2YA4MMyeepka1aMd2i7jveh7ID86wHLmz33Xmsaw&oe=6ABE5D24",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787102080_1537107134320307_215129185596921926_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p5Z9P756GHYQ7kNvwEW4mBj&_nc_oc=AdrhufMPR2yTRRwG7pk1KH0kqUaV4ZULUWGYcn3Uqpr59vtZ4CuJ27SN8qj2Rk0QY04&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJFBIH8FfJSao7jATc3AqhHyx_-0eAbYuPQKeCYY9lSGg&oe=6ABE4B88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785925546_925513026720598_3412026324832793136_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zwabt0VGV0kQ7kNvwHE3wCZ&_nc_oc=AdotRhw4o67ier7tm37mZVznmrPNcKMfm98Njf6hsbzCr00_55QUnlq1vgsF7kgH6P0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJ9E_jUhDFJj_cTt61uwvSG-JBX_bTKtSYhrWUYpvbwfA&oe=6ABE4EF9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141559_1506661007884687_2046911413397346147_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K7RQ6grj76kQ7kNvwF00CoU&_nc_oc=AdpUbMyMY92WAm7RVxz2ku5B30tQxngADYoACQJxdq47bEdbLChaFJqnxmvzFiz-LLw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJPb11kE5ta9fITHIomkkF17WVWA9BnKkHgQl4YijT60g&oe=6ABE3C05",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141556_2960254174326114_5624626322281558105_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ajD8SzUP8BUQ7kNvwFEq1Q1&_nc_oc=Ado26hIqBcyDAa-mCU92GV3nXwmZ550S0OkaOpFZ5-tccIQyrLmq1uPYBNjqKZnbaQ4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJplz-3XSM38WV6y76trKxp3aD5Ac7H3P2pJ5OaG1fVwQ&oe=6ABE5857"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1089111097201886"
+      },
+      {
+        "id": "2069282440342890",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "טישירט ממגוון המותגים טומי הילפיגר, נורט פייס, טימברלנד 79₪-99₪ 🔥 \nמחיר של פעם בחיים!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786927643_1381262963979583_2226396716266536072_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bc0j_IUxOjUQ7kNvwHp72sg&_nc_oc=AdpujOx_T_0Km6brt3PbsSQtB0GJCCvK5vKdfkYYHNwdt5kGfNq3AaWgT__fy4RxJEA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIe-tAyq--MwuPoQUWub-vnl93keKXI3YYf4wzU8baBtA&oe=6ABE4D0F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787218059_1087151550633446_1410626614328413864_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z2wDWIQo7WEQ7kNvwEjdAly&_nc_oc=Adps6TqdbH6A3_Kem5TYDDEHPjliICy_GiwTFYyIhBEFqkmmBv0XRh1y07FKiBdicSc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIipSESGW7QocBgtJf-0wzWby-3Nji_PnWsEetBIKG73Q&oe=6ABE384C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786853736_4083975915236146_7154964481268970167_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ayLBVccL6tIQ7kNvwGJqL0p&_nc_oc=AdqSu94mJS_xV93qGect-aZfnfcskOe6arymhYt-zKwIr35A9mdDELmgfzPrlQ1Kzdk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKz-6VjJFYXx0PDDbXF4tEtt9mA-KoC8M-d-u6um28Viw&oe=6ABE413B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786035745_2152061222007483_5913166717698410087_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ko2KN4_vRUcQ7kNvwHrtRBO&_nc_oc=Adp73xpfOpCceq86kbiLRE81I2xyol7RWHQ2R7d6n12Wls8cLdHI-je5mB5vEXGPVcc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLXilesh1mb1Y3COWufPwj5Rg6Z9z60t-Hz3VSOVKHU5Q&oe=6ABE46C0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/783671979_2126624821267047_5170505116197992667_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=osTX8ZjLXR0Q7kNvwGlvkl5&_nc_oc=AdrN19gTtiAiILONGYGafOQdujlPLVTr475F74C7bM0Vzl9JDx1XEPiaCvaviZshEoM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLJKnrJLd-x7r3lGifRTRg-ZdvesBrxXzoH22wWqvE4Vg&oe=6ABE5615",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786927640_1536518378159543_6517619883148657329_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KE2lldNZwzMQ7kNvwENyzW9&_nc_oc=AdqbTicQWIL3EwrGxolViTcIANlfi17Es1rrkxW1GnzZo7rQBespy4dsgLuYmNZSKTc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKxtSttQMjZpcQ4TNTRdbc7HMF7jYaBWMBRpSjfhd-EkA&oe=6ABE4ED0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2069282440342890"
+      },
+      {
+        "id": "1071888162090511",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "AUTRY לגברים אצל ג'ק מונסונגו. כל הדגמים מקוריים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/brand/autry/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787097402_28192100547097435_1767372322124227431_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6GALXeP_kFIQ7kNvwF3rQhc&_nc_oc=Adpbb0HG0Qep0by9L-iScN_KO1MhuaT8Z1itSUuMf1hqiA2BsFd05T0eZCyDhoqZ4As&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIyDAvaKX_PSstl172OEhhdWzbv_knpAGImKWPjsUw9DA&oe=6ABE35DF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786916696_3584819008344688_1282827276918707651_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JI_yhfv4D60Q7kNvwEakhUO&_nc_oc=Adp5-v46dSTYwMBwI5XakDLiyGz_-jSc2Sx3UMSX82s3TF2oVFhAT7UeOBIipzzh1t0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLWgBalSDsZdz0nMGPsRQ-ZU-2lw5gxGVY7c6AjM2RlfA&oe=6ABE5FBD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787036787_1737685160656794_5328218585586054285_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zx9bMoMaoWYQ7kNvwEKpD5u&_nc_oc=AdrAydH9GTesPRfQYwjulO5nPzCPFbcNt-U-sz7MbSTcXMfFUCE06ZyJvoDKzA5MU1o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQI3inmff6shnH2Ci8Zcf-YJtk6NwpxshE-_FNLVitxXow&oe=6ABE370F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787036797_1030397789833796_3218978498680815259_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8VoKTJQ0P94Q7kNvwHPvoYP&_nc_oc=AdpYWsczwv0a796fqW0eT5HG_DOOZwJ8CphNqVPGh-Q6WGASaqel_Yi-HFB8ZSe9NHk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIrT4Jb1DKL1YqZLNwguuv6bRPkexn4iIIHnVKyz_2f0w&oe=6ABE565B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787160268_2531618617340654_2641788850348771117_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=52wRcUtHauwQ7kNvwHMjHGV&_nc_oc=Ado3lRjxP_HfIDGWLTmQtE8pLby9NjlPnEmzBhLl8exVFVF0Coo7m4jeE0_Qwv0feLA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIfAUdD4GaO-tJSv3FUOicBtFJ4HuVFA7jsaKZxv2DQtQ&oe=6ABE4B08",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786946060_1037771155687083_3190808516072108757_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bgukv1xbjtcQ7kNvwH4Z3CX&_nc_oc=AdqPXa7M0iem6KUf3_K1LUaEoSU4Zesziow803VbqIP4GtK-nihQ4YHf6kcEH8Xx2sY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKhOGxNwUkx6d_vadEaoySKxrro__Jy9909QdLvxV7r5w&oe=6ABE59B5"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1071888162090511"
+      },
+      {
+        "id": "1577982587459195",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786266531_2115789279008235_8949158888884171782_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j4KgyIr6BWMQ7kNvwEsDPBm&_nc_oc=AdrtMQ_XU1sG_cLzydVDsGyjLQc19YCrxOheMiUN0Kib1T98JXfXUmDaNkvdCweTEkA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK210Ikm8_llgAwpRNmvjHDuzjBgxoH-Et9r6TeJSPGpg&oe=6ABE3ECA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784903536_1391086382996211_1219933250504258530_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EWJZ4K2PxZoQ7kNvwFDAyiM&_nc_oc=AdofaLgcKx_gBP38inHf37jMmKpGwyECjQmCmS3VVZI2xCmwUgnOx6AaaBcp_GeErkU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKoRwh2jhHStp8nDRUDFjuPlUN5K3mUmVVMalEZ2nihFQ&oe=6ABE3005",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784817065_1023218077380578_669465974075532247_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RSR6A-4C0V8Q7kNvwEvAYq1&_nc_oc=AdpWQUHFQbQdBwH7V3pQmxijpNVn-fbxCPK8GmLF46_nQD1qH-i0-IgcFlMaRKTeqQ4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKRIExRTBaL0CJ93gZqLueM0b14kMSiJe5P1xz_qY6c4w&oe=6ABE48C3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786288279_1105478998807429_4585004388154047712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3xaTZN3zwp8Q7kNvwGnvxlh&_nc_oc=Adp7mCT0vCBEHJLtxGiXiIGYfRUxDhf3lWRoP5DZliU1SEKP8XI79pzBP4Y5VR74bDc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKGob969BDipTs7ugod7FJKX1XAj1zlRBDSufzEPPw1iQ&oe=6ABE3C83",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784181921_2199691597240898_4532153796576293446_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zrjV915qrIIQ7kNvwG92nPD&_nc_oc=AdpOOo04iKtHXoyQ3X59cRPBvuD6HA-iC9DW08xIh18c8WoKaDUvq79-RSeFWO2Mtnk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJTAvHQ4SHU8gFgGjon1GWe618-3SKw5kTzlXeT_6Xumg&oe=6ABE5C74",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784232212_1457621139748319_571053049525830451_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fzl_Bt2G9B0Q7kNvwFafTvw&_nc_oc=AdpN2XLSNpMnl-iDMBwelauGXv9G-4uGN6yEi_O3uACqx7YmP0Qse_2ZZ-wHDbPFHB8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLkrB-3utNs7yFaLjuy0j_7uKog1SJ0u8dQFgAHv4UEKQ&oe=6ABE5AE4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1577982587459195"
+      },
+      {
+        "id": "1210163604642697",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "טישירט ממגוון המותגים טומי הילפיגר, נורט פייס, טימברלנד 79₪-99₪ 🔥 \nמחיר של פעם בחיים!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo10/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786854464_1827289818253697_4461934181023527129_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QwPS7NLVug4Q7kNvwHKUoZ6&_nc_oc=AdptlIuijCAIrBDSccxMzCDvAE9TAE0UgmyYYo7wKeEaRq_xGvNmpeP8C88wD5V3R5U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLWdEjEjOxGKukto-kmkkN6I8AFVmSjqYwHYI0kuURmKA&oe=6ABE436D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787160294_1751962172682493_1977830960591183164_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IP3mxBGRj2wQ7kNvwGdEe4V&_nc_oc=AdpiS_V-Aj4NmfdPP3uTv7k8zwqFZOHzh_xgjLD7eT5IOMR8rtjAzkhlrRP8sjjFuCg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK47QJDePn_RW4H960jH3sPaadiJyRrER1VgYQuJBywBw&oe=6ABE2CAF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786946046_1076112121620618_2854539350634119022_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1CtVXkQ1R18Q7kNvwHqAjRb&_nc_oc=AdqdYcqGFTkndI9ZbP7xcl-GqcvQ4DcbXGAZijrtRxd2tEuodUoU6Yv4RlziPCf0Bks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLffSkXWqbDO0ikImNnOhAL0yWpkzI4B-SiARkAnu3cTQ&oe=6ABE3B6F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786354104_1003197759441171_3696576881087467281_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r7mk0fIMvN0Q7kNvwEtCTJO&_nc_oc=Adr5YJOJRiUqvLKwK2B526QuWrsYW6c76NVEh9NPPHQGEts367hl0L0VRSC30IeDs10&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKIpUV9QV2hdID4Q6Z9LX_Y2gUoe8pZk6dZcyiZWbD0VA&oe=6ABE2E65",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786854480_28066200303037499_909824805331719304_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YoxX4WTy7_kQ7kNvwEpZeRB&_nc_oc=Ado9Nw3hG0rLhaeFOZwum9Gau7qHmq8lQ862qb93A1buAk_u-9a2tqYyJy3CvvTqdJw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLhWcdywP77O-5IiSyFLOh42Qzjx0qbm_wWWUSKjIrIeQ&oe=6ABE5DCB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787036788_2067127323916686_3340512707537950183_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rqfFtqSMXyUQ7kNvwFSvksN&_nc_oc=Ado4IoYIsICIbev95DL3oTNQPX4wDFdBCyOrT3v_eE7IlgoINi8yW8d-h0Ikp6U_7yk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQL7F-va56pTxCIE6BNaUnb-vOTkRb2Zx6jPhKys2teN4A&oe=6ABE35E9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1210163604642697"
+      },
+      {
+        "id": "2015614319130289",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "פולו גאנט ב 199₪ בלבד!\nג'ק מונסונגו 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787342245_2100028907252742_319417311049213622_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QX2M2f1cyrEQ7kNvwHWT6cE&_nc_oc=Ado0__70QZogQ8EaYXLLd44bzsgdPjqlMH96_gaC5FycrFekrS0AIXejaQQlpY7wI5I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKaU7aTvZPPtRVSpvIS5kKvPxhmvsOgIJqRoyNdHz2SKA&oe=6ABE614D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787308513_1095582379570494_8001937423786134034_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SMglbDqm14gQ7kNvwGO4e1p&_nc_oc=Adr9I3hx8-rGlxReyLo5Ytzl70ycOKOZr1pLCutDx0e7Ne_XUCdyUO5h6MyI3a0PGaM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLPmRGbXwvGVvcaqsPrci8tGXYQ0vZsMoUF3vB_n9sdlQ&oe=6ABE5D7C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787942783_1016543804695597_7848028172389479833_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gKfFW0AAjbAQ7kNvwELC8Sk&_nc_oc=AdqCE5nK8HmfmoAfJuOAMJ-t8z4o-Vea5lKXL7NUVFO0OSyhg9lCn7dDgGteZSFSP00&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQL1Lz0ZF4D5fQnLal3EdBuH6e-9de5yGP0lKrpTtOt4VQ&oe=6ABE5F64",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787342187_943391011404946_3189330989850264789_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oGg9tCgWfDwQ7kNvwHMNHru&_nc_oc=AdqfmuqQJCh2wmamYGGaJUxHepRlFQPzZhl5zebAtJ4iybJZ5fDfcI7xTL1yyLbE7qQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKGKNM70a9-5jFMUSUa6MJ9OMVhgsfwNq6Ks8C3NUAxmQ&oe=6ABE599A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787557684_1085497067278996_4645189402453288429_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=duhgyFyDEakQ7kNvwGqPyG4&_nc_oc=AdqDBroPsgTMDDsC6J9HA-QNrs0dnuFKRCMV8WhcF-76gExh3D6XaquYT90xtL0ozag&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIWW7Ql8NbVQzCwPpAYP0u_ytiN8LvDwb8RcdaFYNjMRA&oe=6ABE3A63",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787652671_2251014822399202_6714851864013436296_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m3wlx1koQ-AQ7kNvwEKBB_y&_nc_oc=AdoV7iQp7SjoCMPRu2KLB4doBQ5DaoaPfPn8axEptDNbxmtxpSLXf9baIKBIDh7-6Jc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIOVx68IVWbLHLjugbcUvaIrs6lc6_cA7xYaiIXSFkkZg&oe=6ABE6166"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2015614319130289"
+      },
+      {
+        "id": "1056485040457261",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "AUTRY לגברים אצל ג'ק מונסונגו. כל הדגמים מקוריים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/brand/autry/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785603361_1056703563634965_6230720790889401681_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QnIKa3cGQ2EQ7kNvwFOjWo7&_nc_oc=AdpDqzrJQtkTUC1HsCMpKE8HjyZHMWfw5HU2tlEtne5l7tA_zSMMVOpN14hTUuW-xEc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIU4fFVc_JAnBfREon3LV5Q_dwgVJtRN86e230cWesn1Q&oe=6ABE52A4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785603358_1449494560363069_52287485511540703_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a_HppORXIR8Q7kNvwFBkSCU&_nc_oc=AdqA6EsGySJnMZOv84txzg8BYwuPOjUT51oPHNO38kbMZnwTaaoWjGZ4ASqDdAYYEwU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJplO-4vAjvMbcd0IxduBb7g_JN0ZF1scRjN_GPYPUkpQ&oe=6ABE591A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784293512_1724968862057730_1481290357728389640_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bRD5f2H5l8YQ7kNvwHPFebn&_nc_oc=Ado-yvwtNX_T7y5DJJZKyBFfPMmZzshT7vVDJBS6dZNetxJCXubKdXzHcaHB8tqRFKs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIg_c3ydYgEifsS_mdKBk83ZnXXKquJeQsFO7FAP-mBQQ&oe=6ABE35B4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784200900_2160786337816445_7705942887670758893_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ozRoPoelq90Q7kNvwHcK-Db&_nc_oc=AdqTtprX-l43icwqUsnvQoPhrhlqR2JdfSGiFF6GRsY9AAtt2xVZiT1D59hO6ctqVxM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQII6EmBpCZFMdAhID05G9P84igqszaaqYyPCjuaoANdMw&oe=6ABE5F46",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786945394_1418206390189522_3206184372959077672_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BczterkI_m4Q7kNvwHwJSTY&_nc_oc=Adr92gU3ba93WF0IPk5uImVJZnd8Nm8y-uLSdp23WV3M_1dFcT7DuknSUb7QUc7BGv4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKYMeaEGc3lvVIzUZfxEriTH1YigkOrzNDkdmvy-R0ssQ&oe=6ABE4756",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786036965_1046570101681970_452237216277537201_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yyAo6_VuN_UQ7kNvwEEXyqc&_nc_oc=AdrPcKfqch_ivGCvzSIVKUek9qEJH8nCuhm7joswbWn7SYO3-GJbPbnb4SUkQyO5XMY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKtFcfnV6_22QsPBMiZZieltwtPXDbQMIn6dToM1V06rg&oe=6ABE414F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1056485040457261"
+      },
+      {
+        "id": "1037451618907004",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "פולו גאנט ב 199₪ בלבד!\nג'ק מונסונגו 💪",
+        "link_description": "פולו גאנט 199 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786467987_2176187549966351_637600696549880439_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aD66bscJX0IQ7kNvwFD3X1Q&_nc_oc=AdrkOoc_QBPfQf6BHYi0ApK2CMLNA1j0pjlZm39_eR0yRHw8svGWk-1lb4Npsw-Tc7g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK0Yhzv6XWX8d_iSEmB3TIrtJ8D6xVLiLfw0J-D_F2UwQ&oe=6ABE62A5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786166948_1384168373685668_6748422472708720776_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=50g79PUZhdMQ7kNvwHbTsJy&_nc_oc=Ado-nmdRag1tLHjwbOVPAj7kXnitYTGhIjgxzxJBV6Ng-YK5LhCERckhZHygLxKrUDU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLQpf4rAeeV_mNmC_oBxcB6FHmUi4_Obrf9IrTpTKKBXA&oe=6ABE539A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785857785_1707879863660632_4498080541930200847_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eDn8hWO2tskQ7kNvwEPNVS9&_nc_oc=AdqeYiZI4RZbMaFtKLZI80hDrItRx0rt8Y4VqXmHFOZUqZgspL1KLcCSK1eYmt1LeFI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKt5BKnQB3CwlQCxiJoToJwwG9m3_3pqBAMNC66dJneig&oe=6ABE3C0C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787523306_27907893742199800_2378675800987185723_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PPj1EDuhR9YQ7kNvwF8oERG&_nc_oc=Adre01Xi_1HVSfDcwD-eURe0sOff7HgAPsABjwfuWinKu22PkO0-0RaZTZa9kOPvrBY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJdoz166e2UfNinYwVKYDa8sFp66uxusULmjwOeO5vpRQ&oe=6ABE3D28",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784251872_1054906434102532_516904668303043666_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0jTltGyhfvcQ7kNvwG__N6n&_nc_oc=Adr2ebfUfba3wart4nb10tMjgVKtuIIG5CLLwJfIoN17tCS-dDuePd0CGDhMqinILJI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJhCurzJVCPUHOuCTaiOGVT545UPzELYGwu4M0L_IEMew&oe=6ABE476F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786121946_1072595605700598_6674975171452176315_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yck6-GMN16MQ7kNvwH9SnZq&_nc_oc=Adpw6B7e7MxxlNALNNOkZJ60Vag_Sr3V1zwKgmo_sN4HWnsNV2UJMLMk0RbT1gqWz7Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIEMqDCJPKcI8iSy3x2mmPY5kwOCowp3yOHlICzXtnHUA&oe=6ABE4CE4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1037451618907004"
+      },
+      {
+        "id": "954828930983095",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "פולו שרוול קצר של נורט פייס ב99₪ בלבד!!  🔥\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786853754_3046101515727897_6423351353425489831_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kJWpAvt0hC0Q7kNvwE6EhLm&_nc_oc=AdpYzJrJsrX8MQnwAoEDEVSEC_KMvKKeP-c1H0wSBf_K1LfcDnOUiw-q01DkO6sjDOc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKRQj9HhvvXMMrPKCqQifRBAx-ve9f1jEjdklALPQx53Q&oe=6ABE3451",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786778289_1069878848959363_6617180067350979549_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ru9NUwfAac8Q7kNvwGv1PNc&_nc_oc=AdomwDbneieJoMy4C_BZeqmHkerb53r5oUqJZv_ydY1acJ7Quw9mwvOQaXyxRJdmVjk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLft76fNedG8wMAAAwcUmdJmDfuCPmIfgyTAfyfUifaSQ&oe=6ABE334C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785979073_3092201984506404_8418785640380993628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gxz5FLgYhdgQ7kNvwFSi_Ws&_nc_oc=AdpAaXx86k-BkQIkemGzy0CuuLcUhuFb1KYY-Al3v_oGENfif7qNfcrBg4N08naY9FE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJ-fEJCaN4CwQ1HQ8uHKMZowgV5bDIjHrCBxOzurNSM2A&oe=6ABE506F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786616728_1740388190540848_8017144698855295229_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fdUOvF1N5cAQ7kNvwFkJiAQ&_nc_oc=AdoxhiSg-6t-v0bI_N5THdouxzMnGn_MK-1hBdChPVmbkMcpftVnQOBYN-bK26pC0X8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKwFROWcpjmS9nYB_N_6IvoTZDt-3jU5uuw7ZCutoMiYg&oe=6ABE5E2A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786853733_1596915482445709_3596884775796988049_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mMKlt5s-LzMQ7kNvwGOCxGo&_nc_oc=AdrwwhSPCbzuxh6clG1vUCWdw75UL7Q0SrhnalGsQkOBNmQMsJoNYaeH7S7qP1rPLso&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLJpFXPnBNiXyZSAfOeuRwFVZFhLrkEjtUPDNrCRcxOgg&oe=6ABE33EE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786853742_1036797009191208_3145348495861540895_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vREQTXBh1_8Q7kNvwF6S0pK&_nc_oc=AdqBzD-TLLTlt58JwU7eTJFZqFivB6bjIM97StYSWK-dgqtxYV4AtaaB1CYgWimm-Ww&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJ83yNH4x9xzoTaF8s4vR-KDP_tq4LaX_-TzbeDSt3-6A&oe=6ABE428B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=954828930983095"
+      },
+      {
+        "id": "1694081445013149",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "קלווין קליין ב  ₪249\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "",
+        "landing_url": "https://jackmonsonego.co.il/product-category/shoes/sneakers/?wpf_filter_pwb_list_0=595&wpf_fbv=1&wpf_filter_tax_block_logic=or",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406041_1352695937028202_7079643628344619637_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o8c2yrbvxNgQ7kNvwHgAIMu&_nc_oc=AdrqJl3t75QR2lu7Y3yf9IZM_FEZlSIUCYCspbZ5KspWV3dHm0B1AD8rysYpZINxkP0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIdHloUiDtidk3-zpq603nBMY7DOdaQeiPolRQ-NjXgpg&oe=6ABE42A2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406086_1624196342389277_7064673607016166372_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2vFwuhsWGe8Q7kNvwEIY_SM&_nc_oc=AdorTbn0xVbPkxYbG8KDbld-skKM3BhiXL6jlh9eq0MZrDxLphygMl6eq4P3YOGU0iw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK1zIjCV_MxmXa238g5t4wki3ggclTVgXuqZtjO6Yh0pg&oe=6ABE2EC3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406075_1373791820955978_915141466284484151_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZAJMmdzlxdgQ7kNvwH-0bwm&_nc_oc=Adogh3B7dAe--r1eq_7_yzFsF_VIZI0sRChfrBdffp-lGh1Sb6ZAnfzJUxkXotdluhU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLcUJvzn6gv8jCubHJ9ZOQUNCzfUt89lDJpT76uTG5cVQ&oe=6ABE48CE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1694081445013149"
+      },
+      {
+        "id": "1128081426464637",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת דגם פופלין במחיר הזול בישראל 199₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "גאנט פופלין ב 199 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo2/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789196400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799849096_1067185799361090_6876121281720438398_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=89J8ExbnTIkQ7kNvwHHydSe&_nc_oc=Adp9vwwz-tFktvhQk_PSaHinvPBmQY6FtGmFu6b6vqEYI-vh1UBugPvenqDM7t7Pc-I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKe5kQbFHeJVEOD2kBAx7kGHzpnQMRmialpfhP_eMbEDg&oe=6ABE4F20",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/801581597_1395580541995455_4067309874416023179_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bg_Csn_arc4Q7kNvwE_viG0&_nc_oc=AdpGuzKX6xutqyGq1hPbXxLMHmgPw86Bz5tPnVt3c4aqCUJxnmogmGvFcO3qqYoE0CY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLQfrhOeQG5_PoQRceXKPFBxByAleUw5fic6aKSIY834Q&oe=6ABE4DBC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802641594_1281353180701568_5908658396249613113_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gur6--l4p4MQ7kNvwE8hGYB&_nc_oc=AdqV9dNev1lUIeb2nZo2wyBFlKI4dQdmJ84WVI7Gkk0yTTvTYCQ9-P2YNz3hH_xgv8g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQItpfBRkUhCfzVmILiznb1hEr3iu6zPVKH91thHTKPd-Q&oe=6ABE3E37",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805805858_1714092183225054_3251949637640958168_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=27natYey6yoQ7kNvwGn2JfL&_nc_oc=AdofWC_L-vS9lGVg5aISO-ejgetpBH6ohnm7_6v_eCNyYCAOyhFa89gG-xRz1_s7XVw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKD3OYT1NK8qKmOGCVEjiFAX6J-w2Q9K7PO5DiotRbicA&oe=6ABE3098",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/800755855_1066595899298012_257086267311077333_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Otv8wRcfmqgQ7kNvwG28xSk&_nc_oc=AdrjdqkUotRufpqPE7Sw1TC81m096aW6L2nxwbnSaM22Lnu9oFSPPir8Nzh7oj95CFo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJJ8K82Ap54hRuSg5-ZDVPXVaIQFRFCOnrilvX1F0jz9A&oe=6ABE4511",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799278766_1115338884390257_4919657586286724764_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nNH2AGEyUI4Q7kNvwGLVtV7&_nc_oc=AdpfIcyDYtpAqcLqj8iAd7R8W2slihAhKHu9rSPSdp4pSvElmILKkmXod8zL3hVXsf4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQInMyaeFmwtwOzv1hKL82uRAdcyIfwVeSNtX7e0XOIy5w&oe=6ABE36A9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1128081426464637"
+      },
+      {
+        "id": "1326826699525147",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "3 טי שירט גאנט ב 399₪ בלבד!\nג'ק מונסונגו 💪",
+        "link_description": "טי שירט גאנט - 3 ב 399 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo-4/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786898990_1433067462059074_5307873690637305668_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nhuWHB2OH34Q7kNvwE-NO3q&_nc_oc=AdpzajHSqNWyN5y9Y05ZXas-t3-9c0GK99oHZ3DTMyvh7x5XH4flKcPCCNlpb_UuqvQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKMKcXSSkCD84egnsfsRnkK0Kx_qYlb6TgyI4JmJXMtlg&oe=6ABE435D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785925546_2234999220378033_149738354520412248_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8gwTs4kZVdAQ7kNvwHy1tV9&_nc_oc=AdqfLTtcFIyXus5ZUKerhcEtB7KTDi8nJ6PTHr5quZyRLJN2pWcGh58zUavnPuohBNU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQITAnv6DB-foIfToOC4H9pbriUi_BWivQus4iYA08wbYw&oe=6ABE38B1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787341579_928172029730094_7446586537460184611_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=paKqPzRvzpUQ7kNvwEVM-ho&_nc_oc=AdrKDKDRSynmqbyMsSTX6osl55Z-HKiiXjIkcRohbmxGkJurkqzum0u_mHlogeS5Mhw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJXLK0EpQdX7c40xaY2wvdIL5nYC-l6lscP8kFjkL_q0g&oe=6ABE4A4A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787102079_25927361146961388_6455952174717917913_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZwtmKBcnV-cQ7kNvwERE6DC&_nc_oc=AdpLt3zF92qi9hxcSjbGPgX9IXuP8BBB5oy_FLxI3LU0cijzqwk2HOh-71iGq-8kHQU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIKC4dMerYimsf7PTn8JPuszzxtXGoFRNwk39Qu5rf2YQ&oe=6ABE50B3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787651643_28096935979947800_4334697233420667788_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6RhidYHJvVIQ7kNvwHu3nDv&_nc_oc=AdpTW_16UJLxZv22u5uuhGUKQzNpXou_jhMkwwf1mAFgQB5cM8giM3V53sfMOJMgn6M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKEJqOXh3ej2hniHo0HOhqQgy6g0cmMI6KPmrRsAz89xw&oe=6ABE3064",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786543122_2262618407612020_5707748140205154399_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jThULpylAVIQ7kNvwHLdNpm&_nc_oc=AdrbHYXytg2ldadz7XCSZRkVjKsfRJEtIaZVGEn_NFAkeoiGBCW9j4NToCpvgOoTbIk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKb-Aa6-KSv90SP-ufPysB7v1rywsLZm1IKu2hqiUAgOQ&oe=6ABE6049"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1326826699525147"
+      },
+      {
+        "id": "28480658358233281",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת oxford במחיר הזול בישראל 269₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מכופתרות GANT ב 269 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo6/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789110000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805834516_4570880489902788_2321844660731391071_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GAzkiiajsJMQ7kNvwGNgSfb&_nc_oc=AdrfaZ7IBygfrq4PDefBO5UJNnHbg7ojWMmcUbEPLs7ojcKVD2M-7P2rCRtWPmDxpLI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJ-rNLV7gdqWG2q2-tqLkGvbHR2y-M18-HcP5lvszWy2A&oe=6ABE5EBB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802863664_2964495630567230_252944020578449370_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8cM8BVYcKgcQ7kNvwGRvgt0&_nc_oc=Adrp7sVqJmDbyk6VhOzwTlhXIfg8x_WssImaz9ZeZkTkkvCdKIE0qn9hiYlDp5NaiNQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJ52-Z1weQJfDYVNCjC-p2yggBz0wFxekuQsmZrg-Jeiw&oe=6ABE515A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802906646_1327318452626845_421861236882778643_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4He2hG2BLx8Q7kNvwFnSeM0&_nc_oc=Adop9H7NZG99lY554RKKTZPL3xL5Qw3RSz9TEK3tzxh6_XN36_kiffPyIhdP0rwAipU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJlGUrkHvVMZKfs6atqxvRPNtVEo9535OMcuJlMXr2lFg&oe=6ABE53D2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803105890_1708039950258685_1575135024157891793_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rs7cR0YKjdwQ7kNvwHT4xVn&_nc_oc=AdrqBSgVMG3roCsGg5uaHCnu4nn-BKDo_7X6WuxMg7L_u3v-H5IHPiSyK5IyQfXJ0h8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLJUiJkgKoymFTYIfnKbF6EMBvkY4EY3tkrTZRTXI1uQw&oe=6ABE4635",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803328777_2111359059505010_4208644228173227115_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vNpbAsoLL14Q7kNvwEQ9iND&_nc_oc=AdrRdrcX6dGyuQWs2DE1Zv0Q6VZEtJMc88_U2GGyavbV6Ywn400aA7zgPCWti54KRpM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKf8pd0jv1CiO_AE32j-Ujy_WdE-aQ25ki_2QhpES0gDg&oe=6ABE2E4B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/801011867_1756147225685007_592790801420789899_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DiK-fs9hNtUQ7kNvwFf7lmK&_nc_oc=AdqhU3HGMzh3grUjh4HIihBJl1JfDYNFaqly0loG-8FwP7EolFLsltEuk3Kk3CjEnGw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLe4Q9S75_UqBcfprMBsiVFRxmvfNkxFg8RE5zEIpRBaQ&oe=6ABE5D85"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28480658358233281"
+      },
+      {
+        "id": "1628675128631148",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת דגם פופלין במחיר הזול בישראל 199₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789282800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798035263_1386205996973593_5363756849208435043_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-6uDb8sVQpoQ7kNvwG5PVeI&_nc_oc=AdrMspS-40Kh2i85KCK0M-uQz1z0Ec8-eH_AvJ4RLmsy3RGfqeeudZRp4D4k3_9KG3A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLzaVTkC7Dl0Ssi3baFKhtYbEpkJuolQwXeLB55aesV2Q&oe=6ABE3221",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799839336_2124044678180485_3202555442957121636_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dKInxOEKjCcQ7kNvwGIgaFT&_nc_oc=Adrfw8Iv00dBcgUdozNht7gPRGAj02drbnU6Sq7ZETWcDn29H1KNmFR9bK6VFzZMxjI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQL_eeMn_9qxeFBtfe3OaE-Kgo8pKhYCAikEGylAB3vQEA&oe=6ABE456F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802964657_1473235164644331_6987923809840081261_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LeZaK2cQKYcQ7kNvwF602Ei&_nc_oc=AdpHl8e17Q51XnE2MIBtSf5ad4rEaDDidJDvVUUFZ4gMbFeWkyJfRelUG-iqDUe2Qk8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQItUL8BEy_QdEY2x1Xs9ot6414lPB02EVe83IWwkuylrA&oe=6ABE6078",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/797956441_2252339352277689_7843101670383330994_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3aCgpKhXXQ0Q7kNvwFBLZ0Q&_nc_oc=AdpC7rZohzaoQZGTy1XiZ8AtiHAqo0y2w5nfsvu1l8zB42GTJKXRKkU0Z03AWQSieXg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJfol_connQ_9zBmQv9hyqXwOSFZnpippqUZQ3v9mjiAg&oe=6ABE4EDF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802988372_1756558075626253_9163949498451828391_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfPFYWFvbDMQ7kNvwHYMQ7l&_nc_oc=AdrG3PDozqYpyzHS-Xfs2OqEhBW8iNij9sho3SdOxypQCN-vtQExPrASSaU20_VUeNs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJL3AkxsGPnQpR82ktFm79pIV0cfpZ7osQb-Zgm5DRZDg&oe=6ABE37AD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798728908_1316155800430397_1934659874598564676_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N2wSwhzIYdgQ7kNvwHIs3a-&_nc_oc=AdrLhNGuxIXpxLkv7dDHGBwlf52ou2A6rJigrhvLeBMSG6QVguFpdixDgabwuu5NwMQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJNJg5DgRuRWkmiTZjC22EO_ZEUqaEsC1XtyZHqslLIHg&oe=6ABE5F67"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1628675128631148"
+      },
+      {
+        "id": "2130052061226237",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת oxford במחיר הזול בישראל 269₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מובילים את מהפכת המותגים בייבוא מקביל בישראל, כל הקולקציות הכי מבוקשות בעולם זמינות לכם לרכישה באתר ובמשלוח מהיר עד הבית, שירות לקוחות בצ'ט.",
+        "landing_url": "https://jackmonsonego.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789282800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805900626_1731869431442477_2669820966322481941_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHyjcPQom58Q7kNvwENe2qA&_nc_oc=AdqL2qJXqWnU_1VItI5n_ynY_DKWoemKDx8Hx131V2_ssI5hrf5eLOTBzYReGOMEYaI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJpO0HstqpYNZnoLogAZuEJv15N9doy2HxA7SsNSEFvZQ&oe=6ABE4C19",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802965253_28833069596298669_7402557396671285599_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k_iPqlda0u0Q7kNvwGcKVOu&_nc_oc=AdpbVEc4imoi-pOpcxqCIhLvrDFbMgoQ4_fZcMRxWhe_jQGPLiYaiXJm2nMV8PYHNkY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKFEUb7hDbB3emvqzCDL1HWXy-5dzldn8YZ3ZH1S-I9LQ&oe=6ABE64A2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805700088_1099917026120108_6638755746815605061_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OIZbPr5R4qIQ7kNvwG3-Mns&_nc_oc=AdqKtsF_6t3Fpp_SPdJbElf4TdO6pmQytCa60uTwnr_BZCIwYhlEKCjQKY_RtTbEP0Q&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQL-2ywxzWIwD5-F0ZjtfEnhPQSbtdMstDia-sOzooQ1KA&oe=6ABE4A0A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805121445_1095760679606015_4371236666800642934_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JxlWFXFsFEAQ7kNvwEWp8S-&_nc_oc=AdqEKx71lS-tpGJyMagIn6yI6k0W32iOjU5RsVq2pvARUGIUk1tA9HNBdRsATOg1bjg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLtN0fZ4P0t7GDvW729RYF19MjWS-1XI_qzGKzG1aS-Ug&oe=6ABE327D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802965253_2156206811999118_436492503842518387_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OUf4exIesfQQ7kNvwHvHBiV&_nc_oc=Adqs_xDKN3Yhug4T3B3bVs8C0qe4ngo1i6hfkIymTecsEfA1PxV5RjhUOF76tA6qcBM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIhslybwUcVcXkZWzBNiCwDhnCUmklRCtmMxy8OgkqtQQ&oe=6ABE62F4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805900619_1418980556836040_3686079994809817231_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zTurK7RXdBMQ7kNvwF0sy3d&_nc_oc=AdpBGD2axVwmoplwW_2FkRIFtZj8fnV8vxkr_jxii3NUKIIpreK8uthubAetEB1BVdY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLdbby2J1u4pq0Q8Id8PU0IwZsax444T7DfqoiT_hmApw&oe=6ABE34C2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2130052061226237"
+      },
+      {
+        "id": "1054597040691507",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "פולו גאנט ב 199₪ בלבד!\nג'ק מונסונגו 💪",
+        "link_description": "פולו גאנט 199 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo8/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787405893_2136245060660765_4848207277160803522_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LUEGTR27uqoQ7kNvwFxJ0Oq&_nc_oc=Adr2x5pFanQQPVQOn-2PMGlEv_vIsk-ZOfT-koD-USHEuL-itGfZV3FKgDRxxpWivC4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLLa3Wro4F16c6x94nwt-O81_DsUE85xhivGYIA4lPx9g&oe=6ABE37C5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406267_2672212513196520_5620635307898019892_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YCKseBnB_DwQ7kNvwE5Gthy&_nc_oc=Adrqa_59AzyulnugXPQAvN4m9R1kOb9xz9rr674EXfUJz-IqM4SpHaFU-pHGzkVpx7I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIj2Ls40BdnOXr-ptmdTaPY1zJuLH0yGogVAaszT9mx-A&oe=6ABE2E65",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406147_1036933399385370_4403068989170923621_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=61krBO8XoCEQ7kNvwGkFLRU&_nc_oc=AdqFJRSet6MD2zPr4pvN3taW2eIEuHVreYUUWW9QAS_PqIjNgrd-sic-owb7-qr8u38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLdxtwAMpozZXGZDygZIoho0YNQRQKYJRyaTRvcHmnGOA&oe=6ABE5CB9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406218_1597423865511132_8578562133145049021_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=42gKJK8T64YQ7kNvwEJr8io&_nc_oc=AdpLmoa01aIZcWUYbCfFsT-9oLHprc1tgxow7UQpcwLCULxeIT-xnudxEaW_RwGdBjs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLZjK82VwwmmfjH6HGdXvDhwXkX9G-hbwO3aoyoQmAgxw&oe=6ABE5F27",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787405838_1715102309788594_5403388383799727235_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3zno97iOhgIQ7kNvwFDKZI9&_nc_oc=Adq-lruzhRQqgpqU8XRQE23eLE_VsGKB2awY2TTcm3W7W3-ckOqyQIVYaXHja9CQQ4s&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIreHpyCSFKwmSvoj-XMZs4eapudZkU0sHjETjQfRt0Rg&oe=6ABE41DD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787406055_1578593810477012_6925634543618722148_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1lnG6qHDnF8Q7kNvwG5Rfbn&_nc_oc=AdpD2SfrFXoCmr9QBtbqGMpc0mO7yHXxHBEEl1PwaHwKqqVWlIl2fzZK4TC0WwxiT2g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLsI7qCewvjgN4JrsgOcBWLwjTRQJ_W7yEpcxoWyAc8Jw&oe=6ABE35A2"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1054597040691507"
+      },
+      {
+        "id": "2495443730953429",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "טישירט ממגוון המותגים טומי הילפיגר, נורט פייס, טימברלנד 79₪-99₪ 🔥 \nמחיר של פעם בחיים!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo10/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784351544_1079415387998150_361023581055137020_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fTOa3jtTmCEQ7kNvwHf611l&_nc_oc=AdoR5JHhyBOafsCCD-app2lfiHAaN0-gtXcFxtGusfBNHNjITV2aG6CJNJsp4GPJ214&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJB-OQxoftxrhAWtMULzRQVMH-ObqZwMe8U9acHjMRMtg&oe=6ABE5081",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785993200_1334648725139752_3052761488799495119_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hrek7hmSjy0Q7kNvwGsBPvW&_nc_oc=AdoZEawvDhwYsVGH_o_XaclK0LZw1hm9RbgWI9wWR7mHous8MopyoyGaNF4D6o0pNxg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJlnSa0zvZ_bYTI_sSUxHwuiSIAhlSUDzRI5xfPTdAs4w&oe=6ABE5C37",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787045076_1074127568810901_5372676894210125565_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fAEMGNnl944Q7kNvwECMRrW&_nc_oc=AdqwqfvtkMYxfEIcCKvKrnLQV7aZpUUs0FbeIkVfiDJYJN6RH-r33ukc1xOfeS2Etrg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK13VJHSgqVkgeKKLadZcUR-kjTYK_qZV8KEfiex8haOA&oe=6ABE34EF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786656904_840664499117806_6780975054083650283_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vqyc9jPEjTgQ7kNvwHCafkH&_nc_oc=AdpGfnNOdf-Hy-6hH2ranE49eNDzw2OFhWSCCCxanS2P9obeW9XS9uFXBlXrub64vuQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIRIb3g7Vsl4e7JVv8yMuXT5S4F6xm4ap1TqFlQ1fxt8w&oe=6ABE47CB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787021427_3021548908050918_826395018618192002_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Haf4adIWagsQ7kNvwG_cQC2&_nc_oc=Adq0PGdecyMD8L6K91XBm9_9ttr_WJ-C5aCMc19n0xlEyQk29gLwqPSz_-U4YMb2Y98&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIOqxmJhm8i5zNE_GUEi2h8DBxakFNAKg35gd9krXty5A&oe=6ABE4C29",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785993208_2690961794656677_5627478635251399481_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eWZKlrRdnFAQ7kNvwFjG0IY&_nc_oc=AdpmfR0bXQgOHe1soTBd6BCzmXwVk1eeSlgsp8Mik2LwfCZKnWIYcJ0qZDtqfW9QkZw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIGfeO3wJcaE3RCtxlr3TZIBb3lP01-ZsCDPLdbUpuy8A&oe=6ABE5CFA"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2495443730953429"
+      },
+      {
+        "id": "2084693066266016",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "3 טי שירט גאנט ב 399₪ בלבד!\nג'ק מונסונגו 💪",
+        "link_description": "טי שירט גאנט - 3 ב 399 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo-4/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787814000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784181921_1735930320928625_5351776589919894283_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfoopstv_m0Q7kNvwH2L5sT&_nc_oc=AdoOITy_6ou8WQ0pg8DqnPATQFeGJEy-bwmWkcdlblDgeEKuK8h6z0X9rRGiRil8rro&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJV5hIfjtpgiX6Q-Dv5LK86VREWsWyc4RdmAp1IJLSEQA&oe=6ABE5632",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786121940_1565987361991940_4947215441517480039_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NjCobvYD7-UQ7kNvwHlt8J6&_nc_oc=AdoTcvzUCxKxMCTOM0BiN7sRn2ai8Ykm7m6HsUfe4lmI_uoGVHAgwUCSaGT3keTmFT0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLQJXXn4S7rcuKKdJdc14zioNI-HGNI3BamIf_13ymibA&oe=6ABE50A0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784748847_1371474138428658_7120940588850734100_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HX03CG2adzAQ7kNvwGKdurs&_nc_oc=AdrJ4pI_yx1fg3zHDi1v_98ej1t3aBL4RPdSl9lBJ_-swzPPXZ6mYDT80yr3GAaf5bs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLkFKOxErHX_zeOiX4sOpW48SFjz4g3KM8PTJfApyIpPA&oe=6ABE626A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785944343_1790510322133126_1534719958134018726_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sY3b0M5pRGkQ7kNvwE9i3Ry&_nc_oc=AdoqpB7IpAWSmwKrTWWix1L8NLRO09iPngfC247RfNrJuLDUZWPs4E0YK_uPU9Ctx0M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLQjr9Jr-H2GRsKPGTgZ7SSnuNfQD4BOJd-ZlzaCi-vGw&oe=6ABE50B6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785944343_1037569945759505_3988221173124232316_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KTSJWfBBm9UQ7kNvwETWWeu&_nc_oc=Ado-CzNvqPdi1FYqLbWI4Lmbw3ICpNyf1-uLQbhRnzc2DyHhpu-0wUHSRrqaMx4PJMk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJGKQouu3rxBLae5r_1jaduQxJjv8oQ50klGuENVdXTfA&oe=6ABE3038",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/781276608_2637299210059563_4121644141393968830_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Amg0jD3WzkQ7kNvwH0aqUi&_nc_oc=Adpi3yHWtWpqROOnXoL6M0FYnHG-aP5WXnQyRPH3-Ri4iT_opOtqKWhxDN68ni4_P0o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLXq21aBzyqHqZIEhnwZ8AZWpjebt-qi6IMJbX5PrctRg&oe=6ABE5A96"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2084693066266016"
+      },
+      {
+        "id": "1098938876411008",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת oxford במחיר הזול בישראל 269₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "מכופתרות GANT ב 269 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo6/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789282800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802966353_1078594234652357_6047852361652483018_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GLWkIxxZyXMQ7kNvwGx961s&_nc_oc=AdqJhOpZ_2L3xEtmKU2U6S5WRwyYfGrJPlLf93imFG--Z9M9ADAhEgf8zJMQjY-ucpU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIgbNaTPqvUiEp4tIXWodTKQZO1DmnOxaOmy6qGSUhKpg&oe=6ABE32AD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802854110_1828960681787458_7890838490285795541_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I2gpMjb-6XQQ7kNvwHY002u&_nc_oc=AdpzKLrK3cgK8EmRNUJhrqvU2xcj2rNDhFpP5A9GPrUREVsdZFx0xoJ0HA2RCrebykk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLIs4eqIZV_gceiIdkaFqN9vq9bDArtflTsulXhuztLIA&oe=6ABE4FBB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/802966348_4011333565842222_4781103990260092507_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m7JJKTbxcrMQ7kNvwEtdoq1&_nc_oc=Adr0Nqzdv_Jl7JIbYcS9E-6_11H4j21sAuE-AprzpzAJwJ4qZDCmLQyNwA495ORk0fI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLwZAtdRXrACRIbEXhZFLAs4U_piKklKB3_HCJrwxNzGA&oe=6ABE33C9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805785365_1099075059731434_532593240870972184_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=67ZtGVFWe0UQ7kNvwFhOKVp&_nc_oc=Adqxn7tU0Nzt3HXZF_Pq3DnbOe75s9_aJGgQjAZhO8gxZyTfp7xH77MMxBLduCc01pU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJmOkmRanWVkUbeqf4B2r7wtTcUDZpr59yR9RUKCi-zZA&oe=6ABE469F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/803005313_1393506158863891_5377278287860062769_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GfSTZo8ypWYQ7kNvwGE58AK&_nc_oc=AdpSlDAKgsIlzUUM63eiZeDdO3fjNQ4FQkPMobZUrxx8_LwkXEp02VhjZInlCGbALcQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLcg6h7YvMELIyHpDDYkiD1rcyv9ee3kxAna1VLFf_LGQ&oe=6ABE342F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/802037809_2394047810999047_5350979417341088963_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xltJbkOLoX0Q7kNvwHsIcTC&_nc_oc=Adp7MwsXVXTfegkCl8lNGqr_hOFMcmKhCMoRp0DlV6wQX1cxqRu5CGdEvA0KvEf1GII&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLX2MhhzU2RB6htFDPkbSCAjO1DMmMwhiTXw2UTWagIuA&oe=6ABE4A3D"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1098938876411008"
+      },
+      {
+        "id": "909643545104450",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט פיקה ב ₪199\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo-10/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785603367_1761049281706646_3984014582246065287_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-EcyZVR_cs0Q7kNvwFH4eR9&_nc_oc=Adrd5Agfm1nyJGDurv0QAJqY1SxBbok3uvpwV28r4-HO6Tf7gxtWv8G9t-cIz06bmCQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJSRVWpRINWorbOzYy2WGtSrtgvb3VlmjVxnp60LiaJ1Q&oe=6ABE352A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784435364_2571027996686616_6009976003003194118_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ytikicqzcd8Q7kNvwHfLhXJ&_nc_oc=Adq2KQk77fpFyEm7fvNIeoRHiXpoZSCZw_OjF1Ce0emHe25nrLp2VuLGaePeWZLEv-g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQK75n2zRAq2KmP8WvZS9biWQi0FGBqOJ5ljzNNO0XTk9w&oe=6ABE36D9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786883375_1054527790704719_1073900739266351928_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lfOmtU3K7NQQ7kNvwHx5EUF&_nc_oc=AdpGXMXVW7h_de58MaNTtQakc1N_-p-XATLFdcEeNSSet98uboyU7rQfjGDJCyPYofI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKaaDcTOPQFQ5aAjctigR18to3trRF2DmG79CwsXfv-ww&oe=6ABE4B00",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784542092_1539119417467771_2203361245933082099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8za8vJfBhF8Q7kNvwGkfO1n&_nc_oc=Adrf3YIAKWc4DBIdATkZ7IGN_pRgRcvJyz14fGUqzR9ubBz5Kt95b9nIHo6eG9I_AQc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLSFps_fDFFMA1sWaHiogQkfTtjDPkV2WiDm1BM5VBOTA&oe=6ABE43DD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784328076_1617557083319853_5917996465636750185_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n0yoYUljDCIQ7kNvwGXLn6a&_nc_oc=AdovXKvgMLWpH-6y_a-MrGgTnYBjVemG32X-1cJs5vnfAb2ZvVr3052m8uRZqUD5fhM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJR-vzSjk1TNlmoKrW-z1B8xQlLnxdu9DpUGKoPe79a4A&oe=6ABE43E9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=909643545104450"
+      },
+      {
+        "id": "1001222816301478",
+        "page_id": "104240362283617",
+        "page_name": "ג׳ק מונסונגו",
+        "page_url": "https://www.facebook.com/100083099778145/",
+        "page_like_count": 28266,
+        "page_categories": [
+          "Clothing"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאנט מכופתרת דגם פופלין במחיר הזול בישראל 199₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "link_description": "גאנט פופלין ב 199 אצל ג'ק מונסונגו. מותגי יוקרה מקוריים לגברים בייבוא מקביל, משלוח מהיר עד הבית או איסוף מהחנות בתל אביב.",
+        "landing_url": "https://jackmonsonego.co.il/product-category/sale/promo2/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1789974000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/804792492_1898887188140330_4965326856552817300_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0AeJ8-B05V8Q7kNvwHl_8Hk&_nc_oc=AdqK26VUDKxCoZO10G2w_UJAEX3et9NZwf20OPbiVDGSl9plPsMBc0YzTIZl-XH9xIY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIvnusxgyP-jTIHtkQIDbV2GKr9QV_8OVFsqkkaQhXv5g&oe=6ABE5C7C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/805486088_1045618651646852_7592312301572511677_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZK8dm-2PjrEQ7kNvwGNfWJ7&_nc_oc=Adqp5MiZR90LSf_w0Q3kuMrkNYYo-0mC4pyty5AF9wgaz0eKI0x03UCb-tyaCrHnf3Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQLI2_HGzzsXtcsfA7JEyET_JRTVs7MyLKgNpkblXivIEw&oe=6ABE3FC2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/806050443_28245262005082590_6724513583730047907_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WScad0s4t7oQ7kNvwFqQZvg&_nc_oc=Adrarr3jFHj5rvyZLjV1WePLDE0WhfrA9oT2U3eU-9-KzOHrQ5vMt_i69Ff-PhvGxfA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQJdcSA3YnwQ2_KwuGEoqhWtUiJOBFDwYzcyHvOKXnEmLQ&oe=6ABE579B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/805314345_1101685536143681_6168622248313032379_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S8hGCsRZiUQQ7kNvwHdvHrD&_nc_oc=AdqREjTEr9jIwZMW-xZBpYOLoyLUBVZTGP0mArdEx2SYcTZ1ugECktMaCQ52fDcpgTM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQKl8SpU6mAa4xnH88TZ8gnMZ7OwWGLViJqYY8bp-4rxOg&oe=6ABE5177",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/803465675_1665318092271027_2757204740820756063_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7gdpX7_O6agQ7kNvwENtfvt&_nc_oc=AdqkfCi1I3fTGCMBpzfL7L0trkclsxdKy5Fc0ycNPjDpEXrnrOQwFzr_fAURqPF58Gc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIjlxpD2vua9zOIRkOqWbhPnncAR6K6FE46tBf_bPvlng&oe=6ABE3520",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/804365697_1569959470760012_8973724361815441968_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tFBlLf2ZZyEQ7kNvwEAtK4f&_nc_oc=AdoMqpjPQqpA9B_ZWJQ6G3bAOchAoGWi6HXPrD3IPaKmHNSSOYlyva8ce6d_QKF3rjU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=r0cXBtan3ew42LamgrEU0Q&_nc_ss=70289&oh=00_AQIxF_f9FCIsyRdWPrKegLtC8D2g2luvX5MvMAEOuP3cNg&oe=6ABE4BC3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1001222816301478"
+      },
+      {
+        "id": "1089111097201886",
+        "body": "ניו באלנס במחיר הכי טוב בישראל רק ב ₪499\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "landing_url": "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1089111097201886",
+        "text": "ניו באלנס במחיר הכי טוב בישראל רק ב ₪499\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1"
+        ]
+      },
+      {
+        "ad_id": "2069282440342890",
+        "text": "טישירט ממגוון המותגים טומי הילפיגר, נורט פייס, טימברלנד 79₪-99₪ 🔥 \nמחיר של פעם בחיים!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1071888162090511",
+        "text": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/brand/autry/"
+        ]
+      },
+      {
+        "ad_id": "1577982587459195",
+        "text": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1210163604642697",
+        "text": "טישירט ממגוון המותגים טומי הילפיגר, נורט פייס, טימברלנד 79₪-99₪ 🔥 \nמחיר של פעם בחיים!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/sale/promo10/"
+        ]
+      },
+      {
+        "ad_id": "2015614319130289",
+        "text": "פולו גאנט ב 199₪ בלבד!\nג'ק מונסונגו 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1056485040457261",
+        "text": "אוטרי במחיר הכי הזול בישראל!\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/brand/autry/"
+        ]
+      },
+      {
+        "ad_id": "1037451618907004",
+        "text": "פולו גאנט ב 199₪ בלבד!\nג'ק מונסונגו 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/sale/promo8/"
+        ]
+      },
+      {
+        "ad_id": "954828930983095",
+        "text": "פולו שרוול קצר של נורט פייס ב99₪ בלבד!!  🔥\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1694081445013149",
+        "text": "קלווין קליין ב  ₪249\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/shoes/sneakers/?wpf_filter_pwb_list_0=595&wpf_fbv=1&wpf_filter_tax_block_logic=or"
+        ]
+      },
+      {
+        "ad_id": "1128081426464637",
+        "text": "גאנט מכופתרת דגם פופלין במחיר הזול בישראל 199₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/sale/promo2/"
+        ]
+      },
+      {
+        "ad_id": "1326826699525147",
+        "text": "3 טי שירט גאנט ב 399₪ בלבד!\nג'ק מונסונגו 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/sale/promo-4/"
+        ]
+      },
+      {
+        "ad_id": "28480658358233281",
+        "text": "גאנט מכופתרת oxford במחיר הזול בישראל 269₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/product-category/sale/promo6/"
+        ]
+      },
+      {
+        "ad_id": "1628675128631148",
+        "text": "גאנט מכופתרת דגם פופלין במחיר הזול בישראל 199₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2130052061226237",
+        "text": "גאנט מכופתרת oxford במחיר הזול בישראל 269₪\nג'ק מונסונגו - מחירים ללא תחרות 💪",
+        "links": [
+          "https://jackmonsonego.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1",
+      "https://jackmonsonego.co.il/",
+      "https://jackmonsonego.co.il/brand/autry/",
+      "https://jackmonsonego.co.il/product-category/sale/promo10/"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:47:51",
+    "filtered": "2026-09-27T01:49:13",
+    "unqualified": "2026-09-27T01:51:24"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://jackmonsonego.co.il/",
+      "https://jackmonsonego.co.il/product-category/shoes/?wpf_filter_pwb_list_0=1148&wpf_fbv=1",
+      "https://jackmonsonego.co.il/about/",
+      "https://jackmonsonego.co.il/contact/"
+    ],
+    "store_signals": [
+      "cart",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "mobile_not_labelled_whatsapp": {
+      "number_e164": "+972505553222",
+      "source": "https://jackmonsonego.co.il/"
+    },
+    "instagram_found": true,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
+  }
+}

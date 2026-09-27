@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-011",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://gadgetshop.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "service@gadgetshop.co.il"
   },
   "contact": {
     "facebook_page": {
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "598177366894597",
     "page_name": "גאדג'טשופ",
-    "active_ads_count": 2,
+    "active_ads_count": 17,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -80,8 +80,21 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1759889392101752"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 17,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 20900,
+      "product_score": 2
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1380292104264371",
       "1759889392101752"
@@ -93,6 +106,734 @@
     "page_like_count": 20900,
     "page_categories": [
       "Gifts"
+    ],
+    "page_ads": [
+      {
+        "id": "1586322716221164",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "מכירה מרוכזת לוועדים בלבד. לחצו לקטלוג!",
+        "landing_url": "https://www.ipromo.co.il/collections/rosh-hashanah-gift-baskets-employees-wholesale",
+        "cta_type": "BOOK_TRAVEL",
+        "cta_text": "להזמנה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1785654000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/742581233_1690084698713364_7174631829101664788_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjtzqUAFR3wQ7kNvwE-OxJH&_nc_oc=AdpzDMZpp9yZVlRapXEFXwpC3xI-p1Dle_ldMmYU9Da6k_BGgTsVgjRpDKTgIS9WcsI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIGcv33lmFAbR1Mxb8o5afT3fxZLjOOzH0s0G_bpRnPWA&oe=6ABE36A4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741197136_1327855418959472_1504622691562855388_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QFMBMmAkImwQ7kNvwHNhYX_&_nc_oc=Adqje0sOG_018Scnd8xiYKduZclDErRAdqrUt9G2D26pbWTT7yQ6PYx6ynueGd3obpc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIgxlWLbbBo2w25rDIz3q5ee9WCNzY7VeMJuqb8hI4jpg&oe=6ABE4ADB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741081599_2778708955830529_1785994486327739018_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=agVbe6B0L4IQ7kNvwET2w5-&_nc_oc=AdoSNsC3fJ-cIVOHk2uUl2eB-buvroxgW_qTLn9Q_GZcgCo5E5Z-dYYy0-hFmdi2Pgw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIDJeMAOxfn29BEjcROiGf2MpHeLHZXl_ZVuDVFvqDVzg&oe=6ABE36EA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741215684_887041574448631_6051683117440732141_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xCntkfLT_lwQ7kNvwFzBXmQ&_nc_oc=AdoLh1O_nhwTzEsj5dzV-qeV_xBTyd-swxrOZKDapDM5UnuIfDL4ErsVs51MAlzHWMM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKuQoeHnows3u06oRyAif1tnuM5jWVBZKUFjDygv0Ei_w&oe=6ABE3B8D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740486538_1681047846507792_5779849681016352840_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2GirJxHEOFoQ7kNvwGcI2gX&_nc_oc=AdpBreqaEbZu7i1_-GdTnEx6Zua7efZY3-GokzP441Wi4UAWm_1HGWLivq2Be6f_Cdw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIqw7sO5hbmPZlmh-86uzQSr1qgxNhVYnv-CugqF-dtjw&oe=6ABE363A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/741082531_1588799129424658_3400860392872391433_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sUUIF1ZXJrwQ7kNvwFv414q&_nc_oc=AdrFx2uGOX95UonAqsjjd-_7qHZ-blz6p9fN8V2rZ97cNu2qI8PhpS41n9Ted_Bz7Io&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIe9-q5Eb6VZUTHDVvEfSYtqRe445C5Q-071JwYKGEx4g&oe=6ABE574D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/741099433_1029998496208952_2145297748358903709_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ML2PYsXk7oQQ7kNvwFXAOMd&_nc_oc=Ado_UaATaspSGlQG4UrljG41TECYHvy_5ZQ7MAdqFOsVciZ19Bqqg-kQfJ3ybiOtpkQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKTV4ha7s7GPthZOETDvT6D7IUEOK-lUWsP6itpiYvt1g&oe=6ABE57A4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/741777578_999967082639313_2669129632728866299_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5r0qkIuoeVwQ7kNvwHpJQmc&_nc_oc=Adrnvdsr7npjQk76ucTn85iui9iSopuuX-aH1W6wwxNUYfHWubS6walVbhxUJts7XGA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIrcNWKNDr5WbPD12mAiMcq0HWErVRQYx9t69181piazg&oe=6ABE29D6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/741569528_1685073289437598_7529501318960380421_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=31XkeyZ5ai8Q7kNvwEp1Kd6&_nc_oc=AdrFV5pt_4_J7IuOgdQMKcWlqzA3GDnz782MCBsatfLXiPmi4lkxC8sorw-JjOm77-k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJphlG3I7HTpZ4db8Mas0bNvLwWc3UAh_29zfVAx5iq7g&oe=6ABE4F8A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740686343_1246252757525216_3224098809692828596_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=31_wR9ZYK-gQ7kNvwG_mPKq&_nc_oc=AdonoKyGem6mnC172rU0DEKrqq8nCQddFzlL1oiaoGPy0emdTR2NZb-b8DjjKkQeoY0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKWfaBReMqR7p949SyYfNTmpCKXjMsiwK8RE-jC14X-Fw&oe=6ABE40FE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1586322716221164"
+      },
+      {
+        "id": "962887652861436",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מגוון מכוניות על שלט במחירים מטורפים 🔥🔥🔥\nקבלו 10% הנחה ❤ על קטגוריית המכוניות בהקלדת קוד קופון CAR10",
+        "link_description": "אם אתם מעוניינים לפנק את הילד במתנה שתדליק לו את העיניים כצמד פנסי רכב קדמיים הרי שאתם במקום הנכון. צאו איתנו למסע מסחרר במכונית על שלט",
+        "landing_url": "https://www.gadgetshop.co.il/collections/rc-cars",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1775545200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/465971008_543016018338020_3268048076025907214_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RCcrbUi4a7YQ7kNvwGhYJRp&_nc_oc=AdrZPFGWF1QiFmE3QaT_8eIjfdFinYIwKNCWRwZ4kqBNts0Nzpvmfck94rYXMll3uj8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIcdYBxcRcav4qmCAkGva65RmCkByQDU40c7YoaU2P8bA&oe=6ABE4661",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/466015905_1487325955312154_3571193428897364325_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M5rPJSiJ7GkQ7kNvwFz-gYd&_nc_oc=AdqBbtiiAooMVEc7LmgGQHchK94EbGF7jY-bTG_QyiXz5HgyPvafTzaZ9AVRnMDkgqw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ0DE32g1RnYsezUtGWWaSDAqjwJqIx3G03VXjZgnfBSg&oe=6ABE430E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/466149783_590420626794943_8497977344891358189_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k33Fn7r1yHcQ7kNvwFft7Ib&_nc_oc=Adro6NixKhso8yVmTUNwWH68B3H-n3_vyqX0E2tTnlnfb7SPk8BKqubrOYTZD0hPk3A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK3inJOBLkdHpqK3ag4hP9lsKBIHYBDgTlPSeadd0_dKg&oe=6ABE4974",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/466412863_1302277207440745_3372319253296048799_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nKOqKvop9SUQ7kNvwEJbS6p&_nc_oc=AdpzSUPQoFhMHky8dcP2bO5Gn7-GXML7PB8IOuG0xN3CgzacBBZQ8Upg0Ebe0pRH88M&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKy9NB0c9RvmMOli-QFvJszcl-L5UWEc1V9aEZ7NqvzTA&oe=6ABE51A9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/466382401_3747484652231782_6455834371604141769_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T3zM1e3vCs0Q7kNvwEcE1Wp&_nc_oc=Adon5U_igECq8LCP80AjAPyexDpb7DeVoe8qyga8Kkijj0Uh72O1NOYDbN4BcrPOnj0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJYZqjmaRRQIfdytyGPJbEvSq6Yl1kGQV_XJCowurRpDg&oe=6ABE41CF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/466069843_530199343190451_5540480136638642934_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SGaLltkmZO8Q7kNvwF7EiHS&_nc_oc=AdpeVi91Huc14kF2e1Vp4fOT3t4iQADem7h-jW8-50a9CkQn2iaIbDT0QZP7DatgSpg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQL7zBnYq_ITjfXJa_Q4kXS0VjMOMN4aZ0WnlSLmElz9cg&oe=6ABE5771"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=962887652861436"
+      },
+      {
+        "id": "1084770644016827",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "המוצרים שהתעניינת בהם עדיין מחכים לך באתר!\nלהשלמת הרכישה אנו מעניקים לך 5% הנחה😀\nקוד קופון: BEG55",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786853739_936599062792341_5538144147104767409_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DyG7INTAbb0Q7kNvwE04k-x&_nc_oc=AdoiGKCCC0JpuD5M3stF0kgk7UDRZYz1h8cjGi66idichDMR5_0J4QkJZl8WUiFFj84&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKZABghmR7QWdRv9xq0OjDCKhydSOvwBXNschg9QaxUvQ&oe=6ABE5B5E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785146741_1223424493290692_7440083651670608006_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dH3YSW6lZTcQ7kNvwECbBVN&_nc_oc=AdrXuWxfoAMggfV0R0JCjyCW5-5dFCN4zoJXfgrVyuhhkWP4wlB_N7_kGDTWKknwXSc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKZd0KoTYXph2RdobPdkHsiJAk4w4RsRUSNqMt-OD8ntg&oe=6ABE50CE",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785146744_2120044552263388_2601564666532920409_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=djirjppLRp4Q7kNvwEVxWRN&_nc_oc=Ado5XS-8CyUP6Ou85s2v3IjZlhh8-lnAOrm1CfnHo1SbQzsaxKmac13Jh2yov-rbLEE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJJWop8kBzwHOxJw0aSWMDIYFllPynUhuEa8rKvE8sLGA&oe=6ABE404B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785600000_2044755232861879_1941928583812134285_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6TUymMCG5zwQ7kNvwGiiyOf&_nc_oc=AdqwRyYimRyHiCXhVwsym_FwmJGapCuZYWq9HVzOUd0SynRjGAZ0IFwqI8ISLlFtNuU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI3ZVnAQkRxq0J9SCcFFtLCVrO4yMXTKp8LxRa2DbNapw&oe=6ABE53B4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784426805_1707594113681335_8311488404622130929_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m2nj1XN-s-0Q7kNvwEs1if3&_nc_oc=AdpTwobp5MS1ZrUZUJKmxrkdKaQY-fheFUZ3Ivs0Y9gorIj0zOZ5gy2-WEXx6S9A-AM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJAtyTg146cM-krPl7p-tSWbcGaDqP5HKMSOpgG_e-1Ag&oe=6ABE373C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787102071_1774380153695382_4895844704044581814_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=869CHr9PdCUQ7kNvwHAKCop&_nc_oc=AdqcqkzEKZ98h6X5WZy0QHrkIkD6L0YgISX_Q3crEhq4SEWKH-RQIJHYrAuMztoerkY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJI42OUSaBM0glRAwsaYaOx9QvsvAEmu0uEZ_FhSj1rFQ&oe=6ABE3A06"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1084770644016827"
+      },
+      {
+        "id": "2024424614880364",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הכירו את TOUCHCARE - סדרת מוצרי העיסוי שהופכת את הסלון שלכם לספא פרטי. בין אם זה הצוואר שתפוס מהמחשב או הרגליים שכואבות מהעמידה - יש לנו את המגע המדויק שאתם צריכים.\n\n✅ טכנולוגיה מתקדמת לשחרור שרירים עמוק ✅ עיצוב ארגונומי ונוח לשימוש ✅ איכות פרימיום שמחזיקה לשנים",
+        "link_description": "₪159",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406040_1457026172916472_1693561590668085359_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8cDbQY9j1_kQ7kNvwGt0z9m&_nc_oc=Ado9JihSNWSLpqVAv9uHSq1Zi_h8D5WZa00ZmwDyajLwlsls4PuHmeP2V8VWq9Df45Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJBWSrZYZvC6wFct0oNROdSGexyKfmMOhjjbuKj35jVPg&oe=6ABE4C32",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406347_1644457300578765_7464815921093023051_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V3jovNeouAMQ7kNvwHk6Pba&_nc_oc=Ado9ay2PR13bJgnq_3epCwxNu_cXdEpnLTiCrg0Uk3z0i8C-LKRcK-QuTKw2KDeGYH8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLytf8LOQm9a2in5-YCC_UIVdx8658zhxNeoDuqIKCMTg&oe=6ABE443C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787405891_1603242124778140_3817223388527624960_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Xoz6VuA8u8Q7kNvwFmb1w_&_nc_oc=AdpOkR9vuLwO9wUYuQhs6AXVz80E6cl-mcJlNescjUzEELwXfzg3iO6SkPSDHC0Lp4U&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLSwZzXm2xbWNXRau-69EKbSfHWmQuHzRqzTz5k5BttSg&oe=6ABE59B6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406214_1579060480199225_5674874291972678756_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5OXXYCoDJdUQ7kNvwF5-pRe&_nc_oc=AdpgkUrF8XSeUXal0uIn4CQuv1lWxQjK7qE1m9BeKm1-X8NeqoUk-9RR3yNsPRJhLUo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ2lE5rWFcVZyDQyprBh5b5PiToU3bYKWrT4HnY2Fax7Q&oe=6ABE519F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787406126_1859389788368634_3067985995612925840_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A20QnX33vS0Q7kNvwHs1DC5&_nc_oc=Adp0hy_MquLNZpkEASqM1GGsZGozFLllryB2PSRT5WV2izrG518LTpvHy_AlcNRM0AM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKYKl46NG2NgEth5FJTNRKgi4MUXb_AE67HB2N6LoT_cA&oe=6ABE5A23",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787405996_1764499988072350_5512721206995713228_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N2OhUocylnoQ7kNvwEajG6A&_nc_oc=AdrR056ld8ZcQrgSulAjvtFefNehgevlXhVaxTdD6_dkKnugRImIxCnib30p0i-gwKw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ1qsEmhFzQnjxp6mWlGs_2VIoAsAadLcQtI9Du5qrq_g&oe=6ABE2D0F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2024424614880364"
+      },
+      {
+        "id": "960451953754111",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מגוון טלסקופים מובחרים במחירים חסרי תקדים! כנסו עכשיו >>",
+        "link_description": "₪159",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787451568_2259841521224802_5152343527912879136_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VqP6OALMsDsQ7kNvwGikM6c&_nc_oc=AdqnGQXvrAVsUYCNdONdwGxawPLu7ZxiHTFbj29tqjxf7sdQK5ZCraaHNJMwOubXhEw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLCaWXgXrLjVZvFdTRN4g8CrLEOmXuuHrR0v9n3_sF0hA&oe=6ABE40FE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787484333_1831656914669228_3897841987236442216_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fwfVQwOwf9cQ7kNvwH6-Ymq&_nc_oc=AdqbQTJk6McZMxXv2fbAxdFFiAI-dv_SRhqpE5Y2GWcmAea2n_V8FzcuAaW78cbdHkE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK0NQd4PDPNFbBd8hkygf7uce-lNOZPtwnkUe1bgtB9Bg&oe=6ABE4281",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/788141810_2057619505641214_3081409076307590335_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TsW3L3TrN40Q7kNvwEIs0nu&_nc_oc=AdqScwP8PaH6A1xlSWJJg9qTQkoiYAKTJmj1sO_swhKBoVJ4uxRQfREtf3NCZUFW9yU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLoqEgKrPR-zAo6Sj9jIYK9AVpvYkz-Aa2jOhlVkmqVNw&oe=6ABE576E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787451580_1071590888572081_6704903877201053917_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kFrIgZE7HksQ7kNvwG94tRu&_nc_oc=Adpk1eWBEHkuYSJxjfxR3tG4jiO-PLTpnSQPpQqKuhqH363TyJhyGwnq_gTKKTXWyyE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIYQxM1ARlnovK0iO3CdiD1tgl0xCOyaG8Hw-nYkhvk5Q&oe=6ABE2851",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786828510_3948759491925985_8588353962623629670_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2IYWoemrpnEQ7kNvwG5oSJK&_nc_oc=AdojCGFOxHZ3PXRswTqzeLX2edFfSHHkq64lvgOahVwEW4UBYSROcf1pfBwJKfmBGnk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKI0pz4I080RPSm2dnxyCJLKKz9dsu_Z91mNGb51P_LoA&oe=6ABE4162",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787507366_1396371375772762_4488382345822780986_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CN4M-fwLc8wQ7kNvwFzUU_s&_nc_oc=Adqvrt5-aEvut8lc7NYwS26wPEz9TBgDthMRh9GOFo-7iTSoFHT09VMH0i83JNCyJkE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJIAo5MnLPiGf1WnT4wl0nygt0JOhDNrK5u5YYjTRXjig&oe=6ABE4833"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=960451953754111"
+      },
+      {
+        "id": "1380292104264371",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כל הגאדג'טים שאתם צריכים (ורוצים) במקום אחד 🛒✨\nלמה לחפש במקומות שונים כשאפשר למצוא הכל תחת קורת גג אחת? איכות, שירות ומחירים שווים – על כל המוצרים.",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785925540_907972982384272_5457420880375281566_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tZLwZJaD5bsQ7kNvwEu8a1z&_nc_oc=AdoO7eMgSnsQaJ38ejrr67gWiVKnuEj46KOSfBrGgB8hXXgDkQzADCDG7evahB5K0bE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKtDscQHgeHtY5B9g8uMk040xRqQh57n-fMByBXmX7jiQ&oe=6ABE394D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786422986_4292310657699633_4083356208205939561_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AVC8BkQut9wQ7kNvwFZzXqk&_nc_oc=Ado09EOubBTUsL7xLWlEK9X_tnpVw08xlcQHsGukr4LK8x_rkU5JdQB52UN_AZkh2OE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLgvL6Skr0ZV3I0_fGA731mgFg1kZWa5oXBEAh54SC0ZA&oe=6ABE4661",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787682282_2718788718563979_5546248269149574092_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sOkrmCRuVSUQ7kNvwFriL7D&_nc_oc=AdoJLLcb8CPAl7RfjQGO4NJE8PpV8fRyMzENiM-FWJdXWu3HgojgQTn1oioWOBqA8Q4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJrEfu1mW6d2eSvkkzxJqdC87_aTJ_C-FD0OyLHnXPx2w&oe=6ABE3B8A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784748348_2069369403674109_4083267987384844521_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xPNdtOr9llUQ7kNvwHKwF0K&_nc_oc=AdpGSivI67IFlOB2g7r0k_FWPPwE_khTMimWHx-Yq0kpNcX2FhwoudPg_Yy5RY56e_w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIiVkT_o2uq8FSsdbMZCKp5_bXJGiPJTAGMAMMwHJyGLA&oe=6ABE5EAF",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787021412_1079128164469093_336580363701949754_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A9jCSZeMEtEQ7kNvwF3PR7I&_nc_oc=AdoIIVMFRnv_eE-taEzlMek45ojLz3tXF6en6diGumYcoVPmdhPbNKDiLEWrAmYruqc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLINwoH7wbhtB120yaCcuz6p6L1kkfngz3MqJcsfz-8Yw&oe=6ABE5286",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786543132_1047975907944773_4467029067745800924_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k9cGx54z_5EQ7kNvwHDWYwg&_nc_oc=Ado7H_iMesRChefqazRLPrNwp7aSgtsqujUcB6bES94BvvCoxRlKKpSmRxJx08JGhkE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLcvQj2h2NQe1uvLBlQ2XMYnJLVa38AeYp2QPcbP_WEzA&oe=6ABE2CD7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1380292104264371"
+      },
+      {
+        "id": "1759889392101752",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "מחפשים את המתנה המושלמת אבל לא יודעים מאיפה להתחיל? מגוון מתנות וגאדג'טים מחכים רק לכם",
+        "link_description": "₪199",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786811229_1610378423822661_6877789354762352718_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vdw_PsjoPfQQ7kNvwE0cPEh&_nc_oc=AdqZUQM6kAAGuNXcKO0G-Q0soxThaZy_s3laKCMySGCvSkmVLAeipOZjZdVAh4N6i4M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIL1ymkVt3XFa0SZAHyn_3xEaSMXdh37_2A_7DUvVRrBg&oe=6ABE2C14",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786342949_2893667057670083_8221326328861533796_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8nYZMLB_nDgQ7kNvwEE0KkD&_nc_oc=AdqADgHK1LelDR-Fk_oyMLgp2bakAODV9T9gG8-NZHuA-3EBaoXp_7BUBVuFS7v6YQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKHyq0Czmr3WBiDUeKdRMgpVAfmMedLiOWZHuYDlK35_w&oe=6ABE2787",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785944591_5403835803175352_7339695181452162547_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A7WMkN7PrmYQ7kNvwEvZRQ6&_nc_oc=AdpnBkgOX3wp_igEjFqnX4n7p3jTMPW3T4MwVG67_rVUrIbo8fe_gyAj4gJ9Xsic5Rg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIL8sBzsiGfS4iOzvb21WjwxIYg23FGsyOCkmyoK3tO8g&oe=6ABE2ABF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784748362_2604941049989873_1537291664493972885_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hcPXhrqMOY0Q7kNvwEN4tI2&_nc_oc=Adq5-VvcauyhYsvoR0EbQp_x2G_0H5QDQMpB3pf6iNarqtElwNBIWIao9_5AyYlCkyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK4f0YrFKQ-3auG71ICd7gF94_g7BZLp7GSfr2xq9G-pQ&oe=6ABE4285",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786313789_1108718981484635_6510470587017608661_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xEDlgKLWLI4Q7kNvwGfpl7J&_nc_oc=AdqpYzafbbcmWE602U8r9LZvtZUavylY6Ra70KscE0_Au7Ls8sZoRErs_a5pU7Gv4wk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI9KGkNjZ61RAzULD0SsQi_xSQAGNA7nRQW465GuWuF7Q&oe=6ABE42B2",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786035767_1770017524151894_8736308599287644526_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y7g1g5PpJzoQ7kNvwFk44qz&_nc_oc=Adq_pqY0C4jHZ0bFyjZJfR2AmP2PBYKXBu6TetAmzoE9GAEEKtYit0VZV7iI3ZS4MyY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLitQGAw8Ja4kWCYXBw3u6EySd7mxpy4n5mYUMtidN07w&oe=6ABE50A6"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1759889392101752"
+      },
+      {
+        "id": "1616888036474868",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "עיסוי מפנק לצוואר",
+        "body": "כאבי צוואר? עומס על הכתפיים? תנו לעצמכם רגע של רוגע – בלי לצאת מהבית!\nהכירו את מכשיר העיסוי שיאצו לצוואר ולכתפיים – הפתרון המושלם לשחרור מתחים, שיפור זרימת הדם ופינוק אמיתי בסוף יום עמוס.\nעם עיסוי עמוק, פונקציית חימום ונוחות מרבית – אתם פשוט מניחים, מדליקים... ומתמכרים 💆‍♂️\n\n🎁 מתנה מפנקת לעצמכם או למי שאתם אוהבים – כי כולם צריכים רגע של שקט.\n\n#עיסוי_בבית #שיאצו_לצוואר #מתנות_מפנקות #בריאות_ונוחות #מכשיר_עיסוי #שחרור_מתחים #גאדגטשופ #בריאות_מבית #הפסקה_מושלמת #גאדגט_לנשמה #מתנות_לעובדים #יום_האישה #יום_הולדת_מרגיע",
+        "link_description": "https://www.gadgetshop.co.il",
+        "landing_url": "https://www.gadgetshop.co.il/products/shoulder-and-neck-massager",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784251921_1694077181702491_7749468924203801717_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FyDAgUfXphoQ7kNvwGHAa7s&_nc_oc=AdpRGxhaeaj1I1np1XekoM8Ivn3Y01QRb4MhD-D44OVAWb5upyyVHPBnGtwtuQp_AxM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKWFmxit0I3Z44KbBg0C0GLd_tlxB5M0NUmxL-QR_KfMg&oe=6ABE2F81",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN9nPRb4MN2VIscU4IvsJ2IWMqmsHHAICOIehOV12KzGVEdijV6gHPufNYo5EEYBcQpgnhJR0K6KVAEcAgKrCeHu8iubbwywFT3v8neNUYVsg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bUFUeuMyuSIQ7kNvwH84sbK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk2MzQ0NjgwOTQ2MzIsImFzc2V0X2FnZV9kYXlzIjo0NDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6083f9ba58d0a3e5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTRERDNERDM0QTdGMEFDMENENEJBMUI3QjgwNTE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NEZEODM1OTJDREZFNEZCRjdCNTQ4MTc5QkQ3NzhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQir62mpigBhUCKAJDMywXQEEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1FfIil0cntQ3D3xkzCkmmpzD0AiK-KE_R_lVuvopClQ&oe=6ABE5207"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784251921_1694077181702491_7749468924203801717_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FyDAgUfXphoQ7kNvwGHAa7s&_nc_oc=AdpRGxhaeaj1I1np1XekoM8Ivn3Y01QRb4MhD-D44OVAWb5upyyVHPBnGtwtuQp_AxM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKWFmxit0I3Z44KbBg0C0GLd_tlxB5M0NUmxL-QR_KfMg&oe=6ABE2F81",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN9nPRb4MN2VIscU4IvsJ2IWMqmsHHAICOIehOV12KzGVEdijV6gHPufNYo5EEYBcQpgnhJR0K6KVAEcAgKrCeHu8iubbwywFT3v8neNUYVsg.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bUFUeuMyuSIQ7kNvwH84sbK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NTk2MzQ0NjgwOTQ2MzIsImFzc2V0X2FnZV9kYXlzIjo0NDEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6083f9ba58d0a3e5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NTRERDNERDM0QTdGMEFDMENENEJBMUI3QjgwNTE5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NEZEODM1OTJDREZFNEZCRjdCNTQ4MTc5QkQ3NzhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQir62mpigBhUCKAJDMywXQEEIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1FfIil0cntQ3D3xkzCkmmpzD0AiK-KE_R_lVuvopClQ&oe=6ABE5207"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1616888036474868"
+      },
+      {
+        "id": "5484558291769148",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ששבש ושחמט במגוון עיצובים מרהיבים! המתנה המושלמת לחובבי אסטרטגיה או לפינוק בבית",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787936041_1057332970373258_4210104490109673124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G12vfxOj1YgQ7kNvwEA0NkA&_nc_oc=Ado6Q2g0nFiLtdInckaEAtBzSvt7C2XUauHjwK5P_qOwRXNpCgBQ8JlgYSDgvZUcNIQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK-gRDmeztml0YzngCTjGslxdfu_B1-k8moAHMZBB68wA&oe=6ABE3CB6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787060581_1373150304961902_3074846999276402378_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=94dAQpdiXuYQ7kNvwHE5Lzb&_nc_oc=Adq95d-Nm7H1MSaKd8AfodwiKZJOfqaMoiHK1WwFE95P4viOur_3Zg00cExS3YkXSBs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ1OP93SOq7OcL-L8I7u20_YILPRUprNxsSFanssgBrlw&oe=6ABE2DC3",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/788060381_968771419569418_8288525342780645986_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oK9jXWJAohEQ7kNvwEfjHGi&_nc_oc=AdrehiadLRnUNiRQEUQ-5L8a3dAEwIpvjqzQ-75vVSoZZ-ZYonstGxA7QynjGv4s-P0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLIL7YVszgYmAhA8A8XcUGOeneZJqrt-YzI_5kUL9eftg&oe=6ABE46FA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787160277_1427662652577648_7850826121596169406_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cJoVgepI91MQ7kNvwEDhQuM&_nc_oc=Adro2zAqtRKkwlUEYZC509_aL-2lks2zkQwamiwVJ2k5AJnTC8Dw8XkdawhPsrJSYc4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQL8UukcZfweeA_AwBPuqTHVEnUOWrHCBu0EF4jhhfKA4g&oe=6ABE57DC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786946056_2216308958909834_1881010644070929854_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UFmbK0I8QToQ7kNvwHCsEc2&_nc_oc=Adqo2V3qZ36NhMeNlTK1xkZCmd2uG8azfmIwtfth8QItD4thkmL3WYT7vi-X9bKcWwg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ6VtdG1a7vvJXnNkBICFx-ZDxV1wLMP2M-nWMhj_4GXg&oe=6ABE2E8B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787639505_1582282243360393_3499275347148239067_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L7n1H0Xb5z8Q7kNvwFCGznB&_nc_oc=AdoZiTcf0sI8Pozaa0wvuKlUyXihuhJx5e66TUilFaNySmhoJs22_aLDEynm9EWdhz0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI_HWnSQkwdpp0KaMCkNoAUIF0ft4JXFYXb1Jy_5aFz2Q&oe=6ABE3146"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=5484558291769148"
+      },
+      {
+        "id": "1594407408734052",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאדג'טים לוהטים במבצע 🔥במחירים שעושים חשק לקנות 😍\nאל תפספסו את ההזדמנות - כנסו עכשיו!",
+        "link_description": "₪129",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/783671947_1801249251217229_461084571017028676_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ci3PjzeA5uIQ7kNvwFuuG-Y&_nc_oc=AdopOgHzIWyn87GjHjZD2j_f4HySOaImazzBQHKSbL--VDkAz7-lxO8coh_aSpdS8U4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIKTC5xD1vlnIFIPTtO9B-JXAg6qLoG8P197IFmLb3pNg&oe=6ABE5868",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786853735_1043540308591918_5795825549281819076_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AIdxDDZWkV8Q7kNvwGu04CA&_nc_oc=AdpQiak-SDKb74kMa0riLsDmd1xzw2T5KYSxK2U1_GPQgPoTaz-72RNAohQIVIVqhvs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKlujaVuA-mR2o-eO1MltqOz85AZ7nz8fRgclrdXCnfgA&oe=6ABE36AD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785993198_1056683137328609_7208157583763335463_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2D-qfBOElc8Q7kNvwGpoQQA&_nc_oc=AdpG7kKBB6S-eXkui74k9po-NkrWYpZCV-IR57OkchPQ0aMB4PCEGLMn0ukquns8aLM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJsELVZBVSUXGUu-ZPV0SZpqMGLMMXVy_Kta67Hab0RBg&oe=6ABE2A51",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785925554_826604440478236_8088438269030639717_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h7Y9so39Yt8Q7kNvwETUyDG&_nc_oc=AdpDPs3C6J10oGST7PCK_RNxGIzb53iNWlkymuTPEQm7jFFEZQdfI1Bs8iaM5dVqQOM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIKdlO87GAyMxqT0BhbVGArtSSjudjzVjs_VDrGguebNg&oe=6ABE496B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785248928_1421076433288618_3089510917088325274_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A-bgT_dVbEUQ7kNvwGlTQRW&_nc_oc=AdoryiJtCTtNabYvFYbypIDlpTqoQQTZnWnibNS2FHnmvwDy8PYQOUEIM4Fsvz9q3bw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLrdIwL2zFfLKGFljP1ONbGbWZfbUha84hLmuEGqtVG_w&oe=6ABE348B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786158050_999094713181919_6534501824815047429_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R6yUjbu_XEAQ7kNvwFsFBsw&_nc_oc=AdqrODqMw99q0dN4JDi5eYNp2xhZFEg6WoJGJjgbWO-UKnxaf9se0KFaasre5I6jfXo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIblYcwIj2dZPUodEUMf4fq9BpOS0fXugvNk5egkAoWLQ&oe=6ABE35A4"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1594407408734052"
+      },
+      {
+        "id": "1770039430584846",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כואב לכם הגב ? שפרו את פינת העבודה שלכם !",
+        "link_description": "₪29",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788418800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "WHATSAPP",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786801695_903874869072562_3144160846027160668_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JIYl_cR74SYQ7kNvwHzq_34&_nc_oc=Adqgn0_HIUo1s2fsJM9VrwRhqiS_VtA8Q6evPIyztf1LqT5xA401C5guV2PIbw0hT6c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKStmDppTV_X2qY5YzkkZsqh90qemRHF1LdpDj1GVqmYA&oe=6ABE5A7E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784718344_941568052331005_6232196517689545973_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7MYwdhdJdtMQ7kNvwGkVPNr&_nc_oc=AdoT9O2qAu8MbvwwoUQmgv5dEqZw8WSanV3Q9qoHy4lJNUakXBB_gGKUcd57R6LMnBs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ0wNj_JOIK61MIfg-uVyp7MeqTgX_uWrhw2hM1VWGyYA&oe=6ABE5185",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786828897_1378903441124693_7482277110375995515_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3kX18veQNRwQ7kNvwFXLnr-&_nc_oc=Adq66qxyskfkSz7W1CQ7_fz--PfRFrSgDpZPBeFh_yJtzD9HNH_DNTBKosYQ974P4gQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLzuqbRecSWjJz2rx98gUlBaaC0kk7jKGKK-ZUATUTRgw&oe=6ABE5105",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785136959_1126924429789516_8541391901279805515_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sE_NuCU3uhsQ7kNvwFryDRm&_nc_oc=AdrPVBQWx19805T9P-96DkHr2yNlH2AyjZmY_QZQgfC-1-eJOygIayozKNbZntxw1eQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLkfiwkUq-MUCbSEKW34bWzL_MIy1cbVGicBca55G6LZw&oe=6ABE4C89",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784507865_1065000096023409_9078220060740206750_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x_BEZ5xVwFUQ7kNvwHFpdKd&_nc_oc=AdoT-HHPl7esSBqrhLZDGfZYkwgYlSbfPQGLm-PdZBVpWGS0pWHxZx-TVTquAQQ-NnE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKNVjfdvhOiI2v1OY4oCoLOIYbr97Y5UaUxJOwViJRpXA&oe=6ABE3664",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786916621_1595871112034266_5134145733053230296_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RVwurGBV47wQ7kNvwG4-e_X&_nc_oc=Adpx68A4mekl9uH3lTU1v8ZbKn_K06twMS96JTjqdvc26fNNMTP54SLYUlO6m0bAJfE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK92co0EqeNo8a5vdGTlJjutem7ABghwTRvCyKT2oFzKg&oe=6ABE3C07"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1770039430584846"
+      },
+      {
+        "id": "4582341295384668",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גאדג'טים לוהטים במבצע 🔥במחירים שעושים חשק לקנות 😍\nאל תפספסו את ההזדמנות - כנסו עכשיו!",
+        "link_description": "₪129",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787682279_2478689279276310_3108563843219019628_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a8voXbWwgakQ7kNvwFB2ibd&_nc_oc=Adocua2QAH5Oq8LDapb3raatK024qWMP03BnSPlIB59ziK0-sj1IbIFWE43fUqPh0XM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLfYfrMyE0StTU0R3CpZuTqHL68bi88uBJxZreiOJhYyg&oe=6ABE3F88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786035769_1060592939892682_2655378270970349207_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7UMHQxD8Lz4Q7kNvwGDZUJT&_nc_oc=Adq48iGhCu-IeT2tFBd4_G_Rbf4o5XGj-iF4qrIyfOCUQCQdrHZHKgEpn6YfNH0HDEo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKA5K6fBZpyFCeqX4RPwAQjz_UYJCIVuWDsZdteUkf_9Q&oe=6ABE4E8B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786811229_1038017815671753_367154011811688524_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iPutW0RHXekQ7kNvwFgEeR1&_nc_oc=Adoa3uyHg4BQa4kURxF7tIOLMqJHA370h2Q6aaY_bEVvq9Hoh6S5Dhpt4Emi3MwhaB4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJEuLb1RQAdQPi6fbT2QXW1_SyidFYuAQkb3jbhw5iyGA&oe=6ABE5AC0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786778275_1557444539734159_8536943226186158243_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmkU_sdkXucQ7kNvwGgIUjT&_nc_oc=AdrBdjqPNHQqbJCcKDARUjs1SmMTWntdF8MWvEk5UEPaMjJfhndUL4cnbhtMUmrtUKA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJ1Q6sHfXJDJOPnaDP3H_l4PKQp1DyteCARE_tOOsydlw&oe=6ABE4CF2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785993188_2178174686441595_5382895650961655454_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h9qmT4f703AQ7kNvwHCWs_5&_nc_oc=AdqYF65U_ky4PL9p_iJBPpkym3GQ4ywVAgLoeLQLU5UhoBO_nHlc5HEO44Pt3vxtZIU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJp-Atm6WjTMGmgOFFJxRz0Jm6Ai-2KIUO3ZGRI7FcaMA&oe=6ABE537B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784426850_1351234007000232_5946088128297813407_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=-z2fC9a-VHUQ7kNvwHGyj9b&_nc_oc=AdrynHBbv3aU4pGb8t2N6GuJ9THkMkj_vnNxOnNrCTCh7yQA5fmgWvRTIWwl2YDJOzo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQL7ElLdkl_8vgt2cY5Y_BIu3BrqWfpHTlDLr0lkNiN1FA&oe=6ABE3B5C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4582341295384668"
+      },
+      {
+        "id": "1813317316335528",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הכירו את TOUCHCARE - סדרת מוצרי העיסוי שהופכת את הסלון שלכם לספא פרטי. בין אם זה הצוואר שתפוס מהמחשב או הרגליים שכואבות מהעמידה - יש לנו את המגע המדויק שאתם צריכים.\n\n✅ טכנולוגיה מתקדמת לשחרור שרירים עמוק ✅ עיצוב ארגונומי ונוח לשימוש ✅ איכות פרימיום שמחזיקה לשנים",
+        "link_description": "₪79",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1787727600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786656836_1447014277344753_6117051264900143383_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Pc9-UO78jAUQ7kNvwGnVp4W&_nc_oc=AdoFkgODUs0UUga36YdPFJQ-Ql2ZWalK023I3qeIhjRHJ7ajZz1WAdn_aVrTew3SS9A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKQkyi_ekfHYDxGYIMpdf-YKEnblFeUH-_AO9AzkIW3LA&oe=6ABE5455",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786493009_1062378700019372_1299424337706262528_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yRlCtjlSqbwQ7kNvwFwCPIv&_nc_oc=AdqjrikUDnXhgtUMsbXdwl0HKTJig0R18O78yiWt3TW45x9k9HM7R-tNckEOgXQsRf0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIbTsvmCQUCA2T1rdDsBgPHCONTwtBYaSPiWmFr2uVVyg&oe=6ABE30D6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786166948_1103632392007673_4937974365533756904_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HuiZRD3AN1sQ7kNvwHf3O2w&_nc_oc=AdownTJZrXrkM7lzOQ32aZkLBKe1E4xPMuzlEnd1aWi8_-93scXMsqwS_vYqUGehydA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI2H77P_ZeAVa8CS--Ej11H6il5bI-MQ-rAZZPybkoeNQ&oe=6ABE49E9",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786282828_4605404216402894_419480046960280577_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mN_C6dV7Gd4Q7kNvwFs57h7&_nc_oc=AdoKrGt-xi4XS9KRoRlVYHMCiTR1enWKbMWD1ElOiQbUxFhReQssPG6rkUgggAtGAeI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKjk9d8HKjGoix4gEVWlW2AzbDXtJ4F0zgA_sodG86MFg&oe=6ABE330B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787001085_1566264344365064_5671340636299525095_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KxRYHhrKxugQ7kNvwGfDzGz&_nc_oc=AdoVMVQ_93Y11Lmh9pXDl9deEhh4SoYqH2X101_tT9zifaZeHzDXLw5Cm2ekQQ73Lyk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIiY3Xo53GnRFG8BMH3bY3QI89GLTxlNK1gMs6bFgFcWw&oe=6ABE4A40",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784787501_1077371084778530_753842328103262311_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GFhuDWLolKUQ7kNvwGzUaYO&_nc_oc=AdqHuoY9-huN1y2eN8eBVhPSRGFEsuLr81rpQp38oNXhgaQ9JXi6QH2tsgbs5SKd-ZE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKxNzns0SZ9bDFkiQMWrf7Og5M_9YjEErDLbdQQ9euE3A&oe=6ABE33E9"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1813317316335528"
+      },
+      {
+        "id": "1385611516557809",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כואב לכם הגב ? שפרו את עמדת העבודה שלכם עם מגוון גאדג'טים מדליקים",
+        "link_description": "₪99",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786854446_1088654660359670_8434718380057231283_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G0QYqcs7is8Q7kNvwE2k-zF&_nc_oc=Adp9bJoHfNDjv4u-KP4lTtNLG3XOisGGIJnk_0nC9A84pUQYmh3Znt_8EBmV3Y7tFK4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKU7xXNU3ghhnZ1W02al6d1ef_4pkkQFjCA30Ek7cHUrg&oe=6ABE5C09",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786141074_944563741287917_5073396860270677377_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GF3aq22IhTMQ7kNvwGcN2cB&_nc_oc=Adr5xxysgzc62gQsaHb7jrrcq-2jJWGD7PMG_ShvKA9HctfgTT2lAN2uhepuwhByHis&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJAVuXN-1VH0OtHjwCQIkq1BjfofYKgChi4d7I_VaRp8w&oe=6ABE5307",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784005222_2156655638585658_7853062821526313755_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XsmbILe3uDoQ7kNvwHcZGx-&_nc_oc=Adpqp6y6CaWYJEEH3Sjnkd0BoJSE33XC1Ry7jo9mzxAkD2Z6jFmqLJxLPSpJddfae38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJPMuHBxnsYc9zd1m9RQnPp5Br9udr6lAYn3wnfPmh9iw&oe=6ABE33CA",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785136961_2559537361174592_894022571593497160_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wHgDl7SRyMIQ7kNvwFA8wEj&_nc_oc=Adpz1rmI6zya7Lg_tZwGF-0NiKjrJifHe6083RjPg0cqhl1E2-xtsMlI70C3NW-_cQs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJmxEaOU8gB7SdAeliL1cIpZj3N4LKOZPu0JfmChEiTkg&oe=6ABE3451",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/784328088_1450677783544281_7822553713845064890_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I0Nwz2C1ed4Q7kNvwEqC2hD&_nc_oc=AdpbN-pEkt-87Nx_sF0YzbvZYuUGXf751yD-b4Tstqsl7wQTu2ZJhrVhpS_s_lxb8YQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKtTBVrL8m3eoXnBcRkgo6fgrkCErQLd6tpDMKdrLIg1w&oe=6ABE4EC5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786036967_1451172047035677_305714087207060214_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hvF_H2-v-WsQ7kNvwGJUEYG&_nc_oc=Adq3tsE7dVDX0eypoE3wILIKKelUFRihrWXsNy-DPGMjNnzhqzBOkZ1SvOX2iVJkvw4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLKhKGg7V3opMFXxYO6eT8WMPEAd9q7ENqo0NNrgpx8IA&oe=6ABE3998"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1385611516557809"
+      },
+      {
+        "id": "2367221250480826",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ששבש ושחמט במגוון עיצובים מרהיבים! המתנה המושלמת לחובבי אסטרטגיה או לפינוק בבית",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790319600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/786890860_1041483198884242_3860773595039214946_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ouq0LxA8-SYQ7kNvwEcRGQN&_nc_oc=AdrI7_YeRI0gpeaWQUO05Kjg_VQF7SX7skVZHYRGy2MEJ0XCYmnmkX545ST994Tdp9Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKosrOilW4oPd-tiYn0cnR5Hwp9F3RYL_APo5-aAPkneQ&oe=6ABE325A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787196990_1404789824959709_2499580527353135171_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=98h2V1UXe9wQ7kNvwHIdCbx&_nc_oc=AdorJ1lIEaE9hN3ACMtd4TyR4QUoPjD8WJVsYcJad3VFAR3jsxtDIwF3XXziT6IqyXY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLIcfNN5rwSLQcu2SVp0nW-R8Xuv5TXJdEVP10SfgVLmg&oe=6ABE5903",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787308519_1968391554117049_1282550851572450470_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RxW5pcoNwRIQ7kNvwFQWese&_nc_oc=Adowew0gYVImXACUNd2bUpnv7_wXHSS8FPt_Q5FVwO54mSk9Y7Tv6ZZMbg9q0aGcsn4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKX3on6LJGDoCYmX8jC7jJ5GzniwfKQgITO1rYOWbmmXQ&oe=6ABE3F4D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787621867_2523505711474370_6975910312028998168_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3JeYuPZiQf8Q7kNvwFaIJt4&_nc_oc=AdpWvyo5RnZLv9qcTnkvvbeDWowHc6wUeTcliBQPN88d2jeZHfyO9RPHUqK7ImEq3NY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQL0mcHcUKz3XTqKw6JuOHIspJo5JttRqT1VRBXJzXGqwA&oe=6ABE49E5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787557727_2150298102195342_7681556163195259850_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aCojXoUoB-EQ7kNvwFzjQve&_nc_oc=Adr1M0pMwHCc1x2vZHl1p9judJLTEBRWV1W-oSmJkBVhbiG7Q6ouoY40gB0DdIdxsYI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI4oKF2tDLgMV7GIp2bTzhE-_dZsbcFKv1WxEX15L4gIA&oe=6ABE35D1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787507394_896383056582760_6822184636947090955_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1STV9WuE0Q8Q7kNvwESLVYT&_nc_oc=Ado-HqKUpxVFQOjGbr-Qh8Ei4JJeSAA7f92mTwu6_-9wiWGWR1Kbb0ysq2KCI3WiWXM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQK8eTFFbK48qjX0lTNBifv_220qaG_NHpKcJtvGFa3DoQ&oe=6ABE4F9A"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2367221250480826"
+      },
+      {
+        "id": "1409653288043361",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "ששבש ושחמט במגוון עיצובים מרהיבים! המתנה המושלמת לחובבי אסטרטגיה או לפינוק בבית",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790319600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/784572573_921332887703126_7396925955908796002_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gyfWnROfgO4Q7kNvwEtwGoI&_nc_oc=AdqUwIoMA_GpBbtyfIm9LAEf_UsTjaRJ4iikhM8OVdBz042NZ65gfNrVogVPDKSUtmA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLU7V3RBkUIEasp1HfG4QsPDS_ktuUSQIqi7ZqzyoABnw&oe=6ABE27DE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/785141569_1721298905808836_2051744683265691399_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_Uoor_7Z4S8Q7kNvwF5NvkH&_nc_oc=Adp02f32mMMZLPiLa9C8zbpyS45jn7xM9ktFvbCetKZEf6GpnOGcqLWDC1j3aSmaKmg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKvXAf6jX8JkOc99u207WirQUibWlzrvAJkvmaCK_Ufnw&oe=6ABE40CC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787506625_1957383618290174_5129038204346842335_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WOrMr-snNjQQ7kNvwHWkssP&_nc_oc=AdoIrnr0mfsrplp6sRceklxCJ0OawxbhTLK_eu9nuto7EmuwO_lV7SSN4BEPhRzVruc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKipsWf-UKEPTKQx8vvUhC4YfCWPZ61P9-vgdVgqg0WaQ&oe=6ABE3EFD",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/785123841_1982667102452448_1581199008487378920_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rpqQ0bmgsWMQ7kNvwH_Hd93&_nc_oc=Adocnl_4o33JV0mqnoT-iveUDN-RhiGfcaYgIHquBS8mgUI5_x0L4YpT0htkIxfyLaE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQKJw-e51fWAzmmg6qyes-7zLgyTTXyAr4GG1bIAD-JYrw&oe=6ABE5E28",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786927653_1761827418172621_7621111715067012806_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ex-71O0Q2BUQ7kNvwEPiKsY&_nc_oc=AdrF9bNm5pJGOvsTcJyfXAYtyArOtiJ47udyuOzhetw3awe9rxGBa0oiYikBESZLW8E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQJhjcjUzQqyfKEeTqcvNe854VJlWSl1nbD_XSJl8Lmo9Q&oe=6ABE42A5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/786811236_1591321049192816_2820109783974489605_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qtQJrRaC7YYQ7kNvwHShD4_&_nc_oc=AdoLrPZtvaKTuf0efQtE9VZ9A8nqR-zE2ztRhQpDZH-JkiIBz4ChSQFLymm2kcrGlmc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIH6oxjhEYseF8SZ3VXYbOZ4HGAtblnmqsGXTBMZvGhTQ&oe=6ABE5719"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1409653288043361"
+      },
+      {
+        "id": "1644854557241051",
+        "page_id": "598177366894597",
+        "page_name": "גאדג'טשופ",
+        "page_url": "https://www.facebook.com/GadgetShop/",
+        "page_like_count": 20900,
+        "page_categories": [
+          "Gifts"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "כל הגאדג'טים שאתם צריכים (ורוצים) במקום אחד 🛒✨\nלמה לחפש במקומות שונים כשאפשר למצוא הכל תחת קורת גג אחת? איכות, שירות ומחירים שווים – על כל המוצרים.",
+        "link_description": "גאדג׳טשופ - יבוא ושיווק מתנות, צעצועים וגאדג׳טים ייחודיים. החברה הוותיקה בישראל מאז 1997. בקרו באתר והזמינו משלוח אונליין.",
+        "landing_url": "https://www.gadgetshop.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1790319600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787083091_884019497921073_3468103457026150519_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IY-LObw5inUQ7kNvwFKdxC8&_nc_oc=AdrHTvafH7NuTtqnAl6WTsmY5-wKVv0caWpGrMGLljdsBzXPT0oms-8DHmIRouNwuJk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLXcn03Fp4lnZgCs9epgibkiLTq9zf1jud-mc39q-xebQ&oe=6ABE311B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787060590_1582616076649616_5443075990799679508_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=isBWMXEtDCoQ7kNvwFaOkPu&_nc_oc=Adpz5hv1LUKcfh0ExRzFxV6mT7mD7yo8PMiC_m3A3eAdsia8rfBxFb_7pmj1_evXu1E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLaP8pfU5DNtE5LNYVnQfwYqJDYJN0Cu1yZbG3tSqitrA&oe=6ABE2817",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787405860_4402944086627399_5820223624020084410_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fqHO5RANPZ8Q7kNvwENNu-x&_nc_oc=AdrwOGDKwtBsR2nz61qB7eXriBhdE-c43YVEJ91lrbyxPnDdWALfgPebBvYpYo10XeU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLG2klJfe7BncUUOS0-yuU2OgM5sPEr9-zoRcGCQgRsQg&oe=6ABE5B88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787405902_1661539122064823_3691004633612524708_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vJLgnS36WzIQ7kNvwGTejcR&_nc_oc=AdrzejjOi0Ge595IXOi-hVpzx349mKPYx1FuhhPi5SBYd5fO0h1SYYlA1149qGgXKKM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQI-4EEa9J0PSwkYSs9vdLyDHgNmTAIBANzRy0QYor15aw&oe=6ABE49D0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/787405938_1374567028137108_112717540141374016_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=StoKFm8DdmsQ7kNvwGGW6M-&_nc_oc=AdpsjdJ9KZE7qRq6Z5Y1HaPkKIGa3jaWAyUAE3qKIgHpJ_s8zANVjiQWRHs5vqp0j04&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQIZpmdLsh8RcxSQHvaXC-Cj4lKJwVvM7KSrSy62p3VW8g&oe=6ABE4406",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/787558201_1652034346481561_3472168014780202464_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Sx9gRtDBIRIQ7kNvwHriD_o&_nc_oc=AdqyJF5ZAbUL71uT7yoCXU7YR_h3DGaTJYfKPSXmf2JnxzJ0L8tNRyrfr8NtaVVicJA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=vEwSnYHO7xIL6lhyl-Covw&_nc_ss=70289&oh=00_AQLz8R7zfnq60fTrjcj1IBZtQzCmx7nsNxOdFHUSg02wcw&oe=6ABE3C66"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1644854557241051"
+      },
+      {
+        "id": "1380292104264371",
+        "body": "כל הגאדג'טים שאתם צריכים (ורוצים) במקום אחד 🛒✨\nלמה לחפש במקומות שונים כשאפשר למצוא הכל תחת קורת גג אחת? איכות, שירות ומחירים שווים – על כל המוצרים.",
+        "landing_url": "https://www.gadgetshop.co.il/"
+      },
+      {
+        "id": "1759889392101752",
+        "body": "מחפשים את המתנה המושלמת אבל לא יודעים מאיפה להתחיל? מגוון מתנות וגאדג'טים מחכים רק לכם",
+        "landing_url": "https://www.gadgetshop.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1586322716221164",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://www.ipromo.co.il/collections/rosh-hashanah-gift-baskets-employees-wholesale"
+        ]
+      },
+      {
+        "ad_id": "962887652861436",
+        "text": "מגוון מכוניות על שלט במחירים מטורפים 🔥🔥🔥\nקבלו 10% הנחה ❤ על קטגוריית המכוניות בהקלדת קוד קופון CAR10",
+        "links": [
+          "https://www.gadgetshop.co.il/collections/rc-cars"
+        ]
+      },
+      {
+        "ad_id": "1084770644016827",
+        "text": "המוצרים שהתעניינת בהם עדיין מחכים לך באתר!\nלהשלמת הרכישה אנו מעניקים לך 5% הנחה😀\nקוד קופון: BEG55",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2024424614880364",
+        "text": "הכירו את TOUCHCARE - סדרת מוצרי העיסוי שהופכת את הסלון שלכם לספא פרטי. בין אם זה הצוואר שתפוס מהמחשב או הרגליים שכואבות מהעמידה - יש לנו את המגע המדויק שאתם צריכים.\n\n✅ טכנולוגיה מתקדמת לשחרור שרירים עמוק ✅ עיצוב ארגונומי ונוח לשימוש ✅ איכות פרימיום שמחזיקה לשנים",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "960451953754111",
+        "text": "מגוון טלסקופים מובחרים במחירים חסרי תקדים! כנסו עכשיו >>",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1380292104264371",
+        "text": "כל הגאדג'טים שאתם צריכים (ורוצים) במקום אחד 🛒✨\nלמה לחפש במקומות שונים כשאפשר למצוא הכל תחת קורת גג אחת? איכות, שירות ומחירים שווים – על כל המוצרים.",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1759889392101752",
+        "text": "מחפשים את המתנה המושלמת אבל לא יודעים מאיפה להתחיל? מגוון מתנות וגאדג'טים מחכים רק לכם",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1616888036474868",
+        "text": "כאבי צוואר? עומס על הכתפיים? תנו לעצמכם רגע של רוגע – בלי לצאת מהבית!\nהכירו את מכשיר העיסוי שיאצו לצוואר ולכתפיים – הפתרון המושלם לשחרור מתחים, שיפור זרימת הדם ופינוק אמיתי בסוף יום עמוס.\nעם עיסוי עמוק, פונקציית חימום ונוחות מרבית – אתם פשוט מניחים, מדליקים... ומתמכרים 💆‍♂️\n\n🎁 מתנה מפנקת לעצמכם או למי שאתם אוהבים – כי כולם צריכים רגע של שקט.\n\n#עיסוי_בבית #שיאצו_לצוואר #מתנות_מפנקות #בריאות_ונוחות #מכשיר_עיסוי #שחרור_מתחים #גאדגטשופ #בריאות_מבית #הפסקה_מושלמת #גאדגט_לנשמה #מתנות_לעובדים #יום_האישה #יום_הולדת_מרגיע",
+        "links": [
+          "https://www.gadgetshop.co.il/products/shoulder-and-neck-massager"
+        ]
+      },
+      {
+        "ad_id": "5484558291769148",
+        "text": "ששבש ושחמט במגוון עיצובים מרהיבים! המתנה המושלמת לחובבי אסטרטגיה או לפינוק בבית",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1594407408734052",
+        "text": "גאדג'טים לוהטים במבצע 🔥במחירים שעושים חשק לקנות 😍\nאל תפספסו את ההזדמנות - כנסו עכשיו!",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1770039430584846",
+        "text": "כואב לכם הגב ? שפרו את פינת העבודה שלכם !",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "4582341295384668",
+        "text": "גאדג'טים לוהטים במבצע 🔥במחירים שעושים חשק לקנות 😍\nאל תפספסו את ההזדמנות - כנסו עכשיו!",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1813317316335528",
+        "text": "הכירו את TOUCHCARE - סדרת מוצרי העיסוי שהופכת את הסלון שלכם לספא פרטי. בין אם זה הצוואר שתפוס מהמחשב או הרגליים שכואבות מהעמידה - יש לנו את המגע המדויק שאתם צריכים.\n\n✅ טכנולוגיה מתקדמת לשחרור שרירים עמוק ✅ עיצוב ארגונומי ונוח לשימוש ✅ איכות פרימיום שמחזיקה לשנים",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1385611516557809",
+        "text": "כואב לכם הגב ? שפרו את עמדת העבודה שלכם עם מגוון גאדג'טים מדליקים",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2367221250480826",
+        "text": "ששבש ושחמט במגוון עיצובים מרהיבים! המתנה המושלמת לחובבי אסטרטגיה או לפינוק בבית",
+        "links": [
+          "https://www.gadgetshop.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.ipromo.co.il/collections/rosh-hashanah-gift-baskets-employees-wholesale",
+      "https://www.gadgetshop.co.il/collections/rc-cars",
+      "https://www.gadgetshop.co.il/",
+      "https://www.gadgetshop.co.il/products/shoulder-and-neck-massager"
     ]
   },
   "current_ads": [],
@@ -106,6 +847,29 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:47",
+    "unqualified": "2026-09-27T01:30:26"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.gadgetshop.co.il/",
+      "https://www.gadgetshop.co.il/collections/rc-cars",
+      "https://www.gadgetshop.co.il/pages/about-us",
+      "https://www.gadgetshop.co.il/pages/contact"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
   }
 }

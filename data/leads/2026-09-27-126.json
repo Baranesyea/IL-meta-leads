@@ -1,0 +1,266 @@
+{
+  "lead_id": "2026-09-27-126",
+  "status": "rejected",
+  "reject_reason": "website is not a store (no cart / store platform)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "https://aliexpress.us/",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61569007103366/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1065130393361397",
+    "page_name": "Mateus Silva0",
+    "active_ads_count": 3,
+    "search_keyword": "free shipping",
+    "sample_ads": [
+      {
+        "ad_id": "1599646514469085",
+        "link_title": "{{product.name}}",
+        "body": "🔥 עד 80% הנחה!\nמבצע לזמן מוגבל. מהרו לרכוש לפני שהמלאי יאזל!",
+        "landing_url": "http://www.aliexpress.com/",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710432294_1257849619512068_7191531959432725078_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=htdteJTGtpgQ7kNvwGitj1x&_nc_oc=AdqhGkyhXlOxXOjL3K5zZu-6dELWGW7Exm9RELarw5S0bK4MRi3Wj3aULQeMTjMIBe8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQIMYjLj-tdz-wH53-L6OxO1b7fJNPMo-v2eFMZyrx6Dog&oe=6ABE4CF7",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714822904_1302066001557118_3855337520228961699_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VlxfOerCTSMQ7kNvwH6yO_c&_nc_oc=Adri6_y5KNEGu5BmD4HLsF8w8M9M8taHGNA6WmwBfrlP4MsQHbfHKkSIKVqV1m2Ot1o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQIPEW1qsHBkXQt6DBFMqBNWB2w1ltskBN22vtjWeYB80g&oe=6ABE4B72",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709782374_3621813947993642_2209710712380339138_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P0cU8TuDTcMQ7kNvwHfi5uO&_nc_oc=Ado9RwXeEIiAb3BErZicSkjTMgUlvQeIZpEaP9Msd4paN3X2RmVryQZhYxzxXhFs4-k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=xtWEmAon6MkuoBTVF3XDhQ&_nc_ss=70289&oh=00_AQJkcatU1yCyaxWKrAugAztxILcMkNgBruhKJen4r0k88A&oe=6ABE60D5"
+        ],
+        "videos": [],
+        "collation_count": null,
+        "start_time": 1780297200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1599646514469085"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "הנחה",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 3,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 14296,
+      "product_score": 4
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1599646514469085"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 14296,
+    "page_categories": [
+      "Games/toys"
+    ],
+    "page_ads": [
+      {
+        "id": "1599646514469085",
+        "page_id": "1065130393361397",
+        "page_name": "Mateus Silva0",
+        "page_url": "https://www.facebook.com/61569007103366/",
+        "page_like_count": 14296,
+        "page_categories": [
+          "Games/toys"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "🔥 עד 80% הנחה!\nמבצע לזמן מוגבל. מהרו לרכוש לפני שהמלאי יאזל!",
+        "link_description": "",
+        "landing_url": "http://www.aliexpress.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710432294_1257849619512068_7191531959432725078_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=htdteJTGtpgQ7kNvwGitj1x&_nc_oc=AdqhGkyhXlOxXOjL3K5zZu-6dELWGW7Exm9RELarw5S0bK4MRi3Wj3aULQeMTjMIBe8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJIcLCm0jrRlkfRO3sVisfTY8xlZHZUbQYs5N-2AhBt6A&oe=6ABE4CF7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713464021_27278359268458399_3722761271539192712_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WuqzYdlPW5QQ7kNvwGPt1Vx&_nc_oc=AdolNjcujnqGkib3egCbMKbnn9NKi4chpwNpYhg4ookM7c-__BQKJmyeL7poYfKH1mI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJIXkDmxjK56bwf0BUuAV8g6gyAuWeBhkNZ3Ztur-jPpA&oe=6ABE3C72",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/709782374_3621813947993642_2209710712380339138_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P0cU8TuDTcMQ7kNvwHfi5uO&_nc_oc=Ado9RwXeEIiAb3BErZicSkjTMgUlvQeIZpEaP9Msd4paN3X2RmVryQZhYxzxXhFs4-k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJiFy_Tk8GOJgtph8swXe-vslBvvZxSgTxSFusid-upQQ&oe=6ABE60D5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714822904_1302066001557118_3855337520228961699_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VlxfOerCTSMQ7kNvwH6yO_c&_nc_oc=Adri6_y5KNEGu5BmD4HLsF8w8M9M8taHGNA6WmwBfrlP4MsQHbfHKkSIKVqV1m2Ot1o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQIMLq-4yXasjWUxO5U3EbhfeFMpRWBXOsnqSseNkoaQ9Q&oe=6ABE4B72",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/710468769_27388854060744818_6698092592518135552_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4e99I6ywSJIQ7kNvwGwXnJ0&_nc_oc=AdpfYjHoOANjGJURPjA0KzKgtM8cPQFi-0zJDEh4ifpc7DMLLIOt60iOGFn1nzw5pKg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJfCszKRYeXw_VHJNP3UspZfaVNYXPOjq59VW9DkoFYgg&oe=6ABE4781",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714671156_1545297177088570_4257090791106983214_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h6ap1nH_XPMQ7kNvwHY3bj8&_nc_oc=AdqjwC-A5yUMPqE3qh7dOjCImIwUv5CuUsH0Pbg7kL4SazFWYRjPU1GTylJA5mWflLg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQK34N6-ijdUe5m_UyTSf0NVpHLLzcfRSCeu9-ROc8QzWQ&oe=6ABE50A1"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1599646514469085"
+      },
+      {
+        "id": "1556512386180940",
+        "page_id": "1065130393361397",
+        "page_name": "Mateus Silva0",
+        "page_url": "https://www.facebook.com/61569007103366/",
+        "page_like_count": 14296,
+        "page_categories": [
+          "Games/toys"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "🔥 Up to 80% OFF!\nLimited-Time Sale — Grab Yours Before It’s Gone!",
+        "link_description": "",
+        "landing_url": "http://www.aliexpress.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1785049200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/756846669_1592753815765676_7680530295824607484_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SgPnYHkNhwgQ7kNvwFetRDM&_nc_oc=AdopkORr9MsQ6no031cmwSFoZCtCfd9e-gquqTwVaXr6dVNuE-WK1B3lDiBUQogHn-g&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQLwSY0rUm1ye3CYTu0kh_PGItnL1VS3msNsDLd-fKXk5Q&oe=6ABE5A28",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/758553851_1545359823960769_3184141562114166633_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TjJSEXMXJMwQ7kNvwEfwBNe&_nc_oc=AdrWZ1vIE5HNyzBNigN1ZdssH7u42Mrx5U9QG5Jf6u_8_GI3GZIPa5pl1R_EIQHBUkQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJN1txubKatYgeiYKTtcY_EFA0gQJvRhuL8Ab0McIReGg&oe=6ABE5F08",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/758778738_1697008444895750_5519525755979157537_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P9pnipE2QJoQ7kNvwGpkqqw&_nc_oc=Ado5p5GWpEglVClYJ_VLDgBFqZy69D9hybPubZ2jtyugvb62CCKK2SVsiInLC_BV_iM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQIARSlbbxd1JKrjynx3-vKzvBhrs9JkjeFjSw1ZJ8n-sQ&oe=6ABE316C",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/758731010_1736433367555658_5006169765973420512_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5bLhn8-nW60Q7kNvwFa7RSK&_nc_oc=AdrunrpPMa5kXLlhr4GMUxc89aCO6rwj9FC0XlVDSbe3nnPq4y2Q4UU6P5Vmw3Y1v0o&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQII87Qo7Ax7eb096d3rk4Qb1BzcxWKOla_zNGit0qJzuA&oe=6ABE5C29",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/757166582_1078025784554484_6789603556857288041_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7y6_vbXG6zUQ7kNvwF87P9H&_nc_oc=AdpqGcMY_fQek6X1NjyJXdYK9sbZrbrgcQbQmj86J_VExM3_ybUs1dLUXZWxzKpHDac&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQKxeYc1lWpVO712M8Z_cxzUKAt5kHdVGmzq5nGzO9gNTg&oe=6ABE65D5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/758751758_1085634350454785_3686363351068877029_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V2r1PZbG0EIQ7kNvwEh-PSM&_nc_oc=AdrhkK-0dgxLpI9O8m7nve7Pn9Haty-xgfK5NWpHDoLIYG2nCUpsuIwjs7iZq1Wgl6w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQLuY1OpsSZthWgfLomn9T2rBRw6s--z84Z_GSncI015aA&oe=6ABE4A7F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1556512386180940"
+      },
+      {
+        "id": "1779126316452948",
+        "page_id": "1065130393361397",
+        "page_name": "Mateus Silva0",
+        "page_url": "https://www.facebook.com/61569007103366/",
+        "page_like_count": 14296,
+        "page_categories": [
+          "Games/toys"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "🔥 Up to 80% OFF!\nLimited-Time Sale — Grab Yours Before It’s Gone!",
+        "link_description": "",
+        "landing_url": "http://www.aliexpress.com/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1788678000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798884935_2194145921156502_326573626231576160_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1TPQSNt7qkoQ7kNvwEYcRoV&_nc_oc=Adp5wPwyDb08l0p2D_CY6u2zwykpLo6vdDTQMVD2EiuOWAFp_uj4XjthYc7pHyCGUlQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJDSk8GI0MCr7Qy-mrsAYZusA1clN-xmTJvqs6AQDyMnw&oe=6ABE5C99",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799297272_1664837475206648_3373871578527561925_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ciNNDReIzBQQ7kNvwF4d7rc&_nc_oc=AdpPxsDpVCNdplobeFPYL8758tRczLROJEYkcGe-s7-igL5MHsUUZ-jIS8hSzL5gK6Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJXkVDefhMCGl-1jJNRU15jY1zIY8B9YDx5TmMNimsgLg&oe=6ABE3AB1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799171563_4048743238591025_8604978206461767858_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i5WP2sbPZJQQ7kNvwEW9sXx&_nc_oc=AdpQ4FmTdaECUsBInrH2XgbVDQYlxA-sauxkBBgCT0FM2LDa8PZBR9Nhs36jwHv6go4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJSdgMh9KI0yyZBNu_Jb0Z8W2GW2MNgWRRLCdjhwj-TaQ&oe=6ABE4B9F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799171574_1713433973722295_6266523166354907349_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n6Aw4WVVQdAQ7kNvwE9PHir&_nc_oc=AdoTcYADEpwbAIIrgvXDttdSuo6rqzTXAYd0OrlQkamVRWdPzlOfDhl-mnaFgSJwP08&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQKmUUxnYTbS-gXwH3VNL2d_6gyyr9cHPcA0qw5OH95JSw&oe=6ABE5F7D",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/799225898_2114617102478642_4205065343145916725_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TKAC1wZPVlUQ7kNvwFE_Peb&_nc_oc=Adp2JeGQQmu6MSpnmvs0IvqS42l76gRY7QR2-FuecwRI0xNzjmrwfmU2EXj3UwXFX5c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQI0AH44G8qD-VRoZnCssXsQC0Byip2N3POq8_BgjOr2aQ&oe=6ABE2E85",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/799171577_2294949577921581_1448143542338762929_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A9aVgbLdcXYQ7kNvwGTTDy-&_nc_oc=AdqraQE4QJpJW8Nv9NQtQ-I12OJzMONr7fdCtnm0xSm8AQkvi7e7SS68TD6WRZj8zV8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=d3nQ0htEjqJrNHoP2xJT5g&_nc_ss=70289&oh=00_AQJbsTNrBjHBYyvl5IXkKumCPSWBMbnVI9X8dpGQy5x0Mg&oe=6ABE5D84"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1779126316452948"
+      },
+      {
+        "id": "1599646514469085",
+        "body": "🔥 עד 80% הנחה!\nמבצע לזמן מוגבל. מהרו לרכוש לפני שהמלאי יאזל!",
+        "landing_url": "http://www.aliexpress.com/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1599646514469085",
+        "text": "🔥 עד 80% הנחה!\nמבצע לזמן מוגבל. מהרו לרכוש לפני שהמלאי יאזל!",
+        "links": [
+          "http://www.aliexpress.com/"
+        ]
+      },
+      {
+        "ad_id": "1556512386180940",
+        "text": "🔥 Up to 80% OFF!\nLimited-Time Sale — Grab Yours Before It’s Gone!",
+        "links": [
+          "http://www.aliexpress.com/"
+        ]
+      },
+      {
+        "ad_id": "1779126316452948",
+        "text": "🔥 Up to 80% OFF!\nLimited-Time Sale — Grab Yours Before It’s Gone!",
+        "links": [
+          "http://www.aliexpress.com/"
+        ]
+      },
+      {
+        "ad_id": "1599646514469085",
+        "text": "🔥 עד 80% הנחה!\nמבצע לזמן מוגבל. מהרו לרכוש לפני שהמלאי יאזל!",
+        "links": [
+          "http://www.aliexpress.com/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:54:56",
+    "filtered": "2026-09-27T01:55:08",
+    "rejected": "2026-09-27T01:55:23"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://www.aliexpress.us/",
+      "https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US"
+    ],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": false
+  }
+}

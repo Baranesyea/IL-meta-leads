@@ -1,11 +1,11 @@
 {
   "lead_id": "2026-09-27-010",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://smartcase.co.il/",
     "city": "",
     "category": "",
     "owner_name": "",
@@ -36,7 +36,7 @@
   "meta": {
     "page_id": "106514724708642",
     "page_name": "SmartCase - אביזרים לשעונים חכמים",
-    "active_ads_count": 1,
+    "active_ads_count": 53,
     "search_keyword": "גאדג'טים",
     "sample_ads": [
       {
@@ -62,8 +62,25 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1662420418456044"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "משלוח",
+        "משלוחים",
+        "לרכישה"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 53,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 1002,
+      "product_score": 5
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "1662420418456044"
     ],
@@ -74,6 +91,1180 @@
     "page_like_count": 1002,
     "page_categories": [
       "Jewelry/watches"
+    ],
+    "page_ads": [
+      {
+        "id": "1682379686528852",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "SmartCase | ציוד משלים לשעונים חכמים",
+        "body": "בניגוד למתחרים אצלנו תוכלו גם להגיע ולראות את כל הסחורה אצלנו בסניף!\nכל המוצרים עוברים בדיקת איכות ע\"י הצוות לפני שהם נשלחים ללקוח.\nמוזמנים להתחדש בציוד משלים לשעון החכם שלכם ולהנות מחווית קנייה מושלמת כחול לבן🇮🇱\n\n📌אופיר 25, חיפה\n\nההגעה לסניף בתיאום מראש*",
+        "link_description": "",
+        "landing_url": "http://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776063600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/670493603_2162103141276398_3868182053249897028_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eCYwQU91MBAQ7kNvwHGXwEx&_nc_oc=AdrQ98jprDVSG3iy4uE8L8tvZ_cCxpEyTa_kQlkRqqj0Ea__B_d-rrCbSYnAgVt2rUM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIr5r4Lkbcgq-gMxKaMZJPKk5qWz7TXHcVdF5txmXpXhA&oe=6ABE2F8A",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLKqN8Yct_V0AhOxq7uK3GUWUyRk1cIqEvGrDGipDCAexOKDmcTpUdFLDBzNfM-kO0AjVE7wyFzTKkTL4gYW23HJ7WqC8wBHDjDVxFkqwSFA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Nx_fw050pXIQ7kNvwEY7ZgH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDM5ODkxNDE3NDcyMTI0LCJhc3NldF9hZ2VfZGF5cyI6MjUwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e44b21cc0b8c202a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRDRkNEQkE2MjJFMzdBQjkxMUQ0M0FFNkJDODg5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NDUzMjM3QzRBN0QxRDg1OTFCMDg2NTYwRDQyNTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb48aCH2-SOBRUCKAJDMywXQDgwo9cKPXEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKcuFb9AwD6Ebvfj2BO_ysjN7gAPIuG3ZzR7nxiGyxjpw&oe=6ABE3111"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1682379686528852"
+      },
+      {
+        "id": "1451790069759645",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "SmartCase | ציוד משלים לשעונים חכמים",
+        "body": "בניגוד למתחרים אצלנו תוכלו גם להגיע ולראות את כל הסחורה אצלנו בסניף!\nכל המוצרים עוברים בדיקת איכות ע\"י הצוות לפני שהם נשלחים ללקוח.\nמוזמנים להתחדש בציוד משלים לשעון החכם שלכם ולהנות מחווית קנייה מושלמת כחול לבן🇮🇱\n\n📌אופיר 25, חיפה\n\nההגעה לסניף בתיאום מראש*",
+        "link_description": "",
+        "landing_url": "http://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1776063600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671586216_26595766186776824_2171990166736913912_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pDiRlc7ytiAQ7kNvwFx0Yx6&_nc_oc=Ado0uMoFxtjzuipBEGMyqpq2qKmtWswiSHPCJihGvNeLEJGplVMnKFw5jVn3OYToTzM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJqjR2eYTS-sXS2TTCmXmXg7OdOOoDUXDGkKY6WuzXZOQ&oe=6ABE422C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLKqN8Yct_V0AhOxq7uK3GUWUyRk1cIqEvGrDGipDCAexOKDmcTpUdFLDBzNfM-kO0AjVE7wyFzTKkTL4gYW23HJ7WqC8wBHDjDVxFkqwSFA.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Nx_fw050pXIQ7kNvwEY7ZgH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDM5ODkxNDE3NDcyMTI0LCJhc3NldF9hZ2VfZGF5cyI6MjUwLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e44b21cc0b8c202a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QjRDRkNEQkE2MjJFMzdBQjkxMUQ0M0FFNkJDODg5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U4NDUzMjM3QzRBN0QxRDg1OTFCMDg2NTYwRDQyNTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb48aCH2-SOBRUCKAJDMywXQDgwo9cKPXEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKcuFb9AwD6Ebvfj2BO_ysjN7gAPIuG3ZzR7nxiGyxjpw&oe=6ABE3111"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1451790069759645"
+      },
+      {
+        "id": "1662420418456044",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "קנייה חכמה עושים רק בSmartCase!\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🛒 גאדג'טים ועוד\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nלפרטים נוספים ולרכישה היכנסו לאתר >",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1772179200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633528077_889607037175160_3602336469920308354_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S33S8xbvYM0Q7kNvwFOXTEa&_nc_oc=Adp_QB9oToGqZZ96AZrNUIfw37xP7REoZtLZUPdNKMiv1Az85QQUkJ3UWwlFbU-FXeQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLpfBpookR9qM6lhHe4Qim3HREmJ0iwllrOXTypwcZBrw&oe=6ABE5324",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/634576870_1241456694614468_3017422638556154664_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qv0phCF_Sb0Q7kNvwE84L3x&_nc_oc=AdrqKNU8mzL-AYqS55KDtxvIhc2WcojDYKUhHMN4mZLj-jtasWATZc8xx0UbMQZwC2g&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL9yeekIYMHZCpS_iApclziEn0yOkt0ZWN4aLEiAMjMDA&oe=6ABE4DE8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634211174_1750063746378660_5962125780479902079_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=omE5RgGSmpwQ7kNvwGZerSu&_nc_oc=AdrRKKUcLVqR2aynCvy-YqdoYepEblJm4l8j8eoSTRoRov6uy9VQHUrM1DFrsije1u4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKlJZzT4v7CvMUo7_nOIbVH24rfhWu93Uz9cZrFUk0Qvw&oe=6ABE4D30",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/632518041_2122871988542998_4583910023537211266_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YGNCE3ObLL4Q7kNvwHs97CZ&_nc_oc=AdrjaM3ARGjK8q4u0hCHU6vt4JN8AS2CY_w08ue6kWxwpdEoULuOSYIjpzsl6EBN7C4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKCrgBV4PEQL6SWxAQFk_Mujs-DUp1olAEUMCMciGSAhQ&oe=6ABE4799",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633448298_746969071557569_5817993072656850596_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XeX4Vg7bTM0Q7kNvwF5eYYj&_nc_oc=AdrTvBe1iB6pVHY0VJIgbx-Qcoj0thrr4BeUWbWlHqt2fWPHUP8iK0U-6Z9FSQecEFQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJTVk3fL_Dfikzp3ws3tby8Kmm7kq-SfspK1q_E_iMN7g&oe=6ABE38A6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/631467540_1241545713971662_3776375987377015458_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjQvN6NzKhsQ7kNvwFOjTQG&_nc_oc=AdqIYYCzc6TpylYtVFUAZCe8eRurt1V0hNW3z1IVupuftLq6fCfgejPRMusSOd0a7Jw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIjb-UlseH1yo3OLhlCx3CcIhpA5_K6ceb3SCAa-SzMAw&oe=6ABE4698"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1662420418456044"
+      },
+      {
+        "id": "997148026447395",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "חדש על המדף של SmartCase! ✨\n\nרצועות טרנדיות לשעונים חכמים, כיסויים מתקדמים ומגני מסך חזקים במיוחד – הכל במקום אחד ובאיכות ללא פשרות. דפדפו בין הלהיטים החדשים שלנו והזמינו במשלוח מהיר עד אליכם. 📦",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "http://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1783234800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739024666_1005174175600182_2672046682401115458_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dBECneQJqHEQ7kNvwFptwoF&_nc_oc=AdpND6VS4yXjYDSvoKsmR5l-83KPDHnR7JDhiEoTJTg0LeQCfw8tFv4kzCkovFdcxn4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ65P44DJFyYiesjhWsfuqFH0rQ4HtOVZE-27OYLa1EZw&oe=6ABE4FD5",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/738954244_861836476617837_5720782702249116307_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J4tHj1KUg2IQ7kNvwELpEub&_nc_oc=AdrX9n0OdxSmoqy7AuXPXv_366mF_9cv2EqliReO3dqY34YXS_E7I90YaAnBgVABYfE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKA_oRLn7PjQWIjog7In-tVHCBXrKwL8ChAzZAtKcoQRQ&oe=6ABE3EB6",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/739165017_866769792747719_9095425709489264154_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nDd6xMl-cGIQ7kNvwGTYyWL&_nc_oc=AdqIF59wk8C2FmfYviZIekM36SJWvzV-fdWkuZZu1uppJ31I3i6KRJ1fNCarnMfxhyo&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKZmSlcEwd34i80L-R41zkSgqgkAmNCepXx9I1pqKXXog&oe=6ABE3BE5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739083175_2899491977094344_7471884020405875112_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0B3uifxnGqgQ7kNvwG44_8r&_nc_oc=AdqTZ11rl3aBtiGZi0KOVQwKzquOgIYcbpj8EEo5qp_U1F2HqieWYWdYp8cysA6srIg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ-sA3nAUPV1rBMMvIylZiZqMqlaiZkfK4ni1YcqI44GA&oe=6ABE4BBA",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739175345_2233384014128291_2104380781899580284_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KAEajZQYYwsQ7kNvwHfGir9&_nc_oc=Adq7-g3lT6M7DtZykIJ1cyyEHXK3QlyQajN7oASuiF9P0xDdZqXrHYsbZSBcHwBuysc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIoYMAOpkWIwgYh02GVnaij4PnsEcdKRMu0UClCX9xJAg&oe=6ABE4D07",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739012898_1731573038042613_2792566336215889345_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Kz-8YxS4_McQ7kNvwEhMKjr&_nc_oc=AdpugCxn4XhvdoR9-KWHlZaK6nc0U-a3ebaNHaBvDcUEIKY-MrhiY7AQObdSjwf54sU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIb5XzqvcvngtftYMB3LoVCeYAw5H7pFPnZnbIBNpKzdQ&oe=6ABE590B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=997148026447395"
+      },
+      {
+        "id": "2550107932111207",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הטעות הקשה שרוב בעלי הגלקסי ווטש עושים היא לא לקנות מגן מסך לשעון החכם שלהם.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני גלקסי ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לגלקסי ווטש",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בכיסוי לשעון גלקסי באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780470000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713664448_969397765728062_3119789433514869058_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZUEQrXDuguYQ7kNvwHFKczt&_nc_oc=AdqSQ3uYVKB_YCuzs9kAaQmo6JfGdIOyi1tvwai9NAgjv3G4FpydMDOTtIzw0__dWCQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJHbEKDyAMJD1lJBI068y-YKndkQ0TiSx3EDFweIht6Xw&oe=6ABE432F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713685791_1803378980626693_7614886539122550679_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N9iaJ7XZrYwQ7kNvwHuJ69h&_nc_oc=Adp1M0b4txY2lj8RzQoKyvOi_nWAYTgP-A7PpQLuUgvTIoYBrrdTRle8ApySa88-zNk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJzM5fE07vEgYYz4wMih_96NezeY5rl6FDS9MCeHPKdiQ&oe=6ABE4203",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713729805_990961263519337_1549541190379704381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pjBScJ__mFAQ7kNvwGpBCy8&_nc_oc=AdoTgJ82CiG9kOMxgDBm3_XH2vITGpZ9eCQiTVaacg-nFql6-7JgfqBcSiCKCdLzdfs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJs0k2yYa2aI0VpwSuUuug8NLbXwBRsN4OyKok9Ef9Z2w&oe=6ABE4F3D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713503995_1617448892681629_4562995185899873625_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GNfxai4k_kIQ7kNvwE-HBe0&_nc_oc=Ado6W2DcwwgYoaPuTku1EJ1ZJzGY57SXfAOVXpLCIPK_KAyg3MHFYqCgLA5eME5UT0Y&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIOckAz0CEEG8VvdT6BsAzdNdw0NUwt3sd9HW6wBab_5g&oe=6ABE5877",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713626679_2111944412928681_4219999498303442610_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=axKMVsiNqhAQ7kNvwHAyId-&_nc_oc=AdrpDs24hVr19wxkFMI8saj1YGzPpWORxaCXF8Z1F0pXSPMIlh17mipZ4WoO4ah2LDA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJQBVQ9_53cYhzCk4SuQOi0g_dU-m0vF_ajF90R7Yq4xg&oe=6ABE2CD8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710827485_822887860655354_4643379214347925741_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HtlN_SRBRR0Q7kNvwFROVl9&_nc_oc=AdpHCHB_qxJR4YFdvG03XD8Urdda_BOUJELCjE1gh8SEKQ67YzZZFulbgX1Fh57zx94&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL40KbaevbwQtira3woV-aV_c0EmYiukPNSeoN4m-AlNA&oe=6ABE461E"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2550107932111207"
+      },
+      {
+        "id": "1847362662611178",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n⌚רצועות לשעונים חכמים קונים חכם 🧠\n10% הנחה לקנייה הראשונה עם קופון: 10META",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1772179200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634185641_1448845883506298_8077961770528722536_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r8WplYMQmiIQ7kNvwHUEyEN&_nc_oc=Adp0pyagNpLzCUJD39OKHk5N8Xb8Yah0l-SYpeCI_juQO1Ztukww5JcP0saRFEjZikU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKrX7lMKpOSdenMFTDmP7nZ0kst9-Es5m4AOybENgNmbw&oe=6ABE4EAB",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/631671824_743919928558239_3569373219857033596_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rdHhIiiZxM0Q7kNvwHpgdng&_nc_oc=AdoRB1G3kKk8_8tQxKSDpIt6gQywzvF4DHs1mUa4D8nCcq_6zO6zB5_i-1XzNpBi-wc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKiCU19oM2STzcm6nxp6Q_g8ajuRvXYcY_cTbeeXn0mIg&oe=6ABE5F4F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634036396_1237294771158191_4097942656391555500_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Pz2Qw-_gHiMQ7kNvwGfyVhd&_nc_oc=Adonzrn3iVEjgiIuY_JWUIccAWyHCCiYJRAcQRJJZehgf0-6Cac2i9XkFkMU0eato5A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIJKv9RdRtvtZ4j5lDg8l7qsenCkJm46yeqXI2tBoh1cA&oe=6ABE421B",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/632893921_2344590079373055_1994500420511707381_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vFfxissugHwQ7kNvwH5IYET&_nc_oc=Ado8vOZvNRO4lP6-_HxhSfYaTcfRjZ5aVN4Q7Nf2YVQ7PC3e7kTWE1UCae4Q2ySL51E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIkveciDcnKPr_0bqGpn0eqe3th0flLAvB9y6ESP9LOqw&oe=6ABE49D8",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/631551310_878544004810593_5394028570440520987_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W3RkxiauPu4Q7kNvwGarF0d&_nc_oc=AdrXobu3VSQ8fu0ulq87byKKHg7FpcLASnfObILM4Wvnch_Wq-JfWXHXOPuJzohKGik&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKmtOhJwNv8676Dx0tS1fbeBXOL1GtC_wG5jNNUi5dAVg&oe=6ABE5522",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633473356_4229943970592896_394301582031434724_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=diu98hosaSwQ7kNvwHTZYlF&_nc_oc=AdowljX0-Pac-4HcXet9hhvr6nGmOv33XVAWQMVjmybSj992I7lgx9NHJBnFmlYi3Tc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLuqc2_8XFGecPK4b3PakDlYih3V88CpqQKoFuQOPRcJg&oe=6ABE3112"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1847362662611178"
+      },
+      {
+        "id": "1009590461919538",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "התחדשתם בגלקסי ווטש 8? עכשיו זה הזמן להביא לו את הציוד הנלווה שהופך אותו לשלם!\n\nרצועות וכיסויים לשעון חכם קונים רק בSmartCase! \n\n✅משלוחים מהירים לכל הארץ \n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "http://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1784617200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749878626_1588412539475668_8894637930003023853_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sgn3gydjsEMQ7kNvwFQajsr&_nc_oc=AdpKSuJ-BOP8h8gQ8W3qlPIlg_ZW6rds9AWTsWN_OdN5OwNIPacfwTxA54DBm8MleBI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJKTwzZxTBh2FRh6yaBbg6NJnUN2L9gGorwC_Y6wFtI0Q&oe=6ABE3A88",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/751184546_1791997595122010_8616462768963085491_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QjQrW5bcL2wQ7kNvwF9H2jG&_nc_oc=AdoPMIrs6oIjpVnfbfWjKuC6qQDUpTjujk_6jt9MJfH4J2a9aXff_xMOrUk_R916p0E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKnx1R3rd5B1WZUEWneenUOeCvGC6HeCFJkuGlP8Kbrfw&oe=6ABE5831",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/748938956_1345681577711448_3849500381999889447_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xBgVzJur_vAQ7kNvwHdrWk4&_nc_oc=Adp42PPgqIaDyoWBzmufhqCI7epvqHX58SOCYt7qd1gCFJ2If_1YLaTqR9RFd-xBbG4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKQiPLQRgO-1X-7YK-jbbk3P95b0hqCZNvYBouCEWR_2g&oe=6ABE354A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749286199_1075130558184689_5928446110669158108_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L-203vaLM2QQ7kNvwGumFe_&_nc_oc=Adq-0s3VuwqbXaNQxO7RLKExS14WchwwHE78dO_yXItKrWfKsrI1EscaD3ujSIDYUK0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL96cJl23GhV0OCOukwn7JCKyGtYwz4sBhCStbahONqYA&oe=6ABE29D7",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751563228_1600296178122023_5755707570178443708_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k7OMRSO5mQoQ7kNvwGWA0Zz&_nc_oc=AdqjZkYRuZns5IMbJZ4bCd8S6SaYqBNLloqvpSR1v8MpddgXeQlC0H89YEgN9YWDQTY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIFXtWBeb4SOCyTuxNZwB8iXyIlVMb9ejQi5PPqiOWARA&oe=6ABE3FB8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752022687_2024512051762728_5341801813882853690_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=--7euFmZDJcQ7kNvwFRYP7V&_nc_oc=AdqVpgtPHzmwANUjhsExVQ3CJcRu1fg5CYR0-7QwJV0wJJq4Vmwb-Y0zrNiUiG4iCzA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIhYo6_1EzjoLtDVTS7TVhM_n0IrSQC69zHqOJycexmEw&oe=6ABE522F"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1009590461919538"
+      },
+      {
+        "id": "1754395662245543",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://smartcase.co.il/product-category/apple-watch/leather-apple/?orderby=popularity",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1782802800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/733831440_1373134861370945_3463159783353187499_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TEpgA02qHu0Q7kNvwFBun_V&_nc_oc=Adpc1PwN8W-jCrAHme-ASfSa-T4Lt71TI3jTrswAIU9XoHqthtTfUV63k3AOWjpNgKM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKq4bO22sAPnYiYe1CI7utAtabUhjOhCFsbcu2sy9Boqg&oe=6ABE3CB2",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOUZo87qWNCzRRAJvUVWoFzjBuYQKz-jLdLu8bt3WA6afl7aXuyvhtS_X39ICRnAbN87sGRf5c7mJMKDf0I4GM8rZmzBd8vF2cdl1sYQ2wa7w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1vDyCtJ0AL0Q7kNvwF1PhLA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzc5OTk4NjE1ODk1MDksImFzc2V0X2FnZV9kYXlzIjoyNTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3ca2c4acd7975334&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTQzRENCNUJCNkE0OTRDQzZCMzI0ODAwMUUzMjA4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZGNDk1QkNDQTQ5QThBNDM0RUJGMzFGM0M5NTlFQTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKmInYp8CFBBUCKAJDMywXQEDIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIBk1IOa5WApCvhZX3Hj6ifzgNdTP6Of2U2ZggLcHOMKQ&oe=6ABE4D9C"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/735157442_1336179011818981_3853095120748102764_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z3XRR0L-iP8Q7kNvwGPqdS2&_nc_oc=AdpVT7niZvWwsU65eCT8oZUHk3_GU3TtfJRa84HdY5BUFxO0Vgx31M6kSAMgS4wwWB8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIPZ5_5Ir9Mn_8BVZjRRIOiH7nCn3dKu1u-sHMApLs7ew&oe=6ABE4828",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOUZo87qWNCzRRAJvUVWoFzjBuYQKz-jLdLu8bt3WA6afl7aXuyvhtS_X39ICRnAbN87sGRf5c7mJMKDf0I4GM8rZmzBd8vF2cdl1sYQ2wa7w.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1vDyCtJ0AL0Q7kNvwF1PhLA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzc5OTk4NjE1ODk1MDksImFzc2V0X2FnZV9kYXlzIjoyNTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3ca2c4acd7975334&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84OTQzRENCNUJCNkE0OTRDQzZCMzI0ODAwMUUzMjA4OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZGNDk1QkNDQTQ5QThBNDM0RUJGMzFGM0M5NTlFQTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKmInYp8CFBBUCKAJDMywXQEDIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIBk1IOa5WApCvhZX3Hj6ifzgNdTP6Of2U2ZggLcHOMKQ&oe=6ABE4D9C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1754395662245543"
+      },
+      {
+        "id": "964112939565840",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "3 רצועות לאפל ווטץ' ב99 ש\"ח בלבד!\n\nרצועות לשעון חכם קונים רק בSmartCase! \n\n✅משלוחים מהירים לכל הארץ \n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅רצועות ייחודיות שקיימות רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו ב3 For 99 רצועות אפל באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/3for100-apple/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1779001200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700305871_969335145945571_6835038979204478486_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wDhT3Jp8iX0Q7kNvwG6fKdr&_nc_oc=AdoSkLHRPhG-_-Q33KsvRkt2-WDS11FsqhgwZgGdP26bFG8lnKY8UQQCSXYm3wkTiSU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJgEKROcjeYu-VfPNVosNeqvNUNcF3ESwC4Ll9n9Nbd0A&oe=6ABE3F46",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/700870324_853430324479369_3795944423632644255_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sYjLe-0jjF0Q7kNvwHpxqV_&_nc_oc=AdpdPayTRjC9UH3qGclXEd_SSpb_yS1EOyvK1n3YEtyMw6-Uz7rqZfvUJij-uv9C9Ic&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKs5L2wR8oYhl254E5_Vt4eCRGBYRhWr5Ojj8nGMqnosQ&oe=6ABE43BE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702044010_976210665327181_4272576511542181174_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zLYGBgVYadAQ7kNvwFnOCPP&_nc_oc=Adqhkt7uKwJIEF7vU_fxGbVPaXzvqFryzdxufdEwkcY5x3uGEfxQ40OeYugDvI2TMwg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLLMZ6LwtLNSd6M_dzBPguVvWT9CP7ZeFq7wFPTRGyRPA&oe=6ABE44C6",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699650316_1593059025125669_4606522730140387753_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MwO0QUXWyGYQ7kNvwEVrL80&_nc_oc=AdoOntMs1PB-qDS7X7nCR9X9TLj8Ze69vB75Ia8MhL1iDUd_j-_gw88rf9qJPpdOdiI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKd2tMQSRCznMQmCI9hk_iNec-Z9GNeG3hyALycksT5Wg&oe=6ABE2910",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/699806488_1544095757339294_2600185536323806320_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UpUmL0IML6IQ7kNvwGHq9Vq&_nc_oc=AdqTgfi4Gu4b5inKW22PV57E2IfvQXXZbJnwoNGAjKcSA0AkCaHRBlSJSI10f9cUEsY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJKqC5_o7CgQFBH8tgoC3oKKhIblDR7qQCTDWpK29ExLQ&oe=6ABE2E81",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/699397030_2062920441102853_4344930128127703520_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nIGOwJEdn9kQ7kNvwH4b1V2&_nc_oc=AdpQg6J3D09o6R-wvdpyeakoLJRxyovr5PdNo9cpSpBn_X1IjHodpEnDZ7aUkR8XCVE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLRuopiihVnsqd85H12Iwi0JBlAN6IwpMn1fcu_pmhxmQ&oe=6ABE5ABE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=964112939565840"
+      },
+      {
+        "id": "1387945115934292",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "עור קלאסי שתמיד עובד.\nרצועת עור לאפל ווטש שמביאה איזון מושלם בין אלגנטיות, נוחות וסטייל יומיומי.\nמתאימה ללוק נקי, לעבודה וגם לערב – בלי להתאמץ.\n\nסטייל על-זמני בפרטים הקטנים.\n\n#AppleWatch\n#AppleWatchBand\n#LeatherBand\n#רצועהלאפלווטש\n#רצועתעור\n#סטיילנשי\n#אופנהאלגנטית\n#MinimalStyle\n#ClassicLook\n#WatchStyle\n#אביזריאופנה\n#נשיםוסטייל\n#SmartwatchStyle\n#DailyElegance",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/leather-apple/slim-leather-apple-band/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/637045704_1666653198099992_6625274074480534204_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-QtuplWkzrsQ7kNvwHWoSOs&_nc_oc=AdqPWE78q0Rw5infvFKJsBh23S8onksojKOJNHGexHBn8-cR4ERghjbXZ14bQ0SYyYw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJyGsEZXSFxKtKRIsHRhlWzGkgwbcwmdiCTDkmFyTdzPA&oe=6ABE4064",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635017199_936596182214156_2581387296704675563_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tyG_Vx1StsAQ7kNvwEE0RyX&_nc_oc=AdqGpucnsR1o5FTCHqCS1eeR83obm6ki1236_94_5Ostld5EwF93IlXWKDlpW83hAi8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLNQjslKoO_9CGfwYghqsr7-Np_Aqv2xDhtNYG2kFlGGw&oe=6ABE4C47",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/636988934_1517465359325613_3947068723009829095_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kyStfZx-Hs8Q7kNvwGtIvHH&_nc_oc=AdqSyyYtX1gpOqhbmqMBLuRJlncJx0F-j3Z06Poax2EWC1Tyfgr5gXERBBWtx-ANr-U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLCAQ1t6lrgh3fap2fPivpXxvAVN_POnCAKw0Q_4jMGWA&oe=6ABE38D1",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636864758_1579194763130415_8837706095084273644_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SO1GCA_uUdEQ7kNvwGCTRFe&_nc_oc=Adr2D4ssNPsUCcbwEBb8bVTTUC6W3urypktJ9iFJLuvTXxyBGUy3XqQ_KagZ7j-sGLU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL17t3DJSl8KRPYZyeK944FcztrgMJ2-xlqt1V0jd_vcg&oe=6ABE53E4",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/634708399_2357262018121696_5902387332297024066_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KeX6vxH-YcQQ7kNvwHoL5Kd&_nc_oc=AdrA5H66EB0aI02dAd9C5fT1BH6fcjAk1PmuliFKbrDWzkRQ4i5cjMCu-_fmXCsGpiY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQI6y8eylj2jETqUOvH3yGZyIr4Lfdy2qqXJHUPlLjIjHA&oe=6ABE44CE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1387945115934292"
+      },
+      {
+        "id": "2321595758365998",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/content-creators/microphone-wireless/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1779001200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/688853492_851979367273592_1017826990018083349_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8es7ti-sxYgQ7kNvwE1DYQ3&_nc_oc=AdrETYVsbSvdLl_s8ackhu3QgeKt9VYaY2RYtmUTb8OWhFzB_36YEa19tpbCjZ4jnUU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK-rZ7yxwICy-T09i3wzb_B8GK0sRCcbvapQJAhvxuLvQ&oe=6ABE5152",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmpVrt1HEFH7Yg9ApR1tRC0gAVm6Hqarj7h8U8ZILrXzEJByPB5Xb1PAkeNEPCI0NUuPpZAufj0ikg-9bnfwAABEbHHXgLuGwPmoSD8dO61g.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=CbfBOAg-8gcQ7kNvwHN5-3B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzQyNjU3Mzc1MDk1NTcsImFzc2V0X2FnZV9kYXlzIjoxNDIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=cc6f386587d850cf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRjRBRjc4OEEzNTFGRkY1N0NDN0Y5REMxNkY2N0E5MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk4NDgzMkJDQzlDOERGRTc0MzA1NTBBMjlFN0JFQTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq6s3q7ImdBxUCKAJDMywXQD_VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKZSg54y5XrvMnLzn_8qaJrjFF28evZP29AL_r7JCDzzQ&oe=6ABE4B42"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2321595758365998"
+      },
+      {
+        "id": "969181449334540",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "לרכישה מהירה >>",
+        "body": "זה לא עוד מטען נייד, זו תחנת כוח ניידת! ⚡️🏭\n\nתכירו את ה-HOCO DB82 – מטען נייד עוצמתי עם מפרט שלא משאיר מקום לספקות:\n🔋 נפח עצום של 40,000mAh – כוח שיחזיק לכם את המכשירים בחיים לימים שלמים.\n💻 הספק מטורף של 65W – חזק מספיק כדי להטעין את המחשב הנייד (לפטופ) שלכם במהירות שיא, בכל מקום שתהיו.\n\nאם נמאס לכם ממטענים קטנים שמספיקים בקושי לטעינה וחצי של הטלפון, הגיע הזמן להתקדם לדבר האמיתי.\n\n🔥מבצע מיוחד באתר SmartCase:\n265₪ (במקום 295 ₪) בהזנת קוד הקופון: DB26\nלפרטים נוספים ולרכישה >>",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product/hoco-db82-power-bank-40000mah-65w-pd/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780642800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/711829742_1634333332031328_7534566485508725017_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w3JjTKX4sRQQ7kNvwEOZ5xL&_nc_oc=AdqjfKEsHJcScgrktsGge-RgryfKFJaHW1A6yFNlAR2uSsZkKCp0fpvRmWaKjt-vLlU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJxBtGEIC0tVkNZMqMrBX9MWNNxO-8Qrr1S5DDj-Dpvqw&oe=6ABE2C66"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=969181449334540"
+      },
+      {
+        "id": "1631000228077277",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רצועת Milanese בצבע Starlight\nסגירה מגנטית חזקה\nקלילה ונעימה לשימוש יומיומי\nמראה נקי שמתאים לכל סגנון\n\n#AppleWatch\n#AppleWatchBand\n#MilaneseBand\n#Starlight\n#רצועהלאפלווטש\n#שעוןחכם\n#סטייליומי\n#נשיםוסטייל\n#MinimalStyle\n#CleanLook\n#WatchStyle\n#אביזריאופנה\n#SmartwatchStyle\n#DailyLook",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/milanese-apple/milanse-band-apple-magnet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771228800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633400183_3766311480208040_3794572091760271655_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N3qJ9mscQzsQ7kNvwGaR3oa&_nc_oc=AdoTMb6JvAghAMdYSFr9IQ52mU0i6acRlcaWeT4fxW6c_lbuUB5ateTKKlgThgDyzlQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJxhJbzuZbYatApo3wQGzwIrRaoJoxrviD6pUXLmQDrEA&oe=6ABE27A3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633439965_1377904490746912_5734021466886698841_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6klCxXslkVEQ7kNvwFTuyjs&_nc_oc=Adpj_tTtT8ZjMrjvkODlG7wBxbYZWabagHfec5Yi7qS2xfQhxefUXhwarYgUTYGI4HU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJahg5CfEb_GesOntiPRN32zLoKjlyX8hVkd5foYMpCLA&oe=6ABE5778",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/635880909_1438326897696870_1616216553044861796_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1TcFWnyN3tgQ7kNvwFwjtyp&_nc_oc=Ado-qFrzUSD8-R-sr8dVld6x3kZMWvSSTohURH8A6R5ngOcwxmW7sbjR8o9_xLSv9O0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJeGkVIb_carsTPoIbQvJAPs0_GyENHuxscD4JXogppFg&oe=6ABE3535",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633096572_1552264932925906_1646767715878861798_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rrKOzxbtKDgQ7kNvwFzqS9t&_nc_oc=AdrOycSC9IjEWUAZBSdLNb3tKEh1tt8neoBG0Dx_QlWHT7YrR23Dc8PawDxbzrGN5NA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLEbhW8X9G_1Cr65YlJN9j6uh_oahEnaweKmFvLxvk-wA&oe=6ABE4117"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1631000228077277"
+      },
+      {
+        "id": "1911676019543879",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גלקסי ווטש זה לא צעצוע – והוא גם לא זול.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני גלקסי ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לגלקסי ווטש",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בכיסוי לשעון גלקסי באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780556400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713584441_1387937446727566_1493021836345642671_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c6yv7CeIR24Q7kNvwGJ6-3v&_nc_oc=AdpPuuA8S5pURVhVqj7flUm6ywkkhe7VNQ3xuA-qmVBDno2y9MKwxAXJCXL983aWamM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKuSLX8HvpsUe8JyUsqKBIsOO2mnnBTjS96ELLHQkbvQQ&oe=6ABE4275",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710598268_1391640536131656_1268306752302549076_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3XPS8bOyLfUQ7kNvwFoSZxT&_nc_oc=AdpXzUICSZ5hnEvzONuK5o1uVdTY_6OFUmdJf4cFUPZqJ9nHMBWT6888PFRrqdTHlNA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ38_yq-03ij6h0MXpeQILRhqqJTs5A2FCae29HxMbUpA&oe=6ABE4AFD",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710598275_1747183226636983_958114594958128636_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gTL1Y7kyOy4Q7kNvwGcIWpe&_nc_oc=AdqicWBvYo3uIbepoWtfrUh1o_ZnguQia5V121FnqeAJ4TtCTHoMrteL6ESUI4VdRUg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLAhcoPLWHPnoXwPhnV_gpt5wSI9JRlj6BGasSfZZ6RMQ&oe=6ABE2876",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713143842_2382170822271342_7311534193399667529_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rgsWoPnkfF4Q7kNvwEBq_nT&_nc_oc=AdrasXqG8HqFPADlB4tHIGgxUVJi44sG52dDdpVaXJU_sw8ZZmgIpPI62IqDwIeJaTc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKEeEbESZQUXD_D522XbVxNZ9DfQzUUA04EvDY94egchA&oe=6ABE5AEE",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/713123699_1017332290813183_2129047916733325638_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rTjp7VtHvYMQ7kNvwH2IMvC&_nc_oc=AdoNT_5lctr8Al8BBRs_QmCZ6nHugEPV-Qy1JkffEZnmakhJvu4LO1ANRTHQZF6MNxk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK4fJTyOP53XcKxDBE0avt76E7oY2tXCdtZ4b9vwsnKjw&oe=6ABE3677",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/713205324_986404210848193_6422492635511558642_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y7P1ujknlDQQ7kNvwEE072U&_nc_oc=AdoLUPoSGKEN_-gfNX3zcRWT9Pp7kdRq447RIVwZbjUAqLKqgeb12_TIrkaNZOAC-I4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJlGfIPuQohAxoJLXNrsC0nJRj4870O8mVuNYgUsHSa4w&oe=6ABE33B0"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1911676019543879"
+      },
+      {
+        "id": "836988529418679",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n⌚רצועות לשעונים חכמים קונים חכם 🧠\n10% הנחה לקנייה הראשונה עם קופון: 10META",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773385200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/634675198_1569888657654115_1990793232475778366_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oj-jukOYHf4Q7kNvwHYgUKy&_nc_oc=Adr1rytBY5Fub1Op6JuPUlWsKuOXRjQWqkbRwjaYN9LMer42HiFNufiYLhdVmigElIw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJA0DAZ-uxNjDiy7KfW5qBTNoHRuqvnv_41rIZSyrjYPg&oe=6ABE3902",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634628991_1134357998691298_7301480107975133395_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xMyivM9cbzcQ7kNvwHLfXHK&_nc_oc=AdrW_Fz-h2WBikeexFDlhShyoDdT0GnEG_6Cj5TIHWfjVAtfUcFDxEpEZI5rbQJ6iIg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ2H39or5HYBli42QURcSMB1cBAdL_GWG_zHc-C4ihX-w&oe=6ABE4B68",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633890421_922036016994730_951137112067560810_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7vj0zmlMblUQ7kNvwF5vdCd&_nc_oc=AdpaBer_k5u5fCXgxhC73rJoDEy8KtpHl7-wJMeqeIINDY91m9iPXeDmtpU3TA_o7cE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK_MxXsRt1YLVHn21nKADO53jmQdo59QJ4vJYuJVnKOQA&oe=6ABE42DC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634428192_1972204346842434_7637432663394396369_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=naGqnsdfaxAQ7kNvwH0lBRE&_nc_oc=AdpaktFZQxVjibmds5jDPPEmIgBt0jj4Wq8dx9Zyp62Xf5xS4dSX2V-h2lEbYqM7iNI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIjJtsBjhKXVAtA_5JayH6v7fON-k3scCBKMTYlF_LTbw&oe=6ABE2A06",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634076020_1213656427590043_463153836266232353_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MWblFfOXy7UQ7kNvwENA6SN&_nc_oc=Adq-75YDX8Y_iiXcDLMJ5YR9BLxeIdPz_HRlAlrNRcGvMhUPA3er44rGH1sp6VD9rgE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL6zluCvbPv034aNaeyMuKAA8huHDojB8W4rcSdzLnPzw&oe=6ABE5926",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633948772_757411197447827_8631811107435889175_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dKHdfwjMwTgQ7kNvwFwmxrf&_nc_oc=AdqcIaPn6fqXk2-fsubKqfpAtZ7riz9JL-dK481xRQ1RzZBQNepzBN9MIT1NhNw-ynU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKnsRXvxvi-eYRKuMR4CUfb5g7n3uod5hUIlHX9BifWRw&oe=6ABE4957"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=836988529418679"
+      },
+      {
+        "id": "893187313354014",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nציוד משלים לשעון חכם קונים רק אצל בSmartCase!\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1772179200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633311659_872794418907210_4953013289111449403_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GCaxj7pdHD0Q7kNvwEs7X9m&_nc_oc=Adr9qhIwtrpkip-ojNOVzzrBhQNVHL4ak_BzQhsbVS2tbwOUCvFeu7eSMG3_8oSores&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLaoBOWja244gs3hWo2x5q_ZJd9b6zqLqaf8Zjfxvtsug&oe=6ABE5E2E",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633781404_1336816181537566_4938711628276500580_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=th_ctFbNBaoQ7kNvwFjndDp&_nc_oc=Adr7cP69duDvI6PmHhv8j2jyKYnBJV0uSj9vTy_aOPsAg710uxQcYVeCfkOCKo3uFPY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJyaKwciIoxHTLcWbg5x8VoRpGKmX2SEk77DScGi_Ly0g&oe=6ABE2C39",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/637081988_895756153160526_3255824149562165732_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eTyT9mDrygoQ7kNvwGspTph&_nc_oc=Adr8vCndAW3YQ87ez3rAdrb_sZz11QD0x0GpnFeJDz4o7mX7KN61BdYDddu-n8ZtDl8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJEzurWn676t2XwxTFsco0LqkFkZjF7swReHHzW5cuRiA&oe=6ABE4721",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634159027_2141287669953731_6091253939721527920_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Nw47rMuPjgQ7kNvwEXpQFU&_nc_oc=AdpOl_obUyYC5EzDxwNlfZnOQLGFDAq_3INRufSjy3kQqd_x3q2pm-47nQFLPtiolBw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL-rcWtyFsKQCfQDS8w9Jk7SuSu6vj4rGeKtx_D71JA8A&oe=6ABE5BD1",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/636863897_691091034089893_5174115070321049793_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eil8SJzYwFQQ7kNvwFG2lQs&_nc_oc=AdoshTVrC7nTImgE06x7OPBjHcwNURIe6moGFIneneW9kQXM6HzgICDD-YFR_1KkVKE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLsT3ma-YlpdrRyg-7XL7tN3rps4klHdr3TFZnJ6ASqAA&oe=6ABE3616",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636845720_26435081009429419_4319317071921987786_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x0oNXlcGTwIQ7kNvwFA0lOo&_nc_oc=AdqoxKvSK5AoIzIMPsK8g_aVH8uyUquyBf6yrk8-efSG22ezlSNgjhHbk9WLaOJNrsc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLn23KZ5dyna2pCZtaCZPPL0v3zsrCA9BR2KQkCUqAR0g&oe=6ABE2C65"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=893187313354014"
+      },
+      {
+        "id": "1560836042322031",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "סוללת גיבוי ניידת עם טעינה סולארית 3 מנורות פנס ותאורה צידית דגם EP-391B - SmartCase",
+        "body": "השדרוג שכל חובב קמפינג חייב בתיק 🎒\n\nאוהבים קמפינג אבל שונאים את הרגע שהסוללה בטלפון נגמרת והמאהל נשאר בחושך?\nאתם מכירים את זה: תכננתם את הטיול המושלם, מצאתם את הנקודה הכי יפה בארץ, הקמתם את האוהל... ואז מגיע הלילה. הפנסים האישיים נחלשים, הטלפון של הילד על 4%, והרומנטיקה קצת נעלמת בחושך.\n\nהגיע הזמן להתקדם לקמפינג ברמת 5 כוכבים ⭐\n\nעם מערכת האנרגיה הסולארית הניידת, אתם מביאים את הנוחות של הבית איתכם לשטח:\n☀️ לא נגמר החשמל: מטעינים בבית, וממשיכים להטעין בשטח ישירות מהשמש עם הפנל הסולארי.\n💡 פתרון מושלם ללילה: ערכה של 3 נורות לד ארוכות שנתלות בכל פינה באוהל ובמתחם.\n📱 צג לד חכם שמוודא שאף פעם לא תופתעו.\n\nהקיץ הזה, לא נתקעים בחושך.\n\n🔗 להזמנות עם משלוח מהיר עד אליכם 👇",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בסוללת גיבוי ניידת עם טעינה סולארית 3 מנור...",
+        "landing_url": "https://smartcase.co.il/product/%d7%a1%d7%95%d7%9c%d7%9c%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%99-%d7%a0%d7%99%d7%99%d7%93%d7%aa-%d7%a2%d7%9d-%d7%98%d7%a2%d7%99%d7%a0%d7%94-%d7%a1%d7%95%d7%9c%d7%90%d7%a8%d7%99%d7%aa-3-%d7%9e%d7%a0-2/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780556400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714599563_1306603154863639_5970295823944814615_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SDazxHVfeecQ7kNvwGKlrGQ&_nc_oc=AdqVvG4WftNgdfQxcMgX6ppeC_plnTd4E4FQe26Nk_P0qVohjT77xRx30B_5pGBaSeE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLJ_WGVtts_9eb4L0nohmJY8TB2aQZ6KryXi8DPP0qxDg&oe=6ABE486C"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1560836042322031"
+      },
+      {
+        "id": "2208897069867977",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "Smart Case | מבחר כיסויים יוקרתיים לאפל ווטש",
+        "body": "כיסוי יוקרה לסמארט ווטש שעושה את כל ההבדל: מעניק הגנה מקסימלית ומראה פרימיום יוקרתי. ⌚\n\nבמקום לחשוף את האפל ווטש שלך למכות, שריטות ונזקים בכל יום מחדש אנחנו מזמינים אותך להתחדש ברצועה מקולקציית ה-Luxury של Smart Case שנולדה כדי לתת לך את השקט הנפשי שחיפשת, באריזה הכי יוקרתית שיש.\n\nכיסויי היוקרה שלנו למידות 44 ו-45 מ\"מ מציעים:\n🛡️ הגנה היקפית וכמעט מוחלטת מפני נפילות וחבטות\n💎 עיצוב יוקרתי וייחודי שמשדרג את השעון בכמה רמות\n👌 התאמה מלאה ונוחה לשימוש יומיומי\n\nאל תסתפקו בכיסוי פשוט. תנו לשעון שלכם את ההגנה והסטייל שמגיעים לו.\n\nמלאי מוגבל למידות 44/45 מ\"מ | 👇 קליק אחד והשעון שלכם משודרג",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/apple-watch/apple-watch-case-luxury/apple-watch-case-44-45/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782630000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/732813646_1012799791686064_5674077653250473102_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mJydilm6-SYQ7kNvwFIwG4U&_nc_oc=AdousKVCRi4GSdA3o8wT3m8pjlYtgBl8aS7pmf0PmH2Er1BkSAN_trFZdgmNGRrPRpM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKOT_NU0Qs3rzzf6IQDXlvNiy4oAfSLhYQcdkmzku5tNQ&oe=6ABE5642",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMw8kcS5WIr8REFu0joBiDWDnvR_ZYW1c-ncwlhx3Ecv8Zfc2zPa11-8Hl6XtaTsx10pR87484C-3TgFsq4QYqRbLoRCbT1-NIKQrIX8poxiw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Thkj8h8ZnjoQ7kNvwFhLYqX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI4ODgwODU1MDgyMzU5MjMsImFzc2V0X2FnZV9kYXlzIjoxMDksInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5598c31ef7207794&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RTQ0OUJGMTc0OEU4OEUxMDAyMjg1NkUwODg1OUM5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY1NEM5Mzg2NEQwNDkyMUM1MDRDRDdCNzgyOUZDRkFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamiuXs2ayhChUCKAJDMywXQEOEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJRUM4g4TEvspbM30WVnuRYwiI02z_kORb6VAsDY1h5Ig&oe=6ABE593A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2208897069867977"
+      },
+      {
+        "id": "2233433873852930",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "רצועה שחורה בעיצוב נקי עם נגיעת Rose Gold – שילוב שמוסיף עומק, אלגנטיות וסטייל שקט לכל הופעה.\nמתאימה ליום-יום, לעבודה וגם לערב.\nפשוט. מדויק. על-זמני.\n\n#AppleWatchBand\n#AppleWatchStyle\n#רצועהלאפלווטש\n#BlackStyle\n#RoseGoldStyle\n#MinimalFashion\n#FashionTech\n#סטייליומי\n#אופנהנקיה\n#אביזריאופנה\n#נשיםוסטייל\n#WatchStyle\n#CleanLook",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/slim-bands-apple-watch/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633109194_1604877843888639_2892383214481915453_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VeD3DsouUGUQ7kNvwFQBUI_&_nc_oc=Adppe7-yG_tROB7bdQvXbC3JR04rK1kkHACvAsv0tA0tHJHdNQL4qkUta4GxKkf03vc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLV9s-N9S2ZfBi9qmpbJIxj3gGr6WMdP3TSjmGT2bu9-A&oe=6ABE4CB8",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633410488_926288036563207_4398027594090362588_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iq_dvW2KAXoQ7kNvwErRfp2&_nc_oc=Adp6uQDYHOVBtHC3vjQoQZUDA3BKzOlvDmIu0OVr3HSPNPFY4ydlGRYYycYYTApa63M&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJQmPVJ3JMlrX4uycfPS-F3pEZbL6hKSJ3o9bTsD6cYpw&oe=6ABE3D03",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635506215_1421081533042532_4420029138565202960_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F-Hs78TSaNUQ7kNvwFns-Ya&_nc_oc=Adp_2SATCHb1BL1L3Zu-6evrKixNMi2KK8cVAL9oHRtSXdSjXQgCgh8-AmKoBfQZvwg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLWG5Q9veEhdFltAcgSvy2f7suP4DOKDcCg22dASKEBLg&oe=6ABE34CF",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/632305750_25532611613087771_8127131678617549375_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gFyIJMPucHgQ7kNvwG5RbfK&_nc_oc=AdrUBSoJ3FYK7EW1nf40Aw9nzfbyTJPttGKbXqfY69CHDQJF6Q7iu9YepfXN_eoSCtQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK_8jpwAgNS-wVjBq0vkFKR7j3nT10u7vKJT8Jc79koNg&oe=6ABE3516",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/632986847_940727961830125_1219545415434528357_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dKBjQ6UNONAQ7kNvwGKhgBu&_nc_oc=AdqzxAvpFNcBABmf6EcholA6utiXQ5EfsDrW7Ay6NdrObcKEF3fLIX62suvdU9cJB5k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLwprsr8MYUFvK6RXf4kcZPKVM6J03MUg2EcCn1BGxJrA&oe=6ABE341E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633165530_925027986638181_3878286509061857612_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ApOi1HCE1lMQ7kNvwFh0zHc&_nc_oc=Ado12oenvXzX1m0nd6nX2BzLQUTQKGmEHIMAwj3oznW38WqXlpnB6YNp-xCDV4BXrB4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIwp5S6UmiWq9vv66fYB_DRIax8UkcrzRO-hvHBGjLdSg&oe=6ABE59A2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634261995_1610742349929539_3170627444148559597_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9UdgdXIkC34Q7kNvwHHYyyV&_nc_oc=AdoPK9t61Q3ix0hMcx7N9iRDioM3KIKQMKUH7S93BNRaZtMvXSLyL8H2R1Ots_2t22w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJXRZdx2tzNauJIeGPvUlAS1fBRvyyTPkp_tGoix7JtBA&oe=6ABE2A57"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2233433873852930"
+      },
+      {
+        "id": "1282854963993572",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "הטעות הקשה שרוב בעלי האפל ווטש עושים היא לא לקנות מגן מסך לשעון החכם שלהם.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני אפל ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לאפל ווטש",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו במגן לאפל ווטש באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/apple-screen/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1779001200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701245930_927835046948565_8911968481414297898_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rsltfK56hhkQ7kNvwE8Sier&_nc_oc=Adqzhcv89bVoOjpU_6CqXb_KHA_r_qVuqy10B2a79S16w_zp6WUGzTwDXL-25Actjs4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL6-nF2soaaNa8CaavaIvFmFsu-fubiTLp_XeazOJrZxg&oe=6ABE2EC0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/702214431_2361763150987288_2509674968649943612_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b5s-N1G6MdcQ7kNvwG7VRqp&_nc_oc=Ado6U0QwA2bM_zCJ9FhBCLrHbUtvckxlSHKr4x72Ed5krdhNI-GyjeA20kgp54a8uOU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJZROBnsCfNKtLVKPzT_cWiMKezywtmRKm5DasJJPGXEQ&oe=6ABE5B56",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701385734_1795617861407204_5011994237731306971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=caSgwaugA6IQ7kNvwEoFShp&_nc_oc=AdpklTSjNzVbp4hXN_h7-Dg-2sWjyQjqwBJowGBbL-h8exdiqNG3zs1gZOMmasYgC9E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQI3ACYwXZfX9K3ioNVbTm0tGM1LYkt56CtSXWnUqbJ_xQ&oe=6ABE28E3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/701245911_1012665314769453_3465742275503624442_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vvwuDC5lGeQQ7kNvwH23htX&_nc_oc=AdqDdKLvlBLnq5fIbHJUUFWjN0IALmQSqIVoLEdCTU8n6TYM73XEOneD06lKwR-FSfE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ_8etZ94rAf303phdJYqBubeb-OZCNB6tAQVnulJWOpA&oe=6ABE565E",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701056395_1525318365597222_2563190573867255053_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AXQS4RYikEYQ7kNvwGe-BwJ&_nc_oc=Adpew0Y4kEYk8JrAGiKtQ84PPOlJNAKuPhcQBvQ4uVjSsxhaVnPLam-E2hp0M-u7YwU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQI6UmtNF8VDi80bEvsSs0TLO9fp9MdGaEhyR2Hgqa2ZMg&oe=6ABE45AC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/701915376_1015815557609725_3923507055346424644_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6hH-Zn7qwEQQ7kNvwFVZ0TF&_nc_oc=AdpsLHE4DZqXW8ESeR6akDXvWu0Yr493e0zEerFzBnP0rzX46H7bZlZM80u4Pr1wy-A&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLmDM6r5CD8HotBnj0RVmujAba7TXhGSSbDxGe7ZKjGQQ&oe=6ABE42A7"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1282854963993572"
+      },
+      {
+        "id": "1659731715331494",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "לרכישה מהירה >>",
+        "body": "ההפסקת חשמל הבאה היא לא עניין של כן או לא, אלא עניין של מתי!\nאל תישארו בלי אור, טעינה או שקט נפשי!\n\n🔋 המטען הסולארי הכי חזק שתפגשו –\nמערכת \"Solar Power System\" הכוללת:\n✅ פנס עוצמתי לפנים ולחוץ\n✅ טעינה סולארית + חיבור לחשמל\n✅ חיבור USB להטענת פלאפונים ומכשירים\n✅ שלוש נורות LED עוצמתיות\n✅ נייד, קומפקטי וקל לנשיאה\n\nמזינים קוד קופון IR50 ומקבלים:\n🎁 משלוח חינם לנקודת איסוף!\n💸 50 ש\"ח הנחה\n\nלפרטים נוספים ולרכישה >>",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product/%d7%a1%d7%95%d7%9c%d7%9c%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%99-%d7%a0%d7%99%d7%99%d7%93%d7%aa-%d7%a2%d7%9d-%d7%98%d7%a2%d7%99%d7%a0%d7%94-%d7%a1%d7%95%d7%9c%d7%90%d7%a8%d7%99%d7%aa-3-%d7%9e%d7%a0-2/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780297200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/655929529_1656034135596830_2783836671013169196_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yo-UlsOLPu0Q7kNvwH2tWhC&_nc_oc=Adp8UF4bWnBPdFKnXdyG7ZHMYR3U1Op2Z6cTHeFdUimop3aOYnakvJSFeqHpUsd5Kio&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQI0F_1E8VYspc7vlkzmtZiDwM1Rv062t5Jt_O5eI2VXRw&oe=6ABE350B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1659731715331494"
+      },
+      {
+        "id": "2778738552462318",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "פשטות שעובדת.\nרצועת מתכת בעיצוב נקי שנותנת לשעון החכם מראה יוקרתי, מדויק ועל-זמני.\nמתאימה ליום-יום, לעבודה וגם לערב – בלי להתאמץ.\n\nסטייל שלא צריך להסביר.\n#שעוןחכם\n#רצועהלאפלווטש\n#AppleWatchStyle\n#AppleWatchBand\n#MinimalStyle\n#CleanDesign\n#FashionTech\n#סטייליומי\n#אופנהנקיה\n#אביזריאופנה\n#נשיםוסטייל\n#SmartwatchStyle\n#WatchLovers\n#ModernLook",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/milanese-apple/milanse-band-apple-magnet/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771228800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633736332_1270165408295309_7249197494054526536_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PXdYJuw6DokQ7kNvwFJtQ46&_nc_oc=AdpHpUhmEGmxcBUUdsIruS8a8N4KjMGCoAzC2qfE5Ev1pYCQvRlV0vPZn1Ib-f6vmS0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIedZNSnArTpjj4pGDRshDqJiS6fUD4C8Fx6qf4vYv7zg&oe=6ABE4240",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635833612_917692397422894_8238509973515822320_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ernW3u-HrYgQ7kNvwG0WvPB&_nc_oc=AdrKOkzLyKOBr68NnawQJihEyCMANmATZQvQfBIEcAIee04rNZiZsyf3EpLdcI8tYsA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK5Si6l_vmpa0X13GO2OhDeytirQssIg-G653gzoc3Drw&oe=6ABE374C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634708707_1639283670852691_2561799753397452377_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SRcnOLVx1yoQ7kNvwElQ2Wm&_nc_oc=Ado6znro8ljzUbogI8zy7SyggQvWr_sRLUuwdoAFVR2tnHxMe5vNtfQWTVE6PTdoHD8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ-xnGJ0Lz-kstpPcu6PjWovnwxY_HlX3W5yK100hP5VA&oe=6ABE2C98",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634713226_1400866621152984_2059038929745206414_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VWPyO6eoZekQ7kNvwFuTkHd&_nc_oc=Adq3gyRAmp_hvvN_yJut8rAsGeghYMYqH5m9UOMs8ymG3LGoALfQuIyU_9NqqjErcyY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJoLEeo05rBHgWRk_zju3Ic7FgmxzA2S7xy1wTE3j2ftA&oe=6ABE2926"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2778738552462318"
+      },
+      {
+        "id": "1965822470951265",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לפעמים כל מה שצריך זה נגיעה קטנה כדי לשדרג את כל הלוק.\nרצועת שעון בגוון בהיר עם אבזם רוז־גולד יוצרת מראה נקי, אלגנטי ומדויק – כזה שמתאים לכל יום ולכל הופעה.\nנוחות, עיצוב ופשטות שעובדת.\n#רצועה_לשעון\n#שעון_חכם\n#AppleWatchStyle\n#AppleWatchBand\n#עיצוב_נקי\n#סטייל_נשי\n#אופנה_יומיומית\n#אביזרי_אופנה\n#לוק_מינימליסטי\n#רוזגולד\n#סטייל_ישראלי\n#SmartwatchStyle\n#WomenStyle\n#WatchLovers\n#DailyLook",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/slim-bands-apple-watch/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771142400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634444571_789411737514034_6191038747351218669_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MbmFvkMUiMYQ7kNvwEtQzHb&_nc_oc=AdpR-u-n5_njolkDoZB3W1bQs6XizzjmKJrj4tBIWaRI2Dg1EAg3d56LWSJ_2-2gAsw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLW9fg2vpIiWE_tSVrVcnr4ySmnpipJ0U-glLTyDNMKkw&oe=6ABE338B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/637456315_1236601604579570_9152133271387494763_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_e1FgGg-lQQ7kNvwGsBTuO&_nc_oc=Adoo1w_zoYQe7nZzfKsCkipZtlwugHT2KE-y7cnPvNSqz9qHRHRn39iitbSDflfK7Xc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLENSge-CJ1ecrWju3xYjJp9v4ZVL-j_4YNzE4ey7DP0Q&oe=6ABE5475",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635506894_920036223774013_8322966598549628906_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AC5uFplBzmYQ7kNvwGiLTkU&_nc_oc=AdpxqjWRaQnFluwKl6p1BeqTx5TIHOXDqMbf8Nq5tJNZmu96FaLZ1R3ymTjrygTsUvQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIH6-woz8v_ozKb57nTdmDcvDGCoxvzmMrQwHgclh-mMw&oe=6ABE2FDC",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635155821_2198028670602390_4924556946879353744_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-OvzfN7pcS4Q7kNvwG6k_vv&_nc_oc=AdrU-ED5nFUfpX21_nsotjlj39ClPJIvDj6eo1Me_XOTqhNMrfyOSj9I4UlY6ziel-Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLxnCPSBBgizUH06E0n50cP2DcK2YRDFGaDmFNGqsAVgQ&oe=6ABE3303",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/636702184_1626661735017876_6034863491574125734_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BC0kT9dFvkcQ7kNvwEpJqGC&_nc_oc=AdrvI0frkqSykXn26qtxInhDp9gYZITRLL3n9u7cfZ0jRIIIThjGTWm5ZvgctsgsM9c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIYKjj1_EoBeXSBnhWbTpaF7Tk8Hxpu62X-U6pG-8dGeA&oe=6ABE4BED",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/637440077_1400517144650271_7270676161674635780_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d68jaAOEwqkQ7kNvwG_k9XO&_nc_oc=AdpdQvz5Ixg3UWwWPFNl1_fR3d4Seforhd3bIQPvD_N5kpgFir-U02rvJAW_ybH5xGY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLZDpEqKSA6WNPOv9qR2W9t9IdqQqoCmsh7Cc77rmoH9g&oe=6ABE402B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1965822470951265"
+      },
+      {
+        "id": "1673742090503770",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "גלקסי ווטש זה לא צעצוע – והוא גם לא זול.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני גלקסי ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לגלקסי ווטש",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בכיסוי לשעון גלקסי באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1780556400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711729671_1726799065138286_6337888792612603193_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=47AlAsnTLfkQ7kNvwHO8Ke0&_nc_oc=Adoz6xV3eQYGk3-8vwq_UoXh1Sx1ui5jzqb4yKj52IEk-WJeYjIceLZeLKAAa8JNtpY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJzSjPKOkTGtfwmNpmWnhPGXt4BEs0bQCyg3eGs53TrAA&oe=6ABE4E21",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/714444585_1591563835912505_1745970954075584894_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XG1edLfdVpgQ7kNvwGtHia0&_nc_oc=Adq7Vg2MsjGYaD-2numopOf0kygOqMAb7zMvUjvG7PETAXBK2vIljImvE4mzlnY7ynY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLVd8Ec-t_uYSr508aTPMaGzME4RKq9BcbjIB2EGoRN3Q&oe=6ABE2B08",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712099654_968226116136692_7635298871550879414_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CJ9tnMV7-N8Q7kNvwHzu67F&_nc_oc=AdqGFKyAVx4N7C50TB77Hyu_AG7OR3NEWdxmNH1i4DXsOIQEjoc4plnebOr0F6yysDs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL868axE7m2coqTJsiqH-ddBQLhnHmouD4smx3gXNjPQg&oe=6ABE5643",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710432295_2077979876119558_825451418049676483_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vBhUIT7yLJEQ7kNvwHVp7wR&_nc_oc=Adpjtfnt1UJZcPxSgOH0UYlmih3mbMaiO9x2tuuDcJi5tQy27GAic5qrhj3EH07AQpw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJrcYRFSKu_81JTmvyP3tfjz5xaXXwU_NHnvJz-X3sPsg&oe=6ABE4DAB",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/712623726_1762027805180417_4663685183738355303_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=52NJDp2ZOJIQ7kNvwEoqzjP&_nc_oc=AdqG5pT7WnovD5ACSNCTUkRfnog-9m0Jrd29h52-GsZlwfxBOJd7X0tV6zduYFNgZmA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKcUwSHls2zvfb5WW_Tzucf1Bfiu_7PTBWILsZhf_6JYQ&oe=6ABE4E1F",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710079290_4441207206162165_4052706517340166988_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JhMvho9mf78Q7kNvwFUw-gh&_nc_oc=AdpdJ1Os40m0KGE1MDPkSkXv8hIIpIGJ2jmTns0ZsGfZ-UdD1oNIPFo3xwXo42qeeGQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKLmzUoTypNuWW9sfM7D0SgG4p-4QETMuyM75MWFyOIPw&oe=6ABE43EE"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1673742090503770"
+      },
+      {
+        "id": "1876191566416768",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nציוד משלים לשעון חכם קונים רק אצל בSmartCase!\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בראשי באתר 👇",
+        "landing_url": "https://smartcase.co.il/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1773471600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633283400_1799817327618810_608769776044639221_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eGKD41BaaTEQ7kNvwHNsaq7&_nc_oc=AdrWsZtwP22mrDoUp7bbW1FiRLCrg_3oVGX5Jge2rlOCObAuaWYlpachQnIRFwgl1uc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJWaqXkr-7vIq8Ze83PlreSJKYUs5RI2gLP0nvhvf6r8w&oe=6ABE395F",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634144158_2102865797169628_6927741065984748506_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8jOgDejbIz4Q7kNvwExyoHC&_nc_oc=Adpoxyu8rPwCaDl870uFZC-imeRajvBetE4xADjTP9TGmnxDvAHf1Qzkpqlpg2258Pg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJKNa8Mnd2kG_aivLF5cdjb8rWZjhXNjxV0AsdFrkgilg&oe=6ABE4435",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/634713357_1582586342790281_6977621737216260329_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Y0Q98Bn6BYQ7kNvwFrV-j4&_nc_oc=Adp3MH6Sl6AcPqd2kqX_QSksNfs75vnMHcz4MJTeWWrYtInkKVAGdoBGcV5X1YMM868&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIG7nhEJ7x4Ry-PXFh9KvQ9xlbbsVCx-ShZlZyS-h0_hw&oe=6ABE43ED",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636779591_1893571961275314_6709543924462869084_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jaTRJrQKiB4Q7kNvwGwM6Fk&_nc_oc=AdpcrvyVCE5x8epHfZBAMi7mT-NQybw33l_xRZpBYbUPUvXpzSUvIaM21UrHiH4RHmI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK2iUg5do0hwAu3Ga8vLp_iwKfxz_Sy_ufwFICl1p5N8A&oe=6ABE581B",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636727840_1022971897562258_2467801353618511627_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4YBG2c89vfwQ7kNvwEgKMbF&_nc_oc=AdpcGNoPd2rHKVBi3gLPUj8gYhHReH3FHyX5Ni6LuqZB1T3J8QzLFMf3I_Fe9YOZFMc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKzmHDN1UNilaFzhysddhVjkdLMoteJ_vsKstqYhjmXmQ&oe=6ABE5B53",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/635161061_769787239504502_7509334073526528441_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ue7dTtyEcq8Q7kNvwHhMZI_&_nc_oc=AdprAHkNGBiXq4OJfY9NB6ybXaMUyA88xdvFiDO5okMXIkUkM_obPrAn9RV4z5sQBN4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLaPlVNHpZlIHSmgThWpSvVTsYdfqQIztcxWZdXh7EhqA&oe=6ABE4CCD"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1876191566416768"
+      },
+      {
+        "id": "1436676501832218",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "סוללת גיבוי ניידת עם טעינה סולארית 3 מנורות פנס ותאורה צידית דגם EP-391B - SmartCase",
+        "body": "השדרוג שכל חובב קמפינג חייב בתיק 🎒\n\nאוהבים קמפינג אבל שונאים את הרגע שהסוללה בטלפון נגמרת והמאהל נשאר בחושך?\nאתם מכירים את זה: תכננתם את הטיול המושלם, מצאתם את הנקודה הכי יפה בארץ, הקמתם את האוהל... ואז מגיע הלילה. הפנסים האישיים נחלשים, הטלפון של הילד על 4%, והרומנטיקה קצת נעלמת בחושך.\n\nהגיע הזמן להתקדם לקמפינג ברמת 5 כוכבים ⭐\n\nעם מערכת האנרגיה הסולארית הניידת, אתם מביאים את הנוחות של הבית איתכם לשטח:\n☀️ לא נגמר החשמל: מטעינים בבית, וממשיכים להטעין בשטח ישירות מהשמש עם הפנל הסולארי.\n💡 פתרון מושלם ללילה: ערכה של 3 נורות לד ארוכות שנתלות בכל פינה באוהל ובמתחם.\n📱 צג לד חכם שמוודא שאף פעם לא תופתעו.\n\nהקיץ הזה, לא נתקעים בחושך.\n\n🔗 להזמנות עם משלוח מהיר עד אליכם 👇",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בסוללת גיבוי ניידת עם טעינה סולארית 3 מנור...",
+        "landing_url": "https://smartcase.co.il/product/%d7%a1%d7%95%d7%9c%d7%9c%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%99-%d7%a0%d7%99%d7%99%d7%93%d7%aa-%d7%a2%d7%9d-%d7%98%d7%a2%d7%99%d7%a0%d7%94-%d7%a1%d7%95%d7%9c%d7%90%d7%a8%d7%99%d7%aa-3-%d7%9e%d7%a0-2/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1780556400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/715413180_1695915161419394_2761066435910558768_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kMqaMcxe1DsQ7kNvwEf7lpc&_nc_oc=AdqOQ4aDAAevJwLc1IKgzv-DDvIztRxXjwa3fPUPuWFhGvkewCHT3QLjg6Wgseqikyo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQL3fyRtpV1GHAXWVDEyNzMv-7WaKwE4R1GHJ4v69_jthA&oe=6ABE3ACF"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1436676501832218"
+      },
+      {
+        "id": "2416303012442083",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "לרכישה באתר סופר פארם >>",
+        "body": "ברוב המכשירים כל הראשים עושים אותו דבר: מסירים שיער.\nב-Myvane ICE Pro יש שלושה, וכל אחד עובד באורך גל אחר:\n\nHR להסרת שיער, מהפנים ועד הרגליים.\nAC לעור עם נטייה לאקנה קלה, באזור ה-T, בקו הלסת ובגב.\nSR לשיפור המרקם והמראה של העור בפנים ובצוואר.\n\nמחליפים ראש בלחיצה ועוברים לטיפול הבא. בכל ראש יש כמעט מיליון הבזקים, אז הוא לא ייגמר באמצע.\n\nובניגוד לסדרה בקליניקה, משלמים פעם אחת.\n\nלמה אנחנו:\n🔹 טכנולוגיית קירור חדשה Ice-Cooling שמפחיתה את תחושת הכאב\n🔹 חיישן שמזהה גוון עור ומתאים עוצמה מתוך 10 רמות\n🔹 מתנה: מכשיר פדיקור חשמלי בשווי ₪149\n🔹 שנת אחריות יבואן רשמי ו-30 יום ניסיון עם החזר מלא\n\nלכל הפרטים ולהזמנה עם משלוח חינם 👈",
+        "link_description": "30 יום ניסיון ללא התחייבות",
+        "landing_url": "https://shop.super-pharm.co.il/care/shaving-and-hair-removal/laser-hair-removal-devices/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8-%D7%9C%D7%99%D7%99%D7%96%D7%A8-%D7%91%D7%99%D7%AA%D7%99-3-%D7%91-1-%D7%94%D7%A1%D7%A8%D7%AA-%D7%A9%D7%99%D7%A2%D7%A8-IPL-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%91%D7%90%D7%A7%D7%A0%D7%94-%D7%95%D7%97%D7%99%D7%93%D7%95%D7%A9-%D7%A2%D7%95%D7%A8-Myvane/p/mp-00650275",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790146800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/820000254_913712538215482_2088073142416189757_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5xwLVzYrNZQQ7kNvwESqZ1Z&_nc_oc=AdoaFUDtNbyPaW90vCOyf1NNRi6caIG_9WQMR_1zHQf2OcNyVTUXIGgdlCZt5_01ivA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJFb3jBoz2GKcNLP8DJjPzQQuw0wS6TSck2dpHUfmxIUQ&oe=6ABE4DBA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVTtcP7s2edVTNN8ZzNW2eZVIOieYyj-W4EqSvIE--C0rHPJVwhGpKM3PNQRq3hiIBrQrzdJqJJk8qKCDil3hOTV8ZBFtCQQUA48IPbLxjYA.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=JQhMjSaXIAYQ7kNvwGSAH9o&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3NDI2NTY0OTcwMzI0NTEsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1fc3f56d3c623229&_nc_vs=HBkcFQIYRWZiX2VwaGVtZXJhbC9GOTRFNkQ3MThGMUZDNjZBMUEwNUY3MzlFNkQwNUQ4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaG9MTX-ruYBhUCKAJDMywXQCQAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIuTJ2kmegrRSlQZp7ei_Rux3fxYJlYz9sLW4_LzCrRNw&oe=6ABE33C6"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2416303012442083"
+      },
+      {
+        "id": "3057607371297434",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "סדרת מארזי ה-Luxury ל-Apple Watch נוחתת ב-SmartCase. 💼✨\n\nכי השעון שלך לא חייב להיראות כמו סתם עוד סמארט ווטש סטנדרטי. קולקציית מארזים יוקרתיים מפלדת אל-חלד, סיליקון פרימיום ועיצובים נקיים ואלגנטיים שמעניקים לשעון החכם שלך מראה יוקרתי, יחיד במינו ומלא נוכחות.\n\nלכל הדגמים והצבעים >>",
+        "link_description": "SmartCase – חנות קונספט לכיסויים ואביזרים לשעונים חכמים וגאדג'טים במחירים נוחים ⌚ מגוון המוצרים האיכותי והרחב ביותר בארץ. צפו בערכת כיסוי יוקרה באתר 👇",
+        "landing_url": "https://smartcase.co.il/product-category/apple-watch/apple-watch-case-luxury/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DPA",
+        "ad_delivery_start_time": 1783234800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739276911_4569452206620636_7619654418235578199_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8pHoCLRCt1sQ7kNvwF3YKgn&_nc_oc=AdrjKvGcoQGFv3PoyMMMjHdQZn01850-hpcuPk6K76Xhr-mAey8jdMkwfgCd_2svEF4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJN8RVfKQR1AxvR3Ka533LS909vP33pTACvVqgiLS0NiQ&oe=6ABE3E0A",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740276530_2534553183640415_8199284563897372607_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j6k747NJPCUQ7kNvwHlLqpx&_nc_oc=Adr1XCZ7fgzQA_UlLF_sdoQT65290xN3PlPqZ6nHt3qf183oWks9NqY9NnFbiZIBx_I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQI3nVWnsxflPHvW5HwXB-ZKNPj99O7QaBx8oimiU6OX-g&oe=6ABE39F2",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/740445823_871618169356654_4527611581732499758_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2Y05BhJmqJgQ7kNvwEiXuzB&_nc_oc=AdrX5icpGW1u29pXrPVpIdGhoOxynftctaEhsadiZSAUtZ1W-np9xI_O69EB0E6XP30&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQK5g6bZhmtmFQpBbwPdBGWYISuGyexv0_3Jw25y94XTJw&oe=6ABE2FE0",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/738473036_1029868029421658_499982413759390080_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IU9yPLvIZCsQ7kNvwHK4t3F&_nc_oc=AdoGWMh9HLzx0f9bQ5I_Ziu_tfnfoO5zi9VlUETrT1rgFpoGxLU1XuiKvqTA9ALVU60&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIlmM-2Wl_yqaYl__asH04yTuaXcedHboJJI3mdLpAQtQ&oe=6ABE32A0",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/739451158_2254883335338544_1125301880882172226_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sTiUXJigSr4Q7kNvwG3gDeA&_nc_oc=Adq6ehMKJBYHN0CsdLhhcMIuA1ktKc0vMYpkHiuCYAIU5mTC710bhxzD53tHfKEzBkA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIjxdUefTcemqCURZ2-WxqpcCLeEGafiUk9fmBCQ68zPw&oe=6ABE30D4",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/738243946_2082208995698545_8050966800212617517_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LCx8axCAGt4Q7kNvwEXKd5f&_nc_oc=AdreWhwvXrig_occqQMi91NM_5v7OichzeklHie6pVhKQzGFghzKMSSjTTDtXUCnMDE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQLB5pkO1O2xzR7VCrgYNXKSeLLTEh0HeOEyZmpXU6kuEw&oe=6ABE5E61"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3057607371297434"
+      },
+      {
+        "id": "952409293929433",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "לרכישה מהירה >>",
+        "body": "רצועה לשעון אפל קונים חכם רק אצל בSmartCase!\n\nאצלנו גם תקבלו את החווית קנייה הכי טובה וגם את המחירים הכי טובים!\n\nמרצועות ומגנים לכל סוגי השעונים החכמים והפלאפונים ועד לגאדג'טים חכמים ומטענים ניידים\n\nמזמינים עכשיו ונהנים ממשלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\nמתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\nמוצרים ייחודיים שקיימים רק אצלנו\nעסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\nכל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\nייעוץ ושירות מקצועי לפני ואחרי הקנייה \n\nזה הזמן שתתחדשי ברצועת אופנתית לשעון ותחדשי את הלוק 😉",
+        "link_description": "מבצע 2 ב- 149 ש\"ח",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/premium-fkm-straps-apple-watch/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1774767600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/657693243_1498532228453577_9019925763116779323_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fPxCZAvRG0EQ7kNvwF2KmkO&_nc_oc=AdoEfz4BTi0nKiZId7xVQwmGu2iA80twtcmHlx1GbEPAteltJm_vaWco9VnDtkECb2k&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJ2Z2jSvqXJWiR75ilIv1X_EB8mkumm7Tico7d5aurgJQ&oe=6ABE343C",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOwM9MZJztDaZBhQ4VKyU4eJBnaU6YY8H3bd-41zjRY9kUOAh9uCl3RxxVJLoHFgIDccLt39TXMBynLS53STszRhxI-WUYUDlbvkHnEWm5LgQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=8G1eNLMb63QQ7kNvwGGQoAG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NzAyMzgyMDY5NTE1NTMsImFzc2V0X2FnZV9kYXlzIjoyMDYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ec844f94a5c1d806&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRTQwNzA4OUNBMkUxRDlERjhGQTE2MzY2NDY0NzI4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5NDY5QkJEOEMxNTU5MjgyMzgzODMzNzQ1OTlGNkEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCgsS_mL7SBhUCKAJDMywXQESqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJ5DkBwinBaBPhqjlnhSRPb82xY0jq0fT3JXVcKZG_XMQ&oe=6ABE533D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=952409293929433"
+      },
+      {
+        "id": "938596708666201",
+        "page_id": "106514724708642",
+        "page_name": "SmartCase - אביזרים לשעונים חכמים",
+        "page_url": "https://www.facebook.com/smartcasesale/",
+        "page_like_count": 1002,
+        "page_categories": [
+          "Jewelry/watches"
+        ],
+        "ad_creative_link_title": "",
+        "body": "לבן נקי שפוגש נגיעת רוז־גולד.\nרצועת שעון חכם שמביאה איזון מושלם בין מינימליזם לאלגנטיות.\nקלילה, נוחה ומתאימה לכל לוק – יומיומי או אלגנטי.\nפריט קטן שעושה הבדל גדול.\n\n#רצועה_לשעון\n#רצועות_לשעון\n#רצועת_סיליקון\n#שעון_חכם\n#סטייל_נקי\n#לוק_מינימליסטי\n#סטייל_נשי\n#אופנה_יומיומית\n#אביזרי_אופנה\n#רוז_גולד\n#לבן_קלאסי\n#אקססוריז\n#smartwatchstyle\n#watchstrap\n#whitestrap\n#minimalstyle\n#everydaylook",
+        "link_description": "",
+        "landing_url": "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/slim-bands-apple-watch/",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "MULTI_IMAGES",
+        "ad_delivery_start_time": 1771228800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633981806_1469487754703150_7313616742887759201_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_P2jWWMhaJIQ7kNvwEPYbIn&_nc_oc=AdqbUKzfYOgs5jBAj1jqOMVV2Lb6ocIqEl6YR9C-3CfRtoolnV9vtMGWp4GNkz9W_7E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIYbnpNN0XBlsix1sCRbuhteYkt1YQq68v-yNMyYZEVmQ&oe=6ABE40D9",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/633388578_853482357646512_8908346598825359259_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c51XR0ip-30Q7kNvwG_VBaD&_nc_oc=AdoKVlWmIJHNHIZMrNYKLEyhybdswCWzzlC7xzUUUmQRFldIiEQF4-U64dKXTtFqf5I&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKXQ9C_Ne8lit_y6jCEhaiCDT8_0M-NhQYlXg7OYzVQcA&oe=6ABE2D85",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/634831113_1445369147293740_2371877231890911433_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kZz3CYTT05UQ7kNvwF2i-KJ&_nc_oc=Adr5L5uUl_GUyge0AozYOC8bvYcchgxf1PTc0CBaOZkiSceoU01zzp78pHs7iCJ17vA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIg4Aj5mWSx8NbZZPGrPmYUxoez1W0lbuzPvmwhpovrKw&oe=6ABE5133",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/633404458_940339875015170_8279590028747394665_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8GSr5P0m6N8Q7kNvwGBay-5&_nc_oc=Adr7ds63HFajWO-Ru0jBMLn-yLQx_USzXD2GThf8w363NuY3CtTv2kacQbqQXfa4CyA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQJAXxck4iVaVfpPpSf805_AjE1oNb4Z_SNcGaYItaa9Uw&oe=6ABE4593",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/636328936_27063159019939478_6808517265486944733_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XUgnYdCrPIcQ7kNvwG5uLWZ&_nc_oc=AdroBmudCi7fPjhBzNCkcJQic8N11bVaLqM0_9cqnzBfWSAbddakvdtRGhBG0aZyIcg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQKFexN5Mm_L0Rm3_NxqYftVwxzDsiD9h_7SDpKYLqE61g&oe=6ABE309D",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/634001004_1622993342351305_1931772930100156503_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZKqYctIsD4gQ7kNvwFad1aY&_nc_oc=Adr-0HJVelJRdLVTSHupvKKgYCQFukOWQcZ_G0a73GzJWb-K9DijvEEpg9g0VZQJ_lc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=7H5N6eIFTfwpTiS3Y7_tOQ&_nc_ss=70289&oh=00_AQIH8AuDUHeSTPXstWxfND0BodJacrGpWZ0-rt4oMOS-fA&oe=6ABE4C2B"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=938596708666201"
+      },
+      {
+        "id": "1662420418456044",
+        "body": "קנייה חכמה עושים רק בSmartCase!\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🛒 גאדג'טים ועוד\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nלפרטים נוספים ולרכישה היכנסו לאתר >",
+        "landing_url": "https://smartcase.co.il/"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "1682379686528852",
+        "text": "בניגוד למתחרים אצלנו תוכלו גם להגיע ולראות את כל הסחורה אצלנו בסניף!\nכל המוצרים עוברים בדיקת איכות ע\"י הצוות לפני שהם נשלחים ללקוח.\nמוזמנים להתחדש בציוד משלים לשעון החכם שלכם ולהנות מחווית קנייה מושלמת כחול לבן🇮🇱\n\n📌אופיר 25, חיפה\n\nההגעה לסניף בתיאום מראש*",
+        "links": [
+          "http://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1451790069759645",
+        "text": "בניגוד למתחרים אצלנו תוכלו גם להגיע ולראות את כל הסחורה אצלנו בסניף!\nכל המוצרים עוברים בדיקת איכות ע\"י הצוות לפני שהם נשלחים ללקוח.\nמוזמנים להתחדש בציוד משלים לשעון החכם שלכם ולהנות מחווית קנייה מושלמת כחול לבן🇮🇱\n\n📌אופיר 25, חיפה\n\nההגעה לסניף בתיאום מראש*",
+        "links": [
+          "http://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1662420418456044",
+        "text": "קנייה חכמה עושים רק בSmartCase!\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🛒 גאדג'טים ועוד\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nלפרטים נוספים ולרכישה היכנסו לאתר >",
+        "links": [
+          "https://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "997148026447395",
+        "text": "חדש על המדף של SmartCase! ✨\n\nרצועות טרנדיות לשעונים חכמים, כיסויים מתקדמים ומגני מסך חזקים במיוחד – הכל במקום אחד ובאיכות ללא פשרות. דפדפו בין הלהיטים החדשים שלנו והזמינו במשלוח מהיר עד אליכם. 📦",
+        "links": [
+          "http://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "2550107932111207",
+        "text": "הטעות הקשה שרוב בעלי הגלקסי ווטש עושים היא לא לקנות מגן מסך לשעון החכם שלהם.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני גלקסי ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לגלקסי ווטש",
+        "links": [
+          "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/"
+        ]
+      },
+      {
+        "ad_id": "1847362662611178",
+        "text": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n⌚רצועות לשעונים חכמים קונים חכם 🧠\n10% הנחה לקנייה הראשונה עם קופון: 10META",
+        "links": [
+          "https://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1009590461919538",
+        "text": "התחדשתם בגלקסי ווטש 8? עכשיו זה הזמן להביא לו את הציוד הנלווה שהופך אותו לשלם!\n\nרצועות וכיסויים לשעון חכם קונים רק בSmartCase! \n\n✅משלוחים מהירים לכל הארץ \n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "links": [
+          "http://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "1754395662245543",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://smartcase.co.il/product-category/apple-watch/leather-apple/?orderby=popularity"
+        ]
+      },
+      {
+        "ad_id": "964112939565840",
+        "text": "3 רצועות לאפל ווטץ' ב99 ש\"ח בלבד!\n\nרצועות לשעון חכם קונים רק בSmartCase! \n\n✅משלוחים מהירים לכל הארץ \n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅רצועות ייחודיות שקיימות רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "links": [
+          "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/3for100-apple/"
+        ]
+      },
+      {
+        "ad_id": "1387945115934292",
+        "text": "עור קלאסי שתמיד עובד.\nרצועת עור לאפל ווטש שמביאה איזון מושלם בין אלגנטיות, נוחות וסטייל יומיומי.\nמתאימה ללוק נקי, לעבודה וגם לערב – בלי להתאמץ.\n\nסטייל על-זמני בפרטים הקטנים.\n\n#AppleWatch\n#AppleWatchBand\n#LeatherBand\n#רצועהלאפלווטש\n#רצועתעור\n#סטיילנשי\n#אופנהאלגנטית\n#MinimalStyle\n#ClassicLook\n#WatchStyle\n#אביזריאופנה\n#נשיםוסטייל\n#SmartwatchStyle\n#DailyElegance",
+        "links": [
+          "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/leather-apple/slim-leather-apple-band/"
+        ]
+      },
+      {
+        "ad_id": "969181449334540",
+        "text": "זה לא עוד מטען נייד, זו תחנת כוח ניידת! ⚡️🏭\n\nתכירו את ה-HOCO DB82 – מטען נייד עוצמתי עם מפרט שלא משאיר מקום לספקות:\n🔋 נפח עצום של 40,000mAh – כוח שיחזיק לכם את המכשירים בחיים לימים שלמים.\n💻 הספק מטורף של 65W – חזק מספיק כדי להטעין את המחשב הנייד (לפטופ) שלכם במהירות שיא, בכל מקום שתהיו.\n\nאם נמאס לכם ממטענים קטנים שמספיקים בקושי לטעינה וחצי של הטלפון, הגיע הזמן להתקדם לדבר האמיתי.\n\n🔥מבצע מיוחד באתר SmartCase:\n265₪ (במקום 295 ₪) בהזנת קוד הקופון: DB26\nלפרטים נוספים ולרכישה >>",
+        "links": [
+          "https://smartcase.co.il/product/hoco-db82-power-bank-40000mah-65w-pd/"
+        ]
+      },
+      {
+        "ad_id": "1631000228077277",
+        "text": "רצועת Milanese בצבע Starlight\nסגירה מגנטית חזקה\nקלילה ונעימה לשימוש יומיומי\nמראה נקי שמתאים לכל סגנון\n\n#AppleWatch\n#AppleWatchBand\n#MilaneseBand\n#Starlight\n#רצועהלאפלווטש\n#שעוןחכם\n#סטייליומי\n#נשיםוסטייל\n#MinimalStyle\n#CleanLook\n#WatchStyle\n#אביזריאופנה\n#SmartwatchStyle\n#DailyLook",
+        "links": [
+          "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/apple-watch/milanese-apple/milanse-band-apple-magnet/"
+        ]
+      },
+      {
+        "ad_id": "1911676019543879",
+        "text": "גלקסי ווטש זה לא צעצוע – והוא גם לא זול.\nמכה אחת קטנה יכולה להרוס את השעון, שריטה אחת קטנה ותצטרכו לתקן את המכשיר.\n\nבדיוק בשביל זה קיים מגן מסך ייעודי לשעוני גלקסי ווטש:\n✔ הגנה מפני שריטות ומכות.\n✔ שקיפות מלאה – בלי לפגוע באיכות המסך.\n✔ התקנה פשוטה תוך שניות.\n\nשמור על השעון שלך כמו ביום שקנית אותו.\n👉 הזמינו עכשיו מגן מסך לגלקסי ווטש",
+        "links": [
+          "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/"
+        ]
+      },
+      {
+        "ad_id": "836988529418679",
+        "text": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\n⌚רצועות לשעונים חכמים קונים חכם 🧠\n10% הנחה לקנייה הראשונה עם קופון: 10META",
+        "links": [
+          "https://smartcase.co.il/"
+        ]
+      },
+      {
+        "ad_id": "893187313354014",
+        "text": "רוצה לשדרג את השעון שלך בלי להחליף אותו?\n✨ רצועות אופנתיות | 💎 מגנים ייחודיים | 🚚 משלוחים מהירים\n\n✅משלוחים מהירים לכל הארץ (זמין גם מהיום להיום)\n✅מתחייבים ל-100% שביעות רצון = 12 חודשי אחריות יבואן על המוצרים 🤝\n✅מוצרים ייחודיים שקיימים רק אצלנו\n✅עסק כחול לבן, מלאי ושירות לקוחות כאן בארץ  🇮🇱\n✅כל המוצרים עוברים בדיקות איכות על ידי הצוות שלנו 🔬\n\nציוד משלים לשעון חכם קונים רק אצל בSmartCase!\n➡ הזמן עכשיו ותהנה מקנייה חכמה",
+        "links": [
+          "https://smartcase.co.il/"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "http://smartcase.co.il/",
+      "https://smartcase.co.il/",
+      "https://smartcase.co.il/product-category/shop-by-device/smartwatch-accessories/covers/samsung-case/",
+      "https://smartcase.co.il/product-category/apple-watch/leather-apple/?orderby=popularity"
     ]
   },
   "current_ads": [],
@@ -87,6 +1278,20 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T01:25:32"
+    "discovered": "2026-09-27T01:25:32",
+    "filtered": "2026-09-27T01:26:35",
+    "unqualified": "2026-09-27T01:30:07"
+  },
+  "qualify": {
+    "pages_checked": [],
+    "store_signals": [],
+    "prices_in_ils": false,
+    "owner_candidates": [],
+    "site_blocked": true,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "whatsapp"
+    ]
   }
 }

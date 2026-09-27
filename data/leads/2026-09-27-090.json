@@ -1,0 +1,104 @@
+{
+  "lead_id": "2026-09-27-090",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/asaraiskin/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "408298409369276",
+    "page_name": "Asarai",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "1371171151049264",
+        "link_title": "After 3 uses, my skin was so even and glowy that I literally haven't touched my foundation since",
+        "body": "Meet Earth Tones, the Aussie red clay mask, where naturopathy meets skincare— clears acne, calms & soothes skin with clean ingredients, and is suitable for all skin types.",
+        "landing_url": "https://www.asarai.com/products/earth-tones-mask",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/600992963_1397629881882648_3754377801330858606_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dJQWSnN3uTkQ7kNvwHf-Fu8&_nc_oc=Adr83nVXFOyC4UgiLEjCrX3divMZX57EpwMkg7X-vBLb8exIIhAaxXiCHZ4rCZU31Bo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQLKiLZikLPa3wu37ISc0IkPkl_BYKu9LN-G0eozed71GQ&oe=6ABE4042"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1766217600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1371171151049264"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 23671,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1371171151049264"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 23671,
+    "page_categories": [
+      "Health/beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}

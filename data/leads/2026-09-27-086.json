@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-27-086",
+  "status": "rejected",
+  "reject_reason": "not Israeli (no Hebrew, no ILS)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61559715733347/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "340341829153808",
+    "page_name": "Emily Turner",
+    "active_ads_count": 1,
+    "search_keyword": "skincare",
+    "sample_ads": [
+      {
+        "ad_id": "2167394413745864",
+        "link_title": "Buy 1 Get 1 Free ❤️",
+        "body": "Our Beauty Balm delivers sheer-to-light coverage with powerful skincare benefits. Hydrate, plump, and achieve a radiant glow—all in one effortless step. 💧✨",
+        "landing_url": "https://covebalm.com/blogs/adv1",
+        "cta_type": "SHOP_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/526470194_2484146245283523_7822549002585927119_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OygYFCFeRIkQ7kNvwHSmoHs&_nc_oc=AdoRoA1EzrY40MZnV8e5NDKHXRf9ALUtt_h-HvQVdtYsaths7_YYRxNJ12LEp8lWhQE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&oh=00_AQKpjpKMPo9d3VflzRTovsDXnL3C8f1wDdXTIUFF96Ypkw&oe=6ABE5DFA",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNjeYh_b1HkM8I5YouOLfiC6QyfFvbVLyEmIoj3Xvfacfr8SIzXLWx72PgH_u-2qplsTml5zq1nPh_kxmNKJkHUcq4MAYt1vbGmzJ-aXK9sJA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=39ge3EasaXIQ7kNvwHvuHP0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODI5MTU5NzM2MDM5NjAsImFzc2V0X2FnZV9kYXlzIjo0MjQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a87364e7766892&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTQ3RTQyNUU5Q0Q2Njc5MkM2NzJEMUQ2RkJGRkRCMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNEY1NjcwRUI3Nzg1NjlDRjRFQ0I0RjdCN0JFMzk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwib_m4vaZBBUCKAJDMywXQEwBysCDEm8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=FU-QMxpPKgNUK7YYCTPR4w&_nc_ss=70289&_nc_zt=28&oh=00_AQJhrUkiKQaJIzfXS1U9UeEEhERj-zNw-4b-uA8kp5XDkQ&oe=6ABE525C"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1754463600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2167394413745864"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": false,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 5323,
+      "product_score": 2
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2167394413745864"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SHOP_NOW"
+    ],
+    "page_like_count": 5323,
+    "page_categories": [
+      "Health & Beauty"
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T01:53:09",
+    "rejected": "2026-09-27T01:53:09"
+  }
+}
