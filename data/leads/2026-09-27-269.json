@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-269",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "not a pain clinic: עו\"ד",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -64,7 +64,28 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1650160719434980"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "עו\"ד",
+        "משרד",
+        "ייעוץ",
+        "ביטוח"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 146,
+      "product_score": -8,
+      "clinic_excluded": [
+        "עו\"ד"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1650160719434980"
@@ -90,6 +111,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "rejected": "2026-09-27T15:31:33"
   }
 }

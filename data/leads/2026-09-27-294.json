@@ -1,0 +1,112 @@
+{
+  "lead_id": "2026-09-27-294",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/arietawil/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1761251854112452",
+    "page_name": "ד”ר אריה טויל - טויל מדיקל סנטר - המרכז לכירופרקטיקה וטיפול בכאב ללא ניתוח",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "938161632609978",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "BOOK_TRAVEL",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732138386_2543541936104035_5958483249284024919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wEtD__b7xQAQ7kNvwFhABS4&_nc_oc=AdqsmxMGCzyyYUwXHHSvUEHPENC60N8f49nDHSfQUZj_pNlc6MRrsvn_E2mSlHj5shs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJZLLxic0ILTyGFefiMsLIil-Iv_KBet18LtlPZlXDkuQ&oe=6ABF2179",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734218650_1004443572470458_7605290169434985594_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKqW4w1yy_wQ7kNvwHupSFA&_nc_oc=AdrKx1IXRxE8hflRVnSzwyOFZwlHMkCBCF1EvrSM7tMToisL5LzehzqrRUWjPiRQW-k&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQKFRijY2KxlwCpDHb59jtR26it-uI8U-ndzSX-L7nP3MQ&oe=6ABEFA7A",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/733280433_1542630847264357_1599853979138737731_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wyfksov6gWkQ7kNvwEaAkkD&_nc_oc=AdozhKbvrHRz5qd5GAH28f9P2XZl9ZNyt8M4KN1YSjnS_p-EibuSlEtgJh83t1Xdd68&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJBizMXh9R_goJYIIAEI3NU3gOD-a0e8VD78cVh_h0elg&oe=6ABF0A4C"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782630000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=938161632609978"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "BOOK_TRAVEL"
+      ],
+      "page_like_count": 546,
+      "product_score": -2,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "כירופרקט",
+        "טיפול"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "938161632609978"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "BOOK_TRAVEL"
+    ],
+    "page_like_count": 546,
+    "page_categories": [
+      "Doctor"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}

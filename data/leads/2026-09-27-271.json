@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-271",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול, טיפולי",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -62,7 +62,31 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1437593998232480"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "טיפולי"
+      ],
+      "product_hits": [
+        "להזמנה",
+        "מבצע"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 2213,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "טיפול",
+        "טיפולי"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1437593998232480"
@@ -89,6 +113,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "rejected": "2026-09-27T15:31:33"
   }
 }

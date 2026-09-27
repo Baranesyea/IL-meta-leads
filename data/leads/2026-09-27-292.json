@@ -1,0 +1,109 @@
+{
+  "lead_id": "2026-09-27-292",
+  "status": "rejected",
+  "reject_reason": "not a pain clinic: בית חולים",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/medicalcareisrael/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "103044481840127",
+    "page_name": "מדיקל קר - Medical Care בית חולים שיקומי",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1912192562776655",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SIGN_UP",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734528396_1042678101506974_531092711720841191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p6pl1ibZwc4Q7kNvwE34H1o&_nc_oc=Adr5kROb49EjFKaapDz65Cp-AmtiHQ4UCc9w4kg8ncltl5n5H_IG9jGlteijmDnRyTQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQIF3vvJUGrc1lzyreQu2HvV6WSaC_hSodT7U5vLLWvz_A&oe=6ABF11F3",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/732269215_1763592867990787_2521542256027483144_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HN9rzpQez0YQ7kNvwFGRjSY&_nc_oc=AdpQ1Gi-psy37KG8pt4Utqi3ocdcfG7oI3O5XCADVC4PzaF321e-9SioBL4LQuKDbq4&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLJyu36bUklRpTJQsg1GfHqVxykPsN7XZWcQhO44Un4XA&oe=6ABF2246",
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/732863361_1443255474493362_408675902304966413_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pH5vznBh62kQ7kNvwGAgjr5&_nc_oc=AdqMxPR3XOOa7o2fNnz25QBBq3xmltHt7fTsOLHbcaK-0Y14ZNbttqAWhsdUu10SCAU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLq3AAWiqs4KOb-pdHNriyNa-HSWihK2ihVirhOX6LHZQ&oe=6ABEED59"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1782802800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1912192562776655"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SIGN_UP"
+      ],
+      "page_like_count": 1305,
+      "product_score": 0,
+      "clinic_excluded": [
+        "בית חולים"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1912192562776655"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SIGN_UP"
+    ],
+    "page_like_count": 1305,
+    "page_categories": [
+      "Hospital"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-255",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "not a pain clinic: אדויל, advil",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -73,8 +73,10 @@
       ],
       "page_like_count": 189,
       "product_score": 2,
-      "clinic_excluded": [],
-      "urgent_hits": []
+      "clinic_excluded": [
+        "אדויל",
+        "advil"
+      ]
     },
     "active_ads_count_exact": true,
     "ad_ids": [
@@ -261,6 +263,7 @@
   },
   "timestamps": {
     "discovered": "2026-09-27T15:30:58",
-    "filtered": "2026-09-27T15:29:11"
+    "filtered": "2026-09-27T15:29:11",
+    "rejected": "2026-09-27T15:31:33"
   }
 }

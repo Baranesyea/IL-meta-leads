@@ -1,0 +1,113 @@
+{
+  "lead_id": "2026-09-27-291",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול, אבחון",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/dr.regev.amit/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "375890729888828",
+    "page_name": "ד\"ר עמית רגב - אורטופד להחלפת מפרק ברך או ירך",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "2243723139371689",
+        "link_title": "instagram.com",
+        "body": "כאב שמתחיל רק במאמץ..\nפתאום גם בזמן מנוחה.\nואז כבר כל צעד הופך למאמץ.\n\nהרבה מטופלים שמגיעים אליי בטוחים ש\"זהו, חייבים ניתוח\" \nאבל במקרים רבים - זה פשוט לא נכון!\nלפעמים טיפול ביולוגי, פיזיותרפיה או שינוי קטן בשגרה\nיכולים לעשות הבדל גדול ולהחזיר את התנועה ואת איכות החיים 🙏🏼\n\nאני מאמין בטיפול אישי ומדויק\nבו אקשיב, אבדוק לעומק ואבצע אבחון יסודי כדי להבין מה גורמי הכאב וחומרתם.\n\nבעמוד שלי תמצאו טיפים, הסברים והרבה מידע על כל מה שקשור לכאבי מפרקים, שיפור איכות החיים, ניתוחי מפרקים, זריקות ביולוגיות ועוד.",
+        "landing_url": "http://instagram.com/dr.amit.regev",
+        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/571122619_821479733598270_119199900963019330_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xwjH1V_BVYkQ7kNvwG6r3p4&_nc_oc=AdpVL6RrS1-pE7zxLjUbpVsFwsJ6gP_BAGX0WluFP208OwCJ7ULmirBAF28iKkdF38s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQKc1DF_Andl8mRPAOXIE9uZURTiGqYgktmgCgVAvcuqrw&oe=6ABF1012",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/572768310_794647496671873_64459939000497949_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U7lw3I9lq9IQ7kNvwHwmke-&_nc_oc=AdpRImA7rNP8POVNqqR_9RBkxFRotDrWxt67RmKfNBDbiQsBiAtLPsOEDeyEM1qYr2Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJKRdLcrq2ieVvpe8z0MnEHbHFUcYLATvzRd_D5G3fhUA&oe=6ABF1571"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1768291200,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=2243723139371689"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "אבחון"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "VIEW_INSTAGRAM_PROFILE"
+      ],
+      "page_like_count": 479,
+      "product_score": -4,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "פיזיותרפ",
+        "טיפול",
+        "ד\"ר"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "2243723139371689"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "VIEW_INSTAGRAM_PROFILE"
+    ],
+    "page_like_count": 479,
+    "page_categories": [
+      "Medical Service"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}

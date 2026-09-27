@@ -1,15 +1,15 @@
 {
   "lead_id": "2026-09-27-274",
-  "status": "discovered",
+  "status": "unqualified",
   "reject_reason": null,
   "business": {
     "name_he": "",
     "name_en": "",
-    "website": "",
+    "website": "https://jepeta.com/",
     "city": "",
     "category": "",
     "owner_name": "",
-    "email": ""
+    "email": "jepeta.main@gmail.com"
   },
   "contact": {
     "facebook_page": {
@@ -28,15 +28,24 @@
       "confidence": ""
     },
     "whatsapp": {
-      "number_e164": "",
-      "source": "",
-      "confidence": ""
+      "number_e164": "+972548125807",
+      "source": "https://jepeta.com/",
+      "confidence": "high",
+      "kind": "service",
+      "kind_signals": [
+        "labelled 'נציג' next to the number",
+        "labelled 'support' next to the number",
+        "office hours next to the number",
+        "support/sales mailbox",
+        "branches / warehouse",
+        "gmail / hello@ inbox"
+      ]
     }
   },
   "meta": {
     "page_id": "242912305576837",
     "page_name": "ג'פטה",
-    "active_ads_count": 1,
+    "active_ads_count": 26,
     "search_keyword": "כאבי גב",
     "sample_ads": [
       {
@@ -64,8 +73,32 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=2838301439700930"
       }
     ],
-    "filter": {},
-    "active_ads_count_exact": false,
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [
+        "הנחה",
+        "משלוח",
+        "משלוחים"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 26,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "SHOP_NOW"
+      ],
+      "page_like_count": 1489,
+      "product_score": 3,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "מטפל",
+        "טיפול"
+      ]
+    },
+    "active_ads_count_exact": true,
     "ad_ids": [
       "2838301439700930"
     ],
@@ -77,7 +110,1060 @@
     "page_categories": [
       "Science & Tech"
     ],
-    "track": "clinic"
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "2838301439700930",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "נחשף: טיפול מהפכני בכאבי גב וסיאטיקה מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1760338800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/559989969_4183400851930359_8984606714013094354_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sTT9JTd-VKIQ7kNvwEDln4W&_nc_oc=Adr6SyIfhn5VOPLQ3UqvzXbNrePT8eAygcR4xmsFuefTc91BLM25--shlgFs66khxcA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJrjtxGZ9ZRqc8kNBzWkbAumwkn2iML5IlGZiNariRPNQ&oe=6ABEF5AE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZmY8UlQu-GJVtoHc-XaUGS3GDF9EQsxbOLEvBYQy6GwItsNAOenT_2gMRtKgRs3zM8MCsQfH3oW6kcGfsCqR2AAheN8UX_8-gkRJj5lrOAg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-c54phJ7OVgQ7kNvwEC6QqS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQyMjk3ODQyMjM5MTkwNTAsImFzc2V0X2FnZV9kYXlzIjozNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f5dd9fba8cded87a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMzQ0OTlENEIzMEYzOTk4RkMxQzhDRDg1MDEwMUE5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I1NEM5NDQ4OUJCMUYwREE5RjU0QzAzMENENTI0Rjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUr6Wi7L2DDxUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQJGj4hU7DoPS6Pukah2XkeOJl06_Ol_ZXimisiO7JddDA&oe=6ABF1F89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2838301439700930"
+      },
+      {
+        "id": "1163690042282314",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "לשכוח מכאבי הידיים ב-15 דקות מהבית 👈",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את שגרת היום של אלפי ישראלים! 🇮🇱\n\n ✅ עיסוי בלחיצות מדויקות שמפחית את הכאב כבר מהשימוש הראשון\n ✅ חימום מבוקר שמרגיע את שורש כף היד וממריץ את זרימת הדם\n ✅ טכנולוגיית EMS - גירוי חשמלי עדין שמחזק את השרירים ומשחרר אנדורפינים\n ✅ מתאים לכל יד - ימין או שמאל, עם רצועות מתכווננות\n ✅ נייד, קל לשימוש וללא צורך בתרופות\n\nכמה דברים שטוב לדעת:\n 🎁 4 מתנות קטנות בכל הזמנה\n 🎉 40% הנחה לזמן מוגבל\n 🛵 משלוחים חינם לכל הארץ\n ⏰ חודש ניסיון - לא עזר? תקבלו את כל כספכם בחזרה\n 📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הביתי הפשוט והיעיל! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן👇\n https://jepeta.com/products/wrist-massager-3-1",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/wrist-massager-3-1",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1757401200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/545830943_1095843596082696_1023957398232934852_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LilZ4cWKlVQQ7kNvwEzRrxs&_nc_oc=AdqRJsPpQD5rVnW_6ukZwYAXiw6svMGOtDoYKJ4Jo6-k1_8lVK3xiJHoj1xLncersFk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQLQHtqN1EaH-D_ncFuS_aEnuPAEa6YwdChQMvWZBXxH8A&oe=6ABEF3C9",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQOSgYcn0GrrC5PcQ6UCykZfsOXP5-68EPTWNZyYUkK065f9ojgZcTS_TxdsLNb4Sh5m_szdRRniunA5vwNpMc1Y.mp4?strext=1&_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-14T-iBHMlcQ7kNvwHGNydo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY1NjA4MjQxODQxOTYwMCwiYXNzZXRfYWdlX2RheXMiOjQ2MCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQKUzkp-PwtyLO49PzNiojwrnao0KAmpLVyq852i7IkpSQ&oe=6ABF0595"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1163690042282314"
+      },
+      {
+        "id": "1413267344138374",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "נחשף: טיפול מהפכני בכאבי גב וסיאטיקה מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763280000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/583193247_1207419454614664_7380409910939873337_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MMbcOpmZCIwQ7kNvwEm1I91&_nc_oc=AdpA2QHkh20ojy9h3oMAF9xXZeJijeWRtcsy20_7ysr_BYRAF-nvYeXWUINFgne_RuQ&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJRE9AalEn25HfbfjnTltSLr8LUTjeivCCTDCvjA6uk0A&oe=6ABF18AC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZmY8UlQu-GJVtoHc-XaUGS3GDF9EQsxbOLEvBYQy6GwItsNAOenT_2gMRtKgRs3zM8MCsQfH3oW6kcGfsCqR2AAheN8UX_8-gkRJj5lrOAg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=-c54phJ7OVgQ7kNvwEC6QqS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQyMjk3ODQyMjM5MTkwNTAsImFzc2V0X2FnZV9kYXlzIjozNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=f5dd9fba8cded87a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMzQ0OTlENEIzMEYzOTk4RkMxQzhDRDg1MDEwMUE5Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I1NEM5NDQ4OUJCMUYwREE5RjU0QzAzMENENTI0Rjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUr6Wi7L2DDxUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQJGj4hU7DoPS6Pukah2XkeOJl06_Ol_ZXimisiO7JddDA&oe=6ABF1F89"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1413267344138374"
+      },
+      {
+        "id": "1565106244361971",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "לשכוח מכאבי הכתפיים ב-15 דקות ביום מהבית",
+        "body": "\"זה התחיל מכאב קטן בכתף… היום אני בקושי ישנה בלילה.\"\n\nכמה זמן אתם כבר מתעלמים מהכאבים?\n\nהמעסה של ג'פטה פותח במיוחד עבור כאבים במפרקים.\nשילוב חכם של חימום עמוק + עיסוי רוטט,\nכדי להחזיר לך את היכולת לזוז - ולחיות - בלי כאב.\n\n✅ מתאים לכל המפרקים\n✅ שקט, נייד, קל ונצמד בקלות\n✅ פשוט וקל - הפעלה בלחיצת כפתור\n✅ חודש ניסיון - בלי סיכון\n\nהכאב לא נעלם לבד.\nאל תחכו לרגע שבו תתחרטו שלא טיפלתם בזה קודם.\n\nהבטיחו לעצמכם כבר עכשיו הקלה מיידית בכאבים.\nהנחה מיוחדת ומשלוח חינם לזמן מוגבל עד שנגמר המלאי! 👇\nhttps://jepeta.com/products/heating-joint-massager",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/heating-joint-massager",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758524400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/549594488_1320731352839686_2346650296517303491_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fpiUXqd78rMQ7kNvwFFw_FL&_nc_oc=AdpoRVws9bRu1thLCwcCtfW6Vy5lhT4P4Q6MVlfjgnA0hoCIuFAcT-ZrHhbxN2Ihp9A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJjjeyanGXx0ZAkNTiv7tSuaFHpQnEV1j_85roNKsQTLg&oe=6ABF1398",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMdFmVxDkQau_s_TE2iJBn0aC4lC59c8jYbuTpfzxthVxRQVVwOGofuhX7HCTI0EuV7zZpaUc5CyIPby_I6Wy1mVhSrjgzbddDrQtIWIsZ2LA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=dP8FUPzCg60Q7kNvwHQuNKw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODUyMjI4MDY3NjkwODksImFzc2V0X2FnZV9kYXlzIjozNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=36fd9f9b71d9d554&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQ3MTJENTQ5NUM2RTRGN0I0NkU0RUYwQzg1QzlBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EzNEUxOTBEODdGQkQ4NDA5Q0EzNDk3MkI4RTFEM0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCt4SGhv2aBBUCKAJDMiwXQF2TMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIUjSDqKI6T1yg13nHQWUhrea6i3bXkoF5uT8_efoXNjQ&oe=6ABF1549"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1565106244361971"
+      },
+      {
+        "id": "1130386352091486",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1760079600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/560538993_1822690131970791_8620965508896009266_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=imZhcLGtNXcQ7kNvwFyoUbM&_nc_oc=AdpijYCShCIgKCKnCvrg4EC_S7-ZaileXPSbV21ly2Bd3aIDgCFi1JVv06sBOQNPkCU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKIz3OT3g5L5prKoxG653oKlHw0cA3piroEju4cug1QFQ&oe=6ABF133F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP7Xw3KMYXg183e2Jx7n_0fEb8nA5qqH1kZtuN78gOJbdL1nVQoIUR6tz-7RUAavCvjaj-V5VHYUdG9kNIYOlPv0C8-ReTAzCRCjOGUqQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BSdxS_3k58cQ7kNvwEpmuBr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODAxODM0MTk1NzY4NTM5LCJhc3NldF9hZ2VfZGF5cyI6MzUyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQKSRCXZWAIHyM0w6teVqAZWMeo5PxmC3uQv5m3fJp8mMA&oe=6ABEFC12"
+          },
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/560538993_1822690131970791_8620965508896009266_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=imZhcLGtNXcQ7kNvwFyoUbM&_nc_oc=AdpijYCShCIgKCKnCvrg4EC_S7-ZaileXPSbV21ly2Bd3aIDgCFi1JVv06sBOQNPkCU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKIz3OT3g5L5prKoxG653oKlHw0cA3piroEju4cug1QFQ&oe=6ABF133F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP7Xw3KMYXg183e2Jx7n_0fEb8nA5qqH1kZtuN78gOJbdL1nVQoIUR6tz-7RUAavCvjaj-V5VHYUdG9kNIYOlPv0C8-ReTAzCRCjOGUqQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BSdxS_3k58cQ7kNvwEpmuBr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODAxODM0MTk1NzY4NTM5LCJhc3NldF9hZ2VfZGF5cyI6MzUyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQKSRCXZWAIHyM0w6teVqAZWMeo5PxmC3uQv5m3fJp8mMA&oe=6ABEFC12"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/550685089_872350508720891_1795011681879722278_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_sbAsX_SiF8Q7kNvwE1PI59&_nc_oc=AdpbEO2zLzhiSFAg1INyiN4tkYJDZ-Fg3J_XFj1R6ZULjcfiw24Sswv6IBvCcfWXWfk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQLMsKsWJlarCHoavi8X8wOjR8dAp2e8rXpYhs7I6cWn6w&oe=6ABF1069",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQP7Xw3KMYXg183e2Jx7n_0fEb8nA5qqH1kZtuN78gOJbdL1nVQoIUR6tz-7RUAavCvjaj-V5VHYUdG9kNIYOlPv0C8-ReTAzCRCjOGUqQ.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BSdxS_3k58cQ7kNvwEpmuBr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6ODAxODM0MTk1NzY4NTM5LCJhc3NldF9hZ2VfZGF5cyI6MzUyLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQKSRCXZWAIHyM0w6teVqAZWMeo5PxmC3uQv5m3fJp8mMA&oe=6ABEFC12"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1130386352091486"
+      },
+      {
+        "id": "1341380830729346",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1760079600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/559328026_603488642759289_5839973904902841189_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cbgs1hcoW-MQ7kNvwE1eUgs&_nc_oc=AdqCFaS7aRzNE0bq-gGtV4UudIMfyCLEMB6WFM6iCj9iaMCN6EQ7t9ote3PW9Y33ZFM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKikoTVbERBNY5bh6UdEfbzjiLdV-aPgsDfd8bhGU5S_Q&oe=6ABF17A4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEQ0mY-mcbugQtx4SiAfmzNSo15O5myfFNSnuxHJMbF6DYeDyXGYcyHlETmXgFStJzH_vR5RPBwsQ1of-WUUMUchnPAso3ZDW3vDaOTNHrew.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4ZaScA5mGQ4Q7kNvwEgGR1S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MDY1NzIzNDgxNTIxMiwiYXNzZXRfYWdlX2RheXMiOjM1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=647cfb23aabf8830&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRDRjk0OTYyMEEyMjA0ODUzQTE1MDhBRUU5NDA4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NERBQUI3QkYzNzNFNEJFNTQ5N0NFMkMyMTcyQkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYo-HSnYDjAhUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLyHX2ITCkL75LeVe4QPctEHFL2wrmGWZoQZKz7KwWR7A&oe=6ABF22EE"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/559328026_603488642759289_5839973904902841189_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cbgs1hcoW-MQ7kNvwE1eUgs&_nc_oc=AdqCFaS7aRzNE0bq-gGtV4UudIMfyCLEMB6WFM6iCj9iaMCN6EQ7t9ote3PW9Y33ZFM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKikoTVbERBNY5bh6UdEfbzjiLdV-aPgsDfd8bhGU5S_Q&oe=6ABF17A4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEQ0mY-mcbugQtx4SiAfmzNSo15O5myfFNSnuxHJMbF6DYeDyXGYcyHlETmXgFStJzH_vR5RPBwsQ1of-WUUMUchnPAso3ZDW3vDaOTNHrew.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4ZaScA5mGQ4Q7kNvwEgGR1S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MDY1NzIzNDgxNTIxMiwiYXNzZXRfYWdlX2RheXMiOjM1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=647cfb23aabf8830&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRDRjk0OTYyMEEyMjA0ODUzQTE1MDhBRUU5NDA4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NERBQUI3QkYzNzNFNEJFNTQ5N0NFMkMyMTcyQkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYo-HSnYDjAhUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLyHX2ITCkL75LeVe4QPctEHFL2wrmGWZoQZKz7KwWR7A&oe=6ABF22EE"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/560070318_2636091670078706_1159032275255965690_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DlijlVXvcDMQ7kNvwH_bNpb&_nc_oc=AdosGFBE4yBcfGoOMOKDH63gqxuoi_4FGrHBenKkTYnMCcrdELyANjgF_wGWFoH2_Kw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQIeM9W93S9pcaw8hsg5nM23yUnDYd6GmGix5yp8PZwOQw&oe=6ABF1553",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEQ0mY-mcbugQtx4SiAfmzNSo15O5myfFNSnuxHJMbF6DYeDyXGYcyHlETmXgFStJzH_vR5RPBwsQ1of-WUUMUchnPAso3ZDW3vDaOTNHrew.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4ZaScA5mGQ4Q7kNvwEgGR1S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MDY1NzIzNDgxNTIxMiwiYXNzZXRfYWdlX2RheXMiOjM1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=647cfb23aabf8830&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRDRjk0OTYyMEEyMjA0ODUzQTE1MDhBRUU5NDA4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NERBQUI3QkYzNzNFNEJFNTQ5N0NFMkMyMTcyQkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYo-HSnYDjAhUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLyHX2ITCkL75LeVe4QPctEHFL2wrmGWZoQZKz7KwWR7A&oe=6ABF22EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1341380830729346"
+      },
+      {
+        "id": "2453487681714867",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמטפלים בכאב מהבית",
+        "body": "כל האמת על כרית טיפול הגב של ג׳פטה בסרטון אחד 👇\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1762675200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/579188650_1491129065330410_6384037827763345111_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZTP0INSC7RoQ7kNvwEF8pYn&_nc_oc=Adpit2XQd2-mCpHsKn3RjcOwyHqF71_dXSEy6X_1hizgif8cpKOEHHcCcDH8uxG0M3A&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJwqv2NzKJCHmR0y-K5TEPH35EQXPmBI6ha4EgnF8eHLw&oe=6ABF05CE",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOYdWpKOCZTbB7F81k0yBuz8XZ3PEzTv2NWLX8p6MA-QKRG46q_dVq4IkJx6OK5gHcXgnAdlHw3PUEYf0ojcK6aXMPP9fcyoBfzml6sPgTbyA.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Jl4Cb8Lf1HEQ7kNvwHfzP_v&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg2MDAxODY5OTcyNTA2NywiYXNzZXRfYWdlX2RheXMiOjMzMSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjc2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=76f25f9c6c1bb446&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NjRBNjJCN0FDN0E3RkMwMUQxMDg2QTg5NThFODhCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q2NDM5MjU1Nzg1REQ4NEY3QUNFODZFNUVCMzY1RDk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWpMfR1ouHAxUCKAJDMiwXQFMEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQISWZ12AGyOtz3zk_nwbHrza-VXZAQTaq9vCz7lc9EKgQ&oe=6ABEF330"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2453487681714867"
+      },
+      {
+        "id": "979200998226333",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "השיטה שמומחים ממליצים עליה למעקב לחץ דם מהבית >>",
+        "body": "🚨 חוששים מלחץ דם גבוה? תצפו בזה:\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780383600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/710755920_1250159076983724_2121672778622006378_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kPLqFpCmExEQ7kNvwEgRMuq&_nc_oc=AdpRAH0bXrWHoiM-O2RSMWEVr4y8YoCYnz61wDhk06xQAXR2ZWwlaPhBIGu5J9IUm-E&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJfi3c21jnhIOr8zAnW5aRp75Wa4ur99vBUP1gtlKLEJw&oe=6ABF1B34",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOBqsuKn7plYBDPpQB1vaUwP0emipBfOx6y2Y238Q1jYmDHUx-NcxuhI2tZ221FgOzJuVdXmt6NtG7eYVP_TYnEZw9Uez8o-JLS7336gEEXgQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=zoiqe8t8vt0Q7kNvwEQFb-3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1Mzg1OTY3NDA1NjU5ODEsImFzc2V0X2FnZV9kYXlzIjoyMDUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ad035e04914584b3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wNTQxNTA4MDg3NDM5NzNFQzkyRjhFQ0REQUM5Qjc5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q3NERCMjM0QzczNzVBNDMxODg0OTVBNTNDMUZDMUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6r-SCj9a7BRUCKAJDMiwXQEMqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ6D4CPidLYbKKOAHCh3RCaHNzxTvjcc3tSUknUvZOlLw&oe=6ABF1A86"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=979200998226333"
+      },
+      {
+        "id": "2481096445667438",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמודדים במדויק מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מחוסר ודאות וחרדה מהבדיקות במרפאה! 🇮🇱\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781074800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717257665_4257316301079563_4758916187055789569_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-vJW_YnW12QQ7kNvwEZJiP-&_nc_oc=Adr71R42O3p3vb5Mx8DKsA1tz085Y9QS35siAVarazTKhk4sseWUtIKEYM5wUjbekrg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKy8Nz8H8Ll6sqmYdZzMZ6AZLjU6UTuxq0QhLwCwS8GiQ&oe=6ABEF6B4",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLItKmk1hykKOyrfEkyap9PEXsvlD6d58wYi9u5FxO83BMxoKBvtRRopVXBxhMrVAnwPCu_OxiVbnUjqon5l8lIy752acy-ZxXRsSWDpHWoA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=EhOmijbYLdgQ7kNvwFTWc1N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkzNzkzNDY1ODY4ODU0NiwiYXNzZXRfYWdlX2RheXMiOjIwNSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=828d2f760dcb6a85&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTQ3RjE1MEYwMTE2NDFCRURDQTIzQjI5NkEzRkJBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UwNEVBQUI4NzZDMTEzRDVCRkMxQjdBMTY3NzI0RjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE2Lri_cKqAxUCKAJDMiwXQE2qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIi9Z367R2ikZIF95LI7vJHRC77fwyXdKn_hpsRDc2R2g&oe=6ABEFCFE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2481096445667438"
+      },
+      {
+        "id": "1585713833115616",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמודדים במדויק מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מחוסר ודאות וחרדה מהבדיקות במרפאה! 🇮🇱\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780383600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/711729740_1434733855076905_6399310674125230964_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UHKI4h8g9Y8Q7kNvwGKsxyo&_nc_oc=AdrTV-BKEsQBBmcYoUIM1pp0fIGVQfIdaBYY4i1NSfOjDdR3kMv6Ai-gN8iO_53gW1E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKfJBePvf9Ec-5_wDe_pmPIQBSMcHDx2sni0tWoBySvPA&oe=6ABEF5B5",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNLItKmk1hykKOyrfEkyap9PEXsvlD6d58wYi9u5FxO83BMxoKBvtRRopVXBxhMrVAnwPCu_OxiVbnUjqon5l8lIy752acy-ZxXRsSWDpHWoA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=EhOmijbYLdgQ7kNvwFTWc1N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkzNzkzNDY1ODY4ODU0NiwiYXNzZXRfYWdlX2RheXMiOjIwNSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=828d2f760dcb6a85&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTQ3RjE1MEYwMTE2NDFCRURDQTIzQjI5NkEzRkJBMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UwNEVBQUI4NzZDMTEzRDVCRkMxQjdBMTY3NzI0RjhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE2Lri_cKqAxUCKAJDMiwXQE2qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIi9Z367R2ikZIF95LI7vJHRC77fwyXdKn_hpsRDc2R2g&oe=6ABEFCFE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1585713833115616"
+      },
+      {
+        "id": "1304477007339796",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים כבר שכחו מהכאב",
+        "body": "מרדכי סבל במשך שנים מכאבי צוואר וזה מה שהוא משתף על הכרית שלנו 👇\n\nהדרך הכי פשוטה להקל על כאבים בבית - בלי תרופות ובלי להוציא הון על טיפולים\n\nמשלב שלושה טיפולים בדוקים ומוכחים: \n✅ טיפול בחום מרגיע\n✅ עיסוי עמוק\n✅ מתיחה והחזרה למנח צוואר תקין\n\nרק 15 דקות ביום - ואתם חוזרים לשגרה עם פחות כאב, יותר נוחות ויותר ביטחון\n\n40% הנחה משלוח חינם ומקבלים 4 מתנות לזמן מוגבל בלבד - הזמינו עכשיו >>\nhttps://jepeta.com/products/neck-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/neck-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1758697200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/554428981_2022572621847783_1739609142615066175_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bGV-CbPzcjQQ7kNvwG1LhSm&_nc_oc=AdoBKue7HUhqfBCVx18WJc5XG-KElM1HsATK3JiS4AwisP7ELIbCgOPotTx_27qSPvw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQLzhNb4dLyWNcn2FTZCkpaBGN3VlyAcSVsAQgOjwljhzw&oe=6ABF01C3",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPjCO0yYJ40YQCGfkZCEsoZ2fRCNVulidzyKxddoZq4_b1E1-nfVbRKBfYQ4PSKDkps3b1_R1dDH7HF0i0LbO24ye6XbIYR14JgBYVthFQnfw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=pBsph0rFWR4Q7kNvwGZg0z1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNjEzMTk3NzU4OTg0MjYsImFzc2V0X2FnZV9kYXlzIjozNzEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=fbbfe7f6e573f64a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMzQ2MkI4QkFDQTI2NTJFOUZERDlCQkQ0MUVGQUU4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNDhCQTE0MDg4MjFBRDk5QzNBOUQ0QjkxQjBDRTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0rOLD-NDiAxUCKAJDMiwXQDuIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIib_fEpO8I90LXOvaVRBKzbSYTPfos7S24tzG7bHlF-g&oe=6ABEF6F2"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1304477007339796"
+      },
+      {
+        "id": "1082279474734717",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "טיפול ביתי בכאבי הגב והסיאטיקה ב-15 דקות ביום >>",
+        "body": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/739578956_1038308975391563_1016537191062806044_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xi4VVh4CyOkQ7kNvwG-V2uB&_nc_oc=Adoa9bFpN0UHdIsNUPlE6T5JXeXVAIhjzBfO_-ZWavK1xCLO3HB-9qpdHcESBBCLFJ0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQIqv4hxSZGgZCSH85f5t7yHUP8ENesWRk60xQlLU6U62A&oe=6ABEFF10",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNSQ1LIiDKxQzWJNDoLZS0gcg5PxLmX0RS6B_Ax9S6rbANOwmSKqVBmbd7w1RzOLDIucHBsGpTwNgxLL_-FosLDBgr2fJN0v1FxD6K4Ka3z1A.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=PbAEG5gOXjgQ7kNvwGeUohb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1ODcxOTI5NTk3MDgxOTQsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2e2ec1b0e5f8a308&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMjRCMTM1OEZBRjMyOEZCRkVDREM4MDg0Qzk2MUNCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY5NDhENzkwNEJENkI1ODJDNDI1N0E0NTgyODhFOEFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEsO2I5eLRBRUCKAJDMiwXQFExBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLUlqQByZoQqkMkiYdiUA9u7sUM_UlvXiDVviIPQLjlJQ&oe=6ABF1BFA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1082279474734717"
+      },
+      {
+        "id": "1802462177866258",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמטפלים בכאב מהבית >>",
+        "body": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718320937_1372358744757978_3940424621774174584_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IGVYzDcE0RgQ7kNvwFByYN9&_nc_oc=AdoFH6UDqFQHkPKH08aXiSthYOlj7tLTiqlF9uWZuS5MiWFS_aR0wkL--bihoFTF978&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQIekQLzZ9X4pBD-_XM8G2KcqlL1RfHnaNisOYBXmCZYNg&oe=6ABF09C8",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNGrra8ec95ODfPDFsir4AIR-8XaEyX4IH6fv0kMXgwRD3pqYyD99Imkx8vpgqQhDbYRdaXGr3Z3Lmga3wUGlHp-YrNuGkDNrLw8D-Es_hqOQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lt2vhlkAAYMQ7kNvwG033KK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3ODgzNTM5NTgyMjk5ODYsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6491bd0a727a3235&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDRDNzcyRTU4RUZDNDBCRDRBM0VDODk2RUI5NkNBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NCNDI4N0Y4MTlDNTdBODkyNTI5NjhCRDA5Q0U1MjgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE34Hzx__zCRUCKAJDMiwXQHdRDlYEGJMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLefPWFgdpVfTa4lxS6SOlkmmzgY6Pe7sYXf5e_0BX_uA&oe=6ABEED75"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1802462177866258"
+      },
+      {
+        "id": "1326515188866349",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמטפלים בכאב מהבית >>",
+        "body": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783580400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/719519764_1533753404756890_5965571255943912009_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pCao3_u2q5cQ7kNvwG2L_x0&_nc_oc=Adoc__l1YRtmfeWTWiqb0U6Pyoy6j3Ii-PtfZspnACQlwxNwvOzynVUR3ljLSSNVe0w&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJ2BWNSW5UO9dNoLlOwEMhqopBNZfPITURBbcOagTmSWA&oe=6ABEF77D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNGrra8ec95ODfPDFsir4AIR-8XaEyX4IH6fv0kMXgwRD3pqYyD99Imkx8vpgqQhDbYRdaXGr3Z3Lmga3wUGlHp-YrNuGkDNrLw8D-Es_hqOQ.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=lt2vhlkAAYMQ7kNvwG033KK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3ODgzNTM5NTgyMjk5ODYsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6491bd0a727a3235&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDRDNzcyRTU4RUZDNDBCRDRBM0VDODk2RUI5NkNBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NCNDI4N0Y4MTlDNTdBODkyNTI5NjhCRDA5Q0U1MjgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE34Hzx__zCRUCKAJDMiwXQHdRDlYEGJMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLefPWFgdpVfTa4lxS6SOlkmmzgY6Pe7sYXf5e_0BX_uA&oe=6ABEED75"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1326515188866349"
+      },
+      {
+        "id": "900263616414462",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמטפלים בכאב מהבית >>",
+        "body": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780988400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/720378003_27326263746993036_8072436724893217468_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lGY_cb0YFiEQ7kNvwGuBhoh&_nc_oc=Adr4XKTYkGnc-SiS5MrgHe6LaLEOr0EYGDRkcKK2jF1AI9JfPcWiwa5XjvHRylUfzpc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKMq5IRAc-ixKNvzsYq1oS6V1KyzBpog2TJmhm5dbQkPw&oe=6ABF1E73",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO_Mmdb0juPozUniR-g1WYgy3RJB10fbHDEFUV7ZMff-vezM3Ac7om2E6dEtYvGuBz8YDJ7SOp4Qv2ycJclIMd3JwVnDCeUwHsfK55TNOhVOQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=WNhf-URvxt4Q7kNvwHJW6IE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg3MTM3MTI1OTM1MTE3MCwiYXNzZXRfYWdlX2RheXMiOjExMiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM3MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8668ef4db7ae967e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMzQxQkVENzZDQTFCOENGNThGOUY4NTAxMjE0RTM5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NERFRTg5NzZBNzM2Qjg4NjQxOTM4NkM3Nzk2NkEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaEwozmvaCMAxUCKAJDMiwXQHdCIMSbpeMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIzRvEjvcpkaAyXBqtk7_qFyhnKXXDcn0GXl2UY21B64g&oe=6ABF22B4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=900263616414462"
+      },
+      {
+        "id": "1134977078700700",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1760079600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/558958099_808287289040690_3256282730751384785_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nglbnCXEgLwQ7kNvwErj5Xj&_nc_oc=AdoBNcXFT009Bb8WSesty065IGdv2D05RnRw-03o84WaPlRVxUEbcUpJpJ26jAiNdms&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJUXuQfedSTdhstHmikdQSdtK9BbyDXl8JYxPbqrGcWvA&oe=6ABEF40D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjU2kYv1T6f5U8cVqkaT0z1kwp0GcyYIgmoQjTTqpTG4bjhecyTnMu_DC0xLxM3_PiRSlN7r9Kk_5Z1O5lsYgxwbfgSRBn8EeuS-0lUcJYqg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bsF0qJVXy24Q7kNvwEH4tdK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxNjM3OTk0MDcxMTIzOTgsImFzc2V0X2FnZV9kYXlzIjozNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=12360fc9361b603e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NDNFNDU0RkRCNDkzMjQ0NzQ1QjZGNEIwN0FCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEE2MzUzODZDM0JEQjVENDU2NDM3NzAyMzRFQ0E4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacw-m8rt2eCxUCKAJDMiwXQExiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1DMc8SR76yfW_THhCx11HhjaitgVutSCRy1kdEnx48g&oe=6ABF005D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/558958099_808287289040690_3256282730751384785_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nglbnCXEgLwQ7kNvwErj5Xj&_nc_oc=AdoBNcXFT009Bb8WSesty065IGdv2D05RnRw-03o84WaPlRVxUEbcUpJpJ26jAiNdms&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJUXuQfedSTdhstHmikdQSdtK9BbyDXl8JYxPbqrGcWvA&oe=6ABEF40D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjU2kYv1T6f5U8cVqkaT0z1kwp0GcyYIgmoQjTTqpTG4bjhecyTnMu_DC0xLxM3_PiRSlN7r9Kk_5Z1O5lsYgxwbfgSRBn8EeuS-0lUcJYqg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bsF0qJVXy24Q7kNvwEH4tdK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxNjM3OTk0MDcxMTIzOTgsImFzc2V0X2FnZV9kYXlzIjozNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=12360fc9361b603e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NDNFNDU0RkRCNDkzMjQ0NzQ1QjZGNEIwN0FCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEE2MzUzODZDM0JEQjVENDU2NDM3NzAyMzRFQ0E4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacw-m8rt2eCxUCKAJDMiwXQExiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1DMc8SR76yfW_THhCx11HhjaitgVutSCRy1kdEnx48g&oe=6ABF005D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/558274000_1335618488076470_6880545506565314220_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jv4wA-W75_gQ7kNvwFYZwa3&_nc_oc=AdqkyY87cQdRlZV8Cu4bD28LwTTrZtf_c0dyRmePlgnZr-VV7g-XtzeHXSvncqroyB4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJsz7gjSBPgnnZ6XFsWcVihSx37IQEIKyPgUCSbtWyIDg&oe=6ABEFE54",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOjU2kYv1T6f5U8cVqkaT0z1kwp0GcyYIgmoQjTTqpTG4bjhecyTnMu_DC0xLxM3_PiRSlN7r9Kk_5Z1O5lsYgxwbfgSRBn8EeuS-0lUcJYqg.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=bsF0qJVXy24Q7kNvwEH4tdK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxNjM3OTk0MDcxMTIzOTgsImFzc2V0X2FnZV9kYXlzIjozNTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=12360fc9361b603e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NDNFNDU0RkRCNDkzMjQ0NzQ1QjZGNEIwN0FCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NEE2MzUzODZDM0JEQjVENDU2NDM3NzAyMzRFQ0E4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacw-m8rt2eCxUCKAJDMiwXQExiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1DMc8SR76yfW_THhCx11HhjaitgVutSCRy1kdEnx48g&oe=6ABF005D"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1134977078700700"
+      },
+      {
+        "id": "1374351844296704",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "נחשף: טיפול מהפכני בכאבי גב וסיאטיקה מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1761980400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/572783988_754939300930065_7128391930289285938_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EPV3WkOxBMwQ7kNvwHwIHUJ&_nc_oc=AdrtXPV_-Pa5iyipw-owZdoMDJkMHX2V0qIA_WeTJGYtJM-A1p-IdLZ4GlVB5DYClis&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQIjncDaznkBkxyDt1AwVy4PMozeaID13bi0w6FSoKZQvA&oe=6ABF058B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPEQ0mY-mcbugQtx4SiAfmzNSo15O5myfFNSnuxHJMbF6DYeDyXGYcyHlETmXgFStJzH_vR5RPBwsQ1of-WUUMUchnPAso3ZDW3vDaOTNHrew.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4ZaScA5mGQ4Q7kNvwEgGR1S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc4MDY1NzIzNDgxNTIxMiwiYXNzZXRfYWdlX2RheXMiOjM1MiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=647cfb23aabf8830&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNzRDRjk0OTYyMEEyMjA0ODUzQTE1MDhBRUU5NDA4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I5NERBQUI3QkYzNzNFNEJFNTQ5N0NFMkMyMTcyQkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbYo-HSnYDjAhUCKAJDMiwXQEliDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLyHX2ITCkL75LeVe4QPctEHFL2wrmGWZoQZKz7KwWR7A&oe=6ABF22EE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1374351844296704"
+      },
+      {
+        "id": "4471504706396058",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמטפלים בכאב מהבית >>",
+        "body": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1780902000,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/717317820_1731751004661630_475881735323140006_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=69wEhIYC18gQ7kNvwFMEKfS&_nc_oc=AdqeirS0R9GH2e0c5eh5blHfL492YeS3N6NBYeRKgY9MinznbYibahYvnjq1q3I2RuM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKkXqG8ic8gegVfjaCVNLEZe-4TIm8awpvV5GJBBa8LSQ&oe=6ABF02C9",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNAmFsp0SDMMstcWOxlflcUnwAOSMpizNRrLUsuWGnj5AWcOr77nREIthV_4_UdqHXFLBjOMysV40UWnd4K9DLsilswt87jV_wNegIwTlL6Dw.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=-9ku7W4chnAQ7kNvwEjgYZc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0Njc4MjE1MzM0NTQxNTksImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7f9eceebf9baa921&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNDQ4RjQ4OTlEQ0NEMzRGMzBBMDA0QjRCQkM4RjY4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M5NDAyN0M4OURGM0ZCQUIxNkQxODMxQjhFNjdDRkE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae_d62uN3vDxUCKAJDMiwXQHdIAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQI_Vk0e8A4QEfbgPKuurcg64jdw_7MrliiqnmFcUO_6hg&oe=6ABF0618"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4471504706396058"
+      },
+      {
+        "id": "1605524887887887",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "בריאות/יופי"
+        ],
+        "ad_creative_link_title": "טיפול ביתי בכאבי הגב והסיאטיקה ב-15 דקות ביום >>",
+        "body": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/738725047_2242701426489039_3157061783128846684_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RjdnljYbxrAQ7kNvwEMoCy1&_nc_oc=Adq6oGI66UD8hPLuNi81Is-hi5Z9TZ9WrwtBJRu7XXWNDj5-WShPUajCjyCi4L0zugk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKt_VqJth3Cg5-vZ3u_aoYJZR4XnOcrcPidDG401ey0ng&oe=6ABF1675",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQND9v6qw9Dl2FrClLD-StdrbNFGSGMMsVgbkRlg6ixRuTsjsuQJwsHGjEnXP9aQKXoEDO1ulxCoS5RBkXk_avn2z7PGpg-bI2Q-2RNEqZn7Gw.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=7xHFxPQcNn8Q7kNvwF1wuid&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjMxOTQ2MTExNzA3Mjc5MjYsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ecf608462d27ddce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xODQyNzAxMzgwQTNDRjk4MDkxOUFCQjdCNjVGNDQ5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJCNEM5MkExQzk2QzZERDk0Mjc4QzkxNTFGMENEQkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs37aA7N6sCxUCKAJDMiwXQFExBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQIZlVXHK97a-hmtgSQAdJhD4lUP2xyRHkPtMVmBQcFZlg&oe=6ABF0F0A"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1605524887887887"
+      },
+      {
+        "id": "3109549962588111",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "טיפול ביתי בכאבי הגב והסיאטיקה ב-15 דקות ביום >>",
+        "body": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/739547867_2360456131030861_6660007139736921307_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oKQD7-yrJw4Q7kNvwHnsXX_&_nc_oc=Adq_oZ-WbGzH8FQMLQ6Z-VCHrg-tPf63Kt3mxxmHBm8jB8ffS2jk84Kzj6-D_aaxR0o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQL3x42mOT5fCR9exmNbnlCSadZhpoH8D_IGIzwqxfRVMA&oe=6ABF0822",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMmKA2lBCOkYVy1stSmaxpg0Q-h67Zs5tE9trveAJMinqq7WURZpTwdonK3g6Ojh3EtbxBXFSMW12PNVTHE8ZGiS0s60qBwxjdZramkjDCVIQ.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=UiStPGECovUQ7kNvwEwFQe5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc1OTI4ODM5NzI3MjY1OSwiYXNzZXRfYWdlX2RheXMiOjg3LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=aa63bed09f35dc73&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODQ0NDE4M0I3QkZCOTlBNEIwOEYwNjg0QUFBMTNBRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzczNDQ0ODAwMTI1NTE4MDdERTZBQzZCNjMzQkE5NUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACam2Zyzs6TZAhUCKAJDMiwXQFKkOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQJWI2sF6c4sQTdud_ygDvxQiliq6HIpggCPtErIBFte3Q&oe=6ABF1F02"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3109549962588111"
+      },
+      {
+        "id": "1764513614426064",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Science & Tech"
+        ],
+        "ad_creative_link_title": "לשכוח מכאבי הכתפיים ב-15 דקות ביום מהבית",
+        "body": "\"זה התחיל מכאב קטן בכתף… היום אני בקושי ישנה בלילה.\"\n\nכמה זמן אתם כבר מתעלמים מהכאבים?\n\nהמעסה של ג'פטה פותח במיוחד עבור כאבים במפרקים.\nשילוב חכם של חימום עמוק + עיסוי רוטט,\nכדי להחזיר לך את היכולת לזוז - ולחיות - בלי כאב.\n\n✅ מתאים לכל המפרקים\n✅ שקט, נייד, קל ונצמד בקלות\n✅ פשוט וקל - הפעלה בלחיצת כפתור\n✅ חודש ניסיון - בלי סיכון\n\nהכאב לא נעלם לבד.\nאל תחכו לרגע שבו תתחרטו שלא טיפלתם בזה קודם.\n\nהבטיחו לעצמכם כבר עכשיו הקלה מיידית בכאבים.\nהנחה מיוחדת ומשלוח חינם לזמן מוגבל עד שנגמר המלאי! 👇\nhttps://jepeta.com/products/heating-joint-massager",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/heating-joint-massager",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1759561200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/550730269_1120242809656665_8436799156503402567_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mF11VB-XoY4Q7kNvwEGWxJB&_nc_oc=Adrni6e8bGiEzJL3xgaRcCHo9FiRQDcWCAyy25AUUJ1skvTB7uDmBewze3W9hl_ZFzQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQK8Jwud3EjR4jbC8zwkegWCmcV-gDyfIUHrl3wOel2yjg&oe=6ABF021D",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNBFDk3xK5K68nDCoe-3tefbU44UHckWJGePFV7PlMo8_ciFNB12QbUz7XuQcWKS2YQU6n0-NdfOcmTHKM2I6NkIuZPruDbOgghXvowPXiZLQ.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=OX6vh04chVcQ7kNvwHNNQsY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDkzODQ1NDQxNzk4MzYsImFzc2V0X2FnZV9kYXlzIjozNzQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoxMjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=477ae4e6c00f350b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MzRCMjEyMjZGNTc0REQ4OUZFM0Q1NTMwQTQzNTlCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc3NDZFOTRCRDhEMDQyNDgyQTIwRkU5NkQwNkRCMjhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb42YqKm7jTBBUCKAJDMiwXQF6Kn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQK5S0TQcGYQQH5QO94dnma36CcoTEthydbLmpCyPCqV0A&oe=6ABF12D8"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1764513614426064"
+      },
+      {
+        "id": "1560420252399709",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הפתרון שעוזר לאלפי ישראלים לטפל בכאבי הגב מהבית >>",
+        "body": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "כרית עיסוי הגב Back+ משלבת עיסוי, חימום ומתיחה עדינה להקלה על כאבי גב תחתון, סיאטיקה ונוקשות. פתרון ביתי יעיל לשחרור לחץ מהחוליות, שיפור זרימת הדם וחזרה לחיים חופשיים מ....",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "IMAGE",
+        "ad_delivery_start_time": 1783407600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/737721877_1338847357772223_780380201150352583_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1z14bDsH2UMQ7kNvwGFUo3m&_nc_oc=Ado3TJj43JA0ORMbmMVGpn6imLinltYImzM0cH2cnVo7K3vlaRbXjQ-NP7_njkqROTo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQLK5HHaGxPAOE2lWVFoPsm3wWPkJpR7FdTzeolfK1IAwg&oe=6ABF01F3"
+        ],
+        "videos": [],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1560420252399709"
+      },
+      {
+        "id": "1595095258770726",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "השיטה שמומחים ממליצים עליה למעקב לחץ דם מהבית >>",
+        "body": "🚨 חוששים מלחץ דם גבוה? תצפו בזה:\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/717777658_1503048694597805_540851467384409214_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=43pRNVnGZ8MQ7kNvwHrm67y&_nc_oc=AdrX7UaQD5EsvvgfanpctYyjr2fTa0Gml6hd6U76hxyPo15W6AKZ6FZN4yygcQk3jmM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQLOLCUhn5HoPUIt4aQvrIdAHf8JmGVGZiNfPMHFwXWSMQ&oe=6ABF0799",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOhPrpov73l6WkJTKTDX7Dl2kJ97ngWjTkYotQIfue7ZlBHiv_8CD2d_ti35GoAl2KHjtS3ibly_23hqQfmJ5i9WhPciWPmpYVWry0iR-UUnQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=oFXVnEFApxEQ7kNvwEY5jSz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwODY0NDE2NjIyMTEzNjYsImFzc2V0X2FnZV9kYXlzIjoyMDUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b4545257938420d7&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMDQ5RDM3RDhDOTA4NDY2QTgxNzVBMTZBQzM1NTdBMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzMwNEQ1QTk5MkY5OTBGQUE3RTQ1NzkyMzI5NjI4Mjk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMlPfh8ea0BxUCKAJDMiwXQEZRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLDR2DuGa3DPgM0CSoWZQQk3eQ4gGw8w95cAE8pdb6cvA&oe=6ABEFD92"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1595095258770726"
+      },
+      {
+        "id": "1369769271700909",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "טיפול ביתי בכאבי הגב והסיאטיקה ב-15 דקות ביום >>",
+        "body": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/back-plus",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/738866549_1587080992933902_4302317575787666651_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uoa69ETqkVEQ7kNvwEhZtaU&_nc_oc=Adr3cNHFqpWU-kLsqRzDVsFNVQkgo_Gcr1_LIM5kQuz935J4GZacRssuyEFrMqYFmYI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQJ887zmOnjlzRmP7ALWQtb_qCMTp7uyoHO-gfdEUd60ig&oe=6ABF1C2C",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO2n60cUc8u9Q_ainxPipuHYAWocfVNHqB3JZU0IysPSdpFTE_laBwj5iDY_Cxe8pKSOoQhRGzI_vRs7V7Dno2IiJakRoy4J-aUgydQVxWYFw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=wVaKlnvlJzIQ7kNvwFHNyQJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzk2NDA0NjE4OTE4MTEsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjY4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=36a53df1a8e027db&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMDQ1QjYwMTY1OUYwQTZDMjI3RjhBOTBERjc0QjQ4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZCNDQzMDU2MjlCNUM3ODY0QTM4RjUxQUFDNTk2QUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbG4-aGhePYAxUCKAJDMiwXQFExBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQL_z5yjNTfbcYyg3dbH9eVWvtJl6uIELuqneibGLoSjAA&oe=6ABEFB0C"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1369769271700909"
+      },
+      {
+        "id": "1895077337837741",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "Health/beauty"
+        ],
+        "ad_creative_link_title": "הצטרפו לאלפי ישראלים שמודדים במדויק מהבית >>",
+        "body": "🚨 חוששים מלחץ דם גבוה? תצפו בזה:\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782284400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/720495517_1811711379804619_7338860446320025080_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zvRU0wgBWDEQ7kNvwE8IuMt&_nc_oc=AdqLioDObUOMgKe6EJTtukOkiNhSXdtYhLgX5of0iuTl9smcKcbjnxlCNpeFE4fmveI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKJ3JUM_6vedutqswuwIUS2TbgZd0PmuxNy8VV8gMD5yA&oe=6ABF0CCF",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQObubQF6IlbPCaRhxAi3q6sOFtLt80yZPlPck2XOamdy46gMe_c36LscNGhqtvroT9Vp8r8Xpkxu36gu4ulE39MAOigeJWhhfaq5XF_4OVpkw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_lCj1KU6wJEQ7kNvwE1LwsF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMTgwMTk3MTcwNzkzNDUsImFzc2V0X2FnZV9kYXlzIjoyMDUsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a8ece2e73112c7df&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMTRDNEQ5RERFMkUxRjg3Qzk5QjY1NDZDRDc5NkVCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FGNEU3MkMyMUFCMEQ2MjAyREQ0NEE2QUNDRkUwN0I0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbihIeJivKpBBUCKAJDMiwXQD13S8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQLvN24064DF931kCodBpgIuuoA_NJttfLE7OdTYJNh4Lg&oe=6ABF1593"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1895077337837741"
+      },
+      {
+        "id": "1308588584715613",
+        "page_id": "242912305576837",
+        "page_name": "ג'פטה",
+        "page_url": "https://www.facebook.com/61557105305832/",
+        "page_like_count": 1489,
+        "page_categories": [
+          "בריאות/יופי"
+        ],
+        "ad_creative_link_title": "הדרך המהירה והמדויקת למדוד לחץ דם מהבית >>",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מחוסר ודאות וחרדה מהבדיקות במרפאה! 🇮🇱\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "link_description": "",
+        "landing_url": "https://jepeta.com/products/bp-monitor",
+        "cta_type": "SHOP_NOW",
+        "cta_text": "לקנייה",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1782111600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/718075931_27035901906075794_8524346316249568013_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L7cHlulny_gQ7kNvwGhY8cH&_nc_oc=Adp5Wk61EUfSbBKDs6YsQqZkc8xx1exS2IP-bRyJgU6ZaXyV0_D31qzccgnEQAALcA4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&oh=00_AQKQM93Qr9WYX3TWFPh5yv_plOw3xqZmoNOrwWMATrDnug&oe=6ABF21F4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQM7bAlUfm4luDsQkjL4OfSlmCrUTe1ts_NvMgPIC3MXBdC9px7Ul00venROg-AHf6oJ0FYoS5OvHVjuvk2sP2xf9TavvlPt5ld9crDW9yMcow.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=YCNc7HJFQ5gQ7kNvwEA2UTi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1NTAwMDA5Njk2MzQzNDc3LCJhc3NldF9hZ2VfZGF5cyI6MjA1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=55d576fd85a55ec3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQjQ3MEZCNjY5MEUzOTE5MzM4QTgzMDE3MjY3OUQ4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU0NEUxMDM4Q0M3MTVDNjY0QzA1QUYyQkI2MzU4N0JCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbq1sG79YfMWhUCKAJDMiwXQETmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=45YMvI40nq1j7PImB_EFVw&_nc_ss=70289&_nc_zt=28&oh=00_AQJAuxXs5EL_Er2Ge_nU_002rEUs5UR8xsmG14b46URPPQ&oe=6ABF17A4"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1308588584715613"
+      },
+      {
+        "id": "2838301439700930",
+        "body": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "landing_url": "https://jepeta.com/products/back-plus"
+      }
+    ],
+    "social_landings": [],
+    "link_in_bio_pages": [],
+    "ad_snapshots": [
+      {
+        "ad_id": "2838301439700930",
+        "text": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "1163690042282314",
+        "text": "הפתרון הביתי המהפכני שכבר שינה את שגרת היום של אלפי ישראלים! 🇮🇱\n\n ✅ עיסוי בלחיצות מדויקות שמפחית את הכאב כבר מהשימוש הראשון\n ✅ חימום מבוקר שמרגיע את שורש כף היד וממריץ את זרימת הדם\n ✅ טכנולוגיית EMS - גירוי חשמלי עדין שמחזק את השרירים ומשחרר אנדורפינים\n ✅ מתאים לכל יד - ימין או שמאל, עם רצועות מתכווננות\n ✅ נייד, קל לשימוש וללא צורך בתרופות\n\nכמה דברים שטוב לדעת:\n 🎁 4 מתנות קטנות בכל הזמנה\n 🎉 40% הנחה לזמן מוגבל\n 🛵 משלוחים חינם לכל הארץ\n ⏰ חודש ניסיון - לא עזר? תקבלו את כל כספכם בחזרה\n 📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הביתי הפשוט והיעיל! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן👇\n https://jepeta.com/products/wrist-massager-3-1",
+        "links": [
+          "https://jepeta.com/products/wrist-massager-3-1"
+        ]
+      },
+      {
+        "ad_id": "1413267344138374",
+        "text": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מכאבי גב וסיאטיקה! 🇮🇱\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "1565106244361971",
+        "text": "\"זה התחיל מכאב קטן בכתף… היום אני בקושי ישנה בלילה.\"\n\nכמה זמן אתם כבר מתעלמים מהכאבים?\n\nהמעסה של ג'פטה פותח במיוחד עבור כאבים במפרקים.\nשילוב חכם של חימום עמוק + עיסוי רוטט,\nכדי להחזיר לך את היכולת לזוז - ולחיות - בלי כאב.\n\n✅ מתאים לכל המפרקים\n✅ שקט, נייד, קל ונצמד בקלות\n✅ פשוט וקל - הפעלה בלחיצת כפתור\n✅ חודש ניסיון - בלי סיכון\n\nהכאב לא נעלם לבד.\nאל תחכו לרגע שבו תתחרטו שלא טיפלתם בזה קודם.\n\nהבטיחו לעצמכם כבר עכשיו הקלה מיידית בכאבים.\nהנחה מיוחדת ומשלוח חינם לזמן מוגבל עד שנגמר המלאי! 👇\nhttps://jepeta.com/products/heating-joint-massager",
+        "links": [
+          "https://jepeta.com/products/heating-joint-massager"
+        ]
+      },
+      {
+        "ad_id": "1130386352091486",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "1341380830729346",
+        "text": "{{product.brand}}",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "2453487681714867",
+        "text": "כל האמת על כרית טיפול הגב של ג׳פטה בסרטון אחד 👇\n\n✅ מתיחה עדינה של עמוד השדרה - מפחיתה לחץ מהחוליות ומהדיסקים ומשחררת את העצב הסיאטי\n✅ חימום תרפי עמוק - ממיס מתחים, מרגיע דלקת וממריץ את זרימת הדם\n✅ עיסוי ממוקד - שמטפל בשורש הבעיה (כאבי גב תחתון, הקרנות לרגליים, נוקשות וכאבים כרוניים) ולא רק בהקלה זמנית\n✅ מבנה ארגונומי חכם - מתאים לכל גב ומחזיר אותו למנח בריא תוך דקות ספורות\n✅ שימוש יומיומי קצר מהבית - 15 דקות ביום בלבד, בלי תורים, בלי זריקות ובלי תרופות\n\nכמה דברים שטוב לדעת:\n🎁 4 מתנות קטנות בכל הזמנה\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא עזר? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שכבר מצאו את הפתרון הפשוט והיעיל לכאבי גב תחתון וסיאטיקה! ✨\nכבר לא צריך לסבול בשקט - לחצו כאן 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "979200998226333",
+        "text": "🚨 חוששים מלחץ דם גבוה? תצפו בזה:\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "links": [
+          "https://jepeta.com/products/bp-monitor"
+        ]
+      },
+      {
+        "ad_id": "2481096445667438",
+        "text": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מחוסר ודאות וחרדה מהבדיקות במרפאה! 🇮🇱\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "links": [
+          "https://jepeta.com/products/bp-monitor"
+        ]
+      },
+      {
+        "ad_id": "1585713833115616",
+        "text": "הפתרון הביתי המהפכני שכבר שינה את חייהם של אלפי ישראלים שסבלו מחוסר ודאות וחרדה מהבדיקות במרפאה! 🇮🇱\n\nהדרך הכי פשוטה לעקוב אחר הבריאות מהבית - בלי כאב, בלי להסתבך וברמת דיוק של מרפאה.\n\n✅ עומד בתקן האיחוד האירופאי CE וEN 60601-1-2 עם רמת דיוק של 3 מ\"מ כספית.\n✅ מדידה עדינה על פרק כף היד - בלי שרוולי זרוע לוחצים ובלי צינורות מסורבלים.\n✅ הפעלה אוטומטית מלאה וקריינות קולית שמקריאה לכם את התוצאות.\n✅ אלחוטי לגמרי ומגיע עם כבל USB-C - חוסך לכם כסף על סוללות והתעסקות עם שקעים.\n✅ זיכרון לזוגות: שומר אוטומטית עד 99 מדידות אחרונות עבור שני משתמשים נפרדים.\n\nכמה דברים שטוב לדעת:\n🎁 מתנה מיוחדת ללא עלות\n🎉 40% הנחה לזמן מוגבל\n🛵 משלוחים חינם לכל הארץ\n⏰ חודש ניסיון - לא אהבתם? מקבלים את כל הכסף בחזרה\n📞 שירות לקוחות זמין בווצאפ לכל שאלה\n\nהצטרפו עכשיו לאלפי אנשים שהפסיקו לנחש והתחילו לנהל את הבריאות שלהם בשלווה ובביטחון מלא! ✨\n\nכבר לא צריך לסבול את הלחץ מהבדיקות - לחצו כאן למידע נוסף 👇\nhttps://jepeta.com/products/bp-monitor",
+        "links": [
+          "https://jepeta.com/products/bp-monitor"
+        ]
+      },
+      {
+        "ad_id": "1304477007339796",
+        "text": "מרדכי סבל במשך שנים מכאבי צוואר וזה מה שהוא משתף על הכרית שלנו 👇\n\nהדרך הכי פשוטה להקל על כאבים בבית - בלי תרופות ובלי להוציא הון על טיפולים\n\nמשלב שלושה טיפולים בדוקים ומוכחים: \n✅ טיפול בחום מרגיע\n✅ עיסוי עמוק\n✅ מתיחה והחזרה למנח צוואר תקין\n\nרק 15 דקות ביום - ואתם חוזרים לשגרה עם פחות כאב, יותר נוחות ויותר ביטחון\n\n40% הנחה משלוח חינם ומקבלים 4 מתנות לזמן מוגבל בלבד - הזמינו עכשיו >>\nhttps://jepeta.com/products/neck-plus",
+        "links": [
+          "https://jepeta.com/products/neck-plus"
+        ]
+      },
+      {
+        "ad_id": "1082279474734717",
+        "text": "סובלים מכאבי גב או סיאטיקה? תקראו את זה:\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך יותר ויותר ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "1802462177866258",
+        "text": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "1326515188866349",
+        "text": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      },
+      {
+        "ad_id": "900263616414462",
+        "text": "אתם מכירים את זה? קמים בבוקר, מתכופפים לקשור נעליים, ופתאום - כאב חד שיורד עד הרגל.\n\nמאות אלפי ישראלים חיים את זה כל יום: כאב בגב התחתון, הקרנה לרגליים, או תחושת לחץ שפשוט לא עוזבת.\n\nמה שרובם לא יודעים, זה שהבעיה האמיתית לא מתחילה בשריר - אלא בלחץ מצטבר על החוליות והעצבים שבגב.\n\nכשיושבים שעות מול המחשב, נוהגים, או קמים בתנועה חדה, הדיסקים שבין החוליות נדחסים שוב ושוב. עד שהלחץ גורם לדלקת, נימול, הקרנה לרגליים - ולפעמים אפילו לבלט או פריצת דיסק.\n\nהבעיה? רוב הפתרונות רק מאלחשים את הסימפטום. משחות, כדורים, חגורות גב - כולם מכסים על הכאב, אבל אף אחד מהם לא משחרר את הלחץ הפנימי שממשיך להכאיב מבפנים.\n\nבדיוק בגלל זה יותר ויותר ישראלים עוברים לטיפול שעובד אחרת לגמרי:\n\nכרית טיפול הגב - כרית חדשנית שמשלבת שלושה טיפולים פיזיותרפיים במכשיר אחד:\n\n✅ מתיחה עדינה שמורידה את העומס מהחוליות\n✅ עיסוי ממוקד שמרפה את השרירים התפוסים\n✅ חימום חכם שממריץ את זרימת הדם\n\nכל זה מהבית, ב-15 דקות ביום בלבד.\n\nוהתוצאות מדברות בעד עצמן: משתמשים מדווחים על הקלה משמעותית כבר אחרי כמה שימושים - פחות כאב, פחות נוקשות, ויותר תנועה חופשית.\n\nזה לא גימיק. זה פתרון שמחזיר לגוף את מה שהוא הכי צריך - את היכולת לרפא את עצמו.\n\n📍 בדקו עכשיו אם כרית הטיפול עדיין במלאי, וגלו איך אלפי ישראלים סוף סוף משתחררים מהכאב ומחזירים לעצמם את איכות החיים 👇\nhttps://jepeta.com/products/back-plus",
+        "links": [
+          "https://jepeta.com/products/back-plus"
+        ]
+      }
+    ],
+    "landing_urls": [
+      "https://jepeta.com/products/back-plus",
+      "https://jepeta.com/products/wrist-massager-3-1",
+      "https://jepeta.com/products/heating-joint-massager",
+      "https://jepeta.com/products/bp-monitor"
+    ]
   },
   "current_ads": [],
   "products": [],
@@ -90,6 +1176,30 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "filtered": "2026-09-27T15:31:45",
+    "unqualified": "2026-09-27T15:33:20"
+  },
+  "qualify": {
+    "pages_checked": [
+      "https://jepeta.com/",
+      "https://jepeta.com/products/back-plus",
+      "https://jepeta.com/products/wrist-massager-3-1",
+      "https://jepeta.com/pages/our-story",
+      "https://jepeta.com/pages/contact-form"
+    ],
+    "store_signals": [
+      "cart",
+      "shopify",
+      "woocommerce"
+    ],
+    "prices_in_ils": true,
+    "owner_candidates": [],
+    "site_blocked": false,
+    "instagram_found": false,
+    "owner_instagram_found": false,
+    "missing": [
+      "owner_whatsapp"
+    ]
   }
 }

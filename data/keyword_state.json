@@ -248,11 +248,19 @@
       "track": "clinic",
       "advertisers": 27,
       "at": "2026-09-27T15:27:45"
+    },
+    {
+      "date": "2026-09-27",
+      "keyword": "פיזיותרפיה",
+      "source": "playwright",
+      "track": "clinic",
+      "advertisers": 22,
+      "at": "2026-09-27T15:31:33"
     }
   ],
   "ingested_files": [
     "2026-09-25_קוסמטיקה.json"
   ],
   "wa_next_index": 16,
-  "clinic_next_index": 1
+  "clinic_next_index": 2
 }

@@ -1,0 +1,111 @@
+{
+  "lead_id": "2026-09-27-290",
+  "status": "rejected",
+  "reject_reason": "only 1 active ad(s)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/physioclick/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "196309660996788",
+    "page_name": "המרכז הארצי לפיזיותרפיה פרטית ושיקום מבית המותג פיזיוקליק",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1194849632623291",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "https://www.physioclick.co.il/%d7%aa%d7%a8%d7%92%d7%99%d7%9c%d7%99-%d7%a9%d7%99%d7%95%d7%95%d7%99-%d7%9e%d7%a9%d7%a7%d7%9c-%d7%91%d7%a2%d7%9e%d7%99%d7%93%d7%94/",
+        "cta_type": "DOWNLOAD",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/673761333_1286059203667743_1373437266578987398_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wMHdVojXpnwQ7kNvwFVG2AH&_nc_oc=Adp_IiP_9t1dg_6AjsKn4PRfwB8kKhcB9L8A_SAmhKDX0Fveqpmo43FTSNS-XGJkNhI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQKJpCHUE8uYrK3pmYFoZ4_8w4vhE4wKZWVI7gphc3v_PA&oe=6ABF1D1C",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/669605926_991730417128314_3028067680946459310_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MvGTj47TN84Q7kNvwFpbzCu&_nc_oc=AdrTNme4xAmVrc7gjOqzugFuIOOSXdjYpirex_tgERF248hYsC4UXYkdTlM14gsU4dM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLCZcV3Et32cNk1iWNQj-_rM3pt1l0294hfJlMykn4ExA&oe=6ABEF872",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/671690536_2267510854081266_46727775605226351_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CH24Y5D828sQ7kNvwF8dJgg&_nc_oc=AdqEwgecRtaolMFTY3x_W1ltxtZBnBmIcoOettuDaSS90khpHlFTBe1-LDS009r_-jk&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQIw7MpHsnPjP5IwGITl4EoUfZgbsujJObu5d5ZaQ3bTtg&oe=6ABF1A1A"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1777964400,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1194849632623291"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "DOWNLOAD"
+      ],
+      "page_like_count": 2465,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "פיזיותרפ",
+        "שיקום"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1194849632623291"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "DOWNLOAD"
+    ],
+    "page_like_count": 2465,
+    "page_categories": [
+      "Physical Therapist"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "lead_id": "2026-09-27-293",
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: טיפול",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61588469588037/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "1047242261798129",
+    "page_name": "היומן של אבנר",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1479992737188187",
+        "link_title": "האורולוג שלי אף פעם לא דיבר על זה",
+        "body": "רוב הגברים מעולם לא שמעו עליו.אבל הוא שולט בזרימת הדם, בתפקוד השלפוחית ובביצועים. \nקוראים לו רצפת האגן, ואחרי גיל 40 הוא מתחיל להיחלש.\nהרופאים לא בודקים אותו. \nהכדורים לא מאמנים אותו. \nורוב הגברים פשוט מניחים שזה הגיל ומקבלים את הירידה.\nאבל הנה מה שהמחקר מראה: ארבעים אחוז מהגברים שאימנו את השריר הזה הצליחו להפוך \nאת הבעיה לחלוטין. בלי מרשמים. בלי פרוצדורות. רק אימון ממוקד.\nהבעיה היא שרוב הגברים לא יודעים איך לאמן אותו נכון. \nתרגילי קגל מבלבלים. פיזיותרפיה רצפת אגן עולה שלוש מאות שקלים לטיפול ומעלה.\nלכן אלפי גברים מעל גיל 45 משתמשים היום ב-ViroCore Pro, מאמן רצפת אגן ביתי שמדריך אותם דרך ההתכווצויות הנכונות בחמש עשרה דקות ביום בלבד.\nלבושים לחלוטין. דיסקרטי לחלוטין. מבוסס קלינית.\nאם ייחסת את הבעיה לגיל, כשהאמת היא ששריר חלש, זה יכול לשנות הכל.",
+        "landing_url": "https://virocore-hebrew-ed.zeyna.co.il/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/694884553_2285547718640955_311156451479458622_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OdXeiptm__kQ7kNvwHa3qbb&_nc_oc=AdpJgAcTQ6VQ-27xHBrClk4T-5H1ZBP2w92UFzeMe9sZRDYXfLg6e2rYIb8cxU3QVyI&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJT_WbHrIv8n2COwvX94c1JmsYGQPr58psLzRC6nrpShw&oe=6ABEEF0D"
+        ],
+        "videos": [],
+        "collation_count": 1,
+        "start_time": 1778310000,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1479992737188187"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול"
+      ],
+      "product_hits": [
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 103,
+      "product_score": -1,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "פיזיותרפ",
+        "טיפול",
+        "רופא"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1479992737188187"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 103,
+    "page_categories": [
+      "Spa"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}

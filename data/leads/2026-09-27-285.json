@@ -1,0 +1,108 @@
+{
+  "lead_id": "2026-09-27-285",
+  "status": "rejected",
+  "reject_reason": "no clinic / therapist signal (product, gym or brand)",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100083345948854/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "101972609200341",
+    "page_name": "בית בלב - עובדים עם הלב",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1005888735626611",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "APPLY_NOW",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/747062798_860278280233319_3358743507628530058_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uN4ljqHMqX8Q7kNvwGsGmQ3&_nc_oc=AdoNwHMC9QBhzmCjE914zWmprQQlbsL8VYI4oa0akMRx_wgwzkkcfInJvMyQb4zGqxE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJQZ9bfCbyGbvZVq37tr6M3cVpY9-pYlo_0cHmder3BXQ&oe=6ABEEE33",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749184026_1041348354936133_7930547829279677699_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lSulzHZOOkUQ7kNvwEkhALU&_nc_oc=AdrDrkjxztnhkGOPLvUTkdcRVBSraaD_f9O2OQ6hsfhras3m6OFME6whSO5971gHAeo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLBNXm1xWMDDaTAY5YtP_dZH49_ORsk08TjcPaPd9As1g&oe=6ABF1FB5",
+          "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/749184026_1041348354936133_7930547829279677699_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lSulzHZOOkUQ7kNvwEkhALU&_nc_oc=AdrDrkjxztnhkGOPLvUTkdcRVBSraaD_f9O2OQ6hsfhras3m6OFME6whSO5971gHAeo&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLBNXm1xWMDDaTAY5YtP_dZH49_ORsk08TjcPaPd9As1g&oe=6ABF1FB5"
+        ],
+        "videos": [],
+        "collation_count": 4,
+        "start_time": 1784098800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1005888735626611"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "APPLY_NOW"
+      ],
+      "page_like_count": 29714,
+      "product_score": 0,
+      "clinic_excluded": [],
+      "clinic_hits": []
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1005888735626611"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "APPLY_NOW"
+    ],
+    "page_like_count": 29714,
+    "page_categories": [
+      "Medical Service"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:18"
+  }
+}

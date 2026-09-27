@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-265",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: אבחון",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -62,7 +62,26 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1479272217009654"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "אבחון"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 1350,
+      "product_score": -2,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "מכון"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1479272217009654"
@@ -88,6 +107,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "rejected": "2026-09-27T15:31:33"
   }
 }

@@ -1,0 +1,263 @@
+{
+  "lead_id": "2026-09-27-286",
+  "status": "filtered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/61564047184674/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "396345493560551",
+    "page_name": "שמעון רוטנברג - אוסטאופתיה לריפוי הכאב",
+    "active_ads_count": 4,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1708289533530780",
+        "link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716987112_3642087825940201_600468366262696914_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YeUoLFDYM4IQ7kNvwGl-DOc&_nc_oc=Adr62nrIsxpaDKw0xQNc8gfl5F054nsiq9as28S-3UPrpD6WfoZEX_db_dSCCO4OrZM&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQJSroTOtHGLn1XWzNZPtJWjaZHmGeDk_LpLE9WLPbY8ZQ&oe=6ABF00E7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgHBefFStfvPfhKa9gFSKnRjw1CF4AAy-iMAB5LXDv0Z-spzE6DxC6YI1r4KBscja0Unz2S7mn6_mkSD9bLPrg_DwDxUwPntGEsBEjDeERVw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tCbtoKOuXKsQ7kNvwFWXpk5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzU4MzMwNzM4NzUwNzAsImFzc2V0X2FnZV9kYXlzIjo3NDQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d760f952c319d82c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRDQ3QjI5MkZBMDM5Qzc3M0VGNjA1RDYzMzZFMDI4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0I5NDU3QjBBNTMzQ0I1MUMxMzMzODc4RTJEMkFFOEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb84aWD3Z3pAxUCKAJDMywXQD6zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&_nc_zt=28&oh=00_AQIJ1vSPTWslRvFGAdiZpLRnzIzTjJM0rpFl9FY8hbuLBw&oe=6ABEF47E"
+          }
+        ],
+        "collation_count": 2,
+        "start_time": 1780815600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1708289533530780"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [],
+      "product_hits": [
+        "סט"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 4,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "LEARN_MORE"
+      ],
+      "page_like_count": 394,
+      "product_score": 1,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "אוסטאופת"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1708289533530780"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "LEARN_MORE"
+    ],
+    "page_like_count": 394,
+    "page_categories": [
+      "מטפל"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1708289533530780",
+        "page_id": "396345493560551",
+        "page_name": "שמעון רוטנברג - אוסטאופתיה לריפוי הכאב",
+        "page_url": "https://www.facebook.com/61564047184674/",
+        "page_like_count": 394,
+        "page_categories": [
+          "מטפל"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780815600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716987112_3642087825940201_600468366262696914_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YeUoLFDYM4IQ7kNvwFV3TSs&_nc_oc=AdpM_NPDM4uzCO9t9Zlj1L9isyU4jCbnGewFcE_bYiyPKKRzqR0RxR_X67lDXk-Jgbw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQJvxkZyygCH87TmJfGKK60U1Ga45D1Q4DP4e5HDLEaUeQ&oe=6ABF00E7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgHBefFStfvPfhKa9gFSKnRjw1CF4AAy-iMAB5LXDv0Z-spzE6DxC6YI1r4KBscja0Unz2S7mn6_mkSD9bLPrg_DwDxUwPntGEsBEjDeERVw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tCbtoKOuXKsQ7kNvwH_cg66&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzU4MzMwNzM4NzUwNzAsImFzc2V0X2FnZV9kYXlzIjo3NDQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d760f952c319d82c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRDQ3QjI5MkZBMDM5Qzc3M0VGNjA1RDYzMzZFMDI4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0I5NDU3QjBBNTMzQ0I1MUMxMzMzODc4RTJEMkFFOEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb84aWD3Z3pAxUCKAJDMiwXQD6zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_cHKBhGaSSAO3la25ANk3evAKcgbWMlDnhUJJ6Z06Qw&oe=6ABEF47E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716650309_1368331838690382_5178991116419668841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b8g3ql-lprAQ7kNvwErz5cF&_nc_oc=AdoTKaHGTa87Zlpd-vmgvTWhftAjmzE5IeD3HfchvrMsyRwtM3BhruQxdLyH-IcRf50&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQL5dm73_yC7pVcLjARWJPCAcZfiPLZS4jEs_tA0nqzXnQ&oe=6ABF0375",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjozhaAQYvM6u11xS2gzn6vXSZ1Lk9LZzJOl2a4m7I0CbQKD1D9TjJET6F9k764zLLxOlX15EiPr26fus6NF2O.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_e2JKpF75CYQ7kNvwEA9_nU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNjM4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDg0NzAxMzk0NDM3ODA3LCJhc3NldF9hZ2VfZGF5cyI6NzQ0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQIVqPDhN5nljxlJRZzxUQAkBaOTEEJgT0bXFZMeMGIsZw&oe=6ABF211D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719804388_1315097494061041_4451562000208089922_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SeJUDQlD6PcQ7kNvwEqpHjf&_nc_oc=Adr4w1npM5XJNz8vWdO4Mtnz3SD4MbIIVUVBl0PFM-moSYPFy93I7TGL8EF6ijvtjDA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQIGe6a0yTT1EbZB52F_Vcz34SLqNtBxHq6QkObB82FdxA&oe=6ABF1168",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwHgkjkgGloipYE-dz67W6xfOpoWO-T42JBftqj3KVo_9fFYAACB_ztEOcwU4otKjDJYfdECT273xom2_vX9KnY7L-ONK3MTfTFT4fodCFyw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=jlMg5gtKdREQ7kNvwH0gHY7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDI5MDE1NjA2NDI4OTAsImFzc2V0X2FnZV9kYXlzIjo3NDQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b575fe45a738d4a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNjRBREJEQjg3MjU2MEJEQzRGNTQ3RjlFNkE2N0VCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE1NEQyOTU0RTJFQjdFQzk4Njc3NzQzNDk5OERCNEFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUtfaQ7qDaAxUCKAJDMiwXQD6zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQIBfzBjE7utqZBLRnY67Hj-hnXKCuMsbbzR16JKmfsSlA&oe=6ABF2077"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1708289533530780"
+      },
+      {
+        "id": "756444760892676",
+        "page_id": "396345493560551",
+        "page_name": "שמעון רוטנברג - אוסטאופתיה לריפוי הכאב",
+        "page_url": "https://www.facebook.com/61564047184674/",
+        "page_like_count": 394,
+        "page_categories": [
+          "מטפל"
+        ],
+        "ad_creative_link_title": "{{product.name}}",
+        "body": "{{product.brand}}",
+        "link_description": "{{product.description}}",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "DCO",
+        "ad_delivery_start_time": 1780815600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716987112_3642087825940201_600468366262696914_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YeUoLFDYM4IQ7kNvwFV3TSs&_nc_oc=AdpM_NPDM4uzCO9t9Zlj1L9isyU4jCbnGewFcE_bYiyPKKRzqR0RxR_X67lDXk-Jgbw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQJvxkZyygCH87TmJfGKK60U1Ga45D1Q4DP4e5HDLEaUeQ&oe=6ABF00E7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMgHBefFStfvPfhKa9gFSKnRjw1CF4AAy-iMAB5LXDv0Z-spzE6DxC6YI1r4KBscja0Unz2S7mn6_mkSD9bLPrg_DwDxUwPntGEsBEjDeERVw.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tCbtoKOuXKsQ7kNvwH_cg66&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzU4MzMwNzM4NzUwNzAsImFzc2V0X2FnZV9kYXlzIjo3NDQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d760f952c319d82c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRDQ3QjI5MkZBMDM5Qzc3M0VGNjA1RDYzMzZFMDI4RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsL0I5NDU3QjBBNTMzQ0I1MUMxMzMzODc4RTJEMkFFOEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb84aWD3Z3pAxUCKAJDMiwXQD6zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQJ_cHKBhGaSSAO3la25ANk3evAKcgbWMlDnhUJJ6Z06Qw&oe=6ABEF47E"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/716650309_1368331838690382_5178991116419668841_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b8g3ql-lprAQ7kNvwErz5cF&_nc_oc=AdoTKaHGTa87Zlpd-vmgvTWhftAjmzE5IeD3HfchvrMsyRwtM3BhruQxdLyH-IcRf50&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQL5dm73_yC7pVcLjARWJPCAcZfiPLZS4jEs_tA0nqzXnQ&oe=6ABF0375",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMjozhaAQYvM6u11xS2gzn6vXSZ1Lk9LZzJOl2a4m7I0CbQKD1D9TjJET6F9k764zLLxOlX15EiPr26fus6NF2O.mp4?_nc_cat=100&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=_e2JKpF75CYQ7kNvwEA9_nU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNjM4LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDg0NzAxMzk0NDM3ODA3LCJhc3NldF9hZ2VfZGF5cyI6NzQ0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQIVqPDhN5nljxlJRZzxUQAkBaOTEEJgT0bXFZMeMGIsZw&oe=6ABF211D"
+          },
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/719804388_1315097494061041_4451562000208089922_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SeJUDQlD6PcQ7kNvwEqpHjf&_nc_oc=Adr4w1npM5XJNz8vWdO4Mtnz3SD4MbIIVUVBl0PFM-moSYPFy93I7TGL8EF6ijvtjDA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQIGe6a0yTT1EbZB52F_Vcz34SLqNtBxHq6QkObB82FdxA&oe=6ABF1168",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNwHgkjkgGloipYE-dz67W6xfOpoWO-T42JBftqj3KVo_9fFYAACB_ztEOcwU4otKjDJYfdECT273xom2_vX9KnY7L-ONK3MTfTFT4fodCFyw.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=jlMg5gtKdREQ7kNvwH0gHY7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNDI5MDE1NjA2NDI4OTAsImFzc2V0X2FnZV9kYXlzIjo3NDQsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b575fe45a738d4a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNjRBREJEQjg3MjU2MEJEQzRGNTQ3RjlFNkE2N0VCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE1NEQyOTU0RTJFQjdFQzk4Njc3NzQzNDk5OERCNEFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUtfaQ7qDaAxUCKAJDMiwXQD6zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQIBfzBjE7utqZBLRnY67Hj-hnXKCuMsbbzR16JKmfsSlA&oe=6ABF2077"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=756444760892676"
+      },
+      {
+        "id": "997567966417942",
+        "page_id": "396345493560551",
+        "page_name": "שמעון רוטנברג - אוסטאופתיה לריפוי הכאב",
+        "page_url": "https://www.facebook.com/61564047184674/",
+        "page_like_count": 394,
+        "page_categories": [
+          "Therapist"
+        ],
+        "ad_creative_link_title": "טיפול בכאב ברמת גן - שיחת אבחון ראשונית ללא עלות",
+        "body": "\"לא האמנתי שלא יכאב לי\"\nזה מה שטל לקוח שלי אמר לאחר סדרת טיפולים אצלי בקליניקה\nלאחר שסבל מכאבים בכף היד שלא עברו למרות שהיה אצל רופאים, ניסה פיזיותרפיה, זריקות וכל מיני טיפולים שלא צלחו.\n\n⭐ אם גם אתם רוצה לחיות חיים ללא כאבים, אני כאן בשבילכם.\nהטיפולים מתקיימים בקליניקה ברמת גן,בתיאום מראש\nהשאירו פרטים עכשיו לייעוץ ואבחון ללא עלות ⬇️",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740064226_1324355893107802_5840290533097534882_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0NT3K0LFWboQ7kNvwESiO16&_nc_oc=Adoho1S7O-pxEt18tEyKJNykvT33l52rQTJnKUOmU4Vn8x8ddrUYj2dg3f0QogFoBEk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQLnPFxbgAjL4LsH7yrMUW2pj6gL8a5qr18TeMuOC63Slg&oe=6ABF0E32",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPaY5vKgLw5Fc1BV8F4CridOpFbjiih5isdS-mho0ki20_24s2cSPfqmavSkd5W9bXqapt9kZ_ftTh3639rrwLVLmgnJ52fZ05Ju31UtAHgqg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uJAvLZtX4MoQ7kNvwEO6mV_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTIzMzk3OTM4ODM1NDUsImFzc2V0X2FnZV9kYXlzIjo4MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=466c6cab31534679&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQ4REUwMTU2NDJCOEVBMTNCRDc2QURFOEU0OEFBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNDk2NTY2NzQ1MkUyQkE0NTMzNzhDMDJFQzJGQUIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACayxse5nsbeAxUCKAJDMiwXQEYKPXCj1woYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQL8DVdC7losIYSVITeC8FUNJTrlbG5kMJjUx10VoCeN_g&oe=6ABF1068"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=997567966417942"
+      },
+      {
+        "id": "1565688678446938",
+        "page_id": "396345493560551",
+        "page_name": "שמעון רוטנברג - אוסטאופתיה לריפוי הכאב",
+        "page_url": "https://www.facebook.com/61564047184674/",
+        "page_like_count": 394,
+        "page_categories": [
+          "Therapist"
+        ],
+        "ad_creative_link_title": "טיפול בכאב ברמת גן - שיחת אבחון ראשונית ללא עלות",
+        "body": "\"לא האמנתי שלא יכאב לי\"\nזה מה שטל לקוח שלי אמר לאחר סדרת טיפולים אצלי בקליניקה\nלאחר שסבל מכאבים בכף היד שלא עברו למרות שהיה אצל רופאים, ניסה פיזיותרפיה, זריקות וכל מיני טיפולים שלא צלחו.\n\n⭐ אם גם אתם רוצה לחיות חיים ללא כאבים, אני כאן בשבילכם.\nהטיפולים מתקיימים בקליניקה ברמת גן,בתיאום מראש\nהשאירו פרטים עכשיו לייעוץ ואבחון ללא עלות ⬇️",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "LEARN_MORE",
+        "cta_text": "מידע נוסף",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1783321200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/740064226_1324355893107802_5840290533097534882_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0NT3K0LFWboQ7kNvwESiO16&_nc_oc=Adoho1S7O-pxEt18tEyKJNykvT33l52rQTJnKUOmU4Vn8x8ddrUYj2dg3f0QogFoBEk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&oh=00_AQLnPFxbgAjL4LsH7yrMUW2pj6gL8a5qr18TeMuOC63Slg&oe=6ABF0E32",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPaY5vKgLw5Fc1BV8F4CridOpFbjiih5isdS-mho0ki20_24s2cSPfqmavSkd5W9bXqapt9kZ_ftTh3639rrwLVLmgnJ52fZ05Ju31UtAHgqg.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=uJAvLZtX4MoQ7kNvwEO6mV_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzIuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTIzMzk3OTM4ODM1NDUsImFzc2V0X2FnZV9kYXlzIjo4MywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=466c6cab31534679&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQ4REUwMTU2NDJCOEVBMTNCRDc2QURFOEU0OEFBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNDk2NTY2NzQ1MkUyQkE0NTMzNzhDMDJFQzJGQUIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACayxse5nsbeAxUCKAJDMiwXQEYKPXCj1woYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Lb_C3IHwvn7pkPDX0bf33g&_nc_ss=70289&_nc_zt=28&oh=00_AQL8DVdC7losIYSVITeC8FUNJTrlbG5kMJjUx10VoCeN_g&oe=6ABF1068"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1565688678446938"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "filtered": "2026-09-27T15:32:28"
+  }
+}

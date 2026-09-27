@@ -1,7 +1,7 @@
 {
   "lead_id": "2026-09-27-263",
-  "status": "discovered",
-  "reject_reason": null,
+  "status": "rejected",
+  "reject_reason": "service/course/lead-gen: קליניקה, טיפול, טיפולי",
   "business": {
     "name_he": "",
     "name_en": "",
@@ -64,7 +64,34 @@
         "snapshot_url": "https://www.facebook.com/ads/library/?id=1166918915640850"
       }
     ],
-    "filter": {},
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "קליניקה",
+        "טיפול",
+        "טיפולי"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 291,
+      "product_score": -6,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "קליניקה",
+        "מטפל",
+        "מטפלת",
+        "טיפול",
+        "טיפולי",
+        "דיקור",
+        "רפלקסולוג"
+      ]
+    },
     "active_ads_count_exact": false,
     "ad_ids": [
       "1166918915640850"
@@ -90,6 +117,7 @@
     "image_gen_usd": 0
   },
   "timestamps": {
-    "discovered": "2026-09-27T15:27:45"
+    "discovered": "2026-09-27T15:27:45",
+    "rejected": "2026-09-27T15:31:33"
   }
 }

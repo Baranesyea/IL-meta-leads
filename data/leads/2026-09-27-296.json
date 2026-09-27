@@ -1,0 +1,113 @@
+{
+  "lead_id": "2026-09-27-296",
+  "status": "rejected",
+  "reject_reason": "not a pain clinic: הזרקות, חומצה היאלורונית",
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/dr.benderbenjamin/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "111559095584203",
+    "page_name": "ד\"ר בנימין בנדר, אורטופד מנתח מומחה, מומחה למפרקים והחלפת מפרקים-ברך וירך",
+    "active_ads_count": 1,
+    "search_keyword": "פיזיותרפיה",
+    "sample_ads": [
+      {
+        "ad_id": "1499719465226672",
+        "link_title": "לתיאום פגישת ייעוץ עם ד\"ר בנדר לחצו כאן >>",
+        "body": "שחיקת סחוס בברך ובירך \nמטופלת בשיטות המסורתיות \nבאמצעות תרופות אנטי דלקתיות,\nטיפולי פיזיותרפיה, זריקות חומצה היאלורונית\nועד לניתוחים. \nאולם בשנים האחרונות נעשתה פריצת דרך אדירה \nבתחום באמצעות שימוש\nבזריקות ה-PRP  (פלסמה עשירה בטסיות)\nלצורך טיפול בשחיקת הסחוס של הברך והירך.\n\nאם לאחר בדיקה מעמיקה של רופא אורתופד\nמומחה בתחום נקבע כי עליכם לעבור הזרקות\nחשוב שתדעו מהם מאפייני הטיפול החדשני\nוהפשוט יחסית - PRP\n\n•הליך הזרקת ה-PRP  לוקח כשעה בסך הכל\n• בסיום התהליך נדרשת מנוחה של כ-\n  רבע שעה לפחות במרפאה\n\n• מותרת פעילות רגילה לאחר ההזרקה\n\n• 6-8 שבועות לאחר הטיפול יש לחזור לצורך\nביקורת אל רופא אורתופד מומחה ברכיים וירך.",
+        "landing_url": "https://www.drbender.co.il/bender-lp1/",
+        "cta_type": "SEE_DETAILS",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [
+          "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/714263282_1695921461736400_3967328355516643941_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v6bWzljTCscQ7kNvwGmeHi4&_nc_oc=AdqfGuCdc23mJtisj6FnMk546_aywDQY5bmLsG_daeu8PqvsxQbl9NSZaBSPRKVuSMY&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=lFB4jfNBjQX-THUIK1MDPg&_nc_ss=70289&oh=00_AQLGlUXCSTpDOm8IP1V2fhgoFi3Fvy2URup1SEo9jRabDQ&oe=6ABF01A5"
+        ],
+        "videos": [],
+        "collation_count": 2,
+        "start_time": 1780383600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1499719465226672"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "טיפולי",
+        "ייעוץ"
+      ],
+      "product_hits": [],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 1,
+      "active_ads_count_exact": false,
+      "cta_types": [
+        "SEE_DETAILS"
+      ],
+      "page_like_count": 6014,
+      "product_score": -6,
+      "clinic_excluded": [
+        "הזרקות",
+        "חומצה היאלורונית"
+      ]
+    },
+    "active_ads_count_exact": false,
+    "ad_ids": [
+      "1499719465226672"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "SEE_DETAILS"
+    ],
+    "page_like_count": 6014,
+    "page_categories": [
+      "Orthopedist"
+    ],
+    "track": "clinic"
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T15:31:33",
+    "rejected": "2026-09-27T15:32:50"
+  }
+}
