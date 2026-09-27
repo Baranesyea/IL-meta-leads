@@ -252,7 +252,50 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-02-15",
+      "oldest_start": "2025-04-02",
+      "days_since_newest": 224,
+      "longest_running_days": 543,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "CONTACT_US",
+          2
+        ]
+      ],
+      "videos": 1,
+      "landings": [
+        [
+          "physyoutlv.com",
+          2
+        ]
+      ],
+      "landing_status": {
+        "physyoutlv.com": "ok"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2025-04-02",
+          "cta": "CONTACT_US",
+          "title": "Physyoutlv Physiotherapy Clinic",
+          "body": "סובלים מפציעה או כאב שמטרידים ומגבילים אתכם? עברתם ניתוח ומרגישים שלא חזרתם לעצמכם?\nניסיתם כל מיני טיפולים שלא עזרו? \n\nאנחנו PHYSYOUTLV, קליניקה לטיפולי פיזיותרפיה ואימונים אישיים בתל אביב. אלפי מטופלים שסבלו מכאבים, פציעות, מגבלה לאחר ניתוח ועוד, כבר טופלו על ידנו וחזרו לשגרת חיים בריאה ללא כאב או מגבלה.  \n\nאצלנו בקליניקה (לנוחיותכן/ם שני סניפים בת\"א – דרום ומרכז העיר) תקבלו טיפול אישי ומסור תוך ",
+          "landing": "https://physyoutlv.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=traffic"
+        },
+        {
+          "start": "2026-02-15",
+          "cta": "CONTACT_US",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://physyoutlv.com/?utm_source=facebook&utm_medium=cpc&utm_campaign=traffic"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

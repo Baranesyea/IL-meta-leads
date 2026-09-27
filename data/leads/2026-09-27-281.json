@@ -520,7 +520,23 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": null,
+      "seen": 0,
+      "newest_start": null,
+      "oldest_start": null,
+      "days_since_newest": null,
+      "longest_running_days": null,
+      "distinct_texts": 0,
+      "ctas": [],
+      "videos": 0,
+      "landings": [],
+      "landing_status": {},
+      "home_share": 0,
+      "samples": []
+    }
   },
   "cost": {
     "image_gen_usd": 0

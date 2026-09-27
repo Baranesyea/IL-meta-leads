@@ -2,7 +2,1012 @@
  "source": "ad_library_playwright",
  "track": "clinic",
  "keyword": "כירופרקטיקה",
- "fetched_at": "2026-09-27T15:59:09",
- "estimated_total_count": null,
- "ads": []
+ "fetched_at": "2026-09-27T16:04:27",
+ "estimated_total_count": 47,
+ "ads": [
+  {
+   "id": "27920873400911286",
+   "page_id": "256106150692",
+   "page_name": "Clalit  כללית",
+   "page_url": "https://www.facebook.com/Clalit/",
+   "page_like_count": 202581,
+   "page_categories": [
+    "Product/service"
+   ],
+   "ad_creative_link_title": "{{product.name}}",
+   "body": "{{product.brand}}",
+   "link_description": "{{product.description}}",
+   "landing_url": "https://jointoclalit.co.il/Giusop2/?utm_source=facebook&utm_medium=cpv&utm_campaign=sep26_cetral_awo_+campaign",
+   "cta_type": "LEARN_MORE",
+   "cta_text": "מידע נוסף",
+   "display_format": "DCO",
+   "ad_delivery_start_time": 1788159600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774157116_3070590736649639_3152687500233205913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wiqKkFKJc0QQ7kNvwFyH6wH&_nc_oc=Adow-rt2qvdGS8QyxVjEod3blvHtPP0AQCcp4f0gSAnrBm9jqK5WzmfCIwhynt-JfSs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJyyy6N4DegD3-gh5K-pvk_SNPCPvsROoCEtYDbrFhswQ&oe=6ABF2608",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMWhRomjoCGsYh4EYy18ns_Y42yDRJtqMiUWqxXrVwolqCA2DASjaddTFSqrxX1dZdEo4x9wEyQDgpXTCj3DJ7-fIMm23JPnCFXOEBbJ3gIcw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=1MN3ID_prsEQ7kNvwEl1nnI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4NDU3MTExMTI2OTIxNCwiYXNzZXRfYWdlX2RheXMiOjQ1LCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9b87d6a44a2a4829&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRERjU0RjhBQUQ4ODU1NEExMUUwRDU3MjRCOTY5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JGNDFBMzdCMjNCMEMzOEU4MUMzRTY5QzI0RjI0NEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8jb-1yt2_AxUCKAJDMywXQDYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKFFL2G_KaFvBZSaZhdf1AE-kGt6m4PbmeiXLPHSZGSWw&oe=6ABF1BA4"
+    },
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/770831605_1527479855849137_3081508939461424996_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mZWEJ3r62poQ7kNvwE3XgRQ&_nc_oc=AdqkdRKqwicd_8pF1K7Ja-WT1XNbjunGSWwlTJKpxDx0FQGXqPthjAfEL5Xmd84mR38&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLe4MkWW6bt7ISnfw6mHBR3HGQOOQeHdqvOOQtzbuSiOA&oe=6ABF0348",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN2LSFwFg9i--Qyi5036SrUucSuy9v_UpwZvXPsCc8s7xTGbC4j7FlHHmP5O2Z8lbixmzLixJQJZ9Y90JqiKwfkMxR8mhfFcLGkb0oFjzONaA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=IAMiw5TBdz8Q7kNvwFE97BY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQyOTg4MTg0NjcwMDI2NjAsImFzc2V0X2FnZV9kYXlzIjo0NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1bb47c57c35724af&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RjQyNzc4NUM4NEM1QjQ1QkIzNjhFNDk1OUFBNDI5NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlGNEY1NDY1NkI2RjA1MjRBNTg5MDNBMTVDMjREQzk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI5O-6lfCiDxUCKAJDMywXQDYAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIG8cVISodwYismA68lGomeeaQITmCfrdX4j-denEa2LQ&oe=6ABF2AA0"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=27920873400911286"
+  },
+  {
+   "id": "938161632609978",
+   "page_id": "1761251854112452",
+   "page_name": "ד”ר אריה טויל - טויל מדיקל סנטר - המרכז לכירופרקטיקה וטיפול בכאב ללא ניתוח",
+   "page_url": "https://www.facebook.com/arietawil/",
+   "page_like_count": 546,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "{{product.name}}",
+   "body": "{{product.brand}}",
+   "link_description": "{{product.description}}",
+   "landing_url": "http://fb.me/",
+   "cta_type": "BOOK_TRAVEL",
+   "cta_text": "להזמנה",
+   "display_format": "DCO",
+   "ad_delivery_start_time": 1782630000,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 1,
+   "images": [
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732138386_2543541936104035_5958483249284024919_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wEtD__b7xQAQ7kNvwErYJJX&_nc_oc=AdrduIcmBRJK8ic6MCNFpxKg5L2I_IzWC-WEdJeqT9TM9B5S_LPjihGXKODKcJsFzks&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQIl6wdveGnQ_2npC6VCZJJF6b9zBw8taKscoGtZCmY5lQ&oe=6ABF2179",
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/734218650_1004443572470458_7605290169434985594_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jKqW4w1yy_wQ7kNvwHVSB9c&_nc_oc=AdornOM8n2-NRUy7CvC0TccGixk10GdIM_2dnlUxSb18pZE850dlH7qboa10xT33n3E&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQI529LrydgYhQzvoA90OCE_rStHbKDW15smX3zkgsb_jg&oe=6ABEFA7A",
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/733280433_1542630847264357_1599853979138737731_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wyfksov6gWkQ7kNvwF3AiAA&_nc_oc=AdoRP5eWAFZwjui6aCM5INn4z1pRtZQpDYoZZOPimH3cJYpRd2iFxhiYnqHqlhXV-ys&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLSFvIlWFBAR1Sgmx8L27egQ76YQQHhw687ZNmw7b48TA&oe=6ABF0A4C",
+    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/734330217_28565920406341044_5362365470581482581_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h1GxSzSQ7ncQ7kNvwEMVkNr&_nc_oc=AdokainB-uFLu6zwA3gyUIxUc6AH5m556yp5A7y82IV0ITs1ZKWdv73tyJcpzy_8VXs&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJvh7vy8imn-1X7YgJe9n7Z8gQGamueH6TounW-4WjoxQ&oe=6ABF168D",
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/732116820_1532149331650664_1794906654615382058_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bOI8Ase_5hUQ7kNvwEaZvUr&_nc_oc=AdqzDaMek3CMAwTANQjS387nsAbzQ4xQ0tdDd-ynJaa4Zz4yAdEndVpfYWKUWBsQQfc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQIQI_uwe9-S0nZvnUuzo-pzdNqbD0d2YLUc8SL3fLCkuA&oe=6ABF05BC"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=938161632609978"
+  },
+  {
+   "id": "1562020507811722",
+   "page_id": "630391443788169",
+   "page_name": "ד\"ר נעמה שוורץ כירופרקטית",
+   "page_url": "https://www.facebook.com/100063446966849/",
+   "page_like_count": 1025,
+   "page_categories": [
+    "Therapist"
+   ],
+   "ad_creative_link_title": "צרו קשר ונוכל לפתור את הבעיה",
+   "body": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1739260800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/478031558_974726914110127_5531968153401090895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sirXU4HTqzQQ7kNvwF8_FUP&_nc_oc=AdrVxSVJ-4j_bPjxqAkTteaWH8gWYEa3P_oDALfIhdT2AM-QtgM--IhLZSwLlBgp9iw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQIm5cCafH0kYVTz83G7o3aio-7pZM89hpvo8Wg_M9YZFw&oe=6ABEF99B",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOFlQ5f62WY_NSDiKG43GmiE9_UOYgL651CTfUz6qHHtm1jabQh08fsfaVMBoEkx3XiG2LqMrO5WxgGWMsKNJQKOInHW_ihxpoJeTMPhrfytQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=XzB3JTuiGqQQ7kNvwF3Nskg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzIxMDUyMjQ4OTI4NTEsImFzc2V0X2FnZV9kYXlzIjo2MTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4fe2a85de7a5c101&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MDRFODFDMEVDRkQzNTYyQjUwNDVBOTU4Qzg2MzFCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dLVk5IQnhUbmItQjN6NENBTEdrclVQaWtrbFpidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbmxt2r3eLdBBUCKAJDMywXQEUvXCj1wo8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKFRiOwxSJ-FE1ZZIl_Wr7T7YveNzBU4uPdhLzcvDicFw&oe=6ABEFD5F"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1562020507811722"
+  },
+  {
+   "id": "1383347293353347",
+   "page_id": "100994838722988",
+   "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+   "page_url": "https://www.facebook.com/100065857863569/",
+   "page_like_count": 2034,
+   "page_categories": [
+    "Health Service"
+   ],
+   "ad_creative_link_title": "",
+   "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1763452800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 2,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/582987603_2635066503524339_5485311594754645879_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9MGHjJgH_SAQ7kNvwE1vC3_&_nc_oc=Adpcis8adfbzuBHzTlm-KpaSFBD_6PP9Syvdmxi_tjK35Pow7ZaG4SCG2JcEJ1jEcWM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJYr4d8E-3OECXnWGVT4fPI-CnP-xK-QWw6Frf0uzr57w&oe=6ABF19DC",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwH9tvgQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKDN5UsA4qf8j1_tbxVTsYrQb8OHVHuhr6PELvvq-muoQ&oe=6ABF0EAF"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1383347293353347"
+  },
+  {
+   "id": "693180496845367",
+   "page_id": "100994838722988",
+   "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+   "page_url": "https://www.facebook.com/100065857863569/",
+   "page_like_count": 2034,
+   "page_categories": [
+    "Health Service"
+   ],
+   "ad_creative_link_title": "",
+   "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1763452800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": null,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584799361_846309177880443_4455030724344120002_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S3S-ko_4jJcQ7kNvwH-egyz&_nc_oc=AdqOUBYCD9WSa_W--Q-zQy3itPRlJlu2SW7XVbRCnqMKFG6sv5ZHXmp82HBBSuGQ_Ss&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQISO8eWjTvnXoB7Ve6vlC2QFFreGNaKNNgw05A9oGL5xw&oe=6ABF166B",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwH9tvgQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKDN5UsA4qf8j1_tbxVTsYrQb8OHVHuhr6PELvvq-muoQ&oe=6ABF0EAF"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=693180496845367"
+  },
+  {
+   "id": "1324646526015678",
+   "page_id": "122094811466018369",
+   "page_name": "עלי כריים פיזיותרפיסט - אוסטאופתיה",
+   "page_url": "https://www.facebook.com/neuroflex.clinic/",
+   "page_like_count": 1081,
+   "page_categories": [
+    "Physical Therapist",
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "",
+   "body": "🔥 כואב הגב? הלחץ לא עובר?\nאולי הגיע הזמן לנסות משהו שבאמת עובד!\n✨ טיפולי כירופרקטיקה + פיזיותרפיה מותאמים אישית\nלשחרור כאבים, שיפור תנועה ואנרגיה חדשה לגוף.\nלתיאום תור ופרטים נוספים, צרו קשר: 050-228-0590 📲\n📍 סניפים: באר שבע | מג’ד אלכרום",
+   "link_description": "",
+   "landing_url": "",
+   "cta_type": "MESSAGE_PAGE",
+   "cta_text": "שליחת הודעה",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1782975600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "WHATSAPP"
+   ],
+   "collation_count": 2,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/733992855_1585290196271185_2606275268417734038_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NmWqL7vvWK8Q7kNvwEc8xET&_nc_oc=AdrTnEL4kwCnfdkVhyFayFA_yPgMcnXrsRyXhjkcg8-yfAehYuamWZ7ZR6T7yDLVeKw&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLwZh1fEmuDXFaNiTP6pqdQFGeT4-mHid3guVVCh3vBYQ&oe=6ABF254B",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQNqpmZ1NPuwSOUhF6cLFSHnOnExPfKZ806d2T0WX3MVdIWcJIgdlcvVidyZ9C6fNkuaIWlWAWqjoBJvaxPZlesPjtL4jdXoSnerWzo.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2fBhlf2KnQQQ7kNvwH_ZEuS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzI1Mzc3NjA5OTAwNzExLCJhc3NldF9hZ2VfZGF5cyI6NDYwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a447840d1e6abaa6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNTQzNTU3RDFBMTdGNjM5QzBENTAzMUI3MkNCQjQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNjI0MDA3NjMxMTM2ODA0XzE0NjU0MzQzNTE0NzQ4MTkwOTEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJs6KoazE7skCFQIoAkMzLBdAQ1mZmZmZmhgSZGFzaF9iYXNlbGluZV8zX3YxEQB1AGXmnQEA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLu9st39ecKSXacWzqlBe3gHsrNbzXKRCPLXOhYcICHIg&oe=6ABB2732"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1324646526015678"
+  },
+  {
+   "id": "2065545827365252",
+   "page_id": "122094811466018369",
+   "page_name": "עלי כריים פיזיותרפיסט - אוסטאופתיה",
+   "page_url": "https://www.facebook.com/neuroflex.clinic/",
+   "page_like_count": 1081,
+   "page_categories": [
+    "Physical Therapist",
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "",
+   "body": "🔥 כואב הגב? הלחץ לא עובר?\nאולי הגיע הזמן לנסות משהו שבאמת עובד!\n✨ טיפולי כירופרקטיקה + פיזיותרפיה מותאמים אישית\nלשחרור כאבים, שיפור תנועה ואנרגיה חדשה לגוף.\nלתיאום תור ופרטים נוספים, צרו קשר: 050-228-0590 📲\n📍 סניפים: באר שבע | מג’ד אלכרום",
+   "link_description": "",
+   "landing_url": "",
+   "cta_type": "MESSAGE_PAGE",
+   "cta_text": "שליחת הודעה",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1782975600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "WHATSAPP"
+   ],
+   "collation_count": null,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/736396798_1004070928891404_6491443542719755190_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=be5MCjm4I7AQ7kNvwFxK8ue&_nc_oc=AdqxBdaQnB-4mg8CG3i_hlBdCo65ioH9wYuLFzySNkzYMZWgttCeDyv2pKO1o5afo_w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJBDYN4pjrcjmSSetgYaj8NtPHAAv6UdFnRJNG3Bj3G-A&oe=6ABF1C78",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m86/AQNqpmZ1NPuwSOUhF6cLFSHnOnExPfKZ806d2T0WX3MVdIWcJIgdlcvVidyZ9C6fNkuaIWlWAWqjoBJvaxPZlesPjtL4jdXoSnerWzo.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2fBhlf2KnQQQ7kNvwH_ZEuS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzI1Mzc3NjA5OTAwNzExLCJhc3NldF9hZ2VfZGF5cyI6NDYwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a447840d1e6abaa6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNTQzNTU3RDFBMTdGNjM5QzBENTAzMUI3MkNCQjQ4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNjI0MDA3NjMxMTM2ODA0XzE0NjU0MzQzNTE0NzQ4MTkwOTEubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJs6KoazE7skCFQIoAkMzLBdAQ1mZmZmZmhgSZGFzaF9iYXNlbGluZV8zX3YxEQB1AGXmnQEA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLu9st39ecKSXacWzqlBe3gHsrNbzXKRCPLXOhYcICHIg&oe=6ABB2732"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2065545827365252"
+  },
+  {
+   "id": "4559987514282208",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "סובלים מכאבי גב, צוואר תפוס או פציעת ספורט ולא מוצאים פתרון? 😣\nאל תתרגלו לחיות עם הכאב ואל תחכו שהוא יחמיר. בקליניקה של ד\"ר תום שי, מומחה בכירופרקטיקה שיקומית, אנחנו מוצאים את שורש הבעיה ומחזירים את הגוף שלכם לאיזון מלא, בלי זריקות ובלי ניתוחים.\n\nלחצו על הקישור, עברו לווטסאפ של הקליניקה ונתאם לכם תור לאבחון.\n\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1788937200,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 2,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/745010929_1033232732496792_5816411063967500181_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gEFv1hBZn7cQ7kNvwEpaN_1&_nc_oc=Adr5LlS1_5YZeOeq6vU-RdlizzLAbnKaBcxcmF9yXe6dK33BPfCxg2S-9AfNW_yNeSE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQI0lUIKpQUstkdojBe4B6t_h_KxmcmcyTCHjoepSGCzug&oe=6ABF17EA",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMcX-sNmS5vxx330-dPHXLlMdGYgiAO6WMQySqStwHg1Ag07JmrMkY7pPpVCZPcLhOJSu8EheW6H0OeZo5zCqYf-HteRBF8ivRk8WPIsi9FfQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5v9KESbZRz0Q7kNvwEUq13Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NjQ3NzcyMTEzNzAxMjcsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d985b3d032fcb481&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QjRCNUY1RkQwNURFRUEzQTQ2ODRDRDIzQzcwRTI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FENERBQjE1Q0ZCQUNDNzYxMTY3NjZGQUVGNkQ3NThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6qb0qIDQBhUCKAJDMywXQEXRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQJzwSK3NxDUYKiBiBvxPWEKrEhGAyaLRotg2LL3lXcEww&oe=6ABF2013"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4559987514282208"
+  },
+  {
+   "id": "1130661453121855",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "סובלים מכאבי גב, צוואר תפוס או פציעת ספורט ולא מוצאים פתרון? 😣\nאל תתרגלו לחיות עם הכאב ואל תחכו שהוא יחמיר. בקליניקה של ד\"ר תום שי, מומחה בכירופרקטיקה שיקומית, אנחנו מוצאים את שורש הבעיה ומחזירים את הגוף שלכם לאיזון מלא, בלי זריקות ובלי ניתוחים.\n\nלחצו על הקישור, עברו לווטסאפ של הקליניקה ונתאם לכם תור לאבחון.\n\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1788764400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": null,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/746073870_1468363228344960_1161966035886493650_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cYAKgCX_KAsQ7kNvwFoOcIH&_nc_oc=Adqit6U9WX09HGXF6IAVX_a9Zc1noOkFvkjMkDAWO2bntRyNPCASu0AvkCJZPOsKqy8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLlIKs6XPT1Xtiuxer-OHoJ14yxt4d848gpNvzBAmZh3g&oe=6ABF2205",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMcX-sNmS5vxx330-dPHXLlMdGYgiAO6WMQySqStwHg1Ag07JmrMkY7pPpVCZPcLhOJSu8EheW6H0OeZo5zCqYf-HteRBF8ivRk8WPIsi9FfQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=5v9KESbZRz0Q7kNvwEUq13Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NjQ3NzcyMTEzNzAxMjcsImFzc2V0X2FnZV9kYXlzIjoxMDEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d985b3d032fcb481&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QjRCNUY1RkQwNURFRUEzQTQ2ODRDRDIzQzcwRTI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FENERBQjE1Q0ZCQUNDNzYxMTY3NjZGQUVGNkQ3NThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACae6qb0qIDQBhUCKAJDMywXQEXRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQJzwSK3NxDUYKiBiBvxPWEKrEhGAyaLRotg2LL3lXcEww&oe=6ABF2013"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1130661453121855"
+  },
+  {
+   "id": "1159200809156426",
+   "page_id": "630391443788169",
+   "page_name": "ד\"ר נעמה שוורץ כירופרקטית",
+   "page_url": "https://www.facebook.com/100063446966849/",
+   "page_like_count": 1025,
+   "page_categories": [
+    "Therapist"
+   ],
+   "ad_creative_link_title": "צרו קשר ונוכל לפתור את הבעיה",
+   "body": "האם יש שיפור מזריקות לפתרון כאבים?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1739260800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/476830537_1733862933829741_7342564017330845310_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gxcvJOBzxEIQ7kNvwGDgQF4&_nc_oc=Adq7rbXJoBDZ3A9imLVYodEMvNs6T_GqxwGcYmUWZPc2l9BN1_MsVCH7Cxl950w6bJ0&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQIQxLYhGFlUNrUyTD3aJfMrm3NncFYi65C0z3u9fwO1hQ&oe=6ABF2932",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOY_yGMsCelWHXHiMQITBUx3iOIBTf7WQWTbSidNeAvzr5gsg7n9alFFNoO1m8BX3Yo2w-_MbonZu5SYwE36VrS57bNmppFtI28bVAY9CrOTg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=fXREN2G_Qd4Q7kNvwGMJaFJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzAwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTIyNDg0NTQ5NjAzODksImFzc2V0X2FnZV9kYXlzIjo2MTYsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e07c35e0c4af0cfa&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MjRERTMwQTJENDM2RUZDMzAzREEyMzI1NjNFOEVCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dIMXZRaHk5QWk1UUtMRUlBSnBMUlRTMU1nVVBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaK1I7Iy4KvBhUCKAJDMywXQEqotDlYEGIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQJF82TbSdt5uENfG4nXjqLsX4YXZKfQM3Ay5EdbXNjlhA&oe=6ABEFB51"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1159200809156426"
+  },
+  {
+   "id": "1526216125410325",
+   "page_id": "630391443788169",
+   "page_name": "ד\"ר נעמה שוורץ כירופרקטית",
+   "page_url": "https://www.facebook.com/100063446966849/",
+   "page_like_count": 1025,
+   "page_categories": [
+    "Therapist"
+   ],
+   "ad_creative_link_title": "צרו קשר ונוכל לפתור את הבעיה",
+   "body": "סובלים מהצוואר?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1756018800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/536278229_808925338463566_1599011899397276549_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9tL9oww4mjkQ7kNvwGPGvv_&_nc_oc=AdpOI34oV2MQuNWXHk0BgB0C971fzSpkaR4IooTEnQ1BiedHELSAY6MIxYEgZece5N8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKVB-X0tKP8ZNj07kiBHYHDwrB95qCRPjpUPeLbksd0yQ&oe=6ABF16DF",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPClVzo56WIATTrCsqhm6Phzn8uVqE26Kql0n9Hx0T5yMOAugpco_A9BFlsLjscTH2y4Eh6AYH9jKs_Bn6ZebNK1J0cSDs2AvfhFSRdIG0BEg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x_mh78mBNHMQ7kNvwGUZnUn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMzI4NzkwNzEyMzEyNDIsImFzc2V0X2FnZV9kYXlzIjo1ODQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=bad39027fdf3550&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRjRFQzQ0MDA1RjNDQkRGOTE2NEU1QkZFQ0UyRUQ4OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dDNUpxUnhmTzh0QlpkZ0RBSlJNM1pCMHZnZDNidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaU9I354o_eBBUCKAJDMywXQELRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQI42Oju7Ev0wf9w8js7esjqZwzFQMojk2HuNOfQLPWn5g&oe=6ABF0352"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1526216125410325"
+  },
+  {
+   "id": "1802573427064942",
+   "page_id": "100994838722988",
+   "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+   "page_url": "https://www.facebook.com/100065857863569/",
+   "page_like_count": 2034,
+   "page_categories": [
+    "Health Service"
+   ],
+   "ad_creative_link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+   "body": "מיגרנות חוזרות הן לא רק כאב ראש. הן עומס שמצטבר בגוף ומשפיע על שגרת החיים שלך.\n\n❌ למה המיגרנה חוזרת גם אחרי הכדור?\n✔ כי הכדור מקל על הכאב, אבל לא על הגורמים שמייצרים אותו.\n\nבמקרים רבים הכאב הוא רק הסימן.\nלעיתים יש עומס מצטבר במבנה הצוואר והגב העליון, או דפוסי תנועה שמעמיסים על הגוף והמיגרנה היא הדרך שבה הגוף מגיב.\n\nבמרכז רפאל עובדים בגישה שמסתכלת על כל המערכת, לא רק על הסימפטום.\nהמפגש הראשון כולל בדיקה ידנית מעמיקה של דפוסי התנועה והמתח בגוף, ולאחריה טיפול ראשוני להקלה.\nבהמשך נבנית תוכנית טיפול אישית, שמשלבת כמה שיטות בהתאם לצורך: כירופרקטיקה עדינה, אוסטאופתיה, דיקור וטכניקות נוספות.\nבשיטת רפאל:\n✔ מפגש ראשון הכולל בדיקה ידנית מעמיקה וטיפול ראשוני\n✔ שילוב מקצועי של כמה שיטות טיפול בכל מפגש\n✔ התאמת תוכנית טיפול אישית ומעקב לאורך כל הדרך\n\n🎯 אם המיגרנות חוזרות פעם אחר פעם, יכול להיות שהגוף מאותת שמשהו צריך להשתנות.\n👉 השאירי פרטים ונחזור אליך בהקדם",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1767945600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/612907575_1425471782348059_156488657075361193_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5aJQQ0fnLXoQ7kNvwE3L0GL&_nc_oc=AdqJwovc-xBzXJjIiCw6nzR3JLvwH9jvMrHaMduh8u3RpyKTEgsrLew1ar6HBbuadHY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQK8J0PgDEq5HFhD7HQQND0JHhdOxUNAaMfj_vagCc0PLg&oe=6ABEFD17",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIVHjii-UBt9-shkPZvFdSElD0AeMGeKSTOQuaJIpEvtMtBctR-HxHk6MwbnpsYWfcwz4DC4upNw6cYvBE_CYx3C1B43XRZzrArpqW_bmFQA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yJmu2RKXtnAQ7kNvwFlD-C3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTQxOTQ0NTUzNjIwOTksImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4ba05665d9bdd8ab&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MTQ1Nzk0NDhDMzU5MUI0MzE4N0ZFOEY4MEFEMTk5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDc0QzJBOTI4MjJENUFGMEUwQzUzMTEwNENFNDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6MGMhMTMBBUCKAJDMywXQERHrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIDkKUP0OyW2XHn8Et2ExzM4IzE6OjZFGCZJSkcYYYpsw&oe=6ABF1356"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1802573427064942"
+  },
+  {
+   "id": "611831288130404",
+   "page_id": "630391443788169",
+   "page_name": "ד\"ר נעמה שוורץ כירופרקטית",
+   "page_url": "https://www.facebook.com/100063446966849/",
+   "page_like_count": 1025,
+   "page_categories": [
+    "Therapist"
+   ],
+   "ad_creative_link_title": "צרו קשר ונוכל לפתור את הבעיה",
+   "body": "איך מזהים סימנים ראשוניים לחרדה?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1739260800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/476869051_1181042843583689_7235366303505797901_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d-M6x4dufhUQ7kNvwH3RDto&_nc_oc=AdpUbjbcH0hO22rxCWDGaWe7vAuCU6KykwVBRmyS64FklWwznGKJ20R-GzoLbdLTeBI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJ2xb89r31cTGe1WeUKRAsDrogHG43NCvtonhRvTNBQFA&oe=6ABF17AA",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMVukC6CY4RpVx1S9KIcse338UUiAPKy8upkoxo9RbtdOdNmuXqoEO-uvrzf8Alqz_2xtw56Y-__kjBnD9IBdH9cVt52JByldUZGQ00XCATcQ.mp4?_nc_cat=103&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Egz4TvAVCNMQ7kNvwGqa4e2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzAwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYzNDM5MDE4OTExNjM3MCwiYXNzZXRfYWdlX2RheXMiOjYxNiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEwNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3971f4e551eecbc4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzRBQkE4Q0Q4RDAyNEE3NkQyNDQ4MzkwNjc4QTRCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQRWRReHhTWUt4UTlGQWdBSnJwTjh4TVhRbzZidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakr_idr76gAhUCKAJDMywXQFod0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLbseqFPHjGV5Je15f-EXh9XjYumhquYDhgMv3o7Xruew&oe=6ABF2BF1"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=611831288130404"
+  },
+  {
+   "id": "3347327595467833",
+   "page_id": "797585860085193",
+   "page_name": "איכות חיים ללא כאב",
+   "page_url": "https://www.facebook.com/61579723695747/",
+   "page_like_count": 2113,
+   "page_categories": [
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "סוף לסיאטיקה בלילה | 4,000+ ישנים מרוצים 👉",
+   "body": "\"שנים נאבקתי בכאבי ירך וגב תחתון בלילה. ניסיתי המון פתרונות, כלום לא עזר… עד עכשיו. אני מניחה את כרית היישור של נומה לפני שאני נרדמת, והיא נשארת במקום כל הלילה. כאבי הסיאטיקה שלי נרגעו, ואני סוף סוף ישנה לילה שלם. זה אולי נשמע מוגזם, אבל הכרית הזאת ממש שינתה לי את החיים.\"\n⭐⭐⭐⭐⭐\n— ניצה ב.\n\n✅ הקלה בסיאטיקה ובכאבי ירך לשינה עמוקה ורגועה\n❌ חיסכון בכסף על משככי כאבים וטיפולי כירופרקטיקה\n\nhttps://mynuma.store/products/numa-siderest",
+   "link_description": "30 יום ללא סיכון | 🚚 משלוח חינם עם מעקב",
+   "landing_url": "https://mynuma.store/products/numa-siderest",
+   "cta_type": "SHOP_NOW",
+   "cta_text": "לקנייה",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1790060400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "WHATSAPP",
+    "THREADS"
+   ],
+   "collation_count": null,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/821123771_1814841269505569_4337546644794083515_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Pf_7biIKAAQ7kNvwFIgGmt&_nc_oc=AdrKNdz1LZcxRpM0gNteKVbH76LP_xSZwgvakZdr4NVWVd75dDxGQTrnw9m8zpS6JsA&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQI9Yn8MDjD_JKz_VqwW5mAYFrzJBAYRY0nX6G8MO-0rdw&oe=6ABF0D1E",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNVRUcQ6oL66c7q-ikqBTGAqtATS0KXiLmnPMXmtnNAk9GxNik4oYZSE2tcHA6rpJlwV2I0ZMwdxt2lingg_AAhEj4Fy8wBzKvSVVpJ1kRLHw.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=4lJWPJkcGHcQ7kNvwETpkVO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDE3MDM4MzU2ODk0MDIsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=98a482628af0c0f9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83OTQ5QzFCRDdEQ0ZBQzM5QkUyRUQ1ODBCOTIzNTU5M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwQkE5MUQ1NjQxMTQzRThCNUZDNDcxMEE1ODkyOEI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0hrGczf_0AxUCKAJDMywXQEdAgxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQI91NtgzCergpszR0NccQRUyNM6e_PO4g7JkuJmTjI6ew&oe=6ABF251C"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3347327595467833"
+  },
+  {
+   "id": "4699411226960461",
+   "page_id": "105106695634690",
+   "page_name": "הנתיב לשיקום - המרכז לשיקום לאחר פציעה",
+   "page_url": "https://www.facebook.com/nativclinic/",
+   "page_like_count": 283,
+   "page_categories": [
+    "Therapist",
+    "Health Service",
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "52 מ״ר, 4 חדרים · 3,500 ₪ לחודש",
+   "body": "משרד להשכרה בליגד סנטר 2, מודיעין.\n\n52 מ״ר ברוטו, 4 חדרים — חדר ישיבות, אופן ספייס ושני חדרים סגורים. החלוקה קיימת ועובדת, אפשר להיכנס ולהתחיל לעבוד בלי שיפוץ.\n\nמזגן בכל חדר, פינת מטבחון מוגדרת, פרקט בכל המשרד, קומה 1 עם מעלית ונגישות מלאה, שמירה וגישה לבניין 24/7, חניה.\n\nמתאים למשרד רואי חשבון, עורכי דין, סוכנות ביטוח, אדריכלות, ייעוץ ומשרדי שירות קטנים, וגם לרפואה, כירופרקטיקה או קוסמטיקה.\n\n3,500 ₪ לחודש. כניסה גמישה החל מ-1 באוקטובר. הנכס נמסר ריק, ללא תיווך.\n\nשלחו הודעה ונתאם צפייה.",
+   "link_description": "ליגד סנטר 2, מודיעין · כניסה מ-1 באוקטובר",
+   "landing_url": "",
+   "cta_type": "MESSAGE_PAGE",
+   "cta_text": "שליחת הודעה",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1790060400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 2,
+   "images": [
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796709572_1809202013849117_8853783017173787819_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7T9P6tdkRaMQ7kNvwHVDqfP&_nc_oc=Adpo5z9HmtdZ6VGB_BD4JFMF-ILNkopdwy6f4phY2J-tTmzoBgKiRaePV5GsClLrMH4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLmgavy-LdlR2DiKg_P7khk0e4DeTRXd3nuHs1RzoXs_Q&oe=6ABF1AD3"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=4699411226960461"
+  },
+  {
+   "id": "3431594980354579",
+   "page_id": "105106695634690",
+   "page_name": "הנתיב לשיקום - המרכז לשיקום לאחר פציעה",
+   "page_url": "https://www.facebook.com/nativclinic/",
+   "page_like_count": 283,
+   "page_categories": [
+    "Therapist",
+    "Health Service",
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "52 מ״ר, 4 חדרים · 3,500 ₪ לחודש",
+   "body": "משרד להשכרה בליגד סנטר 2, מודיעין.\n\n52 מ״ר ברוטו, 4 חדרים — חדר ישיבות, אופן ספייס ושני חדרים סגורים. החלוקה קיימת ועובדת, אפשר להיכנס ולהתחיל לעבוד בלי שיפוץ.\n\nמזגן בכל חדר, פינת מטבחון מוגדרת, פרקט בכל המשרד, קומה 1 עם מעלית ונגישות מלאה, שמירה וגישה לבניין 24/7, חניה.\n\nמתאים למשרד רואי חשבון, עורכי דין, סוכנות ביטוח, אדריכלות, ייעוץ ומשרדי שירות קטנים, וגם לרפואה, כירופרקטיקה או קוסמטיקה.\n\n3,500 ₪ לחודש. כניסה גמישה החל מ-1 באוקטובר. הנכס נמסר ריק, ללא תיווך.\n\nשלחו הודעה ונתאם צפייה.",
+   "link_description": "ליגד סנטר 2, מודיעין · כניסה מ-1 באוקטובר",
+   "landing_url": "",
+   "cta_type": "MESSAGE_PAGE",
+   "cta_text": "שליחת הודעה",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1790060400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": null,
+   "images": [
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796709572_1809202013849117_8853783017173787819_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7T9P6tdkRaMQ7kNvwHVDqfP&_nc_oc=Adpo5z9HmtdZ6VGB_BD4JFMF-ILNkopdwy6f4phY2J-tTmzoBgKiRaePV5GsClLrMH4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLmgavy-LdlR2DiKg_P7khk0e4DeTRXd3nuHs1RzoXs_Q&oe=6ABF1AD3"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=3431594980354579"
+  },
+  {
+   "id": "1017049047621423",
+   "page_id": "1170505606137380",
+   "page_name": "דניאל בר-לב",
+   "page_url": "https://www.facebook.com/61590051144259/",
+   "page_like_count": 0,
+   "page_categories": [
+    "Personal blog"
+   ],
+   "ad_creative_link_title": "סיאטיקה זה לא צחוק. אצלי, מה שהדליק את זה היה ישיבה ממושכת.",
+   "body": "סיאטיקה זה לא צחוק. אצלי, מה שהדליק את זה היה ישיבה ממושכת.\n\nסבלתי מזה עם הפסקות במשך 7 שנים. 7 שנים של זרמים חשמליים שורפים מהגב התחתון, למטה דרך הירך ועד לחלק האחורי של השוקיים.\n\nכמו סכין חמה שמושכים לי בתוך הגוף. אני לא יכולה לספור כמה לילות בלי שינה זה עלה לי...\n\nעד שלפני 6 חודשים, נתקלתי בכתבה הזאת. פיזיותרפיסט הסביר שיש כרית ישיבה מיוחדת שיכולה להוריד את הלחץ מעצב הסיאטיקה ולהקל על הכאב בזכות המבנה שלה: תאים קטנים של ג'ל בצורת כוורת שמפזרים את המשקל, ככה שאף נקודה לא סופגת את כל הלחץ והגוף פשוט צף.\n\nבתיאוריה, זאת הדרך הבטוחה היחידה להפסיק את הלחץ שיוצר את הכאב, יום אחרי יום. אבל עדיין לא ממש האמנתי.\n\nאחרי 7 שנים של כאבי תופת, למדתי בדרך הקשה מה ההבדל בין תיאוריה למציאות. ובכל זאת, זה הגיע עם 60 ימי ניסיון בבית, החזר מלא בלי שאלות ומשלוח חינם.\n\nאז חשבתי שאין לי מה להפסיד. הזמנתי אותה.\n\nהפעם הראשונה שישבתי עליה הייתה פשוט נוחה יותר. זה לא העלים את הכאב.\n\nלא ציפיתי שזה יקרה. אבל זאת הייתה הקלה.\n\nבפעם השנייה הרגשתי יותר טוב. יכולתי להרגיש איך הלחץ משתחרר לי מהגב.\n\nזה עזר לשחרר שרירים שהיו תפוסים במשך שנים. פשוט התחלתי להשתמש בה בכל פעם שישבתי.\n\nבמשרד, באוטו, בערב מול הטלוויזיה. אחרי בערך 10 ימים, שמתי לב למשהו:\nעברו יומיים שלמים בלי הסכין החמה הזאת ברגל.\n\nואז 3 ימים. ואז שבוע.\n\nתוך 3 שבועות, חזרתי ללכת בקצב הרגיל שלי. בלי זרמים פתאומיים.\n\nבלי רגליים כבדות. אני משתמשת בה כבר 6 חודשים.\n\nעדיין יש לי מדי פעם כאב קטן אם אני יושבת יותר מדי זמן בלי הכרית. אבל לא היה לי יום רע, מהסוג שמשאיר אותי מכופפת, כבר יותר מ-5 חודשים.\n\nבמשך השנים ניסיתי פיזיותרפיה, דיקור, תוספי תזונה, זריקות, כירופרקטיקה ומכשירי TENS. אפילו עברתי ניתוח איחוי חוליות לפני שנתיים.\n\nהכאב תמיד חזר. שום דבר לא התקרב לזה.\n\nזה עובד בשביל כולם? אני לא יודעת.\n\nכל גוף הוא שונה. אבל זאת לא רק אני.\n\nקניתי אחת לאחותי. יש לה היצרות של עמוד השדרה, 3 פריצות דיסק, והיא סובלת במשך שנים מרגליים שורפות ורדומות.\n\nאחרי חודש, היא אמרה לי שזאת ההקלה הכי גדולה שהיא הרגישה בגב וברגליים שלה מזה שנים. וזה אומר משהו.\n\nאם נמאס לכם מביקורים אצל רופאים שנגמרים עם אותה עצה ישנה ואותם פתרונות זמניים, אתם באמת צריכים לבדוק את Selera. הנה עוד מידע:\nhttps://selera.co.il/pages/sciatica-report",
+   "link_description": "מגזין הבריאותבריאות ‹ כאבי גב ‹ סיאטיקה פיזיותרפיסט בכיר: \"זו הדרך המהירה ביותר להיפטר מסיאטיקה, אחת ולתמיד\" מי שסבל מכאב כרוני חושף את השקר של תעשיית כאבי הגב בשווי...",
+   "landing_url": "https://selera.co.il/pages/sciatica-report",
+   "cta_type": "LEARN_MORE",
+   "cta_text": "מידע נוסף",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1786345200,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "WHATSAPP",
+    "THREADS"
+   ],
+   "collation_count": null,
+   "images": [
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/758589458_4611380909094016_3040934261938927513_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YNOcqX3fmC4Q7kNvwFRXaCD&_nc_oc=Ado7wluEv7JyR5QvgBIjC1i2iOGHJG4DoOjHhbiOJmg4MeWAVHrFc__dZOFbbmQz16s&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJcNoWrdoAO2nytYzCh_2jiZ2CZsGMCsAni9bvdOon1Cg&oe=6ABF1DCA"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1017049047621423"
+  },
+  {
+   "id": "755882360736892",
+   "page_id": "630391443788169",
+   "page_name": "ד\"ר נעמה שוורץ כירופרקטית",
+   "page_url": "https://www.facebook.com/100063446966849/",
+   "page_like_count": 1025,
+   "page_categories": [
+    "Therapist"
+   ],
+   "ad_creative_link_title": "צרו קשר ונוכל לפתור את הבעיה",
+   "body": "סובלים מכאבי ראש?\nאיך אפשר לטפל בשורש הבעיה?\nנעים מאוד, שמי ד\"ר נעמה שוורץ, כירופרקטית בכירה עם למעלה מ 25 שנות ניסיון.\nאני מטפלת בשיטה ייחודית שפיתחתי - כירופרקטיקה בשילוב גוף ונפש.\n\nצרו איתי קשר ונוכל לפתור את הבעיה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1756018800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/538862005_1479884309813765_6843253574906370338_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rhAZiKbUPZMQ7kNvwHjYM3d&_nc_oc=AdpZWOPtxMX4trUpxkEmJGsYwI8tugFjYFUboev_Hk-JZuyUXF3Rgh3qBZv4ikRJSIc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLksR51wvFRGIZ-WEw7HSqL4IZjRq9Y1a_cxABahv4Xsg&oe=6ABF2B67",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPapH4GpkN74y-A03gHCqpzy4-tzaMRo_o3sbcKr15LytJ1gQmMb_fgLmgyxBLHIYfeYvFYD3No6JDMgBjfIu8An5VNwRiINUEVM3mqyHGnng.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=4zWff4bJOsYQ7kNvwG5rwgU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM5NjU1NTYxMjM3MjE5NjksImFzc2V0X2FnZV9kYXlzIjo1ODQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c94a5dac524981e6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85OTQyOTcwMTEwMERBRjBFQTIxNjkyMzExMDkxODA4Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCMkZuUndWMWNjaFhSc0VBQnBfaGhDR3ExbHhidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbig7vB36mLDhUCKAJDMywXQErqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIykjpdDBXAbyR93u7-Ql3pfvvTQ3jOhe_JKWqoiickQA&oe=6ABEFE11"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=755882360736892"
+  },
+  {
+   "id": "1633990454805714",
+   "page_id": "114686200362096",
+   "page_name": "The Wellness Standard",
+   "page_url": "https://www.facebook.com/100075937452590/",
+   "page_like_count": 168,
+   "page_categories": [
+    "Sports"
+   ],
+   "ad_creative_link_title": "סוף סוף הקלה אמיתית",
+   "body": "זה בדרך כלל מתחיל במתח בבסיס הגולגולת. הסוג שאתה מאשים בתנוחה. או בלחץ.\n\nאולי זו פשוט הדרך שישנת. אולי הסתכלת על המחשב יותר מדי זמן.\n\nאז אתה מתעלם מזה.\n\nרוב האנשים עושים את זה.\n\nאבל מה שהם לא יודעים, הוא שהמתח הלכאורה תמים הזה דוחס בשקט אחד העצבים החשובים ביותר בגוף.\n\nעצב הוואגוס.\n\nרוב האנשים מעולם לא שמעו עליו.\n\nובכל זאת, עצב אחד זה שולט בקצב הלב שלך, בעיכול, בשיווי המשקל, בנשימה ובתגובת הלחץ שלך.\n\nכשהוא נלחץ בבסיס הגולגולת – נדחס על ידי שרירי צוואר מכווצים כרונית – הוא מתחיל לשלוח אותות מבולבלים לאיברים.\n\nזו הסיבה שסחרחורת, דפיקות לב, ריפלוקס, ערפל מוחי וחרדה מופיעים לעיתים קרובות בו זמנית.\n\nלא כי יש לך חמישה בעיות נפרדות.\n\nאלא כי עצב אחד דחוס לא עובד כמו שצריך – והוא שולט בכל חמשת המערכות.\n\nוזה מה שהופך את כל זה לכל כך מתסכל:\n\nאף כדור לא פותר דחיסת עצב.\n\nאף מתיחה לא מגיעה לשרירים העמוקים שגורמים לה.\n\nאף בדיקה רפואית סטנדרטית לא מסוגלת לאתר אותה כלל.\n\nלכן הבדיקות שלך ממשיכות לחזור \"תקינות\" – בזמן שאתה מרגיש הכל חוץ מתקין.\n\nלמה הרופאים ממשיכים לפספס את זה:\n\nעבדתי עם מאות מטופלים שחוו את אותו סיוט.\n\nהם הולכים לקרדיולוג עם דפיקות לב. \"הלב שלך בסדר גמור. כנראה רק חרדה.\"\n\nהם הולכים לגסטרואנטרולוג עם ריפלוקס ובחילות. \"נסה omeprazol. כנראה תסמונת המעי הרגיז.\"\n\nהם הולכים לרופא אף-אוזן-גרון עם סחרחורת. \"תפקוד שיווי המשקל נראה תקין.\"\n\nהם הולכים לנוירולוג עם ערפל מוחי. \"יכול להיות מיגרנה. הנה מרשם.\"\n\nכל מומחה מסתכל על מערכת האיברים שלו.\n\nאף אחד לא מסתכל על העצב שמנהל את כולם.\n\nכי המערכת הרפואית לא בנויה לחשוב בצורה הזו.\n\nמטפלים בתסמינים בנפרד. לא במערכת הבקרה המשותפת שמחברת ביניהם.\n\nוהנה הדבר הגרוע ביותר:\n\nגם כשהרופאים חושדים שהצוואר מעורב, הטיפולים הסטנדרטיים לא עובדים.\n\nמתיחות לא מגיעות לשרירים הצוואריים העמוקים שבהם הדחיסה מתרחשת.\n\nעיסוי פוגע רק בשרירים השטחיים. השרירים התת-עורפיים ליד C1–C2 נשארים נעולים בעווית.\n\nכירופרקטיקה עוזרת באופן זמני, אבל ללא שחרור מתח הפאשיה הכל חוזר לדחיסה תוך 48 שעות.\n\nפיזיותרפיה לעיתים קרובות מחמירה את המצב כי מחזקים שרירים שכבר נמצאים בעווית כרונית – וזה רק מוסיף עוד מתח.\n\nתרופות מסוות את התסמינים, אבל לא עושות דבר כדי לשחרר את דחיסת העצב האמיתית.\n\nהבעיה נמשכת. התסמינים חוזרים. התסכול גדל.\n\nמה שבאמת גורם לכל זה:\n\nממש בראש הצוואר – ליד C1 ו-C2, שם הגולגולת פוגשת את עמוד השדרה – יושבים שרירים קטנים ועמוקים הנקראים שרירים תת-עורפיים.\n\nשרירים אלה אמורים לאפשר תנועות ראש חלקות ולהגן על העצבים שעוברים דרך האזור.\n\nאבל כשהם מתכווצים כרונית – בגלל תנוחה רעה, לחץ, פציעות ישנות, שנים מול מסך או גלילה מתמדת עם הראש כפוף למטה לכיוון הטלפון – הם עושים משהו הרסני:\n\nהם דוחסים את עצב הוואגוס ואת עצב הגלוסופרינגאוס כשהם יוצאים מגזע המוח.\n\nהם לא פוגעים בהם. הם לוחצים עליהם.\n\nבדיוק כמו שאתה דורך על צינור גינה.\n\nהמים לא עוצרים. הם פשוט מצטמצמים. לחוצים. כאוטיים.\n\nאותו הדבר קורה לאותות העצביים.\n\nכשעצב הוואגוס דחוס, הוא שולח מסרים מעוותים לגוף:\n\n← ללב: \"האצל! משהו לא בסדר!\" דפיקות לב אקראיות. דופק מהיר. פעימות לא סדירות.\n\n← למערכת העיכול: \"כבה!\" ריפלוקס. נפיחות. בחילה. בעיות מעיים.\n\n← למרכזי שיווי המשקל: \"משהו לא בסדר!\" סחרחורת. תחושת ריחוף. חוסר יציבות.\n\n← לנשימה: \"אין מספיק אוויר!\" לחץ בגרון. נשימה שטחית.\n\n← למערכת הלחץ: \"להילחם או לברוח!\" חרדה. פאניקה. לא מצליח להירגע. לא מצליח למצוא מנוחה.\n\nהגוף שלך לא שבור.\n\nהוא מקבל הוראות שגויות מעצב דחוס.\n\nובדיקות רפואיות סטנדרטיות לא מסוגלות לאתר מתח שרירים או דחיסת פאשיה.\n\nלכן ה-MRI חוזר תקין. האק\"ג נראה תקין. בדיקות הדם שלך מושלמות.\n\nאבל אתה עדיין מרגיש נוראי.\n\nשלושת הדברים שנדרשים כדי לפתור את זה:\n\nאחרי שנים של עבודה עם מטופלים אלה, זיהיתי בדיוק מה נדרש כדי לשחרר את הדחיסה העצבים-וסקולרית:\n\n1. חום טיפולי עמוק\nלא חום שטחי מכרית חמה. חום חודר שמגיע לשרירים התת-עורפיים ליד C1–C2. זה מגביר את זרימת הדם, משחרר את הפאשיה ומכין את הרקמה לשחרור.\n\n2. גירוי שרירים חשמלי (EMS)\nדחפים חשמליים מדויקים שפוגעים בנקודות הטריגר בשרירי הצוואר העמוקים. גירוי שרירים חשמלי מאלץ את השרירים המכווצים לשחרר – משהו שטיפול ידני לא מגיע אליו.\n\n3. דקומפרסיה צוארית\nזווית ספציפית שיוצרת מרווח בין C1 ל-C2 ומסירה את הלחץ הישיר מעצב הוואגוס ועצב הגלוסופרינגאוס. זה מאפשר לאותות לזרום כראוי שוב.\n\nכשמשלבים את שלושתם, קורה משהו מרשים:\n\nהעווית השרירית הכרונית נשברת.\n\nזרימת הדם חוזרת.\n\nדחיסת העצב משתחררת.\n\nהגוף שלך מפסיק לקבל אותות מבולבלים.\n\nוהתסמינים – הסחרחורת, דפיקות הלב, כאוס העיכול, החרדה – מתחילים להיעלם.\n\nלא כי \"למדת לחיות איתם\".\n\nאלא כי פתרת את הבעיה המכנית שגרמה להם.\n\nהבעיה בקבלת הטיפול הזה:\n\nבמשך שנים, טיפול מסוג זה כלל מספר התייעצויות פרטיות בשבוע.\n\n₪1,500–₪2,200 לטיפול.\n\nשלוש פעמים בשבוע.\n\nאנשים הוציאו ₪18,000–₪26,000 בחודש רק כדי לקבל הקלה.\n\nזה עבד. אבל זה היה בלתי נגיש לחלוטין לרוב האנשים.\n\nאז התחלתי לחפש פתרון ביתי שיוכל לספק את אותם שלושת המנגנונים.\n\nבדקתי עשרות מכשירים.\n\nיחידות TENS זולות. כריות חמות. מכשירי עיסוי. כריות צוואר מקצף.\n\n95% היו חסרי ערך.\n\nהרגישו נוחים, אבל לא הגיעו למבנים הצוואריים העמוקים שבהם הדחיסה אכן מתרחשת.\n\nאז מצאתי את Nervier™.\n\nמה שהופך אותו לשונה:\n\nהפורמולה Nervier™ היא המכשיר הראשון שראיתי שמספק את שלושת המנגנונים בו זמנית:\n\n✅ חום טיפולי מכויל שחודר לשרירים התת-עורפיים (לא רק מחמם את העור)\n\n✅ גירוי שרירים חשמלי ברמה קלינית שפוגע בנקודות הטריגר המדויקות סביב C1–C2\n\n✅ דקומפרסיה צוארית מדויקת – המיקום המדויק הנדרש להסרת הלחץ מעצב הוואגוס\n\n✅ עיסוי רקמות עמוק שמשחרר את הרקמה החיבורית שמחזיקה את השרירים נעולים בעווית\n\nחמישה עשר דקות ביום. בבית.\n\nללא תורים. ללא מרשמים. ללא רשימות המתנה.\n\nאותו טיפול ברמה קלינית שעזר לאנשים במשך שנים – זמין עכשיו לכולם.\n\nמה אנשים מספרים:\n\nלירון, בת 52, סבלה מסחרחורות במשך שנתיים. היא ביקרה אצל שישה מומחים. הוציאה אלפים על התייעצויות פרטיות.\n\n\"שלושה שבועות עם Nervier™ כל יום, והנדנוד המתמיד סוף סוף עצר. בכיתי כשהבנתי שאני מרגישה יציבה שוב.\"\n\nמיכאל, בן 58, סבל מערפל מוחי ודפיקות לב שהרופא שלו ייחס לחרדה.\n\n\"אחרי ארבעה שבועות הערפל התפוגג, והלב שלי הפסיק לדהור בלי סיבה. אני מרגיש כמו עצמי בפעם הראשונה מזה שנים.\"\n\nאנה, בת 55, לא יכלה לנהוג במשך 18 חודשים בגלל סחרחורת קשה.\n\n\"שמונה שבועות עם Nervier™, ונסעתי לבתי שגרה שעתיים ממני. הפעם הראשונה מזה יותר משנה.\"\n\nזה מה שקורה כשמשחררים את הדחיסה – ומערכת העצבים סוף סוף יכולה לתפקד כמו שצריך.\n\nזה מה שאתה צריך לדעת:\n\nאם הבדיקות שלך ממשיכות לחזור \"תקינות\", אבל אתה עדיין חווה:\n\n✔ סחרחורת או תחושה של \"חוסר שיווי משקל\"\n✔ לב שדופק או מרעיד ללא סיבה ברורה\n✔ בעיות עיכול (ריפלוקס, נפיחות, בחילה)\n✔ ערפל מוחי שלא חולף\n✔ לחץ בגרון או נשימה שטחית\n✔ חרדה או תחושה שאף פעם לא מצליח להירגע\n\nהבעיה לא נמצאת בלב, בבטן או במוח.\n\nהיא נמצאת בבסיס הגולגולת.\n\nואתה לא צריך עוד התייעצות שלא מובילה לשום מקום.\n\nאתה צריך לשחרר את הדחיסה הצוארית העמוקה שלוחצת על העצב השולט בכל גופך.\n\nהפורמולה Nervier™ עושה בדיוק את זה.\n\nכרגע אנחנו מציעים 50% הנחה עם אחריות כספית מלאה ל-60 יום.\n\nאם הסחרחורת לא פוחתת, דפיקות הלב לא עוצרות ואתה לא מרגיש טוב יותר באופן ניכר – מחזירים את המכשיר ומקבלים את כל הסכום בחזרה.\n\nאבל אם הערפל מתפוגג, הלב נרגע ואתה סוף סוף מרגיש יציב שוב –\n\nתתהה למה אף אחד מעולם לא אמר לך שכדאי לבדוק את הצוואר.\n\n👇 ראה איך זה עובד:",
+   "link_description": "⭐️⭐️⭐️⭐️⭐️ (4.9/5)",
+   "landing_url": "https://www.lustira.com/il-nervier/adv",
+   "cta_type": "LEARN_MORE",
+   "cta_text": "מידע נוסף",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1789196400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "WHATSAPP",
+    "THREADS"
+   ],
+   "collation_count": 1,
+   "images": [
+    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/806887773_4353549721455112_4297258917402547591_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BrJI65XzrycQ7kNvwG2jArn&_nc_oc=AdpeCh1VO_ffID5fYLuJHX0J0GwcFc4sXePo_2SUR_7RvxGMU2erEPUvbWU2wq6mc2c&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQIpP8gyVF6IJvYwVfpMp2anfh3Nwicrulp6YMjpwhw33g&oe=6ABF0488"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1633990454805714"
+  },
+  {
+   "id": "2156966341902223",
+   "page_id": "797585860085193",
+   "page_name": "איכות חיים ללא כאב",
+   "page_url": "https://www.facebook.com/61579723695747/",
+   "page_like_count": 2113,
+   "page_categories": [
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "סוף לסיאטיקה בלילה | 4,000+ ישנים מרוצים 👉",
+   "body": "\"שנים נאבקתי בכאבי ירך וגב תחתון בלילה. ניסיתי המון פתרונות, כלום לא עזר… עד עכשיו. אני מניחה את כרית היישור של נומה לפני שאני נרדמת, והיא נשארת במקום כל הלילה. כאבי הסיאטיקה שלי נרגעו, ואני סוף סוף ישנה לילה שלם. זה אולי נשמע מוגזם, אבל הכרית הזאת ממש שינתה לי את החיים.\"\n⭐⭐⭐⭐⭐\n— ניצה ב.\n\n✅ הקלה בסיאטיקה ובכאבי ירך לשינה עמוקה ורגועה\n❌ חיסכון בכסף על משככי כאבים וטיפולי כירופרקטיקה\n\nhttps://mynuma.store/products/numa-siderest",
+   "link_description": "30 יום ללא סיכון | 🚚 משלוח חינם עם מעקב",
+   "landing_url": "https://mynuma.store/products/numa-siderest",
+   "cta_type": "SHOP_NOW",
+   "cta_text": "לקנייה",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1790060400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "WHATSAPP",
+    "THREADS"
+   ],
+   "collation_count": null,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/821175832_959942073133797_605943446409594368_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GY_D5WrCSe8Q7kNvwFR9o8O&_nc_oc=AdpomdGK7KnIgGcFYsd-mIE_uuuUPWbdTnEpK6Wok6DU50wMLyevVydfFMeo8PFg7qw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKgzmm3WTF2xKk2Ts22rldPGrrvd_YBfr6b0FMw9l3RRA&oe=6ABF0F71",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPQWK_xMxK3Fl52Qv4EhwYYZSA0HCI_2iXRt0Aq9N8oQfi6AoToAmTH29aXeepnxR17qWh2ZID4PhCO4Q7jltsvQJpnpz-MziNXpRjU3K_WUA.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=_KJI49xFJ6YQ7kNvwGMM9a7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzAzMDAyNjkxMjk0MTEsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2000bc82fe2e195f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRjQ0NUE1Qjk0MTIwNTNBODhERTc2N0Q3RDhCOUZCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JENDIyNjJDNzgwMTQyMkY5M0I5OTY4QkREQjk1QzZCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGu8G11tvmAxUCKAJDMywXQEdAgxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKNr9qMm2Xw2ywK2-37J8XvIZZGzNLz2VStbggMY6Sn2w&oe=6ABF147C"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2156966341902223"
+  },
+  {
+   "id": "902796815966935",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "<< לפרטים נוספים",
+   "body": "הכאב מגביל את ההתקדמות שלכם באימונים?\nלהחליף תרגיל לא פותר את שורש הבעיה. אבחון שיקומי מדויק יזהה בדיוק איך הגוף שלכם זז תחת עומס.\nלפרטים ותיאום בדיקה ראשונית, תשלחו הודעה👇",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1788764400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 2,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/798489095_2981437772188759_7391175984518623779_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-AwIg5n5gu0Q7kNvwEtsuWA&_nc_oc=AdousPVT2ZGqWmFXh86t4N-Z36jZyRdMizPo-gbKRjNK5S625q7pFfalHv1V7toJi-I&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJcSE-I5sd93smil62rLSwsI-Z4gXVLF2f0lqXy52LoSw&oe=6ABEF988",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQODx9SGxzrSLHa8qXyg6-f4s5-ojAG6bm0e2gQUAVro8gg-vd3vNX4HlKi2khZEVcItCGASnEZmY3D68Q8QLOcGwVykmRiyIkUU9CTj3hPimw.mp4?_nc_cat=104&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=BVyXbzxwOwcQ7kNvwGG-ttv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5OTQ3MzUzOTEyMzk3MDQsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=20d0969c82263e70&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDQ2RTZBQUNBMDMxMTREREY0NjdCNDRBNjExQjY4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNDBFMzQwRTg1NzExNDkzQjBERkMzN0M3MDE4OEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawuNPm8IyLBxUCKAJDMywXQEHZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQL8Ff2zCwRbzs1NIH-HJyBOYXMmlpeNTHWVfdjpV51r5A&oe=6ABEFD54"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=902796815966935"
+  },
+  {
+   "id": "852963897366151",
+   "page_id": "100994838722988",
+   "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+   "page_url": "https://www.facebook.com/100065857863569/",
+   "page_like_count": 2034,
+   "page_categories": [
+    "Health Service"
+   ],
+   "ad_creative_link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+   "body": "❌ פריצת דיסק? זו לא גזירת גורל! ✅\nכמה פעמים שמעתם את המשפט \"\"עם פריצת דיסק פשוט לומדים לחיות\"\"?\nהאמת - זו טעות שעלולה לפגוע בבריאות שלכם לטווח הארוך.\nבטיפול קונבנציונלי תרופות וזריקות מטרתן היא לטשטש את הכאב, שהוא בסך הכול הסימפטום.\nהבעיה האמיתית היא חוסר תפקוד של עמוד השדרה והמערכת העצבית, שמונע מהגוף ריפוי והחלמה.\nבשיטת רפאל הטיפול בפריצת דיסק משלב בכל מפגש טכניקות שונות בהתאמה אישית למצבו של כל מטופל (כירופרקטיקה/קרניוסקראל/דיקור/רפואה סינית ועוד) כדי להחזיר לגוף את היכולת לרפא את עצמו - באופן טבעי, ללא ניתוחים או תרופות.\n✔ מעל 30 שנות ניסיון מצטבר\n✔ מעל 11 אלף מטופלים - כולל ספורטאי ליגות העל \n ✔טיפול מותאם אישית בכל מפגש, בליווי צוות מומחים שעובדים בשיתוף פעולה מקצועי קליני לפי שיטת רפאל\n✔תהליך ריפוי אמיתי שמחזיר את הגוף לתפקוד באופן טבעי \n ✔אחריות מלאה על פגישת האבחון - אם לא מצאנו בפגישת האבחון את הסיבה האמיתית לכאב - כספכם יוחזר.\nאין צורך להתחייב מראש - דברו איתנו, קבלו תשובות מקצועיות ותגלו אם שיטת רפאל מתאימה לכם, בלי סיכון ובלי התחייבות.\n📍מרכז רפאל - ברזאני 4, תל אביב\nשלחו עכשיו וחזרו לחיים ללא כאב.",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1767945600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/613446272_1767378580487218_5265818655021184531_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rRHsWVscOf8Q7kNvwEWvcOk&_nc_oc=AdpMv2URyfH61Jtl-En8WgL1X_vzdRjdOUAzmoFzLUmDy6uPCZbyZdvy8y6KUjWAHpk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKQHYPIYuizpYTst4HZRJdzz8BKwlzeyeZGVmUwsR3UXg&oe=6ABF224F",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNzZ8X57Oa5icWM5qy7LqyMH_JM6lOQnbxRaw85xPt78JdjaW46qwipOes7Ue2nOKqScwS6_VDkDwCn6hHqn0eRjV-QAEP3jxYott3Srz3gow.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=7v0iE9gx5nYQ7kNvwEiz_G6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzk2NDg3NjMyMTU0MzMsImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9b601f1c9ea1daae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QzQ0OUY4MTcxRTBGMDM0RTAyODlFRjkxQkY2OEJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y1NDkwOEQwODdBRkFFQkZFRUVCMzE1RjNDMUQ1OTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS-Z_P27z6BxUCKAJDMywXQEd1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLUdLMwRf5urWLUEuX9cvjQA-u36E38GuYRXNRZvR2raw&oe=6ABF1FDE"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=852963897366151"
+  },
+  {
+   "id": "1072197911843844",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "אם תפסתם את עצמכם נמנעים מתנועות מסוימות או מוותרים על תחביבים רק כדי \"לא להעיר את הכאב\", זה הזמן לעצור.\nטיפול שיקומי מדויק אצל ד\"ר תום שי בהרצליה יחזיר לכם את הביטחון בגוף ואת איכות החיים שמגיעה לכם.\n\nרוצים לקבוע אבחון ראשוני?\nלפרטים ותיאום תור, שלחו לנו הודעה בווצאפ 🔗👇\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1788937200,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 3,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/751220337_1390263486578147_3380390360251749513_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1eeEep68PWYQ7kNvwE9EqIJ&_nc_oc=Adp6pZPJjUc_WodK2rHW0k3XCY3Tl-tmlaE1GquQL2vT6m6UlPckjkOaN6YJBFrSchg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKGtkXLHfD4-FkataKO00mPK5OpU62mMfi3GGytWT9kxg&oe=6ABF13DA",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOlkTwwn3x_aPoj_krhvgQfH97GsrwUs49dqUEeIlW-Y_l2mP-x4MGFuOOPKepxW_qb5TnDpzG1caWOEy-fKFIfKtTDEjAMn6ubXvELZNLZzQ.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=UhplZDNNzIAQ7kNvwEQG7Hs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNDYzOTQ0MDUyMTg4MzksImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=28c64cdcec2b6541&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MzQxNjA3NDk1N0ZEQzQzNUZENDNGQ0VBQ0M2OERBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5NEYwNjVGQzA0NDZFOTk5M0JGOTk4MzlBNUQ5OEE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauqK_82eW2BBUCKAJDMywXQDwiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLC2zhsTRofnvpw2QbW1b8zsw8TwefFDzVnd-7tt4dNlg&oe=6ABF064D"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1072197911843844"
+  },
+  {
+   "id": "1621698939553030",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "אל תיתנו לאבחנה להגדיר את העתיד שלכם.\nלחצו והתייעצו איתנו ישירות בווטסאפ 🔗👇\n\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1790060400,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 3,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/817117879_1090662563931046_6425187940371134152_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i2Iz83cw2WUQ7kNvwEsj9LS&_nc_oc=Adr-8MwjFpEm5rZdGr9kkbDJWjeKdol3lv66P6KllNujy1T5_YVDUVeq6lfZ1z13Ezc&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLMCzHxJY5tAu6MvQ4_Kl2PwDk98hDUoIPirxiUTwKt1A&oe=6ABF25EA",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMOOxTMLvpxIFoap_VqVj2Y-FXSBIX1r-rMCEIeosSIgMrOAjqxtzM88q5ey6fepHQuTW6pvEQlSiVmAdywcj-yt1EwaOBQCI8bcPdQdOW9Jg.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=3Sg5NpwxU3wQ7kNvwE0-FyR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyNDA1NTc5MDY3NTY3OTUsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a799c9eddbf10b5c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81ODQ3NTNGQzVEOEQ2RDYzNDFDQzMxRUUxQjhBMjE5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JGNDBGNDQyRDlBNTY2MDFBMjFGNjFCMzFCQjhCNUI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2koyi0fH6BxUCKAJDMywXQEAiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIoz22-degMtLOiy--KfpyDRxMGXcAQ_rCW3Z2kQrWlfQ&oe=6ABEFCEE"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1621698939553030"
+  },
+  {
+   "id": "2895218980817547",
+   "page_id": "1160827037108569",
+   "page_name": "מגזין הבריאות",
+   "page_url": "https://www.facebook.com/61589805535491/",
+   "page_like_count": 85,
+   "page_categories": [
+    "Personal blog"
+   ],
+   "ad_creative_link_title": "זמן מוגבל, נגמר השבוע ✈️",
+   "body": "זה התחיל בטיסה לחו\"ל, לבקר את הבן שלי.\n\n6 שעות טיסה, אבל כבר אחרי שעתיים עצם הזנב שלי בערה.\n\nכשנחתנו כבר הלכתי כמו מישהי שתקעה את הגב.\n\nנבהלתי. קבעתי תור לכירופרקט.\n\nהוא עשה כמה יישורים, ואז הניד בראש:\n\"את יושבת יותר מדי. עמוד השדרה שלך דחוס. את צריכה טיפול קבוע.\"\n\nואז הוא נתן לי תוכנית טיפול שעלתה יותר מהטיסה עצמה.\n\nכירופרקטיקה פעמיים בשבוע, 350 שקל כל פגישה.\nכרית גב מותאמת \"ליישור עמוד השדרה\".\nעיסויים \"לשחרור מתחים\".\nשולחן היפוך, גליל קצף, גומיות התנגדות.\n\nבהתחלה זה כאילו עבד. הייתי יוצאת מהטיפול משוחררת.\n\nאבל כל טיסה הבאה, ותוך שעה הגב שלי ננעל שוב.\n\nהיישורים לא מנעו את הכאב. הם רק תיקנו אותו אחרי שכבר קרה.\n\nטיפלתי בנזק, לא עצרתי אותו.\n\nבזבזתי 2,500 שקל בחודש על הגב, כשהבעיה האמיתית הייתה הכיסא.\n\nואז נתקלתי בדליה, החברה הכי טובה שלי, בסופר.\nבת 67, שנים היא התלוננה על כל טיסה.\n\nהיא בדיוק חזרה מלבקר את הבת שלה, ונראתה מצוין לגמרי.\n\n\"דליה, מה השתנה? את טסה במחלקת עסקים עכשיו?\"\n\nהיא חייכה. \"לא. פשוט הבנתי מה באמת גורם לבעיה.\"\n\nוהיא הסבירה לי.\n\nזה לא שעמוד השדרה שלי חלש. זה לחץ.\n\nכשיושבים על משטח קשה שעות, כל משקל הגוף מתרכז על שתי עצמות ישיבה קטנות.\nזרימת הדם נחסמת. זו השריפה שאת מרגישה.\n\nחברות התעופה הדקו את הריפוד לפני שנים כדי לחסוך במשקל.\n\nושום יישור כירופרקטי לא עוצר 70 קילו של לחץ שמתרכזים על עצמות הישיבה שעה אחרי שעה.\n\nהיא עברה לכרית ג'ל בטכנולוגיית כוורת של סלרה.\n\nאותה טכנולוגיה שבתי חולים משתמשים בה בכיסאות גלגלים, כדי למנוע פצעי לחץ.\n\nהיא לא מוסיפה עוד ריפוד שמתרסק תחתייך.\nהיא מפזרת את הלחץ. כאילו את צפה על מים.\n\nהייתי בספק, אבל נואשת. אז הזמנתי אחת.\n\nכשהיא הגיעה, פשוט הנחתי אותה על המושב.\n\nהתיישבתי, בטוחה שזו עוד כרית מיותרת. אבל זה היה שונה.\n\nעצמות הישיבה שלי שקעו פנימה, אבל אף פעם לא נגעו בתחתית.\nהכוורת שקעה איתי והמשיכה לפזר את הלחץ לכל הכיוונים.\n\nלקחתי אותה לטיסה הבאה. 3 שעות.\n\nאחרי שעה וחצי קלטתי שלא זזתי אפילו פעם אחת. פשוט ישבתי בנוח.\n\nכשנחתנו קמתי בלי שום נוקשות.\n\nהיום היא באה איתי לכל מקום.\nטיסות, נסיעות ארוכות, מושבים באצטדיון, ארוחות ערב שנמשכות שעות.\n\nאני כותבת את זה מהבית של הבת שלי, אחרי טיסה חלקה.\nבלי כאבי גב, בלי ימים של התאוששות. ישר לשחק עם הנכדים.\n\nוהיום אני אומרת לכולם דבר אחד:\n\nתפסיקו לשלם כדי לתקן את הנזק, כשאתם יכולים למנוע אותו מראש.\n\nהפתרון האמיתי עולה פחות משדרוג למחלקת עסקים.\n\nמשלוח חינם.\n60 יום אחריות, כספכם חזרה.",
+   "link_description": "⭐ 4.8 מ-10,000+ נוסעים מרוצים",
+   "landing_url": "https://selera.co.il/products/selerafly",
+   "cta_type": "SHOP_NOW",
+   "cta_text": "לקנייה",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1783666800,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "THREADS"
+   ],
+   "collation_count": null,
+   "images": [
+    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/742416993_1076068701750818_6704961842632834885_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aaBFfj8GY_AQ7kNvwEwkpn2&_nc_oc=AdpU5dSYgUPY6gjOI-yynhGKNFvQIVBhVybA9x8Ce96Hy0UPkJBs8ruTUOegPNlumlg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKzvniSaBTzwI10yuPZbpWYIhjugV80t93AkWGKaxQKog&oe=6ABF11E2"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2895218980817547"
+  },
+  {
+   "id": "1745781149877650",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "כדי לשחרר את העומס המצטבר סביב החוליות צריך להגביר את זרימת הדם המקומית ולטפל בנקודות הלחץ המדויקות.\nהגיע הזמן להפסיק לסחוב את הכאב.\n\nלפרטים ותיאום תור בקליניקה בהרצליה, שלחו לנו הודעה בווצאפ 🔗👇\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1790406000,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752838642_1583759883516742_4087456747669230091_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iCgFTY1n3LoQ7kNvwEQ4x-Q&_nc_oc=AdqVdECNeqjcy2G1uSxydVO7T3Wk-bwxh1UXLhKNeyowZMFheXgYcHxutWUxIoyIwvc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQISD6O34zkrC-hcax5qEDXZWEl5ZulQl3rSQjOniNYL2Q&oe=6ABF2B3B",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO3LuoaUNU66fNcGMScwMR6Nw_lEhdz6K1V1rMOJcr8McP5doNg-F7-Z7DT_raHJvd-HzgOJ2rqgOB0gYbSpynXl4T1RC5Za6oCItrcaqTqAQ.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=eGYHSOG0_YgQ7kNvwGRCHbT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1NjIzMDE5MzU0MzE3NjQsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=254ea48f8c8d675d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81NTQ1OEYwMEU1RkREMjIyRjY3RTBBQzIzMDg3ODM4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUwNEIwQkYyRDdBQTU2NTY1NjcxNjU5NzVCNzJGMUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaowaW--LnGBRUCKAJDMywXQDU7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKrskHlrkw6qiJFZdMgV_NeDdLJP_5cqPwDb0lsfzx2JQ&oe=6ABF0B84"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1745781149877650"
+  },
+  {
+   "id": "1104449448642246",
+   "page_id": "105106695634690",
+   "page_name": "הנתיב לשיקום - המרכז לשיקום לאחר פציעה",
+   "page_url": "https://www.facebook.com/nativclinic/",
+   "page_like_count": 283,
+   "page_categories": [
+    "Therapist",
+    "Health Service",
+    "Medical Service"
+   ],
+   "ad_creative_link_title": "52 מ״ר, 4 חדרים · 3,500 ₪ לחודש",
+   "body": "משרד להשכרה בליגד סנטר 2, מודיעין.\n\n52 מ״ר ברוטו, 4 חדרים — חדר ישיבות, אופן ספייס ושני חדרים סגורים. החלוקה קיימת ועובדת, אפשר להיכנס ולהתחיל לעבוד בלי שיפוץ.\n\nמזגן בכל חדר, פינת מטבחון מוגדרת, פרקט בכל המשרד, קומה 1 עם מעלית ונגישות מלאה, שמירה וגישה לבניין 24/7, חניה.\n\nמתאים למשרד רואי חשבון, עורכי דין, סוכנות ביטוח, אדריכלות, ייעוץ ומשרדי שירות קטנים, וגם לרפואה, כירופרקטיקה או קוסמטיקה.\n\n3,500 ₪ לחודש. כניסה גמישה החל מ-1 באוקטובר. הנכס נמסר ריק, ללא תיווך.\n\nשלחו הודעה ונתאם צפייה.",
+   "link_description": "",
+   "landing_url": "",
+   "cta_type": "MESSAGE_PAGE",
+   "cta_text": "שליחת הודעה",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1790406000,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 3,
+   "images": [
+    "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819483043_2032259077484777_6998324371178471630_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rW6EQ-o1tMoQ7kNvwFTi_b0&_nc_oc=AdoDF3A6FA5iBWyBsUzsbesws4F3zmhOMZIe2Xo5bg4QRdHaFNLDBQObf94a4O3ieG8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLWlsNWuwpoGXOBgOIwFHq1bNWwhI6TkmppO_-oS4EEcQ&oe=6ABF002F"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1104449448642246"
+  },
+  {
+   "id": "1545616550695267",
+   "page_id": "1274596995727181",
+   "page_name": "רונית לוי",
+   "page_url": "https://www.facebook.com/61591638340441/",
+   "page_like_count": 1,
+   "page_categories": [
+    "Personal blog"
+   ],
+   "ad_creative_link_title": "לצאת מהאוטו לא אמור להיות סיפור שלם",
+   "body": "לצאת מהאוטו לא אמור להיות סיפור שלם.\n\nאבל כשנקודה אחת קטנה בגב התחתון לא נותנת לך לזוז כמו בן אדם רגיל, את מסובבת את כל הגוף ויוצאת עם הצד הטוב שלך רק כדי לעמוד.\n\nוזאת כנראה לא הבעיה שבגללה את כל הזמן בטיפולים.\n\nבכנות, חשבתי שאני בדרך להליכון.\n\nשאת שנות ה-60 שלי אני אעביר בצליעה, בהיאחזות בדברים, ושאני אסרב לכל דבר שדורש תזוזה מהירה, כי הגוף שלי פשוט בגד בי בנקודה קטנה אחת.\n\nאם סבלת מספיק זמן מכאב במפרק ה-SI, את יודעת כמה מוזר להסביר אותו.\n\nזה לא כל הגב.\n\nזאת נקודה אחת עמוקה וכועסת בצד אחד, למטה.\n\nדברים מסוימים מדליקים אותה כל פעם.\n\nלקום מכיסא רך.\n\nלעמוד על רגל אחת כדי ללבוש מכנסיים.\n\nהמדרגה הראשונה.\n\nלהתהפך במיטה.\n\nוחצי מהזמן הכאב הזה מבלבל אותך, כי הוא מתפשט למטה לחלק האחורי של הירך, אבל כמעט אף פעם לא עובר את הברך.\n\nקוראים לי דנית.\n\nאני בת 57. עבדתי 26 שנים בתור שיננית, עקומה הצידה מעל כיסא כל היום, וגידלתי 3 ילדים שכל אחד מהם איכשהו שקל 18 קילו בדיוק בשנה שהגב שלי התחיל ללכת.\n\nאני לא יושבת ומרחמת על עצמי.\n\nאף פעם לא עשיתי את זה.\n\nבמשך רוב החיים שלי הגב שלי היה בסדר.\n\nואז, לפני שנתיים, זה התחיל.\n\nלא בבת אחת.\n\nפשוט לאט לאט.\n\nזה התחיל כמו כאב עמום בצד ימין שלי, נמוך, בדיוק מעל הגומה הקטנה שמעל הישבן.\n\nואז זה נהיה יותר חד.\n\nלצאת מהאוטו הפך להיות סיפור שלם, הייתי צריכה לסובב את כל הגוף ולצאת עם הצד הטוב.\n\nלהתהפך במיטה היה מעיר אותי עם זרם שעצר לי את הנשימה.\n\nכשעמדתי ליד הכיור לשטוף כלים, כל המשקל שלי היה עובר לרגל הטובה בלי שבכלל התכוונתי.\n\nהתחלתי לתכנן את היום שלי סביב התנועות שידליקו את הכאב.\n\nזאת דרך מוזרה לחיות, למדוד את החיים שלך באיך את הולכת לקום מכיסא.\n\nקודם כל הלכתי לרופאה שלי.\n\nהיא לחצה לי על הגב, אמרה שזאת בטח דלקת פרקים או מתיחה, ואמרה לי לנוח ולהשתמש בחימום.\n\nהיא בכל זאת שלחה אותי לפיזיותרפיה.\n\nפעמיים בשבוע במשך 3 חודשים, 150 ₪ השתתפות עצמית כל פעם.\n\nהבחורה הייתה מקסימה והתרגילים היו בסדר, אבל הנקודה העמוקה הזאת בצד ימין שלי אף פעם לא השתנתה.\n\nאז מישהו החליט שזה אולי סיאטיקה.\n\nנתנו לי כדורים נגד דלקת ואמרו לי לנוח.\n\nהכדורים עשו לי רע בבטן ולא עזרו בכלל לדקירות.\n\nאז התחלתי לקנות דברים.\n\nחגורת גב מהאינטרנט שרק הזיזה את הכאב ממקום למקום.\n\nכרית ישיבה משופעת לאוטו.\n\nכרית חימום שהרגישה נהדר עד לרגע שעמדתי, ואז הזרם חיכה לי.\n\nחודשיים של כירופרקטיקה ב-200 ₪ לביקור, שם הוא היה מסדר אותי והרגשתי ישרה ליום אחד, ואז אותה נקודה הייתה נדלקת מחדש.\n\nבסוף שלחו אותי למומחה.\n\nהוא אמר שזה מפרק ה-SI שלי, המפרק שמחבר את עמוד השדרה לאגן, והוא רצה להזריק לשם.\n\n3,500 ₪ לזריקה מהכיס שלי.\n\nהראשונה השקיטה את העניינים לכמה שבועות.\n\nאת האחרונה בקושי הרגשתי.\n\nכשחיברתי הכל, את ההשתתפויות העצמיות, הזריקות, החגורות, הגאדג'טים, הוצאתי קרוב ל-25,000 ₪.\n\nוהמצב שלי היה יותר גרוע מאיך שהתחלתי.\n\nואז המומחה אמר שהשלב הבא הוא ניתוח איחוי.\n\nשהם יבריגו את המפרק כדי שהוא לא יוכל לזוז בכלל.\n\nהוא אמר שזה אולי יעזור.\n\nהוא גם לא יכול היה להבטיח שזה יעבוד, וזה לתמיד, וההחלמה ארוכה.\n\nמשהו בי קפא מהרעיון שינעלו לי את הגוף עם ברגים.\n\nאמרתי לו שאני צריכה זמן.\n\nואז הגיעה החתונה של הבת שלי.\n\nפחדתי מדבר אחד בכל היום היפה הזה, וזה לא היה הנאומים.\n\nזה היה הריקודים.\n\nיש שיר שבעלי ואני רוקדים לצליליו עוד לפני שהילדה הזאת נולדה, והבטחתי לעצמי שאת הריקוד האחד הזה אני ארקוד, לא משנה מה המחיר.\n\nהלהקה התחילה לנגן אותו, הלכנו לרחבה, ואחרי בערך 30 שניות העברתי משקל כדי להסתובב, והמפרק הזה קרס.\n\nדקירה כל כך חדה שנשמתי יצאה בקול, ממש שם באמצע הרחבה, והייתי צריכה לתפוס את הזרוע של בעלי ולתת לו להוביל אותי חזרה לכיסא.\n\nהבת שלי ראתה הכל.\n\nהיא באה עם שמלת הכלה שלה, כרעה ברך לידי ושאלה אם אני בסדר, ביום החתונה שלה, וזה היה הדבר ששבר אותי.\n\nאת כל שאר החתונה של הבת היחידה שלי ביליתי ליד השולחן הזה, מחייכת לתמונות, ורואה את כולם רוקדים.\n\nבכיתי באוטו באותו לילה.\n\nואיפשהו בין אולם האירועים לבית, משהו בתוכי סוף סוף אמר לא.\n\nלא לכאב.\n\nלא להשלים עם זה שככה החיים שלי הולכים להיראות מעכשיו.\n\nבשלב הזה כבר כמעט ויתרתי על לחפש פתרונות.\n\nואז אישה באחת הקבוצות שלי באינטרנט פרסמה מאמר עם כותרת שראיתי כבר עשרות פעמים, וכמעט גללתי הלאה.\n\nמה שעצר אותי הייתה שורה אחת שהיא כתבה מתחת: \"זה הדבר הראשון שהצליח להסביר לי את כאב הירך שלי\".\n\nאז חשבתי, מה יש לי להפסיד, ופתחתי אותו.\n\nוהמאמר הזה היה שונה.\n\nכתב אותו פיזיותרפיסט שהקדיש את הקריירה שלו בדיוק לסוג הכאב הזה, והוא תיאר בדיוק את הכאב שלי, את הנקודה העמוקה האחת בצד אחד, את האוטו, המיטה, המדרגות, הכל.\n\nוהחלק הראשון עצר אותי במקום.\n\nהוא אמר שרוב האנשים עם הכאב הזה מטפלים במפרק שצורח ולא שואלים למה הוא צורח.\n\nוה\"למה\" הוא בדרך כלל לא דלקת פרקים, וזאת לא חולשה.\n\nזה עומס.\n\nהמפרק הזה נמעך ונלחץ תחת לחץ שהוא אף פעם לא היה אמור לשאת.\n\nהוא הסביר את זה ככה.\n\nתחשבי על עמוד השדרה שלך כמו ערימה של כריות, והדיסקים בין החוליות הם הכריות.\n\nאחרי גיל 50 בערך, הכריות האלה מתחילות להתייבש ולהישטח.\n\nוכשכל הערימה שוקעת למטה, כל המשקל הזה נוחת על המפרק הכי תחתון, אותו מפרק עצה וכסל שבו עמוד השדרה פוגש את האגן.\n\nהשרירים מסביב נתפסים כדי להגן עליו ואף פעם לא משחררים.\n\nאז המפרק יושב שם תקוע, עמוס, נעול, יום אחרי יום.\n\nוהנה החלק שגרם להכל להתחבר.\n\nכל תנועה שמעבירה את המשקל שלך לצד אחד, לצאת מהאוטו, להתהפך, המדרגות, דוחפת את המפרק העמוס הזה עוד יותר חזק.\n\nבגלל זה בדיוק התנועות האלה היו אלה שתפסו אותי, כל פעם מחדש.\n\nזה גם הסביר למה שום דבר שניסיתי לא החזיק מעמד.\n\nהזריקות הרדימו את המפרק אבל לא יכלו להוריד ממנו את העומס.\n\nהחגורה וכרית החימום אף פעם לא נגעו בלחץ.\n\nהכירופרקט הזיז דברים ליום אחד אבל לא יכול היה להחזיר לעמוד השדרה את הגובה שלו.\n\nואיחוי היה נועל את המפרק, אבל הוא לעולם לא היה מחזיר את המרווח שאבד מעליו.\n\nכל דבר שניסיתי טיפל בחלק אחד מתוך בעיה של 3 חלקים.\n\nכדי באמת להוריד את הלחץ, הוא אמר, 3 דברים צריכים לקרות באותו הזמן.\n\n1. את משחררת את הלחץ מעמוד השדרה ומרימה את העומס מהמפרק הזה.\n\n2. את מביאה חום עמוק וזרימת דם, כדי שהדיסקים השטוחים שמעל יוכלו למשוך נוזלים בחזרה ולהחזיק את הגובה הזה.\n\n3, את משחררת את השרירים שהיו תפוסים סביב המפרק הזה במשך שנים.\n\nוהנה המפתח.\n\nדיסק שטוח יכול למשוך נוזלים בחזרה רק כשהלחץ מורם ממנו.\n\nאם יוצרים את המרווח בלי זרימת הדם, או את זרימת הדם בלי המרווח, לא מקבלים כמעט כלום.\n\nבגלל זה הכירופרקט לא החזיק.\n\nבגלל זה כרית החימום לא החזיקה.\n\nכל אחד מהם עשה חלק אחד.\n\nלא את כל ה-3. לא באותו הזמן.\n\nואז הוא הסביר איך לעשות את כל השלושה ביחד, בבית, בלי תרופות, כבר מהישיבה הראשונה בבית.\n\nבשלב הזה כבר התאכזבתי כל כך הרבה פעמים שכמעט לא טרחתי.\n\nאבל בתחתית המאמר, אלפי נשים השאירו את הסיפורים שלהן, ורובן אמרו שהן הרגישו הבדל בשבוע-שבועיים הראשונים.\n\nחשבתי לעצמי שגם אם חצי מהן אומרות את האמת, זה עדיף מלתת למנתח להבריג לי את עמוד השדרה.\n\nוהייתה אחריות להחזר כספי ל-60 יום, אז אם זה לא יעשה כלום, פשוט אשלח את זה בחזרה.\n\nאז ניסיתי.\n\nאני לא הולכת להגיד לך שנרפאתי.\n\nאף אחד לא יכול להבטיח את זה, ולא הייתי מאמינה לו אם היה מבטיח.\n\nאבל אני אגיד לך מה קרה.\n\nביום השלישי כבר, יצאתי מהאוטו בסופר בלי לצאת עם הצד הטוב שלי.\n\nפשוט פתחתי את הדלת ועמדתי כמו בן אדם רגיל, ועמדתי שם בחניון לשנייה, מופתעת מעצמי.\n\nעוד לא סמכתי על זה.\n\nהיו לי ימים טובים פה ושם בעבר, והמפרק תמיד מצא דרך להזכיר לי מי הבוס עד הבוקר למחרת.\n\nאז התכוננתי לזה שיחזור.\n\nזה לא חזר.\n\nביום השביעי, ישנתי לילה שלם והתהפכתי פעמיים בלי שהזרם יעיר אותי.\n\nבעלי שאל בארוחת הבוקר למה אני נראית כל כך רעננה, ועוד לא היו לי מילים לתאר את זה.\n\nביום ה-14, סחבתי סל כביסה במעלה המדרגות, מדרגה אחרי מדרגה, שתי הרגליים שוות, בלי לעצור באמצע כדי להיאחז.\n\nביום ה-21, שמתי מוזיקה במטבח בזמן שבישלתי, ותפסתי את עצמי מתנועעת לצליליה, מעבירה משקל מצד לצד, בדיוק הדבר שהיה מפיל אותי פעם.\n\nושום דבר לא קרס.\n\nכמה שבועות אחרי זה, בעלי ואני שמנו את השיר שלנו בסלון, רק שנינו, וסיימנו את כל הריקוד.\n\nבכיתי בחצי השני שלו, ישר על הכתף שלו.\n\n6 חודשים מאוחר מדי לחתונה, אבל קיבלתי את הריקוד שלי.\n\nזה היה לפני 6 חודשים.\n\nאני עדיין מכבדת את המפרק הזה.\n\nיש ימים טובים יותר מאחרים, ואני לא מותחת את המזל שלי.\n\nאבל לא נפלתי כמו שנפלתי בחתונה ההיא, אפילו לא פעם אחת מאז.\n\nאני בסך הכל אישה בת 57 שאמרו לה שזאת דלקת פרקים ושאין מה לעשות חוץ מלנעול את זה עם ברגים, וסירבתי להאמין שזה הסוף.\n\nאם הכאב שלך יושב נמוך בצד אחד, אם לצאת מהאוטו ולהתהפך במיטה הם החלקים הכי גרועים ביום שלך, אם הוצאת אלפים ואמרו לך שניתוח איחוי הוא האפשרות היחידה שלך, אז תקראי את המאמר שסוף סוף הסביר לי את כאב הירך שלי.\n\nזה אותו הסבר שעזר לאלפי נשים להרגיש הבדל בשבוע-שבועיים הראשונים.\n\nהוא מסביר את 3 הדברים שחייבים לקרות ביחד, ואיך בדיוק לעשות אותם בבית, בלי לתת לאף אחד להבריג לך את המפרקים.\n\nהקריאה בחינם.\n\nיש קישור למטה.\n\nזה עשה לי סדר בשנתיים של כישלונות.\n\nוזה החזיר לי ריקוד שחשבתי שאיבדתי לתמיד.\n\nקראי כאן: https://selera.co.il/pages/si-joint-report",
+   "link_description": "מגזין הבריאותבריאות ‹ כאבי גב ‹ מפרק ה-SI פיזיותרפיסט בכיר: \"זו הדרך המהירה ביותר להפסיק כאב במפרק ה-SI, אחת ולתמיד\" מי שסבל מכאב כרוני חושף את השקר של תעשיית כאבי הגב ב....",
+   "landing_url": "https://selera.co.il/pages/si-joint-report",
+   "cta_type": "LEARN_MORE",
+   "cta_text": "מידע נוסף",
+   "display_format": "IMAGE",
+   "ad_delivery_start_time": 1785567600,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER",
+    "WHATSAPP",
+    "THREADS"
+   ],
+   "collation_count": null,
+   "images": [
+    "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/759208724_1712349799846921_861578450885787531_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CY4jZHmgM9oQ7kNvwH2K9Eg&_nc_oc=AdrC3150KDBHVz-ndvqq_mFFhMSpZ0J4CFOKkZNCPLAdOj9jwCcDFFndTNwy1KTuWyg&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQL-dsapZXNk-MaIm3J53W3oyAbh5F4XBd_WHccmDODiag&oe=6ABF14E5"
+   ],
+   "videos": [],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1545616550695267"
+  },
+  {
+   "id": "1078245518230793",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "<< לפרטים נוספים",
+   "body": "הכאב כבר התחיל להגביל את היום יום שלכם? \nלהתרגל לכאב ולשנות תנועות זו לא הדרך. אבחון מדויק אחד יכול לעצור את מעגל הכאב ולהחזיר את הגוף לאיזון.\n\nרוצים לבדוק את מקור הכאב?\nלפרטים ותיאום תור בקליניקה בהרצליה, תשלחו מהודעה בווצאפ 👇",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "DCO",
+   "ad_delivery_start_time": 1788937200,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798274648_1854829245494057_6457296024507431027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wr84ycN6vQgQ7kNvwGUOL1R&_nc_oc=AdrPnGgemea6cAZc-GF4oM3qA_Amd9TnWIxZ1IHjUw7GRA19-ylHYc8xE65Dem0r2qM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQK-rHx5w67qAsTsZzCjX847R-vgbvIqu-lxYpcGnooX0g&oe=6ABEFC8D",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZVntJCOA3wCjhfujZcbQd7uF6O9CylANllKh3_eRHoxF3YbvoxaHDqlB-JKrOyRn8qZ91WHsgHkgTc_REdUfH4aEWTaJ9CgKlBi5fk_GX0w.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tsNmLgU_l3kQ7kNvwHrpZs3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDA5OTg2NTQ3NzIyNjMsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=112820b9a21ff26f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENTRDRTFGMjE3MkQ4MDQ3MURCNUJERkY5MTQyODM5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENEVEMkNGQzM1OEM2M0MyM0NFM0QwRjBCQ0VEMEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOkLLHsujhBBUCKAJDMywXQEEzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQINtcxz4N4Fwr8uAfdLSwGU9lTHwYPmnrYNwNiOk_oFBw&oe=6ABF09B2"
+    },
+    {
+     "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/798274648_1854829245494057_6457296024507431027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wr84ycN6vQgQ7kNvwGUOL1R&_nc_oc=AdrPnGgemea6cAZc-GF4oM3qA_Amd9TnWIxZ1IHjUw7GRA19-ylHYc8xE65Dem0r2qM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQK-rHx5w67qAsTsZzCjX847R-vgbvIqu-lxYpcGnooX0g&oe=6ABEFC8D",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOZVntJCOA3wCjhfujZcbQd7uF6O9CylANllKh3_eRHoxF3YbvoxaHDqlB-JKrOyRn8qZ91WHsgHkgTc_REdUfH4aEWTaJ9CgKlBi5fk_GX0w.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=tsNmLgU_l3kQ7kNvwHrpZs3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDA5OTg2NTQ3NzIyNjMsImFzc2V0X2FnZV9kYXlzIjoyMSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=112820b9a21ff26f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENTRDRTFGMjE3MkQ4MDQ3MURCNUJERkY5MTQyODM5Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNENEVEMkNGQzM1OEM2M0MyM0NFM0QwRjBCQ0VEMEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOkLLHsujhBBUCKAJDMywXQEEzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQINtcxz4N4Fwr8uAfdLSwGU9lTHwYPmnrYNwNiOk_oFBw&oe=6ABF09B2"
+    },
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/796691242_1539567190824091_740989228935375102_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9wsXIgtzpyQQ7kNvwG_0SHg&_nc_oc=AdpsgZ_X_-l_TefVVW6zwB0n-AxZMyE5IshKTg6KBDnSPF8XfwJERWkJPEvI3vRP_zE&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJd1fGfTOGyIxMPN2-od9rEgI0UTJFizm8yQ-Z6PUJ7ng&oe=6ABEFE50",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNuVoEleXkSlpxPPx0WH9-GtjUx6SM7MREz01bFVwtzE55q5wdm30QpXEmnapnH11K9kFFZRaU8GjifaUpGzAYI1hDET01-McRSjG_CHKmFig.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=2Q7Qr4mHY8QQ7kNvwEwNtS3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5NDE3MjU1NDc3ODYyMjkxLCJhc3NldF9hZ2VfZGF5cyI6MjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=daeac8edece5d156&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOTQ4NTZGMDY5QTVDNTk1RDc4OEE4OUU4NjVFRjc4M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzNEJBQkQzNzEzNTVEODRFMTM4QTYyQ0MxNDNFRTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACam_rLw0LXBaBUCKAJDMywXQEEzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQJuZXG7KlcStyiRa8EUfqXpthv0izU7Sw_3kO4FCZGeCQ&oe=6ABF2A02"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1078245518230793"
+  },
+  {
+   "id": "2117987955743190",
+   "page_id": "1217036481640816",
+   "page_name": "ד\"ר תום שי- כירופרקטיקה שיקומית",
+   "page_url": "https://www.facebook.com/Drshaytom/",
+   "page_like_count": 512,
+   "page_categories": [
+    "Doctor"
+   ],
+   "ad_creative_link_title": "לווצאפ >>",
+   "body": "אל תסכימו להתרגל לכאב. ברגע שמבינים איך הגוף פיצה על העומס ובונים תוכנית טיפול שיקומית ומדויקת, אפשר לחזור לחיות בביטחון ובלי מגבלות.\n\nלפרטים ותיאום תור בקליניקה בהרצליה, עברו לדבר איתנו בווטסאפ 🔗👇\n📍ווינגייט 21, הרצליה",
+   "link_description": "",
+   "landing_url": "https://api.whatsapp.com/send",
+   "cta_type": "WHATSAPP_MESSAGE",
+   "cta_text": "שליחת הודעת WhatsApp",
+   "display_format": "VIDEO",
+   "ad_delivery_start_time": 1789110000,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM"
+   ],
+   "collation_count": 1,
+   "images": [],
+   "videos": [
+    {
+     "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/752723598_935241772938769_1449718921272326693_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p_H4trcRgi4Q7kNvwG4IdtY&_nc_oc=AdqCGUtrL0i841ks_vDgUYaFMmj3Rc4RcwiHYKDMuyzy9kOhD2sI7Wn_b05I0G64jm8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQLhs6EJTc-F37TdMp3O_BJ2dkcIG4yJPAsIQI1jwqoEmA&oe=6ABEFAA2",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNIFAOEjVWxy4a_J9zbLfdOG1-_lZuAJakxoymjy9KR5HxTj5loY6Ixc2Xm4DvwzpaNBFqQPv9Btmr78SsR1bndMtYsLGPSTJmg3GTS1F9g2A.mp4?_nc_cat=110&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=IftwKvw8m4UQ7kNvwGM5moL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzNDA5NDIyNjQzMDY2MjMsImFzc2V0X2FnZV9kYXlzIjo2NywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=54b3d76c668bc4ab&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMjRGRjczNUJDRUQzRTNGMDE0MzhCRjZDOTY5ODNCMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NDM1QTg5NTQ1QjU5RTQ2OUFBOTE5OEU1OUMzRkJGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-rqC1juXhBBUCKAJDMywXQEEmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIikDheYpAbsItnB0WZUHh_xW43y9pEOWi89DZVlTiq8w&oe=6ABF1512"
+    }
+   ],
+   "currency": "",
+   "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2117987955743190"
+  }
+ ]
 }

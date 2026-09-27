@@ -207,7 +207,59 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-06-28",
+      "oldest_start": "2026-05-04",
+      "days_since_newest": 91,
+      "longest_running_days": 146,
+      "distinct_texts": 1,
+      "ctas": [
+        [
+          "LEARN_MORE",
+          1
+        ],
+        [
+          "BOOK_TRAVEL",
+          1
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94",
+          1
+        ],
+        [
+          "fb.me",
+          1
+        ]
+      ],
+      "landing_status": {
+        "drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94": "ok",
+        "fb.me": "ok"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2026-05-04",
+          "cta": "LEARN_MORE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "https://drtawil.co.il/%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a0%d7%95%d7%a1%d7%a4%d7%95%d7%aa/%d7%98%d7%99%d7%a4%d7%95%d7%9c-%d7%91%d7%a0%d7%99%d7%9e%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%97%d7%95%d7%a1%d7%a8-%d7%aa%d7%97%d7%95%d7%a9%d7%94/"
+        },
+        {
+          "start": "2026-06-28",
+          "cta": "BOOK_TRAVEL",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "http://fb.me/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

@@ -264,7 +264,54 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2025-08-12",
+      "oldest_start": "2022-12-12",
+      "days_since_newest": 411,
+      "longest_running_days": 1385,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "LEARN_MORE",
+          1
+        ],
+        [
+          "SHOP_NOW",
+          1
+        ]
+      ],
+      "videos": 1,
+      "landings": [
+        [
+          "astrixpt.co.il",
+          2
+        ]
+      ],
+      "landing_status": {
+        "astrixpt.co.il": "ok"
+      },
+      "home_share": 2,
+      "samples": [
+        {
+          "start": "2022-12-12",
+          "cta": "LEARN_MORE",
+          "title": "{{product.name}}",
+          "body": "{{product.brand}}",
+          "landing": "http://www.astrixpt.co.il/"
+        },
+        {
+          "start": "2025-08-12",
+          "cta": "SHOP_NOW",
+          "title": "אסטריקס פיזיותרפיה לספורטאים ולקהילה",
+          "body": "תושבי רעננה או כפר סבא - המודעה הזאת בשבילכם:\n\n\"הכאבים שהיו לי נעלמו לחלוטין, אני\nמרגיש כמו בן אדם חדש וסוף סוף יכול\nלחזור לעשות ספורט!\"\n\n\"הרגשתי שניסיתי כבר הכל ולא\nהאמנתי שאי פעם אצליח להתעורר בבוקר\nבלי כאבים ותחושה\nשפשוט אין פתרון…\"\n\n\"הטיפול שלך הציל אותי, אני מרגיש\nצעיר ובריא מאי פעם!\nוהכאבים? נעלמו לגמרי…\"\n\nמשפטים 'רגילים' שאני שומע מדי\nיום בקליניקה…\n\nנעים מאוד, אנחנו אלי ודימה, פיזיותרפיסטים",
+          "landing": "http://www.astrixpt.co.il/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

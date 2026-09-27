@@ -1,0 +1,965 @@
+{
+  "lead_id": "2026-09-27-313",
+  "status": "filtered",
+  "reject_reason": null,
+  "business": {
+    "name_he": "",
+    "name_en": "",
+    "website": "",
+    "city": "",
+    "category": "",
+    "owner_name": "",
+    "email": ""
+  },
+  "contact": {
+    "facebook_page": {
+      "url": "https://www.facebook.com/100065857863569/",
+      "source": "meta_ad_library",
+      "confidence": "high"
+    },
+    "instagram_page": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "owner_instagram": {
+      "url": "",
+      "source": "",
+      "confidence": ""
+    },
+    "whatsapp": {
+      "number_e164": "",
+      "source": "",
+      "confidence": ""
+    }
+  },
+  "meta": {
+    "page_id": "100994838722988",
+    "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+    "active_ads_count": 23,
+    "search_keyword": "כירופרקטיקה",
+    "sample_ads": [
+      {
+        "ad_id": "1383347293353347",
+        "link_title": "",
+        "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/582987603_2635066503524339_5485311594754645879_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9MGHjJgH_SAQ7kNvwE1vC3_&_nc_oc=Adpcis8adfbzuBHzTlm-KpaSFBD_6PP9Syvdmxi_tjK35Pow7ZaG4SCG2JcEJ1jEcWM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQJYr4d8E-3OECXnWGVT4fPI-CnP-xK-QWw6Frf0uzr57w&oe=6ABF19DC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwH9tvgQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKDN5UsA4qf8j1_tbxVTsYrQb8OHVHuhr6PELvvq-muoQ&oe=6ABF0EAF"
+          }
+        ],
+        "collation_count": 2,
+        "start_time": 1763452800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1383347293353347"
+      },
+      {
+        "ad_id": "693180496845367",
+        "link_title": "",
+        "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584799361_846309177880443_4455030724344120002_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S3S-ko_4jJcQ7kNvwH-egyz&_nc_oc=AdqOUBYCD9WSa_W--Q-zQy3itPRlJlu2SW7XVbRCnqMKFG6sv5ZHXmp82HBBSuGQ_Ss&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQISO8eWjTvnXoB7Ve6vlC2QFFreGNaKNNgw05A9oGL5xw&oe=6ABF166B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwH9tvgQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQKDN5UsA4qf8j1_tbxVTsYrQb8OHVHuhr6PELvvq-muoQ&oe=6ABF0EAF"
+          }
+        ],
+        "collation_count": null,
+        "start_time": 1763452800,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=693180496845367"
+      },
+      {
+        "ad_id": "1802573427064942",
+        "link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+        "body": "מיגרנות חוזרות הן לא רק כאב ראש. הן עומס שמצטבר בגוף ומשפיע על שגרת החיים שלך.\n\n❌ למה המיגרנה חוזרת גם אחרי הכדור?\n✔ כי הכדור מקל על הכאב, אבל לא על הגורמים שמייצרים אותו.\n\nבמקרים רבים הכאב הוא רק הסימן.\nלעיתים יש עומס מצטבר במבנה הצוואר והגב העליון, או דפוסי תנועה שמעמיסים על הגוף והמיגרנה היא הדרך שבה הגוף מגיב.\n\nבמרכז רפאל עובדים בגישה שמסתכלת על כל המערכת, לא רק על הסימפטום.\nהמפגש הראשון כולל בדיקה ידנית מעמיקה של דפוסי התנועה והמתח בגוף, ולאחריה טיפול ראשוני להקלה.\nבהמשך נבנית תוכנית טיפול אישית, שמשלבת כמה שיטות בהתאם לצורך: כירופרקטיקה עדינה, אוסטאופתיה, דיקור וטכניקות נוספות.\nבשיטת רפאל:\n✔ מפגש ראשון הכולל בדיקה ידנית מעמיקה וטיפול ראשוני\n✔ שילוב מקצועי של כמה שיטות טיפול בכל מפגש\n✔ התאמת תוכנית טיפול אישית ומעקב לאורך כל הדרך\n\n🎯 אם המיגרנות חוזרות פעם אחר פעם, יכול להיות שהגוף מאותת שמשהו צריך להשתנות.\n👉 השאירי פרטים ונחזור אליך בהקדם",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/612907575_1425471782348059_156488657075361193_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5aJQQ0fnLXoQ7kNvwE3L0GL&_nc_oc=AdqJwovc-xBzXJjIiCw6nzR3JLvwH9jvMrHaMduh8u3RpyKTEgsrLew1ar6HBbuadHY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQK8J0PgDEq5HFhD7HQQND0JHhdOxUNAaMfj_vagCc0PLg&oe=6ABEFD17",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIVHjii-UBt9-shkPZvFdSElD0AeMGeKSTOQuaJIpEvtMtBctR-HxHk6MwbnpsYWfcwz4DC4upNw6cYvBE_CYx3C1B43XRZzrArpqW_bmFQA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yJmu2RKXtnAQ7kNvwFlD-C3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTQxOTQ0NTUzNjIwOTksImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4ba05665d9bdd8ab&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MTQ1Nzk0NDhDMzU5MUI0MzE4N0ZFOEY4MEFEMTk5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDc0QzJBOTI4MjJENUFGMEUwQzUzMTEwNENFNDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6MGMhMTMBBUCKAJDMywXQERHrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQIDkKUP0OyW2XHn8Et2ExzM4IzE6OjZFGCZJSkcYYYpsw&oe=6ABF1356"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1767945600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=1802573427064942"
+      },
+      {
+        "ad_id": "852963897366151",
+        "link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+        "body": "❌ פריצת דיסק? זו לא גזירת גורל! ✅\nכמה פעמים שמעתם את המשפט \"\"עם פריצת דיסק פשוט לומדים לחיות\"\"?\nהאמת - זו טעות שעלולה לפגוע בבריאות שלכם לטווח הארוך.\nבטיפול קונבנציונלי תרופות וזריקות מטרתן היא לטשטש את הכאב, שהוא בסך הכול הסימפטום.\nהבעיה האמיתית היא חוסר תפקוד של עמוד השדרה והמערכת העצבית, שמונע מהגוף ריפוי והחלמה.\nבשיטת רפאל הטיפול בפריצת דיסק משלב בכל מפגש טכניקות שונות בהתאמה אישית למצבו של כל מטופל (כירופרקטיקה/קרניוסקראל/דיקור/רפואה סינית ועוד) כדי להחזיר לגוף את היכולת לרפא את עצמו - באופן טבעי, ללא ניתוחים או תרופות.\n✔ מעל 30 שנות ניסיון מצטבר\n✔ מעל 11 אלף מטופלים - כולל ספורטאי ליגות העל \n ✔טיפול מותאם אישית בכל מפגש, בליווי צוות מומחים שעובדים בשיתוף פעולה מקצועי קליני לפי שיטת רפאל\n✔תהליך ריפוי אמיתי שמחזיר את הגוף לתפקוד באופן טבעי \n ✔אחריות מלאה על פגישת האבחון - אם לא מצאנו בפגישת האבחון את הסיבה האמיתית לכאב - כספכם יוחזר.\nאין צורך להתחייב מראש - דברו איתנו, קבלו תשובות מקצועיות ותגלו אם שיטת רפאל מתאימה לכם, בלי סיכון ובלי התחייבות.\n📍מרכז רפאל - ברזאני 4, תל אביב\nשלחו עכשיו וחזרו לחיים ללא כאב.",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/613446272_1767378580487218_5265818655021184531_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rRHsWVscOf8Q7kNvwEWvcOk&_nc_oc=AdpMv2URyfH61Jtl-En8WgL1X_vzdRjdOUAzmoFzLUmDy6uPCZbyZdvy8y6KUjWAHpk&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&oh=00_AQKQHYPIYuizpYTst4HZRJdzz8BKwlzeyeZGVmUwsR3UXg&oe=6ABF224F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNzZ8X57Oa5icWM5qy7LqyMH_JM6lOQnbxRaw85xPt78JdjaW46qwipOes7Ue2nOKqScwS6_VDkDwCn6hHqn0eRjV-QAEP3jxYott3Srz3gow.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=7v0iE9gx5nYQ7kNvwEiz_G6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzk2NDg3NjMyMTU0MzMsImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9b601f1c9ea1daae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QzQ0OUY4MTcxRTBGMDM0RTAyODlFRjkxQkY2OEJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y1NDkwOEQwODdBRkFFQkZFRUVCMzE1RjNDMUQ1OTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS-Z_P27z6BxUCKAJDMywXQEd1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=trk5Be66aWV2MSUfTLpUnw&_nc_ss=70289&_nc_zt=28&oh=00_AQLUdLMwRf5urWLUEuX9cvjQA-u36E38GuYRXNRZvR2raw&oe=6ABF1FDE"
+          }
+        ],
+        "collation_count": 1,
+        "start_time": 1767945600,
+        "snapshot_url": "https://www.facebook.com/ads/library/?id=852963897366151"
+      }
+    ],
+    "filter": {
+      "brand_hits": [],
+      "service_hits": [
+        "טיפול",
+        "לומדים",
+        "אבחון"
+      ],
+      "product_hits": [
+        "ערכת",
+        "סט",
+        "קוד"
+      ],
+      "hebrew": true,
+      "currencies": [],
+      "active_ads_count": 23,
+      "active_ads_count_exact": true,
+      "cta_types": [
+        "WHATSAPP_MESSAGE"
+      ],
+      "page_like_count": 2034,
+      "product_score": -3,
+      "clinic_excluded": [],
+      "clinic_hits": [
+        "כירופרקט",
+        "אוסטאופת",
+        "טיפול",
+        "ד\"ר",
+        "דיקור"
+      ]
+    },
+    "active_ads_count_exact": true,
+    "ad_ids": [
+      "1383347293353347",
+      "693180496845367",
+      "1802573427064942",
+      "852963897366151"
+    ],
+    "currencies": [],
+    "cta_types": [
+      "WHATSAPP_MESSAGE"
+    ],
+    "page_like_count": 2034,
+    "page_categories": [
+      "Health Service"
+    ],
+    "track": "clinic",
+    "page_ads": [
+      {
+        "id": "1491857011885409",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "פריצת דיסק לא לכל החיים",
+        "body": "סובלים מפריצת דיסק? אל תתייאשו! יש פתרון שלא חשבתם שיעזור!מרכז רפאל - מעל 35 שנות ניסיון בטיפול בפריצות דיסקטיפלנו באנשים שסבלו מכאבים עזים, שאיבדו את איכות החיים שלהם, חשו חסרי תקווה ואף עמדו לפני ניתוח.אצלנו תמצאו:אבחון מדויק של הגורם לכאב - מה הסיבה שבגללה הדיסק פרץ ממקומו על מה הוא לוחץ ומה ההשפעה של המצב הזה על האזור כולו ועל הבריאות הכללית של המטופל בכלל. טיפולים טבעיים בשיטת רפאל המותאמים אישית - שמטרתם לגייס את כל הגוף לטובת תהליך הריפויהקלה משמעותית בכאבים ושיפור באיכות החייםללא ניתוחים, תרופות או תופעות לוואיאל תוותרו על החיים שלכם",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585373570_1866364020917250_3429391885561249553_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CalGDuv7geEQ7kNvwEe4cpS&_nc_oc=AdqrvGa7yzh9oC60svvO6rpOgzJgWfY_w1yCDjm3VZRfXYgtnnEUtqYys4V5tOSORXg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQL96LlGzaO1jQk3bMALXrq3xptSoQ-tQSOEe33GTcympw&oe=6ABF247F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMefAt_aAQGPPF0s6N5vz6tOPNz1O1U5R9ENyxmPitSh8v1eapAUC1tJ1x7PMcOAgM4m4XW7a2CKTcKYRw0DNVy26yEv_EfoRxEAeqoNAFKkA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=3t1mbtXO8A0Q7kNvwG1eYFV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjUxMjQ1ODI1ODM5NzgzNywiYXNzZXRfYWdlX2RheXMiOjc0NSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a60cd7339ac53061&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjQwNDVGQTc0Qjc5NzQ5REYxOEM1RUE3MjkyNDI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyNjUxNzUwNTc4MTE0ODBfMzA5Mzk3NjgxMTY0NDI5MTAyMi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmuqhx_-E6QEVAigCQzMsF0A_IgxJul41GBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI3bmyp7TGQZW86yEx2b9KljEHUHFNmpS0bViXX7TBLmQ&oe=6ABF0073"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1491857011885409"
+      },
+      {
+        "id": "2060186774740749",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "פריצת דיסק לא לכל החיים",
+        "body": "סובלים מפריצת דיסק? אל תתייאשו! יש פתרון שלא חשבתם שיעזור!מרכז רפאל - מעל 35 שנות ניסיון בטיפול בפריצות דיסקטיפלנו באנשים שסבלו מכאבים עזים, שאיבדו את איכות החיים שלהם, חשו חסרי תקווה ואף עמדו לפני ניתוח.אצלנו תמצאו:אבחון מדויק של הגורם לכאב - מה הסיבה שבגללה הדיסק פרץ ממקומו על מה הוא לוחץ ומה ההשפעה של המצב הזה על האזור כולו ועל הבריאות הכללית של המטופל בכלל. טיפולים טבעיים בשיטת רפאל המותאמים אישית - שמטרתם לגייס את כל הגוף לטובת תהליך הריפויהקלה משמעותית בכאבים ושיפור באיכות החייםללא ניתוחים, תרופות או תופעות לוואיאל תוותרו על החיים שלכם",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/582763239_3767091450262824_829487919970151409_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=THHUP0ABx0kQ7kNvwGCQbd5&_nc_oc=Adqi931-hvlHYoe0e8BkgUJPIH3iiWcFt0K9Zdko2aSXIr6I6c8bb2Zw85CvzpnaJ2Y&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQIoLhtNwoy15mqS7orEtgR1xGgIXvSZ4QeWIG53f6qTaw&oe=6ABF255D",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMefAt_aAQGPPF0s6N5vz6tOPNz1O1U5R9ENyxmPitSh8v1eapAUC1tJ1x7PMcOAgM4m4XW7a2CKTcKYRw0DNVy26yEv_EfoRxEAeqoNAFKkA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=3t1mbtXO8A0Q7kNvwG1eYFV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjUxMjQ1ODI1ODM5NzgzNywiYXNzZXRfYWdlX2RheXMiOjc0NSwidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a60cd7339ac53061&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RjQwNDVGQTc0Qjc5NzQ5REYxOEM1RUE3MjkyNDI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEyNjUxNzUwNTc4MTE0ODBfMzA5Mzk3NjgxMTY0NDI5MTAyMi5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmmuqhx_-E6QEVAigCQzMsF0A_IgxJul41GBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI3bmyp7TGQZW86yEx2b9KljEHUHFNmpS0bViXX7TBLmQ&oe=6ABF0073"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2060186774740749"
+      },
+      {
+        "id": "1383347293353347",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/582987603_2635066503524339_5485311594754645879_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9MGHjJgH_SAQ7kNvwHjLqPU&_nc_oc=Adrth_GPWETMfXyNNNO7IwLCJ02sYv814YXQ8VDnLUv3rUl932Nfg7orHpqJQjwvWWU&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKwmMGLt-1SGxWO3kUhLEWsQZWlK0-kU6bG8zb8yErzAw&oe=6ABF19DC",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwGl9NGS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQJHPrfik4XFotiihdY5TKwQrvxtGeJ7GoItidhn3Ec4Dg&oe=6ABF0EAF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1383347293353347"
+      },
+      {
+        "id": "693180496845367",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "שמים משהו חם על שריר תפוס? זאת טעות חמורה! #מרכזרפאל #שיטתטיפול #כאבים #שרירים #כירופרקטיקה #כאב #כאביגב #בריאות",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584799361_846309177880443_4455030724344120002_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S3S-ko_4jJcQ7kNvwFpvzPt&_nc_oc=AdoOBGKsR_Kpzo2ZZFVwrVvxm4RJQ-ElVPg30ZpQLXIgRWlKHupjtR4m4D6F4IzW0mI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJGbDUY29FYzMIXwnBn1PNSoxtRNrYKV7h0Cjqy7p12Jg&oe=6ABF166B",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQPoc_ZK55-6hiZsSzRlxdA-OSYlJ0F3EyC-0AynNftmwkkksaUpgzriG1HSHtchcFLGPvLJEohv6pGjmqebnpoNntN-uwE_6yVK7Gut7-y00w.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=0iW5h6LUMGUQ7kNvwGl9NGS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MjU5NDIxMTk4MzM5NCwiYXNzZXRfYWdlX2RheXMiOjk4NSwidmlfdXNlY2FzZV9pZCI6MTAxMjAsImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4700a6b8e25ae1b0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQzQyNzUzMkJGMzg1REEyMjU0QzNGNDdDOEQ2QzU5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfZXBoZW1lcmFsLzE4NEQxMDREOTczQ0VFMDUzMEZERUQzNjg3NDVBN0EyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbEwPXkzeWbARUCKAJDMywXQEt7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZZCeAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQJHPrfik4XFotiihdY5TKwQrvxtGeJ7GoItidhn3Ec4Dg&oe=6ABF0EAF"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=693180496845367"
+      },
+      {
+        "id": "919469460923500",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "״כשהגב כאב לי- הייתי אומלל.״\nואז הגיע השינוי.\n\nאלי, בן 75, מספר במילים שלו על הכאבים, \nהנפילות בבית ועל השיפור שהוא מרגיש \nבעקבות הטיפול במרכז רפאל.\n\nלפעמים לא צריך להסביר יותר מדי.\nפשוט להקשיב למי שחווה את זה בעצמו. \n\n📍 מרכז רפאל | רמת אביב\nרוצים לבדוק אם הטיפול יכול להתאים גם לכם? \nכתבו לנו בפרטי.",
+        "link_description": "",
+        "landing_url": "https://rephael.co.il/%D7%9B%D7%90%D7%91%D7%99-%D7%92%D7%91-%D7%95%D7%A4%D7%A8%D7%99%D7%A6%D7%95%D7%AA-%D7%93%D7%99%D7%A1%D7%A7/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/791533587_2358886391584126_5311627359787646273_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pdvWttXIGa0Q7kNvwEGAh8R&_nc_oc=AdrnIBLQE1-bZzXYIgAmAfXObA7ROP8KrKGHf6RbZyYaKXAWBtmE3s01VzGpdQ53E_c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJu9n-XdjVxCp9My32MvMJOFJcz8LYAPIm1OVC4TcG0fw&oe=6ABF2291",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNlQKzOcSE92rsVyADatbyYmHdYMjYhe4ETVcnuT6D8zhR70bhptRgtIgVxAtJnsV_Ast9yXkB8TMgxPOpIU14iIFoAZnvNESdJLsLMRg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6yHvaEyiTOIQ7kNvwE_dcYx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDMwNTAzNzQ3NjQ1OTk0LCJhc3NldF9hZ2VfZGF5cyI6MTIsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo0OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI-WFbXdQVvGwcwzzMqV1coaZJ37UTGOUWO9MdOrlSzKQ&oe=6ABEFDA0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=919469460923500"
+      },
+      {
+        "id": "1397538785531503",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "<< לחצו למידע נוסף והשארת פרטים",
+        "body": "עברת כבר את כל הבדיקות, כולם אומרים לך שהכול תקין – אבל הגוף שלך עדיין סובל. \nניסית כבר כדורים, דיקור או פיזיותרפיה. עברת מסלול ארוך של בירורים ואכזבות, והכאב עדיין שם. הגוף שלך לא \"\"התקלקל\"\", והוא לא אמור להיכנע לשינויים שהגיל מביא איתו. הסיבה ששום דבר לא עזר עד היום היא הניסיון לטפל רק בסימפטום, במקום להבין מה מפעיל את הכאב ומשבש את מערכת התקשורת והאיזון של הגוף כולו.\n\nכבר מעל 40 שנה, ועל בסיס ניסיון עם אלפי מטופלים, שיטת רפאל מציעה אבחון מעמיק ועבודה רב מערכתית שמאתרת את מקור החסימה בגוף, ומשיבה לו את האיזון התפקודי מהיסוד.\nמפגש אבחון וטיפול ראשוני אצלנו הוא ההזדמנות לגלות איך זה מרגיש כשמעניקים לגוף את התנאים המדויקים שהוא באמת צריך כדי להשתקם.\n\nהגיע הזמן להבין מה באמת קורה בגוף שלך\n👉 השאירו פרטים ונשמח לבדוק איך נוכל לסייע לכם.\n📍 מרכז רפאל - ברזאני 4, תל אביב",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/724340894_1012818614548113_5465429957342848574_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=F-2lIi4_i20Q7kNvwG_PgxU&_nc_oc=Ado8DVbz_6gS5gX924FFPO4Ibx4k5hgALWwWL-6LgVn6pYR0jyRJMXxdt-hdjJLL2Is&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKAAb_ggIWEFMURXk6rLKVQU04xcTYSYHvkvLwVQ63YZQ&oe=6ABF0E9E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMsE2ZrOQOcZuhSijXBZNzvDq2XFscSy0sSw66SwrEPxQliZCMayiCG26GWfpijrLbeHd30nLFYBXBz2RfVKrBQS3kLzUdDxbkbMVvGDEhzSA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zDCVpuBGjWMQ7kNvwG6vZgg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDc2MTkyNTY5NDUxMDcsImFzc2V0X2FnZV9kYXlzIjoxMTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6e6c64087f43195b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzQzNTQzRjVFMzI4MkMwREVFMjMwOTlGRDc2NTk4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlDNEI1MDk4RkJFMUZDMDZEN0Q1MjA0MjY4QkM3MkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamp8bzwsSIBhUCKAJDMywXQEjgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQLMnPjlzlDkyk_4XuPNQWYBsAy5i9WEhQWu0psGam0kFQ&oe=6ABF2581"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1397538785531503"
+      },
+      {
+        "id": "2060063045394037",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "<< לחצו למידע נוסף והשארת פרטים",
+        "body": "עברת כבר את כל הבדיקות, כולם אומרים לך שהכול תקין – אבל הגוף שלך עדיין סובל. \nניסית כבר כדורים, דיקור או פיזיותרפיה. עברת מסלול ארוך של בירורים ואכזבות, והכאב עדיין שם. הגוף שלך לא \"\"התקלקל\"\", והוא לא אמור להיכנע לשינויים שהגיל מביא איתו. הסיבה ששום דבר לא עזר עד היום היא הניסיון לטפל רק בסימפטום, במקום להבין מה מפעיל את הכאב ומשבש את מערכת התקשורת והאיזון של הגוף כולו.\n\nכבר מעל 40 שנה, ועל בסיס ניסיון עם אלפי מטופלים, שיטת רפאל מציעה אבחון מעמיק ועבודה רב מערכתית שמאתרת את מקור החסימה בגוף, ומשיבה לו את האיזון התפקודי מהיסוד.\nמפגש אבחון וטיפול ראשוני אצלנו הוא ההזדמנות לגלות איך זה מרגיש כשמעניקים לגוף את התנאים המדויקים שהוא באמת צריך כדי להשתקם.\n\nהגיע הזמן להבין מה באמת קורה בגוף שלך\n👉 השאירו פרטים ונשמח לבדוק איך נוכל לסייע לכם.\n📍 מרכז רפאל - ברזאני 4, תל אביב",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1781506800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/724640063_1353992846730690_5044805421576139700_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l3CyiZUn0WAQ7kNvwEDwXT0&_nc_oc=AdohdANK7mlffnlUGOXASa__v_2nt4GzzJr651JDzy_KzbCogt3_6B4LK4hwORxAlH8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJm5IpdIZ_pMjcIe-HMBZu-nNf6_O7_irZWzmhJ-vuNCg&oe=6ABEFD3A",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMsE2ZrOQOcZuhSijXBZNzvDq2XFscSy0sSw66SwrEPxQliZCMayiCG26GWfpijrLbeHd30nLFYBXBz2RfVKrBQS3kLzUdDxbkbMVvGDEhzSA.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=zDCVpuBGjWMQ7kNvwG6vZgg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDc2MTkyNTY5NDUxMDcsImFzc2V0X2FnZV9kYXlzIjoxMTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6e6c64087f43195b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NzQzNTQzRjVFMzI4MkMwREVFMjMwOTlGRDc2NTk4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlDNEI1MDk4RkJFMUZDMDZEN0Q1MjA0MjY4QkM3MkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamp8bzwsSIBhUCKAJDMywXQEjgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQLMnPjlzlDkyk_4XuPNQWYBsAy5i9WEhQWu0psGam0kFQ&oe=6ABF2581"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2060063045394037"
+      },
+      {
+        "id": "2262615057847693",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "פריצת דיסק לא אומרת בהכרח ניתוח",
+        "body": "אמרו לכם שיש פריצת דיסק? זה עדיין לא אומר שהשלב הבא הוא בהכרח ניתוח.\n\nהמילים \"פריצת דיסק\" יכולות להבהיל. במיוחד כשכואב, כשהכאב מקרין לרגל או כשכבר קשה לעשות דברים שפעם עשיתם בלי לחשוב.\n\nאבל לפני שמחליטים מה נכון לעשות, חשוב לחבר בין מה שרואים בהדמיה לבין מה שקורה בגוף בפועל.\n\nאיך אתם נעים?\nאיפה קיימת מגבלה?\nהאם הכאב מקרין?\nמה מחמיר אותו ומה מקל עליו?\nומה כבר השתנה בחיים שלכם בגלל הגב?\n\nבמרכז רפאל אנחנו לא מטפלים רק במה שכתוב ב־MRI. אנחנו בודקים את האדם שמאחורי ה־MRI.\n\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית של עמוד השדרה והגוף כולו.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nיש לכם בלט או פריצת דיסק ואתם רוצים להבין טוב יותר מה האפשרויות שלכם?\n\nהשאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מעל 35 שנות ניסיון קליני | מרכז רפאל, תל אביב",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772792836_1442843364352370_4800929933255504957_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yMy0FC0csu0Q7kNvwF5YNHI&_nc_oc=AdrZ8BKHl-89D_IodMSXGu-8US-ID2HsY7FzgReUvk30YEgopkaa-nf6rPm4nvbii8w&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQLHEuH2ULJlaMLSOO1eXwUlBnZsI4FQ8rRbxWYpXxILdQ&oe=6ABF0CB4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOi1w06qZ9Y9pbnGDmchcceSbbRYSt8PVNjuC2st9lHjj0U8LMjT5zoFANp0-fQBCelwnejjry3dxdB1zs6-VMFY4cG46My4u8etA9riYs5zQ.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=kkHrxizuBzAQ7kNvwGTNkMK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwOTE5OTMzMDQ3MzY2ODYsImFzc2V0X2FnZV9kYXlzIjo0OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=624cbd4a4135b948&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FNjQ0NEIzNUQ3RDRBNkM2ODUxM0Y0MzYxRDlGMzJBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE0NDM0MjM4RjQ0MjNFQkRCMjA0RTk5MjQwNkFGQ0E2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbcjunchKq3BxUCKAJDMywXQEd1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQIrF-mzOV5Xuqjn3Hdrnuesa87q5gapIRDxhRu0l1dAoQ&oe=6ABEF822"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2262615057847693"
+      },
+      {
+        "id": "1802573427064942",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+        "body": "מיגרנות חוזרות הן לא רק כאב ראש. הן עומס שמצטבר בגוף ומשפיע על שגרת החיים שלך.\n\n❌ למה המיגרנה חוזרת גם אחרי הכדור?\n✔ כי הכדור מקל על הכאב, אבל לא על הגורמים שמייצרים אותו.\n\nבמקרים רבים הכאב הוא רק הסימן.\nלעיתים יש עומס מצטבר במבנה הצוואר והגב העליון, או דפוסי תנועה שמעמיסים על הגוף והמיגרנה היא הדרך שבה הגוף מגיב.\n\nבמרכז רפאל עובדים בגישה שמסתכלת על כל המערכת, לא רק על הסימפטום.\nהמפגש הראשון כולל בדיקה ידנית מעמיקה של דפוסי התנועה והמתח בגוף, ולאחריה טיפול ראשוני להקלה.\nבהמשך נבנית תוכנית טיפול אישית, שמשלבת כמה שיטות בהתאם לצורך: כירופרקטיקה עדינה, אוסטאופתיה, דיקור וטכניקות נוספות.\nבשיטת רפאל:\n✔ מפגש ראשון הכולל בדיקה ידנית מעמיקה וטיפול ראשוני\n✔ שילוב מקצועי של כמה שיטות טיפול בכל מפגש\n✔ התאמת תוכנית טיפול אישית ומעקב לאורך כל הדרך\n\n🎯 אם המיגרנות חוזרות פעם אחר פעם, יכול להיות שהגוף מאותת שמשהו צריך להשתנות.\n👉 השאירי פרטים ונחזור אליך בהקדם",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1767945600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/612907575_1425471782348059_156488657075361193_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5aJQQ0fnLXoQ7kNvwHnrHmd&_nc_oc=Adp6JAx5mYH1Te91LQIciX-bWfxbeDXCcG7cP68kLPg2Rsuv_tAWfqVS2XHZQb3TvJA&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQINF8_osYQDYcan-OZBwmgLhyjDBVywWtFoBLiy66GNog&oe=6ABEFD17",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOIVHjii-UBt9-shkPZvFdSElD0AeMGeKSTOQuaJIpEvtMtBctR-HxHk6MwbnpsYWfcwz4DC4upNw6cYvBE_CYx3C1B43XRZzrArpqW_bmFQA.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=yJmu2RKXtnAQ7kNvwHoTRh8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTQxOTQ0NTUzNjIwOTksImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4ba05665d9bdd8ab&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MTQ1Nzk0NDhDMzU5MUI0MzE4N0ZFOEY4MEFEMTk5MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFNDc0QzJBOTI4MjJENUFGMEUwQzUzMTEwNENFNDg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6MGMhMTMBBUCKAJDMywXQERHrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQIMDHIZ630p0YvRIi_QsmpluzLtTR0fZYfrmMy-uBp4Tw&oe=6ABF1356"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1802573427064942"
+      },
+      {
+        "id": "844113264648323",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "✨ כל סיפור הצלחה מזכיר לנו למה התחלנו\n\nלראות את המטופלות שלנו חוזרות לחיים מלאים,\nמשתחררות מכאבים שליוו אותן שנים,\nומגלות מחדש את היכולת לחיות בלי הגבלה -\nזה הדבר שנותן לנו השראה בכל יום מחדש 💫\n\nאם גם אתם סובלים מכאבים שלא עוברים,\nומרגישים שכבר ניסיתם הכל -\nחשוב שתדעו שיש דרך אחרת.\nהגוף שלכם יודע לרפא את עצמו,\nהוא רק צריך את ההכוונה הנכונה 🌱\n\nתודה על האמון ועל השיתוף המרגש 🙏\n\nמרכז רפאל",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763539200,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 2,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584437014_1533816754534513_1391074040181915568_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAxwoZsHMLoQ7kNvwFo1ud3&_nc_oc=Adr7Vi3vgoQmD2yZ496zik4f_FaBR6fe1cXZPd3xkmYFI3PRKqPrNylwtBWW-hyIxZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKE79FBtYQ-oNnpBJBLDL2BynYa3RmlAxoxgsty89cA6w&oe=6ABF0051",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOcdaPKrqSXgoPrLxFMqEjum9H7tGTMGuWxbwv4VHXsZKsP4zAv2V2HroX6UljMedqMJfqK0wZzSLDFuzDKuvCddOlUw9OsaKkfF1Mb8XrkXw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aymf-uy9YXwQ7kNvwEjrRDB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYxMTQ4ODQwNDgwNjc0NCwiYXNzZXRfYWdlX2RheXMiOjU3NywidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=77acd7282b83c3a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjQ5Q0ZDMTk3MEZCNTQ3Q0FBN0ZBM0U3MUZGQjFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMd3J0eHgycTVHTUhtSURBTlJhWG5hZmpaTWJidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw8bjSp4mWAhUCKAJDMywXQFFbtkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQKS6uZI_XB8hOyZYMS0c6JzbkLBdbaGAEyOtjmeOrZoEg&oe=6ABF01D9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=844113264648323"
+      },
+      {
+        "id": "1887963151756359",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "✨ כל סיפור הצלחה מזכיר לנו למה התחלנו\n\nלראות את המטופלות שלנו חוזרות לחיים מלאים,\nמשתחררות מכאבים שליוו אותן שנים,\nומגלות מחדש את היכולת לחיות בלי הגבלה -\nזה הדבר שנותן לנו השראה בכל יום מחדש 💫\n\nאם גם אתם סובלים מכאבים שלא עוברים,\nומרגישים שכבר ניסיתם הכל -\nחשוב שתדעו שיש דרך אחרת.\nהגוף שלכם יודע לרפא את עצמו,\nהוא רק צריך את ההכוונה הנכונה 🌱\n\nתודה על האמון ועל השיתוף המרגש 🙏\n\nמרכז רפאל",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": null,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/584437014_1533816754534513_1391074040181915568_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tAxwoZsHMLoQ7kNvwFo1ud3&_nc_oc=Adr7Vi3vgoQmD2yZ496zik4f_FaBR6fe1cXZPd3xkmYFI3PRKqPrNylwtBWW-hyIxZc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKE79FBtYQ-oNnpBJBLDL2BynYa3RmlAxoxgsty89cA6w&oe=6ABF0051",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOcdaPKrqSXgoPrLxFMqEjum9H7tGTMGuWxbwv4VHXsZKsP4zAv2V2HroX6UljMedqMJfqK0wZzSLDFuzDKuvCddOlUw9OsaKkfF1Mb8XrkXw.mp4?_nc_cat=111&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=aymf-uy9YXwQ7kNvwEjrRDB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjYxMTQ4ODQwNDgwNjc0NCwiYXNzZXRfYWdlX2RheXMiOjU3NywidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=77acd7282b83c3a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjQ5Q0ZDMTk3MEZCNTQ3Q0FBN0ZBM0U3MUZGQjFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMd3J0eHgycTVHTUhtSURBTlJhWG5hZmpaTWJidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw8bjSp4mWAhUCKAJDMywXQFFbtkWhysEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQKS6uZI_XB8hOyZYMS0c6JzbkLBdbaGAEyOtjmeOrZoEg&oe=6ABF01D9"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1887963151756359"
+      },
+      {
+        "id": "869201365627169",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "<< לפרטים נוספים שלחו הודעה",
+        "body": "אם אתם סובלים מכאבים כרוניים או מוגבלות בתנועה, ייתכן שהתחושה הזו כבר הפכה לחלק בלתי נפרד מחייכם. אולי אתם אפילו חושבים שזה \"המצב\" ואין מה לעשות. אבל זה לא נכון.\nבמרכז רפאל עם שיטת רפאל אנחנו מתמקדים במציאת פתרונות מהשורש,  ולא בפתרונות זמניים. שיטת רפאל מביאה גישה חדשה לעולם הטיפול בכאבים, גישה שמתבססת על ניסיון של יותר מ-30 שנה ועל הבנה עמוקה של הקשר בין הגוף, הנפש, והתנועה.\nאז איך זה עובד?\nבמרכז רפאל בתל אביב, במפגש ראשוני ייחודי, נתחיל להחזיר את הגוף שלכם לריפוי ואיזון טבעי. נבדוק מהגולגולת ועד כפות הרגליים כדי לאתר את המקור האמיתי של הבעיה, ולא רק את הסימפטומים.\nאם נזהה צורך, נציע תוכנית טיפול מסודרת להשגת תוצאות לטווח ארוך, תוך התאמה אישית של מגע, תנועה וטכניקות מהרפואה המשלימה.\n\nהתוצאה? שיפור ממשי באיכות החיים, חזרה לתפקוד מיטבי, ולעיתים קרובות – גם היעלמות מוחלטת של הכאב.\nאל תסבלו יותר! \n\nהשאירו פרטים או צרו קשר עוד היום\n\n📍 מחכים לכם במרכז ברזאני 4 , תל אביב\nמרכז רפאל - מטפלים בבעיה מהשורש!",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1763452800,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/581029362_1354680286058856_8203470550526969565_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Uq6Zma_50EoQ7kNvwFNCR1G&_nc_oc=Adqbs44eRHoFk3uEmK2eA5A2rD-POMR-N8Wv9qEDDsYyD1hHO3iq6DTmRGV9R6yh-zM&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKxHys3RBjfq41xajgPFXzOPH4RSxbZmmqLpqk3imxTEg&oe=6ABEFB5F",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN0969265OEYDgKrQCZiBxlHRZ2IN86fKG6kFPt63u-QmPqMKumOKeX8hSD3-exOrfIcxI9vp6CZB0MkRjBcs2htHJN0yHcsYdgX1JuSQNNvQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=7mJII7cmThQQ7kNvwHbMLAd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk5NTA5NDY5NTUxMTUwNywiYXNzZXRfYWdlX2RheXMiOjU1NSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2914957bb21072bf&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMDQ3RERFRDNFNDAyQTczQjk0OTNCOTlFOTFFMzA4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMRkg2eHd1U1NabU1UMENBT29ld3ZuZzlfc1NidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaml8CdkcLEAxUCKAJDMywXQFJogxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQL0kiZw9Y-wpcGQRAAMw-X0tsOXp635-ldtx5eCbCL7HA&oe=6ABEF98B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=869201365627169"
+      },
+      {
+        "id": "1060214020239464",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "יש המלצות שמספרות יותר מכל מה \nשאנחנו יכולים לכתוב על עצמנו.\nקובי סידי מכיר את מרכז רפאל כבר שנים, \nולאורך הדרך גם הפנה אלינו אנשים שהיו חשובים לו.\nבסרטון הוא מספר במילים שלו על החוויה שלו \nועל מה שגורם לו להמשיך להמליץ על מרכז רפאל.\nאנחנו יכולים לספר על שיטת רפאל, על הבדיקה היסודית, על דרך הטיפול ועל יותר מ־35 שנות ניסיון קליני.\nאבל לפעמים עדיף פשוט להקשיב למי שכבר היה כאן.\n\nואם גם אתם מתמודדים עם כאב או מגבלה ורוצים להבין האם הגישה שלנו יכולה להתאים לכם, תכתבו לו ונחזור אליכם בהקדם.",
+        "link_description": "",
+        "landing_url": "https://rephael.co.il/%D7%9B%D7%90%D7%91%D7%99-%D7%92%D7%91-%D7%95%D7%A4%D7%A8%D7%99%D7%A6%D7%95%D7%AA-%D7%93%D7%99%D7%A1%D7%A7/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/816996346_1098030242610248_5476066960374044544_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fzwu_-ww6R8Q7kNvwHCYsRz&_nc_oc=AdruE7T7nMlGArEJ0ZqymBioDsa6dB8cjJ-PLugfaW_O6tqzYzh2p27cgsDdXUVbJFg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJbqfkwJvVNsXsHYjiv1afv4dtMqEyS-GkTJ-srj8GLHw&oe=6ABF27E7",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQPjPSSpZJLHBDPWA44alqWjiO4fdXH7fir7h7Xz2xraenYnqZwUETgGvSR8NfshiF1MTJpgmpbfaBdkMXz-Us-1T73ECsIMw3bl7IrcFA.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=fsl-jReBJ4kQ7kNvwHlZoWj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzUwMjY4MjkyOTcyMjcwLCJhc3NldF9hZ2VfZGF5cyI6MjUsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjozMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQKFUVt1RQ5h0CufL3dF1RmC5JUseCqceKe_4kYWZYpJkw&oe=6ABF2677"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1060214020239464"
+      },
+      {
+        "id": "1769234800999120",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "",
+        "body": "״כבר אחרי הטיפול הראשון הרגשתי שינוי.״\n\nאילן סאלם הגיע אלינו כשהכאב \nכבר פגע לו בחיים עצמם \nהוא לא הצליח לנגן, התקשה לתפקד \nולעשות את הדברים שהיו חלק מהשגרה שלו.\n\nואז התחיל השינוי.\n\nהיום הוא חזר לנגן, חזר לתפקד ובעיקר \nחזר לחיים הרגילים שלו. \n\nלפעמים זה בדיוק המדד שהכי חשוב לנו:\nלא רק כמה כואב\nאלא כמה מהחיים שלך קיבלת בחזרה.\n\n🎥 תשמעו את אילן מספר.",
+        "link_description": "",
+        "landing_url": "https://rephael.co.il/%D7%9B%D7%90%D7%91%D7%99-%D7%92%D7%91-%D7%95%D7%A4%D7%A8%D7%99%D7%A6%D7%95%D7%AA-%D7%93%D7%99%D7%A1%D7%A7/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1790060400,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/819110313_1607853694172768_4033217359121758924_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vFAEn60383UQ7kNvwE0hNaQ&_nc_oc=AdrPMESEmXq-2RABcsbwwRXk0To-xe7hAPZkYA9AKdbN-0sepZ5ZbxLPXxVEYIsGHsU&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJDSO2lU5seRJC6tw3ZYjvTZR2s_2G7vWokJI9C7-o_qQ&oe=6ABF0930",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNm1_ehniWze7mlDvwUARbyJ14tWd4S9-ygVavGuodbDNAh_gO8RHaUD68fpIgGPM7qpHZ1lSEoVT8Jfcy0qHZouK4w-D88dGS8nssq26YqDw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=qPUunHW9gS8Q7kNvwFvjblQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjMyNTAyMzE4MDIzNDYsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3af5cc1021fa59a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTQ1MEY4MTc1MDRDMEQwRTBBOTJDM0UyMzBGRTdCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJENDU4NUZCMEIwMTdDMDc4RkUxNTk0M0Y3NURGN0JGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU58Xkr7SZBRUCKAJDMywXQEqiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQIypqDwQy1aQ6hTWl-WP5k7gUYXNtroqQX-tSp2AnsFZg&oe=6ABF190B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1769234800999120"
+      },
+      {
+        "id": "1079861161069380",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "כאבי הראש חוזרים? כדאי להסתכל גם מעבר לראש",
+        "body": "כאבי הראש חוזרים שוב ושוב? כדאי להסתכל גם מעבר לראש.\n\nיש אנשים שחיים שנים עם מיגרנות וכאבי ראש. הם כבר מכירים את הכדורים, יודעים לזהות מתי התקף מתקרב ולפעמים אפילו למדו לתכנן את החיים סביבו.\n\nאבל כשכאבי הראש חוזרים, יש עוד דברים שכדאי לבדוק.\n\nהאם יש גם נוקשות או כאב בצוואר?\n\nהאם התנועה מוגבלת?\n\nמה קורה ביציבה, בשרירים ובנשימה?\n\nוהאם יש עומסים נוספים שיכולים להיות חלק מהתמונה?\n\nבמרכז רפאל אנחנו לא מניחים מראש שכל כאב ראש נובע מאותה סיבה.\n\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית, שבה אנחנו מסתכלים על הצוואר, עמוד השדרה ועל הגוף כולו.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nמתמודדים עם כאבי ראש חוזרים או מיגרנות? השאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מרכז רפאל | בדיקה יסודית וטיפול מותאם אישית",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772535101_1801019531317488_8880828701015682245_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zzri3wM6LSYQ7kNvwHNkPMk&_nc_oc=AdrSbLIntKVAAkjXmS2A-3dOcfBXQIe-BarMaq9IvTNzAJzjOd2EVVR0e1O3vyDfJiw&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQIR4NHacYrjw_O9SThr7JM9Je3U_tLLIi4Be0ioh60QNQ&oe=6ABF0ACB",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMSIoLHb-hNs9swYgwUbQIcmTmh3hUSZwqBZGQ6oKZ3plrjP64g5khU5_MamTn97JSuA-it3Evm7FE_U0mvEiIia2xWdOXseo8bgwmWWWDg6A.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=uGn0f_shiuoQ7kNvwEPu0J1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODczMjA2MDAwMzU2NDAsImFzc2V0X2FnZV9kYXlzIjozMDgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=41c5a6c1b25b4f9e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQzQzOEQ4RTY0NjIxNEY3MjkxMTAzNzM0RDdGRTRCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZCNDJERDdDOTYwMTgwRjY1MTExNEUzRUYzOTYxMkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwhMzpk_ebBBUCKAJDMywXQERHrhR64UgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQJFV-NVah_QXGukR91nQgZ4WoumrXo8glOP9lFcuNTusQ&oe=6ABF0F2F"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1079861161069380"
+      },
+      {
+        "id": "1469859968302082",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "למה קובי סידי ממליץ על מרכז רפאל?",
+        "body": "יש המלצות שמספרות יותר מכל מה שאנחנו יכולים לכתוב על עצמנו.\n\nקובי סידי מכיר את מרכז רפאל כבר שנים, ולאורך הדרך גם הפנה אלינו אנשים שהיו חשובים לו.\n\nבסרטון הוא מספר במילים שלו על החוויה שלו ועל מה שגורם לו להמשיך להמליץ על מרכז רפאל.\n\nאנחנו יכולים לספר על שיטת רפאל, על הבדיקה היסודית, על דרך הטיפול ועל יותר מ־35 שנות ניסיון קליני.\n\nאבל לפעמים עדיף פשוט להקשיב למי שכבר היה כאן.\n\nצפו בקובי.\n\nואם גם אתם מתמודדים עם כאב או מגבלה ורוצים להבין האם הגישה שלנו יכולה להתאים לכם, השאירו פרטים ונשוחח.\n\nאני רוצה לבדוק אם זה מתאים גם לי",
+        "link_description": "מעל 35 שנות ניסיון קליני | מרכז רפאל, תל אביב",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773637510_1593275139088174_3223371760498046868_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rqJGXXJfNOIQ7kNvwFIiZiG&_nc_oc=AdpsitTqOlREhVC1aHM9kATpbogL4l3EuHIsIqf6pNGsevNPINqEsHnmt1eczSYvS04&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJjlUenC0GTd40IO1aIiJCGw9G-rJ-yergnHhxVT8anBA&oe=6ABF0EC0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-jf88yLpWsKIf_MI2aSqyBcjAyOPFCzp0R1XPD3q6NxLE4_A3WTuefa7csnhKG2vri6C2XEBL5B9ZIH0dyoG5SVSMvRddw4UdmWuliHG1Dg.mp4?_nc_cat=107&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=D8LGFahplogQ7kNvwGH0GR4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1Mzk0MTI0NTQxNTQ4ODQsImFzc2V0X2FnZV9kYXlzIjo0NiwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=17b7a246a5bbdcc0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QzQ0OTI4MkFFRTE1RDg1Q0IxNUY0OTkxMkE1MTBBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNDUyRUI2MTc1QUVCRkZDMzU2QkQ1M0FFRjNGRTk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIivHHzIW8BRUCKAJDMywXQD4AAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQLmn9-iz9XNR_aeuc5S4NDbFSOfy6oSJ83xY_emZVAdGA&oe=6ABF2705"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1469859968302082"
+      },
+      {
+        "id": "852963897366151",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "שלחו עכשיו וחזרו לחיים ללא כאב>>",
+        "body": "❌ פריצת דיסק? זו לא גזירת גורל! ✅\nכמה פעמים שמעתם את המשפט \"\"עם פריצת דיסק פשוט לומדים לחיות\"\"?\nהאמת - זו טעות שעלולה לפגוע בבריאות שלכם לטווח הארוך.\nבטיפול קונבנציונלי תרופות וזריקות מטרתן היא לטשטש את הכאב, שהוא בסך הכול הסימפטום.\nהבעיה האמיתית היא חוסר תפקוד של עמוד השדרה והמערכת העצבית, שמונע מהגוף ריפוי והחלמה.\nבשיטת רפאל הטיפול בפריצת דיסק משלב בכל מפגש טכניקות שונות בהתאמה אישית למצבו של כל מטופל (כירופרקטיקה/קרניוסקראל/דיקור/רפואה סינית ועוד) כדי להחזיר לגוף את היכולת לרפא את עצמו - באופן טבעי, ללא ניתוחים או תרופות.\n✔ מעל 30 שנות ניסיון מצטבר\n✔ מעל 11 אלף מטופלים - כולל ספורטאי ליגות העל \n ✔טיפול מותאם אישית בכל מפגש, בליווי צוות מומחים שעובדים בשיתוף פעולה מקצועי קליני לפי שיטת רפאל\n✔תהליך ריפוי אמיתי שמחזיר את הגוף לתפקוד באופן טבעי \n ✔אחריות מלאה על פגישת האבחון - אם לא מצאנו בפגישת האבחון את הסיבה האמיתית לכאב - כספכם יוחזר.\nאין צורך להתחייב מראש - דברו איתנו, קבלו תשובות מקצועיות ותגלו אם שיטת רפאל מתאימה לכם, בלי סיכון ובלי התחייבות.\n📍מרכז רפאל - ברזאני 4, תל אביב\nשלחו עכשיו וחזרו לחיים ללא כאב.",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "WHATSAPP_MESSAGE",
+        "cta_text": "שליחת הודעת WhatsApp",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1767945600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/613446272_1767378580487218_5265818655021184531_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rRHsWVscOf8Q7kNvwEzlwMg&_nc_oc=AdrynQ8V14uR8GrcbvsfSsJbwkfxFHUOQIzEwEiyq4EqgxuozSa46tUEmtKWs-cxJl8&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQL6r3_SA3SgB09dxIMliaQdyn26uQaEX3OEZf7i3IUuyA&oe=6ABF224F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNzZ8X57Oa5icWM5qy7LqyMH_JM6lOQnbxRaw85xPt78JdjaW46qwipOes7Ue2nOKqScwS6_VDkDwCn6hHqn0eRjV-QAEP3jxYott3Srz3gow.mp4?_nc_cat=106&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=7v0iE9gx5nYQ7kNvwE1j-PT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzk2NDg3NjMyMTU0MzMsImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9b601f1c9ea1daae&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QzQ0OUY4MTcxRTBGMDM0RTAyODlFRjkxQkY2OEJBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y1NDkwOEQwODdBRkFFQkZFRUVCMzE1RjNDMUQ1OTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaS-Z_P27z6BxUCKAJDMywXQEd1wo9cKPYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI-KlhyNNGFWMDMJ0twOZnhYMm_SL1clGjo4TeF6pYBTg&oe=6ABF1FDE"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=852963897366151"
+      },
+      {
+        "id": "28179436971717852",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "שירות בריאות"
+        ],
+        "ad_creative_link_title": "פריצת דיסק לא אומרת בהכרח ניתוח",
+        "body": "אמרו לכם שיש פריצת דיסק? זה עדיין לא אומר שהשלב הבא הוא בהכרח ניתוח.\n\nהמילים \"פריצת דיסק\" יכולות להבהיל. במיוחד כשכואב, כשהכאב מקרין לרגל או כשכבר קשה לעשות דברים שפעם עשיתם בלי לחשוב.\n\nאבל לפני שמחליטים מה נכון לעשות, חשוב לחבר בין מה שרואים בהדמיה לבין מה שקורה בגוף בפועל.\n\nאיך אתם נעים?\nאיפה קיימת מגבלה?\nהאם הכאב מקרין?\nמה מחמיר אותו ומה מקל עליו?\nומה כבר השתנה בחיים שלכם בגלל הגב?\n\nבמרכז רפאל אנחנו לא מטפלים רק במה שכתוב ב־MRI. אנחנו בודקים את האדם שמאחורי ה־MRI.\n\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית של עמוד השדרה והגוף כולו.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nיש לכם בלט או פריצת דיסק ואתם רוצים להבין טוב יותר מה האפשרויות שלכם?\n\nהשאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מעל 35 שנות ניסיון קליני | מרכז רפאל, תל אביב",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/780651200_2267031667476821_4109673223644968070_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TkyzKR7IFDkQ7kNvwE3qvyR&_nc_oc=Adrmuh28ZM0FOLTdtbU9FzDI6OmXg6CtUxlPdlO1EKChjQm9ZtbD5imJoX9YUVCD01Q&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJg0oCezpAfcsJK4pHiuyOJXpbeQwV-J-8NZQeK-ZcsMw&oe=6ABF02E4",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMt1lBjWQiiAAuVYjVf5F-kNvtj49pXysVH4o33M1bYeZNoi73ScqbPThXfUEQlx1sO0vC3LzTzq3wYXpdHTnHOrY8xQbL4XJt8K-ZDZApNLQ.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=Vj68c-vHds4Q7kNvwFpxq73&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk3NDcyOTYyNzI2OTMzMSwiYXNzZXRfYWdlX2RheXMiOjg2NywidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjMxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=81d2534f8bb3684f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zODQ1NjQ5Rjc5NkMxNkVCM0YwODEwOTVGQkFCOUE4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50Lzc3NjQ5NzIzNDU4NjYwMV8yNTgxMTUxNDE4NjAxMjQxNjQ4Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACam4_vS3aC7AxUCKAJDMywXQD8iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQLL2UpjtGWMu5rihLT1HwUqYcJHH_BoPhMA77bwkev5mQ&oe=6ABF0C54"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=28179436971717852"
+      },
+      {
+        "id": "1753529305924991",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "שירות בריאות"
+        ],
+        "ad_creative_link_title": "על כמה דברים כבר ויתרתם בגלל הגב?",
+        "body": "בלי ששמתם לב, התחלתם לוותר על תנועות שפעם עשיתם בלי לחשוב.\n\nלא מתכופפים עד הסוף.\n\nמבקשים ממישהו אחר להרים משהו מהרצפה.\n\nמסתובבים עם כל הגוף במקום לסובב את הגב.\n\nחושבים פעמיים לפני שמרימים את הנכד או הנכדה.\n\nולפעמים אפילו אומרים לעצמנו:\n\n\"טוב, זה כנראה הגיל.\"\n\nאבל לא תמיד זה הגיל.\n\nכשכאב חוזר או כשאנחנו חוששים מתנועה מסוימת, אנחנו מתחילים לפעמים להתנהל בזהירות ולהימנע מתנועות שאנחנו מפחדים שיעוררו שוב את הכאב.\n\nולאט לאט, כמעט בלי לשים לב, החיים מתחילים להצטמצם סביב הגב.\n\nבמרכז רפאל מעניין אותנו לא רק איפה כואב.\n\nמעניין אותנו גם מה כבר הפסקתם לעשות בגלל הכאב.\n\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית, מהגולגולת ועד כפות הרגליים. בודקים את עמוד השדרה, התנועה, השרירים והמפרקים ורואים מה קורה כשאתם מתכופפים, מסתובבים ונעים.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nאם אתם מזהים שהתחלתם לוותר על דברים בגלל הגב, אולי הגיע הזמן לבדוק מה קורה.\n\nהשאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מעל 35 שנות ניסיון קליני | מרכז רפאל, תל אביב",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/772817889_1241908304691501_674580534901131111_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MrIvVnINn00Q7kNvwG9bLjN&_nc_oc=AdrpfSrM3B-_bwzMScQyIhAKLqy0YUZYxNmHq2tGc92kzkaq_Bfddqxntiy7zoXVcx0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQI19oSlD6pGxbBj6rsD9JTItZ7NEZstBo8xb-BjWh-oDg&oe=6ABF18F0",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQO8Lkom8cSDZmPgvRODXNTbL_0-qjGoUyAaiF-U5W-gC2AqkIa49aFaUeJHqg-D83m5tzh1fOZHSjAxUj_jfiQ_dQf-ZGtZpWxsCjY06udxXw.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UBmhnjSD1wcQ7kNvwHHAAkG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNTM1ODE3NDE3MTQxODMsImFzc2V0X2FnZV9kYXlzIjoxMTAsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c4d8640dab95ec95&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80QzQ4QkJBNkUzQzEwQ0VDMzIyOTNBOTEwNUUwRTlCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0EwNDRCMjM3MThBRUM2MDhGMkJDRjdEQjYzN0YwQTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOrNG6vqSuCBUCKAJDMywXQFBgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQK5K3uid1MyWvbQSKJVafW9LjQvyvYq3PjVfQnR8w0XMg&oe=6ABEFC5E"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1753529305924991"
+      },
+      {
+        "id": "1909909046813938",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "Health Service"
+        ],
+        "ad_creative_link_title": "פריצת דיסק ב־MRI. אבל מה באמת גורם לכאב?",
+        "body": "יש לכם פריצת דיסק או בלט. ראיתם את זה ב־MRI. אולי אפילו הסבירו לכם שזה מקור הכאב.\n\nאבל יש עוד שאלות שחשוב לשאול.\n\nאיך אתם נעים?\nאיפה התנועה מוגבלת?\nהאם הכאב מקרין לרגל?\nמה מחמיר אותו ומה מקל עליו?\nומה הכאב כבר מונע מכם לעשות בחיי היום־יום?\n\nבמרכז רפאל אנחנו לא מטפלים בצילום. אנחנו בודקים את האדם.\n\nכי ממצא ב־MRI הוא מידע חשוב, אבל הוא לא תמיד מספר את כל הסיפור.\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית של עמוד השדרה והגוף כולו.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nיש לכם פריצת דיסק או בלט והכאב ממשיך? השאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מרכז רפאל | בדיקה יסודית וטיפול מותאם אישית",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/773339093_2066167260774254_4563637609878344359_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HOzesvlhHKUQ7kNvwFpL0aa&_nc_oc=AdqiYd2l31xTq8fhz16jpLskfeswC8exxhfI10_W0bNGcqSWitQBLrtNNG_0QB43WMY&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQKkqnlp_3WSYl_KulUrxjFN4YrCZ4I-5V4RmY3mQWvMrg&oe=6ABF0F9E",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQPcvmHMFjhBnwm6R3sa9uvqBZhKYbRfOm0N52-_KjbRxUhPqNXT9foESNy5PObyB9MHKYVsrZ18rXYuJrElWt0bAkJ6UrcUaethstjfXSkYZw.mp4?_nc_cat=109&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=1bIwqx2IDsUQ7kNvwEAtihJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjYxMzg4NzYyMjE2MzYsImFzc2V0X2FnZV9kYXlzIjozNTcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=41838d54c8ac0c1d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRDQ1MEQxNDRDOEYyQjA3QjA0MEEyQUZCQTUwMjA5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDA1NzQzRkQ3MzM4MEFGQzBCNDY2RTY5N0REOEEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaI46izktHSAxUCKAJDMywXQEb64UeuFHsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI1IaxyTrCA6HxImkMf2yDL9Olq-FRNV-YPp5bd7D0mNw&oe=6ABF29A7"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1909909046813938"
+      },
+      {
+        "id": "2721677131622418",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "שירות בריאות"
+        ],
+        "ad_creative_link_title": "3 דברים קטנים שיכולים לספר הרבה על הגב שלכם",
+        "body": "קשה לכם לנעול נעליים בבוקר?\n\nמרגישים את הגב כשאתם משתעלים או מתעטשים?\n\nאחרי ישיבה ממושכת לוקח לכם כמה רגעים לקום ולהתיישר?\n\nאלה יכולים להיראות כמו דברים קטנים. דברים שמתרגלים אליהם, מתאימים את עצמנו אליהם וממשיכים הלאה.\n\nאבל כשפעולות יומיומיות פשוטות מתחילות להשתנות בגלל הגב, כדאי לבדוק מה קורה.\n\nלא כל אחד מהסימנים האלה אומר שיש פריצת דיסק, ולא אצל כולם הסיבה זהה.\n\nוזו בדיוק הסיבה שבמרכז רפאל אנחנו לא מתחילים מהנחה.\n\nאנחנו מתחילים בבדיקה.\n\nבמפגש הראשוני אנחנו מקדישים כשעה וחצי לשיחה ולבדיקה גופנית ידנית יסודית של עמוד השדרה והגוף כולו.\n\nאנחנו בודקים איך אתם מתכופפים, קמים ונעים, איפה קיימת מגבלה, מה מעורר את הכאב ומה קורה גם באזורים שאינם בהכרח המקום שבו אתם מרגישים אותו.\n\nרק מתוך מה שעולה בבדיקה מתחילים את הטיפול הראשון וחושבים על הדרך המתאימה להמשך.\n\nמזהים את עצמכם באחד מהמצבים האלה? השאירו פרטים ונבדוק האם המפגש הראשוני מתאים לכם.",
+        "link_description": "מעל 35 שנות ניסיון קליני | מרכז רפאל, תל אביב",
+        "landing_url": "http://fb.me/",
+        "cta_type": "SEE_DETAILS",
+        "cta_text": "לפרטים",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/774467996_872974442363066_5118253815949216015_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cD-L2NPhHaYQ7kNvwGemWIT&_nc_oc=Adom5C_vXi3OfngPtJd7Yw0Ha2ezW2XnUBTJEkMSKuwGU-QQR7J912eIaEpR1yL5tkI&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQIJwepG-8-LDsCwqRpUBYWBNX4SKNMViqgnMeol2zF_kQ&oe=6ABEFE96",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQOsgw4UpUIyph5p_RhI9hFKLsayHkc5VXbYFBm8vW2LzCNXYwht9h-hsmMYjRYjhGP1zTM5HbocEvyDnc9ktvPXoDq5FyeY9kT_yC-Y2NZeDg.mp4?_nc_cat=102&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=UtQwUYdOPjIQ7kNvwEgElMZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTI5MzgxMjE3NDIwMzgsImFzc2V0X2FnZV9kYXlzIjo0OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=979a3292ae8c0357&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMTQxOUFEMzM1NTJBMEU3RkNDNDhFN0QzRDBBMjE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZFNDhBMTMxRjA3NDRERUZGMjg0RTBDNEY4M0FERTgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasm-iO4dDMAxUCKAJDMywXQD2j1wo9cKQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQJ5WOamlJPjpGR-TMP5l4xhVjz21ppOhMuDRVh-Aa0eog&oe=6ABF26FA"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2721677131622418"
+      },
+      {
+        "id": "2228577717924908",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "שירות בריאות"
+        ],
+        "ad_creative_link_title": "",
+        "body": "״כשהגב כאב לי- הייתי אומלל.״\nואז הגיע השינוי.\n\nאלי, בן 75, מספר במילים שלו על הכאבים, \nהנפילות בבית ועל השיפור שהוא מרגיש \nבעקבות הטיפול במרכז רפאל.\n\nלפעמים לא צריך להסביר יותר מדי.\nפשוט להקשיב למי שחווה את זה בעצמו. \n\n📍 מרכז רפאל | רמת אביב\n\nרוצים לבדוק אם הטיפול יכול להתאים גם לכם? 🤔\nהשאירו פרטים ממש כאן למטה, ונציג מקצועי מטעמנו יחזור אליכם בהקדם לבדיקת התאמה. 📞\n👇",
+        "link_description": "",
+        "landing_url": "http://fb.me/",
+        "cta_type": "GET_IN_TOUCH",
+        "cta_text": "יצירת קשר",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811792286_1024256273907110_6236292423256359187_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ivug4Kq0-yEQ7kNvwG8aIkp&_nc_oc=Adp22dxZXcOssRkUp56hfFYTfDihYnyMPxhCoN-vQfNG--Bm6vQi4M3sN3chgMVefLc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQIsTsrudq6z35hdJGbE5JD1x7l_FlkeWd4ifXxKIaT8yQ&oe=6ABF2112",
+            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNlQKzOcSE92rsVyADatbyYmHdYMjYhe4ETVcnuT6D8zhR70bhptRgtIgVxAtJnsV_Ast9yXkB8TMgxPOpIU14iIFoAZnvNESdJLsLMRg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=6yHvaEyiTOIQ7kNvwE_dcYx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDMwNTAzNzQ3NjQ1OTk0LCJhc3NldF9hZ2VfZGF5cyI6MTIsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjo0OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQI-WFbXdQVvGwcwzzMqV1coaZJ37UTGOUWO9MdOrlSzKQ&oe=6ABEFDA0"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=2228577717924908"
+      },
+      {
+        "id": "1333958385287407",
+        "page_id": "100994838722988",
+        "page_name": "ד\"ר רפאל פרטר- שיטת רפאל",
+        "page_url": "https://www.facebook.com/100065857863569/",
+        "page_like_count": 2034,
+        "page_categories": [
+          "שירות בריאות"
+        ],
+        "ad_creative_link_title": "",
+        "body": "״כבר אחרי הטיפול הראשון הרגשתי שינוי.״\n\nאילן סאלם הגיע אלינו כשהכאב \nכבר פגע לו בחיים עצמם \nהוא לא הצליח לנגן, התקשה לתפקד \nולעשות את הדברים שהיו חלק מהשגרה שלו.\n\nואז התחיל השינוי.\n\nהיום הוא חזר לנגן, חזר לתפקד ובעיקר \nחזר לחיים הרגילים שלו. \n\nלפעמים זה בדיוק המדד שהכי חשוב לנו:\nלא רק כמה כואב\nאלא כמה מהחיים שלך קיבלת בחזרה.\n\n🎥 תשמעו את אילן מספר.\n\n📍 מרכז רפאל | רמת אביב\n\nרוצים לבדוק אם הטיפול יכול להתאים גם לכם? 🤔\nהשאירו פרטים ממש כאן למטה, ונציג מקצועי מטעמנו יחזור אליכם בהקדם לבדיקת התאמה. 📞\n👇",
+        "link_description": "",
+        "landing_url": "https://api.whatsapp.com/send",
+        "cta_type": "GET_IN_TOUCH",
+        "cta_text": "יצירת קשר",
+        "display_format": "VIDEO",
+        "ad_delivery_start_time": 1789455600,
+        "platforms": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK"
+        ],
+        "collation_count": 1,
+        "images": [],
+        "videos": [
+          {
+            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/811437894_1358937109328663_1406675282079790355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5nb5BR5yThMQ7kNvwEKUbVe&_nc_oc=Ado7yaOyV-bVkaIMjOWXSS5t5DTYEB6iICgbP_wsVeocYmvY2yOQt-SSz0o8_Hug438&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&oh=00_AQJktlyFVO7EqkGso5BCSplbeZECWNdfTvJVkukoW6Owjg&oe=6ABF100F",
+            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQNm1_ehniWze7mlDvwUARbyJ14tWd4S9-ygVavGuodbDNAh_gO8RHaUD68fpIgGPM7qpHZ1lSEoVT8Jfcy0qHZouK4w-D88dGS8nssq26YqDw.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=qPUunHW9gS8Q7kNvwFvjblQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjMyNTAyMzE4MDIzNDYsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3af5cc1021fa59a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FOTQ1MEY4MTc1MDRDMEQwRTBBOTJDM0UyMzBGRTdCNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJENDU4NUZCMEIwMTdDMDc4RkUxNTk0M0Y3NURGN0JGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbU58Xkr7SZBRUCKAJDMywXQEqiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=b7-rd6vSSdLGSrOuNaF7jw&_nc_ss=70289&_nc_zt=28&oh=00_AQIypqDwQy1aQ6hTWl-WP5k7gUYXNtroqQX-tSp2AnsFZg&oe=6ABF190B"
+          }
+        ],
+        "currency": "",
+        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1333958385287407"
+      }
+    ]
+  },
+  "current_ads": [],
+  "products": [],
+  "research": {},
+  "new_ads": [],
+  "outreach": {
+    "suggested_whatsapp_message": ""
+  },
+  "cost": {
+    "image_gen_usd": 0
+  },
+  "timestamps": {
+    "discovered": "2026-09-27T16:04:27",
+    "filtered": "2026-09-27T16:04:50"
+  }
+}
