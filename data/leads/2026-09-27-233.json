@@ -1227,7 +1227,96 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 32,
+      "seen": 30,
+      "newest_start": "2026-09-25",
+      "oldest_start": "2026-09-17",
+      "days_since_newest": 2,
+      "longest_running_days": 10,
+      "distinct_texts": 3,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          27
+        ],
+        [
+          "ORDER_NOW",
+          3
+        ]
+      ],
+      "videos": 13,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          30
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp"
+      },
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2026-09-17",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "Chatea con nosotros",
+          "body": "עוגה שכולם יזכרו 🎂\n\nלא סתם עוגה — יצירה של ממש.\nעוגות מעוצבות בהתאמה אישית, עם הדמויות והנושאים שאתם הכי אוהבים.\nמלאות צבע, מרהיבות לעין — ומעל הכול, טעימות בטירוף 😋\n\nמיום הולדת ועד כל אירוע מיוחד, אנחנו הופכים כל רגע למתוק ובלתי נשכח.\n\n📲 שלחו לנו הודעה וספרו לנו על העוגה שתמיד חלמתם עליה — ונגשים אותה בשבילכם.",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "צ'אט איתנו",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-23",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "כתבו לנו בווטסאפ",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-24",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-09-23",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "Suspiros Patisserie",
+          "body": "העוגות שלנו הן הזדמנות לכל אחד ליהנות מקצת מתוקות מעוצבת ייחודית, מיוחדת ומקורית.🤍 מחירים נוחים לכולם! אנו מקווים שהיום שלך היום מלא במתיקות 🙏",
+          "landing": "https://api.whatsapp.com/send"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

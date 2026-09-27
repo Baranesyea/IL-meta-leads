@@ -193,7 +193,47 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-05-14",
+      "oldest_start": "2026-04-28",
+      "days_since_newest": 136,
+      "longest_running_days": 152,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          1
+        ],
+        [
+          "MESSAGE_PAGE",
+          1
+        ]
+      ],
+      "videos": 0,
+      "landings": [],
+      "landing_status": {},
+      "home_share": 0,
+      "samples": [
+        {
+          "start": "2026-04-28",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "מי אמר קינוחי קראנצ' פירות ולא קיבל?!\nתושבי רעננה והסביבה\nהטרנד החם של הרשת קראנצ' פירות מפנקים במיוחד לפרטים והזמנות : \nקישור לוואטסאפ\nhttps://wa.me/972502425475?text=Hi%2C%20I%20saw%20your%20Instagram%20page%20and%20I%27m%20interested\nויש לנו מגוון עוגות מעוצבות כמובן\nhttps://www.instagram.com/art_of_cakes_world/",
+          "landing": ""
+        },
+        {
+          "start": "2026-05-14",
+          "cta": "MESSAGE_PAGE",
+          "title": "עוגות מכל הצורות והצבעים",
+          "body": "חוגגים יום הולדת בר/בת מצווה חתונה או סתם סיבה למסיבה נשמח לשמח עם עוגות מעוצבות במחירים מטורפים תוך שימוש במצרכים האיכותיים ביותר!\nכל הטרנדים שיש ברשת-בנוסף קינוחי פירות בשלל טעמים..\nעוגות מעוצבות, זר פרחים אכיל, סמאש קייק, עוגת מספרים ,מגשי קינוח לאירוע, מארזי קאפקייק ועוד..\nיש גם הפעלת יומולדת סדנת בנטו dyi במחירים חסרי תקדים רק 650 שח ל10 משתתפות קייפופ סטיצ' לאבובו מה שילדכם אוהב..\nמטבח כשר (",
+          "landing": ""
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0

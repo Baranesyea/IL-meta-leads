@@ -207,7 +207,59 @@
   "research": {},
   "new_ads": [],
   "outreach": {
-    "suggested_whatsapp_message": ""
+    "suggested_whatsapp_message": "",
+    "research": {
+      "checked": "2026-09-27",
+      "active_count": 2,
+      "seen": 2,
+      "newest_start": "2026-08-18",
+      "oldest_start": "2026-07-12",
+      "days_since_newest": 40,
+      "longest_running_days": 77,
+      "distinct_texts": 2,
+      "ctas": [
+        [
+          "WHATSAPP_MESSAGE",
+          1
+        ],
+        [
+          "BOOK_TRAVEL",
+          1
+        ]
+      ],
+      "videos": 0,
+      "landings": [
+        [
+          "api.whatsapp.com/send",
+          1
+        ],
+        [
+          "moncherry.co.il",
+          1
+        ]
+      ],
+      "landing_status": {
+        "api.whatsapp.com/send": "whatsapp",
+        "moncherry.co.il": "fail"
+      },
+      "home_share": 1,
+      "samples": [
+        {
+          "start": "2026-07-12",
+          "cta": "WHATSAPP_MESSAGE",
+          "title": "",
+          "body": "הסניף החדש של Mon Cherry נפתח בקניון נעימי.\nפירות וירקות פרימיום, מגשי אירוח, מוצרים משלימים וכל הדברים הטובים שאתם אוהבים - עכשיו גם בבית החדש שלנו.\nמחכים לכם בשדרות טום לנטוס 60.\nמשלוחים בנתניה והסביבה.\nא'-ה' 7:00-20:00 | ו' 7:00-15:00",
+          "landing": "https://api.whatsapp.com/send"
+        },
+        {
+          "start": "2026-08-18",
+          "cta": "BOOK_TRAVEL",
+          "title": "מון שרי - פירות וירקות טריים משלוחים ומגשי פירות",
+          "body": "משלוחים מהיום להיום בנתניה והסביבה 🚚\nפירות וירקות פרימיום, לצד מוצרים משלימים כמו יינות, פיצוחים, פירות יבשים, רטבים, ריבות ועוד.\n\nתוצרת טרייה, איכותית, וכזאת שמחזיקה לאורך זמן - עד דלת הבית.\n\n📍 שדרות טום לנטוס 26, נתניה\nא'-ה' | 7:00-20:00\nשישי | 7:00-15:00",
+          "landing": "https://www.moncherry.co.il/"
+        }
+      ]
+    }
   },
   "cost": {
     "image_gen_usd": 0
