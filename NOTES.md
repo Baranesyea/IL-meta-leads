@@ -417,3 +417,6 @@
 - Page: /p/itai-4b1e7c93, share link https://il-meta.base44.app/s/itai-4b1e7c93.html. CRM: page_ready with message2.
 - Ad Library returned one ad twice (second copy without media); the build drops duplicates.
 - New generic sync helper: `data/deploy/page_sync.sh <hash> <folder> <PageName> <files...>`.
+- Hero: the desktop hero shows the photo in a tall frame (about 4:5) on the left, so a 16:9 hero gets cropped to its
+  middle. The first Itai hero (wide room, empty wall) came out almost blank; replaced with a 4:5 treatment scene
+  (cupping) and a 9:16 version for phones. Generate heroes at 4:5 with the subject filling the frame.
