@@ -20,11 +20,12 @@ sys.path.insert(0, ".")
 
 LID = "2026-09-27-314"
 
-REF = {}   # filled after upload: {"room": media_id, "bed": media_id}
+REF = {"room": "2d9f9a09-0249-422c-a72c-ef6e815b86cd",   # his shelves with plants and lantern (frame of ad 1615049366703092)
+       "bed": "649c931d-a5b2-4e31-bd89-88a9f72b63eb"}    # cream table and oak herringbone floor (frame of ad 1723871258623038)
 
-STYLE = ("Premium healthcare advertising photograph, warm and calm: soft natural window light, clean white walls, "
-         "cream treatment table, green plants, warm oak herringbone floor, honest real people with real skin texture, "
-         "shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. ")
+STYLE = ("Premium healthcare advertising photograph, warm and calm: soft natural light, clean uncluttered spaces, warm "
+         "neutral tones with touches of green, honest real people with real skin texture, shot on a full frame camera, "
+         "shallow depth of field, photorealistic, editorial quality, not stock-looking. ")
 RULES = ("No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks "
          "in pain in an exaggerated way; expressions are natural. The therapist is never shown with a face: only hands "
          "and forearms, or from behind. ")

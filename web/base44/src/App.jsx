@@ -44,6 +44,7 @@ import RedStar from '@/pages/RedStar';
 import MegaPet from '@/pages/MegaPet';
 import Billy from '@/pages/Billy';
 import Kalahari from '@/pages/Kalahari';
+import AliKarim from '@/pages/AliKarim';
 
 // Public site: a home page (content coming) + one standalone page per client at /p/<unguessable-slug>.
 // No menus, no lists: a client only ever sees their own page.
@@ -92,6 +93,7 @@ const AuthenticatedApp = () => {
       <Route path="/p/megapet-beb32c3c" element={<MegaPet />} />
       <Route path="/p/billy-264ffd4c" element={<Billy />} />
       <Route path="/p/kalahari-7c3e91d5" element={<Kalahari />} />
+      <Route path="/p/alikarim-5c8e2d71" element={<AliKarim />} />
       {/* CLIENT-ROUTES:END */}
       <Route path="/p/:slug" element={<ClientPitch />} />
       <Route path="*" element={<PageNotFound />} />
