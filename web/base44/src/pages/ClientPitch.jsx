@@ -41,8 +41,8 @@ const CSS = `
 .bp .share .done{position:absolute;top:calc(100% + 8px);inset-inline-end:0;background:var(--ink);color:#fff;font-size:13px;padding:8px 12px;white-space:nowrap}
 .bp .cta .share{display:inline-block;margin-top:22px}
 .bp .cta .share>button{border:0;color:#d9c49a;font-size:16px;opacity:1;text-decoration:underline;text-underline-offset:6px}
-.bp .cta .share .menu{top:auto;bottom:calc(100% + 8px);inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
-.bp .cta .share .done{top:auto;bottom:calc(100% + 8px);inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
+.bp .cta .share .menu{inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
+.bp .cta .share .done{inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
 @media (max-width:820px){.bp .bar .end{position:absolute;left:16px;top:50%;transform:translateY(-50%)}.bp .bar .share>button span{display:none}.bp .bar .share>button{padding:8px 9px}}
 
 /* HERO */
