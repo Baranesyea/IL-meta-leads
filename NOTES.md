@@ -387,3 +387,15 @@
 - Qualify: a clinic with lead-form ads and no website can qualify with a mobile number printed in the ad (medium
   confidence, kind unclear).
 - CRM: third tab "מרפאות" (LeadCRM.track = "clinic"), same flow as WhatsApp first. Modelnet (platform) set not relevant.
+
+## 2026-09-28 — first clinic page: Ali Karim (lead 2026-09-27-314) `/p/alikarim-5c8e2d71`
+- Eran checked the number: WhatsApp Business "עלי כריים פיזיותרפיסט ואוסטאופאת" → owner, high confidence.
+- Clinic pages have no products: the 20 ads are scenes of the pains he treats (back, sciatica, neck/shoulder, back to
+  movement) plus his own treatment room. References = crops of his video frames (shelves with plants and lantern,
+  cream table on oak herringbone), uploaded via GitHub raw → `media_import_url`. The therapist is never shown with a
+  face (no fake Ali). Copy never asserts the reader's condition (Meta health policy): no "כואב לכם?".
+- 4 of 22 came back with a pasted top band (13, 14, 15, 19) under the "top third" composition line; a plain
+  "wide framing, one single photograph" wording fixed them (`REGEN` in `data/alikarim_build.py`).
+- Base44 `run_command` refused a long inline sync command (403); a short `curl <raw>/data/deploy/alikarim_sync.sh | sh`
+  worked. Sandbox app root is `/app`.
+- CRM: status page_ready, slug and message2 set. Eran sends message 2.
