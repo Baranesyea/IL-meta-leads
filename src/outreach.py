@@ -25,12 +25,25 @@ EXCLUDE = {"2026-09-27-150": "car dealership chain", "2026-09-27-171": "car serv
            "2026-09-27-075": "international brand (Kryolan)"}
 
 
+# Local mirror of the CRM's "do not send" list (entity DoNotSend in Base44, the one the senders check). Refresh it from
+# the CRM before building a new outreach batch; numbers on it never become candidates.
+DNS_FILE = "data/outreach/do_not_send.json"
+
+
+def do_not_send() -> set[str]:
+    import os
+    if not os.path.exists(DNS_FILE):
+        return set()
+    return {"".join(c for c in str(x.get("phone", "")) if c.isdigit()) for x in json.load(open(DNS_FILE))}
+
+
 def candidates() -> list[str]:
     import glob
-    out = []
+    out, blocked = [], do_not_send()
     for p in sorted(glob.glob("data/leads/*.json")):
         l = json.load(open(p))
-        if ((l["contact"].get("whatsapp") or {}).get("number_e164") and l["status"] not in ("rejected", "published")
+        num = "".join(c for c in (l["contact"].get("whatsapp") or {}).get("number_e164") or "" if c.isdigit())
+        if (num and num not in blocked and l["status"] not in ("rejected", "published")
                 and l["lead_id"] not in EXCLUDE):
             out.append(l["lead_id"])
     return out

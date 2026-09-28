@@ -19,6 +19,7 @@ const STATUSES = [
   { id: 'won', label: 'נסגר', color: '#2f8a4f' },
   { id: 'lost', label: 'לא מעוניין', color: '#b04a3f' },
   { id: 'not_relevant', label: 'לא רלוונטי', color: '#5d5750' },
+  { id: 'do_not_send', label: 'לא לשלוח', color: '#8a1f1f' },
 ];
 const ST = Object.fromEntries(STATUSES.map((s) => [s.id, s]));
 // the clinic track works like "WhatsApp first" (research, message, page only after a yes)
@@ -30,6 +31,7 @@ const fmtTime = (iso) => (iso ? new Date(iso).toLocaleString('he-IL', { timeZone
 // <input type="datetime-local"> works in the browser's local time
 const toLocalInput = (d) => { const x = new Date(d); x.setMinutes(x.getMinutes() - x.getTimezoneOffset()); return x.toISOString().slice(0, 16); };
 const fromLocalInput = (v) => (v ? new Date(v).toISOString() : null);
+const digits = (n) => (n || '').replace(/\D/g, '');
 const unwrap = (r) => (r && r.data !== undefined ? r.data : r);
 const wa = async (payload) => {
   const r = unwrap(await base44.functions.invoke('waApi', payload));
@@ -101,10 +103,12 @@ const CSS = `
 .crm .chat .bimg{display:block;max-width:100%;margin-bottom:6px}
 .crm .chat form{display:flex;gap:6px;padding:8px;border-top:1px solid #cdbfa9;background:#faf7f1}
 .crm .chat form input{flex:1}
+.crm .block{margin-top:12px;padding:10px 12px;background:#8a1f1f;color:#fff;font-size:15px}
+.crm .dns div{display:flex;justify-content:space-between;align-items:center;gap:10px;border-bottom:1px solid #e6dccd;padding:6px 0;font-size:15px}
 @media (max-width:760px){.crm .card{grid-template-columns:1fr;gap:6px}.crm .wrap{padding:36px 14px 60px}}
 `;
 
-function Chat({ lead }) {
+function Chat({ lead, blocked }) {
   const [msgs, setMsgs] = useState(null);
   const [text, setText] = useState('');
   const [err, setErr] = useState('');
@@ -120,7 +124,7 @@ function Chat({ lead }) {
 
   const send = async (e) => {
     e.preventDefault();
-    if (!text.trim() || busy) return;
+    if (!text.trim() || busy || blocked) return;
     setBusy(true);
     try { await wa({ action: 'send', id: lead.id, which: 'text', text }); setText(''); await load(); }
     catch (e2) { setErr(String(e2.message || e2)); }
@@ -142,14 +146,14 @@ function Chat({ lead }) {
         {err && <div className="err">{err}</div>}
       </div>
       <form onSubmit={send}>
-        <input value={text} onChange={(e) => setText(e.target.value)} placeholder="כתיבת תשובה..." />
-        <button className="btn dark small" disabled={busy || !text.trim()}>שליחה</button>
+        <input value={text} onChange={(e) => setText(e.target.value)} disabled={blocked} placeholder={blocked ? 'המספר ברשימת לא לשלוח' : 'כתיבת תשובה...'} />
+        <button className="btn dark small" disabled={busy || blocked || !text.trim()}>שליחה</button>
       </form>
     </div>
   );
 }
 
-function MessageBox({ lead, which, onSave, flash }) {
+function MessageBox({ lead, which, onSave, flash, blocked }) {
   const field = which === 1 ? 'message' : 'message2';
   const [text, setText] = useState(lead[field] || '');
   const [caption, setCaption] = useState(lead.msg1_caption || '');
@@ -164,6 +168,7 @@ function MessageBox({ lead, which, onSave, flash }) {
     if (which === 1 && caption !== (lead.msg1_caption || '')) await onSave(lead.id, { msg1_caption: caption });
   };
   const sendNow = async () => {
+    if (blocked) return;
     await flush();
     if (!window.confirm(`לשלוח עכשיו את הודעה ${which} ל${lead.business_name}?`)) return;
     setBusy(true);
@@ -173,10 +178,11 @@ function MessageBox({ lead, which, onSave, flash }) {
       if (which === 1 && lead.status === 'research') onSave(lead.id, { status: 'sent' });  // the server only moves new/ready
       flash('ההודעה נשלחה');
     }
-    catch (e) { flash(`השליחה נכשלה: ${e.message || e}`); }
+    catch (e) { flash(`השליחה נכשלה: ${e.message || e}`); if (String(e.message || e).includes('לא לשלוח')) onSave(lead.id, { msg1_at: null, msg2_at: null }, true); }
     setBusy(false);
   };
   const schedule = async () => {
+    if (blocked) return;
     await flush();
     const iso = fromLocalInput(when);
     const patch = { [`msg${which}_at`]: iso, send_error: '' };
@@ -197,7 +203,9 @@ function MessageBox({ lead, which, onSave, flash }) {
             onBlur={() => caption !== (lead.msg1_caption || '') && onSave(lead.id, { msg1_caption: caption }).then(() => flash('נשמר'))} />
         </div>
       )}
-      {sentAt ? (
+      {blocked ? (
+        <div className="row"><span className="err" style={{ marginTop: 0 }}>המספר ברשימת לא לשלוח. אין שליחה ואין תזמון.</span></div>
+      ) : sentAt ? (
         <div className="row"><span className="saved">נשלחה ב־{fmtTime(sentAt)}</span>
           <button className="btn small" disabled={busy} onClick={sendNow}>לשלוח שוב</button></div>
       ) : (
@@ -220,7 +228,7 @@ function MessageBox({ lead, which, onSave, flash }) {
   );
 }
 
-function LeadCard({ lead, onSave }) {
+function LeadCard({ lead, onSave, blocked, onBlocked }) {
   const [notes, setNotes] = useState(lead.notes || '');
   const [note, setNote] = useState('');
   const [tab, setTab] = useState(lead.msg1_sent_at ? 2 : 1);
@@ -229,7 +237,13 @@ function LeadCard({ lead, onSave }) {
   const st = ST[lead.status] || ST.new;
   const flash = (t) => { setNote(t); setTimeout(() => setNote(''), 2500); };
 
-  const setStatus = (status) => {
+  const setStatus = async (status) => {
+    if (status === 'do_not_send') {
+      if (!window.confirm(`להעביר את ${lead.business_name} לרשימת "לא לשלוח"? המספר ${lead.whatsapp} לא יקבל יותר שום הודעה מהמערכת, וכל התזמונים שלו יבוטלו.`)) return;
+      try { const r = await wa({ action: 'block', id: lead.id }); onSave(lead.id, r.patch || { status }, true); onBlocked(); flash('נוסף לרשימת לא לשלוח'); }
+      catch (e) { flash(`לא נשמר: ${e.message || e}`); }
+      return;
+    }
     const patch = { status };
     if (!['new', 'ready'].includes(status)) patch.last_contact_date = today();
     onSave(lead.id, patch).then(() => flash('נשמר'));
@@ -252,6 +266,7 @@ function LeadCard({ lead, onSave }) {
         {lead.unread && <span className="badge">תשובה חדשה</span>}
         {lead.last_contact_date && <span className="date" style={{ marginInlineStart: 10 }}>עדכון אחרון: {fmtDate(lead.last_contact_date)}</span>}
         {lead.last_reply_text && <div className="meta">התשובה האחרונה ({fmtTime(lead.last_reply_at)}): {lead.last_reply_text}</div>}
+        {blocked && <div className="block">המספר ברשימת "לא לשלוח". המערכת לא תשלח אליו שום הודעה.</div>}
         {lead.send_error && <div className="err">{lead.send_error}</div>}
         {lead.finding && <div className="finding"><b>הממצא (פנימי)</b>{lead.finding}</div>}
         <div className="links">
@@ -272,14 +287,14 @@ function LeadCard({ lead, onSave }) {
         </div>
         {tab === 2 && flowOf(lead.track) === 'wa' && !lead.message2
           ? <div className="empty" style={{ border: '1px solid #cdbfa9', background: '#fff' }}>ההודעה עם הקישור תופיע כאן כשהעמוד יהיה מוכן. כשהם עונים "כן", העבירו את הסטטוס ל"להכין עמוד".</div>
-          : <MessageBox key={tab} lead={lead} which={tab} onSave={onSave} flash={flash} />}
+          : <MessageBox key={tab} lead={lead} which={tab} onSave={onSave} flash={flash} blocked={blocked} />}
         <div className="row">
           <button className="btn dark" onClick={openChat}>{chat ? 'סגירת השיחה' : 'השיחה בוואטסאפ'}</button>
           <a className="btn small" href={waLink(lead.whatsapp)} target="_blank" rel="noreferrer">פתיחה בוואטסאפ</a>
           <button className="btn small" onClick={() => copy(tab === 1 ? lead.message : lead.message2)}>העתקה</button>
           {note && <span className="saved">{note}</span>}
         </div>
-        {chat && <Chat lead={lead} />}
+        {chat && <Chat lead={lead} blocked={blocked} />}
       </div>
     </div>
   );
@@ -287,12 +302,12 @@ function LeadCard({ lead, onSave }) {
 
 // Sequence scheduling: every "ready" lead without a scheduled or sent first message gets a slot,
 // starting at `start`, every `gap` minutes, shifted by a few random minutes so it doesn't look automated.
-function Scheduler({ leads, onSave, track }) {
+function Scheduler({ leads, onSave, track, isBlocked }) {
   const [start, setStart] = useState(() => toLocalInput(Date.now() + 15 * 60 * 1000));
   const [gap, setGap] = useState(45);
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState('');
-  const todo = leads.filter((l) => l.status === 'ready' && !l.msg1_sent_at && !l.msg1_at && l.message);
+  const todo = leads.filter((l) => l.status === 'ready' && !l.msg1_sent_at && !l.msg1_at && l.message && !isBlocked(l));
   const queue = leads.flatMap((l) => [
     l.msg1_at && !l.msg1_sent_at ? { l, which: 1, at: l.msg1_at } : null,
     l.msg2_at && !l.msg2_sent_at ? { l, which: 2, at: l.msg2_at } : null,
@@ -348,9 +363,40 @@ function Scheduler({ leads, onSave, track }) {
   );
 }
 
+// The "do not send" list: every number here is refused by both sending paths (waApi send, waTick). Adding happens
+// through the status "לא לשלוח" on a lead; removing only here.
+function DoNotSendList({ list, reload }) {
+  const [open, setOpen] = useState(false);
+  const [busy, setBusy] = useState(false);
+  const remove = async (x) => {
+    if (!window.confirm(`להסיר את ${x.business_name || x.phone} מרשימת "לא לשלוח"? מרגע זה אפשר יהיה לשלוח אליו שוב.`)) return;
+    setBusy(true);
+    try { await wa({ action: 'unblock', id: x.id }); await reload(); } catch (e) { window.alert(String(e.message || e)); }
+    setBusy(false);
+  };
+  return (
+    <div className="panel">
+      <h2>רשימת "לא לשלוח" <span className="date">({list.length})</span></h2>
+      <p>מספרים שהמערכת לא תשלח אליהם שום הודעה: לא שליחה עכשיו, לא תזמון ולא תשובה בצ'אט. מוסיפים מספר לרשימה דרך הסטטוס "לא לשלוח" בכרטיס של הליד.</p>
+      {list.length > 0 && <button className="btn small" onClick={() => setOpen((o) => !o)}>{open ? 'הסתרת הרשימה' : 'הצגת הרשימה'}</button>}
+      {open && (
+        <div className="dns" style={{ marginTop: 12 }}>
+          {list.map((x) => (
+            <div key={x.id}>
+              <span>{x.business_name || 'ללא שם'} · <span style={{ direction: 'ltr', display: 'inline-block' }}>+{x.phone}</span>{x.added_at ? ` · ${fmtTime(x.added_at)}` : ''}</span>
+              <button className="btn small" disabled={busy} onClick={() => remove(x)}>הסרה מהרשימה</button>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function Crm() {
   const { user, isAuthenticated, authChecked, isLoadingAuth, checkUserAuth, navigateToLogin } = useAuth();
   const [leads, setLeads] = useState(null);
+  const [dns, setDns] = useState([]);
   const [filter, setFilter] = useState('all');
   const [track, setTrack] = useState(() => { try { return localStorage.getItem('crm_track') || 'wa'; } catch { return 'wa'; } });
   const pickTrack = (t) => { setTrack(t); setFilter('all'); try { localStorage.setItem('crm_track', t); } catch { /* ignore */ } };
@@ -363,7 +409,8 @@ export default function Crm() {
   }, [authChecked, isLoadingAuth, isAuthenticated]);
 
   const isAdmin = isAuthenticated && user?.role === 'admin';
-  const reload = () => base44.entities.LeadCRM.list('sort_order', 500).then(setLeads).catch((e) => setErr(String(e?.message || e)));
+  const reloadDns = () => base44.entities.DoNotSend.list('-created_date', 2000).then(setDns).catch(() => {});
+  const reload = () => { reloadDns(); return base44.entities.LeadCRM.list('sort_order', 500).then(setLeads).catch((e) => setErr(String(e?.message || e))); };
   useEffect(() => {
     if (!isAdmin) return;
     reload();
@@ -379,6 +426,9 @@ export default function Crm() {
     try { await base44.entities.LeadCRM.update(id, patch); } catch (e) { setErr('השמירה נכשלה, נסו לרענן'); }
   };
 
+  const blockedNums = useMemo(() => new Set([...dns.map((x) => digits(x.phone)),
+    ...(leads || []).filter((l) => l.status === 'do_not_send').map((l) => digits(l.whatsapp))].filter(Boolean)), [dns, leads]);
+  const isBlocked = (l) => blockedNums.has(digits(l.whatsapp));
   const inTrack = useMemo(() => (leads || []).filter((l) => (l.track || 'page') === track), [leads, track]);
   const trackCounts = useMemo(() => {
     const c = { page: 0, wa: 0, clinic: 0, page_unread: 0, wa_unread: 0, clinic_unread: 0 };
@@ -420,11 +470,12 @@ export default function Crm() {
             <small>העמוד כבר בנוי. הודעה עם תמונה, ואחר כך הקישור.</small>
           </button>
         </div>
-        {leads && <Scheduler leads={inTrack} onSave={onSave} track={track} />}
+        {leads && <Scheduler leads={inTrack} onSave={onSave} track={track} isBlocked={isBlocked} />}
+        {leads && <DoNotSendList list={dns} reload={reloadDns} />}
         <div className="tabs">
           <button className={`tab ${filter === 'all' ? 'on' : ''}`} onClick={() => setFilter('all')}>הכול<b>{counts.all}</b></button>
           {counts.unread > 0 && <button className={`tab ${filter === 'unread' ? 'on' : ''}`} onClick={() => setFilter('unread')}>תשובות חדשות<b>{counts.unread}</b></button>}
-          {STATUSES.filter((s) => !s.track || s.track === flowOf(track)).map((s) => (
+          {STATUSES.filter((s) => (!s.track || s.track === flowOf(track)) && (s.id !== 'do_not_send' || counts[s.id])).map((s) => (
             <button key={s.id} className={`tab ${filter === s.id ? 'on' : ''}`} onClick={() => setFilter(s.id)}>
               {s.label}<b>{counts[s.id] || 0}</b>
             </button>
@@ -433,7 +484,7 @@ export default function Crm() {
         {err && <div className="empty" style={{ color: '#b04a3f' }}>{err}</div>}
         {!leads && !err && <div className="empty">טוען...</div>}
         {leads && shown.length === 0 && <div className="empty">אין לידים בסטטוס הזה.</div>}
-        {shown.map((l) => <LeadCard key={l.id} lead={l} onSave={onSave} />)}
+        {shown.map((l) => <LeadCard key={l.id} lead={l} onSave={onSave} blocked={isBlocked(l)} onBlocked={reloadDns} />)}
       </div>
     </main>
   );

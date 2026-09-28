@@ -7,7 +7,20 @@ import { createClientFromRequest } from "npm:@base44/sdk";
 const env = (k: string) => Deno.env.get(k) || "";
 const api = (method: string) =>
   `${env("GREEN_API_URL")}/waInstance${env("GREEN_API_INSTANCE")}/${method}/${env("GREEN_API_TOKEN")}`;
-const chatId = (num: string) => `${(num || "").replace(/\D/g, "")}@c.us`;
+const digits = (n: string) => (n || "").replace(/\D/g, "");
+const chatId = (num: string) => `${digits(num)}@c.us`;
+
+// "Do not send" list (entity DoNotSend, one row per number). Every send checks it first: a number is blocked if it is
+// on the list, or if any lead with that number has the status "do_not_send". Leaving the list only happens through
+// action "unblock" (the list panel in /crm); changing a lead's status back does not unblock the number.
+async function isBlocked(base44: any, num: string): Promise<boolean> {
+  const d = digits(num);
+  if (!d) return true;
+  const list: any[] = await base44.asServiceRole.entities.DoNotSend.list("-created_date", 2000);
+  if (list.some((x) => digits(x.phone) === d)) return true;
+  const leads: any[] = await base44.asServiceRole.entities.LeadCRM.list("sort_order", 1000);
+  return leads.some((l) => l.status === "do_not_send" && digits(l.whatsapp) === d);
+}
 
 async function green(method: string, body?: unknown) {
   const r = await fetch(api(method), body === undefined ? {} : {
@@ -27,6 +40,10 @@ export default async function (req: Request): Promise<Response> {
     const db = base44.asServiceRole.entities.LeadCRM;
 
     if (action === "state") return Response.json(await green("getStateInstance"));
+    if (action === "unblock") {   // id here is the DoNotSend row
+      await base44.asServiceRole.entities.DoNotSend.delete(id);
+      return Response.json({ ok: true });
+    }
 
     const lead = id ? await db.get(id) : null;
     if (!lead) return Response.json({ error: "lead not found" }, { status: 404 });
@@ -44,7 +61,23 @@ export default async function (req: Request): Promise<Response> {
       return Response.json({ messages: msgs });
     }
 
+    if (action === "block") {   // status "do_not_send" + the number on the list + no scheduled messages
+      const dns = base44.asServiceRole.entities.DoNotSend;
+      const d = digits(lead.whatsapp);
+      const exists = (await dns.list("-created_date", 2000)).some((x: any) => digits(x.phone) === d);
+      if (d && !exists) await dns.create({ phone: d, business_name: lead.business_name, lead_id: lead.lead_id || lead.id,
+        reason: text || "", added_at: new Date().toISOString() });
+      const patch = { status: "do_not_send", msg1_at: null, msg2_at: null, send_error: "" };
+      await db.update(id, patch);
+      return Response.json({ ok: true, patch });
+    }
+
     if (action === "send") {
+      if (await isBlocked(base44, lead.whatsapp)) {
+        const patch = { msg1_at: null, msg2_at: null, send_error: "לא נשלח: המספר ברשימת לא לשלוח" };
+        await db.update(id, patch);
+        return Response.json({ error: "המספר ברשימת לא לשלוח. ההודעה לא נשלחה.", patch }, { status: 403 });
+      }
       // which: 1 = first message, 2 = second message, "text" = a free reply typed in the chat window
       const body = which === 1 ? lead.message : which === 2 ? lead.message2 : text;
       if (!body || !body.trim()) return Response.json({ error: "empty message" }, { status: 400 });

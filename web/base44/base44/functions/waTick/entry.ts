@@ -38,6 +38,20 @@ export default async function (req: Request): Promise<Response> {
     const now = Date.now();
     const log: string[] = [];
 
+    // "do not send": numbers on the DoNotSend list, plus any lead set to "do_not_send" (added to the list here, so the
+    // number stays blocked even if the status is changed later). Checked before every send.
+    const dnsDb = base44.asServiceRole.entities.DoNotSend;
+    const dnsList: any[] = await dnsDb.list("-created_date", 2000);
+    const blocked = new Set(dnsList.map((x) => digits(x.phone)).filter(Boolean));
+    for (const l of leads) {
+      const d = digits(l.whatsapp);
+      if (l.status !== "do_not_send" || !d || blocked.has(d)) continue;
+      await dnsDb.create({ phone: d, business_name: l.business_name, lead_id: l.lead_id || l.id, reason: "",
+        added_at: new Date().toISOString() });
+      blocked.add(d);
+      log.push(`listed ${l.business_name}`);
+    }
+
     // 1. due messages
     const due: { lead: any; which: 1 | 2; at: number }[] = [];
     for (const l of leads) {
@@ -48,6 +62,11 @@ export default async function (req: Request): Promise<Response> {
     const ready = shabbat ? [] : due.filter((d) => d.at <= now).sort((a, b) => a.at - b.at);
     if (shabbat) log.push("shabbat: nothing sent");
     for (const d of ready) {
+      if (!digits(d.lead.whatsapp) || blocked.has(digits(d.lead.whatsapp))) {
+        await db.update(d.lead.id, { msg1_at: null, msg2_at: null, send_error: "לא נשלח: המספר ברשימת לא לשלוח" });
+        log.push(`blocked ${d.lead.business_name} #${d.which}`);
+        continue;
+      }
       if (now - d.at > LATE_MS) {
         await db.update(d.lead.id, { [`msg${d.which}_at`]: null, send_error: `הודעה ${d.which} לא נשלחה: התזמון עבר לפני יותר משש שעות` });
         log.push(`late ${d.lead.business_name} #${d.which}`);

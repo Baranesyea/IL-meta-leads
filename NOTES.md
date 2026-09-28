@@ -429,3 +429,15 @@
 - Files: `data/gali_ads_2026-09-27-344.py`, `data/gali_build.py`, `data/gali_site.py`, ref `data/refs/gali/device.jpg`.
 - Page /p/gali-d71a3f58, share link https://il-meta.base44.app/s/gali-d71a3f58.html. Hero generated at 4:5 from the start.
 - Copy check: removed three claims we can't back (walk out right away, treatment takes minutes, back to work at once).
+
+## "Do not send" list (2026-09-28, Eran)
+- A lead complained that the message was spam. Rule: a number on the list never gets anything from the system.
+- Base44 entity `DoNotSend` (phone as digits, business_name, lead_id, reason, added_at; admin-only RLS).
+- LeadCRM status `do_not_send` ("לא לשלוח"). Setting it in /crm calls waApi `block`: the number goes on the list and
+  its scheduled messages are cleared. The list is the source of truth: changing the status back does NOT unblock;
+  removing is only through the list panel in /crm (waApi `unblock`).
+- Every send checks the list first: waApi `send` (send now, message 1/2, chat reply) refuses with 403 and clears the
+  schedule; waTick skips blocked numbers (clears the schedule, writes send_error) and also lists any lead whose status
+  is do_not_send but isn't on the list yet. The scheduler in /crm leaves blocked leads out.
+- Pipeline: `src/outreach.py` candidates() skips numbers in `data/outreach/do_not_send.json`, a mirror of the entity.
+  Before building a new batch of CRM rows: query DoNotSend, write the mirror, and never create rows for those numbers.
