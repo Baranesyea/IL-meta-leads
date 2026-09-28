@@ -423,3 +423,9 @@
 - Caching: the host sends `cache-control: max-age=3600` for images, so a hero replaced under the same file name keeps
   showing the old one for up to an hour. `site_export.version_heroes(slug)` appends `?v=<content hash>` to hero_bg and
   hero_bg_m; call it at the end of every `<name>_site.py` (done for Itai).
+
+## Gali Ripui page (2026-09-28)
+- Lead 2026-09-27-344, clinic track (shockwave therapy, Ashkelon, Dr. Michal Katzin). WhatsApp confirmed by Eran; she asked for the report.
+- Files: `data/gali_ads_2026-09-27-344.py`, `data/gali_build.py`, `data/gali_site.py`, ref `data/refs/gali/device.jpg`.
+- Page /p/gali-d71a3f58, share link https://il-meta.base44.app/s/gali-d71a3f58.html. Hero generated at 4:5 from the start.
+- Copy check: removed three claims we can't back (walk out right away, treatment takes minutes, back to work at once).
