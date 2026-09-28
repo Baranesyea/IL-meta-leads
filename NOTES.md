@@ -441,3 +441,14 @@
   is do_not_send but isn't on the list yet. The scheduler in /crm leaves blocked leads out.
 - Pipeline: `src/outreach.py` candidates() skips numbers in `data/outreach/do_not_send.json`, a mirror of the entity.
   Before building a new batch of CRM rows: query DoNotSend, write the mirror, and never create rows for those numbers.
+
+## Sending hours (2026-09-28, Eran)
+- Entity `SendSettings` (one row: days = weekdays 0 Sunday..6 Saturday, start, end; Israel time; admin-only). Default when
+  empty: Sunday to Thursday, 09:00-17:00. Edited in /crm, panel "שעות שליחה" (hours limited to 08:00-22:00, the span
+  the WhatsApp tick workflow runs in).
+- Logic: `web/base44/src/lib/sendWindow.js` (nextAllowed); the same code is copied into waTick and waApi (keep in sync).
+- waTick sends only inside the window (and never on Shabbat). A message that comes due outside it is moved to the start
+  of the next allowed window, one minute apart in its original order, so it is not flagged as late.
+- /crm: the sequence scheduler puts every slot inside the window (past the end of the day it jumps to the next allowed
+  morning, skipping days that are off); a single scheduled message is moved the same way. A manual send (send now, chat
+  reply) outside the window asks for confirmation; waApi refuses with `outside_hours` unless `force`.

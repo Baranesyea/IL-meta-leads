@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { base44 } from '@/api/base44Client';
 import { useAuth } from '@/lib/AuthContext';
+import { DEFAULT_WINDOW, DAY_NAMES, nextAllowed, normWindow, describeWindow } from '@/lib/sendWindow';
 
 // Eran's private outreach CRM. Behind Base44 login + admin role; the LeadCRM entity has
 // admin-only RLS, so nobody else can read the rows even through the API.
@@ -33,10 +34,23 @@ const toLocalInput = (d) => { const x = new Date(d); x.setMinutes(x.getMinutes()
 const fromLocalInput = (v) => (v ? new Date(v).toISOString() : null);
 const digits = (n) => (n || '').replace(/\D/g, '');
 const unwrap = (r) => (r && r.data !== undefined ? r.data : r);
+const fail = (d) => Object.assign(new Error(d.error), { data: d });
 const wa = async (payload) => {
-  const r = unwrap(await base44.functions.invoke('waApi', payload));
-  if (r?.error) throw new Error(r.error);
+  let r;
+  try { r = unwrap(await base44.functions.invoke('waApi', payload)); }
+  catch (e) { const d = e?.response?.data || e?.data; if (d?.error) throw fail(d); throw e; }
+  if (r?.error) throw fail(r);
   return r;
+};
+// a manual send outside the sending hours asks first, then goes with force
+const waSend = async (payload) => {
+  try { return await wa(payload); }
+  catch (e) {
+    if (e.message !== 'outside_hours') throw e;
+    const nxt = e.data?.next ? new Date(e.data.next).toLocaleString('he-IL', { timeZone: 'Asia/Jerusalem', weekday: 'long', hour: '2-digit', minute: '2-digit' }) : '';
+    if (!window.confirm(`עכשיו מחוץ לשעות השליחה${nxt ? ` (החלון הבא: ${nxt})` : ''}. לשלוח בכל זאת?`)) throw new Error('בוטל, לא נשלח');
+    return wa({ ...payload, force: true });
+  }
 };
 
 const CSS = `
@@ -126,7 +140,7 @@ function Chat({ lead, blocked }) {
     e.preventDefault();
     if (!text.trim() || busy || blocked) return;
     setBusy(true);
-    try { await wa({ action: 'send', id: lead.id, which: 'text', text }); setText(''); await load(); }
+    try { await waSend({ action: 'send', id: lead.id, which: 'text', text }); setText(''); await load(); }
     catch (e2) { setErr(String(e2.message || e2)); }
     setBusy(false);
   };
@@ -153,7 +167,7 @@ function Chat({ lead, blocked }) {
   );
 }
 
-function MessageBox({ lead, which, onSave, flash, blocked }) {
+function MessageBox({ lead, which, onSave, flash, blocked, win }) {
   const field = which === 1 ? 'message' : 'message2';
   const [text, setText] = useState(lead[field] || '');
   const [caption, setCaption] = useState(lead.msg1_caption || '');
@@ -173,7 +187,7 @@ function MessageBox({ lead, which, onSave, flash, blocked }) {
     if (!window.confirm(`לשלוח עכשיו את הודעה ${which} ל${lead.business_name}?`)) return;
     setBusy(true);
     try {
-      const r = await wa({ action: 'send', id: lead.id, which });
+      const r = await waSend({ action: 'send', id: lead.id, which });
       onSave(lead.id, r.patch || {}, true);
       if (which === 1 && lead.status === 'research') onSave(lead.id, { status: 'sent' });  // the server only moves new/ready
       flash('ההודעה נשלחה');
@@ -184,11 +198,12 @@ function MessageBox({ lead, which, onSave, flash, blocked }) {
   const schedule = async () => {
     if (blocked) return;
     await flush();
-    const iso = fromLocalInput(when);
+    const asked = fromLocalInput(when);
+    const iso = (nextAllowed(new Date(asked), win) || new Date(asked)).toISOString();
     const patch = { [`msg${which}_at`]: iso, send_error: '' };
     if (which === 1 && ['new', 'research'].includes(lead.status || 'new')) patch.status = 'ready';
     await onSave(lead.id, patch);
-    flash(`תוזמן ל־${fmtTime(iso)}`);
+    flash(iso !== asked ? `מחוץ לשעות השליחה, תוזמן ל־${fmtTime(iso)}` : `תוזמן ל־${fmtTime(iso)}`);
   };
 
   return (
@@ -228,7 +243,7 @@ function MessageBox({ lead, which, onSave, flash, blocked }) {
   );
 }
 
-function LeadCard({ lead, onSave, blocked, onBlocked }) {
+function LeadCard({ lead, onSave, blocked, onBlocked, win }) {
   const [notes, setNotes] = useState(lead.notes || '');
   const [note, setNote] = useState('');
   const [tab, setTab] = useState(lead.msg1_sent_at ? 2 : 1);
@@ -287,7 +302,7 @@ function LeadCard({ lead, onSave, blocked, onBlocked }) {
         </div>
         {tab === 2 && flowOf(lead.track) === 'wa' && !lead.message2
           ? <div className="empty" style={{ border: '1px solid #cdbfa9', background: '#fff' }}>ההודעה עם הקישור תופיע כאן כשהעמוד יהיה מוכן. כשהם עונים "כן", העבירו את הסטטוס ל"להכין עמוד".</div>
-          : <MessageBox key={tab} lead={lead} which={tab} onSave={onSave} flash={flash} blocked={blocked} />}
+          : <MessageBox key={tab} lead={lead} which={tab} onSave={onSave} flash={flash} blocked={blocked} win={win} />}
         <div className="row">
           <button className="btn dark" onClick={openChat}>{chat ? 'סגירת השיחה' : 'השיחה בוואטסאפ'}</button>
           <a className="btn small" href={waLink(lead.whatsapp)} target="_blank" rel="noreferrer">פתיחה בוואטסאפ</a>
@@ -302,7 +317,7 @@ function LeadCard({ lead, onSave, blocked, onBlocked }) {
 
 // Sequence scheduling: every "ready" lead without a scheduled or sent first message gets a slot,
 // starting at `start`, every `gap` minutes, shifted by a few random minutes so it doesn't look automated.
-function Scheduler({ leads, onSave, track, isBlocked }) {
+function Scheduler({ leads, onSave, track, isBlocked, win }) {
   const [start, setStart] = useState(() => toLocalInput(Date.now() + 15 * 60 * 1000));
   const [gap, setGap] = useState(45);
   const [busy, setBusy] = useState(false);
@@ -316,11 +331,14 @@ function Scheduler({ leads, onSave, track, isBlocked }) {
   const run = async () => {
     if (!todo.length) return;
     setBusy(true);
-    let t = new Date(start).getTime();
+    // every slot is pushed into the sending hours: past the end of the day it jumps to the next allowed morning
+    let t = nextAllowed(new Date(start), win).getTime();
     for (const l of todo) {
-      const jitter = Math.round((Math.random() * 10 - 5) * 60 * 1000);
-      await onSave(l.id, { msg1_at: new Date(t + jitter).toISOString(), send_error: '' });
-      t += gap * 60 * 1000;
+      const want = new Date(t + Math.round(Math.random() * 6 * 60 * 1000));   // a few random minutes, never earlier
+      let at = nextAllowed(want, win);
+      if (at.getTime() !== want.getTime()) at = new Date(at.getTime() + Math.round(Math.random() * 5 * 60 * 1000));
+      await onSave(l.id, { msg1_at: at.toISOString(), send_error: '' });
+      t = at.getTime() + gap * 60 * 1000;
     }
     setMsg(`תוזמנו ${todo.length} הודעות`); setBusy(false);
   };
@@ -341,7 +359,7 @@ function Scheduler({ leads, onSave, track, isBlocked }) {
   return (
     <div className="panel">
       <h2>תזמון רצף</h2>
-      <p>כל הלידים בסטטוס "מוכן לשליחה" מקבלים זמן שליחה להודעה הראשונה, אחד אחרי השני, עם כמה דקות הפרש אקראיות. המערכת שולחת הודעה אחת בכל פעם, ובודקת כל 10 דקות בין 8:00 ל־22:00. הודעה שמתוזמנת לשעות הלילה לא תצא.</p>
+      <p>כל הלידים בסטטוס "מוכן לשליחה" מקבלים זמן שליחה להודעה הראשונה, אחד אחרי השני, עם כמה דקות הפרש אקראיות, ורק בתוך שעות השליחה ({describeWindow(win)}). מה שלא נכנס היום עובר לבוקר של יום השליחה הבא. המערכת שולחת הודעה אחת בכל פעם ובודקת כל 10 דקות.</p>
       <div className="row">
         <span>התחלה</span>
         <input type="datetime-local" value={start} onChange={(e) => setStart(e.target.value)} />
@@ -359,6 +377,47 @@ function Scheduler({ leads, onSave, track, isBlocked }) {
           {queue.map((q) => <div key={`${q.l.id}${q.which}`}><span>{q.l.business_name} · הודעה {q.which}</span><span>{fmtTime(q.at)}</span></div>)}
         </div>
       )}
+    </div>
+  );
+}
+
+// Sending hours: which days and between which hours messages may go out (Israel time). The scheduler, the single
+// message scheduling and the automatic sender (waTick) all follow it; a manual send outside it asks first.
+function SendHours({ win, row, reload }) {
+  const [days, setDays] = useState(win.days);
+  const [start, setStart] = useState(win.start);
+  const [end, setEnd] = useState(win.end);
+  const [msg, setMsg] = useState('');
+  useEffect(() => { setDays(win.days); setStart(win.start); setEnd(win.end); }, [win.days.join(), win.start, win.end]);
+  const toggle = (d) => setDays((ds) => (ds.includes(d) ? ds.filter((x) => x !== d) : [...ds, d].sort((a, b) => a - b)));
+  const dirty = days.join() !== win.days.join() || start !== win.start || end !== win.end;
+  const save = async () => {
+    if (!days.length) { setMsg('צריך לבחור לפחות יום אחד'); return; }
+    if (start >= end) { setMsg('שעת הסיום צריכה להיות אחרי שעת ההתחלה'); return; }
+    if (start < '08:00' || end > '22:00') { setMsg('השליחה האוטומטית רצה בין 08:00 ל־22:00, אז השעות צריכות להיות בתוך הטווח הזה'); return; }
+    const data = { days, start, end };
+    try {
+      if (row) await base44.entities.SendSettings.update(row.id, data); else await base44.entities.SendSettings.create(data);
+      await reload(); setMsg('נשמר');
+    } catch (e) { setMsg(`לא נשמר: ${e.message || e}`); }
+  };
+  return (
+    <div className="panel">
+      <h2>שעות שליחה</h2>
+      <p>הודעות יוצאות רק בימים ובשעות האלה (שעון ישראל). הודעה שמתוזמנת מחוץ להן עוברת אוטומטית לתחילת החלון הבא, ומדלגת על הימים שלא מסומנים. עכשיו: {describeWindow(win)}.</p>
+      <div className="row">
+        {DAY_NAMES.map((n, d) => (
+          <label key={d} style={{ display: 'inline-flex', alignItems: 'center', gap: 6, margin: 0, fontSize: 15, color: '#17120d' }}>
+            <input type="checkbox" checked={days.includes(d)} onChange={() => toggle(d)} />{n}
+          </label>
+        ))}
+      </div>
+      <div className="row">
+        <span>משעה</span><input type="time" value={start} min="08:00" max="22:00" onChange={(e) => setStart(e.target.value)} />
+        <span>עד</span><input type="time" value={end} min="08:00" max="22:00" onChange={(e) => setEnd(e.target.value)} />
+        <button className="btn dark small" disabled={!dirty} onClick={save}>שמירה</button>
+        {msg && <span className="saved">{msg}</span>}
+      </div>
     </div>
   );
 }
@@ -397,6 +456,9 @@ export default function Crm() {
   const { user, isAuthenticated, authChecked, isLoadingAuth, checkUserAuth, navigateToLogin } = useAuth();
   const [leads, setLeads] = useState(null);
   const [dns, setDns] = useState([]);
+  const [hoursRow, setHoursRow] = useState(null);
+  const win = useMemo(() => normWindow(hoursRow || DEFAULT_WINDOW), [hoursRow]);
+  const reloadHours = () => base44.entities.SendSettings.list('-updated_date', 1).then((r) => setHoursRow(r[0] || null)).catch(() => {});
   const [filter, setFilter] = useState('all');
   const [track, setTrack] = useState(() => { try { return localStorage.getItem('crm_track') || 'wa'; } catch { return 'wa'; } });
   const pickTrack = (t) => { setTrack(t); setFilter('all'); try { localStorage.setItem('crm_track', t); } catch { /* ignore */ } };
@@ -410,7 +472,7 @@ export default function Crm() {
 
   const isAdmin = isAuthenticated && user?.role === 'admin';
   const reloadDns = () => base44.entities.DoNotSend.list('-created_date', 2000).then(setDns).catch(() => {});
-  const reload = () => { reloadDns(); return base44.entities.LeadCRM.list('sort_order', 500).then(setLeads).catch((e) => setErr(String(e?.message || e))); };
+  const reload = () => { reloadDns(); reloadHours(); return base44.entities.LeadCRM.list('sort_order', 500).then(setLeads).catch((e) => setErr(String(e?.message || e))); };
   useEffect(() => {
     if (!isAdmin) return;
     reload();
@@ -470,7 +532,8 @@ export default function Crm() {
             <small>העמוד כבר בנוי. הודעה עם תמונה, ואחר כך הקישור.</small>
           </button>
         </div>
-        {leads && <Scheduler leads={inTrack} onSave={onSave} track={track} isBlocked={isBlocked} />}
+        {leads && <SendHours win={win} row={hoursRow} reload={reloadHours} />}
+        {leads && <Scheduler leads={inTrack} onSave={onSave} track={track} isBlocked={isBlocked} win={win} />}
         {leads && <DoNotSendList list={dns} reload={reloadDns} />}
         <div className="tabs">
           <button className={`tab ${filter === 'all' ? 'on' : ''}`} onClick={() => setFilter('all')}>הכול<b>{counts.all}</b></button>
@@ -484,7 +547,7 @@ export default function Crm() {
         {err && <div className="empty" style={{ color: '#b04a3f' }}>{err}</div>}
         {!leads && !err && <div className="empty">טוען...</div>}
         {leads && shown.length === 0 && <div className="empty">אין לידים בסטטוס הזה.</div>}
-        {shown.map((l) => <LeadCard key={l.id} lead={l} onSave={onSave} blocked={isBlocked(l)} onBlocked={reloadDns} />)}
+        {shown.map((l) => <LeadCard key={l.id} lead={l} onSave={onSave} blocked={isBlocked(l)} onBlocked={reloadDns} win={win} />)}
       </div>
     </main>
   );

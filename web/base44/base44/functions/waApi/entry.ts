@@ -22,6 +22,50 @@ async function isBlocked(base44: any, num: string): Promise<boolean> {
   return leads.some((l) => l.status === "do_not_send" && digits(l.whatsapp) === d);
 }
 
+// Sending hours (entity SendSettings, one row; Israel time). Same logic as src/lib/sendWindow.js in the app (keep in
+// sync): allowed weekdays (0 = Sunday) + start and end time; outside it, the next allowed day's start.
+const DEFAULT_WINDOW = { days: [0, 1, 2, 3, 4], start: "09:00", end: "17:00" };
+const WD = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+function ilParts(date: Date) {
+  const p: any = Object.fromEntries(new Intl.DateTimeFormat("en-US", { timeZone: "Asia/Jerusalem", year: "numeric",
+    month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", weekday: "short", hourCycle: "h23" })
+    .formatToParts(date).map((x) => [x.type, x.value]));
+  return { y: +p.year, m: +p.month, d: +p.day, h: +p.hour, min: +p.minute, wd: WD.indexOf(p.weekday) };
+}
+function ilToDate(y: number, m: number, d: number, h: number, min: number): Date {
+  const want = Date.UTC(y, m - 1, d, h, min);
+  let t = want;
+  for (let i = 0; i < 3; i++) { const p = ilParts(new Date(t)); t -= Date.UTC(p.y, p.m - 1, p.d, p.h, p.min) - want; }
+  return new Date(t);
+}
+function normWindow(w: any) {
+  const ok = (s: string) => /^\d{1,2}:\d{2}$/.test(s || "");
+  return { days: Array.isArray(w?.days) && w.days.length ? w.days.map(Number) : DEFAULT_WINDOW.days,
+    start: ok(w?.start) ? w.start : DEFAULT_WINDOW.start, end: ok(w?.end) ? w.end : DEFAULT_WINDOW.end };
+}
+function nextAllowed(date: Date, win: any): Date | null {
+  const w = normWindow(win);
+  const [sh, sm] = w.start.split(":").map(Number);
+  const [eh, em] = w.end.split(":").map(Number);
+  let t = new Date(date);
+  let p = ilParts(t);
+  for (let i = 0; i < 15; i++) {
+    if (w.days.includes(p.wd)) {
+      const s = ilToDate(p.y, p.m, p.d, sh, sm), e = ilToDate(p.y, p.m, p.d, eh, em);
+      if (t < s) return s;
+      if (t < e) return t;
+    }
+    const n = new Date(Date.UTC(p.y, p.m - 1, p.d + 1));
+    p = { y: n.getUTCFullYear(), m: n.getUTCMonth() + 1, d: n.getUTCDate(), h: 0, min: 0, wd: n.getUTCDay() };
+    t = ilToDate(p.y, p.m, p.d, 0, 0);
+  }
+  return null;
+}
+async function loadWindow(base44: any) {
+  try { const rows: any[] = await base44.asServiceRole.entities.SendSettings.list("-updated_date", 1); return normWindow(rows[0]); }
+  catch { return normWindow(null); }
+}
+
 async function green(method: string, body?: unknown) {
   const r = await fetch(api(method), body === undefined ? {} : {
     method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body),
@@ -36,7 +80,7 @@ export default async function (req: Request): Promise<Response> {
     const base44 = createClientFromRequest(req);
     const user = await base44.auth.me();
     if (!user || user.role !== "admin") return Response.json({ error: "Unauthorized" }, { status: 401 });
-    const { action, id, which, text, limit } = await req.json();
+    const { action, id, which, text, limit, force } = await req.json();
     const db = base44.asServiceRole.entities.LeadCRM;
 
     if (action === "state") return Response.json(await green("getStateInstance"));
@@ -79,6 +123,13 @@ export default async function (req: Request): Promise<Response> {
         return Response.json({ error: "המספר ברשימת לא לשלוח. ההודעה לא נשלחה.", patch }, { status: 403 });
       }
       // which: 1 = first message, 2 = second message, "text" = a free reply typed in the chat window
+      // outside the sending hours a manual send needs an explicit ok from the screen (force)
+      if (!force) {
+        const nxt = nextAllowed(new Date(), await loadWindow(base44));
+        if (!nxt || nxt.getTime() > Date.now() + 1000) {
+          return Response.json({ error: "outside_hours", next: nxt ? nxt.toISOString() : null }, { status: 409 });
+        }
+      }
       const body = which === 1 ? lead.message : which === 2 ? lead.message2 : text;
       if (!body || !body.trim()) return Response.json({ error: "empty message" }, { status: 400 });
       const res = await green("sendMessage", { chatId: chatId(lead.whatsapp), message: body });
