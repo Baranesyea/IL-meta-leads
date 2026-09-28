@@ -31,6 +31,19 @@ const CSS = `
 @media (max-width:1180px){.bp .bar .tag{display:none}}
 .bp .bar .tag{justify-self:end;font-size:13px;letter-spacing:.04em;border:1px solid currentColor;padding:7px 14px;opacity:.8}
 @media (max-width:820px){.bp .bar nav,.bp .bar .tag{display:none}.bp .bar{grid-template-columns:1fr;justify-items:center}.bp .bar .mark{font-size:26px}}
+.bp .bar .end{justify-self:end;display:flex;align-items:center;gap:12px}
+.bp .share{position:relative}
+.bp .share>button{font:inherit;font-size:13px;letter-spacing:.04em;color:inherit;background:transparent;border:1px solid currentColor;padding:7px 14px;cursor:pointer;opacity:.9;display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.bp .share>button svg{width:15px;height:15px}
+.bp .share .menu{position:absolute;top:calc(100% + 8px);inset-inline-end:0;background:#fffdf9;color:var(--ink);box-shadow:0 14px 40px rgba(0,0,0,.18);min-width:210px;z-index:60;display:flex;flex-direction:column;text-align:right}
+.bp .share .menu a,.bp .share .menu button{font:inherit;font-size:15px;padding:13px 18px;color:inherit;text-decoration:none;background:transparent;border:0;border-bottom:1px solid rgba(0,0,0,.06);cursor:pointer;text-align:right}
+.bp .share .menu a:hover,.bp .share .menu button:hover{background:#f3ece0}
+.bp .share .done{position:absolute;top:calc(100% + 8px);inset-inline-end:0;background:var(--ink);color:#fff;font-size:13px;padding:8px 12px;white-space:nowrap}
+.bp .cta .share{display:inline-block;margin-top:22px}
+.bp .cta .share>button{border:0;color:#d9c49a;font-size:16px;opacity:1;text-decoration:underline;text-underline-offset:6px}
+.bp .cta .share .menu{top:auto;bottom:calc(100% + 8px);inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
+.bp .cta .share .done{top:auto;bottom:calc(100% + 8px);inset-inline-end:auto;inset-inline-start:50%;transform:translateX(50%)}
+@media (max-width:820px){.bp .bar .end{position:absolute;left:16px;top:50%;transform:translateY(-50%)}.bp .bar .share>button span{display:none}.bp .bar .share>button{padding:8px 9px}}
 
 /* HERO */
 .bp .hero{position:relative;height:100svh;min-height:640px;overflow:hidden;background:#070605;color:#f4eee4}
@@ -487,6 +500,53 @@ function useReveal(dep) {
 
 const chunk = (xs, n) => Array.from({ length: Math.ceil(xs.length / n) }, (_, i) => xs.slice(i * n, i * n + n));
 
+// Share the page: the phone's own share sheet when there is one; otherwise WhatsApp or copy the link.
+// Owners forward these pages to a partner or to whoever runs their marketing.
+function Share({ name, label = "שיתוף" }) {
+  const [menu, setMenu] = useState(false);
+  const [done, setDone] = useState(false);
+  const url = typeof window !== "undefined" ? window.location.href.split("#")[0] : "";
+  const text = `הדוח והמודעות החדשות שהוכנו עבור ${name}`;
+  const copy = async () => {
+    try { await navigator.clipboard.writeText(url); } catch {
+      const t = document.createElement("textarea"); t.value = url; document.body.appendChild(t); t.select();
+      try { document.execCommand("copy"); } catch { /* ignore */ } t.remove();
+    }
+    setMenu(false); setDone(true); setTimeout(() => setDone(false), 2200);
+  };
+  const click = async () => {
+    if (navigator.share && window.matchMedia("(pointer: coarse)").matches) {
+      try { await navigator.share({ title: name, text, url }); return; } catch (e) { if (e && e.name === "AbortError") return; }
+    }
+    setMenu((m) => !m);
+  };
+  useEffect(() => {
+    if (!menu) return;
+    const close = (e) => { if (!e.target.closest(".share")) setMenu(false); };
+    document.addEventListener("click", close);
+    return () => document.removeEventListener("click", close);
+  }, [menu]);
+  return (
+    <div className="share">
+      <button type="button" onClick={click} aria-label="שיתוף העמוד">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+          <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
+          <path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4" />
+        </svg>
+        <span>{label}</span>
+      </button>
+      {menu && (
+        <div className="menu">
+          <a href={`https://wa.me/?text=${encodeURIComponent(text + "\n" + url)}`} target="_blank" rel="noreferrer" onClick={() => setMenu(false)}>שליחה בוואטסאפ</a>
+          <a href={`mailto:?subject=${encodeURIComponent(text)}&body=${encodeURIComponent(url)}`} onClick={() => setMenu(false)}>שליחה במייל</a>
+          <button type="button" onClick={copy}>העתקת הקישור</button>
+        </div>
+      )}
+      {done && <div className="done">הקישור הועתק</div>}
+    </div>
+  );
+}
+
 export default function ClientPitch({ slug: fixedSlug }) {
   const params = useParams();
   const slug = fixedSlug || params.slug;
@@ -540,7 +600,10 @@ export default function ClientPitch({ slug: fixedSlug }) {
           <a href="#offer">מה מקבלים</a>
         </nav>
         <div className="mark">{b.wordmark}</div>
-        <div className="tag">הוכן עבור {b.name}</div>
+        <div className="end">
+          <Share name={b.name} />
+          <div className="tag">הוכן עבור {b.name}</div>
+        </div>
       </header>
 
       {/* HERO — the brand's own campaign, full screen */}
@@ -755,6 +818,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
           {r.contact_url
             ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</a>
             : <span className="btn" style={{ opacity: 0.5 }}>{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</span>}
+          <div><Share name={b.name} label="שתפו את העמוד עם השותפים" /></div>
         </div>
       </section>
       <footer>הוכן במיוחד עבור {b.name}</footer>
