@@ -81,3 +81,18 @@ def export_lead(lead: dict, slug: str, folder: str, copy: dict, hero_img: str | 
     reports[slug] = entry
     _write(reports)
     return entry
+
+
+def version_heroes(slug: str) -> dict:
+    """Append ?v=<content hash> to the hero image URLs of REPORTS[slug]. The host lets browsers cache images for an
+    hour, so a replaced hero under the same file name kept showing the old picture. Call after all hero files exist."""
+    import hashlib
+    reports = _read()
+    e = reports[slug]
+    for k in ("hero_bg", "hero_bg_m"):
+        url = (e.get(k) or "").split("?")[0]
+        f = WEB / "public" / url.lstrip("/")
+        if url and f.exists():
+            e[k] = f"{url}?v={hashlib.md5(f.read_bytes()).hexdigest()[:8]}"
+    _write(reports)
+    return e

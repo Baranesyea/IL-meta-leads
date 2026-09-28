@@ -7,7 +7,7 @@ import json
 import sys
 
 sys.path.insert(0, ".")
-from src.site_export import export_lead, _webp, WEB, OUTPUT  # noqa: E402
+from src.site_export import export_lead, version_heroes, _webp, WEB, OUTPUT  # noqa: E402
 
 SLUG, FOLDER = "itai-4b1e7c93", "itai"
 ERAN_WA = "https://wa.me/972545471522"
@@ -66,4 +66,5 @@ if __name__ == "__main__":
     m = OUTPUT / lead["lead_id"] / "ads_raw" / "hero_m.png"
     if m.exists():
         _webp(m, WEB / "public" / "reports" / FOLDER / "hero_m.webp", max_w=1200)
+    version_heroes(SLUG)
     print(SLUG, len(e["ads"]))

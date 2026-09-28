@@ -12165,7 +12165,7 @@ export const REPORTS = {
     }
    }
   ],
-  "hero_bg": "/reports/itai/hero.webp",
+  "hero_bg": "/reports/itai/hero.webp?v=2f0323f9",
   "business": {
    "name": "איתי אלבז",
    "wordmark": "איתי אלבז",
@@ -12179,7 +12179,7 @@ export const REPORTS = {
    "שהכאב לקח."
   ],
   "hero_cta": "מה היינו משנים בקמפיין שלכם",
-  "hero_bg_m": "/reports/itai/hero_m.webp",
+  "hero_bg_m": "/reports/itai/hero_m.webp?v=53aad564",
   "hero_pos_m": "center bottom",
   "review": {
    "eyebrow": "עברנו על הקמפיין שלכם",
