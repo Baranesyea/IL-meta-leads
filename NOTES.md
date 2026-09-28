@@ -399,3 +399,6 @@
 - Base44 `run_command` refused a long inline sync command (403); a short `curl <raw>/data/deploy/alikarim_sync.sh | sh`
   worked. Sandbox app root is `/app`.
 - CRM: status page_ready, slug and message2 set. Eran sends message 2.
+- 2026-09-28: every client page has a share button (Eran: owners forward the page to partners). Header ("שיתוף",
+  icon only on phones) and under the WhatsApp button ("שתפו את העמוד עם השותפים"). Phones open the native share sheet;
+  desktop gets WhatsApp / email / copy link. Shared text: "הדוח והמודעות החדשות שהוכנו עבור {name}". In `ClientPitch.jsx`.
