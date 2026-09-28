@@ -420,3 +420,6 @@
 - Hero: the desktop hero shows the photo in a tall frame (about 4:5) on the left, so a 16:9 hero gets cropped to its
   middle. The first Itai hero (wide room, empty wall) came out almost blank; replaced with a 4:5 treatment scene
   (cupping) and a 9:16 version for phones. Generate heroes at 4:5 with the subject filling the frame.
+- Caching: the host sends `cache-control: max-age=3600` for images, so a hero replaced under the same file name keeps
+  showing the old one for up to an hour. `site_export.version_heroes(slug)` appends `?v=<content hash>` to hero_bg and
+  hero_bg_m; call it at the end of every `<name>_site.py` (done for Itai).
