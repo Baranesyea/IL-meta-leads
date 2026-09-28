@@ -1,324 +1,1748 @@
 {
-  "lead_id": "2026-09-27-344",
-  "status": "qualified",
-  "reject_reason": null,
-  "business": {
-    "name_he": "",
-    "name_en": "",
-    "website": "",
-    "city": "",
-    "category": "",
-    "owner_name": "",
-    "email": ""
+ "lead_id": "2026-09-27-344",
+ "status": "researched",
+ "reject_reason": null,
+ "business": {
+  "name_he": "גלי ריפוי",
+  "name_en": "Gali Ripui",
+  "website": "",
+  "city": "אשקלון",
+  "category": "טיפול בכאבים אורתופדיים בגלי הלם",
+  "owner_name": "מיכל קצין",
+  "email": ""
+ },
+ "contact": {
+  "facebook_page": {
+   "url": "https://www.facebook.com/ShockWavesTherapy/",
+   "source": "meta_ad_library",
+   "confidence": "high"
   },
-  "contact": {
-    "facebook_page": {
-      "url": "https://www.facebook.com/ShockWavesTherapy/",
-      "source": "meta_ad_library",
-      "confidence": "high"
-    },
-    "instagram_page": {
-      "url": "",
-      "source": "",
-      "confidence": ""
-    },
-    "owner_instagram": {
-      "url": "",
-      "source": "",
-      "confidence": ""
-    },
-    "whatsapp": {
-      "number_e164": "+972542119121",
-      "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
-      "confidence": "medium",
-      "kind": "unclear",
-      "kind_signals": [
-        "no website; mobile number printed in the ad"
-      ]
-    }
+  "instagram_page": {
+   "url": "",
+   "source": "",
+   "confidence": ""
   },
-  "meta": {
+  "owner_instagram": {
+   "url": "",
+   "source": "",
+   "confidence": ""
+  },
+  "whatsapp": {
+   "number_e164": "+972542119121",
+   "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
+   "confidence": "high",
+   "kind": "owner",
+   "kind_signals": [
+    "WhatsApp profile 'מיכל', checked by Eran 2026-09-28; she asked for the report"
+   ]
+  }
+ },
+ "meta": {
+  "page_id": "1532909526982588",
+  "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
+  "active_ads_count": 3,
+  "search_keyword": "כאבי ברכיים",
+  "sample_ads": [
+   {
+    "ad_id": "1879963676133790",
+    "link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+    "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "landing_url": "",
+    "cta_type": "MESSAGE_PAGE",
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "AUDIENCE_NETWORK",
+     "MESSENGER"
+    ],
+    "images": [],
+    "videos": [
+     {
+      "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495481760_605871505950403_9006900467687356856_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JZqQdUNuy88Q7kNvwEwwQ24&_nc_oc=AdqCviBgeZ44SGi29Fer6gj-Zr5lM1nqRTW7U_Ldkb3SR2ayxa5MbZZ7JUweMHvkv4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQIHcf9whZKh8EqiuKWxPXl_TXhleHS0l3SR12S0xxS5ww&oe=6ABF2A1C",
+      "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMY0ymlOsMHRZfL0Skm3Y1bG0LhQZN5gXJVenQ3Y-yVm_rgEObr_5tQTVyUpV5FxEOwXr3YpF7J-Gf_hRyZnpLhEXZcAOhhbYCBh965FcaH8g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SYGUkjqCR4QQ7kNvwGd2HUT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODUyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk3NDg4NTA3MTI2MzcsImFzc2V0X2FnZV9kYXlzIjo1MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93a81a8ff506d29d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NzRFN0JFNjk0MERERTRGNjg1MTU4QjU5MzY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMVWVUQjBFWk1UYVNMMEZBSTM4aFpibUlNNTBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6gNDf0b3XBRUCKAJDMywXQE3qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIwjvz65h6u5KiUaimaNRz_wsKKKkKYRkM9duU4Bqzp-A&oe=6ABF2E88"
+     }
+    ],
+    "collation_count": 1,
+    "start_time": 1746601200,
+    "snapshot_url": "https://www.facebook.com/ads/library/?id=1879963676133790"
+   }
+  ],
+  "filter": {
+   "brand_hits": [],
+   "service_hits": [
+    "טיפול",
+    "טיפולי",
+    "ביטוח"
+   ],
+   "product_hits": [
+    "הנחה"
+   ],
+   "hebrew": true,
+   "currencies": [],
+   "active_ads_count": 3,
+   "active_ads_count_exact": true,
+   "cta_types": [
+    "MESSAGE_PAGE"
+   ],
+   "page_like_count": 1206,
+   "product_score": -5,
+   "clinic_excluded": [],
+   "clinic_hits": [
+    "מרפאה",
+    "מרפאת",
+    "טיפול",
+    "טיפולי",
+    "ד\"ר"
+   ]
+  },
+  "active_ads_count_exact": true,
+  "ad_ids": [
+   "1879963676133790"
+  ],
+  "currencies": [],
+  "cta_types": [
+   "MESSAGE_PAGE"
+  ],
+  "page_like_count": 1206,
+  "page_categories": [
+   "Local business"
+  ],
+  "track": "clinic",
+  "page_ads": [
+   {
+    "id": "1879963676133790",
     "page_id": "1532909526982588",
     "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
-    "active_ads_count": 3,
-    "search_keyword": "כאבי ברכיים",
-    "sample_ads": [
-      {
-        "ad_id": "1879963676133790",
-        "link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-        "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "landing_url": "",
-        "cta_type": "MESSAGE_PAGE",
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "AUDIENCE_NETWORK",
-          "MESSENGER"
-        ],
-        "images": [],
-        "videos": [
-          {
-            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495481760_605871505950403_9006900467687356856_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JZqQdUNuy88Q7kNvwEwwQ24&_nc_oc=AdqCviBgeZ44SGi29Fer6gj-Zr5lM1nqRTW7U_Ldkb3SR2ayxa5MbZZ7JUweMHvkv4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&oh=00_AQIHcf9whZKh8EqiuKWxPXl_TXhleHS0l3SR12S0xxS5ww&oe=6ABF2A1C",
-            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMY0ymlOsMHRZfL0Skm3Y1bG0LhQZN5gXJVenQ3Y-yVm_rgEObr_5tQTVyUpV5FxEOwXr3YpF7J-Gf_hRyZnpLhEXZcAOhhbYCBh965FcaH8g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SYGUkjqCR4QQ7kNvwGd2HUT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODUyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk3NDg4NTA3MTI2MzcsImFzc2V0X2FnZV9kYXlzIjo1MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93a81a8ff506d29d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NzRFN0JFNjk0MERERTRGNjg1MTU4QjU5MzY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMVWVUQjBFWk1UYVNMMEZBSTM4aFpibUlNNTBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6gNDf0b3XBRUCKAJDMywXQE3qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=eMlnrWL6aP08D3xKpk3EsQ&_nc_ss=70289&_nc_zt=28&oh=00_AQIwjvz65h6u5KiUaimaNRz_wsKKKkKYRkM9duU4Bqzp-A&oe=6ABF2E88"
-          }
-        ],
-        "collation_count": 1,
-        "start_time": 1746601200,
-        "snapshot_url": "https://www.facebook.com/ads/library/?id=1879963676133790"
-      }
-    ],
-    "filter": {
-      "brand_hits": [],
-      "service_hits": [
-        "טיפול",
-        "טיפולי",
-        "ביטוח"
-      ],
-      "product_hits": [
-        "הנחה"
-      ],
-      "hebrew": true,
-      "currencies": [],
-      "active_ads_count": 3,
-      "active_ads_count_exact": true,
-      "cta_types": [
-        "MESSAGE_PAGE"
-      ],
-      "page_like_count": 1206,
-      "product_score": -5,
-      "clinic_excluded": [],
-      "clinic_hits": [
-        "מרפאה",
-        "מרפאת",
-        "טיפול",
-        "טיפולי",
-        "ד\"ר"
-      ]
-    },
-    "active_ads_count_exact": true,
-    "ad_ids": [
-      "1879963676133790"
-    ],
-    "currencies": [],
-    "cta_types": [
-      "MESSAGE_PAGE"
-    ],
+    "page_url": "https://www.facebook.com/ShockWavesTherapy/",
     "page_like_count": 1206,
     "page_categories": [
-      "Local business"
+     "Local business"
     ],
-    "track": "clinic",
-    "page_ads": [
-      {
-        "id": "1879963676133790",
-        "page_id": "1532909526982588",
-        "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
-        "page_url": "https://www.facebook.com/ShockWavesTherapy/",
-        "page_like_count": 1206,
-        "page_categories": [
-          "Local business"
-        ],
-        "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-        "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "link_description": "",
-        "landing_url": "",
-        "cta_type": "MESSAGE_PAGE",
-        "cta_text": "שליחת הודעה",
-        "display_format": "VIDEO",
-        "ad_delivery_start_time": 1746601200,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "AUDIENCE_NETWORK",
-          "MESSENGER"
-        ],
-        "collation_count": 1,
-        "images": [],
-        "videos": [
-          {
-            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495481760_605871505950403_9006900467687356856_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JZqQdUNuy88Q7kNvwEwwQ24&_nc_oc=AdqCviBgeZ44SGi29Fer6gj-Zr5lM1nqRTW7U_Ldkb3SR2ayxa5MbZZ7JUweMHvkv4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQJRTiITZJHColXI_WiBv8l8ZwBfzNLFEfRhRtLL5f-knA&oe=6ABF2A1C",
-            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMY0ymlOsMHRZfL0Skm3Y1bG0LhQZN5gXJVenQ3Y-yVm_rgEObr_5tQTVyUpV5FxEOwXr3YpF7J-Gf_hRyZnpLhEXZcAOhhbYCBh965FcaH8g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SYGUkjqCR4QQ7kNvwGd2HUT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODUyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk3NDg4NTA3MTI2MzcsImFzc2V0X2FnZV9kYXlzIjo1MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93a81a8ff506d29d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NzRFN0JFNjk0MERERTRGNjg1MTU4QjU5MzY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMVWVUQjBFWk1UYVNMMEZBSTM4aFpibUlNNTBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6gNDf0b3XBRUCKAJDMywXQE3qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeTYOXEPOPLR8utKv7PLI01rIvKs6M2zSRVMqKVaYmsQ&oe=6ABF2E88"
-          }
-        ],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1879963676133790"
-      },
-      {
-        "id": "1687756718851369",
-        "page_id": "1532909526982588",
-        "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
-        "page_url": "https://www.facebook.com/ShockWavesTherapy/",
-        "page_like_count": 1206,
-        "page_categories": [
-          "Local business"
-        ],
-        "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-        "body": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n📍 רחוב החלוץ 1, בית פרנק, אשקלון\n📲 לקבלת מידע נוסף - שלחו הודעה או השאירו תגובה",
-        "link_description": "",
-        "landing_url": "",
-        "cta_type": "MESSAGE_PAGE",
-        "cta_text": "שליחת הודעה",
-        "display_format": "VIDEO",
-        "ad_delivery_start_time": 1763366400,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "AUDIENCE_NETWORK",
-          "MESSENGER"
-        ],
-        "collation_count": 1,
-        "images": [],
-        "videos": [
-          {
-            "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585217692_1538093287612011_3839101820797595748_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sPZan1InE0IQ7kNvwEagsm9&_nc_oc=AdqUcR_jhsrkyCnHRsu4bSga2ujwOEF_AbnOrsjlzU9GKI9Q90VoxApet2HeAd7cGjs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQIFEBzeXWz2p_0TQl-IypdJrnkt6Oz3WnnT4j8NY7s_hg&oe=6ABEFF41",
-            "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQ386lRFQ8f74PhdyIgKmieDxN-LefJnA1wdSf2P98f9t-wkn5fqCOuXEttCIsKGrmaWqT03D_tCdm5323JFrgPdM7IChVdxaZo-PUV-wXiQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x1iMpfMimJsQ7kNvwFxI1qr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjczMzEyNTc4MjQ3MTQyNCwiYXNzZXRfYWdlX2RheXMiOjMxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=59001ff10ae05ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjQ2MzcxQzRCNURGODBDODgyMDU4MTE4MEI0RUFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE5NERCRTg3NEIxODFFNzMyOTE4QUE3OUU3QjczRUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAjLjdxLHNAhUCKAJDMywXQChEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJH8RYNonY3k6xV0OYaAurDqVjTj6fuabK85yRXhWvIGQ&oe=6ABEFD23"
-          }
-        ],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1687756718851369"
-      },
-      {
-        "id": "1384486106885471",
-        "page_id": "1532909526982588",
-        "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
-        "page_url": "https://www.facebook.com/ShockWavesTherapy/",
-        "page_like_count": 1206,
-        "page_categories": [
-          "Local business"
-        ],
-        "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-        "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "link_description": "",
-        "landing_url": "",
-        "cta_type": "MESSAGE_PAGE",
-        "cta_text": "שליחת הודעה",
-        "display_format": "VIDEO",
-        "ad_delivery_start_time": 1782111600,
-        "platforms": [
-          "FACEBOOK",
-          "INSTAGRAM",
-          "AUDIENCE_NETWORK",
-          "MESSENGER"
-        ],
-        "collation_count": 1,
-        "images": [],
-        "videos": [
-          {
-            "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725147376_1353172132901779_6951893706249778898_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=moAg6_qu2iwQ7kNvwF48ymt&_nc_oc=Adq1UOLPX5i7I4Y2eVJ0XhJcNqjJKSolpEtFX5viHdIfBsSTxOhOQzqk8B97CF1iS4U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQI_y15Xr1J_PxhCVolq69HyPcKXyPdOdQPjR3bXjRnopw&oe=6ABF2BF5",
-            "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDAWgRNVcjC7QrrzrGfyP4Bd1J_RBDv6j6u6EyksqT24giUvd2WroFS6Hyxm_-IOyAXVBLDOoAzvtPM90qIhWf9SExaB0L7wGda1IInwNCYA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=xxZN9UzV7f4Q7kNvwEJLIAe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzc3OTM2MjIyOTEwMjE0LCJhc3NldF9hZ2VfZGF5cyI6MTkzNywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e32773d7a4243d3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNjQ0ODc5MjczRDdDNjcwM0QxOTlCMTUzQjk3RDg5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEwODM3NjM3NjkzMzU4ODZfNzI1ODYxMzExODY2MjM1NjU1OC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjNy38bjO8gQVAigCQzMsF0BBQo9cKPXDGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKm6rDnUspxfwqv4mZEokhahNRQExTSKh9fq2rfNYmlKQ&oe=6ABF2C37"
-          }
-        ],
-        "currency": "",
-        "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1384486106885471"
-      },
-      {
-        "id": "1879963676133790",
-        "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "landing_url": ""
-      }
+    "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+    "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "link_description": "",
+    "landing_url": "",
+    "cta_type": "MESSAGE_PAGE",
+    "cta_text": "שליחת הודעה",
+    "display_format": "VIDEO",
+    "ad_delivery_start_time": 1746601200,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "AUDIENCE_NETWORK",
+     "MESSENGER"
     ],
-    "social_landings": [],
-    "link_in_bio_pages": [],
-    "ad_snapshots": [
-      {
-        "ad_id": "1879963676133790",
-        "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "links": []
-      },
-      {
-        "ad_id": "1687756718851369",
-        "text": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n📍 רחוב החלוץ 1, בית פרנק, אשקלון\n📲 לקבלת מידע נוסף - שלחו הודעה או השאירו תגובה",
-        "links": []
-      },
-      {
-        "ad_id": "1384486106885471",
-        "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "links": []
-      },
-      {
-        "ad_id": "1879963676133790",
-        "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
-        "links": []
-      },
-      {
-        "ad_id": "1879963676133790",
-        "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nגלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1879963676133790\nהתחילה לפעול ב-7 במאי 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nגלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121\nממומן\nבאמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nלחצו 'שליחת הודעה' לציאט קצר איתנו!\nLocal business\nשליחת הודעה\nסגירה",
-        "links": []
-      }
+    "collation_count": 1,
+    "images": [],
+    "videos": [
+     {
+      "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/495481760_605871505950403_9006900467687356856_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JZqQdUNuy88Q7kNvwEwwQ24&_nc_oc=AdqCviBgeZ44SGi29Fer6gj-Zr5lM1nqRTW7U_Ldkb3SR2ayxa5MbZZ7JUweMHvkv4o&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQJRTiITZJHColXI_WiBv8l8ZwBfzNLFEfRhRtLL5f-knA&oe=6ABF2A1C",
+      "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMY0ymlOsMHRZfL0Skm3Y1bG0LhQZN5gXJVenQ3Y-yVm_rgEObr_5tQTVyUpV5FxEOwXr3YpF7J-Gf_hRyZnpLhEXZcAOhhbYCBh965FcaH8g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SYGUkjqCR4QQ7kNvwGd2HUT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODUyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk3NDg4NTA3MTI2MzcsImFzc2V0X2FnZV9kYXlzIjo1MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93a81a8ff506d29d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NzRFN0JFNjk0MERERTRGNjg1MTU4QjU5MzY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMVWVUQjBFWk1UYVNMMEZBSTM4aFpibUlNNTBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6gNDf0b3XBRUCKAJDMywXQE3qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeTYOXEPOPLR8utKv7PLI01rIvKs6M2zSRVMqKVaYmsQ&oe=6ABF2E88"
+     }
     ],
-    "landing_urls": []
-  },
-  "current_ads": [],
-  "products": [],
-  "research": {},
-  "new_ads": [],
-  "outreach": {
-    "suggested_whatsapp_message": "",
-    "research": {
-      "checked": "2026-09-27",
-      "active_count": 3,
-      "seen": 3,
-      "newest_start": "2026-06-22",
-      "oldest_start": "2025-05-07",
-      "days_since_newest": 97,
-      "longest_running_days": 508,
-      "distinct_texts": 2,
-      "ctas": [
-        [
-          "MESSAGE_PAGE",
-          3
-        ]
-      ],
-      "videos": 3,
-      "landings": [],
-      "landing_status": {},
-      "home_share": 0,
-      "samples": [
-        {
-          "start": "2025-05-07",
-          "cta": "MESSAGE_PAGE",
-          "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-          "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכ",
-          "landing": ""
-        },
-        {
-          "start": "2025-11-17",
-          "cta": "MESSAGE_PAGE",
-          "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-          "body": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n",
-          "landing": ""
-        },
-        {
-          "start": "2026-06-22",
-          "cta": "MESSAGE_PAGE",
-          "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
-          "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכ",
-          "landing": ""
-        }
-      ]
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1879963676133790"
+   },
+   {
+    "id": "1687756718851369",
+    "page_id": "1532909526982588",
+    "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
+    "page_url": "https://www.facebook.com/ShockWavesTherapy/",
+    "page_like_count": 1206,
+    "page_categories": [
+     "Local business"
+    ],
+    "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+    "body": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n📍 רחוב החלוץ 1, בית פרנק, אשקלון\n📲 לקבלת מידע נוסף - שלחו הודעה או השאירו תגובה",
+    "link_description": "",
+    "landing_url": "",
+    "cta_type": "MESSAGE_PAGE",
+    "cta_text": "שליחת הודעה",
+    "display_format": "VIDEO",
+    "ad_delivery_start_time": 1763366400,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "AUDIENCE_NETWORK",
+     "MESSENGER"
+    ],
+    "collation_count": 1,
+    "images": [],
+    "videos": [
+     {
+      "thumb": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.35426-6/585217692_1538093287612011_3839101820797595748_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sPZan1InE0IQ7kNvwEagsm9&_nc_oc=AdqUcR_jhsrkyCnHRsu4bSga2ujwOEF_AbnOrsjlzU9GKI9Q90VoxApet2HeAd7cGjs&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQIFEBzeXWz2p_0TQl-IypdJrnkt6Oz3WnnT4j8NY7s_hg&oe=6ABEFF41",
+      "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQ386lRFQ8f74PhdyIgKmieDxN-LefJnA1wdSf2P98f9t-wkn5fqCOuXEttCIsKGrmaWqT03D_tCdm5323JFrgPdM7IChVdxaZo-PUV-wXiQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x1iMpfMimJsQ7kNvwFxI1qr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjczMzEyNTc4MjQ3MTQyNCwiYXNzZXRfYWdlX2RheXMiOjMxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=59001ff10ae05ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjQ2MzcxQzRCNURGODBDODgyMDU4MTE4MEI0RUFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE5NERCRTg3NEIxODFFNzMyOTE4QUE3OUU3QjczRUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAjLjdxLHNAhUCKAJDMywXQChEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJH8RYNonY3k6xV0OYaAurDqVjTj6fuabK85yRXhWvIGQ&oe=6ABEFD23"
+     }
+    ],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1687756718851369"
+   },
+   {
+    "id": "1384486106885471",
+    "page_id": "1532909526982588",
+    "page_name": "גלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121",
+    "page_url": "https://www.facebook.com/ShockWavesTherapy/",
+    "page_like_count": 1206,
+    "page_categories": [
+     "Local business"
+    ],
+    "ad_creative_link_title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+    "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "link_description": "",
+    "landing_url": "",
+    "cta_type": "MESSAGE_PAGE",
+    "cta_text": "שליחת הודעה",
+    "display_format": "VIDEO",
+    "ad_delivery_start_time": 1782111600,
+    "platforms": [
+     "FACEBOOK",
+     "INSTAGRAM",
+     "AUDIENCE_NETWORK",
+     "MESSENGER"
+    ],
+    "collation_count": 1,
+    "images": [],
+    "videos": [
+     {
+      "thumb": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.35426-6/725147376_1353172132901779_6951893706249778898_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=moAg6_qu2iwQ7kNvwF48ymt&_nc_oc=Adq1UOLPX5i7I4Y2eVJ0XhJcNqjJKSolpEtFX5viHdIfBsSTxOhOQzqk8B97CF1iS4U&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&oh=00_AQI_y15Xr1J_PxhCVolq69HyPcKXyPdOdQPjR3bXjRnopw&oe=6ABF2BF5",
+      "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDAWgRNVcjC7QrrzrGfyP4Bd1J_RBDv6j6u6EyksqT24giUvd2WroFS6Hyxm_-IOyAXVBLDOoAzvtPM90qIhWf9SExaB0L7wGda1IInwNCYA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=xxZN9UzV7f4Q7kNvwEJLIAe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzc3OTM2MjIyOTEwMjE0LCJhc3NldF9hZ2VfZGF5cyI6MTkzNywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e32773d7a4243d3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNjQ0ODc5MjczRDdDNjcwM0QxOTlCMTUzQjk3RDg5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEwODM3NjM3NjkzMzU4ODZfNzI1ODYxMzExODY2MjM1NjU1OC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjNy38bjO8gQVAigCQzMsF0BBQo9cKPXDGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKm6rDnUspxfwqv4mZEokhahNRQExTSKh9fq2rfNYmlKQ&oe=6ABF2C37"
+     }
+    ],
+    "currency": "",
+    "ad_snapshot_url": "https://www.facebook.com/ads/library/?id=1384486106885471"
+   },
+   {
+    "id": "1879963676133790",
+    "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "landing_url": ""
+   }
+  ],
+  "social_landings": [],
+  "link_in_bio_pages": [],
+  "ad_snapshots": [
+   {
+    "ad_id": "1879963676133790",
+    "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "links": []
+   },
+   {
+    "ad_id": "1687756718851369",
+    "text": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n📍 רחוב החלוץ 1, בית פרנק, אשקלון\n📲 לקבלת מידע נוסף - שלחו הודעה או השאירו תגובה",
+    "links": []
+   },
+   {
+    "ad_id": "1384486106885471",
+    "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "links": []
+   },
+   {
+    "ad_id": "1879963676133790",
+    "text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+    "links": []
+   },
+   {
+    "ad_id": "1879963676133790",
+    "text": "ספריית המודעות של Meta\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\n​\nארצות הברית\n​\n​\n​\n​\nכל המודעות\n​\nחיפוש לפי מילת מפתח או מפרסם\n​\n​\nגלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121\nמודעות\nאודות\nהתחברות\nספריית המודעות\nדוח ספריית המודעות\nAPI של ספריית המודעות\nתוכן ממותג\nסטטוס המערכת\nהרשמה לעדכונים בדוא\"ל\nשאלות נפוצות\nאודות מודעות ושימוש בנתונים\nפרטיות\nתנאים\nקובצי Cookie\nמסננים\nמיון\n​\nמיון לפי\nסטטוס פעילות: מודעות פעילות\nהסרה\n​\nאין מודעות שמתאימות לקריטריוני החיפוש שלך\nיש להסיר או להתאים את המסננים שהפעלת כדי לקבל תוצאות אחרות.\nניקוי מסננים\nטיפים לחיפוש\n\nסטטוס המערכת\nAPI של ספריית מודעותאודות מודעות ושימוש בנתוניםפרטיותתנאיםקובצי Cookie\nעברית\nקישור למודעה\nסגירה\n​\nהמודעה הזו היא מקישור URL\n​\nפעילה\nמזהה ספרייה: 1879963676133790\nהתחילה לפעול ב-7 במאי 2025\nפלטפורמות\n​\n​\n​\n​\nפתח/י תפריט נפתח\n​\nראה/ראי את פרטי המודעה\nגלי ריפוי-מרפאה לטיפול בכאבים אורתופדיים ללא ניתוח או זריקות 054-2119121\nממומן\nבאמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.\nמצטערים, אנחנו מתקשים להציג סרטון זה.\nמידע נוסף\nלחצו 'שליחת הודעה' לציאט קצר איתנו!\nLocal business\nשליחת הודעה\nסגירה",
+    "links": []
+   }
+  ],
+  "landing_urls": []
+ },
+ "current_ads": [
+  {
+   "ad_id": "1879963676133790",
+   "start_date": "2025-05-07",
+   "days_running": 509,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "variations": 1,
+   "primary_text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+   "headline": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+   "multiple_versions": false,
+   "description": "",
+   "cta": "שליחת הודעה",
+   "landing_url": "",
+   "media": [
+    {
+     "type": "video",
+     "thumb": "2026-09-27-344/current_ads/1879963676133790_video.jpg",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMY0ymlOsMHRZfL0Skm3Y1bG0LhQZN5gXJVenQ3Y-yVm_rgEObr_5tQTVyUpV5FxEOwXr3YpF7J-Gf_hRyZnpLhEXZcAOhhbYCBh965FcaH8g.mp4?_nc_cat=108&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=SYGUkjqCR4QQ7kNvwGd2HUT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuODUyLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTk3NDg4NTA3MTI2MzcsImFzc2V0X2FnZV9kYXlzIjo1MDcsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=93a81a8ff506d29d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yQjQ0NzRFN0JFNjk0MERERTRGNjg1MTU4QjU5MzY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMVWVUQjBFWk1UYVNMMEZBSTM4aFpibUlNNTBidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6gNDf0b3XBRUCKAJDMywXQE3qn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJeTYOXEPOPLR8utKv7PLI01rIvKs6M2zSRVMqKVaYmsQ&oe=6ABF2E88"
     }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=1879963676133790"
   },
-  "cost": {
-    "image_gen_usd": 0
+  {
+   "ad_id": "1687756718851369",
+   "start_date": "2025-11-17",
+   "days_running": 315,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "variations": 1,
+   "primary_text": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n📍 רחוב החלוץ 1, בית פרנק, אשקלון\n📲 לקבלת מידע נוסף - שלחו הודעה או השאירו תגובה",
+   "headline": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+   "multiple_versions": false,
+   "description": "",
+   "cta": "שליחת הודעה",
+   "landing_url": "",
+   "media": [
+    {
+     "type": "video",
+     "thumb": "2026-09-27-344/current_ads/1687756718851369_video.jpg",
+     "url": "https://video-ord5-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQMQ386lRFQ8f74PhdyIgKmieDxN-LefJnA1wdSf2P98f9t-wkn5fqCOuXEttCIsKGrmaWqT03D_tCdm5323JFrgPdM7IChVdxaZo-PUV-wXiQ.mp4?_nc_cat=105&_nc_sid=b66105&_nc_ht=video-ord5-2.xx.fbcdn.net&_nc_ohc=x1iMpfMimJsQ7kNvwFxI1qr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjczMzEyNTc4MjQ3MTQyNCwiYXNzZXRfYWdlX2RheXMiOjMxNCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=59001ff10ae05ca&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BRjQ2MzcxQzRCNURGODBDODgyMDU4MTE4MEI0RUFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE5NERCRTg3NEIxODFFNzMyOTE4QUE3OUU3QjczRUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAjLjdxLHNAhUCKAJDMywXQChEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQJH8RYNonY3k6xV0OYaAurDqVjTj6fuabK85yRXhWvIGQ&oe=6ABEFD23"
+    }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=1687756718851369"
   },
-  "timestamps": {
-    "discovered": "2026-09-27T16:19:15",
-    "filtered": "2026-09-27T16:19:36",
-    "qualified": "2026-09-27T16:21:28"
-  },
-  "qualify": {
-    "phones_in_ads": [
-      {
-        "number_e164": "+972542119121",
-        "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
-        "labelled_whatsapp": false
-      },
-      {
-        "number_e164": "+972542119121",
-        "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
-        "labelled_whatsapp": false
-      }
-    ],
-    "missing": []
+  {
+   "ad_id": "1384486106885471",
+   "start_date": "2026-06-22",
+   "days_running": 98,
+   "platforms": [
+    "FACEBOOK",
+    "INSTAGRAM",
+    "AUDIENCE_NETWORK",
+    "MESSENGER"
+   ],
+   "variations": 1,
+   "primary_text": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכר גם ע\"י חברות הביטוח ומכוסה על ידן.",
+   "headline": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+   "multiple_versions": false,
+   "description": "",
+   "cta": "שליחת הודעה",
+   "landing_url": "",
+   "media": [
+    {
+     "type": "video",
+     "thumb": "2026-09-27-344/current_ads/1384486106885471_video.jpg",
+     "url": "https://video-ord5-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQMDAWgRNVcjC7QrrzrGfyP4Bd1J_RBDv6j6u6EyksqT24giUvd2WroFS6Hyxm_-IOyAXVBLDOoAzvtPM90qIhWf9SExaB0L7wGda1IInwNCYA.mp4?_nc_cat=101&_nc_sid=b66105&_nc_ht=video-ord5-1.xx.fbcdn.net&_nc_ohc=xxZN9UzV7f4Q7kNvwEJLIAe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzc3OTM2MjIyOTEwMjE0LCJhc3NldF9hZ2VfZGF5cyI6MTkzNywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e32773d7a4243d3e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CNjQ0ODc5MjczRDdDNjcwM0QxOTlCMTUzQjk3RDg5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg1ZmJfcGVybWFuZW50LzEwODM3NjM3NjkzMzU4ODZfNzI1ODYxMzExODY2MjM1NjU1OC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjNy38bjO8gQVAigCQzMsF0BBQo9cKPXDGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AGWUngEA&_nc_gid=QwoVuyJXB7xF4xe1HCawyQ&_nc_ss=70289&_nc_zt=28&oh=00_AQKm6rDnUspxfwqv4mZEokhahNRQExTSKh9fq2rfNYmlKQ&oe=6ABF2C37"
+    }
+   ],
+   "likely_winner": true,
+   "library_url": "https://www.facebook.com/ads/library/?id=1384486106885471"
   }
+ ],
+ "products": [],
+ "research": {
+  "one_liner": "מרפאה פרטית באשקלון לטיפול בכאבים אורתופדיים בגלי הלם ובפולסים אלקטרומגנטיים, בלי ניתוח ובלי זריקות. בניהול ד\"ר מיכל קצין, עם 20 שנות ניסיון. מוכר בחברות הביטוח, והנחה לחברי לאומית ומאוחדת.",
+  "hero_products": [
+   "כתף: הסתיידות ומגבלת תנועה",
+   "דורבן בעקב",
+   "מרפק טניס",
+   "ברכיים וגב"
+  ],
+  "audience": [
+   {
+    "persona": "הכתף שלא עולה",
+    "who": "45–70, נשים וגברים",
+    "cares": "להרים יד, להתלבש, לישון על הצד, בלי ניתוח"
+   },
+   {
+    "persona": "הצעד הראשון בבוקר",
+    "who": "35–65, עומדים והולכים הרבה",
+    "cares": "ללכת בלי לחשוב על העקב"
+   },
+   {
+    "persona": "המרפק של העבודה",
+    "who": "30–60, עבודה ידנית, מחשב, ספורט",
+    "cares": "לאחוז, להרים, לעבוד"
+   }
+  ],
+  "pains": [
+   "\"הצעד הראשון בבוקר הוא הכי קשה\"",
+   "\"אני לא מצליחה להרים את היד\"",
+   "\"כואב לי להרים כוס\"",
+   "\"אמרו לי שרק ניתוח\"",
+   "\"לא רוצה עוד זריקה\""
+  ],
+  "desires": [
+   "לחזור לתנועה מלאה",
+   "בלי ניתוח ובלי זריקות",
+   "טיפול קצר וברור",
+   "שהביטוח ישתתף"
+  ],
+  "objections": [
+   "\"זה כואב?\"",
+   "\"כמה טיפולים צריך?\"",
+   "\"כמה זה עולה?\"",
+   "\"זה באמת בלי ניתוח?\""
+  ],
+  "current_ads_audit": "3 מודעות פעילות, כולן סרטונים, ורק שני טקסטים. אותו טקסט רץ ממאי 2025 ושוב מיוני 2026, והמודעה הכי חדשה עלתה ביוני. כל הכפתורים פותחים הודעה בפייסבוק, ובכותרת יש שגיאת כתיב. הטקסט מונה חמישה כאבים במשפט אחד, והעובדות הכי חזקות (רופאה עם 20 שנות ניסיון, כיסוי ביטוחי, הנחה לחברי קופה) מופיעות רק בסוף.",
+  "gaps": [
+   "אין מודעה נפרדת לכל כאב",
+   "הכפתור למסנג'ר ולא לוואטסאפ",
+   "שגיאת כתיב בכותרת",
+   "ד\"ר מיכל, הביטוח וההנחה קבורים בסוף",
+   "אותו טקסט רץ יותר משנה",
+   "משפטים שמטא מגבילה במודעות בריאות"
+  ],
+  "angles": [
+   {
+    "id": "A1",
+    "name": "כתף",
+    "idea": "הכתף שלא עולה עד הסוף: להתלבש, להסתרק, לישון על הצד.",
+    "persona": "הכתף שלא עולה",
+    "hook": "כשהיד לא עולה עד הסוף.",
+    "why": "הסרטון על הכתף הוא הכי ממוקד שיש להם. מרחיבים אותו."
+   },
+   {
+    "id": "A2",
+    "name": "דורבן בעקב",
+    "idea": "הצעד הראשון בבוקר, עמידה ארוכה, הליכה.",
+    "persona": "הצעד הראשון בבוקר",
+    "hook": "הצעד הראשון בבוקר.",
+    "why": "כאב מאוד מוכר, שמי שיש לו מחפש פתרון בלי זריקה."
+   },
+   {
+    "id": "A3",
+    "name": "מרפק טניס",
+    "idea": "לאחוז כוס, להרים שקית, לעבוד עם העכבר.",
+    "persona": "המרפק של העבודה",
+    "hook": "כשגם כוס קפה מרגישה כבדה.",
+    "why": "קהל עובד וצעיר יותר, שעוד לא מכיר את הקליניקה."
+   },
+   {
+    "id": "A4",
+    "name": "ברכיים וגב",
+    "idea": "הליכה, מדרגות, ים באשקלון.",
+    "persona": "הכתף שלא עולה",
+    "hook": "לרדת לים. ולעלות בחזרה.",
+    "why": "מדבר על מה שחוזרים לעשות, בשפה של אשקלון."
+   },
+   {
+    "id": "A5",
+    "name": "ד\"ר מיכל, ביטוח, וואטסאפ",
+    "idea": "רופאה עם 20 שנות ניסיון, מוכר בביטוח, הנחה לחברי קופה, ושאלה שנשלחת בוואטסאפ.",
+    "persona": "כולם",
+    "hook": "שאלה על הטיפול? כתבו לד\"ר מיכל.",
+    "why": "מוריד את החשש מהמחיר ומהפנייה הראשונה."
+   }
+  ]
+ },
+ "new_ads": [
+  {
+   "ad_no": 1,
+   "angle_id": "A1",
+   "format": "4:5",
+   "overlay": "כשהיד לא עולה<br>עד הסוף.",
+   "overlay_sub": "טיפול בכתף בגלי הלם · אשקלון",
+   "note": null,
+   "primary_text": "ללבוש מעיל, להסתרק, להוריד משהו מהמדף. כשהכתף לא עולה עד הסוף, כל דבר קטן נהיה מסובך.\n\nבמרפאת גלי ריפוי באשקלון מטפלים בכתף בגלי הלם ובפולסים אלקטרומגנטיים, בלי ניתוח ובלי זריקות.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "כשהיד לא עולה עד הסוף."
+   ],
+   "headline": "טיפול בכתף בלי ניתוח",
+   "description": "גלי הלם · אשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_left",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "כשהיד לא עולה<br>עד הסוף.",
+     "sub": "טיפול בכתף בגלי הלם · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      64,
+      67,
+      496,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(222,223,223)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_01.png",
+   "image_raw": "ads_raw/ad_01.png",
+   "protect": [
+    [
+     0.3,
+     0.3,
+     0.85,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121909_081bb24b-d814-464e-a07e-a8a740bfe5d9.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. Morning in a bright bedroom: a woman in her fifties putting on a light cardigan, one arm going into the sleeve and stopping at shoulder height, her other hand holding the shoulder, calm thoughtful expression, soft window light, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 2,
+   "angle_id": "A1",
+   "format": "1:1",
+   "overlay": "הסתיידות בכתף.<br>בלי ניתוח ובלי זריקות.",
+   "overlay_sub": "גלי הלם ופולסים אלקטרומגנטיים",
+   "note": null,
+   "primary_text": "הסתיידות בכתף יכולה להגביל את התנועה ולהפריע לשינה.\n\nבמרפאת גלי ריפוי מטפלים בה בגלי הלם בשילוב פולסים אלקטרומגנטיים. טיפול קצר, בלי ניתוח, בלי זריקות ובלי תרופות.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "הסתיידות בכתף? בלי ניתוח ובלי זריקות."
+   ],
+   "headline": "טיפול בהסתיידות בכתף",
+   "description": "גלי הלם באשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "headline": "הסתיידות בכתף.<br>בלי ניתוח ובלי זריקות.",
+     "sub": "גלי הלם ופולסים אלקטרומגנטיים",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(219,225,228)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_02.png",
+   "image_raw": "ads_raw/ad_02.png",
+   "protect": [
+    [
+     0.0,
+     0.15,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121914_9d4feb6d-cb80-4d5b-976f-21f7e42ce999.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room: white walls, one soft blue accent wall, a white treatment chair or table, and a compact medical shockwave device with a handheld applicator like in the reference photo. Close-up in the clinic: a practitioner's hand holding the handheld shockwave applicator from the reference photo against the front of a patient's bare shoulder, the patient in a light blue top pulled aside, calm, soft daylight, white and soft blue background. Only the practitioner's hand and forearm are visible. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 3,
+   "angle_id": "A1",
+   "format": "4:5",
+   "overlay": "להגיע למדף העליון.<br>בלי לחשוב פעמיים.",
+   "overlay_sub": "טיפול בכאבי כתף · אשקלון",
+   "note": null,
+   "primary_text": "יש תנועות שעושים בלי לחשוב. עד שהכתף מתחילה להגביל.\n\nבמרפאת גלי ריפוי עובדים על החזרה לתנועה, בטיפול בגלי הלם שמוכר בחברות הביטוח.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "להגיע למדף העליון, בלי לחשוב פעמיים."
+   ],
+   "headline": "טיפול בכאבי כתף",
+   "description": "מוכר בחברות הביטוח",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "להגיע למדף העליון.<br>בלי לחשוב פעמיים.",
+     "sub": "טיפול בכאבי כתף · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(53,56,60)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_03.png",
+   "image_raw": "ads_raw/ad_03.png",
+   "protect": [
+    [
+     0.35,
+     0.2,
+     0.85,
+     1.0
+    ],
+    [
+     0.35,
+     0.0,
+     0.6,
+     0.3
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121910_1e025fc3-14c8-424c-85b4-a866fd4086b8.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A man in his sixties reaching up to place a jar on a high kitchen shelf with an easy full arm movement, relaxed, bright kitchen with morning light, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 4,
+   "angle_id": "A1",
+   "format": "9:16",
+   "overlay": "לישון על הצד.<br>כל הלילה.",
+   "overlay_sub": "טיפול בכתף בגלי הלם",
+   "note": null,
+   "primary_text": "כשהכתף כואבת, גם הלילה נהיה קצר.\n\nד\"ר מיכל קצין, עם 20 שנות ניסיון, מטפלת בכאבי כתף במרפאת גלי ריפוי באשקלון.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "לישון על הצד, כל הלילה."
+   ],
+   "headline": "טיפול בכאבי כתף",
+   "description": "ד\"ר מיכל קצין · אשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "headline": "לישון על הצד.<br>כל הלילה.",
+     "sub": "טיפול בכתף בגלי הלם",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#f4ecdf",
+     "paper": "rgb(50,53,62)",
+     "accent": "#f4ecdf",
+     "scrim_on": true,
+     "scrim": "rgba(0,0,0,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_04.png",
+   "image_raw": "ads_raw/ad_04.png",
+   "protect": [
+    [
+     0.0,
+     0.45,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122252_518374c8-1471-431e-a634-d850a5f09f60.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. Night in a calm bedroom with a soft warm bedside lamp: a woman in her fifties asleep peacefully on her side under a white duvet, relaxed face, soft blue and white tones. She is alone in the room: no other people, no other hands or arms in the frame. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 5,
+   "angle_id": "A2",
+   "format": "4:5",
+   "overlay": "הצעד הראשון<br>בבוקר.",
+   "overlay_sub": "טיפול בדורבן בעקב · אשקלון",
+   "note": null,
+   "primary_text": "מי שיש לו דורבן מכיר את הרגע הזה: הצעד הראשון מהמיטה.\n\nבמרפאת גלי ריפוי מטפלים בדורבן בעקב בגלי הלם, בלי זריקות ובלי ניתוח, בסדרת טיפולים קצרה.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "הצעד הראשון בבוקר."
+   ],
+   "headline": "טיפול בדורבן בעקב",
+   "description": "בלי זריקות ובלי ניתוח",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "הצעד הראשון<br>בבוקר.",
+     "sub": "טיפול בדורבן בעקב · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(221,217,214)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_05.png",
+   "image_raw": "ads_raw/ad_05.png",
+   "protect": [
+    [
+     0.35,
+     0.0,
+     0.65,
+     0.6
+    ],
+    [
+     0.4,
+     0.5,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121910_13bdea8f-60f2-4fa0-880b-f3b186ded2ae.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. Early morning: bare feet stepping down from a bed onto a light wooden floor, soft sunlight across the floor, white linen hanging from the bed, close and calm, only feet and lower legs visible. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 6,
+   "angle_id": "A2",
+   "format": "1:1",
+   "overlay": "דורבן בעקב.<br>טיפול בלי זריקה.",
+   "overlay_sub": "גלי הלם · מרפאת גלי ריפוי",
+   "note": null,
+   "primary_text": "גלי הלם הם אחד הטיפולים המוכרים לדורבן בעקב, בלי זריקה ובלי ניתוח.\n\nהמרפאה באשקלון, בבית פרנק.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "דורבן בעקב? טיפול בלי זריקה."
+   ],
+   "headline": "טיפול בדורבן בגלי הלם",
+   "description": "מרפאת גלי ריפוי · אשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "quiet",
+     "headline": "דורבן בעקב.<br>טיפול בלי זריקה.",
+     "sub": "גלי הלם · מרפאת גלי ריפוי",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(227,238,244)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_06.png",
+   "image_raw": "ads_raw/ad_06.png",
+   "protect": [
+    [
+     0.0,
+     0.4,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122644_ead11e14-a89f-4ae8-add7-b7f1b652c23f.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room with white walls and a soft blue accent wall. Close-up from the side: a patient lying on a white treatment table, the sole of her bare foot facing the camera and resting on a white cushion, a practitioner's hand pressing the round head of the handheld shockwave applicator from the reference photo against the bottom of her heel, the device's cable leading out of frame. Only the practitioner's hand and forearm are visible, no face. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 7,
+   "angle_id": "A2",
+   "format": "4:5",
+   "overlay": "ללכת על החוף.<br>בלי לספור צעדים.",
+   "overlay_sub": "טיפול בדורבן · אשקלון",
+   "note": null,
+   "primary_text": "הליכה של בוקר על החוף באשקלון, בלי לחשוב על העקב.\n\nלשם מכוון הטיפול בגלי ריפוי: סדרה קצרה של טיפולים בגלי הלם, בלי זריקות.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "ללכת על החוף, בלי לספור צעדים."
+   ],
+   "headline": "טיפול בדורבן בעקב",
+   "description": "גלי הלם באשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "headline": "ללכת על החוף.<br>בלי לספור צעדים.",
+     "sub": "טיפול בדורבן · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(62,51,42)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_07.png",
+   "image_raw": "ads_raw/ad_07.png",
+   "protect": [
+    [
+     0.3,
+     0.4,
+     0.45,
+     0.75
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122252_347c06bc-7e6b-44af-aba5-f076fd02cb12.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A woman in her forties walking barefoot on the wet sand at the edge of the sea at sunrise, easy relaxed steps, soft golden light, seen from the side at a distance, Mediterranean beach, soft blue sky. She is the only person; nothing in the foreground, no hands, no objects close to the camera. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 8,
+   "angle_id": "A2",
+   "format": "9:16",
+   "overlay": "עומדים כל היום.<br>והעקב מרגיש הכול.",
+   "overlay_sub": "טיפול בדורבן בעקב",
+   "note": null,
+   "primary_text": "עבודה בעמידה, משמרת ארוכה, ובסוף היום העקב מרגיש כל צעד.\n\nבמרפאת גלי ריפוי מטפלים בדורבן בגלי הלם, והטיפול מוכר בחברות הביטוח.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "עומדים כל היום, והעקב מרגיש הכול."
+   ],
+   "headline": "טיפול בדורבן",
+   "description": "מוכר בחברות הביטוח",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "headline": "עומדים כל היום.<br>והעקב מרגיש הכול.",
+     "sub": "טיפול בדורבן בעקב",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      250,
+      993,
+      576
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(232,232,232)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_08.png",
+   "image_raw": "ads_raw/ad_08.png",
+   "protect": [
+    [
+     0.1,
+     0.35,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121911_4c9f97ff-088e-4de7-8201-add663727632.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A woman in her fifties, a nurse or shop worker, standing at the end of a long shift, leaning lightly on a counter and shifting her weight off one foot, calm tired expression, soft warm light, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 9,
+   "angle_id": "A3",
+   "format": "4:5",
+   "overlay": "כשגם כוס קפה<br>מרגישה כבדה.",
+   "overlay_sub": "טיפול במרפק טניס · אשקלון",
+   "note": null,
+   "primary_text": "מרפק טניס לא שייך רק לטניס. הוא מגיע מעבודה עם הידיים, ממחשב, מכלים ומהרמות.\n\nבמרפאת גלי ריפוי מטפלים בו בגלי הלם, בלי ניתוח ובלי זריקות.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "כשגם כוס קפה מרגישה כבדה."
+   ],
+   "headline": "טיפול במרפק טניס",
+   "description": "גלי הלם · אשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "כשגם כוס קפה<br>מרגישה כבדה.",
+     "sub": "טיפול במרפק טניס · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(199,199,198)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_09.png",
+   "image_raw": "ads_raw/ad_09.png",
+   "protect": [
+    [
+     0.35,
+     0.2,
+     0.8,
+     0.9
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121914_342cf78e-240d-4033-8603-21bd8cbe7bb4.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A man in his forties at a kitchen counter lifting a mug of coffee with one hand, the other hand holding his forearm just below the elbow, calm expression, bright morning light, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 10,
+   "angle_id": "A3",
+   "format": "1:1",
+   "overlay": "מרפק טניס.<br>טיפול קצר, בלי ניתוח.",
+   "overlay_sub": "גלי הלם ופולסים אלקטרומגנטיים",
+   "note": null,
+   "primary_text": "במרפאת גלי ריפוי מטפלים במרפק טניס בגלי הלם ובפולסים אלקטרומגנטיים, בלי ניתוח ובלי זריקות.\n\nד\"ר מיכל קצין מסבירה כל שלב לפני שמתחילים.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "מרפק טניס? טיפול קצר, בלי ניתוח."
+   ],
+   "headline": "טיפול במרפק טניס",
+   "description": "ד\"ר מיכל קצין",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "stack",
+     "headline": "מרפק טניס.<br>טיפול קצר, בלי ניתוח.",
+     "sub": "גלי הלם ופולסים אלקטרומגנטיים",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(208,195,187)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_10.png",
+   "image_raw": "ads_raw/ad_10.png",
+   "protect": [
+    [
+     0.0,
+     0.25,
+     1.0,
+     0.8
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121910_c33039da-5d8f-4ff0-b560-6617f804ed3a.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room: white walls, one soft blue accent wall, a white treatment chair or table, and a compact medical shockwave device with a handheld applicator like in the reference photo. Close-up in the clinic: a patient's forearm resting on a white padded armrest, a practitioner's hand holding the handheld shockwave applicator from the reference photo against the outer side of the elbow, soft daylight, white and soft blue tones. Only the practitioner's hand and forearm are visible. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 11,
+   "angle_id": "A3",
+   "format": "4:5",
+   "overlay": "הידיים הן העבודה.<br>והמרפק צריך להחזיק.",
+   "overlay_sub": "טיפול במרפק טניס",
+   "note": null,
+   "primary_text": "נגרים, טכנאים, ספרים, מי שעובד עם הידיים כל יום. המרפק סוחב את כל העבודה.\n\nבמרפאת גלי ריפוי באשקלון מטפלים במרפק טניס בגלי הלם.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "הידיים הן העבודה."
+   ],
+   "headline": "טיפול במרפק טניס",
+   "description": "גלי הלם באשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "cover",
+     "headline": "הידיים הן העבודה.<br>והמרפק צריך להחזיק.",
+     "sub": "טיפול במרפק טניס",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(32,24,20)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.42)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_11.png",
+   "image_raw": "ads_raw/ad_11.png",
+   "protect": [
+    [
+     0.2,
+     0.2,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121910_409bffe2-cb40-45f0-bfc6-276d84bf045d.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A man in his thirties, a craftsman, working with a hand tool at a wooden workbench, strong forearms, focused calm face, warm workshop light, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 12,
+   "angle_id": "A3",
+   "format": "9:16",
+   "overlay": "לחזור למגרש.<br>בלי לוותר על המכה.",
+   "overlay_sub": "טיפול במרפק טניס · אשקלון",
+   "note": null,
+   "primary_text": "טניס, פאדל, או סתם משחק עם הילדים. מרפק טניס לא צריך לעצור את זה.\n\nבמרפאת גלי ריפוי מטפלים בו בגלי הלם, בסדרת טיפולים קצרה.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "לחזור למגרש, בלי לוותר על המכה."
+   ],
+   "headline": "טיפול במרפק טניס",
+   "description": "סדרת טיפולים קצרה",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "quiet",
+     "headline": "לחזור למגרש.<br>בלי לוותר על המכה.",
+     "sub": "טיפול במרפק טניס · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      250,
+      993,
+      518
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(18,38,51)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": "#f4ecdf",
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_12.png",
+   "image_raw": "ads_raw/ad_12.png",
+   "protect": [
+    [
+     0.1,
+     0.3,
+     0.95,
+     0.85
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122252_9c3479c3-84dc-4b86-9220-b95264f53c20.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A woman in her fifties playing padel on an outdoor court on a sunny morning, mid swing, relaxed and smiling, blue court and blue sky, seen from the side at a distance, her whole body and the racket visible. She is the only person in the frame; no other people, no hands, no devices in the foreground. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 13,
+   "angle_id": "A4",
+   "format": "4:5",
+   "overlay": "לרדת לים.<br>ולעלות בחזרה.",
+   "overlay_sub": "טיפול בברכיים ובגב · אשקלון",
+   "note": null,
+   "primary_text": "הטיילת, המדרגות לחוף, והדרך חזרה.\n\nבמרפאת גלי ריפוי מטפלים בכאבי ברכיים וגב בגלי הלם ובפולסים אלקטרומגנטיים, בלי ניתוח ובלי זריקות.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "לרדת לים, ולעלות בחזרה."
+   ],
+   "headline": "טיפול בכאבי ברכיים",
+   "description": "גלי הלם באשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "quiet",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "quiet",
+     "headline": "לרדת לים.<br>ולעלות בחזרה.",
+     "sub": "טיפול בברכיים ובגב · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(245,245,245)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.22)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_13.png",
+   "image_raw": "ads_raw/ad_13.png",
+   "protect": [
+    [
+     0.3,
+     0.45,
+     0.65,
+     0.95
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121959_facf07fe-8efb-434a-baa3-7a126184982e.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A couple in their sixties walking down a wide promenade toward the sea in Ashkelon at golden hour, relaxed easy steps, seen from behind at a distance, palm trees and the Mediterranean ahead. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 14,
+   "angle_id": "A4",
+   "format": "1:1",
+   "overlay": "כאבי ברכיים.<br>בלי ניתוח ובלי זריקות.",
+   "overlay_sub": "גלי הלם · אשקלון",
+   "note": null,
+   "primary_text": "כשהברך מתחילה להגביל, הרבה אנשים שומעים שהפתרון הוא זריקה או ניתוח.\n\nבמרפאת גלי ריפוי יש עוד דרך לבדוק: טיפול בגלי הלם, שמוכר בחברות הביטוח.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "כאבי ברכיים? בלי ניתוח ובלי זריקות."
+   ],
+   "headline": "טיפול בכאבי ברכיים",
+   "description": "מוכר בחברות הביטוח",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "headline": "כאבי ברכיים.<br>בלי ניתוח ובלי זריקות.",
+     "sub": "גלי הלם · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      54,
+      993,
+      334
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(217,219,221)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_14.png",
+   "image_raw": "ads_raw/ad_14.png",
+   "protect": [
+    [
+     0.0,
+     0.0,
+     0.15,
+     0.3
+    ],
+    [
+     0.0,
+     0.3,
+     1.0,
+     1.0
+    ],
+    [
+     0.75,
+     0.0,
+     1.0,
+     0.4
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122000_1a2138af-1e2f-4503-9cd2-81a54468e3cc.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room: white walls, one soft blue accent wall, a white treatment chair or table, and a compact medical shockwave device with a handheld applicator like in the reference photo. Close-up in the clinic: a patient sitting on a white treatment table in rolled up light trousers, a practitioner's hand holding the handheld shockwave applicator from the reference photo against the side of the knee, soft daylight, white and soft blue tones. Only the practitioner's hand and forearm are visible. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 15,
+   "angle_id": "A4",
+   "format": "4:5",
+   "overlay": "מדרגות עם הנכדה.<br>בקצב שלה.",
+   "overlay_sub": "טיפול בכאבי ברכיים",
+   "note": null,
+   "primary_text": "מדרגות, גן שעשועים, טיול קצר. דברים פשוטים שברך כואבת יכולה לקחת.\n\nבמרפאת גלי ריפוי מטפלים בכאבי ברכיים, בניהול ד\"ר מיכל קצין.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "מדרגות עם הנכדה, בקצב שלה."
+   ],
+   "headline": "טיפול בכאבי ברכיים",
+   "description": "ד\"ר מיכל קצין · אשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "מדרגות עם הנכדה.<br>בקצב שלה.",
+     "sub": "טיפול בכאבי ברכיים",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      583,
+      67,
+      1015,
+      364
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(36,33,18)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_15.png",
+   "image_raw": "ads_raw/ad_15.png",
+   "protect": [
+    [
+     0.0,
+     0.3,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121955_eaffdbfc-bdda-48cb-989a-d23c1b00dbba.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A grandmother in her sixties climbing a few outdoor stone steps holding the hand of her five year old granddaughter, both smiling, warm afternoon light, a garden path, seen from the side. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 16,
+   "angle_id": "A4",
+   "format": "9:16",
+   "overlay": "להתכופף בגינה.<br>ולהזדקף בלי לחשוב.",
+   "overlay_sub": "טיפול בכאבי גב · אשקלון",
+   "note": null,
+   "primary_text": "להתכופף, להרים, להזדקף. תנועות של כל יום שגב כואב הופך לפרויקט.\n\nבמרפאת גלי ריפוי מטפלים בכאבי גב בגלי הלם ובפולסים אלקטרומגנטיים.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "להתכופף בגינה, ולהזדקף בלי לחשוב."
+   ],
+   "headline": "טיפול בכאבי גב",
+   "description": "גלי הלם באשקלון",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_left",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "contrast",
+     "headline": "להתכופף בגינה.<br>ולהזדקף בלי לחשוב.",
+     "sub": "טיפול בכאבי גב · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      64,
+      250,
+      496,
+      787
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(45,36,19)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.22)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_16.png",
+   "image_raw": "ads_raw/ad_16.png",
+   "protect": [
+    [
+     0.0,
+     0.25,
+     0.9,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_122254_42144aa2-0e65-4023-80a8-0ffe7a78d37b.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A man in his fifties alone in a sunny home garden, bending down easily to pick ripe tomatoes into a wicker basket on the ground, relaxed posture, warm morning light, seen from the side, his whole body visible. He is the only person; no other people, hands or arms in the frame. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 17,
+   "angle_id": "A5",
+   "format": "4:5",
+   "overlay": "מרפאה פרטית<br>באשקלון.",
+   "overlay_sub": "ד\"ר מיכל קצין · 20 שנות ניסיון",
+   "note": null,
+   "primary_text": "גלי ריפוי היא מרפאה פרטית לטיפול בכאבים אורתופדיים, בבית פרנק באשקלון. ד\"ר מיכל קצין מנהלת אותה, עם 20 שנות ניסיון.\n\nכתף, דורבן, מרפק טניס, ברכיים וגב, בגלי הלם ובפולסים אלקטרומגנטיים.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "מרפאה פרטית באשקלון."
+   ],
+   "headline": "גלי ריפוי, ד\"ר מיכל קצין",
+   "description": "20 שנות ניסיון",
+   "cta": "WhatsApp",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "stack",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "stack",
+     "headline": "מרפאה פרטית<br>באשקלון.",
+     "sub": "ד\"ר מיכל קצין · 20 שנות ניסיון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      67,
+      993,
+      418
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(230,229,229)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_17.png",
+   "image_raw": "ads_raw/ad_17.png",
+   "protect": [
+    [
+     0.0,
+     0.35,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121955_13dd99d6-3812-4a6f-8016-8f906f6461aa.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room: white walls, one soft blue accent wall, a white treatment chair or table, and a compact medical shockwave device with a handheld applicator like in the reference photo. The clinic treatment room itself, empty and ready: a white padded treatment table, the compact shockwave device with its handheld applicator from the reference photo on a small cart, white walls and one soft blue accent wall, a plant, soft morning light through a window. No people. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 18,
+   "angle_id": "A5",
+   "format": "1:1",
+   "overlay": "מוכר בחברות<br>הביטוח.",
+   "overlay_sub": "הנחה לחברי לאומית ומאוחדת",
+   "note": null,
+   "primary_text": "הטיפול בגלי ריפוי פרטי, אבל מוכר בחברות הביטוח ומכוסה לפי תנאי הפוליסה. ולחברי לאומית ומאוחדת יש הנחה.\n\nכתבו לנו ונבדוק יחד מה מגיע לכם.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "מוכר בחברות הביטוח."
+   ],
+   "headline": "כיסוי ביטוחי והנחה לחברי קופה",
+   "description": "לאומית ומאוחדת",
+   "cta": "WhatsApp",
+   "has_people": false,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1080,
+     "direction": "cover",
+     "headline": "מוכר בחברות<br>הביטוח.",
+     "sub": "הנחה לחברי לאומית ומאוחדת",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      54,
+      993,
+      237
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(238,239,240)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": "#231a12",
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_18.png",
+   "image_raw": "ads_raw/ad_18.png",
+   "protect": [
+    [
+     0.2,
+     0.25,
+     1.0,
+     0.8
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121956_aec0a667-532c-42a5-8351-2096d59b12ea.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. On a clean white desk in a bright clinic: a folded insurance form, a pen and a pair of glasses next to a small plant, soft daylight, calm and orderly, shallow depth of field. No people, no readable text. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 19,
+   "angle_id": "A5",
+   "format": "4:5",
+   "overlay": "שאלה על הטיפול?<br>כתבו לד\"ר מיכל.",
+   "overlay_sub": "תשובה בוואטסאפ",
+   "note": null,
+   "primary_text": "לא בטוחים אם גלי הלם מתאימים לכם? כתבו לנו בוואטסאפ מה כואב וממתי.\n\nד\"ר מיכל קצין תחזור אליכם עם תשובה, בלי התחייבות.",
+   "alt_texts": [
+    "שאלה על הטיפול? כתבו לד\"ר מיכל."
+   ],
+   "headline": "כתבו לנו בוואטסאפ",
+   "description": "תשובה ישירות מהמרפאה",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "contrast",
+    "rendered_zone": "mid_right",
+    "render": {
+     "w": 1080,
+     "h": 1350,
+     "direction": "contrast",
+     "headline": "שאלה על הטיפול?<br>כתבו לד\"ר מיכל.",
+     "sub": "תשובה בוואטסאפ",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      583,
+      67,
+      1015,
+      445
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(232,237,239)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_19.png",
+   "image_raw": "ads_raw/ad_19.png",
+   "protect": [
+    [
+     0.0,
+     0.4,
+     1.0,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121956_7c91d966-2440-47a7-923c-c9a2f97b5158.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. Close-up of a woman's hand holding a smartphone above a white table next to a cup of tea, the phone screen shows a blurred generic chat app with green bubbles and no readable text, soft morning window light, a plant in the soft background. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  },
+  {
+   "ad_no": 20,
+   "angle_id": "A5",
+   "format": "9:16",
+   "overlay": "בלי ניתוח.<br>בלי זריקות.<br>בלי כדורים.",
+   "overlay_sub": "גלי ריפוי · אשקלון",
+   "note": null,
+   "primary_text": "גלי הלם בשילוב פולסים אלקטרומגנטיים, בסדרת טיפולים קצרה, במרפאה פרטית באשקלון.\n\nכתף, דורבן, מרפק טניס, ברכיים וגב.\n\nכתבו לנו בוואטסאפ, וד\"ר מיכל קצין תחזור אליכם עם כל הפרטים.",
+   "alt_texts": [
+    "בלי ניתוח, בלי זריקות, בלי כדורים."
+   ],
+   "headline": "גלי ריפוי, אשקלון",
+   "description": "גלי הלם ופולסים אלקטרומגנטיים",
+   "cta": "WhatsApp",
+   "has_people": true,
+   "to_verify": [],
+   "layout": {
+    "rendered_direction": "cover",
+    "rendered_zone": "top",
+    "render": {
+     "w": 1080,
+     "h": 1920,
+     "direction": "cover",
+     "headline": "בלי ניתוח.<br>בלי זריקות.<br>בלי כדורים.",
+     "sub": "גלי ריפוי · אשקלון",
+     "note": null,
+     "signature": "מיכל",
+     "brand": "גלי ריפוי",
+     "box": [
+      86,
+      250,
+      993,
+      749
+     ],
+     "top": true,
+     "ink": "#1f1812",
+     "paper": "rgb(220,223,225)",
+     "accent": "#1f1812",
+     "scrim_on": true,
+     "scrim": "rgba(250,246,238,0.14)",
+     "plate_bg": null,
+     "brand_color": null,
+     "obj_pos": "center",
+     "panel_side": "right",
+     "plate": false
+    }
+   },
+   "image": "ads/ad_20.png",
+   "image_raw": "ads_raw/ad_20.png",
+   "protect": [
+    [
+     0.1,
+     0.05,
+     0.7,
+     1.0
+    ]
+   ],
+   "source_url": "https://d8j0ntlcm91z4.cloudfront.net/user_35rvYgoTx1Bw2LdBdFuMk4eQNjw/hf_20260928_121957_9dc66e52-6c04-49ab-90a9-adcdad6a1da5.png",
+   "model": "higgsfield/nano_banana_pro 2k",
+   "prompt": "Premium healthcare advertising photograph, calm and bright: soft natural light, clean uncluttered spaces, white and soft sky blue tones with a small warm yellow accent, honest real people with real skin texture, shot on a full frame camera, shallow depth of field, photorealistic, editorial quality, not stock-looking. A bright modern private clinic room: white walls, one soft blue accent wall, a white treatment chair or table, and a compact medical shockwave device with a handheld applicator like in the reference photo. After a session in the bright clinic: a woman in her fifties sitting on the edge of the white treatment table, raising her arm fully above her head with a small relieved smile, the shockwave device from the reference photo in the soft background, white and soft blue tones, soft daylight. COMPOSITION: wide natural framing with open space above the subject. One single continuous photograph, no borders, no panels, no inset images, no split frame. No text, letters, logos, signs or watermarks anywhere. Anatomically correct hands and fingers. Nobody looks in pain in an exaggerated way; expressions are natural. The practitioner is never shown with a face: only hands and forearms, or from behind. "
+  }
+ ],
+ "outreach": {
+  "suggested_whatsapp_message": "",
+  "research": {
+   "checked": "2026-09-27",
+   "active_count": 3,
+   "seen": 3,
+   "newest_start": "2026-06-22",
+   "oldest_start": "2025-05-07",
+   "days_since_newest": 97,
+   "longest_running_days": 508,
+   "distinct_texts": 2,
+   "ctas": [
+    [
+     "MESSAGE_PAGE",
+     3
+    ]
+   ],
+   "videos": 3,
+   "landings": [],
+   "landing_status": {},
+   "home_share": 0,
+   "samples": [
+    {
+     "start": "2025-05-07",
+     "cta": "MESSAGE_PAGE",
+     "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+     "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכ",
+     "landing": ""
+    },
+    {
+     "start": "2025-11-17",
+     "cta": "MESSAGE_PAGE",
+     "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+     "body": "🎥 צפו בטיפול המתקדם להקלה על מגבלות תנועה בכתף\n\nהטכנולוגיה שמיושמת בקליניקת 'גלי ריפוי' באשקלון מציעה גישה חדשנית ולא פולשנית -\n💥 גלי הלם בשילוב פולסים אלקטרומגנטיים\nשיטה מוכרת לשיפור טווח התנועה והפחתת עומס כתוצאה מהסתיידויות בכתף.\n\n✅ ללא ניתוח\n✅ ללא זריקות\n✅ ללא תרופות\n\n🩺 הטיפול פרטי, אך מוכר על ידי חברות הביטוח ומכוסה בהתאם לתנאי הפוליסה.\n👩‍⚕️ בניהולה של ד\"ר מיכל קצין, Ph.D – ניסיון של 20 שנה\n\n",
+     "landing": ""
+    },
+    {
+     "start": "2026-06-22",
+     "cta": "MESSAGE_PAGE",
+     "title": "לחצו 'שליחת הודעה' לציאט קצר איתנו!",
+     "body": "באמת שאין צורך לסבול מכאבים בכתף, מרפק טניס, כאבי ברכיים, גב או דורבן בעקב.\n🚫 ללא ניתוח 🚫 ללא זריקות 🚫 ללא כדורים\nסדרת טיפולים קצרה בגלי הלם בשילוב פולסים אלקטרומגנטים ממוססים את הדלקת ומשפרים את יכולת התנועה ללא כאבים!\nלחצו על כפתור 'שליחת הודעה' או השאירו תגובה וד\"ר מיכל קצין, מנהלת מרפאת 'גלי ריפוי', תחזור אליכם עם פרטים נוספים 👇\n\n👈 חברי קופות חולים לאומית ומאוחדת זכאים להנחה מיוחדת.\nהטיפול מוכ",
+     "landing": ""
+    }
+   ]
+  }
+ },
+ "cost": {
+  "image_gen_usd": 0
+ },
+ "timestamps": {
+  "discovered": "2026-09-27T16:19:15",
+  "filtered": "2026-09-27T16:19:36",
+  "qualified": "2026-09-27T16:21:28",
+  "collected": "2026-09-28T12:15:57",
+  "researched": "2026-09-28T12:27:37"
+ },
+ "qualify": {
+  "phones_in_ads": [
+   {
+    "number_e164": "+972542119121",
+    "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
+    "labelled_whatsapp": false
+   },
+   {
+    "number_e164": "+972542119121",
+    "source": "https://www.facebook.com/ads/library/?id=1879963676133790",
+    "labelled_whatsapp": false
+   }
+  ],
+  "missing": []
+ }
 }
