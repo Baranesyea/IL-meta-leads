@@ -402,3 +402,11 @@
 - 2026-09-28: every client page has a share button (Eran: owners forward the page to partners). Header ("שיתוף",
   icon only on phones) and under the WhatsApp button ("שתפו את העמוד עם השותפים"). Phones open the native share sheet;
   desktop gets WhatsApp / email / copy link. Shared text: "הדוח והמודעות החדשות שהוכנו עבור {name}". In `ClientPitch.jsx`.
+
+## WhatsApp link previews (2026-09-28)
+- The SPA serves the same index.html for every /p/<slug> (no og tags) and WhatsApp's crawler runs no JS, so /p/ links came up bare.
+- Base44 hosting serves static `.html` files from `public/` (not directory index.html). So each page gets a static twin:
+  `public/og/<slug>.jpg` (1200x630 screenshot of the live hero: our headline + business name) and
+  `public/s/<slug>.html` (og:title "הוכן במיוחד עבור <name>", og:description, og:image, then JS redirect to /p/<slug>).
+- **Send https://il-meta.base44.app/s/<slug>.html**, not /p/. The share button on client pages shares the /s/ link too.
+- For a new page: deploy the page, then `python -m src.og <slug>`, commit, sync (`data/deploy/og_sync.sh <hash> <slug>`), deploy again.

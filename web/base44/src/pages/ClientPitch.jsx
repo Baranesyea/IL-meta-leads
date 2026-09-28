@@ -502,10 +502,11 @@ const chunk = (xs, n) => Array.from({ length: Math.ceil(xs.length / n) }, (_, i)
 
 // Share the page: the phone's own share sheet when there is one; otherwise WhatsApp or copy the link.
 // Owners forward these pages to a partner or to whoever runs their marketing.
-function Share({ name, label = "שיתוף" }) {
+// The shared link is the page's static twin /s/<slug>.html (src/og.py): same page, but WhatsApp shows a preview card.
+function Share({ name, slug, label = "שיתוף" }) {
   const [menu, setMenu] = useState(false);
   const [done, setDone] = useState(false);
-  const url = typeof window !== "undefined" ? window.location.href.split("#")[0] : "";
+  const url = typeof window === "undefined" ? "" : slug ? `${window.location.origin}/s/${slug}.html` : window.location.href.split("#")[0];
   const text = `הדוח והמודעות החדשות שהוכנו עבור ${name}`;
   const copy = async () => {
     try { await navigator.clipboard.writeText(url); } catch {
@@ -601,7 +602,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
         </nav>
         <div className="mark">{b.wordmark}</div>
         <div className="end">
-          <Share name={b.name} />
+          <Share name={b.name} slug={slug} />
           <div className="tag">הוכן עבור {b.name}</div>
         </div>
       </header>
@@ -818,7 +819,7 @@ export default function ClientPitch({ slug: fixedSlug }) {
           {r.contact_url
             ? <a className="btn" href={r.contact_url} target="_blank" rel="noreferrer">{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</a>
             : <span className="btn" style={{ opacity: 0.5 }}>{r.cta?.button || "לשיחה קצרה בוואטסאפ"}</span>}
-          <div><Share name={b.name} label="שתפו את העמוד עם השותפים" /></div>
+          <div><Share name={b.name} slug={slug} label="שתפו את העמוד עם השותפים" /></div>
         </div>
       </section>
       <footer>הוכן במיוחד עבור {b.name}</footer>
