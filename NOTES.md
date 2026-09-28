@@ -410,3 +410,10 @@
   `public/s/<slug>.html` (og:title "הוכן במיוחד עבור <name>", og:description, og:image, then JS redirect to /p/<slug>).
 - **Send https://il-meta.base44.app/s/<slug>.html**, not /p/. The share button on client pages shares the /s/ link too.
 - For a new page: deploy the page, then `python -m src.og <slug>`, commit, sync (`data/deploy/og_sync.sh <hash> <slug>`), deploy again.
+
+## Itai Elbaz page (2026-09-28)
+- Lead 2026-09-27-342, clinic track (Chinese medicine, Karmiel). WhatsApp confirmed by Eran (profile "איתי אלבז ~ רפואה סינית").
+- Files: `data/itai_ads_2026-09-27-342.py` (plan), `data/itai_build.py`, `data/itai_site.py`, refs in `data/refs/itai/`.
+- Page: /p/itai-4b1e7c93, share link https://il-meta.base44.app/s/itai-4b1e7c93.html. CRM: page_ready with message2.
+- Ad Library returned one ad twice (second copy without media); the build drops duplicates.
+- New generic sync helper: `data/deploy/page_sync.sh <hash> <folder> <PageName> <files...>`.
