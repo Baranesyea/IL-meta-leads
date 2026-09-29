@@ -16,7 +16,7 @@ COPY = {
     "business": {"name": "מרכז רפאל", "wordmark": "מרכז רפאל", "site": "https://rephael.co.il/"},
     "address": "pl",
     "hero_theme": "light",
-    "hero_eyebrow": "שיטת רפאל · פריצות דיסק · גב וצוואר · כאבי ראש · רמת אביב",
+    "hero_eyebrow": "שיטת רפאל · פריצות דיסק · גב וצוואר · רמת אביב",
     "hero_title": ["קודם מבינים.", "אחר כך מטפלים."],
     "hero_cta": "מה היינו משנים בקמפיין שלכם",
     "hero_pos_m": "center bottom",

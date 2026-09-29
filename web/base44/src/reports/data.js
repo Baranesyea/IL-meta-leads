@@ -13771,7 +13771,7 @@ export const REPORTS = {
   },
   "address": "pl",
   "hero_theme": "light",
-  "hero_eyebrow": "שיטת רפאל · פריצות דיסק · גב וצוואר · כאבי ראש · רמת אביב",
+  "hero_eyebrow": "שיטת רפאל · פריצות דיסק · גב וצוואר · רמת אביב",
   "hero_title": [
    "קודם מבינים.",
    "אחר כך מטפלים."

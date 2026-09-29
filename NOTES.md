@@ -452,3 +452,10 @@
 - /crm: the sequence scheduler puts every slot inside the window (past the end of the day it jumps to the next allowed
   morning, skipping days that are off); a single scheduled message is moved the same way. A manual send (send now, chat
   reply) outside the window asks for confirmation; waApi refuses with `outside_hours` unless `force`.
+
+## Rephael Center page (2026-09-29)
+- Lead 2026-09-27-313, clinic track (מרכז רפאל, ברזאני 4 רמת אביב ג', שיטת רפאל, Dr. Rafi Perter). WhatsApp 054-619-7522 confirmed by Eran.
+- Files: `data/rephael_ads_2026-09-27-313.py`, `data/rephael_build.py`, `data/rephael_site.py`. No reference photos (their
+  frames are all talking-head videos); the clinic look is described in the prompt.
+- Page /p/rephael-6e2b90c4, share link https://il-meta.base44.app/s/rephael-6e2b90c4.html.
+- Higgsfield was slow that morning: 2 prompts refused by the filter (false positive, reworded), 5 stuck and resubmitted.
