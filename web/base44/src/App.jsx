@@ -47,6 +47,7 @@ import Kalahari from '@/pages/Kalahari';
 import AliKarim from '@/pages/AliKarim';
 import ItaiElbaz from '@/pages/ItaiElbaz';
 import GaliRipui from '@/pages/GaliRipui';
+import Rephael from '@/pages/Rephael';
 
 // Public site: a home page (content coming) + one standalone page per client at /p/<unguessable-slug>.
 // No menus, no lists: a client only ever sees their own page.
@@ -98,6 +99,7 @@ const AuthenticatedApp = () => {
       <Route path="/p/alikarim-5c8e2d71" element={<AliKarim />} />
       <Route path="/p/itai-4b1e7c93" element={<ItaiElbaz />} />
       <Route path="/p/gali-d71a3f58" element={<GaliRipui />} />
+      <Route path="/p/rephael-6e2b90c4" element={<Rephael />} />
       {/* CLIENT-ROUTES:END */}
       <Route path="/p/:slug" element={<ClientPitch />} />
       <Route path="*" element={<PageNotFound />} />
